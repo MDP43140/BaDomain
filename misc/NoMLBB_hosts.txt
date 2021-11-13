@@ -1,0 +1,16 @@
+127.0.0.1 akmcdn.ml.youngjoygame.com
+127.0.0.1 akmpicture.youngjoygame.com
+127.0.0.1 akmstatic.ml.youngjoygame.com
+127.0.0.1 akmweb.youngjoygame.com
+127.0.0.1 alxdlml.yuanzhanapp.com
+127.0.0.1 cycdn.ml.youngjoygame.com
+127.0.0.1 ip.ml.youngjoygame.com
+127.0.0.1 login.ml.youngjoygame.com
+127.0.0.1 m.mobilelegends.com
+127.0.0.1 mobilelegends.com
+127.0.0.1 moonton.com
+127.0.0.1 newlogin.ml.mlbangbang.com
+127.0.0.1 newlogin.ml.youngjoygame.com
+127.0.0.1 report.ml.youngjoygame.com
+127.0.0.1 wscdn.ml.youngjoygame.com
+127.0.0.1 youngjoygame.com
