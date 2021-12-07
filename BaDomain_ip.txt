@@ -2,9 +2,9 @@
 # Name: BaDomain IP
 # Desc: An "addon" to block even more bad IPs Addreses
 #       Will block malware domains, tracking domains, anything bad that can't be
-#       blocked from dns request by hosts file (includes MLBB, FF, TikTok, Facebook products...)
+#       blocked from dns request by hosts file (includes MLBB, FF, TikTok, Facebook products..., *indonesian* Gambling sites, which is notorious for using ip to evade Kominfo ban)
 #       i put it here just to simplify my workflow (especially in hosts conversion).
-# Version: 26.10.21
+# Version: 07.12.21
 # Update: 1 days
 #
 
@@ -20,6 +20,7 @@
 82.118.21.1
 85.93.88.165
 104.94.77.31
+128.199.102.136
 156.238.111.174
 162.244.80.235
 172.96.231.69
@@ -51,3 +52,30 @@
 205.251.198.38
 216.58.207.0
 224.0.0.0
+
+# gambling sites
+139.59.110.248
+139.162.13.187
+141.164.58.5
+101.99.90.173
+209.126.13.65
+95.111.197.237
+172.104.173.169
+172.104.189.238
+170.187.227.145
+139.162.12.228
+139.162.28.244
+103.57.191.158
+18.136.115.177
+13.250.159.90
+216.83.47.125
+162.213.253.73
+52.74.5.199
+134.209.161.149
+172.104.39.144
+128.199.109.16
+172.104.54.168
+139.162.9.183
+128.199.249.99
+3.0.11.134
+51.79.194.94
