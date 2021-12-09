@@ -3,6 +3,7 @@
 # Use this list to totally block access to
 # any bytedance products (including TikTok, CapCut, etc...) on your network.
 #
+
 127.0.0.1 0pbxmo-useast2a.xzcs3zlph.com
 127.0.0.1 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 127.0.0.1 0pbxmo.xzcs3zlph.com

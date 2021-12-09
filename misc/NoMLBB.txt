@@ -1,3 +1,4 @@
+
 169.254.0.0
 172.16.0.0
 192.0.0.0
@@ -13,6 +14,7 @@ akmstatic.ml.youngjoygame.com
 akmweb.youngjoygame.com
 alxdlml.yuanzhanapp.com
 cycdn.ml.youngjoygame.com
+face.yuanzhanapp.com
 ip.ml.youngjoygame.com
 login.ml.youngjoygame.com
 m.mobilelegends.com
@@ -23,4 +25,3 @@ newlogin.ml.youngjoygame.com
 report.ml.youngjoygame.com
 wscdn.ml.youngjoygame.com
 youngjoygame.com
-

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 01.12.21
+# Version: 09.12.21
 # Update: 1 days
 #
 
@@ -137,9 +137,6 @@
 127.0.0.1 airtable.com
 127.0.0.1 akadns.net
 127.0.0.1 aka-dsa.wesingapp.com
-127.0.0.1 akamaihd.net
-127.0.0.1 akamai.net
-127.0.0.1 akamaized.net
 127.0.0.1 aka.stream.kg.qq.com
 127.0.0.1 aka.tsmusic.kg.qq.com
 127.0.0.1 akimg.icocofun.com
@@ -377,7 +374,6 @@
 127.0.0.1 bighop.com
 127.0.0.1 bilikfilm.xyz
 127.0.0.1 billigrefinansiering.com
-127.0.0.1 bioumzfmlprqfy
 127.0.0.1 bizconfig.palmplaystore.com
 127.0.0.1 bizscene.palmplaystore.com
 127.0.0.1 black.riseup.net
@@ -386,6 +382,7 @@
 127.0.0.1 bluekai.com
 127.0.0.1 blyjh.com
 127.0.0.1 bofxxjgiejdp
+127.0.0.1 bombora.com
 127.0.0.1 box5757.temp.domains
 127.0.0.1 brainly.app.link
 127.0.0.1 braintreegateway.com
@@ -431,7 +428,6 @@
 127.0.0.1 cdnconfig.aihelp.net
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.foxpush.net
-127.0.0.1 cdngarenanow-a.akamaihd.net
 127.0.0.1 cdn-graphql-v4.kumparan.com
 127.0.0.1 cdnimage2.caping.co.id
 127.0.0.1 cdn.link4app.com
@@ -443,8 +439,8 @@
 127.0.0.1 cdn.rortoscdn.com
 127.0.0.1 cdn.shalltry.com
 127.0.0.1 cdn.slidesharecdn.com
-127.0.0.1 cdn.sstatic.net
 127.0.0.1 cdn.viber.com
+127.0.0.1 cdn.weglot.com
 127.0.0.1 cdn.wetest.qq.com
 127.0.0.1 cdnwidget.com
 127.0.0.1 cds-app.y5en.com
@@ -503,7 +499,6 @@
 127.0.0.1 consensu.org
 127.0.0.1 constellix.com
 127.0.0.1 content-fgw.zepeto.io
-127.0.0.1 content.garena.com
 127.0.0.1 contextads.live
 127.0.0.1 contextweb.com
 127.0.0.1 convertkit.com
@@ -665,7 +660,6 @@
 127.0.0.1 ezoic.net
 127.0.0.1 ezojs.com
 127.0.0.1 f001.backblazeb2.com
-127.0.0.1 face.yuanzhanapp.com
 127.0.0.1 fankui.help.sogou.com
 127.0.0.1 fans.sports.qq.com
 127.0.0.1 farsroid.com
@@ -1785,6 +1779,7 @@
 127.0.0.1 xvideos.com
 127.0.0.1 y5en.com
 127.0.0.1 yadro.ru
+127.0.0.1 yaka.stream.kg.qq.com
 127.0.0.1 yandex.com
 127.0.0.1 yandex.net
 127.0.0.1 yandex.ru

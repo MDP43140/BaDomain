@@ -1,9 +1,9 @@
+
 127.0.0.1 100067.connect.garena.com
 127.0.0.1 100067.msdk.garena.com
 127.0.0.1 castle.freefiremobile.com
 127.0.0.1 cdngarenanow-a.akamaihd.net
 127.0.0.1 client.common.freefiremobile.com
-127.0.0.1 ffguide.garena.com
 127.0.0.1 common.freefiremobile.com
 127.0.0.1 connect.garena.com
 127.0.0.1 connect.garenanow.com
@@ -17,6 +17,7 @@
 127.0.0.1 dl.dir.freefiremobile.com
 127.0.0.1 dl.gcp.freefiremobile.com
 127.0.0.1 event.freefiremobile.com
+127.0.0.1 ffguide.garena.com
 127.0.0.1 freefiremobile-a.akamaihd.net
 127.0.0.1 freefiremobile.com
 127.0.0.1 garena.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 07.12.2021
+# Version: 09.12.2021
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -11,6 +11,7 @@
 # - No MLBB
 # - No TikTok
 #
+
 
 127.0.0.1 0.news20.biz
 127.0.0.1 1111210941.rsc.cdn77.org
@@ -144,9 +145,6 @@
 127.0.0.1 airtable.com
 127.0.0.1 akadns.net
 127.0.0.1 aka-dsa.wesingapp.com
-127.0.0.1 akamaihd.net
-127.0.0.1 akamai.net
-127.0.0.1 akamaized.net
 127.0.0.1 aka.stream.kg.qq.com
 127.0.0.1 aka.tsmusic.kg.qq.com
 127.0.0.1 akimg.icocofun.com
@@ -384,7 +382,6 @@
 127.0.0.1 bighop.com
 127.0.0.1 bilikfilm.xyz
 127.0.0.1 billigrefinansiering.com
-127.0.0.1 bioumzfmlprqfy
 127.0.0.1 bizconfig.palmplaystore.com
 127.0.0.1 bizscene.palmplaystore.com
 127.0.0.1 black.riseup.net
@@ -393,6 +390,7 @@
 127.0.0.1 bluekai.com
 127.0.0.1 blyjh.com
 127.0.0.1 bofxxjgiejdp
+127.0.0.1 bombora.com
 127.0.0.1 box5757.temp.domains
 127.0.0.1 brainly.app.link
 127.0.0.1 braintreegateway.com
@@ -438,7 +436,6 @@
 127.0.0.1 cdnconfig.aihelp.net
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.foxpush.net
-127.0.0.1 cdngarenanow-a.akamaihd.net
 127.0.0.1 cdn-graphql-v4.kumparan.com
 127.0.0.1 cdnimage2.caping.co.id
 127.0.0.1 cdn.link4app.com
@@ -450,8 +447,8 @@
 127.0.0.1 cdn.rortoscdn.com
 127.0.0.1 cdn.shalltry.com
 127.0.0.1 cdn.slidesharecdn.com
-127.0.0.1 cdn.sstatic.net
 127.0.0.1 cdn.viber.com
+127.0.0.1 cdn.weglot.com
 127.0.0.1 cdn.wetest.qq.com
 127.0.0.1 cdnwidget.com
 127.0.0.1 cds-app.y5en.com
@@ -510,7 +507,6 @@
 127.0.0.1 consensu.org
 127.0.0.1 constellix.com
 127.0.0.1 content-fgw.zepeto.io
-127.0.0.1 content.garena.com
 127.0.0.1 contextads.live
 127.0.0.1 contextweb.com
 127.0.0.1 convertkit.com
@@ -672,7 +668,6 @@
 127.0.0.1 ezoic.net
 127.0.0.1 ezojs.com
 127.0.0.1 f001.backblazeb2.com
-127.0.0.1 face.yuanzhanapp.com
 127.0.0.1 fankui.help.sogou.com
 127.0.0.1 fans.sports.qq.com
 127.0.0.1 farsroid.com
@@ -1792,6 +1787,7 @@
 127.0.0.1 xvideos.com
 127.0.0.1 y5en.com
 127.0.0.1 yadro.ru
+127.0.0.1 yaka.stream.kg.qq.com
 127.0.0.1 yandex.com
 127.0.0.1 yandex.net
 127.0.0.1 yandex.ru
@@ -2433,7 +2429,6 @@
 127.0.0.1 graph.fbpigeon.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 graphql.instagram.com
-127.0.0.1 graph.whatsapp.net
 127.0.0.1 h-ct-m-fbx.fbsbx.com.online-metrix.net
 127.0.0.1 help.instagram.com
 127.0.0.1 herningrideklub.netscontent-a-ams.xx.fbcdn.net
@@ -2452,13 +2447,9 @@
 127.0.0.1 instagram.fcgk4-4.fna.fbcdn.net
 127.0.0.1 instagram.fcgk4-5.fna.fbcdn.net
 127.0.0.1 instagram.fcgk4-6.fna.fbcdn.net
-127.0.0.1 instagram.fcgk6-2.fna.fbcdn.net
 127.0.0.1 instagram.fhyd12-1.fna.fbcdn.net
 127.0.0.1 instagram.fkul14-1.fna.fbcdn.net
-127.0.0.1 instagram.fpen2-1.fna.fbcdn.net
 127.0.0.1 instagram.fpku1-1.fna.fbcdn.net
-127.0.0.1 instagram.fpku1-2.fna.fbcdn.net
-127.0.0.1 instagram.fpku1-3.fna.fbcdn.net
 127.0.0.1 instagram-shv-01-ams2.fbcdn.net
 127.0.0.1 instagram-shv-01-ams3.fbcdn.net
 127.0.0.1 instagram-shv-01-ash5.fbcdn.net
@@ -2641,7 +2632,6 @@
 127.0.0.1 scontent.fbdo6-3.fna.fbcdn.net
 127.0.0.1 scontent.fbth1-1.fna.fbcdn.net
 127.0.0.1 scontent.fbth3-1.fna.fbcdn.net
-127.0.0.1 scontent.fcgk24-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk3-2.fna.fbcdn.net
 127.0.0.1 scontent.fcgk35-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk4-4.fna.fbcdn.net
@@ -2673,7 +2663,6 @@
 127.0.0.1 scontent-mxp1-1.cdninstagram.com
 127.0.0.1 scontent-mxp1-1.xx.fbcdn.net
 127.0.0.1 scontent-mxp.xx.fbcdn.net
-127.0.0.1 scontent-nrt1-1.cdninstagram.com
 127.0.0.1 scontent-ord.xx.fbcdn.net
 127.0.0.1 scontent-sea.xx.fbcdn.net
 127.0.0.1 scontent-sin6-1.cdninstagram.com
@@ -2751,9 +2740,6 @@
 127.0.0.1 telegraph-ash.instagram.com
 127.0.0.1 tos-quic-gcpid.tiktokcdn.com
 127.0.0.1 video.cdninstagram.com
-127.0.0.1 video.fbdo6-2.fna.fbcdn.net
-127.0.0.1 video.fbdo6-3.fna.fbcdn.net
-127.0.0.1 video.fbth1-1.fna.fbcdn.net
 127.0.0.1 video.fbth3-1.fna.fbcdn.net
 127.0.0.1 video.fcgk30-1.fna.fbcdn.net
 127.0.0.1 video.fcgk3-1.fna.fbcdn.net
@@ -2788,9 +2774,6 @@
 127.0.0.1 whatsapp-cdn-shv-01-ord1.fbcdn.net
 127.0.0.1 whatsapp-cdn-shv-01-sea1.fbcdn.net
 127.0.0.1 whatsapp-cdn-shv-01-sjc2.fbcdn.net
-127.0.0.1 whatsapp-cdn-shv-02-sin6.fbcdn.net
-127.0.0.1 whatsapp-chatd-edge-shv-02-sin6.facebook.com
-127.0.0.1 whatsapp-chatd-edge-shv-03-sin6.facebook.com
 127.0.0.1 white.ish.instagram.com
 127.0.0.1 www.connect.facebook.net
 127.0.0.1 www.facebook.com
@@ -2890,21 +2873,13 @@
 127.0.0.1 sea.freefiremobile.com
 127.0.0.1 version.common.freefiremobile.com
 
-127.0.0.1 169.254.0.0
-127.0.0.1 172.16.0.0
-127.0.0.1 192.0.0.0
-127.0.0.1 192.0.2.0
-127.0.0.1 192.168.0.0
-127.0.0.1 198.18.0.0
-127.0.0.1 198.51.100.0
-127.0.0.1 203.0.113.0
-127.0.0.1 224.0.0.0
 127.0.0.1 akmcdn.ml.youngjoygame.com
 127.0.0.1 akmpicture.youngjoygame.com
 127.0.0.1 akmstatic.ml.youngjoygame.com
 127.0.0.1 akmweb.youngjoygame.com
 127.0.0.1 alxdlml.yuanzhanapp.com
 127.0.0.1 cycdn.ml.youngjoygame.com
+127.0.0.1 face.yuanzhanapp.com
 127.0.0.1 ip.ml.youngjoygame.com
 127.0.0.1 login.ml.youngjoygame.com
 127.0.0.1 m.mobilelegends.com
@@ -2912,9 +2887,7 @@
 127.0.0.1 moonton.com
 127.0.0.1 newlogin.ml.mlbangbang.com
 127.0.0.1 newlogin.ml.youngjoygame.com
-127.0.0.1 play.mobilelegends.com
 127.0.0.1 report.ml.youngjoygame.com
-127.0.0.1 sharepage.mobilelegends.com
 127.0.0.1 wscdn.ml.youngjoygame.com
 127.0.0.1 youngjoygame.com
 
@@ -3056,7 +3029,6 @@
 127.0.0.1 api15-core-useast2a.tiktokv.com
 127.0.0.1 api15-h2-eagle.tiktokv.com
 127.0.0.1 api15-h2.tiktokv.com
-127.0.0.1 api15-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api15-normal-useast2a.tiktokv.com
 127.0.0.1 api16-access-sg.pangle.io
 127.0.0.1 api16-core-c4-alisg.tiktokv.com
@@ -3094,7 +3066,6 @@
 127.0.0.1 api16-normal-ipv4.sgsnssdk.com
 127.0.0.1 api16-normal-ipv6.sgsnssdk.com
 127.0.0.1 api16-normal-i-sg.sgsnssdk.com
-127.0.0.1 api16-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api16-normal-v4.tiktokv.com
 127.0.0.1 api16-normal-v4.tiktokv.com.edgekey.net
 127.0.0.1 api16-normal-v6.tiktokv.com
@@ -3114,7 +3085,6 @@
 127.0.0.1 api19-normal-c-useast1a.tiktokv.com
 127.0.0.1 api19-normal-c-useast2a.musical.ly
 127.0.0.1 api19-normal-c-useast2a.tiktokv.com
-127.0.0.1 api19-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api19.tiktokv.com
 127.0.0.1 api19.toutiao50.com
 127.0.0.1 api19-va.tiktokv.com
@@ -3200,7 +3170,6 @@
 127.0.0.1 api22-normal-c-useast2a.musical.ly
 127.0.0.1 api22-normal-c-useast2a.tiktokv.com
 127.0.0.1 api22-normal-i-alisg.sgsnssdk.com
-127.0.0.1 api22-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api22-quic.sgsnssdk.com
 127.0.0.1 api22-quic.tiktokv.com
 127.0.0.1 api22-va.tiktokv.com
@@ -3236,7 +3205,6 @@
 127.0.0.1 api30-h2.tiktokv.com
 127.0.0.1 api30.tiktokv.com
 127.0.0.1 api31.bytegeo.akadns.net
-127.0.0.1 api31-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api31.tiktokv.com
 127.0.0.1 api32.tiktokv.com
 127.0.0.1 api39.zong.byteoversea.net
@@ -4325,9 +4293,7 @@
 127.0.0.1 log16-normal-c-useast1a.tiktokv.com.edgekey.net
 127.0.0.1 log16-normal-c-useast2a.tiktokv.com
 127.0.0.1 log16-normal-c-useast2a.tiktokv.com.edgekey.net
-127.0.0.1 log16-normal-useast2a.tiktokv.com
 127.0.0.1 log-16.toutiao50.com
-127.0.0.1 log17-normal-useast2a.tiktokv.com
 127.0.0.1 log22-normal-useast2a.tiktokv.com
 127.0.0.1 log2.musical.ly
 127.0.0.1 log2.musical.ly.edgesuite.net
@@ -4424,7 +4390,6 @@
 127.0.0.1 mobile.ttgw.tuchong-normal-lb-lf.l.bytedns.net
 127.0.0.1 mobile.x.l.bytedns.net
 127.0.0.1 mofxg.snssdk.com
-127.0.0.1 mon16-normal-c-useast1a.tiktokv.com
 127.0.0.1 mon-alias1.snssdk.com
 127.0.0.1 mon.byteoversea.com
 127.0.0.1 mon.byteoversea.com.edgesuite.net
@@ -5016,7 +4981,6 @@
 127.0.0.1 pull-cmaf-f16-tt01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-va01.ttlivecdn.com
-127.0.0.1 pull-cmaf-f58-sg01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f5-mus.pstatp.com
 127.0.0.1 pull-cmaf-f5.tiktokcdn.com
 127.0.0.1 pull-cmaf-f5.tiktokcdn.com.akamaized.net
@@ -5109,7 +5073,6 @@
 127.0.0.1 pull-hls-f1.tiktokcdn.com
 127.0.0.1 pull-hls-f1.tiktokcdn.com.wsdvs.com
 127.0.0.1 pull-hls-f1-va01.tiktokcdn.com
-127.0.0.1 pull-hls-f58-sg01.tiktokcdn.com
 127.0.0.1 pull-hls-f5-ab.tiktokcdn.com
 127.0.0.1 pull-hls-f5-ab.tiktokcdn.com.akamaized.net
 127.0.0.1 pull-hls-f5.tiktokcdn.com
@@ -5299,8 +5262,6 @@
 127.0.0.1 rtc-boe.byted.org
 127.0.0.1 rtc.bytedanceapi.com
 127.0.0.1 rtlog15-normal-useast2a.tiktokv.com
-127.0.0.1 rtlog16-normal-useast2a.tiktokv.com
-127.0.0.1 rtlog17-normal-useast2a.tiktokv.com
 127.0.0.1 rtlog22-normal-useast2a.tiktokv.com
 127.0.0.1 rtlog.byteoversea.com
 127.0.0.1 rtlog.isnssdk.com
@@ -5721,11 +5682,8 @@
 127.0.0.1 tnc16-useast1a.byteoversea.com
 127.0.0.1 tnc16-useast1a.tiktokv.com
 127.0.0.1 tnc31-platform-alisg.tiktokv.com
-127.0.0.1 tnc3-aliec2.bytedance.com
 127.0.0.1 tnc3-aliec2.snssdk.com
-127.0.0.1 tnc3-alisc1.bytedance.com
 127.0.0.1 tnc3-alisc1.snssdk.com
-127.0.0.1 tnc3-bjlgy.bytedance.com
 127.0.0.1 tnc3-bjlgy.snssdk.com
 127.0.0.1 tobapplog.ctobsnssdk.com
 127.0.0.1 tobapplog.snssdk.com

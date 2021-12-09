@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 01.12.21
+# Version: 09.12.21
 # Update: 1 days
 #
 
@@ -137,9 +137,6 @@ ai.iteldrive.com
 airtable.com
 akadns.net
 aka-dsa.wesingapp.com
-akamaihd.net
-akamai.net
-akamaized.net
 aka.stream.kg.qq.com
 aka.tsmusic.kg.qq.com
 akimg.icocofun.com
@@ -377,7 +374,6 @@ bigappboi.com
 bighop.com
 bilikfilm.xyz
 billigrefinansiering.com
-bioumzfmlprqfy
 bizconfig.palmplaystore.com
 bizscene.palmplaystore.com
 black.riseup.net
@@ -386,6 +382,7 @@ bluecava.com
 bluekai.com
 blyjh.com
 bofxxjgiejdp
+bombora.com
 box5757.temp.domains
 brainly.app.link
 braintreegateway.com
@@ -431,7 +428,6 @@ cdn-asset.zepeto.me
 cdnconfig.aihelp.net
 cdn.cookielaw.org
 cdn.foxpush.net
-cdngarenanow-a.akamaihd.net
 cdn-graphql-v4.kumparan.com
 cdnimage2.caping.co.id
 cdn.link4app.com
@@ -443,8 +439,8 @@ cdn.ravenjs.com
 cdn.rortoscdn.com
 cdn.shalltry.com
 cdn.slidesharecdn.com
-cdn.sstatic.net
 cdn.viber.com
+cdn.weglot.com
 cdn.wetest.qq.com
 cdnwidget.com
 cds-app.y5en.com
@@ -503,7 +499,6 @@ connect.rom.miui.com
 consensu.org
 constellix.com
 content-fgw.zepeto.io
-content.garena.com
 contextads.live
 contextweb.com
 convertkit.com
@@ -665,7 +660,6 @@ ezoiccdn.com
 ezoic.net
 ezojs.com
 f001.backblazeb2.com
-face.yuanzhanapp.com
 fankui.help.sogou.com
 fans.sports.qq.com
 farsroid.com
@@ -1785,6 +1779,7 @@ xvideos2.com
 xvideos.com
 y5en.com
 yadro.ru
+yaka.stream.kg.qq.com
 yandex.com
 yandex.net
 yandex.ru

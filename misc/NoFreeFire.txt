@@ -1,9 +1,9 @@
+
 100067.connect.garena.com
 100067.msdk.garena.com
 castle.freefiremobile.com
 cdngarenanow-a.akamaihd.net
 client.common.freefiremobile.com
-ffguide.garena.com
 common.freefiremobile.com
 connect.garena.com
 connect.garenanow.com
@@ -17,6 +17,7 @@ dl.ctlin.freefiremobile.com
 dl.dir.freefiremobile.com
 dl.gcp.freefiremobile.com
 event.freefiremobile.com
+ffguide.garena.com
 freefiremobile-a.akamaihd.net
 freefiremobile.com
 garena.com
@@ -31,4 +32,3 @@ poisontail.sea.freefiremobile.com
 sdk.garena.com
 sea.freefiremobile.com
 version.common.freefiremobile.com
-
