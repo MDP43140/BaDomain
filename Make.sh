@@ -96,7 +96,17 @@ for i in "$@";do
 			echo "Done!"
 		;;
 		build) # some easy script thing...
-			echo Renaming old hosts...
+			echo Warning: this will override old backups\! Renaming old hosts...
+			rm -f BaDomain_hosts.txt.old
+			rm -f misc/NoFB_hosts.txt.old
+			rm -f misc/NoFreeFire_hosts.txt.old
+			rm -f misc/NoMLBB_hosts.txt.old
+			rm -f misc/NoTikTok_hosts.txt.old
+			rm -f BaDomain.txt.old
+			rm -f misc/NoFB.txt.old
+			rm -f misc/NoFreeFire.txt.old
+			rm -f misc/NoMLBB.txt.old
+			rm -f misc/NoTikTok.txt.old
 			if [ -f BaDomain_hosts.txt ];then mv BaDomain_hosts.txt BaDomain_hosts.txt.old;fi
 			if [ -f misc/NoFB_hosts.txt ];then mv misc/NoFB_hosts.txt misc/NoFB_hosts.txt.old;fi
 			if [ -f misc/NoFreeFire_hosts.txt ];then mv misc/NoFreeFire_hosts.txt misc/NoFreeFire_hosts.txt.old;fi
