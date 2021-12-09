@@ -7,6 +7,6 @@ if [ -f $1.txt ] && [ ! -f $1.txt.old ];then
 	mv $1.tx{2,t}
 	echo "Done!"
 else
-	echo "$1.txt exist or $1.txt.old did not exist, the script wont continue for failsafe."
-	echo "to continue, make sure $1.txt exist or $1.txt.old removed/renamed to other names."
+	echo "$1.txt not exist or $1.txt.old exist, wont continue for failsafe"
+	echo "make sure $1.txt exist or $1.txt.old removed/renamed to other names"
 fi
