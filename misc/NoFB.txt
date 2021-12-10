@@ -609,6 +609,7 @@ graph.facebook.com
 graph.fbpigeon.com
 graph.instagram.com
 graphql.instagram.com
+graph.whatsapp.net
 h-ct-m-fbx.fbsbx.com.online-metrix.net
 help.instagram.com
 herningrideklub.netscontent-a-ams.xx.fbcdn.net
@@ -627,9 +628,13 @@ instagram.fcgk4-3.fna.fbcdn.net
 instagram.fcgk4-4.fna.fbcdn.net
 instagram.fcgk4-5.fna.fbcdn.net
 instagram.fcgk4-6.fna.fbcdn.net
+instagram.fcgk6-2.fna.fbcdn.net
 instagram.fhyd12-1.fna.fbcdn.net
 instagram.fkul14-1.fna.fbcdn.net
+instagram.fpen2-1.fna.fbcdn.net
 instagram.fpku1-1.fna.fbcdn.net
+instagram.fpku1-2.fna.fbcdn.net
+instagram.fpku1-3.fna.fbcdn.net
 instagram-shv-01-ams2.fbcdn.net
 instagram-shv-01-ams3.fbcdn.net
 instagram-shv-01-ash5.fbcdn.net
@@ -812,6 +817,7 @@ scontent.fbdo6-2.fna.fbcdn.net
 scontent.fbdo6-3.fna.fbcdn.net
 scontent.fbth1-1.fna.fbcdn.net
 scontent.fbth3-1.fna.fbcdn.net
+scontent.fcgk24-1.fna.fbcdn.net
 scontent.fcgk3-2.fna.fbcdn.net
 scontent.fcgk35-1.fna.fbcdn.net
 scontent.fcgk4-4.fna.fbcdn.net
@@ -843,6 +849,7 @@ scontent-mia.xx.fbcdn.net
 scontent-mxp1-1.cdninstagram.com
 scontent-mxp1-1.xx.fbcdn.net
 scontent-mxp.xx.fbcdn.net
+scontent-nrt1-1.cdninstagram.com
 scontent-ord.xx.fbcdn.net
 scontent-sea.xx.fbcdn.net
 scontent-sin6-1.cdninstagram.com
@@ -920,6 +927,9 @@ static.xx.fbcdn.net
 telegraph-ash.instagram.com
 tos-quic-gcpid.tiktokcdn.com
 video.cdninstagram.com
+video.fbdo6-2.fna.fbcdn.net
+video.fbdo6-3.fna.fbcdn.net
+video.fbth1-1.fna.fbcdn.net
 video.fbth3-1.fna.fbcdn.net
 video.fcgk30-1.fna.fbcdn.net
 video.fcgk3-1.fna.fbcdn.net
@@ -954,6 +964,8 @@ whatsapp-cdn-shv-01-mia1.fbcdn.net
 whatsapp-cdn-shv-01-ord1.fbcdn.net
 whatsapp-cdn-shv-01-sea1.fbcdn.net
 whatsapp-cdn-shv-01-sjc2.fbcdn.net
+whatsapp-chatd-edge-shv-02-sin6.facebook.com
+whatsapp-chatd-edge-shv-03-sin6.facebook.com
 white.ish.instagram.com
 www.connect.facebook.net
 www.facebook.com

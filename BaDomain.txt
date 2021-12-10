@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.12.21
+# Version: 11.12.21
 # Update: 1 days
 #
 
@@ -446,6 +446,7 @@ cdn-production-assets-kly.akamaized.net
 cdn.pushmart.net
 cdn.ravenjs.com
 cdn.rortoscdn.com
+cdn-sdk.aihelp.net
 cdn.shalltry.com
 cdn.slidesharecdn.com
 cdn-store-icons-akamai-prd.unityads.unity3d.com
@@ -1594,6 +1595,7 @@ tenor.com
 tentaculos.net
 teslacoilapps.com
 testapi.amap.com
+tex.z-dn.net
 thedogvisitor.com
 themarfa.name
 theme.shalltry.com
@@ -1772,26 +1774,53 @@ ww25.apkeditorfree.com
 www.12377.cn
 www.265.com
 www76.nathanaeldan.pro
+www.acckwmhi.com
 www.apkeditorfree.com
 www.baidu.com
 www.bing.com
 www.cdn.viber.com
+www.ckmvkzurnd.com
+www.codashop.com
+www.dob5.com
+www.duolaipk.com
+www.etsy.com
+www.glamour.com
 www.googleapis.cn
+www.google.cn
+www.hastopic.com
 www.iconsdb.com
+www.iqzgqivb.com
+www.jd.com
+www.letucook.com
 www.linkedin.com
 www.litatom.com
 www.maskolis.com
 www.meongers.com
+www.minonav.com
+www.minoplay.com
+www.minoregimen.com
+www.minozodiac.com
+www.nathanaeldan.pro
+www.pdfcylsmo.com
 www.pdl.id
 www.portals.mobi
+www.ralijqugghwqil.com
 www.servicewebly.com
+www.sixtest.com
 www.slideshare.net
+www.taobao.com
+www.tap.io
 www.toutiao.com
+www.unipin.com
 www.viber.com
 www.vidio.com
 www.voovlive.com
 www.wajibbaca.top
 www.wattpad.com
+www.wuueqejuratzdz.com
+www.xnxx.com
+www.xvideos2.com
+www.ykxipfcg.com
 x1.i.lencr.org
 x8sb.com
 x8speeder.com

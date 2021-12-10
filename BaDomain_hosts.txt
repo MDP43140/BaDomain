@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.12.21
+# Version: 11.12.21
 # Update: 1 days
 #
 
@@ -446,6 +446,7 @@
 127.0.0.1 cdn.pushmart.net
 127.0.0.1 cdn.ravenjs.com
 127.0.0.1 cdn.rortoscdn.com
+127.0.0.1 cdn-sdk.aihelp.net
 127.0.0.1 cdn.shalltry.com
 127.0.0.1 cdn.slidesharecdn.com
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
@@ -1594,6 +1595,7 @@
 127.0.0.1 tentaculos.net
 127.0.0.1 teslacoilapps.com
 127.0.0.1 testapi.amap.com
+127.0.0.1 tex.z-dn.net
 127.0.0.1 thedogvisitor.com
 127.0.0.1 themarfa.name
 127.0.0.1 theme.shalltry.com
@@ -1772,26 +1774,53 @@
 127.0.0.1 www.12377.cn
 127.0.0.1 www.265.com
 127.0.0.1 www76.nathanaeldan.pro
+127.0.0.1 www.acckwmhi.com
 127.0.0.1 www.apkeditorfree.com
 127.0.0.1 www.baidu.com
 127.0.0.1 www.bing.com
 127.0.0.1 www.cdn.viber.com
+127.0.0.1 www.ckmvkzurnd.com
+127.0.0.1 www.codashop.com
+127.0.0.1 www.dob5.com
+127.0.0.1 www.duolaipk.com
+127.0.0.1 www.etsy.com
+127.0.0.1 www.glamour.com
 127.0.0.1 www.googleapis.cn
+127.0.0.1 www.google.cn
+127.0.0.1 www.hastopic.com
 127.0.0.1 www.iconsdb.com
+127.0.0.1 www.iqzgqivb.com
+127.0.0.1 www.jd.com
+127.0.0.1 www.letucook.com
 127.0.0.1 www.linkedin.com
 127.0.0.1 www.litatom.com
 127.0.0.1 www.maskolis.com
 127.0.0.1 www.meongers.com
+127.0.0.1 www.minonav.com
+127.0.0.1 www.minoplay.com
+127.0.0.1 www.minoregimen.com
+127.0.0.1 www.minozodiac.com
+127.0.0.1 www.nathanaeldan.pro
+127.0.0.1 www.pdfcylsmo.com
 127.0.0.1 www.pdl.id
 127.0.0.1 www.portals.mobi
+127.0.0.1 www.ralijqugghwqil.com
 127.0.0.1 www.servicewebly.com
+127.0.0.1 www.sixtest.com
 127.0.0.1 www.slideshare.net
+127.0.0.1 www.taobao.com
+127.0.0.1 www.tap.io
 127.0.0.1 www.toutiao.com
+127.0.0.1 www.unipin.com
 127.0.0.1 www.viber.com
 127.0.0.1 www.vidio.com
 127.0.0.1 www.voovlive.com
 127.0.0.1 www.wajibbaca.top
 127.0.0.1 www.wattpad.com
+127.0.0.1 www.wuueqejuratzdz.com
+127.0.0.1 www.xnxx.com
+127.0.0.1 www.xvideos2.com
+127.0.0.1 www.ykxipfcg.com
 127.0.0.1 x1.i.lencr.org
 127.0.0.1 x8sb.com
 127.0.0.1 x8speeder.com

@@ -142,6 +142,7 @@
 127.0.0.1 api15-core-useast2a.tiktokv.com
 127.0.0.1 api15-h2-eagle.tiktokv.com
 127.0.0.1 api15-h2.tiktokv.com
+127.0.0.1 api15-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api15-normal-useast2a.tiktokv.com
 127.0.0.1 api16-access-sg.pangle.io
 127.0.0.1 api16-core-c4-alisg.tiktokv.com
@@ -179,6 +180,7 @@
 127.0.0.1 api16-normal-ipv4.sgsnssdk.com
 127.0.0.1 api16-normal-ipv6.sgsnssdk.com
 127.0.0.1 api16-normal-i-sg.sgsnssdk.com
+127.0.0.1 api16-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api16-normal-v4.tiktokv.com
 127.0.0.1 api16-normal-v4.tiktokv.com.edgekey.net
 127.0.0.1 api16-normal-v6.tiktokv.com
@@ -198,6 +200,7 @@
 127.0.0.1 api19-normal-c-useast1a.tiktokv.com
 127.0.0.1 api19-normal-c-useast2a.musical.ly
 127.0.0.1 api19-normal-c-useast2a.tiktokv.com
+127.0.0.1 api19-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api19.tiktokv.com
 127.0.0.1 api19.toutiao50.com
 127.0.0.1 api19-va.tiktokv.com
@@ -283,6 +286,7 @@
 127.0.0.1 api22-normal-c-useast2a.musical.ly
 127.0.0.1 api22-normal-c-useast2a.tiktokv.com
 127.0.0.1 api22-normal-i-alisg.sgsnssdk.com
+127.0.0.1 api22-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api22-quic.sgsnssdk.com
 127.0.0.1 api22-quic.tiktokv.com
 127.0.0.1 api22-va.tiktokv.com
@@ -318,6 +322,7 @@
 127.0.0.1 api30-h2.tiktokv.com
 127.0.0.1 api30.tiktokv.com
 127.0.0.1 api31.bytegeo.akadns.net
+127.0.0.1 api31-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api31.tiktokv.com
 127.0.0.1 api32.tiktokv.com
 127.0.0.1 api39.zong.byteoversea.net
@@ -1406,7 +1411,9 @@
 127.0.0.1 log16-normal-c-useast1a.tiktokv.com.edgekey.net
 127.0.0.1 log16-normal-c-useast2a.tiktokv.com
 127.0.0.1 log16-normal-c-useast2a.tiktokv.com.edgekey.net
+127.0.0.1 log16-normal-useast2a.tiktokv.com
 127.0.0.1 log-16.toutiao50.com
+127.0.0.1 log17-normal-useast2a.tiktokv.com
 127.0.0.1 log22-normal-useast2a.tiktokv.com
 127.0.0.1 log2.musical.ly
 127.0.0.1 log2.musical.ly.edgesuite.net
@@ -1503,6 +1510,7 @@
 127.0.0.1 mobile.ttgw.tuchong-normal-lb-lf.l.bytedns.net
 127.0.0.1 mobile.x.l.bytedns.net
 127.0.0.1 mofxg.snssdk.com
+127.0.0.1 mon16-normal-c-useast1a.tiktokv.com
 127.0.0.1 mon-alias1.snssdk.com
 127.0.0.1 mon.byteoversea.com
 127.0.0.1 mon.byteoversea.com.edgesuite.net
@@ -2094,6 +2102,7 @@
 127.0.0.1 pull-cmaf-f16-tt01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-va01.ttlivecdn.com
+127.0.0.1 pull-cmaf-f58-sg01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f5-mus.pstatp.com
 127.0.0.1 pull-cmaf-f5.tiktokcdn.com
 127.0.0.1 pull-cmaf-f5.tiktokcdn.com.akamaized.net
@@ -2186,6 +2195,7 @@
 127.0.0.1 pull-hls-f1.tiktokcdn.com
 127.0.0.1 pull-hls-f1.tiktokcdn.com.wsdvs.com
 127.0.0.1 pull-hls-f1-va01.tiktokcdn.com
+127.0.0.1 pull-hls-f58-sg01.tiktokcdn.com
 127.0.0.1 pull-hls-f5-ab.tiktokcdn.com
 127.0.0.1 pull-hls-f5-ab.tiktokcdn.com.akamaized.net
 127.0.0.1 pull-hls-f5.tiktokcdn.com
@@ -2375,6 +2385,8 @@
 127.0.0.1 rtc-boe.byted.org
 127.0.0.1 rtc.bytedanceapi.com
 127.0.0.1 rtlog15-normal-useast2a.tiktokv.com
+127.0.0.1 rtlog16-normal-useast2a.tiktokv.com
+127.0.0.1 rtlog17-normal-useast2a.tiktokv.com
 127.0.0.1 rtlog22-normal-useast2a.tiktokv.com
 127.0.0.1 rtlog.byteoversea.com
 127.0.0.1 rtlog.isnssdk.com
@@ -2795,8 +2807,11 @@
 127.0.0.1 tnc16-useast1a.byteoversea.com
 127.0.0.1 tnc16-useast1a.tiktokv.com
 127.0.0.1 tnc31-platform-alisg.tiktokv.com
+127.0.0.1 tnc3-aliec2.bytedance.com
 127.0.0.1 tnc3-aliec2.snssdk.com
+127.0.0.1 tnc3-alisc1.bytedance.com
 127.0.0.1 tnc3-alisc1.snssdk.com
+127.0.0.1 tnc3-bjlgy.bytedance.com
 127.0.0.1 tnc3-bjlgy.snssdk.com
 127.0.0.1 tobapplog.ctobsnssdk.com
 127.0.0.1 tobapplog.snssdk.com
@@ -3467,6 +3482,7 @@
 127.0.0.1 videoarch-lb-alisg.byteoversea.net
 127.0.0.1 videoarch-lb-maliva.byteoversea.net
 127.0.0.1 videoarch-useast-lb-useast2a.byteoversea.net
+127.0.0.1 videoclipf.apps.coloros.com
 127.0.0.1 video.h1.bytedance.map.fastly.net
 127.0.0.1 video-sg.musical.ly
 127.0.0.1 video-sg.tiktokv.com
