@@ -30,11 +30,14 @@
 127.0.0.1 55bie1v.50zo.com
 127.0.0.1 5hjdbfjfd5.monster
 127.0.0.1 64a9.playfabapi.com
+127.0.0.1 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 127.0.0.1 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 127.0.0.1 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 127.0.0.1 91busgame.com
 127.0.0.1 9C8B0AE1.dr.youme.im
 127.0.0.1 9C8B0AE1.rtc.youme.im
+127.0.0.1 a1377.w7.akamai.net
+127.0.0.1 a169.w7.akamai.net
 127.0.0.1 a1818.dscg2.akamai.net
 127.0.0.1 a1a4c40e556f413ef.awsglobalaccelerator.com
 127.0.0.1 a1-sgp.easemob.com
@@ -69,6 +72,7 @@
 127.0.0.1 adap.tv
 127.0.0.1 ada.support
 127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 adc-ad-assets.adtilt.com
 127.0.0.1 adcolony.com
 127.0.0.1 addthis.com
 127.0.0.1 addthisedge.com
@@ -404,6 +408,7 @@
 127.0.0.1 buysellads.com
 127.0.0.1 buysellads.net
 127.0.0.1 by3pcor001-com.be.1drv.com
+127.0.0.1 c4d-cdn.adcolony.com
 127.0.0.1 cabinet2-sea.taximaxim.com
 127.0.0.1 cachefly.net
 127.0.0.1 cadmoremedia.com
@@ -430,6 +435,7 @@
 127.0.0.1 cdn-asset.zepeto.me
 127.0.0.1 cdnconfig.aihelp.net
 127.0.0.1 cdn.cookielaw.org
+127.0.0.1 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 127.0.0.1 cdn.foxpush.net
 127.0.0.1 cdn-graphql-v4.kumparan.com
 127.0.0.1 cdnimage2.caping.co.id
@@ -442,6 +448,7 @@
 127.0.0.1 cdn.rortoscdn.com
 127.0.0.1 cdn.shalltry.com
 127.0.0.1 cdn.slidesharecdn.com
+127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
 127.0.0.1 cdn.viber.com
 127.0.0.1 cdn.weglot.com
 127.0.0.1 cdn.wetest.qq.com
@@ -466,6 +473,7 @@
 127.0.0.1 cl4.apple.com
 127.0.0.1 cleanmaster.club
 127.0.0.1 clickagy.com
+127.0.0.1 clientapi-sin.dtignite.com
 127.0.0.1 client-uc.heytapmobi.com
 127.0.0.1 cloudcf.like-it.video
 127.0.0.1 cloudctrl.gcloudsdk.com
@@ -478,6 +486,7 @@
 127.0.0.1 cnevids.com
 127.0.0.1 cn.pool.ntp.org
 127.0.0.1 codashop.com
+127.0.0.1 code.createjs.com
 127.0.0.1 codepush.appcenter.ms
 127.0.0.1 cognitivlabs.com
 127.0.0.1 collector.lunalabs.io
@@ -573,6 +582,8 @@
 127.0.0.1 dcintl2.push.oppomobile.com
 127.0.0.1 dcintl3.push.heytapmobile.com
 127.0.0.1 dcintl3.push.oppomobile.com
+127.0.0.1 dcintl.push.heytapmobile.com
+127.0.0.1 dcintl.push.oppomobile.com
 127.0.0.1 dcmdaa.y5en.com
 127.0.0.1 dcmdae.y5en.com
 127.0.0.1 dc.y5en.com
@@ -612,6 +623,7 @@
 127.0.0.1 dotomi.com
 127.0.0.1 doubleclick.net
 127.0.0.1 down.anticheatexpert.com
+127.0.0.1 download-sin.dtignite.com
 127.0.0.1 dragate-sg.dc.heytapmobi.com
 127.0.0.1 dragate-sg.dc.oppomobile.com
 127.0.0.1 driftt.com
@@ -1106,6 +1118,7 @@
 127.0.0.1 moatads.com
 127.0.0.1 mobilesearchers.com
 127.0.0.1 mobile.useinsider.com
+127.0.0.1 mobile.webvisor.com
 127.0.0.1 mobile.yandex.net
 127.0.0.1 mobredirect.net
 127.0.0.1 montok.wapsite.info
@@ -1313,6 +1326,7 @@
 127.0.0.1 public.shtranssion.com
 127.0.0.1 public.slidesharecdn.com
 127.0.0.1 public.transacme.com
+127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 publisher-event.unityads.unity3d.com
 127.0.0.1 pubmatic.com
 127.0.0.1 pubmine.com
@@ -1355,6 +1369,7 @@
 127.0.0.1 reson8.com
 127.0.0.1 resso.app
 127.0.0.1 resso.me
+127.0.0.1 restapi.amap.com
 127.0.0.1 res.toolmatrix.plus
 127.0.0.1 retargetly.com
 127.0.0.1 retcode.alicdn.com
@@ -1370,6 +1385,7 @@
 127.0.0.1 rkdms.com
 127.0.0.1 rlcdn.com
 127.0.0.1 robwu.nl
+127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 rpc.tapjoy.com
 127.0.0.1 rrx68giz-0cec0136a42983d8c64ba5f573b6f28e2494efd1-mob.d.aa.online-metrix.net
 127.0.0.1 rrx68giz-1d6236fce72318680d81d54de4d75f3f84979575-mob.d.aa.online-metrix.net
@@ -1489,6 +1505,7 @@
 127.0.0.1 sonobi.com
 127.0.0.1 sonora.id
 127.0.0.1 source.servicewebly.com
+127.0.0.1 sp-497f6f2f.honzik.avcdn.net
 127.0.0.1 space.toutiao.com
 127.0.0.1 specificclick.net
 127.0.0.1 specificmedia.com
@@ -1512,6 +1529,7 @@
 127.0.0.1 st001004gj.instabug.com
 127.0.0.1 stack-sonar.com
 127.0.0.1 stagepopkek.com
+127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 static-02.veve.com
 127.0.0.1 static0.cbrimages.com
@@ -1535,6 +1553,7 @@
 127.0.0.1 storedl3f.nearme.com.cn
 127.0.0.1 storeimg.heytapimg.com
 127.0.0.1 streamback.ff.avast.com
+127.0.0.1 stun.ekiga.net
 127.0.0.1 sub2unlock.com
 127.0.0.1 subscribers.com
 127.0.0.1 subscription.omnithrottle.com
@@ -1555,6 +1574,7 @@
 127.0.0.1 swpsvc.com
 127.0.0.1 system1.com
 127.0.0.1 t14.market.mi-img.com
+127.0.0.1 t2.chartboost.com
 127.0.0.1 t7.a.market.xiaomi.com
 127.0.0.1 taboola.com
 127.0.0.1 taichi.y5en.com
@@ -1653,12 +1673,14 @@
 127.0.0.1 us.galleryapi.micloud.xiaomi.net
 127.0.0.1 usicdn.com
 127.0.0.1 us.statusapi.micloud.xiaomi.net
+127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 us.ynuf.aliapp.org
 127.0.0.1 v16.resso.app
 127.0.0.1 v16.resso.me
 127.0.0.1 vagenor.space
 127.0.0.1 vas.samsungapps.com
 127.0.0.1 vast.vokepedia.com
+127.0.0.1 vasundharaapps.com
 127.0.0.1 vaw.fyi
 127.0.0.1 vbw.vivoglobal.com
 127.0.0.1 vercel-analytics.com
@@ -1692,6 +1714,7 @@
 127.0.0.1 vs-api.wshareit.com
 127.0.0.1 v.sogou.com
 127.0.0.1 vuclipi-a.akamaihd.net
+127.0.0.1 vungle2-cdn-prod.s3.amazonaws.com
 127.0.0.1 vungle.com
 127.0.0.1 w55c.net
 127.0.0.1 wa.co
@@ -1717,6 +1740,7 @@
 127.0.0.1 webstore.ucweb.com
 127.0.0.1 web.toutiao.com
 127.0.0.1 webview.unityads.unity3d.com
+127.0.0.1 webvisor.com
 127.0.0.1 weglot.com
 127.0.0.1 weixin.sogou.com
 127.0.0.1 wenwen.sogou.com
@@ -1818,6 +1842,7 @@
 127.0.0.1 ziffdavis.com
 127.0.0.1 ziffstatic.com
 127.0.0.1 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
+127.0.0.1 z.moatads.com
 127.0.0.1 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
 127.0.0.1 zqtk.net
 127.0.0.1 zres.alicdn.com1111210941.rsc.cdn77.org

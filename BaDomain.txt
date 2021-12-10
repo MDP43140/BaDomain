@@ -30,11 +30,14 @@
 55bie1v.50zo.com
 5hjdbfjfd5.monster
 64a9.playfabapi.com
+783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 91busgame.com
 9C8B0AE1.dr.youme.im
 9C8B0AE1.rtc.youme.im
+a1377.w7.akamai.net
+a169.w7.akamai.net
 a1818.dscg2.akamai.net
 a1a4c40e556f413ef.awsglobalaccelerator.com
 a1-sgp.easemob.com
@@ -69,6 +72,7 @@ adadvisor.net
 adap.tv
 ada.support
 adc3-launch.adcolony.com
+adc-ad-assets.adtilt.com
 adcolony.com
 addthis.com
 addthisedge.com
@@ -404,6 +408,7 @@ buildit-api.zepeto.me
 buysellads.com
 buysellads.net
 by3pcor001-com.be.1drv.com
+c4d-cdn.adcolony.com
 cabinet2-sea.taximaxim.com
 cachefly.net
 cadmoremedia.com
@@ -430,6 +435,7 @@ cdn.alsgp0.fds.api.mi-img.com
 cdn-asset.zepeto.me
 cdnconfig.aihelp.net
 cdn.cookielaw.org
+cdn-creatives-akamaistls-prd.unityads.unity3d.com
 cdn.foxpush.net
 cdn-graphql-v4.kumparan.com
 cdnimage2.caping.co.id
@@ -442,6 +448,7 @@ cdn.ravenjs.com
 cdn.rortoscdn.com
 cdn.shalltry.com
 cdn.slidesharecdn.com
+cdn-store-icons-akamai-prd.unityads.unity3d.com
 cdn.viber.com
 cdn.weglot.com
 cdn.wetest.qq.com
@@ -466,6 +473,7 @@ ckmvkzurnd.com
 cl4.apple.com
 cleanmaster.club
 clickagy.com
+clientapi-sin.dtignite.com
 client-uc.heytapmobi.com
 cloudcf.like-it.video
 cloudctrl.gcloudsdk.com
@@ -478,6 +486,7 @@ cmh01.justin.tv
 cnevids.com
 cn.pool.ntp.org
 codashop.com
+code.createjs.com
 codepush.appcenter.ms
 cognitivlabs.com
 collector.lunalabs.io
@@ -573,6 +582,8 @@ dcintl2.push.heytapmobile.com
 dcintl2.push.oppomobile.com
 dcintl3.push.heytapmobile.com
 dcintl3.push.oppomobile.com
+dcintl.push.heytapmobile.com
+dcintl.push.oppomobile.com
 dcmdaa.y5en.com
 dcmdae.y5en.com
 dc.y5en.com
@@ -612,6 +623,7 @@ dot.iq.com
 dotomi.com
 doubleclick.net
 down.anticheatexpert.com
+download-sin.dtignite.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 driftt.com
@@ -1106,6 +1118,7 @@ mmtro.com
 moatads.com
 mobilesearchers.com
 mobile.useinsider.com
+mobile.webvisor.com
 mobile.yandex.net
 mobredirect.net
 montok.wapsite.info
@@ -1313,6 +1326,7 @@ public1.114dns.com
 public.shtranssion.com
 public.slidesharecdn.com
 public.transacme.com
+publisher-config.unityads.unity3d.com
 publisher-event.unityads.unity3d.com
 pubmatic.com
 pubmine.com
@@ -1355,6 +1369,7 @@ resolver.msg.global.xiaomi.net
 reson8.com
 resso.app
 resso.me
+restapi.amap.com
 res.toolmatrix.plus
 retargetly.com
 retcode.alicdn.com
@@ -1370,6 +1385,7 @@ riseup.net
 rkdms.com
 rlcdn.com
 robwu.nl
+rosenberg.appmetrica.yandex.net
 rpc.tapjoy.com
 rrx68giz-0cec0136a42983d8c64ba5f573b6f28e2494efd1-mob.d.aa.online-metrix.net
 rrx68giz-1d6236fce72318680d81d54de4d75f3f84979575-mob.d.aa.online-metrix.net
@@ -1489,6 +1505,7 @@ sojern.com
 sonobi.com
 sonora.id
 source.servicewebly.com
+sp-497f6f2f.honzik.avcdn.net
 space.toutiao.com
 specificclick.net
 specificmedia.com
@@ -1512,6 +1529,7 @@ st001004gj-apm.instabug.com
 st001004gj.instabug.com
 stack-sonar.com
 stagepopkek.com
+startup.mobile.webvisor.com
 startup.mobile.yandex.net
 static-02.veve.com
 static0.cbrimages.com
@@ -1535,6 +1553,7 @@ st.like-it.video
 storedl3f.nearme.com.cn
 storeimg.heytapimg.com
 streamback.ff.avast.com
+stun.ekiga.net
 sub2unlock.com
 subscribers.com
 subscription.omnithrottle.com
@@ -1555,6 +1574,7 @@ s.w.org
 swpsvc.com
 system1.com
 t14.market.mi-img.com
+t2.chartboost.com
 t7.a.market.xiaomi.com
 taboola.com
 taichi.y5en.com
@@ -1653,12 +1673,14 @@ us.find.api.micloud.xiaomi.net
 us.galleryapi.micloud.xiaomi.net
 usicdn.com
 us.statusapi.micloud.xiaomi.net
+u.startup.mobile.webvisor.com
 us.ynuf.aliapp.org
 v16.resso.app
 v16.resso.me
 vagenor.space
 vas.samsungapps.com
 vast.vokepedia.com
+vasundharaapps.com
 vaw.fyi
 vbw.vivoglobal.com
 vercel-analytics.com
@@ -1692,6 +1714,7 @@ vs-api.like-it.video
 vs-api.wshareit.com
 v.sogou.com
 vuclipi-a.akamaihd.net
+vungle2-cdn-prod.s3.amazonaws.com
 vungle.com
 w55c.net
 wa.co
@@ -1717,6 +1740,7 @@ weborama.com
 webstore.ucweb.com
 web.toutiao.com
 webview.unityads.unity3d.com
+webvisor.com
 weglot.com
 weixin.sogou.com
 wenwen.sogou.com
@@ -1818,6 +1842,7 @@ zhihu.sogou.com
 ziffdavis.com
 ziffstatic.com
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
+z.moatads.com
 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
 zqtk.net
 zres.alicdn.com1111210941.rsc.cdn77.org
