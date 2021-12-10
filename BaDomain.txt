@@ -68,6 +68,7 @@ ada.cx
 adadvisor.net
 adap.tv
 ada.support
+adc3-launch.adcolony.com
 adcolony.com
 addthis.com
 addthisedge.com
@@ -93,6 +94,7 @@ ads30.adcolony.com
 ads.adcolony.com
 ads.adpub.co
 adsafeprotected.com
+ads.api.vungle.com
 ads.baca.co.id
 adsensecamp.com
 adservice.google.co.id
@@ -252,6 +254,7 @@ apitm.toolmatrix.plus
 api.tratao.com
 api.twibida.com
 api-us.bidmachine.io
+api.vungle.com
 api.wattpad.com
 api.weathercn.com
 api.wifimap.io
@@ -486,6 +489,7 @@ confection.io
 confection-status.netlify.app
 config.edge.skype.com
 config.e-droid.net
+config.unityads.unity3d.com
 configuration.ls.apple.com
 config.y5en.com
 confirmation.gameloft.com
@@ -496,6 +500,7 @@ conn2.oppomobile.com
 connectivitycheck.cbg-app.huawei.com
 connect-milink.g.mi.com
 connect.rom.miui.com
+connect.tapjoy.com
 consensu.org
 constellix.com
 content-fgw.zepeto.io
@@ -538,8 +543,10 @@ d1zkz3k4cclnv6.cloudfront.net
 d24zn61bgpeyxm.cloudfront.net
 d25l8ybundaqcq.cloudfront.net
 d26xw8rp6mlgfg.cloudfront.net
+d2fy2et424xkoh.cloudfront.net
 d2nxq2uap88usk.cloudfront.net
 d2vfrgfizy4t0y.cloudfront.net
+d2war7j3gfrrus.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d34chcsvb7ug62.cloudfront.net
 d3hegev0j37foa.cloudfront.net
@@ -548,6 +555,7 @@ dac.contextads.live
 dailymotion.com
 d.alicdn.com
 dance4.xyz
+d.applovin.com
 data.appsinnova.com
 datadoghq.com
 datadome.co
@@ -589,6 +597,7 @@ d.infeed.id
 dls.di.atlas.samsung.com
 dlvr.it
 dmcdn.net
+dm.samsungdive.com
 dn.im-gb.com
 dns11.quad9.net
 dns.oppomobile.com
@@ -1283,6 +1292,7 @@ prd.ags.akadns.net
 pressablecdn.com
 preview-kly.akamaized.net
 primis.tech
+privacy-policy.truste.com
 privatematchfz.com
 pro-a-seracc-cdn.im-gb.com
 pro-a-user-avatar-cdn.im-gb.com
@@ -1360,6 +1370,7 @@ riseup.net
 rkdms.com
 rlcdn.com
 robwu.nl
+rpc.tapjoy.com
 rrx68giz-0cec0136a42983d8c64ba5f573b6f28e2494efd1-mob.d.aa.online-metrix.net
 rrx68giz-1d6236fce72318680d81d54de4d75f3f84979575-mob.d.aa.online-metrix.net
 rrx68giz-21ad4dfb31df70a6bb8a7220080e329c10476678-mob.d.aa.online-metrix.net
@@ -1705,6 +1716,7 @@ web.like-it.video
 weborama.com
 webstore.ucweb.com
 web.toutiao.com
+webview.unityads.unity3d.com
 weglot.com
 weixin.sogou.com
 wenwen.sogou.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.12.2021
+# Version: 11.12.2021
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -76,6 +76,7 @@
 127.0.0.1 adadvisor.net
 127.0.0.1 adap.tv
 127.0.0.1 ada.support
+127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 adcolony.com
 127.0.0.1 addthis.com
 127.0.0.1 addthisedge.com
@@ -101,6 +102,7 @@
 127.0.0.1 ads.adcolony.com
 127.0.0.1 ads.adpub.co
 127.0.0.1 adsafeprotected.com
+127.0.0.1 ads.api.vungle.com
 127.0.0.1 ads.baca.co.id
 127.0.0.1 adsensecamp.com
 127.0.0.1 adservice.google.co.id
@@ -260,6 +262,7 @@
 127.0.0.1 api.tratao.com
 127.0.0.1 api.twibida.com
 127.0.0.1 api-us.bidmachine.io
+127.0.0.1 api.vungle.com
 127.0.0.1 api.wattpad.com
 127.0.0.1 api.weathercn.com
 127.0.0.1 api.wifimap.io
@@ -494,6 +497,7 @@
 127.0.0.1 confection-status.netlify.app
 127.0.0.1 config.edge.skype.com
 127.0.0.1 config.e-droid.net
+127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configuration.ls.apple.com
 127.0.0.1 config.y5en.com
 127.0.0.1 confirmation.gameloft.com
@@ -504,6 +508,7 @@
 127.0.0.1 connectivitycheck.cbg-app.huawei.com
 127.0.0.1 connect-milink.g.mi.com
 127.0.0.1 connect.rom.miui.com
+127.0.0.1 connect.tapjoy.com
 127.0.0.1 consensu.org
 127.0.0.1 constellix.com
 127.0.0.1 content-fgw.zepeto.io
@@ -546,8 +551,10 @@
 127.0.0.1 d24zn61bgpeyxm.cloudfront.net
 127.0.0.1 d25l8ybundaqcq.cloudfront.net
 127.0.0.1 d26xw8rp6mlgfg.cloudfront.net
+127.0.0.1 d2fy2et424xkoh.cloudfront.net
 127.0.0.1 d2nxq2uap88usk.cloudfront.net
 127.0.0.1 d2vfrgfizy4t0y.cloudfront.net
+127.0.0.1 d2war7j3gfrrus.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d34chcsvb7ug62.cloudfront.net
 127.0.0.1 d3hegev0j37foa.cloudfront.net
@@ -556,6 +563,7 @@
 127.0.0.1 dailymotion.com
 127.0.0.1 d.alicdn.com
 127.0.0.1 dance4.xyz
+127.0.0.1 d.applovin.com
 127.0.0.1 data.appsinnova.com
 127.0.0.1 datadoghq.com
 127.0.0.1 datadome.co
@@ -597,6 +605,7 @@
 127.0.0.1 dls.di.atlas.samsung.com
 127.0.0.1 dlvr.it
 127.0.0.1 dmcdn.net
+127.0.0.1 dm.samsungdive.com
 127.0.0.1 dn.im-gb.com
 127.0.0.1 dns11.quad9.net
 127.0.0.1 dns.oppomobile.com
@@ -1291,6 +1300,7 @@
 127.0.0.1 pressablecdn.com
 127.0.0.1 preview-kly.akamaized.net
 127.0.0.1 primis.tech
+127.0.0.1 privacy-policy.truste.com
 127.0.0.1 privatematchfz.com
 127.0.0.1 pro-a-seracc-cdn.im-gb.com
 127.0.0.1 pro-a-user-avatar-cdn.im-gb.com
@@ -1368,6 +1378,7 @@
 127.0.0.1 rkdms.com
 127.0.0.1 rlcdn.com
 127.0.0.1 robwu.nl
+127.0.0.1 rpc.tapjoy.com
 127.0.0.1 rrx68giz-0cec0136a42983d8c64ba5f573b6f28e2494efd1-mob.d.aa.online-metrix.net
 127.0.0.1 rrx68giz-1d6236fce72318680d81d54de4d75f3f84979575-mob.d.aa.online-metrix.net
 127.0.0.1 rrx68giz-21ad4dfb31df70a6bb8a7220080e329c10476678-mob.d.aa.online-metrix.net
@@ -1713,6 +1724,7 @@
 127.0.0.1 weborama.com
 127.0.0.1 webstore.ucweb.com
 127.0.0.1 web.toutiao.com
+127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 weglot.com
 127.0.0.1 weixin.sogou.com
 127.0.0.1 wenwen.sogou.com
