@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 11.12.21
+# Version: 12.12.2021
 # Update: 1 days
 #
 
@@ -366,7 +366,6 @@
 127.0.0.1 barrons.com
 127.0.0.1 basket2.xyz
 127.0.0.1 bc0a.com
-127.0.0.1 b-cdn.net
 127.0.0.1 bdapi-id.ads.heytapmobile.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons.gvt2.com
@@ -724,7 +723,6 @@
 127.0.0.1 g.alicdn.com
 127.0.0.1 gamea.clashofclans.com
 127.0.0.1 gamecfg-mob.ubi.com
-127.0.0.1 gameguardian.net
 127.0.0.1 gameimg.heytapimg.com
 127.0.0.1 gameloft.com
 127.0.0.1 gameportal.casa

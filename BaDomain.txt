@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 11.12.21
+# Version: 12.12.2021
 # Update: 1 days
 #
 
@@ -366,7 +366,6 @@ bannersnack.com
 barrons.com
 basket2.xyz
 bc0a.com
-b-cdn.net
 bdapi-id.ads.heytapmobile.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
@@ -724,7 +723,6 @@ fwmrm.net
 g.alicdn.com
 gamea.clashofclans.com
 gamecfg-mob.ubi.com
-gameguardian.net
 gameimg.heytapimg.com
 gameloft.com
 gameportal.casa
