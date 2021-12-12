@@ -1,6 +1,6 @@
 if [ -f $1.txt ] && [ ! -f $1.txt.old ];then
 	echo "Appending all comments to $1.tx2 before continuing..."
-	cat $1.txt | grep "^ *#" > $1.tx2
+	cat $1.txt | grep "^ *#" | sed -r 's/^ *# Version: [0-9]{2}\.[0-9]{2}\.[0-9]{2,4}/# Version: '$(date +%d.%m.%Y)'/i' > $1.tx2
 	echo "Removing dupes..."
 	sort -u $1.txt | sed '/^#/d' >> $1.tx2
 	mv $1.txt{,.old}
