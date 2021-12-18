@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.12.2021
+# Version: 18.12.2021
 # Update: 1 days
 #
 
@@ -177,6 +177,7 @@ anchor.fm
 android.pa1mstore.com
 android.palmplaystore.com
 android.palmst0re.com
+anime-pictures.net
 anon.wapsite.info
 anticheatexpert.com
 anyclip.com
@@ -254,6 +255,7 @@ api-snake.oppomobile.com
 api.snake.oppomobile.com
 apissug-sf.ucweb.com
 api.teslacoilapps.com
+api.themoviedb.org
 apitm.toolmatrix.plus
 api.tratao.com
 api.twibida.com
@@ -335,6 +337,7 @@ asia-weather.vivoglobal.com
 asia-wifi.vivoglobal.com
 askmen.com
 assets.alicdn.com
+assets.applovin.com
 assets-share.dspunion.com
 assets.tower.sybo.net
 assets.ubembed.com
@@ -548,6 +551,7 @@ c.y5en.com
 d178bchpnfmat.cloudfront.net
 d18c2vb2nmzsjs.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
+d1zcggttmijv1z.cloudfront.net
 d1zkz3k4cclnv6.cloudfront.net
 d24zn61bgpeyxm.cloudfront.net
 d25l8ybundaqcq.cloudfront.net
@@ -557,6 +561,7 @@ d2nxq2uap88usk.cloudfront.net
 d2vfrgfizy4t0y.cloudfront.net
 d2war7j3gfrrus.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
+d33wubrfki0l68.cloudfront.net
 d34chcsvb7ug62.cloudfront.net
 d3hegev0j37foa.cloudfront.net
 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
@@ -907,9 +912,12 @@ igofun.mobi
 igslb.cdo.oppomobile.com
 i.lencr.org
 ilockcardf.apps.coloros.com
+images.anime-pictures.net
 images.idtopnews.com
 image.slidesharecdn.com
 images.sc-cdn.net
+image.tmdb.org
+imdb.com
 img.alicdn.com
 img-hw.xnxx-cdn.com
 img-hw.xvideos-cdn.com
@@ -981,6 +989,7 @@ i.vimeocdn.com
 iweather.oppomobile.com
 ixiaochuan.cn
 ixigua.com
+izatcloud.net
 jd.com
 jetengine.it
 jixie.io
@@ -1016,6 +1025,8 @@ languagef.coloros.com
 lapaksebelahh.com
 la-ucc-upaas.ucweb.com
 laucenter.ucweb.com
+layarindo21.pw
+layarkaca21.vip
 laz-dorangesource.alicdn.com
 laz-g-cdn.alicdn.com
 laz-img-cdn.alicdn.com
@@ -1078,6 +1089,7 @@ mdp-appconf-id.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
 media6degrees.com
+media-amazon.com
 media-contentful.zepeto.io
 mediaforge.com
 mediaiqdigital.com
@@ -1120,6 +1132,7 @@ mobile.useinsider.com
 mobile.webvisor.com
 mobile.yandex.net
 mobredirect.net
+moengage.com
 montok.wapsite.info
 mookie1.com
 mopinion.com
@@ -1145,6 +1158,7 @@ m.toutiaocdn.com
 m.toutiao.com
 mup.amp.mcafee.com
 mu.se
+mutinycdn.com
 mv.lunalabs.io
 mv-playground.lunalabs.uk
 mxpnl.com
@@ -1275,6 +1289,7 @@ pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
 pedulilindungi.com
 permutive.app
 persona.franchise.minecraft-services.net
+pglstatp.com
 pic.sogou.com
 pingdom.net
 ping.huatuo.qq.com
@@ -1304,6 +1319,7 @@ prd.ags.akadns.net
 pressablecdn.com
 preview-kly.akamaized.net
 primis.tech
+prismic.io
 privacy-policy.truste.com
 privatematchfz.com
 pro-a-seracc-cdn.im-gb.com
@@ -1366,6 +1382,7 @@ res-global-sg-master.sausage.xd.com
 res-global-sg-slave.sausage.xd.com
 resolver.msg.global.xiaomi.net
 reson8.com
+resources.digital-cloud-sin1.medallia.com
 resso.app
 resso.me
 restapi.amap.com
@@ -1421,8 +1438,11 @@ s3.pstatp.com
 s3-v2.cdngtc.com
 s4.pstatp.com
 s5.pstatp.com
+s6.layarkaca21.vip
 s6.pstatp.com
 samba.tv
+samsappsbn.vo.llnwd.net
+samsung-callerprofile.edge.hiyaapi.com
 samsung-gamelauncher.com
 sapi.taptap.com
 saserver.search.oppomobile.com
@@ -1436,6 +1456,7 @@ schemas.casa
 scholar.sogou.com
 scorecardresearch.com
 scroll.com
+sdk-01.moengage.com
 sdk-android.ad.smaato.net
 sdkapi.wifimap.io
 sdk.pushmessage.samsung.com
@@ -1451,6 +1472,7 @@ sentry.prod.mozaws.net
 servedby-buysellads.com
 serving-sys.com
 settings.picsart.com
+sf19-fe-tos-sg.pglstatp.com
 sfdict.com
 sf.ezoiccdn.com
 sf.napi.ucweb.com
@@ -1520,6 +1542,7 @@ srv-mobile-version-validator.services.z-dn.net
 srv-ocr-api-logged.z-dn.net
 srv-si-photo-upload.z-dn.net
 ssacdn.com
+ssl-images-amazon.com
 ss.litatom.com
 ssp-39f58.trnox.com
 ssp-3-9f58.trnox.com
@@ -1598,17 +1621,21 @@ thedogvisitor.com
 themarfa.name
 theme.shalltry.com
 theme.zdassets.com
+themoviedb.org
 thesaurus.com
 thinksuggest.org
 threadloom.com
 thrtle.com
 thunderxnew.site
 time.gpsonextra.net
+time.izatcloud.net
+time.xtracloud.net
 tiqcdn.com
 tirto.id
 tm.ak.prd.aadg.akadns.net
 tm.ak.prd.aadg.trafficmanager.net
 tm.a.prd.aadg.trafficmanager.net
+tmdb.org
 tm.prd.ags.akadns.net
 tms-api.shalltry.com
 tnc31-normal-alisg.isnssdk.com

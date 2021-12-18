@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.12.2021
+# Version: 18.12.2021
 # Update: 1 days
 #
 
@@ -177,6 +177,7 @@
 127.0.0.1 android.pa1mstore.com
 127.0.0.1 android.palmplaystore.com
 127.0.0.1 android.palmst0re.com
+127.0.0.1 anime-pictures.net
 127.0.0.1 anon.wapsite.info
 127.0.0.1 anticheatexpert.com
 127.0.0.1 anyclip.com
@@ -254,6 +255,7 @@
 127.0.0.1 api.snake.oppomobile.com
 127.0.0.1 apissug-sf.ucweb.com
 127.0.0.1 api.teslacoilapps.com
+127.0.0.1 api.themoviedb.org
 127.0.0.1 apitm.toolmatrix.plus
 127.0.0.1 api.tratao.com
 127.0.0.1 api.twibida.com
@@ -335,6 +337,7 @@
 127.0.0.1 asia-wifi.vivoglobal.com
 127.0.0.1 askmen.com
 127.0.0.1 assets.alicdn.com
+127.0.0.1 assets.applovin.com
 127.0.0.1 assets-share.dspunion.com
 127.0.0.1 assets.tower.sybo.net
 127.0.0.1 assets.ubembed.com
@@ -548,6 +551,7 @@
 127.0.0.1 d178bchpnfmat.cloudfront.net
 127.0.0.1 d18c2vb2nmzsjs.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
+127.0.0.1 d1zcggttmijv1z.cloudfront.net
 127.0.0.1 d1zkz3k4cclnv6.cloudfront.net
 127.0.0.1 d24zn61bgpeyxm.cloudfront.net
 127.0.0.1 d25l8ybundaqcq.cloudfront.net
@@ -557,6 +561,7 @@
 127.0.0.1 d2vfrgfizy4t0y.cloudfront.net
 127.0.0.1 d2war7j3gfrrus.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 d33wubrfki0l68.cloudfront.net
 127.0.0.1 d34chcsvb7ug62.cloudfront.net
 127.0.0.1 d3hegev0j37foa.cloudfront.net
 127.0.0.1 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
@@ -907,9 +912,12 @@
 127.0.0.1 igslb.cdo.oppomobile.com
 127.0.0.1 i.lencr.org
 127.0.0.1 ilockcardf.apps.coloros.com
+127.0.0.1 images.anime-pictures.net
 127.0.0.1 images.idtopnews.com
 127.0.0.1 image.slidesharecdn.com
 127.0.0.1 images.sc-cdn.net
+127.0.0.1 image.tmdb.org
+127.0.0.1 imdb.com
 127.0.0.1 img.alicdn.com
 127.0.0.1 img-hw.xnxx-cdn.com
 127.0.0.1 img-hw.xvideos-cdn.com
@@ -981,6 +989,7 @@
 127.0.0.1 iweather.oppomobile.com
 127.0.0.1 ixiaochuan.cn
 127.0.0.1 ixigua.com
+127.0.0.1 izatcloud.net
 127.0.0.1 jd.com
 127.0.0.1 jetengine.it
 127.0.0.1 jixie.io
@@ -1016,6 +1025,8 @@
 127.0.0.1 lapaksebelahh.com
 127.0.0.1 la-ucc-upaas.ucweb.com
 127.0.0.1 laucenter.ucweb.com
+127.0.0.1 layarindo21.pw
+127.0.0.1 layarkaca21.vip
 127.0.0.1 laz-dorangesource.alicdn.com
 127.0.0.1 laz-g-cdn.alicdn.com
 127.0.0.1 laz-img-cdn.alicdn.com
@@ -1078,6 +1089,7 @@
 127.0.0.1 mdp-appconf-mm.heytapdl.com
 127.0.0.1 mdp-appconf-sg.heytapdl.com
 127.0.0.1 media6degrees.com
+127.0.0.1 media-amazon.com
 127.0.0.1 media-contentful.zepeto.io
 127.0.0.1 mediaforge.com
 127.0.0.1 mediaiqdigital.com
@@ -1120,6 +1132,7 @@
 127.0.0.1 mobile.webvisor.com
 127.0.0.1 mobile.yandex.net
 127.0.0.1 mobredirect.net
+127.0.0.1 moengage.com
 127.0.0.1 montok.wapsite.info
 127.0.0.1 mookie1.com
 127.0.0.1 mopinion.com
@@ -1145,6 +1158,7 @@
 127.0.0.1 m.toutiao.com
 127.0.0.1 mup.amp.mcafee.com
 127.0.0.1 mu.se
+127.0.0.1 mutinycdn.com
 127.0.0.1 mv.lunalabs.io
 127.0.0.1 mv-playground.lunalabs.uk
 127.0.0.1 mxpnl.com
@@ -1275,6 +1289,7 @@
 127.0.0.1 pedulilindungi.com
 127.0.0.1 permutive.app
 127.0.0.1 persona.franchise.minecraft-services.net
+127.0.0.1 pglstatp.com
 127.0.0.1 pic.sogou.com
 127.0.0.1 pingdom.net
 127.0.0.1 ping.huatuo.qq.com
@@ -1304,6 +1319,7 @@
 127.0.0.1 pressablecdn.com
 127.0.0.1 preview-kly.akamaized.net
 127.0.0.1 primis.tech
+127.0.0.1 prismic.io
 127.0.0.1 privacy-policy.truste.com
 127.0.0.1 privatematchfz.com
 127.0.0.1 pro-a-seracc-cdn.im-gb.com
@@ -1366,6 +1382,7 @@
 127.0.0.1 res-global-sg-slave.sausage.xd.com
 127.0.0.1 resolver.msg.global.xiaomi.net
 127.0.0.1 reson8.com
+127.0.0.1 resources.digital-cloud-sin1.medallia.com
 127.0.0.1 resso.app
 127.0.0.1 resso.me
 127.0.0.1 restapi.amap.com
@@ -1421,8 +1438,11 @@
 127.0.0.1 s3-v2.cdngtc.com
 127.0.0.1 s4.pstatp.com
 127.0.0.1 s5.pstatp.com
+127.0.0.1 s6.layarkaca21.vip
 127.0.0.1 s6.pstatp.com
 127.0.0.1 samba.tv
+127.0.0.1 samsappsbn.vo.llnwd.net
+127.0.0.1 samsung-callerprofile.edge.hiyaapi.com
 127.0.0.1 samsung-gamelauncher.com
 127.0.0.1 sapi.taptap.com
 127.0.0.1 saserver.search.oppomobile.com
@@ -1436,6 +1456,7 @@
 127.0.0.1 scholar.sogou.com
 127.0.0.1 scorecardresearch.com
 127.0.0.1 scroll.com
+127.0.0.1 sdk-01.moengage.com
 127.0.0.1 sdk-android.ad.smaato.net
 127.0.0.1 sdkapi.wifimap.io
 127.0.0.1 sdk.pushmessage.samsung.com
@@ -1451,6 +1472,7 @@
 127.0.0.1 servedby-buysellads.com
 127.0.0.1 serving-sys.com
 127.0.0.1 settings.picsart.com
+127.0.0.1 sf19-fe-tos-sg.pglstatp.com
 127.0.0.1 sfdict.com
 127.0.0.1 sf.ezoiccdn.com
 127.0.0.1 sf.napi.ucweb.com
@@ -1520,6 +1542,7 @@
 127.0.0.1 srv-ocr-api-logged.z-dn.net
 127.0.0.1 srv-si-photo-upload.z-dn.net
 127.0.0.1 ssacdn.com
+127.0.0.1 ssl-images-amazon.com
 127.0.0.1 ss.litatom.com
 127.0.0.1 ssp-39f58.trnox.com
 127.0.0.1 ssp-3-9f58.trnox.com
@@ -1598,17 +1621,21 @@
 127.0.0.1 themarfa.name
 127.0.0.1 theme.shalltry.com
 127.0.0.1 theme.zdassets.com
+127.0.0.1 themoviedb.org
 127.0.0.1 thesaurus.com
 127.0.0.1 thinksuggest.org
 127.0.0.1 threadloom.com
 127.0.0.1 thrtle.com
 127.0.0.1 thunderxnew.site
 127.0.0.1 time.gpsonextra.net
+127.0.0.1 time.izatcloud.net
+127.0.0.1 time.xtracloud.net
 127.0.0.1 tiqcdn.com
 127.0.0.1 tirto.id
 127.0.0.1 tm.ak.prd.aadg.akadns.net
 127.0.0.1 tm.ak.prd.aadg.trafficmanager.net
 127.0.0.1 tm.a.prd.aadg.trafficmanager.net
+127.0.0.1 tmdb.org
 127.0.0.1 tm.prd.ags.akadns.net
 127.0.0.1 tms-api.shalltry.com
 127.0.0.1 tnc31-normal-alisg.isnssdk.com
