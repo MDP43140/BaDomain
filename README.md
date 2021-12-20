@@ -22,18 +22,24 @@ BaDomain_MLBB:
 BaDomain_FreeFire:
 - My own domain scraping.
 
+## Contributing
+You can help this project by
+- adding your list of bad domains 
+- or issue some whitelist domain
+- add an issue or create pull request
+
 ## Note:
 I'm scraping the domains by deploying a free hotspot (at public places).
 with adblocking, using AdAway, with these hosts lists:
 - AdAway
-- GoodByeAds
+- [GoodByeAds](https://github.com/jerryn70/GoodBye-Ads)
 - StevenBlack
 
 then i use AdAway's DNS Activity tab to monitor DNS Activity than scrap any:
 - Unknown domains.
 - Chinese domains (eg. *.cn, tiktok.com).
 - Tracking domains (eg. adx.com).
-- Game server domains (optional/miscellanous, eg. Free fire/garena, MLBB/moonton, COC, PUBG/tencent).
+- Game server domains (optional/miscellanous, eg. Free fire/garena, MLBB/moonton/youngjoygame/yuanzhan, COC, PUBG/tencent).
 
 that are not on the hosts list listed above and:
 - add these to "private lists".

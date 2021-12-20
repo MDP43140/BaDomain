@@ -145,6 +145,7 @@ agkn.com
 ags.akadns.net
 aihelp.net
 ai.iteldrive.com
+a.impactradius-go.com
 airtable.com
 akadns.net
 aka-dsa.wesingapp.com
@@ -812,7 +813,6 @@ go.redirectingat.com
 gov.cn
 gpapi.zepeto.io
 gpoint.com.gr
-graph.microsoft.com
 graphql.api.dailymotion.com
 graphql.kumparan.com
 graphql-v4.kumparan.com
@@ -965,6 +965,8 @@ img.wattpad.com
 imgx.gridoto.com
 i.mi.com
 immr-uhl-tvm.elasticbeanstalk.com
+impactradius-go.com
+imp.pxf.io
 imptrk.siteplug.com
 impulse.contextads.live
 imrworldwide.com
@@ -1402,6 +1404,7 @@ push.idtopnews.com
 pushimg.com
 pushmart.net
 pushmessage.samsung.com
+pxf.io
 qbox.me
 qiniuapi.com
 qq.com
@@ -1539,6 +1542,7 @@ sg-idm.api.io.mi.com
 sgp-img-c.heytapimg.com
 sg.tdatamaster.com
 shalltry.com
+shareaholic.net
 sharepointonline.com
 sharethis.com
 sharethrough.com
@@ -1901,6 +1905,7 @@ www.pdl.id
 www.portals.mobi
 www.ralijqugghwqil.com
 www.servicewebly.com
+www.shareaholic.net
 www.sixtest.com
 www.slideshare.net
 www.taobao.com

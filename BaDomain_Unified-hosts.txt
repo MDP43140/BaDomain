@@ -153,6 +153,7 @@
 127.0.0.1 ags.akadns.net
 127.0.0.1 aihelp.net
 127.0.0.1 ai.iteldrive.com
+127.0.0.1 a.impactradius-go.com
 127.0.0.1 airtable.com
 127.0.0.1 akadns.net
 127.0.0.1 aka-dsa.wesingapp.com
@@ -820,7 +821,6 @@
 127.0.0.1 gov.cn
 127.0.0.1 gpapi.zepeto.io
 127.0.0.1 gpoint.com.gr
-127.0.0.1 graph.microsoft.com
 127.0.0.1 graphql.api.dailymotion.com
 127.0.0.1 graphql.kumparan.com
 127.0.0.1 graphql-v4.kumparan.com
@@ -973,6 +973,8 @@
 127.0.0.1 imgx.gridoto.com
 127.0.0.1 i.mi.com
 127.0.0.1 immr-uhl-tvm.elasticbeanstalk.com
+127.0.0.1 impactradius-go.com
+127.0.0.1 imp.pxf.io
 127.0.0.1 imptrk.siteplug.com
 127.0.0.1 impulse.contextads.live
 127.0.0.1 imrworldwide.com
@@ -1410,6 +1412,7 @@
 127.0.0.1 pushimg.com
 127.0.0.1 pushmart.net
 127.0.0.1 pushmessage.samsung.com
+127.0.0.1 pxf.io
 127.0.0.1 qbox.me
 127.0.0.1 qiniuapi.com
 127.0.0.1 qq.com
@@ -1547,6 +1550,7 @@
 127.0.0.1 sgp-img-c.heytapimg.com
 127.0.0.1 sg.tdatamaster.com
 127.0.0.1 shalltry.com
+127.0.0.1 shareaholic.net
 127.0.0.1 sharepointonline.com
 127.0.0.1 sharethis.com
 127.0.0.1 sharethrough.com
@@ -1909,6 +1913,7 @@
 127.0.0.1 www.portals.mobi
 127.0.0.1 www.ralijqugghwqil.com
 127.0.0.1 www.servicewebly.com
+127.0.0.1 www.shareaholic.net
 127.0.0.1 www.sixtest.com
 127.0.0.1 www.slideshare.net
 127.0.0.1 www.taobao.com
