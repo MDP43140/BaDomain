@@ -8,10 +8,10 @@ VERSION="$(date +%d.%m.%Y)"
 UPDATE_FREQ="1 day"
 for i in "$@";do
 	case $(tr '[:upper:]' '[:lower:]' <<<"$i") in
-		-h|--help)
+		-h|help)
 			echo " HostsBuilder"
 			echo "-------------------------"
-			echo " -h --help          | Display this help page"
+			echo " help               | Display this help page"
 			echo " build              | Cleans old files, Cleans dupes, Create hosts files"
 			echo " mkHosts            | Create hosts file"
 			echo " mkHosts_misc       | Create hosts file (misc)"
