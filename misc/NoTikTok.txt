@@ -3,6 +3,7 @@
 # Use this list to totally block access to
 # any bytedance products (including TikTok, CapCut, etc...) on your network.
 #
+
 0pbxmo-useast2a.xzcs3zlph.com
 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 0pbxmo.xzcs3zlph.com
@@ -823,6 +824,7 @@ dynamic-comm3.snssdk.com.bdgslb.com
 dynamic-comm.snssdk.com.bdgslb.com
 dynamic-d5snssdk.bwhero.com.bdgslb.com
 dzsu313agxr9l.cloudfront.net
+e35058.a.akamaiedge.net
 e35058.api2.akamaiedge.net
 eagleye.snssdk.com
 eagleye.snssdk.com.w.kunluncan.com
@@ -3068,6 +3070,7 @@ unpkg.pstatp.com
 unpkg.pstatp.com.m.alikunlun.com
 updatewebws.pstatp.com.wsglb0.com
 us.tiktok.com
+us.tiktok.com.edgekey.net
 uz91a.v.bsgslb.com
 uz91ipv6pic1.v.bsgslb.com
 uz91ipv6pic.v.bsgslb.com

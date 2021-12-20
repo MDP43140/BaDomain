@@ -824,6 +824,7 @@
 127.0.0.1 dynamic-comm.snssdk.com.bdgslb.com
 127.0.0.1 dynamic-d5snssdk.bwhero.com.bdgslb.com
 127.0.0.1 dzsu313agxr9l.cloudfront.net
+127.0.0.1 e35058.a.akamaiedge.net
 127.0.0.1 e35058.api2.akamaiedge.net
 127.0.0.1 eagleye.snssdk.com
 127.0.0.1 eagleye.snssdk.com.w.kunluncan.com
@@ -3069,6 +3070,7 @@
 127.0.0.1 unpkg.pstatp.com.m.alikunlun.com
 127.0.0.1 updatewebws.pstatp.com.wsglb0.com
 127.0.0.1 us.tiktok.com
+127.0.0.1 us.tiktok.com.edgekey.net
 127.0.0.1 uz91a.v.bsgslb.com
 127.0.0.1 uz91ipv6pic1.v.bsgslb.com
 127.0.0.1 uz91ipv6pic.v.bsgslb.com
