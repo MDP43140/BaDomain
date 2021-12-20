@@ -148,6 +148,10 @@ ai.iteldrive.com
 airtable.com
 akadns.net
 aka-dsa.wesingapp.com
+akamaiedge.net
+akamaihd.net
+akamai.net
+akamaized.net
 aka.stream.kg.qq.com
 aka.tsmusic.kg.qq.com
 akimg.icocofun.com
@@ -177,6 +181,7 @@ am.olx.biz.id
 amplitude.com
 analytics.163.com
 analytics.churnzero.net
+analytics.quizizz.com
 analytics.rocks
 analytics-vibe.contextads.live
 anchor.fm
@@ -559,6 +564,7 @@ c.tenor.com
 ctfassets.net
 cuttlela.ucweb.com
 c.y5en.com
+d11yp7khhhspcr.cloudfront.net
 d178bchpnfmat.cloudfront.net
 d18c2vb2nmzsjs.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
@@ -574,6 +580,8 @@ d2war7j3gfrrus.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d33wubrfki0l68.cloudfront.net
 d34chcsvb7ug62.cloudfront.net
+d3amn7ayexbwsr.cloudfront.net
+d3d6s0qsgup76t.cloudfront.net
 d3hegev0j37foa.cloudfront.net
 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
 dac.contextads.live
@@ -614,6 +622,7 @@ detectportal.prod.cloudops.mozgcp.net
 developers.google.cn
 developers.google.com.hk
 dew-omm.lotusflare.com
+dexeqbeb7giwr.cloudfront.net
 df.infra.sz.shopee.co.id
 dhfs-id.heytapimage.com
 dhfs-in.heytapimage.com
@@ -655,8 +664,10 @@ e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e673.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
+e7100.g.akamaiedge.net
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 echo-tcp-org.y5en.com
+edgecastcdn.net
 ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 emebo.io
@@ -720,6 +731,7 @@ flive.ixigua.com
 flocdn.com
 flow.maribacaberita.com
 fluidplayer.com
+fortawesome.com
 fortumo.com
 fortumo.io
 fout.jp
@@ -734,6 +746,7 @@ freshchat.com
 frontend-monitoring.z-dn.net
 fr.slideshare.net
 frz.io
+fsdn.com
 ftp.lysator.liu.se
 funbe.rjifxuqoo
 fuseplatform.net
@@ -742,6 +755,7 @@ fwmrm.net
 g.alicdn.com
 gamea.clashofclans.com
 gamecfg-mob.ubi.com
+gameguardian.b-cdn.net
 gameimg.heytapimg.com
 gameloft.com
 gameportal.casa
@@ -837,6 +851,7 @@ hbs.ph.affinity.com
 hdcb-api.fortumo.io
 heapanalytics.com
 hellay.net
+helpscout.net
 help.sogou.com
 heytapdl.com
 heytapmobile.com
@@ -869,6 +884,7 @@ https:\/\/app-measurement.com\/sdk-exp
 https:\/\/ynuf.aliapp.org\/saveWb.json?
 hub2.com.pl
 hubspot.com
+hwcdn.net
 hw-crs-report.y5en.com
 hybrid.miniapp.taobao.com
 hyperxgaming.website
@@ -943,6 +959,7 @@ img-l3.xnxx-cdn.com
 img.linkxw.com
 img-l.usicdn.com
 img.onesignal.com
+img-prod-cms-rt-microsoft-com.akamaized.net
 img.samsungapps.com
 img.wattpad.com
 imgx.gridoto.com
@@ -972,6 +989,7 @@ instant.page
 intellimize.co
 intellitxt.com
 intl.iqiyi.com
+invitereferrals.com
 i.otu.foreign.oppomobile.com
 ip-api.com
 ipify.org
@@ -1014,6 +1032,7 @@ jixie.media
 jkt-milink.market.xiaomi.com
 jmacs.maribacaberita.com
 jmacs-m.lazada.co.id
+js.cx
 js.datadome.co
 js.media-lab.ai
 justin.tv
@@ -1026,9 +1045,11 @@ keyvalueservice.icloud.com
 killerbeanforever.com
 kinja.com
 kinja-static.com
+kiwiirc.com
 knorex.com
 kobo.com
 kompasads.com
+koyu.space
 krisp.ai
 krxd.net
 kwai.com
@@ -1056,6 +1077,7 @@ letsgoconvert.com
 liadm.com
 libra-sg.resso.app
 licdn.com
+licensebuttons.net
 license.vod2.myqcloud.com
 lijit.com
 likeitlite.com
@@ -1091,6 +1113,7 @@ loki.wattpad.com
 loli.net
 lunalabs.io
 m1e.net
+m2.ai
 magzine.transacme.com
 mall.shopee.co.id
 manifest.tower.sybo.net
@@ -1179,6 +1202,7 @@ m.toutiao.com
 mtrace.wetvinfo.com
 mup.amp.mcafee.com
 mu.se
+musicradio.com
 mutinycdn.com
 mv.lunalabs.io
 mv-playground.lunalabs.uk
@@ -1209,6 +1233,7 @@ nflxvideo.net
 nightfallinquiredune.com
 nj.cschannel.anticheatexpert.com
 northpoleitalia.it
+notif.quizizz.com
 novac.gameloft.com
 noxgroup.com
 noxgroup.org
@@ -1390,6 +1415,7 @@ rakam.io
 rakutenmarketing.com
 rakuten.tv
 ralijqugghwqil.com
+ravenjs.com
 redirectingat.com
 redirect.networkbench.com
 referralrock.com
@@ -1481,6 +1507,7 @@ sc-cdn.net
 schemas.casa
 scholar.sogou.com
 scorecardresearch.com
+screensteps.com
 scroll.com
 sdk-01.moengage.com
 sdk-android.ad.smaato.net
@@ -1492,6 +1519,7 @@ searchiq.co
 search.kuwo.cn
 search-operate.cdn.bcebos.com
 security.noxgroup.org
+sellwild.com
 semasio.net
 sentry-cdn.com
 sentry.io
@@ -1588,6 +1616,7 @@ static.ahagamecenter.com
 static-doubleclick-net.l.google.com
 static.like-it.video
 static.servicewebly.com
+statics-marketingsites-eus-ms-com.akamaized.net
 staticworld.net
 static.zdassets.com
 static-zepeto.pstatic.net
@@ -1604,6 +1633,7 @@ st.like-it.video
 storedl3f.nearme.com.cn
 storeimg.heytapimg.com
 streamback.ff.avast.com
+stripe.com
 stun.ekiga.net
 sub2unlock.com
 subscribers.com
@@ -1617,6 +1647,8 @@ superpowered.com
 supersonicads.com
 supl.qxwz.com
 surfing-waves.com
+survey.survicate.com
+survicate.com
 svc-cf.samsungdm.com
 svibeacon.onezapp.com
 s.viiert.com
@@ -1700,6 +1732,7 @@ tx.flv.nimo.tv
 tx.hls.nimo.tv
 ty-cdn.net
 tynt.com
+typeform.com
 typekit.net
 uapi.afo2o.com
 uat5-b.investingchannel.com
@@ -1766,6 +1799,7 @@ vindicosuite.com
 visualwebsiteoptimizer.com
 vlitag.com
 v.lsttnews.com
+vntsm.com
 voip-news.com
 v.pinimg.com
 vps-v4.u.avcdn.net
@@ -1912,6 +1946,7 @@ yandex.net
 yandex.ru
 y.gtimg.cn
 yhgrffndvzbtoilmundkmvbaxrjtqsew.com
+yieldlove.com
 yieldmo.com
 yixiu-abtest.alicdn.com
 ykxipfcg.com

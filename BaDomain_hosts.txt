@@ -148,6 +148,10 @@
 127.0.0.1 airtable.com
 127.0.0.1 akadns.net
 127.0.0.1 aka-dsa.wesingapp.com
+127.0.0.1 akamaiedge.net
+127.0.0.1 akamaihd.net
+127.0.0.1 akamai.net
+127.0.0.1 akamaized.net
 127.0.0.1 aka.stream.kg.qq.com
 127.0.0.1 aka.tsmusic.kg.qq.com
 127.0.0.1 akimg.icocofun.com
@@ -177,6 +181,7 @@
 127.0.0.1 amplitude.com
 127.0.0.1 analytics.163.com
 127.0.0.1 analytics.churnzero.net
+127.0.0.1 analytics.quizizz.com
 127.0.0.1 analytics.rocks
 127.0.0.1 analytics-vibe.contextads.live
 127.0.0.1 anchor.fm
@@ -559,6 +564,7 @@
 127.0.0.1 ctfassets.net
 127.0.0.1 cuttlela.ucweb.com
 127.0.0.1 c.y5en.com
+127.0.0.1 d11yp7khhhspcr.cloudfront.net
 127.0.0.1 d178bchpnfmat.cloudfront.net
 127.0.0.1 d18c2vb2nmzsjs.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
@@ -574,6 +580,8 @@
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d33wubrfki0l68.cloudfront.net
 127.0.0.1 d34chcsvb7ug62.cloudfront.net
+127.0.0.1 d3amn7ayexbwsr.cloudfront.net
+127.0.0.1 d3d6s0qsgup76t.cloudfront.net
 127.0.0.1 d3hegev0j37foa.cloudfront.net
 127.0.0.1 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
 127.0.0.1 dac.contextads.live
@@ -614,6 +622,7 @@
 127.0.0.1 developers.google.cn
 127.0.0.1 developers.google.com.hk
 127.0.0.1 dew-omm.lotusflare.com
+127.0.0.1 dexeqbeb7giwr.cloudfront.net
 127.0.0.1 df.infra.sz.shopee.co.id
 127.0.0.1 dhfs-id.heytapimage.com
 127.0.0.1 dhfs-in.heytapimage.com
@@ -655,8 +664,10 @@
 127.0.0.1 e10499.dsce9.akamaiedge.net
 127.0.0.1 e673.dsce9.akamaiedge.net
 127.0.0.1 e69896.dscapi6.akamaiedge.net
+127.0.0.1 e7100.g.akamaiedge.net
 127.0.0.1 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 127.0.0.1 echo-tcp-org.y5en.com
+127.0.0.1 edgecastcdn.net
 127.0.0.1 ekiga.net
 127.0.0.1 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 127.0.0.1 emebo.io
@@ -720,6 +731,7 @@
 127.0.0.1 flocdn.com
 127.0.0.1 flow.maribacaberita.com
 127.0.0.1 fluidplayer.com
+127.0.0.1 fortawesome.com
 127.0.0.1 fortumo.com
 127.0.0.1 fortumo.io
 127.0.0.1 fout.jp
@@ -734,6 +746,7 @@
 127.0.0.1 frontend-monitoring.z-dn.net
 127.0.0.1 fr.slideshare.net
 127.0.0.1 frz.io
+127.0.0.1 fsdn.com
 127.0.0.1 ftp.lysator.liu.se
 127.0.0.1 funbe.rjifxuqoo
 127.0.0.1 fuseplatform.net
@@ -742,6 +755,7 @@
 127.0.0.1 g.alicdn.com
 127.0.0.1 gamea.clashofclans.com
 127.0.0.1 gamecfg-mob.ubi.com
+127.0.0.1 gameguardian.b-cdn.net
 127.0.0.1 gameimg.heytapimg.com
 127.0.0.1 gameloft.com
 127.0.0.1 gameportal.casa
@@ -837,6 +851,7 @@
 127.0.0.1 hdcb-api.fortumo.io
 127.0.0.1 heapanalytics.com
 127.0.0.1 hellay.net
+127.0.0.1 helpscout.net
 127.0.0.1 help.sogou.com
 127.0.0.1 heytapdl.com
 127.0.0.1 heytapmobile.com
@@ -869,6 +884,7 @@
 127.0.0.1 https:\/\/ynuf.aliapp.org\/saveWb.json?
 127.0.0.1 hub2.com.pl
 127.0.0.1 hubspot.com
+127.0.0.1 hwcdn.net
 127.0.0.1 hw-crs-report.y5en.com
 127.0.0.1 hybrid.miniapp.taobao.com
 127.0.0.1 hyperxgaming.website
@@ -943,6 +959,7 @@
 127.0.0.1 img.linkxw.com
 127.0.0.1 img-l.usicdn.com
 127.0.0.1 img.onesignal.com
+127.0.0.1 img-prod-cms-rt-microsoft-com.akamaized.net
 127.0.0.1 img.samsungapps.com
 127.0.0.1 img.wattpad.com
 127.0.0.1 imgx.gridoto.com
@@ -972,6 +989,7 @@
 127.0.0.1 intellimize.co
 127.0.0.1 intellitxt.com
 127.0.0.1 intl.iqiyi.com
+127.0.0.1 invitereferrals.com
 127.0.0.1 i.otu.foreign.oppomobile.com
 127.0.0.1 ip-api.com
 127.0.0.1 ipify.org
@@ -1014,6 +1032,7 @@
 127.0.0.1 jkt-milink.market.xiaomi.com
 127.0.0.1 jmacs.maribacaberita.com
 127.0.0.1 jmacs-m.lazada.co.id
+127.0.0.1 js.cx
 127.0.0.1 js.datadome.co
 127.0.0.1 js.media-lab.ai
 127.0.0.1 justin.tv
@@ -1026,9 +1045,11 @@
 127.0.0.1 killerbeanforever.com
 127.0.0.1 kinja.com
 127.0.0.1 kinja-static.com
+127.0.0.1 kiwiirc.com
 127.0.0.1 knorex.com
 127.0.0.1 kobo.com
 127.0.0.1 kompasads.com
+127.0.0.1 koyu.space
 127.0.0.1 krisp.ai
 127.0.0.1 krxd.net
 127.0.0.1 kwai.com
@@ -1056,6 +1077,7 @@
 127.0.0.1 liadm.com
 127.0.0.1 libra-sg.resso.app
 127.0.0.1 licdn.com
+127.0.0.1 licensebuttons.net
 127.0.0.1 license.vod2.myqcloud.com
 127.0.0.1 lijit.com
 127.0.0.1 likeitlite.com
@@ -1091,6 +1113,7 @@
 127.0.0.1 loli.net
 127.0.0.1 lunalabs.io
 127.0.0.1 m1e.net
+127.0.0.1 m2.ai
 127.0.0.1 magzine.transacme.com
 127.0.0.1 mall.shopee.co.id
 127.0.0.1 manifest.tower.sybo.net
@@ -1179,6 +1202,7 @@
 127.0.0.1 mtrace.wetvinfo.com
 127.0.0.1 mup.amp.mcafee.com
 127.0.0.1 mu.se
+127.0.0.1 musicradio.com
 127.0.0.1 mutinycdn.com
 127.0.0.1 mv.lunalabs.io
 127.0.0.1 mv-playground.lunalabs.uk
@@ -1209,6 +1233,7 @@
 127.0.0.1 nightfallinquiredune.com
 127.0.0.1 nj.cschannel.anticheatexpert.com
 127.0.0.1 northpoleitalia.it
+127.0.0.1 notif.quizizz.com
 127.0.0.1 novac.gameloft.com
 127.0.0.1 noxgroup.com
 127.0.0.1 noxgroup.org
@@ -1390,6 +1415,7 @@
 127.0.0.1 rakutenmarketing.com
 127.0.0.1 rakuten.tv
 127.0.0.1 ralijqugghwqil.com
+127.0.0.1 ravenjs.com
 127.0.0.1 redirectingat.com
 127.0.0.1 redirect.networkbench.com
 127.0.0.1 referralrock.com
@@ -1481,6 +1507,7 @@
 127.0.0.1 schemas.casa
 127.0.0.1 scholar.sogou.com
 127.0.0.1 scorecardresearch.com
+127.0.0.1 screensteps.com
 127.0.0.1 scroll.com
 127.0.0.1 sdk-01.moengage.com
 127.0.0.1 sdk-android.ad.smaato.net
@@ -1492,6 +1519,7 @@
 127.0.0.1 search.kuwo.cn
 127.0.0.1 search-operate.cdn.bcebos.com
 127.0.0.1 security.noxgroup.org
+127.0.0.1 sellwild.com
 127.0.0.1 semasio.net
 127.0.0.1 sentry-cdn.com
 127.0.0.1 sentry.io
@@ -1588,6 +1616,7 @@
 127.0.0.1 static-doubleclick-net.l.google.com
 127.0.0.1 static.like-it.video
 127.0.0.1 static.servicewebly.com
+127.0.0.1 statics-marketingsites-eus-ms-com.akamaized.net
 127.0.0.1 staticworld.net
 127.0.0.1 static.zdassets.com
 127.0.0.1 static-zepeto.pstatic.net
@@ -1604,6 +1633,7 @@
 127.0.0.1 storedl3f.nearme.com.cn
 127.0.0.1 storeimg.heytapimg.com
 127.0.0.1 streamback.ff.avast.com
+127.0.0.1 stripe.com
 127.0.0.1 stun.ekiga.net
 127.0.0.1 sub2unlock.com
 127.0.0.1 subscribers.com
@@ -1617,6 +1647,8 @@
 127.0.0.1 supersonicads.com
 127.0.0.1 supl.qxwz.com
 127.0.0.1 surfing-waves.com
+127.0.0.1 survey.survicate.com
+127.0.0.1 survicate.com
 127.0.0.1 svc-cf.samsungdm.com
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 s.viiert.com
@@ -1700,6 +1732,7 @@
 127.0.0.1 tx.hls.nimo.tv
 127.0.0.1 ty-cdn.net
 127.0.0.1 tynt.com
+127.0.0.1 typeform.com
 127.0.0.1 typekit.net
 127.0.0.1 uapi.afo2o.com
 127.0.0.1 uat5-b.investingchannel.com
@@ -1766,6 +1799,7 @@
 127.0.0.1 visualwebsiteoptimizer.com
 127.0.0.1 vlitag.com
 127.0.0.1 v.lsttnews.com
+127.0.0.1 vntsm.com
 127.0.0.1 voip-news.com
 127.0.0.1 v.pinimg.com
 127.0.0.1 vps-v4.u.avcdn.net
@@ -1912,6 +1946,7 @@
 127.0.0.1 yandex.ru
 127.0.0.1 y.gtimg.cn
 127.0.0.1 yhgrffndvzbtoilmundkmvbaxrjtqsew.com
+127.0.0.1 yieldlove.com
 127.0.0.1 yieldmo.com
 127.0.0.1 yixiu-abtest.alicdn.com
 127.0.0.1 ykxipfcg.com
