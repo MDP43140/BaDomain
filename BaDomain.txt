@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 18.12.2021
+# Version: 20.12.2021
 # Update: 1 days
 #
 
@@ -14,14 +14,17 @@
 166.net
 18183.com
 1.cn.pool.ntp.org
+1g5k5w.com
 1.oca.nflxvideo.net
 1rx.io
 1up.com
 201205igp.gameloft.com
 20ca2.playfabapi.com
 2mdn.net
+2tx120.1g5k5w.com
 33across.com
 3lift.com
+3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
 42trck.com
 44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com
 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
@@ -45,6 +48,7 @@ a2047.dscb.akamai.net
 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
+a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
 aadg.akadns.net
 aadg.trafficmanager.net
 a.ak.prd.aadg.trafficmanager.net
@@ -61,6 +65,7 @@ access.line.me
 access-pre.ucweb.com
 acckwmhi.com
 account.xiaomi.com
+acc.wetvinfo.com
 acs.maribacaberita.com
 acs-m.lazada.co.id
 acs-m.lazada.sg
@@ -171,6 +176,7 @@ amibios-updater.com
 am.olx.biz.id
 amplitude.com
 analytics.163.com
+analytics.churnzero.net
 analytics.rocks
 analytics-vibe.contextads.live
 anchor.fm
@@ -294,6 +300,7 @@ ap.y5en.com
 arstechnica.net
 artas.biz
 artsai.com
+asia-assistant-sports.vivoglobal.com
 asia-browserplat.vivoglobal.com
 asia-browserstatic.vivoglobal.com
 asia-browser.vivoglobal.com
@@ -385,6 +392,7 @@ bilikfilm.xyz
 billigrefinansiering.com
 bizconfig.palmplaystore.com
 bizscene.palmplaystore.com
+bksdksp.wetvinfo.com
 black.riseup.net
 blogblog.com
 bluecava.com
@@ -403,6 +411,7 @@ brs.api.intl.miui.com
 b.sogou.com
 bstream.hzmklvdieo.com
 btloader.com
+btrace.wetvinfo.com
 bucket-img.y5en.com
 bugsnag.com
 buhatfjrk9dje10eme.com
@@ -485,6 +494,7 @@ cloudi-in.browser.oppomobile.com
 cloudi-sg.browser.heytapmobile.com
 cloudi-sg.browser.oppomobile.com
 cloudops.mozgcp.net
+cloud.typography.com
 cmh01.justin.tv
 cnevids.com
 cn.pool.ntp.org
@@ -540,6 +550,7 @@ crownpeak.net
 crsspxl.com
 crunchify.com
 crwdcntrl.net
+cr.y5en.com
 cse.avlyun.com
 cshort.org
 csoversea.mbgame.anticheatexpert.com
@@ -617,6 +628,7 @@ dm.samsungdive.com
 dn.im-gb.com
 dns11.quad9.net
 dns.oppomobile.com
+dns.sb
 do7nu6l5erzu3.cloudfront.net
 dob5.com
 doh.iq.com
@@ -657,6 +669,7 @@ epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
 epdg.epc.mnc009.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc011.mcc510.pub.3gppnetwork.org
+epdg.epc.mnc089.mcc510.pub.3gppnetwork.org
 epoch-id.cdo.heytapmobi.com
 eportalmobile.com
 esnoptdkkiirzewlpgmccbwuynvxjumf.name
@@ -677,6 +690,7 @@ everinform.com
 evidon.com
 eviltracker.net
 example.org
+execute-api.eu-west-1.amazonaws.com
 exelator.com
 experts-exchange.com
 extremetech.com
@@ -792,6 +806,7 @@ groundtruth.com
 growtopia1.com
 growtopia2.com
 gslb-gl.cdo.heytapmobi.com
+gslb.secb2b.com
 gslb.shalltry.com
 gs-loc.apple.com
 gsp64-ssl.ls.apple.com
@@ -842,6 +857,8 @@ hotjar.com
 hrworld.com
 hsforms.net
 hs-scripts.com
+h.trace.qq.com
+htrace.wetvinfo.com
 httpdns.ocloud.heytapmobi.com
 httpdns.ocloud.oppomobile.com
 httpdns-push.heytapmobile.com
@@ -1071,6 +1088,7 @@ login.tim.qq.com
 logs.im-gb.com
 log.tpns.hk.tencent.com
 loki.wattpad.com
+loli.net
 lunalabs.io
 m1e.net
 magzine.transacme.com
@@ -1127,6 +1145,7 @@ mmfiles.amp.mcafee.com
 m.mobilesearchers.com
 mmtro.com
 moatads.com
+mobadvent.com
 mobilesearchers.com
 mobile.useinsider.com
 mobile.webvisor.com
@@ -1150,12 +1169,14 @@ msg.ekatox.com
 msg-intl.qy.net
 msg.transacme.com
 m.sohu.com
+msr-public-ubiservices.ubi.com
 ms.shalltry.com
 msync-im1-sgp.easemob.com
 mt3-v2-apple.amanotes.io
 m.toutiaocdn.cn
 m.toutiaocdn.com
 m.toutiao.com
+mtrace.wetvinfo.com
 mup.amp.mcafee.com
 mu.se
 mutinycdn.com
@@ -1240,6 +1261,7 @@ osupdate.shalltry.com
 ota.lokalise.co
 oth.eve.mdt.qq.com
 othstr.beacon.qq.com
+oth.str.mdt.qq.com
 otnolatrnup.com
 outbrain.com
 outcome-ssp.supersonicads.com
@@ -1248,6 +1270,7 @@ owneriq.net
 p0.ipstatp.com
 p0.pstatp.com
 p10.pstatp.com
+p16.resso.app
 p16.resso.me
 p16.topbuzzcdn.com
 p1.pstatp.com
@@ -1284,6 +1307,7 @@ path2.xtracloud.net
 path3.xtracloud.net
 pbbl.co
 pbssrv-centralevents.com
+pbs.twimg.com
 pdfcylsmo.com
 pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
 pedulilindungi.com
@@ -1418,6 +1442,7 @@ rrx68giz-d7b7d7048607c3b224fcd4c25394a5a9c28529d5-mob.d.aa.online-metrix.net
 rrx68giz-eb30088f2b254363b3d6d789249c4de1caa9cd3c-mob.d.aa.online-metrix.net
 rrx68giz-eef2476f4f0b908dfa65666540c2971306a2771c-mob.d.aa.online-metrix.net
 rrx68giz-f6049de95c38948bba342122ba2f346c3341eb56-mob.d.aa.online-metrix.net
+rsb.net
 rs.easemob.com
 rt.applovin.com
 rtc.youme.im
@@ -1430,6 +1455,7 @@ rwt.fortumo.com
 s0.pstatp.com
 s.166.net
 s1.pstatp.com
+s2.loli.net
 s2.pstatp.com
 s2s.af.outfit7.com
 s3a.pstatp.com
@@ -1460,6 +1486,8 @@ sdk-01.moengage.com
 sdk-android.ad.smaato.net
 sdkapi.wifimap.io
 sdk.pushmessage.samsung.com
+sdksp.wetvinfo.com
+search.eportalmobile.com
 searchiq.co
 search.kuwo.cn
 search-operate.cdn.bcebos.com
@@ -1513,6 +1541,7 @@ smartadserver.com
 smartcardf-eu.apps.coloros.com
 smartlook.com
 sm.bdimg.com
+sm.ms
 snapengage.com
 snapgirls.today
 snigelweb.com
@@ -1589,6 +1618,7 @@ supersonicads.com
 supl.qxwz.com
 surfing-waves.com
 svc-cf.samsungdm.com
+svibeacon.onezapp.com
 s.viiert.com
 s.viioxx.com
 swiftkey-android.iris.touchtype-fluency.com
@@ -1599,6 +1629,7 @@ t14.market.mi-img.com
 t2.chartboost.com
 t7.a.market.xiaomi.com
 taboola.com
+tads.mobadvent.com
 taichi.y5en.com
 talking-ads.com
 tanteseksi.one
@@ -1611,6 +1642,7 @@ t.appsflyer.com
 tarot.minozodiac.com
 techbargains.com
 tecno.servicewebly.com
+tengame.net
 tenor.co
 tenor.com
 tentaculos.net
@@ -1669,6 +1701,7 @@ tx.hls.nimo.tv
 ty-cdn.net
 tynt.com
 typekit.net
+uapi.afo2o.com
 uat5-b.investingchannel.com
 ucweb.com
 udp-dispatch.ucweb.com
@@ -1683,6 +1716,7 @@ umlazada.alibaba.com
 undertone.com
 uniconsent.com
 unipin.com
+u.nu
 upapi.net
 update.bosbosupdate.net
 update.estrongs.com
@@ -1775,6 +1809,7 @@ weplay.helpshift.com
 wesingapp.com
 wesingapp.stream.kg.qq.com
 wesingapp.tsmusic.kg.qq.com
+wetv.vip
 whippedfreezerbegun.com
 whoami.akamai.net
 whx66.veve.com
@@ -1813,6 +1848,7 @@ www.glamour.com
 www.googleapis.cn
 www.google.cn
 www.hastopic.com
+www.hippoobox.com
 www.iconsdb.com
 www.iqzgqivb.com
 www.jd.com
@@ -1860,6 +1896,7 @@ xjp-msgacs.m.taobao.com
 xlaxiata2.md-apis.medallia.com
 xnxx.com
 xplayer-42f31.web.app
+xtom.com
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net

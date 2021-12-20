@@ -821,11 +821,13 @@ scontent.fcgk24-1.fna.fbcdn.net
 scontent.fcgk3-2.fna.fbcdn.net
 scontent.fcgk35-1.fna.fbcdn.net
 scontent.fcgk4-4.fna.fbcdn.net
+scontent.fdps5-1.fna.fbcdn.net
 scontent.fkno9-1.fna.fbcdn.net
 scontent.fkno9-2.fna.fbcdn.net
 scontent.fpku1-1.fna.fbcdn.net
 scontent.fpku1-2.fna.fbcdn.net
 scontent.fpku1-3.fna.fbcdn.net
+scontent.fpku3-2.fna.fbcdn.net
 scontent-fra.xx.fbcdn.net
 scontent.fsjc1-2.fna.fbcdn.net
 scontent.fsnc1-1.fna.fbcdn.net
@@ -864,6 +866,11 @@ scontent-sin.xx.fbcdn.net
 scontent-sjc2-1.xx.fbcdn.net
 scontent-sjc.xx.fbcdn.net
 scontent-vie.xx.fbcdn.net
+scontent-xsp1-1.cdninstagram.com
+scontent-xsp1-2.cdninstagram.com
+scontent-xsp1-2.xx.fbcdn.net
+scontent-xsp1-3.cdninstagram.com
+scontent-xsp1-3.xx.fbcdn.net
 scontent.xx.fbcdn.net
 snaptu-d.facebook.com
 snaptu-d-shv-05-frc3.facebook.com

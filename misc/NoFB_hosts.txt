@@ -822,11 +822,13 @@
 127.0.0.1 scontent.fcgk3-2.fna.fbcdn.net
 127.0.0.1 scontent.fcgk35-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk4-4.fna.fbcdn.net
+127.0.0.1 scontent.fdps5-1.fna.fbcdn.net
 127.0.0.1 scontent.fkno9-1.fna.fbcdn.net
 127.0.0.1 scontent.fkno9-2.fna.fbcdn.net
 127.0.0.1 scontent.fpku1-1.fna.fbcdn.net
 127.0.0.1 scontent.fpku1-2.fna.fbcdn.net
 127.0.0.1 scontent.fpku1-3.fna.fbcdn.net
+127.0.0.1 scontent.fpku3-2.fna.fbcdn.net
 127.0.0.1 scontent-fra.xx.fbcdn.net
 127.0.0.1 scontent.fsjc1-2.fna.fbcdn.net
 127.0.0.1 scontent.fsnc1-1.fna.fbcdn.net
@@ -865,6 +867,11 @@
 127.0.0.1 scontent-sjc2-1.xx.fbcdn.net
 127.0.0.1 scontent-sjc.xx.fbcdn.net
 127.0.0.1 scontent-vie.xx.fbcdn.net
+127.0.0.1 scontent-xsp1-1.cdninstagram.com
+127.0.0.1 scontent-xsp1-2.cdninstagram.com
+127.0.0.1 scontent-xsp1-2.xx.fbcdn.net
+127.0.0.1 scontent-xsp1-3.cdninstagram.com
+127.0.0.1 scontent-xsp1-3.xx.fbcdn.net
 127.0.0.1 scontent.xx.fbcdn.net
 127.0.0.1 snaptu-d.facebook.com
 127.0.0.1 snaptu-d-shv-05-frc3.facebook.com
