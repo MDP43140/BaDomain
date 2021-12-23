@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 20.12.2021
+# Version: 23.12.2021
 # Update: 1 days
 #
 
@@ -373,6 +373,7 @@
 127.0.0.1 axiata-lk-43c53a330e9-he.fortumo.io
 127.0.0.1 azureedge.net
 127.0.0.1 b1.nel.goog
+127.0.0.1 baby-girls.id
 127.0.0.1 bag.itunes.apple.com
 127.0.0.1 baidu.com
 127.0.0.1 baike.sogou.com
@@ -1245,7 +1246,9 @@
 127.0.0.1 nrs-group.com
 127.0.0.1 ns1.com
 127.0.0.1 ntv.io
+127.0.0.1 nude.baby-girls.id
 127.0.0.1 nude.snapgirls.today
+127.0.0.1 nude.younggirls.today
 127.0.0.1 nurd.com
 127.0.0.1 nxtck.com
 127.0.0.1 o209266.ingest.sentry.io
@@ -1957,6 +1960,7 @@
 127.0.0.1 ykxipfcg.com
 127.0.0.1 ynuf.aliapp.org
 127.0.0.1 youme.im
+127.0.0.1 younggirls.today
 127.0.0.1 youtube.fbunion.com
 127.0.0.1 yun.tim.qq.com
 127.0.0.1 ywbgrcrupasdiqxknwgcearlnbvmezti.com
