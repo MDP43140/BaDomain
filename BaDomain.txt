@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.12.2021
+# Version: 30.12.2021
 # Update: 1 days
 #
 
@@ -596,6 +596,7 @@ datadoghq.com
 datadome.co
 data.flurry.com
 datalake.gameloft.com
+datting.click
 dbn41syzjymrk.cloudfront.net
 dc1.networkbench.com
 dcb.fortumo.com
@@ -868,6 +869,7 @@ hm2.yrnykx.com
 hm.baidu.com
 homepage.vivo.com
 horizonme.net
+horneymom.today
 hosupshunk.com
 hotjar.com
 hrworld.com
@@ -1272,6 +1274,7 @@ onesignal.com
 onesoft.com.vn
 onetrust.com
 onezapp.com
+onnanoko.tokyo
 opendns.zendesk.com
 openlog.tap.io
 open-vip.bmob.cn

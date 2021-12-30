@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.12.2021
+# Version: 30.12.2021
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -604,6 +604,7 @@
 127.0.0.1 datadome.co
 127.0.0.1 data.flurry.com
 127.0.0.1 datalake.gameloft.com
+127.0.0.1 datting.click
 127.0.0.1 dbn41syzjymrk.cloudfront.net
 127.0.0.1 dc1.networkbench.com
 127.0.0.1 dcb.fortumo.com
@@ -876,6 +877,7 @@
 127.0.0.1 hm.baidu.com
 127.0.0.1 homepage.vivo.com
 127.0.0.1 horizonme.net
+127.0.0.1 horneymom.today
 127.0.0.1 hosupshunk.com
 127.0.0.1 hotjar.com
 127.0.0.1 hrworld.com
@@ -1280,6 +1282,7 @@
 127.0.0.1 onesoft.com.vn
 127.0.0.1 onetrust.com
 127.0.0.1 onezapp.com
+127.0.0.1 onnanoko.tokyo
 127.0.0.1 opendns.zendesk.com
 127.0.0.1 openlog.tap.io
 127.0.0.1 open-vip.bmob.cn
