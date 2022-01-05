@@ -828,6 +828,7 @@
 127.0.0.1 scontent.fpku1-1.fna.fbcdn.net
 127.0.0.1 scontent.fpku1-2.fna.fbcdn.net
 127.0.0.1 scontent.fpku1-3.fna.fbcdn.net
+127.0.0.1 scontent.fpku3-1.fna.fbcdn.net
 127.0.0.1 scontent.fpku3-2.fna.fbcdn.net
 127.0.0.1 scontent-fra.xx.fbcdn.net
 127.0.0.1 scontent.fsjc1-2.fna.fbcdn.net
@@ -837,6 +838,10 @@
 127.0.0.1 scontent.fsub2-3.fna.fbcdn.net
 127.0.0.1 scontent.fsub2-4.fna.fbcdn.net
 127.0.0.1 scontent-gru.xx.fbcdn.net
+127.0.0.1 scontent-hkg4-1.cdninstagram.com
+127.0.0.1 scontent-hkg4-1.xx.fbcdn.net
+127.0.0.1 scontent-hkg4-2.cdninstagram.com
+127.0.0.1 scontent-hkg4-2.xx.fbcdn.net
 127.0.0.1 scontent-hkt1-1.cdninstagram.com
 127.0.0.1 scontent-hkt1-1.xx.fbcdn.net
 127.0.0.1 scontent-hkt1-2.cdninstagram.com
@@ -868,6 +873,7 @@
 127.0.0.1 scontent-sjc.xx.fbcdn.net
 127.0.0.1 scontent-vie.xx.fbcdn.net
 127.0.0.1 scontent-xsp1-1.cdninstagram.com
+127.0.0.1 scontent-xsp1-1.xx.fbcdn.net
 127.0.0.1 scontent-xsp1-2.cdninstagram.com
 127.0.0.1 scontent-xsp1-2.xx.fbcdn.net
 127.0.0.1 scontent-xsp1-3.cdninstagram.com
