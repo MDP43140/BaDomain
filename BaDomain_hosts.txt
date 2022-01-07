@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 05.01.2022
+# Version: 08.01.2022
 # Update: 1 days
 #
 
@@ -1747,6 +1747,7 @@
 127.0.0.1 swiftkey-android.iris.touchtype-fluency.com
 127.0.0.1 s.w.org
 127.0.0.1 swpsvc.com
+127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 system1.com
 127.0.0.1 t14.market.mi-img.com
 127.0.0.1 t2.chartboost.com
@@ -1988,7 +1989,6 @@
 127.0.0.1 www.acckwmhi.com
 127.0.0.1 www.apkeditorfree.com
 127.0.0.1 www.baidu.com
-127.0.0.1 www.bing.com
 127.0.0.1 www.cdn.viber.com
 127.0.0.1 www.ckmvkzurnd.com
 127.0.0.1 www.codashop.com

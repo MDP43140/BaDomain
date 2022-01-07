@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 05.01.2022
+# Version: 08.01.2022
 # Update: 1 days
 #
 
@@ -1747,6 +1747,7 @@ sweety-girls.online
 swiftkey-android.iris.touchtype-fluency.com
 s.w.org
 swpsvc.com
+sync.search.spotxchange.com
 system1.com
 t14.market.mi-img.com
 t2.chartboost.com
@@ -1988,7 +1989,6 @@ www76.nathanaeldan.pro
 www.acckwmhi.com
 www.apkeditorfree.com
 www.baidu.com
-www.bing.com
 www.cdn.viber.com
 www.ckmvkzurnd.com
 www.codashop.com
