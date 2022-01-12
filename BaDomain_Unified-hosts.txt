@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 08.01.2022
+# Version: 09.01.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -143,6 +143,7 @@
 127.0.0.1 adtechus.com
 127.0.0.1 adtilt.com
 127.0.0.1 ad.toutiao.com
+127.0.0.1 advertica-cdn.com
 127.0.0.1 advertising.com
 127.0.0.1 advertizer.com
 127.0.0.1 advertnative.com
@@ -407,8 +408,10 @@
 127.0.0.1 basket2.xyz
 127.0.0.1 bc0a.com
 127.0.0.1 bdapi-id.ads.heytapmobile.com
+127.0.0.1 beacon.page
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons.gvt2.com
+127.0.0.1 beacons.page
 127.0.0.1 beamngdrive.net
 127.0.0.1 bed.fyi
 127.0.0.1 beian.gov.cn
@@ -1441,6 +1444,7 @@
 127.0.0.1 postaffiliatepro.com
 127.0.0.1 postrelease.com
 127.0.0.1 powerad.ai
+127.0.0.1 pppbr.com
 127.0.0.1 pp.xpush.site
 127.0.0.1 prd.aadg.akadns.net
 127.0.0.1 prd.aadg.trafficmanager.net
@@ -2079,6 +2083,7 @@
 127.0.0.1 yieldmo.com
 127.0.0.1 yixiu-abtest.alicdn.com
 127.0.0.1 ykxipfcg.com
+127.0.0.1 ylx-aff.advertica-cdn.com
 127.0.0.1 ynuf.aliapp.org
 127.0.0.1 youme.im
 127.0.0.1 younggirls.today
