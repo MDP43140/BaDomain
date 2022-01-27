@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.01.2022
+# Version: 27.01.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -1179,6 +1179,7 @@
 127.0.0.1 log.tpns.hk.tencent.com
 127.0.0.1 loki.wattpad.com
 127.0.0.1 loli.net
+127.0.0.1 loptelink.pro
 127.0.0.1 loveme.uno
 127.0.0.1 lunalabs.io
 127.0.0.1 m1e.net
@@ -1407,6 +1408,7 @@
 127.0.0.1 parrable.com
 127.0.0.1 parsely.com
 127.0.0.1 partner.toutiao.com
+127.0.0.1 passportlab.xyz
 127.0.0.1 pasta.esfile.duapps.com
 127.0.0.1 pastibisajual.online
 127.0.0.1 path1.xtracloud.net
@@ -1415,6 +1417,7 @@
 127.0.0.1 pbbl.co
 127.0.0.1 pbssrv-centralevents.com
 127.0.0.1 pbs.twimg.com
+127.0.0.1 pcoptimizerpro.com
 127.0.0.1 pdfcylsmo.com
 127.0.0.1 pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
 127.0.0.1 pedulilindungi.com

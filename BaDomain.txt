@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.01.2022
+# Version: 27.01.2022
 # Update: 1 days
 #
 
@@ -1171,6 +1171,7 @@ logs.im-gb.com
 log.tpns.hk.tencent.com
 loki.wattpad.com
 loli.net
+loptelink.pro
 loveme.uno
 lunalabs.io
 m1e.net
@@ -1399,6 +1400,7 @@ pardot.com
 parrable.com
 parsely.com
 partner.toutiao.com
+passportlab.xyz
 pasta.esfile.duapps.com
 pastibisajual.online
 path1.xtracloud.net
@@ -1407,6 +1409,7 @@ path3.xtracloud.net
 pbbl.co
 pbssrv-centralevents.com
 pbs.twimg.com
+pcoptimizerpro.com
 pdfcylsmo.com
 pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
 pedulilindungi.com
