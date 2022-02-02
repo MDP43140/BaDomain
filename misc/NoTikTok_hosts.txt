@@ -2092,6 +2092,7 @@
 127.0.0.1 pstatp.com.xi.zwtianshangm.com
 127.0.0.1 p-t2.byteoversea.com
 127.0.0.1 p.tiktokcdn.com
+127.0.0.1 pull-c5-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-ab.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-gcp01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-gcp01.ttlivecdn.com
@@ -2110,6 +2111,7 @@
 127.0.0.1 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 127.0.0.1 pull-cmaf-f77-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-l10-sg01.tiktokcdn.com
+127.0.0.1 pull-cmaf-l16-tt01.tiktokcdn-us.com
 127.0.0.1 pull-cmaf-l16-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-l77-va01.tiktokcdn.com
 127.0.0.1 pull-f3-hs.pstatp.com
@@ -2157,6 +2159,7 @@
 127.0.0.1 pull-flv-l11.tiktokcdn.com
 127.0.0.1 pull-flv-l11-va01.tiktokcdn.com
 127.0.0.1 pull-flv-l11-va01.ttlivecdn.com
+127.0.0.1 pull-flv-l16-tt01.tiktokcdn-us.com
 127.0.0.1 pull-flv-l16-va01.tiktokcdn.com
 127.0.0.1 pull-flv-l1-admin.tiktokcdn.com
 127.0.0.1 pull-flv-l1-admin.tiktokcdn.com.wsdvs.com
@@ -2315,6 +2318,7 @@
 127.0.0.1 push-rtmp-l11.tiktokcdn.com
 127.0.0.1 push-rtmp-l11-va01.tiktokcdn.com
 127.0.0.1 push-rtmp-l11-va01.ttlivecdn.com
+127.0.0.1 push-rtmp-l16-tt01.tiktokcdn-us.com
 127.0.0.1 push-rtmp-l16-va01.tiktokcdn.com
 127.0.0.1 push-rtmp-l1-gcp01.tiktokcdn.com
 127.0.0.1 push-rtmp-l1-gcp01.ttlivecdn.com
@@ -3225,6 +3229,7 @@
 127.0.0.1 v37.tiktokcdn.com
 127.0.0.1 v38.tiktokcdn.com
 127.0.0.1 v39-ca.gts.byteoversea.net
+127.0.0.1 v39-id.tiktokcdn.com
 127.0.0.1 v39.muscdn.com
 127.0.0.1 v39.tiktokcdn.com
 127.0.0.1 v39-us.gts.byteoversea.net
@@ -3563,6 +3568,7 @@
 127.0.0.1 webcast16-useast2a.musical.ly.edgekey.net
 127.0.0.1 webcast16-va.tiktokv.com
 127.0.0.1 webcast16-va.tiktokv.com.edgekey.net
+127.0.0.1 webcast16-ws-useast2a.tiktokv.com
 127.0.0.1 webcast19.musical.ly
 127.0.0.1 webcast19-normal-c-alisg.tiktokv.com
 127.0.0.1 webcast19-normal-c-useast1a.tiktokv.com
@@ -3579,6 +3585,7 @@
 127.0.0.1 webcast21-useast2a.musical.ly
 127.0.0.1 webcast21-va.tiktokv.com
 127.0.0.1 webcast22-normal-c-useast2a.tiktokv.com
+127.0.0.1 webcast22-ws-useast2a.tiktokv.com
 127.0.0.1 webcast26.amemv.com
 127.0.0.1 webcast26-c.amemv.com
 127.0.0.1 webcast26-c.amemv.com.w.cdngslb.com

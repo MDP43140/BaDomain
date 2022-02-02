@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.01.2022
+# Version: 02.02.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -229,6 +229,7 @@
 127.0.0.1 api.airtable.com
 127.0.0.1 api.anythinktech.com
 127.0.0.1 api-apac.bidmachine.io
+127.0.0.1 api.appsflyer.com
 127.0.0.1 api-auth.kinemasters.com
 127.0.0.1 api.bidmachine.io
 127.0.0.1 api.black.riseup.net
@@ -250,6 +251,7 @@
 127.0.0.1 api-gl.cdo.heytapmobile.com
 127.0.0.1 api-gl.store.heytapmobi.com
 127.0.0.1 api-gl.theme.heytapmobile.com
+127.0.0.1 api.hisavana.com
 127.0.0.1 api-id.cdo.heytapmobile.com
 127.0.0.1 api-id.game.heytapmobi.com
 127.0.0.1 api-id.play.heytapmobile.com
@@ -316,6 +318,7 @@
 127.0.0.1 appsflyer.com
 127.0.0.1 apps.i59400f.xyz
 127.0.0.1 appsinnova.com
+127.0.0.1 app.snapchat.com
 127.0.0.1 apps.outfit7.com
 127.0.0.1 appspot.com
 127.0.0.1 app.toutiao.com
@@ -356,6 +359,7 @@
 127.0.0.1 asia-romsp-unifyconfig.vivoglobal.com
 127.0.0.1 asia-ro-up.vivoglobal.com
 127.0.0.1 asia-sms-api.vivoglobal.com
+127.0.0.1 asia-southeast1-gcp.api.snapchat.com
 127.0.0.1 asia-static-vp.vivoglobal.com
 127.0.0.1 asia-st-exappupgrade.vivoglobal.com
 127.0.0.1 asia-stp.vivoglobal.com
@@ -393,6 +397,8 @@
 127.0.0.1 avcdn.net
 127.0.0.1 avlyun.com
 127.0.0.1 a.wattpad.com
+127.0.0.1 aws.api.snapchat.com
+127.0.0.1 aws.duplex.snapchat.com
 127.0.0.1 axiata-lk-43c53a330e9-he.fortumo.io
 127.0.0.1 azureedge.net
 127.0.0.1 b1.nel.goog
@@ -435,6 +441,8 @@
 127.0.0.1 bluekai.com
 127.0.0.1 blyjh.com
 127.0.0.1 bofxxjgiejdp
+127.0.0.1 bolt-gcdn.sc-cdn.net
+127.0.0.1 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 127.0.0.1 bombora.com
 127.0.0.1 box5757.temp.domains
 127.0.0.1 brainly.app.link
@@ -507,6 +515,7 @@
 127.0.0.1 cengine.contextads.live
 127.0.0.1 cfg.oneboost.me
 127.0.0.1 cf.shopee.co.id
+127.0.0.1 cf-st.sc-cdn.net
 127.0.0.1 chargebee.com
 127.0.0.1 chartbeat.com
 127.0.0.1 chartboost.com
@@ -599,6 +608,7 @@
 127.0.0.1 c.tenor.com
 127.0.0.1 ctfassets.net
 127.0.0.1 cuminside.uno
+127.0.0.1 cutegirl.my.id
 127.0.0.1 cuttlela.ucweb.com
 127.0.0.1 c.y5en.com
 127.0.0.1 cy-api.tysondata.com
@@ -811,6 +821,7 @@
 127.0.0.1 gauss-sauoldcostmanual-sg.allawnofs.com
 127.0.0.1 gcmapi.like-it.video
 127.0.0.1 gcp.api.snapchat.com
+127.0.0.1 gcs.sc-cdn.net
 127.0.0.1 gdanstum.net
 127.0.0.1 g.ekatox.com
 127.0.0.1 geoip-db.com
@@ -887,6 +898,7 @@
 127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gtimg.cn
 127.0.0.1 gtimg.com
+127.0.0.1 gtq6.sct.sc-prod.net
 127.0.0.1 guid.tpns.hk.tencent.com
 127.0.0.1 gumgum.com
 127.0.0.1 gumroad.com
@@ -913,6 +925,7 @@
 127.0.0.1 hidester.postaffiliatepro.com
 127.0.0.1 highcharts.com
 127.0.0.1 hippy.stream.kg.qq.com
+127.0.0.1 hisavana.com
 127.0.0.1 history.google.com
 127.0.0.1 hk.app.joox.com
 127.0.0.1 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
@@ -1192,6 +1205,7 @@
 127.0.0.1 marketo.net
 127.0.0.1 mars.gamegamb.com
 127.0.0.1 mathtag.com
+127.0.0.1 ma.wattpad.com
 127.0.0.1 m.baidu.com
 127.0.0.1 mbgame.anticheatexpert.com
 127.0.0.1 m.caping.co.id
@@ -1282,6 +1296,7 @@
 127.0.0.1 musicradio.com
 127.0.0.1 mutinycdn.com
 127.0.0.1 mv.lunalabs.io
+127.0.0.1 mvm.snapchat.com
 127.0.0.1 mv-playground.lunalabs.uk
 127.0.0.1 mxpnl.com
 127.0.0.1 mxptint.net
@@ -1458,6 +1473,7 @@
 127.0.0.1 prismic.io
 127.0.0.1 privacy-policy.truste.com
 127.0.0.1 privatematchfz.com
+127.0.0.1 pro-accounts.snapchat.com
 127.0.0.1 pro-a-seracc-cdn.im-gb.com
 127.0.0.1 pro-a-user-avatar-cdn.im-gb.com
 127.0.0.1 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
@@ -1673,6 +1689,8 @@
 127.0.0.1 smartlook.com
 127.0.0.1 sm.bdimg.com
 127.0.0.1 sm.ms
+127.0.0.1 sms.webadv.co
+127.0.0.1 snapchat.com
 127.0.0.1 snapengage.com
 127.0.0.1 snapgirls.today
 127.0.0.1 snigelweb.com
@@ -1816,6 +1834,7 @@
 127.0.0.1 tongdun.net
 127.0.0.1 toolbox.com
 127.0.0.1 topgirls.uno
+127.0.0.1 topic-sticker-vending.snapchat.com
 127.0.0.1 toutiao.com
 127.0.0.1 tpai.caping.co.id
 127.0.0.1 t.pubmatic.com
@@ -1874,7 +1893,10 @@
 127.0.0.1 upgrade.shalltry.com
 127.0.0.1 ureca.samsungapps.com
 127.0.0.1 us-api.mcsvc.samsung.com
+127.0.0.1 us-central1-gcp.api.snapchat.com
 127.0.0.1 uscreen.tv
+127.0.0.1 us-east1-aws.api.snapchat.com
+127.0.0.1 us-east4-gcp.api.snapchat.com
 127.0.0.1 useinsider.com
 127.0.0.1 user-api.ucweb.com
 127.0.0.1 user.haokan.mobi
@@ -1937,7 +1959,9 @@
 127.0.0.1 vs3.wshareit.com
 127.0.0.1 vs-api.like-it.video
 127.0.0.1 vs-api.wshareit.com
+127.0.0.1 vskit.tv
 127.0.0.1 v.sogou.com
+127.0.0.1 vthird-log.vskit.tv
 127.0.0.1 vuclipi-a.akamaihd.net
 127.0.0.1 vum.fyi
 127.0.0.1 vungle2-cdn-prod.s3.amazonaws.com
@@ -1960,6 +1984,7 @@
 127.0.0.1 weatherapi.intl.xiaomi.com
 127.0.0.1 weatherapi.market.xiaomi.com
 127.0.0.1 weather-data.apple.com
+127.0.0.1 webadv.co
 127.0.0.1 webapi-clean.ikeepapps.com
 127.0.0.1 webdesignerdepot.com
 127.0.0.1 web.likeitlite.com
@@ -2013,6 +2038,7 @@
 127.0.0.1 www.glamour.com
 127.0.0.1 www.googleapis.cn
 127.0.0.1 www.google.cn
+127.0.0.1 www.google.ru
 127.0.0.1 www.hastopic.com
 127.0.0.1 www.hippoobox.com
 127.0.0.1 www.iconsdb.com
@@ -2057,8 +2083,10 @@
 127.0.0.1 xdg-1c20f-intl.xd.com
 127.0.0.1 xdg-2fc4a-intl.xd.com
 127.0.0.1 xdg-3da8a-intl.xd.com
+127.0.0.1 x.glance-cdn.com
 127.0.0.1 x.glance-cdn.net
 127.0.0.1 x-id.ls.glanceapis.com
+127.0.0.1 x-in.glance-cdn.net
 127.0.0.1 xjp-msgacs.m.taobao.com
 127.0.0.1 xlaxiata2.md-apis.medallia.com
 127.0.0.1 xlaxiata-resources.digital-cloud-sin1.medallia.com
@@ -5298,6 +5326,7 @@
 127.0.0.1 pstatp.com.xi.zwtianshangm.com
 127.0.0.1 p-t2.byteoversea.com
 127.0.0.1 p.tiktokcdn.com
+127.0.0.1 pull-c5-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-ab.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-gcp01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-gcp01.ttlivecdn.com
@@ -5316,6 +5345,7 @@
 127.0.0.1 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 127.0.0.1 pull-cmaf-f77-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-l10-sg01.tiktokcdn.com
+127.0.0.1 pull-cmaf-l16-tt01.tiktokcdn-us.com
 127.0.0.1 pull-cmaf-l16-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-l77-va01.tiktokcdn.com
 127.0.0.1 pull-f3-hs.pstatp.com
@@ -5363,6 +5393,7 @@
 127.0.0.1 pull-flv-l11.tiktokcdn.com
 127.0.0.1 pull-flv-l11-va01.tiktokcdn.com
 127.0.0.1 pull-flv-l11-va01.ttlivecdn.com
+127.0.0.1 pull-flv-l16-tt01.tiktokcdn-us.com
 127.0.0.1 pull-flv-l16-va01.tiktokcdn.com
 127.0.0.1 pull-flv-l1-admin.tiktokcdn.com
 127.0.0.1 pull-flv-l1-admin.tiktokcdn.com.wsdvs.com
@@ -5521,6 +5552,7 @@
 127.0.0.1 push-rtmp-l11.tiktokcdn.com
 127.0.0.1 push-rtmp-l11-va01.tiktokcdn.com
 127.0.0.1 push-rtmp-l11-va01.ttlivecdn.com
+127.0.0.1 push-rtmp-l16-tt01.tiktokcdn-us.com
 127.0.0.1 push-rtmp-l16-va01.tiktokcdn.com
 127.0.0.1 push-rtmp-l1-gcp01.tiktokcdn.com
 127.0.0.1 push-rtmp-l1-gcp01.ttlivecdn.com
@@ -6431,6 +6463,7 @@
 127.0.0.1 v37.tiktokcdn.com
 127.0.0.1 v38.tiktokcdn.com
 127.0.0.1 v39-ca.gts.byteoversea.net
+127.0.0.1 v39-id.tiktokcdn.com
 127.0.0.1 v39.muscdn.com
 127.0.0.1 v39.tiktokcdn.com
 127.0.0.1 v39-us.gts.byteoversea.net
@@ -6769,6 +6802,7 @@
 127.0.0.1 webcast16-useast2a.musical.ly.edgekey.net
 127.0.0.1 webcast16-va.tiktokv.com
 127.0.0.1 webcast16-va.tiktokv.com.edgekey.net
+127.0.0.1 webcast16-ws-useast2a.tiktokv.com
 127.0.0.1 webcast19.musical.ly
 127.0.0.1 webcast19-normal-c-alisg.tiktokv.com
 127.0.0.1 webcast19-normal-c-useast1a.tiktokv.com
@@ -6785,6 +6819,7 @@
 127.0.0.1 webcast21-useast2a.musical.ly
 127.0.0.1 webcast21-va.tiktokv.com
 127.0.0.1 webcast22-normal-c-useast2a.tiktokv.com
+127.0.0.1 webcast22-ws-useast2a.tiktokv.com
 127.0.0.1 webcast26.amemv.com
 127.0.0.1 webcast26-c.amemv.com
 127.0.0.1 webcast26-c.amemv.com.w.cdngslb.com

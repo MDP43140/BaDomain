@@ -13,6 +13,7 @@ for i in "$@";do
 			echo "-------------------------"
 			echo " help               | Display this help page"
 			echo " build              | Cleans old files, Cleans dupes, Create hosts files"
+			echo " build_all_clean    | Cleans old files and dupes, Create all hosts files, and clean again"
 			echo " mkHosts            | Create hosts file"
 			echo " mkHosts_misc       | Create hosts file (misc)"
 			echo " mkHosts_uni        | Create hosts file (universal)"
