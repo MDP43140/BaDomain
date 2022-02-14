@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.02.2022
+# Version: 15.02.2022
 # Update: 1 days
 #
 
@@ -525,6 +525,7 @@
 127.0.0.1 ckmvkzurnd.com
 127.0.0.1 cl4.apple.com
 127.0.0.1 cleanmaster.club
+127.0.0.1 cleverpush.com
 127.0.0.1 clickagy.com
 127.0.0.1 clientapi-sin.dtignite.com
 127.0.0.1 client-uc.heytapmobi.com
@@ -1185,6 +1186,7 @@
 127.0.0.1 loki.wattpad.com
 127.0.0.1 loli.net
 127.0.0.1 loptelink.pro
+127.0.0.1 lovelybabestu.com
 127.0.0.1 loveme.uno
 127.0.0.1 lunalabs.io
 127.0.0.1 m1e.net
@@ -1768,6 +1770,7 @@
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 s.viiert.com
 127.0.0.1 s.viioxx.com
+127.0.0.1 sweet-girls18.com
 127.0.0.1 sweety-girls.online
 127.0.0.1 swiftkey-android.iris.touchtype-fluency.com
 127.0.0.1 s.w.org
@@ -1934,6 +1937,7 @@
 127.0.0.1 v.lsttnews.com
 127.0.0.1 vnclip.net
 127.0.0.1 vntsm.com
+127.0.0.1 vob.fyi
 127.0.0.1 voe.fyi
 127.0.0.1 voip-news.com
 127.0.0.1 vom.black
@@ -1956,6 +1960,8 @@
 127.0.0.1 vthird-log.vskit.tv
 127.0.0.1 vuclipi-a.akamaihd.net
 127.0.0.1 vum.fyi
+127.0.0.1 vum.ngo
+127.0.0.1 vun.fyi
 127.0.0.1 vungle2-cdn-prod.s3.amazonaws.com
 127.0.0.1 vungle.com
 127.0.0.1 vur.fyi
@@ -2023,6 +2029,7 @@
 127.0.0.1 www.baidu.com
 127.0.0.1 www.cdn.viber.com
 127.0.0.1 www.ckmvkzurnd.com
+127.0.0.1 www.cleverpush.com
 127.0.0.1 www.codashop.com
 127.0.0.1 www.dob5.com
 127.0.0.1 www.duolaipk.com
@@ -2039,6 +2046,7 @@
 127.0.0.1 www.letucook.com
 127.0.0.1 www.linkedin.com
 127.0.0.1 www.litatom.com
+127.0.0.1 www.lovelybabestu.com
 127.0.0.1 www.maskolis.com
 127.0.0.1 www.meongers.com
 127.0.0.1 www.minonav.com
@@ -2054,13 +2062,20 @@
 127.0.0.1 www.shareaholic.net
 127.0.0.1 www.sixtest.com
 127.0.0.1 www.slideshare.net
+127.0.0.1 www.sweet-girls18.com
 127.0.0.1 www.taobao.com
 127.0.0.1 www.tap.io
 127.0.0.1 www.toutiao.com
 127.0.0.1 www.unipin.com
 127.0.0.1 www.viber.com
 127.0.0.1 www.vidio.com
+127.0.0.1 www.vob.fyi
 127.0.0.1 www.voovlive.com
+127.0.0.1 www.vum.fyi
+127.0.0.1 www.vum.ngo
+127.0.0.1 www.vun.fyi
+127.0.0.1 www.vur.fyi
+127.0.0.1 www.vyn.fyi
 127.0.0.1 www.wajibbaca.top
 127.0.0.1 www.wattpad.com
 127.0.0.1 www.wuueqejuratzdz.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.02.2022
+# Version: 15.02.2022
 # Update: 1 days
 #
 
@@ -525,6 +525,7 @@ churnzero.net
 ckmvkzurnd.com
 cl4.apple.com
 cleanmaster.club
+cleverpush.com
 clickagy.com
 clientapi-sin.dtignite.com
 client-uc.heytapmobi.com
@@ -1185,6 +1186,7 @@ log.tpns.hk.tencent.com
 loki.wattpad.com
 loli.net
 loptelink.pro
+lovelybabestu.com
 loveme.uno
 lunalabs.io
 m1e.net
@@ -1768,6 +1770,7 @@ svc-cf.samsungdm.com
 svibeacon.onezapp.com
 s.viiert.com
 s.viioxx.com
+sweet-girls18.com
 sweety-girls.online
 swiftkey-android.iris.touchtype-fluency.com
 s.w.org
@@ -1934,6 +1937,7 @@ vlitag.com
 v.lsttnews.com
 vnclip.net
 vntsm.com
+vob.fyi
 voe.fyi
 voip-news.com
 vom.black
@@ -1956,6 +1960,8 @@ v.sogou.com
 vthird-log.vskit.tv
 vuclipi-a.akamaihd.net
 vum.fyi
+vum.ngo
+vun.fyi
 vungle2-cdn-prod.s3.amazonaws.com
 vungle.com
 vur.fyi
@@ -2023,6 +2029,7 @@ www.apkeditorfree.com
 www.baidu.com
 www.cdn.viber.com
 www.ckmvkzurnd.com
+www.cleverpush.com
 www.codashop.com
 www.dob5.com
 www.duolaipk.com
@@ -2039,6 +2046,7 @@ www.jd.com
 www.letucook.com
 www.linkedin.com
 www.litatom.com
+www.lovelybabestu.com
 www.maskolis.com
 www.meongers.com
 www.minonav.com
@@ -2054,13 +2062,20 @@ www.servicewebly.com
 www.shareaholic.net
 www.sixtest.com
 www.slideshare.net
+www.sweet-girls18.com
 www.taobao.com
 www.tap.io
 www.toutiao.com
 www.unipin.com
 www.viber.com
 www.vidio.com
+www.vob.fyi
 www.voovlive.com
+www.vum.fyi
+www.vum.ngo
+www.vun.fyi
+www.vur.fyi
+www.vyn.fyi
 www.wajibbaca.top
 www.wattpad.com
 www.wuueqejuratzdz.com
