@@ -632,6 +632,7 @@
 127.0.0.1 instagram.fcgk6-2.fna.fbcdn.net
 127.0.0.1 instagram.fhyd12-1.fna.fbcdn.net
 127.0.0.1 instagram.fkul14-1.fna.fbcdn.net
+127.0.0.1 instagram.fnag1-2.fna.fbcdn.net
 127.0.0.1 instagram.fpen2-1.fna.fbcdn.net
 127.0.0.1 instagram.fpku1-1.fna.fbcdn.net
 127.0.0.1 instagram.fpku1-2.fna.fbcdn.net
@@ -708,6 +709,7 @@
 127.0.0.1 m.facebook.com
 127.0.0.1 mobile.facebook.com
 127.0.0.1 mqtt.c10r.facebook.com
+127.0.0.1 mqtt-ig-p4.facebook.com
 127.0.0.1 mqtt-mini.facebook.com
 127.0.0.1 mqtt.vvv.facebook.com
 127.0.0.1 ncontent.xx.fbcdn.net
@@ -950,6 +952,7 @@
 127.0.0.1 video.fcgk35-1.fna.fbcdn.net
 127.0.0.1 video.fcgk7-1.fna.fbcdn.net
 127.0.0.1 video.fcgk7-2.fna.fbcdn.net
+127.0.0.1 video.fkno2-1.fna.fbcdn.net
 127.0.0.1 video.fpku1-1.fna.fbcdn.net
 127.0.0.1 video.fpku1-2.fna.fbcdn.net
 127.0.0.1 video.fpku1-3.fna.fbcdn.net

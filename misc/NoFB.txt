@@ -631,6 +631,7 @@ instagram.fcgk4-6.fna.fbcdn.net
 instagram.fcgk6-2.fna.fbcdn.net
 instagram.fhyd12-1.fna.fbcdn.net
 instagram.fkul14-1.fna.fbcdn.net
+instagram.fnag1-2.fna.fbcdn.net
 instagram.fpen2-1.fna.fbcdn.net
 instagram.fpku1-1.fna.fbcdn.net
 instagram.fpku1-2.fna.fbcdn.net
@@ -707,6 +708,7 @@ media-xsp1-3.cdn.whatsapp.net
 m.facebook.com
 mobile.facebook.com
 mqtt.c10r.facebook.com
+mqtt-ig-p4.facebook.com
 mqtt-mini.facebook.com
 mqtt.vvv.facebook.com
 ncontent.xx.fbcdn.net
@@ -949,6 +951,7 @@ video.fcgk3-1.fna.fbcdn.net
 video.fcgk35-1.fna.fbcdn.net
 video.fcgk7-1.fna.fbcdn.net
 video.fcgk7-2.fna.fbcdn.net
+video.fkno2-1.fna.fbcdn.net
 video.fpku1-1.fna.fbcdn.net
 video.fpku1-2.fna.fbcdn.net
 video.fpku1-3.fna.fbcdn.net

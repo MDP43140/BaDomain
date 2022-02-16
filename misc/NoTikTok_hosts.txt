@@ -2248,6 +2248,7 @@
 127.0.0.1 pull-l3-xg.ixigua.com.xi.zwtianshangm.com
 127.0.0.1 pull-lls-l11-sg01.tiktokcdn.com
 127.0.0.1 pull-lls-l11.tiktokcdn.com
+127.0.0.1 pull-q5-gcp01.tiktokcdn.com
 127.0.0.1 pull-q5-sg01.tiktokcdn.com
 127.0.0.1 pull-q5.tiktokcdn.com
 127.0.0.1 pull-q5.tiktokcdn.com.c.worldfcdn.com
@@ -2291,6 +2292,7 @@
 127.0.0.1 pull-rtmp-l6-hs.pstatp.com
 127.0.0.1 pull-rtmp-l6-xg.bytecdn.cn
 127.0.0.1 pull-source-cmaf-f5.hypstarcdn.com
+127.0.0.1 pull-w5-gcp01.tiktokcdn.com
 127.0.0.1 pull-w5-sg01.tiktokcdn.com
 127.0.0.1 pull-w5.tiktokcdn.com
 127.0.0.1 pull-w5.tiktokcdn.com.c.worldfcdn.com
