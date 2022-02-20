@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.02.2022
+# Version: 20.02.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -1416,6 +1416,7 @@
 127.0.0.1 onnanoko.tokyo
 127.0.0.1 openapi.joox.com
 127.0.0.1 opendns.zendesk.com
+127.0.0.1 openfpcdn.io
 127.0.0.1 openlog.tap.io
 127.0.0.1 open-vip.bmob.cn
 127.0.0.1 openwifi.ucweb.com
@@ -1722,6 +1723,7 @@
 127.0.0.1 sharing-config.spotifycdn.com
 127.0.0.1 shepherd.ff.avast.com
 127.0.0.1 shepherd.sb.avast.com
+127.0.0.1 shib22.pro
 127.0.0.1 shopzilla.com
 127.0.0.1 shortapi.admixplay.com
 127.0.0.1 shortener.secureserver.net
