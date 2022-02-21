@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 20.02.2022
+# Version: 21.02.2022
 # Update: 1 days
 #
 
@@ -23,6 +23,8 @@
 201205igp.gameloft.com
 20ca2.playfabapi.com
 232.138.196.35.bc.googleusercontent.com
+247extratech.com
+247hacks.net
 2mdn.net
 2tx120.1g5k5w.com
 33across.com
@@ -166,6 +168,7 @@ ai.iteldrive.com
 a.impactradius-go.com
 airtable.com
 aishite.tokyo
+aisuru.tokyo
 akadns.net
 aka-dsa.wesingapp.com
 akamaiedge.net
@@ -358,6 +361,7 @@ asia-img-appstore.vivoglobal.com
 asia-magazineunlock.vivoglobal.com
 asia-mailcli.vivoglobal.com
 asia-news-abroad.vivo.com
+asianteen.space
 asia-os-config-appstore.vivoglobal.com
 asia-p.vivoglobal.com
 asia-rommc-api.vivoglobal.com
@@ -388,6 +392,7 @@ assets.tower.sybo.net
 assets.ubembed.com
 associates-amazon.com
 astra9dlya10.com
+astratech.pro
 atwola.com
 auction.unityads.unity3d.com
 audid-api-sg.taobao.com
@@ -408,6 +413,7 @@ axiata-lk-43c53a330e9-he.fortumo.io
 azureedge.net
 b1.nel.goog
 baby-girls.id
+baby-girls.my.id
 babyzee.uno
 bag.itunes.apple.com
 baidu.com
@@ -424,18 +430,24 @@ beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons.page
 beamngdrive.net
+beautygirls.online
+beautyzone.cam
+beautyzone.com
 bed.fyi
 beian.gov.cn
 beian.miit.gov.cn
 bendingspoonsapps.com
 bendingspoons.com
 bestcards.online
+bestdate.top
 bf19405wzd.bf.dynatrace.com
 bf54607cnw.bf.dynatrace.com
 bibblio.org
 bidmachine.io
 bidr.io
 bigappboi.com
+bigasschubby.com
+bigbooty.online
 bighop.com
 bilikfilm.xyz
 billigrefinansiering.com
@@ -468,6 +480,8 @@ bucket-img.y5en.com
 bugsnag.com
 buhatfjrk9dje10eme.com
 buildit-api.zepeto.me
+bunnygirlss.site
+buxadder.club
 buysellads.com
 buysellads.net
 by3pcor001-com.be.1drv.com
@@ -482,6 +496,7 @@ captive.apple.com
 carbonads.com
 cardgen.uno
 casalemedia.com
+cashend.me
 ccgateway.net
 c.cnzz.com
 cdn0-production-images-kly.akamaized.net
@@ -522,6 +537,7 @@ cdn.wetest.qq.com
 cdnwidget.com
 cds-app.y5en.com
 cengine.contextads.live
+centre.baby
 cfg.oneboost.me
 cf.shopee.co.id
 cf-st.sc-cdn.net
@@ -663,6 +679,8 @@ datalake.gameloft.com
 data-rep.livetech.shopee.co.id
 dat.gen.in
 datting.click
+datting.link
+datting.online
 dbn41syzjymrk.cloudfront.net
 dc1.networkbench.com
 dcb.fortumo.com
@@ -685,7 +703,9 @@ delivery.contextads.live
 demandbase.com
 demand.supply
 demdex.net
+demo.mipunet.cn
 deo.shopeemobile.com
+derk.bar
 de.slideshare.net
 detectportal.prod.cloudops.mozgcp.net
 developers.google.cn
@@ -696,6 +716,7 @@ df.infra.sz.shopee.co.id
 dhfs-id.heytapimage.com
 dhfs-in.heytapimage.com
 dhfs-my.heytapimage.com
+dhisex.uno
 diagmon-serviceapi.samsungdm.com
 dictionary.map.fastly.net
 digitalriver.com
@@ -707,6 +728,7 @@ dmcdn.net
 dm.samsungdive.com
 dn.im-gb.com
 dns11.quad9.net
+dns9.hichina.com
 dns.oppomobile.com
 dns.sb
 dns-tunnel-check.googlezip.net
@@ -714,9 +736,11 @@ do7nu6l5erzu3.cloudfront.net
 dob5.com
 doh.iq.com
 dokl7xqu9svnv.cloudfront.net
+dollarbrite.com
 domaincfg.vivoglobal.com
 domain.trialogger.com
 do-not-tracker.org
+dosgen.monster
 dot.iq.com
 dotomi.com
 doubleclick.net
@@ -743,6 +767,7 @@ e673.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
+easymakesolution.com
 echo-tcp-org.y5en.com
 edgecastcdn.net
 ekiga.net
@@ -778,19 +803,23 @@ events.appsflyer.com
 events.backtrace.io
 events.mz.unity3d.com
 everinform.com
+everyday.cf
 evidon.com
 eviltracker.net
 example.org
 execute-api.eu-west-1.amazonaws.com
 exelator.com
 experts-exchange.com
+exploitbyte.net
 extremetech.com
+eyeonsight.net
 eyeota.net
 ezodn.com
 ezoiccdn.com
 ezoic.net
 ezojs.com
 f001.backblazeb2.com
+fafa.bar
 fankui.help.sogou.com
 fans.sports.qq.com
 farsroid.com
@@ -813,7 +842,9 @@ flix.bar
 flocdn.com
 flow.maribacaberita.com
 fluidplayer.com
+fluxmud.quest
 footprints-pa.googleapis.com
+forepl4y.com
 fortawesome.com
 fortumo.com
 fortumo.io
@@ -834,6 +865,7 @@ fsdn.com
 ftblltrck.com
 ftp.lysator.liu.se
 funbe.rjifxuqoo
+funnymuvie.online
 fuseplatform.net
 fuwu.sogou.com
 fwmrm.net
@@ -844,6 +876,7 @@ gameguardian.b-cdn.net
 gameimg.heytapimg.com
 gameloft.com
 gameportal.casa
+gametool10.ml
 g-api.ekatox.com
 g-api.kwaipros.com
 gateway.fe.apple-dns.net
@@ -858,6 +891,7 @@ g.ekatox.com
 geoip-db.com
 geojs.io
 geolocation-db.com
+germs-love.store
 get-bx.g.aaplimg.com
 getclicky.com
 getduckduckgo.com
@@ -954,6 +988,8 @@ helpscout.net
 help.sogou.com
 heytapdl.com
 heytapmobile.com
+hhhh.uno
+hichina.com
 hicloud.com
 hidester.postaffiliatepro.com
 highcharts.com
@@ -968,11 +1004,13 @@ hm.baidu.com
 homepage.vivo.com
 horizonme.net
 horneymom.today
+hostmaster.hichina.com
 hosupshunk.com
 hot-girls18.com
 hotjar.com
 hotlove.uno
 hot-teens24.online
+houseof-lust.xyz
 hrtechprivacy.com
 hrworld.com
 hsforms.net
@@ -1220,6 +1258,7 @@ lkqd.net
 lmhorse.se
 lnk.news
 load18.biz
+localdate.monster
 location.apps.oppomobile.com
 lockersatelic.cam
 loc.map.baidu.com
@@ -1286,6 +1325,7 @@ minoplay.com
 minoregimen.com
 minozodiac.com
 mi-pre.shalltry.com
+mipunet.cn
 mirabelle.uno
 misc-pili-qos-report.qiniuapi.com
 miservice.comm.miui.com
@@ -1353,8 +1393,10 @@ nativepu.sh
 ncaudienceexchange.com
 netdna-cdn.com
 netdna-ssl.com
+netpayjob.com
 net.simontok.site
 network.ssacdn.com
+newdebut-av.monster
 newds01.myoppo.com
 newds02.myoppo.com
 new.qq.com
@@ -1368,6 +1410,7 @@ nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
 nflxvideo.net
 nightfallinquiredune.com
 nj.cschannel.anticheatexpert.com
+nmnm.lol
 northpoleitalia.it
 notif.quizizz.com
 novac.gameloft.com
@@ -1417,6 +1460,7 @@ oppo-oem.avira-update.com
 optad360.io
 orangeclickmedia.com
 orange-dc.lazada.com
+orxhacks.com
 os-code.shalltry.com
 osfeature.shalltry.com
 oshola.shalltry.com
@@ -1432,7 +1476,9 @@ otnolatrnup.com
 outbrain.com
 outcome-ssp.supersonicads.com
 over.net
+owap.bar
 owneriq.net
+ozap.bar
 p0.ipstatp.com
 p0.pstatp.com
 p10.pstatp.com
@@ -1502,6 +1548,7 @@ player.bokep234.com
 player-ivideosmart-com.cdn.ampproject.org
 plugin-server.wps.com
 p-n.io
+podrbx.best
 pool.apk.aptoide.com
 pornozot.com
 postaffiliatepro.com
@@ -1557,6 +1604,7 @@ pxf.io
 pxksnymto.ru
 qbox.me
 qiniuapi.com
+qotu.bar
 qq.com
 qualtrics.com
 quantcount.com
@@ -1571,6 +1619,8 @@ rakuten.tv
 ralijqugghwqil.com
 ravenjs.com
 rbux88.com
+rbxr.monster
+rbxton.online
 rebuilt.pro.ilovexclub.com
 rebuilt.pro.ilovexclub.net
 redirectingat.com
@@ -1610,6 +1660,8 @@ riseup.net
 rkdms.com
 rlcdn.com
 robwu.nl
+robyoc.online
+romanhackers.com
 rosenberg.appmetrica.yandex.net
 rpc.tapjoy.com
 rrpgndqmmdry.art
@@ -1691,8 +1743,10 @@ sentry.prod.mozaws.net
 servedby-buysellads.com
 serving-sys.com
 settings.picsart.com
+sex69.uno
 sexoporno.uno
 sexposition.uno
+sexxdating.site
 sexxo.baby
 sf19-fe-tos-sg.pglstatp.com
 sfdict.com
@@ -1707,6 +1761,7 @@ sg-idm.api.io.mi.com
 sgp-img-c.heytapimg.com
 sgpstatp.com
 sg.tdatamaster.com
+shake-body.com
 shalltry.com
 shareaholic.net
 sharepointonline.com
@@ -1739,13 +1794,16 @@ slashdotmedia.com
 smaato.net
 smartadserver.com
 smartcardf-eu.apps.coloros.com
+smarthackerstech.org
 smartlook.com
 sm.bdimg.com
 sm.ms
 sms.webadv.co
 snapchat.com
 snapengage.com
+snapgirls.date
 snapgirls.today
+snapgirls.uno
 snigelweb.com
 snssdk.com
 socialapp.top
@@ -1759,6 +1817,7 @@ sonora.id
 source.servicewebly.com
 sp-497f6f2f.honzik.avcdn.net
 space.toutiao.com
+specialdate.my.id
 specificclick.net
 specificmedia.com
 speedcurve.com
@@ -1858,6 +1917,7 @@ tappco.go2cloud.org
 t.appsflyer.com
 tarot.minozodiac.com
 techbargains.com
+technopawns.com
 tecno.servicewebly.com
 tengame.net
 tenor.co
@@ -1872,6 +1932,7 @@ theme.shalltry.com
 theme.zdassets.com
 themoviedb.org
 thesaurus.com
+thespacehackers.com
 thinksuggest.org
 threadloom.com
 thrtle.com
@@ -1894,6 +1955,7 @@ tongdun.net
 toolbox.com
 topgirls.uno
 topic-sticker-vending.snapchat.com
+toprbx.best
 toutiao.com
 tpai.caping.co.id
 t.pubmatic.com
@@ -1912,10 +1974,12 @@ tria.ge
 tribalfusion.com
 tribl.io
 trnox.com
+trojanarticle.com
 truefornite.com
 truepush.com
 trustarc.com
 ts.qq.com
+tubesex.uno
 tuplogpublic.bangcdn.net
 turn.com
 t.wattpad.com
@@ -1943,6 +2007,7 @@ undertone.com
 uniconsent.com
 uniid.lol
 unipin.com
+universehackworld.org
 u.nu
 upapi.net
 update.bosbosupdate.net
@@ -2059,6 +2124,7 @@ webstore.ucweb.com
 web.toutiao.com
 webview.unityads.unity3d.com
 webvisor.com
+wedn.best
 weglot.com
 weibo.com
 weixin.sogou.com
@@ -2158,6 +2224,7 @@ x8sb.com
 x8speeder.com
 x8zs.cok
 xad.com
+xbritclone.net
 xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com
 xdg-3da8a-intl.xd.com
@@ -2197,8 +2264,11 @@ ylx-aff.advertica-cdn.com
 ynuf.aliapp.org
 youme.im
 younggirls.today
+youngunt.online
 youtube.fbunion.com
 youtube.ong
+youtuuu.tokyo
+ytwon.com
 yuki-cdn.line-apps.com
 yun.tim.qq.com
 ywbgrcrupasdiqxknwgcearlnbvmezti.com
