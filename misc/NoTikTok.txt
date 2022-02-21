@@ -2813,6 +2813,8 @@ tnc16-platform-alisg.tiktokv.com
 tnc16-platform-useast1a.tiktokv.com
 tnc16-useast1a.byteoversea.com
 tnc16-useast1a.tiktokv.com
+tnc31-normal-alisg.isnssdk.com
+tnc31-normal-useast1a.isnssdk.com
 tnc31-platform-alisg.tiktokv.com
 tnc3-aliec2.bytedance.com
 tnc3-aliec2.snssdk.com

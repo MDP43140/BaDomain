@@ -2813,6 +2813,8 @@
 127.0.0.1 tnc16-platform-useast1a.tiktokv.com
 127.0.0.1 tnc16-useast1a.byteoversea.com
 127.0.0.1 tnc16-useast1a.tiktokv.com
+127.0.0.1 tnc31-normal-alisg.isnssdk.com
+127.0.0.1 tnc31-normal-useast1a.isnssdk.com
 127.0.0.1 tnc31-platform-alisg.tiktokv.com
 127.0.0.1 tnc3-aliec2.bytedance.com
 127.0.0.1 tnc3-aliec2.snssdk.com
