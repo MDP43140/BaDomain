@@ -28,7 +28,7 @@ for i in "$@";do
 			if [ -f BaDomain_hosts.txt ];then mv BaDomain_hosts.txt BaDomain_hosts.txt.old;fi
 			scripts/mkHosts.sh BaDomain
 		;;
-		mkhosts_misc)
+		mkhosts-misc)
 			echo Creating misc hosts...
 			if [ -f misc/NoFB_hosts.txt ];then mv misc/NoFB_hosts.txt misc/NoFB_hosts.txt.old;fi
 			if [ -f misc/NoFreeFire_hosts.txt ];then mv misc/NoFreeFire_hosts.txt misc/NoFreeFire_hosts.txt.old;fi
@@ -39,7 +39,7 @@ for i in "$@";do
 			scripts/mkHosts.sh misc/NoMLBB
 			scripts/mkHosts.sh misc/NoTikTok
 		;;
-		mkhosts_uni)
+		mkhosts-uni)
 			echo Creating unified hosts \(make sure the hosts file exists\!\)...
 			if [ -f BaDomain_Unified-hosts.txt ];then mv BaDomain_Unified-hosts.txt BaDomain_Unified-hosts.txt.old;fi
 			echo "#" > "BaDomain_Unified-hosts.txt"
@@ -58,7 +58,7 @@ for i in "$@";do
 			echo "" >> "BaDomain_Unified-hosts.txt"
 			sed '/^#/d' BaDomain_hosts.txt misc/NoFB_hosts.txt misc/NoFreeFire_hosts.txt misc/NoMLBB_hosts.txt misc/NoTikTok_hosts.txt >> "BaDomain_Unified-hosts.txt"
 		;;
-		mkhosts_all)
+		mkhosts-all)
 			echo Renaming old hosts...
 			if [ -f BaDomain_hosts.txt ];then mv BaDomain_hosts.txt BaDomain_hosts.txt.old;fi
 			if [ -f misc/NoFB_hosts.txt ];then mv misc/NoFB_hosts.txt misc/NoFB_hosts.txt.old;fi
@@ -155,7 +155,7 @@ for i in "$@";do
 			sed '/^#/d' BaDomain_hosts.txt misc/NoFB_hosts.txt misc/NoFreeFire_hosts.txt misc/NoMLBB_hosts.txt misc/NoTikTok_hosts.txt >> "BaDomain_Unified-hosts.txt"
 			echo "Done!"
 		;;
-		build_all_clean)
+		build-all-clean)
 			echo Warning: this will override old backups\! Renaming old hosts...
 			rm -f BaDomain_hosts.txt.old
 			rm -f misc/NoFB_hosts.txt.old
@@ -236,11 +236,11 @@ for i in "$@";do
 			echo "Cleaning..."
 			rm $(ls *.old misc/*.old)
 		;;
-		clean_all)
+		clean-all)
 			echo "Cleaning..."
 			rm $(ls *.old misc/*.old *hosts.txt misc/*hosts.txt)
 		;;
-		mkhosts_uni_mypref)
+		mkhosts-uni-mypref)
 			if [ -f BaDomain_Unified-hosts_MyUseCase.txt ];then mv BaDomain_Unified-hosts_MyUseCase.txt BaDomain_Unified-hosts_MyUseCase.txt.old;fi
 			echo "#" > "BaDomain_Unified-hosts_MyUseCase.txt"
 			echo "# Name: BaDomain Unified" >> "BaDomain_Unified-hosts_MyUseCase.txt"
