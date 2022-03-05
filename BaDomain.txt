@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 21.02.2022
+# Version: 05.03.2022
 # Update: 1 days
 #
 
@@ -25,6 +25,7 @@
 232.138.196.35.bc.googleusercontent.com
 247extratech.com
 247hacks.net
+2828691.group41.sites.hubspot.net
 2mdn.net
 2tx120.1g5k5w.com
 33across.com
@@ -401,6 +402,7 @@ audrte.com
 au.ff.avast.com
 au.ff.avast.sec.miui.com
 auiopt.unityads.unity3d.com
+au.mayalaze.xyz
 autopilothq.com
 autopush.prod.mozaws.net
 ava-cdn.like-it.video
@@ -449,6 +451,7 @@ bigappboi.com
 bigasschubby.com
 bigbooty.online
 bighop.com
+bigmir.space
 bilikfilm.xyz
 billigrefinansiering.com
 bizconfig.palmplaystore.com
@@ -634,6 +637,7 @@ cse.avlyun.com
 cshort.org
 csoversea.mbgame.anticheatexpert.com
 csp-central.appspot.com
+cta-redirect.hubspot.com
 c.tenor.com
 ctfassets.net
 cuminside.uno
@@ -947,6 +951,7 @@ graphql.api.dailymotion.com
 graphql.kumparan.com
 graphql-v4.kumparan.com
 groundtruth.com
+group41.sites.hscoscdn40.net
 growtopia1.com
 growtopia2.com
 gslb-gl.cdo.heytapmobi.com
@@ -1013,6 +1018,8 @@ hot-teens24.online
 houseof-lust.xyz
 hrtechprivacy.com
 hrworld.com
+hscoscdn40.net
+hsforms.com
 hsforms.net
 hs-scripts.com
 h.trace.qq.com
@@ -1027,6 +1034,7 @@ https:\/\/app-measurement.com\/sdk-exp
 https:\/\/ynuf.aliapp.org\/saveWb.json?
 hub2.com.pl
 hubspot.com
+hubspot.net
 hwcdn.net
 hw-crs-report.y5en.com
 hybrid.miniapp.taobao.com
@@ -1053,6 +1061,7 @@ icredits.heytapmobi.com
 id-analyzer-appstore.vivoglobal.com
 idapi.open.oppomobile.com
 idapi.store.oppomobile.com
+id.bigmir.space
 id-comet.z-dn.net
 idea5.xyz
 id-fcm.sms.intl.xiaomi.com
@@ -1169,6 +1178,7 @@ itsecurity.com
 itunes.apple.com
 ituserver.xyz
 ituvipwd.com
+i.ua-passport.space
 iubenda.com
 iucf-icon-sg.s3.ap-southeast-1.amazonaws.com
 ivideosmart.com
@@ -1284,6 +1294,7 @@ marketo.net
 mars.gamegamb.com
 mathtag.com
 ma.wattpad.com
+mayalaze.xyz
 m.baidu.com
 mbgame.anticheatexpert.com
 m.caping.co.id
@@ -1514,6 +1525,7 @@ pcoptimizerpro.com
 pdfcylsmo.com
 pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
 pedulilindungi.com
+perf.hsforms.com
 permutive.app
 persona.franchise.minecraft-services.net
 pglstatp.com
@@ -1712,6 +1724,7 @@ searchiq.co
 search.kuwo.cn
 search-operate.cdn.bcebos.com
 secret20.com
+securebiz.org
 security.noxgroup.org
 self.events.data.microsoft.com
 sellwild.com
@@ -1968,6 +1981,7 @@ ty-cdn.net
 tynt.com
 typeform.com
 typekit.net
+ua-passport.space
 uapi.afo2o.com
 uat5-b.investingchannel.com
 ucweb.com
@@ -2265,5 +2279,6 @@ ziffstatic.com
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com
 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
+znpst.top
 zqtk.net
 zres.alicdn.com1111210941.rsc.cdn77.org

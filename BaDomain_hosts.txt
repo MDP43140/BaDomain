@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 21.02.2022
+# Version: 05.03.2022
 # Update: 1 days
 #
 
@@ -25,6 +25,7 @@
 127.0.0.1 232.138.196.35.bc.googleusercontent.com
 127.0.0.1 247extratech.com
 127.0.0.1 247hacks.net
+127.0.0.1 2828691.group41.sites.hubspot.net
 127.0.0.1 2mdn.net
 127.0.0.1 2tx120.1g5k5w.com
 127.0.0.1 33across.com
@@ -401,6 +402,7 @@
 127.0.0.1 au.ff.avast.com
 127.0.0.1 au.ff.avast.sec.miui.com
 127.0.0.1 auiopt.unityads.unity3d.com
+127.0.0.1 au.mayalaze.xyz
 127.0.0.1 autopilothq.com
 127.0.0.1 autopush.prod.mozaws.net
 127.0.0.1 ava-cdn.like-it.video
@@ -449,6 +451,7 @@
 127.0.0.1 bigasschubby.com
 127.0.0.1 bigbooty.online
 127.0.0.1 bighop.com
+127.0.0.1 bigmir.space
 127.0.0.1 bilikfilm.xyz
 127.0.0.1 billigrefinansiering.com
 127.0.0.1 bizconfig.palmplaystore.com
@@ -634,6 +637,7 @@
 127.0.0.1 cshort.org
 127.0.0.1 csoversea.mbgame.anticheatexpert.com
 127.0.0.1 csp-central.appspot.com
+127.0.0.1 cta-redirect.hubspot.com
 127.0.0.1 c.tenor.com
 127.0.0.1 ctfassets.net
 127.0.0.1 cuminside.uno
@@ -947,6 +951,7 @@
 127.0.0.1 graphql.kumparan.com
 127.0.0.1 graphql-v4.kumparan.com
 127.0.0.1 groundtruth.com
+127.0.0.1 group41.sites.hscoscdn40.net
 127.0.0.1 growtopia1.com
 127.0.0.1 growtopia2.com
 127.0.0.1 gslb-gl.cdo.heytapmobi.com
@@ -1013,6 +1018,8 @@
 127.0.0.1 houseof-lust.xyz
 127.0.0.1 hrtechprivacy.com
 127.0.0.1 hrworld.com
+127.0.0.1 hscoscdn40.net
+127.0.0.1 hsforms.com
 127.0.0.1 hsforms.net
 127.0.0.1 hs-scripts.com
 127.0.0.1 h.trace.qq.com
@@ -1027,6 +1034,7 @@
 127.0.0.1 https:\/\/ynuf.aliapp.org\/saveWb.json?
 127.0.0.1 hub2.com.pl
 127.0.0.1 hubspot.com
+127.0.0.1 hubspot.net
 127.0.0.1 hwcdn.net
 127.0.0.1 hw-crs-report.y5en.com
 127.0.0.1 hybrid.miniapp.taobao.com
@@ -1053,6 +1061,7 @@
 127.0.0.1 id-analyzer-appstore.vivoglobal.com
 127.0.0.1 idapi.open.oppomobile.com
 127.0.0.1 idapi.store.oppomobile.com
+127.0.0.1 id.bigmir.space
 127.0.0.1 id-comet.z-dn.net
 127.0.0.1 idea5.xyz
 127.0.0.1 id-fcm.sms.intl.xiaomi.com
@@ -1169,6 +1178,7 @@
 127.0.0.1 itunes.apple.com
 127.0.0.1 ituserver.xyz
 127.0.0.1 ituvipwd.com
+127.0.0.1 i.ua-passport.space
 127.0.0.1 iubenda.com
 127.0.0.1 iucf-icon-sg.s3.ap-southeast-1.amazonaws.com
 127.0.0.1 ivideosmart.com
@@ -1284,6 +1294,7 @@
 127.0.0.1 mars.gamegamb.com
 127.0.0.1 mathtag.com
 127.0.0.1 ma.wattpad.com
+127.0.0.1 mayalaze.xyz
 127.0.0.1 m.baidu.com
 127.0.0.1 mbgame.anticheatexpert.com
 127.0.0.1 m.caping.co.id
@@ -1514,6 +1525,7 @@
 127.0.0.1 pdfcylsmo.com
 127.0.0.1 pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
 127.0.0.1 pedulilindungi.com
+127.0.0.1 perf.hsforms.com
 127.0.0.1 permutive.app
 127.0.0.1 persona.franchise.minecraft-services.net
 127.0.0.1 pglstatp.com
@@ -1712,6 +1724,7 @@
 127.0.0.1 search.kuwo.cn
 127.0.0.1 search-operate.cdn.bcebos.com
 127.0.0.1 secret20.com
+127.0.0.1 securebiz.org
 127.0.0.1 security.noxgroup.org
 127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 sellwild.com
@@ -1968,6 +1981,7 @@
 127.0.0.1 tynt.com
 127.0.0.1 typeform.com
 127.0.0.1 typekit.net
+127.0.0.1 ua-passport.space
 127.0.0.1 uapi.afo2o.com
 127.0.0.1 uat5-b.investingchannel.com
 127.0.0.1 ucweb.com
@@ -2265,5 +2279,6 @@
 127.0.0.1 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
+127.0.0.1 znpst.top
 127.0.0.1 zqtk.net
 127.0.0.1 zres.alicdn.com1111210941.rsc.cdn77.org
