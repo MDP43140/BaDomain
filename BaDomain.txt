@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 05.03.2022
+# Version: 09.03.2022
 # Update: 1 days
 #
 
@@ -319,6 +319,7 @@ appannie.com
 app.chat.global.xiaomi.net
 appcloud.mcafee.com
 appconf-ocs-sgp.heytapdl.com
+app.cove.chat
 app.link
 appmetrica.yandex.net
 app-mgr.noxgroup.com
@@ -517,6 +518,7 @@ cdn.alsgp0.fds.api.mi-img.com
 cdn-asset.zepeto.me
 cdnconfig.aihelp.net
 cdn.cookielaw.org
+cdn.cove.chat
 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 cdn.fbsbx.com
 cdn.foxpush.net
@@ -616,6 +618,7 @@ cookiepro.com
 core-api.data.appsinnova.com
 corp.sogou.com
 counter.yadro.ru
+cove-cdn.ams3.cdn.digitaloceanspaces.com
 cove.chat
 cpahero.com
 cpmstar.com
@@ -1286,6 +1289,7 @@ lunalabs.io
 m1e.net
 m2.ai
 magzine.transacme.com
+mailing.educba.com
 mall.shopee.co.id
 manifest.tower.sybo.net
 marchex.io
@@ -1381,6 +1385,7 @@ msr-public-ubiservices.ubi.com
 ms.shalltry.com
 msync-im1-sgp.easemob.com
 mt3-v2-apple.amanotes.io
+mta-1.mailing.educba.com
 m.toutiaocdn.cn
 m.toutiaocdn.com
 m.toutiao.com
@@ -1864,7 +1869,6 @@ storage.billy.bendingspoons.com
 storedl3f.nearme.com.cn
 storeimg.heytapimg.com
 streamback.ff.avast.com
-stripe.com
 stun.ekiga.net
 sub2unlock.com
 subscribers.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 05.03.2022
+# Version: 09.03.2022
 # Update: 1 days
 #
 
@@ -319,6 +319,7 @@
 127.0.0.1 app.chat.global.xiaomi.net
 127.0.0.1 appcloud.mcafee.com
 127.0.0.1 appconf-ocs-sgp.heytapdl.com
+127.0.0.1 app.cove.chat
 127.0.0.1 app.link
 127.0.0.1 appmetrica.yandex.net
 127.0.0.1 app-mgr.noxgroup.com
@@ -517,6 +518,7 @@
 127.0.0.1 cdn-asset.zepeto.me
 127.0.0.1 cdnconfig.aihelp.net
 127.0.0.1 cdn.cookielaw.org
+127.0.0.1 cdn.cove.chat
 127.0.0.1 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 127.0.0.1 cdn.fbsbx.com
 127.0.0.1 cdn.foxpush.net
@@ -616,6 +618,7 @@
 127.0.0.1 core-api.data.appsinnova.com
 127.0.0.1 corp.sogou.com
 127.0.0.1 counter.yadro.ru
+127.0.0.1 cove-cdn.ams3.cdn.digitaloceanspaces.com
 127.0.0.1 cove.chat
 127.0.0.1 cpahero.com
 127.0.0.1 cpmstar.com
@@ -1286,6 +1289,7 @@
 127.0.0.1 m1e.net
 127.0.0.1 m2.ai
 127.0.0.1 magzine.transacme.com
+127.0.0.1 mailing.educba.com
 127.0.0.1 mall.shopee.co.id
 127.0.0.1 manifest.tower.sybo.net
 127.0.0.1 marchex.io
@@ -1381,6 +1385,7 @@
 127.0.0.1 ms.shalltry.com
 127.0.0.1 msync-im1-sgp.easemob.com
 127.0.0.1 mt3-v2-apple.amanotes.io
+127.0.0.1 mta-1.mailing.educba.com
 127.0.0.1 m.toutiaocdn.cn
 127.0.0.1 m.toutiaocdn.com
 127.0.0.1 m.toutiao.com
@@ -1864,7 +1869,6 @@
 127.0.0.1 storedl3f.nearme.com.cn
 127.0.0.1 storeimg.heytapimg.com
 127.0.0.1 streamback.ff.avast.com
-127.0.0.1 stripe.com
 127.0.0.1 stun.ekiga.net
 127.0.0.1 sub2unlock.com
 127.0.0.1 subscribers.com
