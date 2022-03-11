@@ -299,6 +299,7 @@ b.i.instagram.com
 black.ish.instagram.com
 b.ns.facebook.com
 b-www.facebook.com
+c10r.facebook.com
 channel-proxy-shv-04-frc3.facebook.com
 channel-proxy-shv-06-ash2.facebook.com
 channel-proxy-shv-07-ash2.facebook.com
@@ -993,6 +994,7 @@ www.login.facebook.com
 www.s-static.ak.facebook.com
 www.static.ak.connect.facebook.com
 www.static.ak.fbcdn.net
+xx.fbcdn.net
 xx-fbcdn-shv-01-ams2.fbcdn.net
 xx-fbcdn-shv-01-ams3.fbcdn.net
 xx-fbcdn-shv-01-atl1.fbcdn.net

@@ -300,6 +300,7 @@
 127.0.0.1 black.ish.instagram.com
 127.0.0.1 b.ns.facebook.com
 127.0.0.1 b-www.facebook.com
+127.0.0.1 c10r.facebook.com
 127.0.0.1 channel-proxy-shv-04-frc3.facebook.com
 127.0.0.1 channel-proxy-shv-06-ash2.facebook.com
 127.0.0.1 channel-proxy-shv-07-ash2.facebook.com
@@ -994,6 +995,7 @@
 127.0.0.1 www.s-static.ak.facebook.com
 127.0.0.1 www.static.ak.connect.facebook.com
 127.0.0.1 www.static.ak.fbcdn.net
+127.0.0.1 xx.fbcdn.net
 127.0.0.1 xx-fbcdn-shv-01-ams2.fbcdn.net
 127.0.0.1 xx-fbcdn-shv-01-ams3.fbcdn.net
 127.0.0.1 xx-fbcdn-shv-01-atl1.fbcdn.net
