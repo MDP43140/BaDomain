@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.03.2022
+# Version: 13.03.2022
 # Update: 1 days
 #
 
@@ -47,11 +47,17 @@
 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 845257-android-ds.metric.gstatic.com
+8.bignox.com
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 91busgame.com
 94.110.204.35.bc.googleusercontent.com
 9C8B0AE1.dr.youme.im
 9C8B0AE1.rtc.youme.im
+a01.uadexchange.com
+a02.uadexchange.com
+a03.uadexchange.com
+a04.uadexchange.com
+a05.uadexchange.com
 a1377.w7.akamai.net
 a169.w7.akamai.net
 a1818.dscg2.akamai.net
@@ -195,6 +201,7 @@ aliyuncs.com
 allmipa.com
 all-stadium.net
 allstatics.com
+alog.umeng.com
 aloha46.viber.com
 aloofvest.com
 alphonso.tv
@@ -212,6 +219,8 @@ analytics-tcp.mintegral.net
 analytics-vibe.contextads.live
 anchor.fm
 android-appboot.netflix.com
+android.bignox.com
+androiden.duapp.com
 android.pa1mstore.com
 android.palmplaystore.com
 android.palmst0re.com
@@ -237,6 +246,7 @@ api.appsflyer.com
 api-assetstore.kinemasters.com
 api-auth.kinemasters.com
 api.bidmachine.io
+api.bignox.com
 api.black.riseup.net
 api.blocka.net
 api.cleanmaster.club
@@ -277,7 +287,9 @@ api.meditation.oneboost.me
 api.micloud.xiaomi.net
 api.mintbrs.intl.miui.com
 api.mobilesearchers.com
+api.mobula.sdk.duapps.com
 api.muc.intl.miui.com
+api-new.bignox.com
 api-notice.kinemasters.com
 api.owxd.xyz
 api.pa1mstore.com
@@ -316,6 +328,7 @@ apolloprogram.io
 app.adjust.com
 app.advertizer.com
 appannie.com
+app.bignox.com
 app.chat.global.xiaomi.net
 appcloud.mcafee.com
 appconf-ocs-sgp.heytapdl.com
@@ -330,6 +343,8 @@ appsinnova.com
 app.snapchat.com
 apps.outfit7.com
 appspot.com
+app.static.bignox.com
+app.test.bignox.com
 app.toutiao.com
 app.transacme.com
 app.y5en.com
@@ -395,6 +410,7 @@ assets.ubembed.com
 associates-amazon.com
 astra9dlya10.com
 astratech.pro
+attitude.applinzi.com
 atwola.com
 auction.unityads.unity3d.com
 audid-api-sg.taobao.com
@@ -406,6 +422,7 @@ auiopt.unityads.unity3d.com
 au.mayalaze.xyz
 autopilothq.com
 autopush.prod.mozaws.net
+au.umeng.com
 ava-cdn.like-it.video
 avcdn.net
 avlyun.com
@@ -426,6 +443,7 @@ bannerflow.com
 bannersnack.com
 barrons.com
 basket2.xyz
+bbs.bignox.com
 bc0a.com
 bdapi-id.ads.heytapmobile.com
 beacon.page
@@ -453,8 +471,10 @@ bigasschubby.com
 bigbooty.online
 bighop.com
 bigmir.space
+bignox.com
 bilikfilm.xyz
 billigrefinansiering.com
+bi.yeshen.com
 bizconfig.palmplaystore.com
 bizscene.palmplaystore.com
 bksdksp.wetvinfo.com
@@ -544,8 +564,11 @@ cds-app.y5en.com
 cengine.contextads.live
 centre.baby
 cfg.oneboost.me
+cfs2.u-zone.id
 cf.shopee.co.id
 cf-st.sc-cdn.net
+cfs.u-ad.info
+cfs.uzone.id
 c.ftblltrck.com
 chargebee.com
 chartbeat.com
@@ -578,6 +601,7 @@ cloudi-sg.browser.oppomobile.com
 cloudops.mozgcp.net
 cloud.typography.com
 cmh01.justin.tv
+cn.bignox.com
 cnevids.com
 cn.pool.ntp.org
 codashop.com
@@ -588,6 +612,7 @@ collector.lunalabs.io
 collector-playground.lunalabs.uk
 combinatronics.io
 common-api.smart-sense.org
+common.duapps.com
 company-target.com
 concert.io
 confection.io
@@ -706,6 +731,7 @@ dcmdaa.y5en.com
 dcmdae.y5en.com
 dc.y5en.com
 deal24.lv
+de.bignox.com
 delivery.contextads.live
 demandbase.com
 demand.supply
@@ -715,6 +741,7 @@ deo.shopeemobile.com
 derk.bar
 de.slideshare.net
 detectportal.prod.cloudops.mozgcp.net
+dev.bignox.com
 developers.google.cn
 developers.google.com.hk
 dew-omm.lotusflare.com
@@ -752,6 +779,7 @@ dot.iq.com
 dotomi.com
 doubleclick.net
 down.anticheatexpert.com
+download.bignox.com
 download-sin.dtignite.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
@@ -781,6 +809,7 @@ ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 emebo.io
 emxdgt.com
+en.bignox.com
 encrypted-tbn0.gstatic.com
 endpoint.mms.shopee.co.id
 engine.fyber.com
@@ -793,6 +822,7 @@ epdg.epc.mnc011.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc089.mcc510.pub.3gppnetwork.org
 epoch-id.cdo.heytapmobi.com
 eportalmobile.com
+es.bignox.com
 esnoptdkkiirzewlpgmccbwuynvxjumf.name
 es.rakuten.tv
 es.slideshare.net
@@ -833,6 +863,7 @@ farsroid.com
 feabtest.prod.tvlk-data.com
 feed1.yukbacaberita.com
 feedback.intl.miui.com
+feed.bignox.com
 feed.chimukappa.com
 feed.rhino-news.com
 feeds.shalltry.com
@@ -860,6 +891,7 @@ foxpush.net
 f.push.oppomobile.com
 franchise.minecraft-services.net
 fraudjs.io
+fr.bignox.com
 freeshort.link
 freestar.com
 freestar.io
@@ -878,6 +910,7 @@ fuwu.sogou.com
 fwmrm.net
 g.alicdn.com
 gamea.clashofclans.com
+game.bignox.com
 gamecfg-mob.ubi.com
 gameguardian.b-cdn.net
 gameimg.heytapimg.com
@@ -906,6 +939,7 @@ getsitecontrol.com
 g.ezoic.net
 gfp.veta.naver.com
 gfycat.com
+gift.bignox.com
 gitkraken.com
 glamour.com
 glass3.xyz
@@ -953,8 +987,10 @@ gpoint.com.gr
 graphql.api.dailymotion.com
 graphql.kumparan.com
 graphql-v4.kumparan.com
+gray.bignox.com
 groundtruth.com
 group41.sites.hscoscdn40.net
+group.bignox.com
 growtopia1.com
 growtopia2.com
 gslb-gl.cdo.heytapmobi.com
@@ -1009,6 +1045,8 @@ hkxpqdtgsucylodaejmzmtnkpfvojabe.com
 hls-hw.others-cdn.com
 hm2.yrnykx.com
 hm.baidu.com
+hm.e.shifen.com
+hmma.baidu.com
 homepage.vivo.com
 horizonme.net
 horneymom.today
@@ -1065,6 +1103,7 @@ id-analyzer-appstore.vivoglobal.com
 idapi.open.oppomobile.com
 idapi.store.oppomobile.com
 id.bigmir.space
+id.bignox.com
 id-comet.z-dn.net
 idea5.xyz
 id-fcm.sms.intl.xiaomi.com
@@ -1103,6 +1142,7 @@ i.lencr.org
 ilockcardf.apps.coloros.com
 ilovexclub.com
 ilovexclub.net
+image.bignox.com
 images.anime-pictures.net
 images.idtopnews.com
 image.slidesharecdn.com
@@ -1137,6 +1177,7 @@ indeed.com
 indexww.com
 i.neptunegame.com
 info.3g.qq.com
+info.bignox.com
 ingest.sentry.io
 init.push.apple.com
 init.supersonicads.com
@@ -1152,8 +1193,10 @@ instant.page
 in.sv
 intellimize.co
 intellitxt.com
+internetpositif.uzone.id
 intl.iqiyi.com
 invitereferrals.com
+ios.bignox.com
 i.otu.foreign.oppomobile.com
 ip-api.com
 ipify.org
@@ -1217,6 +1260,7 @@ knorex.com
 kobo.com
 kompasads.com
 koyu.space
+kr.bignox.com
 krisp.ai
 krxd.net
 kwai.com
@@ -1231,6 +1275,8 @@ languagef.coloros.com
 lapaksebelahh.com
 la-ucc-upaas.ucweb.com
 laucenter.ucweb.com
+launcher-us.yeshen.com
+launcher.us.yeshen.com
 layarindo21.pw
 layarkaca21.vip
 laz-dorangesource.alicdn.com
@@ -1274,6 +1320,7 @@ localdate.monster
 location.apps.oppomobile.com
 lockersatelic.cam
 loc.map.baidu.com
+log.bignox.com
 logging.baca.co.id
 log.goodnovel.com
 logicbuy.com
@@ -1286,9 +1333,11 @@ loptelink.pro
 lovelybabestu.com
 loveme.uno
 lunalabs.io
+lustre.ai
 m1e.net
 m2.ai
 magzine.transacme.com
+mail.bignox.com
 mailing.educba.com
 mall.shopee.co.id
 manifest.tower.sybo.net
@@ -1320,6 +1369,8 @@ mediavoice.com
 meettech.net
 member.lazada.co.id
 memex-pa.googleapis.com
+mercusuar.u-zone.id
+mercusuar.uzone.id
 messagebird.com
 messaging.messagebird.com
 meteor.shalltry.com
@@ -1343,6 +1394,7 @@ minozodiac.com
 mi-pre.shalltry.com
 mipunet.cn
 mirabelle.uno
+mis.bignox.com
 misc-pili-qos-report.qiniuapi.com
 miservice.comm.miui.com
 mixerbabki.ru
@@ -1355,6 +1407,7 @@ m.mobilesearchers.com
 mmtro.com
 moatads.com
 mobadvent.com
+mobile.bignox.com
 mobilesearchers.com
 mobile.useinsider.com
 mobile.webvisor.com
@@ -1373,6 +1426,7 @@ motogp.api.weplay.media
 mozaws.net
 mozgcp.net
 mp.toutiao.com
+ms.bignox.com
 msdk.shopee.co.id
 msearchcdn.kugou.com
 msecnd.net
@@ -1399,6 +1453,7 @@ mvm.snapchat.com
 mv-playground.lunalabs.uk
 mxpnl.com
 mxptint.net
+my.bignox.com
 myfan.monster
 myim3banner.kloc.co
 mypic.icu
@@ -1419,6 +1474,7 @@ newds02.myoppo.com
 new.qq.com
 newrelic.com
 newsaggreg.shalltry.com
+news.bignox.com
 newscloud.or.kr
 news.hastopic.com
 newsmaticaapp.com
@@ -1431,11 +1487,14 @@ nmnm.lol
 northpoleitalia.it
 notif.quizizz.com
 novac.gameloft.com
+noxagile.bceapp.com
+noxagile.duapp.com
 noxgroup.com
 noxgroup.org
 npa.netcoresmartech.com
 npn.netcoresmartech.com
 nrcapi.ssl2.duapps.com
+nrc.tapas.net
 nrs-group.com
 ns1.com
 ntv.io
@@ -1468,6 +1527,7 @@ onetrust.com
 onezapp.com
 onnanoko.tokyo
 openapi.joox.com
+open.bignox.com
 opendns.zendesk.com
 openfpcdn.io
 openlog.tap.io
@@ -1517,12 +1577,15 @@ pardot.com
 parrable.com
 parsely.com
 partner.toutiao.com
+passport.bignox.com
 passportlab.xyz
+passport-us.bignox.com
 pasta.esfile.duapps.com
 pastibisajual.online
 path1.xtracloud.net
 path2.xtracloud.net
 path3.xtracloud.net
+pay.bignox.com
 pbbl.co
 pbssrv-centralevents.com
 pbs.twimg.com
@@ -1534,6 +1597,8 @@ perf.hsforms.com
 permutive.app
 persona.franchise.minecraft-services.net
 pglstatp.com
+ph.bignox.com
+phone.bignox.com
 phonedeviceverification-pa.googleapis.com
 pic.sogou.com
 pingdom.net
@@ -1547,14 +1612,17 @@ pir.fm
 pixel.wp.com
 p.kg.qq.com
 placements.tapjoyads.com
+plat-api.bignox.com
 platform.hicloud.com
 play0.heytapimg.com
+player.bignox.com
 player.bokep234.com
 player-ivideosmart-com.cdn.ampproject.org
 plugin-server.wps.com
 p-n.io
 podrbx.best
 pool.apk.aptoide.com
+pop3.bignox.com
 pornozot.com
 postaffiliatepro.com
 postrelease.com
@@ -1587,6 +1655,7 @@ proxyf.apps.oppomobile.com
 proxy-omm.lotusflare.com
 ps4remoteplay.net
 psegment.netcoresmartech.com
+pt.bignox.com
 pt.slideshare.net
 public1.114dns.com
 public.shtranssion.com
@@ -1598,6 +1667,7 @@ pubmatic.com
 pubmine.com
 pub.network
 pubs.contextads.live
+pubstatus.sinaapp.com
 pushbrothers.com
 push.heytapmobile.com
 push.idtopnews.com
@@ -1639,10 +1709,17 @@ report.appmetrica.yandex.net
 report-ps.meettech.net
 report.uc.heytapmobi.com
 requestmetrics.com
+res02.bignox.com
+res05.bignox.com
 res06.bignox.com
+res09.bignox.com
+res11.bignox.com
+res12.bignox.com
 res1.applovin.com
+res.bignox.com
 res-global-sg-master.sausage.xd.com
 res-global-sg-slave.sausage.xd.com
+res.noxmobi.com
 resolver.msg.global.xiaomi.net
 reson8.com
 resources.digital-cloud-sin1.medallia.com
@@ -1660,6 +1737,7 @@ revolvermaps.com
 rewards4you.pro
 rfihub.com
 rfihub.net
+rhino.acme.com
 rilds.com
 riseup.net
 rkdms.com
@@ -1691,6 +1769,7 @@ rt.applovin.com
 rtc.youme.im
 rtlog.resso.app
 rubiconproject.com
+ru.bignox.com
 ruciplbrxwjscyhtapvlfskoqqgnxevw.name
 rudyvalencia.pro
 rusfsg.coloros.com
@@ -1720,7 +1799,9 @@ scroll.com
 sdk-01.moengage.com
 sdk-android.ad.smaato.net
 sdkapi.wifimap.io
+sdk.bignox.com
 sdk-config.fyber.com
+sdk.open.inc2.igexin.com
 sdk.pushmessage.samsung.com
 sdksp.wetvinfo.com
 sdk.vskit.tv
@@ -1776,6 +1857,7 @@ short.im-gb.comhttp
 shortintl.push.heytapmobile.com
 shortintl.push.oppomobile.com
 shortvideo.qiniuapi.com
+shouyou.bignox.com
 shreeganeshlab.co.in
 sift-creatives.s3.amazonaws.com
 simpli.fi
@@ -1783,6 +1865,7 @@ sin.a.ak.prd.aadg.trafficmanager.net
 sina.cn
 siteintercept.qualtrics.com
 sixtest.com
+sj.bignox.com
 skimlinks.com
 skimresources.com
 sla-intl.trustlook.com
@@ -1802,6 +1885,7 @@ snapgirls.date
 snapgirls.today
 snapgirls.uno
 snigelweb.com
+sns.bignox.com
 snssdk.com
 socialapp.top
 sociomile.com
@@ -1857,6 +1941,7 @@ static-zepeto.pstatic.net
 stat.idtopnews.com
 statis.facemojikeyboard.com
 statwup.nimo.tv
+st.bignox.com
 steadfastsystem.com
 steelhousemedia.com
 stepsister.uno
@@ -1882,6 +1967,7 @@ superpowered.com
 supersonicads.com
 supl.qxwz.com
 surfing-waves.com
+survey.bignox.com
 survey.survicate.com
 survicate.com
 svc-cf.samsungdm.com
@@ -1913,6 +1999,8 @@ tap.io
 tappco.go2cloud.org
 t.appsflyer.com
 tarot.minozodiac.com
+t.bignox.com
+tdcv3.talkingdata.net
 techbargains.com
 technopawns.com
 tecno.servicewebly.com
@@ -1940,6 +2028,7 @@ time.xtracloud.net
 tinders.club
 tiqcdn.com
 tirto.id
+tl.bignox.com
 tm.ak.prd.aadg.akadns.net
 tm.ak.prd.aadg.trafficmanager.net
 tm.a.prd.aadg.trafficmanager.net
@@ -1956,6 +2045,8 @@ tpai.caping.co.id
 t.pubmatic.com
 track.analytics.rocks
 trackersimulator.org
+tracking.apptrackerlink.com
+tracking.trnox.com
 track-mixer.ru
 trackwilly.com
 trafficmanager.net
@@ -1975,9 +2066,12 @@ truepush.com
 trustarc.com
 ts.qq.com
 tubesex.uno
+tui.bignox.com
 tuplogpublic.bangcdn.net
 turn.com
+tv.bignox.com
 t.wattpad.com
+tw.bignox.com
 twibida.com
 tx.flv.nimo.tv
 tx.hls.nimo.tv
@@ -1985,6 +2079,8 @@ ty-cdn.net
 tynt.com
 typeform.com
 typekit.net
+uadexchange.com
+u-ad.info
 ua-passport.space
 uapi.afo2o.com
 uat5-b.investingchannel.com
@@ -1999,9 +2095,11 @@ ulog.kwai.com
 ultimatecustomnightgame.net
 umc-cdn.secb2b.com
 umlazada.alibaba.com
+unauthorized.bignox.com
 undertone.com
 uniconsent.com
 uniid.lol
+union.bignox.com
 unipin.com
 universehackworld.org
 u.nu
@@ -2021,6 +2119,7 @@ us-east1-aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 useinsider.com
 user-api.ucweb.com
+user.bignox.com
 user.haokan.mobi
 us.find.api.micloud.xiaomi.net
 us.galleryapi.micloud.xiaomi.net
@@ -2028,8 +2127,12 @@ usicdn.com
 us.statusapi.micloud.xiaomi.net
 u.startup.mobile.webvisor.com
 us.ynuf.aliapp.org
+u-zone.id
+uzone.id
 v16.resso.app
 v16.resso.me
+v3.mercusuar.u-zone.id
+v3.mercusuar.uzone.id
 vagenor.space
 vas.samsungapps.com
 vast.vokepedia.com
@@ -2058,6 +2161,7 @@ viki.com
 vimeocdn.com
 vimeo.com
 vindicosuite.com
+vip.bignox.com
 visitsme.uno
 visualwebsiteoptimizer.com
 vlitag.com
@@ -2100,6 +2204,7 @@ wa.net
 wannos-bj.127.net
 wannos-hz.127.net
 wannos-oversea.127.net
+wap.bignox.com
 wap.sogou.com
 wa.tenor.co
 waterfox.net
@@ -2124,6 +2229,7 @@ wedn.best
 weglot.com
 weibo.com
 weixin.sogou.com
+welcome.indihome.co.id
 wenwen.sogou.com
 weplay.helpshift.com
 wesingapp.com
@@ -2157,6 +2263,7 @@ www76.nathanaeldan.pro
 www.acckwmhi.com
 www.apkeditorfree.com
 www.baidu.com
+www.bignox.com
 www.cdn.viber.com
 www.ckmvkzurnd.com
 www.cleverpush.com
@@ -2199,7 +2306,9 @@ www.sweet-girls18.com
 www.taobao.com
 www.tap.io
 www.toutiao.com
+www.uadexchange.com
 www.unipin.com
+www.uzone.id
 www.viber.com
 www.vidio.com
 www.vob.fyi
@@ -2214,11 +2323,14 @@ www.wattpad.com
 www.wuueqejuratzdz.com
 www.xnxx.com
 www.xvideos2.com
+www.yeshen.com
+www.yeshen.com.w.kunlungr.com
 www.ykxipfcg.com
 x1.i.lencr.org
 x8sb.com
 x8speeder.com
 x8zs.cok
+x.acme.com
 xad.com
 xbritclone.net
 xdg-1c20f-intl.xd.com
