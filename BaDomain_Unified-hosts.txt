@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 14.03.2022
+# Version: 15.03.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -5703,6 +5703,7 @@
 127.0.0.1 pull-flv-l11.tiktokcdn.com
 127.0.0.1 pull-flv-l11-va01.tiktokcdn.com
 127.0.0.1 pull-flv-l11-va01.ttlivecdn.com
+127.0.0.1 pull-flv-l16-gcp01.tiktokcdn.com
 127.0.0.1 pull-flv-l16-tt01.tiktokcdn-us.com
 127.0.0.1 pull-flv-l16-va01.tiktokcdn.com
 127.0.0.1 pull-flv-l1-admin.tiktokcdn.com

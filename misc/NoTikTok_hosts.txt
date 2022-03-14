@@ -2159,6 +2159,7 @@
 127.0.0.1 pull-flv-l11.tiktokcdn.com
 127.0.0.1 pull-flv-l11-va01.tiktokcdn.com
 127.0.0.1 pull-flv-l11-va01.ttlivecdn.com
+127.0.0.1 pull-flv-l16-gcp01.tiktokcdn.com
 127.0.0.1 pull-flv-l16-tt01.tiktokcdn-us.com
 127.0.0.1 pull-flv-l16-va01.tiktokcdn.com
 127.0.0.1 pull-flv-l1-admin.tiktokcdn.com

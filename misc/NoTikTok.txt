@@ -2159,6 +2159,7 @@ pull-flv-l11-sg01.ttlivecdn.com
 pull-flv-l11.tiktokcdn.com
 pull-flv-l11-va01.tiktokcdn.com
 pull-flv-l11-va01.ttlivecdn.com
+pull-flv-l16-gcp01.tiktokcdn.com
 pull-flv-l16-tt01.tiktokcdn-us.com
 pull-flv-l16-va01.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com
