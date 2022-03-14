@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 13.03.2022
+# Version: 14.03.2022
 # Update: 1 days
 #
 
@@ -122,6 +122,7 @@ admin.justin.tv
 admixplay.com
 adnxs.com
 adobedtm.com
+adobejanus.com
 ad.plus
 adpushup.com
 adroll.com
@@ -420,6 +421,7 @@ au.ff.avast.com
 au.ff.avast.sec.miui.com
 auiopt.unityads.unity3d.com
 au.mayalaze.xyz
+auth-cloudfront.prod.ims.adobejanus.com
 autopilothq.com
 autopush.prod.mozaws.net
 au.umeng.com
@@ -484,6 +486,7 @@ bluecava.com
 bluekai.com
 blyjh.com
 bofxxjgiejdp
+boltdns.net
 bolt-gcdn.sc-cdn.net
 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 bombora.com
@@ -540,13 +543,16 @@ cdnconfig.aihelp.net
 cdn.cookielaw.org
 cdn.cove.chat
 cdn-creatives-akamaistls-prd.unityads.unity3d.com
+cdn.cxomedia.id
 cdn.fbsbx.com
+cdn-f.heylink.me
 cdn.foxpush.net
 cdn.gamesnacks.com
 cdn-graphql-v4.kumparan.com
 cdnimage2.caping.co.id
 cdn.link4app.com
 cdnm3.caping.co.id
+cdn.otnolatrnup.com
 cdn.outfit7.com
 cdn-production-assets-kly.akamaized.net
 cdn.pushmart.net
@@ -594,6 +600,7 @@ clientapi-sin.dtignite.com
 client-uc.heytapmobi.com
 cloudcf.like-it.video
 cloudctrl.gcloudsdk.com
+cloudflareinsights.com
 cloudfront.net
 cloudi-in.browser.oppomobile.com
 cloudi-sg.browser.heytapmobile.com
@@ -601,6 +608,7 @@ cloudi-sg.browser.oppomobile.com
 cloudops.mozgcp.net
 cloud.typography.com
 cmh01.justin.tv
+cname.vercel-dns.com
 cn.bignox.com
 cnevids.com
 cn.pool.ntp.org
@@ -671,6 +679,7 @@ ctfassets.net
 cuminside.uno
 cutegirl.my.id
 cuttlela.ucweb.com
+cxomedia.id
 c.y5en.com
 cy-api.tysondata.com
 d11yp7khhhspcr.cloudfront.net
@@ -769,6 +778,7 @@ dns-tunnel-check.googlezip.net
 do7nu6l5erzu3.cloudfront.net
 dob5.com
 doh.iq.com
+dojo.cc
 dokl7xqu9svnv.cloudfront.net
 dollarbrite.com
 domaincfg.vivoglobal.com
@@ -786,6 +796,7 @@ dragate-sg.dc.oppomobile.com
 driftt.com
 dr.youme.im
 ds2.shalltry.com
+dsms0mj1bbhn4.cloudfront.net
 dsp.baidu.com
 dspunion.com
 ds.shalltry.com
@@ -805,6 +816,7 @@ e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 easymakesolution.com
 echo-tcp-org.y5en.com
 edgecastcdn.net
+edialog24.com
 ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 emebo.io
@@ -848,6 +860,7 @@ execute-api.eu-west-1.amazonaws.com
 exelator.com
 experts-exchange.com
 exploitbyte.net
+exponential.com
 extremetech.com
 eyeonsight.net
 eyeota.net
@@ -886,6 +899,7 @@ forepl4y.com
 fortawesome.com
 fortumo.com
 fortumo.io
+fouanalytics.com
 fout.jp
 foxpush.net
 f.push.oppomobile.com
@@ -909,6 +923,7 @@ fuseplatform.net
 fuwu.sogou.com
 fwmrm.net
 g.alicdn.com
+galleryjs.io
 gamea.clashofclans.com
 game.bignox.com
 gamecfg-mob.ubi.com
@@ -935,6 +950,7 @@ germs-love.store
 get-bx.g.aaplimg.com
 getclicky.com
 getduckduckgo.com
+getlasso.co
 getsitecontrol.com
 g.ezoic.net
 gfp.veta.naver.com
@@ -976,6 +992,7 @@ google.com.hk
 google.com.sa
 google.co.zw
 google.ru
+googlesyndication.com
 googletagmanager.com
 googletagservices.com
 googleweblight.com
@@ -1030,6 +1047,7 @@ heapanalytics.com
 hellay.net
 helpscout.net
 help.sogou.com
+helpx.adobe.com
 heytapdl.com
 heytapmobile.com
 hhhh.uno
@@ -1039,6 +1057,7 @@ hidester.postaffiliatepro.com
 highcharts.com
 hippy.stream.kg.qq.com
 hisavana.com
+histats.com
 history.google.com
 hk.app.joox.com
 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
@@ -1092,6 +1111,7 @@ iap.gameloft.com
 iap-mob.ubi.com
 ib-ens.cmh01.justin.tv
 ib-ibi.com
+ibikini.cyou
 ibispaint.com
 i.bosboslink.net
 i-by3p-cor001.api.p001.1drv.com
@@ -1135,6 +1155,7 @@ ifota.coloros.com
 ifrus.coloros.com
 ifsau.coloros.com
 if-sg.browser.oppomobile.com
+ign.com
 ignimgs.com
 igofun.mobi
 igslb.cdo.oppomobile.com
@@ -1190,6 +1211,7 @@ insidecrm.com
 insight.rakuten.com
 ins.shalltry.com
 instant.page
+instiengage.com
 in.sv
 intellimize.co
 intellitxt.com
@@ -1256,8 +1278,12 @@ killerbeanforever.com
 kinja.com
 kinja-static.com
 kiwiirc.com
+klaviyo.com
+klimg.com
+kl-youniverse.com
 knorex.com
 kobo.com
+komoona.com
 kompasads.com
 koyu.space
 kr.bignox.com
@@ -1352,6 +1378,7 @@ m.baidu.com
 mbgame.anticheatexpert.com
 m.caping.co.id
 mcds.wshareit.com
+mc.yandex.ru
 mdp-appconf-id.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
@@ -1497,6 +1524,7 @@ nrcapi.ssl2.duapps.com
 nrc.tapas.net
 nrs-group.com
 ns1.com
+nsstatic.net
 ntv.io
 nude.baby-girls.id
 nude.snapgirls.today
@@ -1516,6 +1544,7 @@ offer.headlines.pw
 office.net
 oficayuda.club
 ogtrk.net
+omappapi.com
 omes-sec.heytapmobile.com
 omnithrottle.com
 omtrdc.net
@@ -1636,6 +1665,7 @@ pressablecdn.com
 preview-kly.akamaized.net
 p.rfihub.com
 primis.tech
+printfriendly.com
 prismic.io
 privacy-policy.truste.com
 privatematchfz.com
@@ -1779,6 +1809,7 @@ s2.loli.net
 s2s.af.outfit7.com
 s3-v2.cdngtc.com
 s6.layarkaca21.vip
+safeframe.googlesyndication.com
 samba.tv
 samsappsbn.vo.llnwd.net
 samsung-callerprofile.edge.hiyaapi.com
@@ -1820,6 +1851,7 @@ sentry.io
 sentry.kumparan.com
 sentry.prod.mozaws.net
 servedby-buysellads.com
+services.prod.ims.adobejanus.com
 serving-sys.com
 settings.picsart.com
 sex69.uno
@@ -1831,6 +1863,7 @@ sf19-fe-tos-sg.pglstatp.com
 sfdict.com
 sf.ezoiccdn.com
 sf.napi.ucweb.com
+sf-syn.com
 sg-account.wps.com
 sg-dm.newsmaticaapp.com
 sg-dm.pageonenewsapp.com
@@ -1921,6 +1954,7 @@ ssp-3-9f58.trnox.com
 sspapi-prd.samsungrs.com
 st001004gj-apm.instabug.com
 st001004gj.instabug.com
+stackpathcdn.com
 stack-sonar.com
 stagepopkek.com
 stags.bluekai.com
@@ -1928,6 +1962,7 @@ startup.mobile.webvisor.com
 startup.mobile.yandex.net
 static-02.veve.com
 static0.cbrimages.com
+static.ads-twitter.com
 static.ahagamecenter.com
 static-cms.aa-cdn.net
 static-doubleclick-net.l.google.com
@@ -1940,6 +1975,7 @@ static.zdassets.com
 static-zepeto.pstatic.net
 stat.idtopnews.com
 statis.facemojikeyboard.com
+stats.wp.com
 statwup.nimo.tv
 st.bignox.com
 steadfastsystem.com
@@ -2003,6 +2039,7 @@ t.bignox.com
 tdcv3.talkingdata.net
 techbargains.com
 technopawns.com
+techrights.org
 tecno.servicewebly.com
 tengame.net
 tenor.co
@@ -2015,6 +2052,7 @@ thedogvisitor.com
 themarfa.name
 theme.shalltry.com
 theme.zdassets.com
+themoneytizer.com
 themoviedb.org
 thesaurus.com
 thespacehackers.com
