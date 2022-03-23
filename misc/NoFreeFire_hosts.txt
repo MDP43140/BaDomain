@@ -11,7 +11,9 @@
 127.0.0.1 csoversea.castle.freefiremobile.com
 127.0.0.1 ctlin.freefiremobile.com
 127.0.0.1 data.garenanow.com
+127.0.0.1 diamondstore.sea.freefiremobile.com
 127.0.0.1 dir.freefiremobile.com
+127.0.0.1 dl.aw.freefiremobile.com
 127.0.0.1 dl.castle.freefiremobile.com
 127.0.0.1 dl.ctlin.freefiremobile.com
 127.0.0.1 dl.dir.freefiremobile.com
@@ -28,7 +30,11 @@
 127.0.0.1 logcollector.data.garenanow.com
 127.0.0.1 login.common.freefiremobile.com
 127.0.0.1 network.freefiremobile.com
+127.0.0.1 networkselftest.ff.garena.com
 127.0.0.1 poisontail.sea.freefiremobile.com
 127.0.0.1 sdk.garena.com
 127.0.0.1 sea.freefiremobile.com
+127.0.0.1 testconnect.garena.com
+127.0.0.1 testconnect.garenanow.com
+127.0.0.1 version.common.ffmax.garena.com
 127.0.0.1 version.common.freefiremobile.com

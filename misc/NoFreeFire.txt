@@ -1,4 +1,3 @@
-
 100067.connect.garena.com
 100067.msdk.garena.com
 castle.freefiremobile.com
@@ -11,7 +10,9 @@ content.garena.com
 csoversea.castle.freefiremobile.com
 ctlin.freefiremobile.com
 data.garenanow.com
+diamondstore.sea.freefiremobile.com
 dir.freefiremobile.com
+dl.aw.freefiremobile.com
 dl.castle.freefiremobile.com
 dl.ctlin.freefiremobile.com
 dl.dir.freefiremobile.com
@@ -28,7 +29,11 @@ id.network.freefiremobile.com
 logcollector.data.garenanow.com
 login.common.freefiremobile.com
 network.freefiremobile.com
+networkselftest.ff.garena.com
 poisontail.sea.freefiremobile.com
 sdk.garena.com
 sea.freefiremobile.com
+testconnect.garena.com
+testconnect.garenanow.com
+version.common.ffmax.garena.com
 version.common.freefiremobile.com
