@@ -139,6 +139,7 @@ api100-quic-c-hl.snssdk.com
 api100-quic-c-lf.snssdk.com
 api100-quic-c-lq.snssdk.com
 api100-quic-c.snssdk.com
+api15-core-alisg.tiktokv.com
 api15-core-useast2a.tiktokv.com
 api15-h2-eagle.tiktokv.com
 api15-h2.tiktokv.com
@@ -1156,6 +1157,7 @@ in1.byteoversea.com
 in2.byteoversea.com
 index.toutiao.com
 inf-portal-boe.byted.org
+insgame-api-sg.tiktokv.com
 insurance.snssdk.com
 internal-lb-all.bytedns.net
 internal-lb-all-maliva.bytedns.net
@@ -2052,6 +2054,8 @@ picwebws.pstatp.com.wsglb0.com
 pigeon.snssdk.com
 pigeon.snssdk.com.w.kunluncan.com
 p.ipstatp.com
+pitaya-sg.tiktokv.com
+pitaya-task-sg.tiktokv.com
 polaris-ns.byteoversea.com
 p.pstatp.com
 p.pstatp.com.w.alikunlun.com
@@ -2092,6 +2096,8 @@ pstatp.com.wsglb0.com
 pstatp.com.xi.zwtianshangm.com
 p-t2.byteoversea.com
 p.tiktokcdn.com
+pull-a16-tt01.fcdn.us.tiktokv.com
+pull-a5-va01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
 pull-cmaf-f16-gcp01.tiktokcdn.com
@@ -2111,6 +2117,8 @@ pull-cmaf-f5.tiktokcdn.com.akamaized.net
 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 pull-cmaf-f77-va01.tiktokcdn.com
 pull-cmaf-l10-sg01.tiktokcdn.com
+pull-cmaf-l16-gcp01.tiktokcdn.com
+pull-cmaf-l16-sg01.tiktokcdn.com
 pull-cmaf-l16-tt01.tiktokcdn-us.com
 pull-cmaf-l16-va01.tiktokcdn.com
 pull-cmaf-l77-va01.tiktokcdn.com
@@ -2160,6 +2168,7 @@ pull-flv-l11.tiktokcdn.com
 pull-flv-l11-va01.tiktokcdn.com
 pull-flv-l11-va01.ttlivecdn.com
 pull-flv-l16-gcp01.tiktokcdn.com
+pull-flv-l16-sg01.tiktokcdn.com
 pull-flv-l16-tt01.tiktokcdn-us.com
 pull-flv-l16-va01.tiktokcdn.com
 pull-flv-l1-admin.tiktokcdn.com
@@ -2179,6 +2188,7 @@ pull-flv-l1-xg.bytecdn.cn
 pull-flv-l6-act.pstatp.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-xg.bytecdn.cn
+pull-flv-l77-va01.tiktokcdn.com
 pull-flv-l7.pstatp.com
 pull-hls-f11-ab.tiktokcdn.com
 pull-hls-f11-gcp01.tiktokcdn.com
@@ -2321,6 +2331,7 @@ push-rtmp-l11-sg01.ttlivecdn.com
 push-rtmp-l11.tiktokcdn.com
 push-rtmp-l11-va01.tiktokcdn.com
 push-rtmp-l11-va01.ttlivecdn.com
+push-rtmp-l16-gcp01.tiktokcdn.com
 push-rtmp-l16-tt01.tiktokcdn-us.com
 push-rtmp-l16-va01.tiktokcdn.com
 push-rtmp-l1-gcp01.tiktokcdn.com
@@ -3566,6 +3577,7 @@ webcast16-normal-c-useast1a.tiktokv.com
 webcast16-normal-c-useast1a.tiktokv.com.edgekey.net
 webcast16-normal-c-useast2a.tiktokv.com
 webcast16-normal-c-useast2a.tiktokv.com.edgekey.net
+webcast16-open-useast2a.tiktokv.com
 webcast16.tiktokv.com
 webcast16.tiktokv.com.edgekey.net
 webcast16-useast1a.musical.ly
@@ -3590,6 +3602,7 @@ webcast21-useast1a.musical.ly
 webcast21-useast2a.musical.ly
 webcast21-va.tiktokv.com
 webcast22-normal-c-useast2a.tiktokv.com
+webcast22-open-useast2a.tiktokv.com
 webcast22-ws-useast2a.tiktokv.com
 webcast26.amemv.com
 webcast26-c.amemv.com
