@@ -619,11 +619,14 @@
 127.0.0.1 iglite-z.facebook.com
 127.0.0.1 i.instagram.com
 127.0.0.1 instagram.c10r.facebook.com
+127.0.0.1 instagram.c10r.instagram.com
 127.0.0.1 instagram.com
 127.0.0.1 instagram.fbdj3-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth1-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth3-1.fna.fbcdn.net
 127.0.0.1 instagram.fcgk18-2.fna.fbcdn.net
+127.0.0.1 instagram.fcgk24-1.fna.fbcdn.net
+127.0.0.1 instagram.fcgk24-2.fna.fbcdn.net
 127.0.0.1 instagram.fcgk30-1.fna.fbcdn.net
 127.0.0.1 instagram.fcgk4-2.fna.fbcdn.net
 127.0.0.1 instagram.fcgk4-3.fna.fbcdn.net
@@ -713,6 +716,7 @@
 127.0.0.1 mqtt-ig-p4.facebook.com
 127.0.0.1 mqtt-mini.facebook.com
 127.0.0.1 mqtt.vvv.facebook.com
+127.0.0.1 msgr-latest.c10r.facebook.com
 127.0.0.1 ncontent.xx.fbcdn.net
 127.0.0.1 newsroom.fb.com
 127.0.0.1 origincache-ash.t.fbcdn.net
@@ -822,6 +826,7 @@
 127.0.0.1 scontent.fbth1-1.fna.fbcdn.net
 127.0.0.1 scontent.fbth3-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk24-1.fna.fbcdn.net
+127.0.0.1 scontent.fcgk24-2.fna.fbcdn.net
 127.0.0.1 scontent.fcgk3-2.fna.fbcdn.net
 127.0.0.1 scontent.fcgk35-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk4-4.fna.fbcdn.net
@@ -930,6 +935,7 @@
 127.0.0.1 s-static.ak.facebook.com.edgekey.net
 127.0.0.1 star.c10r.facebook.com
 127.0.0.1 star.facebook.com
+127.0.0.1 star.fallback.c10r.facebook.com
 127.0.0.1 star-mini.c10r.facebook.com
 127.0.0.1 static.ak.connect.facebook.com
 127.0.0.1 static.ak.facebook.com

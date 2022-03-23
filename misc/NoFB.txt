@@ -618,11 +618,14 @@ h.facebook.com
 iglite-z.facebook.com
 i.instagram.com
 instagram.c10r.facebook.com
+instagram.c10r.instagram.com
 instagram.com
 instagram.fbdj3-1.fna.fbcdn.net
 instagram.fbth1-1.fna.fbcdn.net
 instagram.fbth3-1.fna.fbcdn.net
 instagram.fcgk18-2.fna.fbcdn.net
+instagram.fcgk24-1.fna.fbcdn.net
+instagram.fcgk24-2.fna.fbcdn.net
 instagram.fcgk30-1.fna.fbcdn.net
 instagram.fcgk4-2.fna.fbcdn.net
 instagram.fcgk4-3.fna.fbcdn.net
@@ -712,6 +715,7 @@ mqtt.c10r.facebook.com
 mqtt-ig-p4.facebook.com
 mqtt-mini.facebook.com
 mqtt.vvv.facebook.com
+msgr-latest.c10r.facebook.com
 ncontent.xx.fbcdn.net
 newsroom.fb.com
 origincache-ash.t.fbcdn.net
@@ -821,6 +825,7 @@ scontent.fbdo6-3.fna.fbcdn.net
 scontent.fbth1-1.fna.fbcdn.net
 scontent.fbth3-1.fna.fbcdn.net
 scontent.fcgk24-1.fna.fbcdn.net
+scontent.fcgk24-2.fna.fbcdn.net
 scontent.fcgk3-2.fna.fbcdn.net
 scontent.fcgk35-1.fna.fbcdn.net
 scontent.fcgk4-4.fna.fbcdn.net
@@ -929,6 +934,7 @@ s-static.ak.facebook.com
 s-static.ak.facebook.com.edgekey.net
 star.c10r.facebook.com
 star.facebook.com
+star.fallback.c10r.facebook.com
 star-mini.c10r.facebook.com
 static.ak.connect.facebook.com
 static.ak.facebook.com
