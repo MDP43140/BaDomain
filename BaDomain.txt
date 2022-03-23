@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 14.03.2022
+# Version: 24.03.2022
 # Update: 1 days
 #
 
@@ -28,17 +28,27 @@
 2828691.group41.sites.hubspot.net
 2mdn.net
 2tx120.1g5k5w.com
+30-courier.push.apple.com
 33across.com
 344587-android-ds.metric.gstatic.com
 3lift.com
 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
+40-courier.push.apple.com
+41-courier.push.apple.com
 42trck.com
 448673-android-ds.metric.gstatic.com
 44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com
+44-courier.push.apple.com
 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
+49-courier.push.apple.com
 4cinsights.com
 4mads.com
+51.appmeasurements.com
+52.appmeasurements.com
 531840-android-ds.metric.gstatic.com
+53.appmeasurements.com
+54.appmeasurements.com
+55.appmeasurements.com
 55bie1v.50zo.com
 5hjdbfjfd5.monster
 64a9.playfabapi.com
@@ -47,6 +57,7 @@
 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 845257-android-ds.metric.gstatic.com
+8b2a.playfabapi.com
 8.bignox.com
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 91busgame.com
@@ -62,10 +73,14 @@ a1377.w7.akamai.net
 a169.w7.akamai.net
 a1818.dscg2.akamai.net
 a1a4c40e556f413ef.awsglobalaccelerator.com
+a1.applovin.com
 a1-sgp.easemob.com
 a2047.dscb.akamai.net
 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
+a2.applovin.com
 a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
+a3.applovin.com
+a4.applovin.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 a.6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52.com
 a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
@@ -105,6 +120,7 @@ ada.support
 adc3-launch.adcolony.com
 adc-ad-assets.adtilt.com
 adcolony.com
+adcs-ue.myappsget.com
 addthis.com
 addthisedge.com
 addtoany.com
@@ -137,6 +153,8 @@ adservice.google.co.id
 ads.flurry.com
 adsfs-id.heytapimg.com
 adsgaga.com
+ads-geo.appia.com
+ads.heytapmobile.com
 adsimg.kompas.com
 ads-interfaces.sc-cdn.net
 ad.smaato.net
@@ -167,6 +185,7 @@ affilight.com
 affilight.network
 affinity.com
 affpub.com
+af-rsa.shalltry.com
 af.shalltry.com
 afterpay.com
 agkn.com
@@ -219,6 +238,7 @@ analytics.rocks
 analytics-tcp.mintegral.net
 analytics-vibe.contextads.live
 anchor.fm
+androidads4-7.adcolony.com
 android-appboot.netflix.com
 android.bignox.com
 androiden.duapp.com
@@ -230,6 +250,7 @@ anon.wapsite.info
 anticheatexpert.com
 anyclip.com
 anymind360.com
+aos.go2s.co
 ap-alps.y5en.com
 apester.com
 aphmes.xjwi5.com
@@ -254,6 +275,7 @@ api.cleanmaster.club
 api.data.appsinnova.com
 api-dci.kinemasters.com
 api.device.xiaomi.net
+api.dkyweipsds.com
 api.dns.oppomobile.com
 api.ethyca.com
 api.facemojikeyboard.com
@@ -261,6 +283,7 @@ api.floors.dev
 api.ftpub.net
 api.galileoab.com
 api.gallery.intl.miui.com
+api.gameanalytics.com
 api.gamesystem.zepeto.run
 api.glb.samsung-gamelauncher.com
 api-gl.cdo.heytapmobi.com
@@ -279,6 +302,7 @@ api.input.intl.miui.com
 api.ipify.org
 api.isharingapp.com
 api.jetengine.be
+api.kika-backend.com
 api.kwai.com
 api.likee.video
 api.like-it.video
@@ -301,14 +325,17 @@ api.picsart.com
 api.pinterest.com
 api.poster.appsinnova.com
 api-project-652995075284.firebaseio.com
+api.pro.kikakeyboard.com
 api.qiscus.com
 api.resso.app
 api.revenuecat.com
 api-sdk.datadome.co
 api.shareitgames.com
 api.shopee.co.id
+api.smoot.apple.com
 api-snake.oppomobile.com
 api.snake.oppomobile.com
+api.snapkit.com
 api.sportskeeda.com
 apissug-sf.ucweb.com
 api.teslacoilapps.com
@@ -321,9 +348,11 @@ api.vungle.com
 api.wattpad.com
 api.weathercn.com
 api.wifimap.io
+api.wondershare.com
 api.xintaicz.cn
 api.zhuti.intl.xiaomi.com
 apkeditorfree.com
+aplhabet.applinzi.com
 ap.mobhey.com
 apolloprogram.io
 app.adjust.com
@@ -333,10 +362,16 @@ app.bignox.com
 app.chat.global.xiaomi.net
 appcloud.mcafee.com
 appconf-ocs-sgp.heytapdl.com
+appconf-sgp.heytapdl.com
 app.cove.chat
+appia.com
+apple-finance.query.yahoo.com
 app.link
+applinzi.com
+app-measurement.com
 appmetrica.yandex.net
 app-mgr.noxgroup.com
+app.pou.me
 app.pushbrothers.com
 appsflyer.com
 apps.i59400f.xyz
@@ -431,12 +466,14 @@ avlyun.com
 a.wattpad.com
 aws.api.snapchat.com
 aws.duplex.snapchat.com
+aws-proxy-gcp.api.snapchat.com
 axiata-lk-43c53a330e9-he.fortumo.io
 azureedge.net
 b1.nel.goog
 baby-girls.id
 baby-girls.my.id
 babyzee.uno
+bae.appmeasurements.com
 bag.itunes.apple.com
 baidu.com
 baike.sogou.com
@@ -447,6 +484,7 @@ barrons.com
 basket2.xyz
 bbs.bignox.com
 bc0a.com
+bdapi-f.ads.heytapmobile.com
 bdapi-id.ads.heytapmobile.com
 beacon.page
 beacons.gcp.gvt2.com
@@ -509,6 +547,7 @@ buhatfjrk9dje10eme.com
 buildit-api.zepeto.me
 bunnygirlss.site
 buxadder.club
+buy.itunes-apple.com.akadns.net
 buysellads.com
 buysellads.net
 by3pcor001-com.be.1drv.com
@@ -519,11 +558,14 @@ cadmoremedia.com
 cahoots.com
 c-api-bit.shopeemobile.com
 caping.co.id
+c.apple.news
 captive.apple.com
+captive.g.aaplimg.com
 carbonads.com
 cardgen.uno
 casalemedia.com
 cashend.me
+cbs.wondershare.com
 ccgateway.net
 c.cnzz.com
 cdn0-production-images-kly.akamaized.net
@@ -542,6 +584,7 @@ cdn-asset.zepeto.me
 cdnconfig.aihelp.net
 cdn.cookielaw.org
 cdn.cove.chat
+cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 cdn.cxomedia.id
 cdn.fbsbx.com
@@ -567,15 +610,18 @@ cdn.weglot.com
 cdn.wetest.qq.com
 cdnwidget.com
 cds-app.y5en.com
+cd.xdplt.com
 cengine.contextads.live
 centre.baby
 cfg.oneboost.me
+cf.iadsdk.apple.com
 cfs2.u-zone.id
 cf.shopee.co.id
 cf-st.sc-cdn.net
 cfs.u-ad.info
 cfs.uzone.id
 c.ftblltrck.com
+cg.foldlife.net
 chargebee.com
 chartbeat.com
 chartboost.com
@@ -583,6 +629,7 @@ chat1-production.golabs.io
 chat4-production.golabs.io
 chat.wha
 cheapkey.net
+checkappexec.microsoft.com
 check.googlezip.net
 checkip.amazonaws.com
 check.y5en.com
@@ -593,6 +640,8 @@ churnzero.net
 cix.line-apps.com
 ckmvkzurnd.com
 cl4.apple.com
+cl4.apple.com.c.footprint.net
+cl5.apple.com
 cleanmaster.club
 cleverpush.com
 clickagy.com
@@ -606,6 +655,7 @@ cloudi-in.browser.oppomobile.com
 cloudi-sg.browser.heytapmobile.com
 cloudi-sg.browser.oppomobile.com
 cloudops.mozgcp.net
+cloud.tencent.com
 cloud.typography.com
 cmh01.justin.tv
 cname.vercel-dns.com
@@ -619,6 +669,8 @@ cognitivlabs.com
 collector.lunalabs.io
 collector-playground.lunalabs.uk
 combinatronics.io
+commnat-cohort-gc.ess.apple.com
+commnat-main-gc.ess.apple.com
 common-api.smart-sense.org
 common.duapps.com
 company-target.com
@@ -669,6 +721,8 @@ crsspxl.com
 crunchify.com
 crwdcntrl.net
 cr.y5en.com
+cryptauthdevicesync.googleapis.com
+cryptauthenrollment.googleapis.com
 cse.avlyun.com
 cshort.org
 csoversea.mbgame.anticheatexpert.com
@@ -711,6 +765,7 @@ d.alicdn.com
 dana.threatcast.guardsquare.com
 dance4.xyz
 d.applovin.com
+data00.adlooxtracking.com
 data.ai
 data.appsinnova.com
 datadoghq.com
@@ -736,6 +791,7 @@ dcintl3.push.heytapmobile.com
 dcintl3.push.oppomobile.com
 dcintl.push.heytapmobile.com
 dcintl.push.oppomobile.com
+dc.kika-backend.com
 dcmdaa.y5en.com
 dcmdae.y5en.com
 dc.y5en.com
@@ -753,6 +809,7 @@ detectportal.prod.cloudops.mozgcp.net
 dev.bignox.com
 developers.google.cn
 developers.google.com.hk
+deviceintegritytokens-pa.googleapis.com
 dew-omm.lotusflare.com
 dexeqbeb7giwr.cloudfront.net
 df.infra.sz.shopee.co.id
@@ -765,6 +822,7 @@ dictionary.map.fastly.net
 digitalriver.com
 d.infeed.id
 diva.bond
+dkyweipsds.com
 dls.di.atlas.samsung.com
 dlvr.it
 dmcdn.net
@@ -772,11 +830,13 @@ dm.samsungdive.com
 dn.im-gb.com
 dns11.quad9.net
 dns9.hichina.com
+dns.msftncsi.com
 dns.oppomobile.com
 dns.sb
 dns-tunnel-check.googlezip.net
 do7nu6l5erzu3.cloudfront.net
 dob5.com
+doh.dns.apple.com
 doh.iq.com
 dojo.cc
 dokl7xqu9svnv.cloudfront.net
@@ -790,6 +850,7 @@ dotomi.com
 doubleclick.net
 down.anticheatexpert.com
 download.bignox.com
+download.iobit.com
 download-sin.dtignite.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
@@ -815,6 +876,7 @@ e7100.g.akamaiedge.net
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 easymakesolution.com
 echo-tcp-org.y5en.com
+ecommerce.iap.unity3d.com
 edgecastcdn.net
 edialog24.com
 ekiga.net
@@ -826,6 +888,7 @@ encrypted-tbn0.gstatic.com
 endpoint.mms.shopee.co.id
 engine.fyber.com
 english.sogou.com
+epcfg.fineboost.com
 epdg.epc.mnc001.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
 epdg.epc.mnc009.mcc510.pub.3gppnetwork.org
@@ -875,6 +938,7 @@ fans.sports.qq.com
 farsroid.com
 feabtest.prod.tvlk-data.com
 feed1.yukbacaberita.com
+feedback-gl.heytapmobi.com
 feedback.intl.miui.com
 feed.bignox.com
 feed.chimukappa.com
@@ -885,6 +949,7 @@ feelingtouch.helpshift.com
 fennec-catalog-cdn.prod.mozaws.net
 filesusr.com
 find.api.micloud.xiaomi.net
+fineboost.com
 firehose.eu-west-1.amazonaws.com
 flashtalking.com
 flbk.izooto.com
@@ -910,6 +975,7 @@ freeshort.link
 freestar.com
 freestar.io
 freshchat.com
+freyr.futurecdn.net
 friend20.mycleverpush.com
 frontend-monitoring.z-dn.net
 fr.slideshare.net
@@ -925,6 +991,7 @@ fwmrm.net
 g.alicdn.com
 galleryjs.io
 gamea.clashofclans.com
+gameanalytics.com
 game.bignox.com
 gamecfg-mob.ubi.com
 gameguardian.b-cdn.net
@@ -933,6 +1000,7 @@ gameloft.com
 gameportal.casa
 gametool10.ml
 g-api.ekatox.com
+g-api.kwai.com
 g-api.kwaipros.com
 gateway.fe.apple-dns.net
 gateway.icloud.com
@@ -1014,8 +1082,11 @@ gslb-gl.cdo.heytapmobi.com
 gslb.secb2b.com
 gslb.shalltry.com
 gs-loc.apple.com
+gs-loc.ls-apple.com.akadns.net
+gs-loc-new.ls-apple.com.akadns.net
 gsp64-ssl.ls.apple.com
 gsp64-ssl.ls-apple.com.akadns.net
+gsp85-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com
@@ -1116,6 +1187,7 @@ ibispaint.com
 i.bosboslink.net
 i-by3p-cor001.api.p001.1drv.com
 ichef.bbci.co.uk
+icloud.com
 icms-image.slatic.net
 icosa-sg.coloros.com
 icredits.heytapmobi.com
@@ -1138,6 +1210,7 @@ id-search-appstore.vivoglobal.com
 idsearch.ucnews.ucweb.com
 id-static.z-dn.net
 id-store.oppomobile.com
+id-store.realmemobile.com
 id.supercell.com
 id-telkom.rcs.telephony.goog
 id-three.rcs.telephony.goog
@@ -1187,11 +1260,13 @@ i.mi.com
 immr-uhl-tvm.elasticbeanstalk.com
 impactradius-go.com
 imp.pxf.io
+imps.appia.com
 imptrk.siteplug.com
 impulse.contextads.live
 imrworldwide.com
 in-adreq.vivoglobal.com
 inappcheck.itunes.apple.com
+inappcheck-lb.itunes-apple.com.akadns.net
 inbox.clashofclans.com
 increaserev.com
 indeed.com
@@ -1200,7 +1275,11 @@ i.neptunegame.com
 info.3g.qq.com
 info.bignox.com
 ingest.sentry.io
+init-cdn.itunes-apple.com.akadns.net
+init.gc.apple.com
+init.itunes.apple.com
 init.push.apple.com
+init.push-apple.com.akadns.net
 init.supersonicads.com
 init.y5en.com
 injapp.com
@@ -1216,12 +1295,15 @@ in.sv
 intellimize.co
 intellitxt.com
 internetpositif.uzone.id
+intlapi.cdo.oppomobile.com
 intl.iqiyi.com
 invitereferrals.com
 ios.bignox.com
 i.otu.foreign.oppomobile.com
 ip-api.com
+iphone-ld.apple.com
 ipify.org
+ipinfo.io
 i.pinimg.com
 ipredictive.com
 ipromote.com
@@ -1274,9 +1356,12 @@ keep2.xyz
 kepler.51y5.net
 kepler.y5en.com
 keyvalueservice.icloud.com
+kika-backend.com
+kikakeyboard.com
 killerbeanforever.com
 kinja.com
 kinja-static.com
+kiwibrowser.org
 kiwiirc.com
 klaviyo.com
 klimg.com
@@ -1336,6 +1421,7 @@ litemsg.ekatox.com
 live.chartboost.com
 live.messagebird.com
 live.shopee.co.id
+livetech.live.shopee.co.id
 livetech.shopee.co.id
 livoop.com
 lkqd.net
@@ -1351,7 +1437,9 @@ logging.baca.co.id
 log.goodnovel.com
 logicbuy.com
 login.tim.qq.com
+logos.kiwibrowser.com
 logs.im-gb.com
+logs.papertrailapp.com
 log.tpns.hk.tencent.com
 loki.wattpad.com
 loli.net
@@ -1371,6 +1459,7 @@ marchex.io
 marketo.com
 marketo.net
 mars.gamegamb.com
+mask-api.icloud.com
 mathtag.com
 ma.wattpad.com
 mayalaze.xyz
@@ -1400,6 +1489,8 @@ mercusuar.u-zone.id
 mercusuar.uzone.id
 messagebird.com
 messaging.messagebird.com
+mesu.apple.com
+mesu-cdn.origin-apple.com.akadns.net
 meteor.shalltry.com
 metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
@@ -1480,6 +1571,7 @@ mvm.snapchat.com
 mv-playground.lunalabs.uk
 mxpnl.com
 mxptint.net
+myappsget.com
 my.bignox.com
 myfan.monster
 myim3banner.kloc.co
@@ -1490,6 +1582,8 @@ nat.cn.bucuowan.com
 nathanaeldan.pro
 nativepu.sh
 ncaudienceexchange.com
+nestledmph.com
+netcts.cdn-apple.com
 netdna-cdn.com
 netdna-ssl.com
 netpayjob.com
@@ -1525,6 +1619,8 @@ nrc.tapas.net
 nrs-group.com
 ns1.com
 nsstatic.net
+ntp1.aliyun.com
+ntp.ntsc.ac.cn
 ntv.io
 nude.baby-girls.id
 nude.snapgirls.today
@@ -1537,15 +1633,19 @@ obus-dc20123-sg.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
 obus-sg.dc.heytapmobile.com
 oca.nflxvideo.net
+ocsp2.apple.com
+ocsp2-lb.apple.com.akadns.net
 ocw.messagebird.com
 oemapi.kika-backend.com
 oem.kika-backend.com
 offer.headlines.pw
 office.net
+of.foldlife.net
 oficayuda.club
 ogtrk.net
 omappapi.com
 omes-sec.heytapmobile.com
+omlet.me
 omnithrottle.com
 omtrdc.net
 oneboost.me
@@ -1597,6 +1697,7 @@ pageonenewsapp.com
 page.portals.mobi
 pages.lazada.co.id
 palmplaystore.com
+pancake.apple.com
 pangle-b.io
 pangle.io
 pangolin16.sgsnssdk.com
@@ -1605,6 +1706,7 @@ paopaozy.com
 pardot.com
 parrable.com
 parsely.com
+partiality.itunes.apple.com
 partner.toutiao.com
 passport.bignox.com
 passportlab.xyz
@@ -1615,6 +1717,7 @@ path1.xtracloud.net
 path2.xtracloud.net
 path3.xtracloud.net
 pay.bignox.com
+pay.vivoglobal.com
 pbbl.co
 pbssrv-centralevents.com
 pbs.twimg.com
@@ -1652,9 +1755,12 @@ p-n.io
 podrbx.best
 pool.apk.aptoide.com
 pop3.bignox.com
+popular.kiwibrowser.com
 pornozot.com
 postaffiliatepro.com
+postback.applinzi.com
 postrelease.com
+pou.me
 powerad.ai
 pppbr.com
 pp.xpush.site
@@ -1667,6 +1773,7 @@ p.rfihub.com
 primis.tech
 printfriendly.com
 prismic.io
+privacy.kiwibrowser.org
 privacy-policy.truste.com
 privatematchfz.com
 pro-accounts.snapchat.com
@@ -1677,8 +1784,10 @@ prod.cloudops.mozgcp.net
 prod.cloud.rockstargames.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod.mozaws.net
+profile.gc.apple.com
 pro.ilovexclub.com
 pro.ilovexclub.net
+pro.kikakeyboard.com
 pro-market.net
 propsid.b-cdn.net
 proxyf.apps.oppomobile.com
@@ -1688,6 +1797,7 @@ psegment.netcoresmartech.com
 pt.bignox.com
 pt.slideshare.net
 public1.114dns.com
+public.bnbstatic.com
 public.shtranssion.com
 public.slidesharecdn.com
 public.transacme.com
@@ -1705,6 +1815,7 @@ pushimg.com
 pushmart.net
 pushmessage.samsung.com
 pushpromjs.messagebird.com
+px1.lifesavvy.com
 pxf.io
 pxksnymto.ru
 qbox.me
@@ -1728,10 +1839,14 @@ rbxr.monster
 rbxton.online
 rebuilt.pro.ilovexclub.com
 rebuilt.pro.ilovexclub.net
+recommend.pa1mstore.com
+recommend.palmplaystore.com
+recorder.iobit.com
 redirectingat.com
 redirect.networkbench.com
 referralrock.com
 register.xmpush.global.xiaomi.com
+reign.appmeasurements.com
 relation.like-it.video
 relocationapi.micloud.xiaomi.net
 reminiandroid.oracle.bendingspoonsapps.com
@@ -1753,6 +1868,7 @@ res.noxmobi.com
 resolver.msg.global.xiaomi.net
 reson8.com
 resources.digital-cloud-sin1.medallia.com
+resource.wondershare.com
 resso.app
 resso.me
 restapi.amap.com
@@ -1777,6 +1893,8 @@ robyoc.online
 romanhackers.com
 rosenberg.appmetrica.yandex.net
 rpc.tapjoy.com
+rpe.xdplt.com
+r.playerio.com
 rrpgndqmmdry.art
 rrx68giz-0cec0136a42983d8c64ba5f573b6f28e2494efd1-mob.d.aa.online-metrix.net
 rrx68giz-1d6236fce72318680d81d54de4d75f3f84979575-mob.d.aa.online-metrix.net
@@ -1797,6 +1915,7 @@ rsb.net
 rs.easemob.com
 rt.applovin.com
 rtc.youme.im
+rt.foldlife.net
 rtlog.resso.app
 rubiconproject.com
 ru.bignox.com
@@ -1836,6 +1955,7 @@ sdk.open.inc2.igexin.com
 sdk.pushmessage.samsung.com
 sdksp.wetvinfo.com
 sdk.vskit.tv
+search-api.fie.futurecdn.net
 search.eportalmobile.com
 searchiq.co
 search.kuwo.cn
@@ -1853,6 +1973,7 @@ sentry.prod.mozaws.net
 servedby-buysellads.com
 services.prod.ims.adobejanus.com
 serving-sys.com
+settings.kiwibrowser.com
 settings.picsart.com
 sex69.uno
 sexoporno.uno
@@ -1870,6 +1991,7 @@ sg-dm.pageonenewsapp.com
 sg-drive.wps.com
 sgfp.tongdun.net
 sg-idm.api.io.mi.com
+sg.omlet.me
 sgp-img-c.heytapimg.com
 sg.tdatamaster.com
 shake-body.com
@@ -1931,6 +2053,7 @@ sonora.id
 source.servicewebly.com
 sp-497f6f2f.honzik.avcdn.net
 space.toutiao.com
+spatial.fineboost.com
 specialdate.my.id
 specificclick.net
 specificmedia.com
@@ -1966,6 +2089,7 @@ static.ads-twitter.com
 static.ahagamecenter.com
 static-cms.aa-cdn.net
 static-doubleclick-net.l.google.com
+static.gc.apple.com
 static.like-it.video
 static.messagebird.com
 static.servicewebly.com
@@ -1977,6 +2101,7 @@ stat.idtopnews.com
 statis.facemojikeyboard.com
 stats.wp.com
 statwup.nimo.tv
+stat.xdplt.com
 st.bignox.com
 steadfastsystem.com
 steelhousemedia.com
@@ -1986,11 +2111,14 @@ stg-data-id.ads.heytapmobile.com
 stickerf.apps.oppomobile.com
 stickyadstv.com
 st.like-it.video
+stocks-sparkline.apple.com
 storage.billy.bendingspoons.com
 storedl3f.nearme.com.cn
+storefsf.nearme.com.cn
 storeimg.heytapimg.com
 streamback.ff.avast.com
 stun.ekiga.net
+stup5.appmeasurements.com
 sub2unlock.com
 subscribers.com
 subscription.omnithrottle.com
@@ -2017,6 +2145,7 @@ swiftkey-android.iris.touchtype-fluency.com
 s.w.org
 swpsvc.com
 sync.search.spotxchange.com
+syndication.twitter.com
 system1.com
 t14.market.mi-img.com
 t2.chartboost.com
@@ -2041,6 +2170,7 @@ techbargains.com
 technopawns.com
 techrights.org
 tecno.servicewebly.com
+tencent.com
 tengame.net
 tenor.co
 tenor.com
@@ -2050,6 +2180,7 @@ testapi.amap.com
 tex.z-dn.net
 thedogvisitor.com
 themarfa.name
+theme-magazine-gl-01.heytapimg.com
 theme.shalltry.com
 theme.zdassets.com
 themoneytizer.com
@@ -2060,8 +2191,15 @@ thinksuggest.org
 threadloom.com
 thrtle.com
 thunderxnew.site
+time1.cloud.tencent.com
+time2.apple.com
+time.apple.com
 time.gpsonextra.net
 time.izatcloud.net
+time-osx.g.aaplimg.com
+timer-api.pa1mstore.com
+timer-api.palmplaystore.com
+timer-api.palmst0re.com
 time.xtracloud.net
 tinders.club
 tiqcdn.com
@@ -2142,9 +2280,12 @@ unipin.com
 universehackworld.org
 u.nu
 upapi.net
+updateapis.kiwibrowser.com
 update.bosbosupdate.net
 update.estrongs.com
 update.intl.miui.com
+update.iobit.com
+update.kiwibrowser.com
 update.mysecuritystudio.com
 update.neptunegame.com
 upgrade.shalltry.com
@@ -2159,6 +2300,7 @@ useinsider.com
 user-api.ucweb.com
 user.bignox.com
 user.haokan.mobi
+useroperation.wondershare.com
 us.find.api.micloud.xiaomi.net
 us.galleryapi.micloud.xiaomi.net
 usicdn.com
@@ -2200,6 +2342,7 @@ vimeocdn.com
 vimeo.com
 vindicosuite.com
 vip.bignox.com
+vip-client.heytapmobi.com
 visitsme.uno
 visualwebsiteoptimizer.com
 vlitag.com
@@ -2300,6 +2443,7 @@ www.265.com
 www76.nathanaeldan.pro
 www.acckwmhi.com
 www.apkeditorfree.com
+www.aws.iobit.com
 www.baidu.com
 www.bignox.com
 www.cdn.viber.com
@@ -2318,6 +2462,7 @@ www.google.cn
 www.google.ru
 www.hastopic.com
 www.hippoobox.com
+www.icloud.com
 www.iconsdb.com
 www.iqzgqivb.com
 www.jd.com
@@ -2335,6 +2480,7 @@ www.nathanaeldan.pro
 www.pdfcylsmo.com
 www.pdl.id
 www.portals.mobi
+www.qq.com
 www.ralijqugghwqil.com
 www.servicewebly.com
 www.shareaholic.net
@@ -2343,6 +2489,7 @@ www.slideshare.net
 www.sweet-girls18.com
 www.taobao.com
 www.tap.io
+www.thrifter.com
 www.toutiao.com
 www.uadexchange.com
 www.unipin.com
@@ -2374,6 +2521,7 @@ xbritclone.net
 xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com
 xdg-3da8a-intl.xd.com
+xdplt.com
 x.glance-cdn.com
 x.glance-cdn.net
 x-id.ls.glanceapis.com
@@ -2383,6 +2531,7 @@ xlaxiata2.md-apis.medallia.com
 xlaxiata-resources.digital-cloud-sin1.medallia.com
 xlaxiata-udc.digital-cloud-sin1.medallia.com
 xnxx.com
+xp.apple.com
 xplayer-42f31.web.app
 xpush.site
 xs.vskitcdn.com
@@ -2394,6 +2543,7 @@ xuanniaoweb.com
 xuicy.me
 xvideos2.com
 xvideos.com
+xyz.svr-algorix.com
 y5en.com
 yadro.ru
 yaka.stream.kg.qq.com
