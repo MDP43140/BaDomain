@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 24.03.2022
+# Version: 27.03.2022
 # Update: 1 days
 #
 
@@ -519,6 +519,7 @@ bizconfig.palmplaystore.com
 bizscene.palmplaystore.com
 bksdksp.wetvinfo.com
 black.riseup.net
+blank
 blogblog.com
 bluecava.com
 bluekai.com
@@ -830,6 +831,7 @@ dm.samsungdive.com
 dn.im-gb.com
 dns11.quad9.net
 dns9.hichina.com
+dns.jomax.net
 dns.msftncsi.com
 dns.oppomobile.com
 dns.sb
@@ -1344,6 +1346,7 @@ jixie.media
 jkt-milink.market.xiaomi.com
 jmacs.maribacaberita.com
 jmacs-m.lazada.co.id
+jomax.net
 jpserver.site
 js.cx
 js.datadome.co
@@ -1618,6 +1621,7 @@ nrcapi.ssl2.duapps.com
 nrc.tapas.net
 nrs-group.com
 ns1.com
+ns59.domaincontrol.com
 nsstatic.net
 ntp1.aliyun.com
 ntp.ntsc.ac.cn
@@ -1674,6 +1678,7 @@ oshola.shalltry.com
 oslab.shalltry.com
 os-notice.shalltry.com
 ossgw.alicdn.com
+osupdate2020.shalltry.com
 osupdate.shalltry.com
 ota.lokalise.co
 oth.eve.mdt.qq.com
@@ -1730,6 +1735,7 @@ permutive.app
 persona.franchise.minecraft-services.net
 pglstatp.com
 ph.bignox.com
+phone-api.realme.com
 phone.bignox.com
 phonedeviceverification-pa.googleapis.com
 pic.sogou.com
@@ -1961,7 +1967,9 @@ searchiq.co
 search.kuwo.cn
 search-operate.cdn.bcebos.com
 secret20.com
+secreto.site
 securebiz.org
+securetoken.googleapis.com
 security.noxgroup.org
 self.events.data.microsoft.com
 sellwild.com
@@ -2460,6 +2468,7 @@ www.go2cloud.org
 www.googleapis.cn
 www.google.cn
 www.google.ru
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.hastopic.com
 www.hippoobox.com
 www.icloud.com

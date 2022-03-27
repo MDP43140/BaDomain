@@ -591,6 +591,9 @@ external.fpku1-3.fna.fbcdn.net
 external.fsjc1-2.fna.fbcdn.net
 external-hkt1-2.xx.fbcdn.net
 external-iad3-1.xx.fbcdn.net
+external-sin6-1.xx.fbcdn.net
+external-sin6-2.xx.fbcdn.net
+external-sin6-3.xx.fbcdn.net
 external-sin6-4.xx.fbcdn.net
 external.xx.fbcdn.net
 facebook.com

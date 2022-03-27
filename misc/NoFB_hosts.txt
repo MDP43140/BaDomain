@@ -592,6 +592,9 @@
 127.0.0.1 external.fsjc1-2.fna.fbcdn.net
 127.0.0.1 external-hkt1-2.xx.fbcdn.net
 127.0.0.1 external-iad3-1.xx.fbcdn.net
+127.0.0.1 external-sin6-1.xx.fbcdn.net
+127.0.0.1 external-sin6-2.xx.fbcdn.net
+127.0.0.1 external-sin6-3.xx.fbcdn.net
 127.0.0.1 external-sin6-4.xx.fbcdn.net
 127.0.0.1 external.xx.fbcdn.net
 127.0.0.1 facebook.com

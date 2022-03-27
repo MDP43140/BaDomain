@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 24.03.2022
+# Version: 27.03.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -527,6 +527,7 @@
 127.0.0.1 bizscene.palmplaystore.com
 127.0.0.1 bksdksp.wetvinfo.com
 127.0.0.1 black.riseup.net
+127.0.0.1 blank
 127.0.0.1 blogblog.com
 127.0.0.1 bluecava.com
 127.0.0.1 bluekai.com
@@ -838,6 +839,7 @@
 127.0.0.1 dn.im-gb.com
 127.0.0.1 dns11.quad9.net
 127.0.0.1 dns9.hichina.com
+127.0.0.1 dns.jomax.net
 127.0.0.1 dns.msftncsi.com
 127.0.0.1 dns.oppomobile.com
 127.0.0.1 dns.sb
@@ -1352,6 +1354,7 @@
 127.0.0.1 jkt-milink.market.xiaomi.com
 127.0.0.1 jmacs.maribacaberita.com
 127.0.0.1 jmacs-m.lazada.co.id
+127.0.0.1 jomax.net
 127.0.0.1 jpserver.site
 127.0.0.1 js.cx
 127.0.0.1 js.datadome.co
@@ -1626,6 +1629,7 @@
 127.0.0.1 nrc.tapas.net
 127.0.0.1 nrs-group.com
 127.0.0.1 ns1.com
+127.0.0.1 ns59.domaincontrol.com
 127.0.0.1 nsstatic.net
 127.0.0.1 ntp1.aliyun.com
 127.0.0.1 ntp.ntsc.ac.cn
@@ -1682,6 +1686,7 @@
 127.0.0.1 oslab.shalltry.com
 127.0.0.1 os-notice.shalltry.com
 127.0.0.1 ossgw.alicdn.com
+127.0.0.1 osupdate2020.shalltry.com
 127.0.0.1 osupdate.shalltry.com
 127.0.0.1 ota.lokalise.co
 127.0.0.1 oth.eve.mdt.qq.com
@@ -1738,6 +1743,7 @@
 127.0.0.1 persona.franchise.minecraft-services.net
 127.0.0.1 pglstatp.com
 127.0.0.1 ph.bignox.com
+127.0.0.1 phone-api.realme.com
 127.0.0.1 phone.bignox.com
 127.0.0.1 phonedeviceverification-pa.googleapis.com
 127.0.0.1 pic.sogou.com
@@ -1969,7 +1975,9 @@
 127.0.0.1 search.kuwo.cn
 127.0.0.1 search-operate.cdn.bcebos.com
 127.0.0.1 secret20.com
+127.0.0.1 secreto.site
 127.0.0.1 securebiz.org
+127.0.0.1 securetoken.googleapis.com
 127.0.0.1 security.noxgroup.org
 127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 sellwild.com
@@ -2468,6 +2476,7 @@
 127.0.0.1 www.googleapis.cn
 127.0.0.1 www.google.cn
 127.0.0.1 www.google.ru
+127.0.0.1 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 127.0.0.1 www.hastopic.com
 127.0.0.1 www.hippoobox.com
 127.0.0.1 www.icloud.com
@@ -3188,6 +3197,9 @@
 127.0.0.1 external.fsjc1-2.fna.fbcdn.net
 127.0.0.1 external-hkt1-2.xx.fbcdn.net
 127.0.0.1 external-iad3-1.xx.fbcdn.net
+127.0.0.1 external-sin6-1.xx.fbcdn.net
+127.0.0.1 external-sin6-2.xx.fbcdn.net
+127.0.0.1 external-sin6-3.xx.fbcdn.net
 127.0.0.1 external-sin6-4.xx.fbcdn.net
 127.0.0.1 external.xx.fbcdn.net
 127.0.0.1 facebook.com
