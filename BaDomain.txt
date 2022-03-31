@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.03.2022
+# Version: 31.03.2022
 # Update: 1 days
 #
 
@@ -727,6 +727,8 @@ cryptauthenrollment.googleapis.com
 cse.avlyun.com
 cshort.org
 csoversea.mbgame.anticheatexpert.com
+csp1.zte.com
+csp1.zte.com.cn
 csp-central.appspot.com
 cta-redirect.hubspot.com
 c.tenor.com
@@ -1988,6 +1990,7 @@ sexoporno.uno
 sexposition.uno
 sexxdating.site
 sexxo.baby
+sexy-dating.uno
 sf19-fe-tos-sg.pglstatp.com
 sfdict.com
 sf.ezoiccdn.com
@@ -2595,3 +2598,5 @@ zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
 znpst.top
 zqtk.net
 zres.alicdn.com1111210941.rsc.cdn77.org
+zte.com
+zte.com.cn
