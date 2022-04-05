@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 31.03.2022
+# Version: 06.04.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -324,6 +324,7 @@
 127.0.0.1 api.muc.intl.miui.com
 127.0.0.1 api-new.bignox.com
 127.0.0.1 api-notice.kinemasters.com
+127.0.0.1 api.noxinfluencer.com
 127.0.0.1 api.owxd.xyz
 127.0.0.1 api.pa1mstore.com
 127.0.0.1 api.palmplaystore.com
@@ -397,6 +398,7 @@
 127.0.0.1 aptoide.com
 127.0.0.1 ap-usage.ime.cootek.com
 127.0.0.1 ap.y5en.com
+127.0.0.1 ar.bignox.com
 127.0.0.1 arstechnica.net
 127.0.0.1 artas.biz
 127.0.0.1 artsai.com
@@ -957,6 +959,7 @@
 127.0.0.1 feed.rhino-news.com
 127.0.0.1 feeds.shalltry.com
 127.0.0.1 feed-static.y5en.com
+127.0.0.1 feed-test.bignox.com
 127.0.0.1 feelingtouch.helpshift.com
 127.0.0.1 fennec-catalog-cdn.prod.mozaws.net
 127.0.0.1 filesusr.com
@@ -1066,6 +1069,7 @@
 127.0.0.1 google.ae
 127.0.0.1 google-analytics.com
 127.0.0.1 googleanalytics.com
+127.0.0.1 googleclubstore.com
 127.0.0.1 google.cn
 127.0.0.1 google.com.br
 127.0.0.1 google.com.hk
@@ -1279,11 +1283,13 @@
 127.0.0.1 in-adreq.vivoglobal.com
 127.0.0.1 inappcheck.itunes.apple.com
 127.0.0.1 inappcheck-lb.itunes-apple.com.akadns.net
+127.0.0.1 in.bignox.com
 127.0.0.1 inbox.clashofclans.com
 127.0.0.1 increaserev.com
 127.0.0.1 indeed.com
 127.0.0.1 indexww.com
 127.0.0.1 i.neptunegame.com
+127.0.0.1 influencer.yeshen.com
 127.0.0.1 info.3g.qq.com
 127.0.0.1 info.bignox.com
 127.0.0.1 ingest.sentry.io
@@ -1335,6 +1341,7 @@
 127.0.0.1 isex.baby
 127.0.0.1 i-sg.browser.heytapmobile.com
 127.0.0.1 i.snssdk.com
+127.0.0.1 it.bignox.com
 127.0.0.1 iteldrive.com
 127.0.0.1 itsecurity.com
 127.0.0.1 itunes.apple.com
@@ -1357,6 +1364,7 @@
 127.0.0.1 jmacs.maribacaberita.com
 127.0.0.1 jmacs-m.lazada.co.id
 127.0.0.1 jomax.net
+127.0.0.1 jp.bignox.com
 127.0.0.1 jpserver.site
 127.0.0.1 js.cx
 127.0.0.1 js.datadome.co
@@ -1381,6 +1389,7 @@
 127.0.0.1 kl-youniverse.com
 127.0.0.1 knorex.com
 127.0.0.1 kobo.com
+127.0.0.1 kol.yeshen.com
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
 127.0.0.1 koyu.space
@@ -1625,6 +1634,7 @@
 127.0.0.1 noxagile.duapp.com
 127.0.0.1 noxgroup.com
 127.0.0.1 noxgroup.org
+127.0.0.1 noxinfluencer.com
 127.0.0.1 npa.netcoresmartech.com
 127.0.0.1 npn.netcoresmartech.com
 127.0.0.1 nrcapi.ssl2.duapps.com
@@ -1726,6 +1736,7 @@
 127.0.0.1 passport.bignox.com
 127.0.0.1 passportlab.xyz
 127.0.0.1 passport-us.bignox.com
+127.0.0.1 passport.yeshen.com
 127.0.0.1 pasta.esfile.duapps.com
 127.0.0.1 pastibisajual.online
 127.0.0.1 path1.xtracloud.net
@@ -1733,6 +1744,7 @@
 127.0.0.1 path3.xtracloud.net
 127.0.0.1 pay.bignox.com
 127.0.0.1 pay.vivoglobal.com
+127.0.0.1 pay.yeshen.com
 127.0.0.1 pbbl.co
 127.0.0.1 pbssrv-centralevents.com
 127.0.0.1 pbs.twimg.com
@@ -1766,6 +1778,7 @@
 127.0.0.1 player.bignox.com
 127.0.0.1 player.bokep234.com
 127.0.0.1 player-ivideosmart-com.cdn.ampproject.org
+127.0.0.1 pl.bignox.com
 127.0.0.1 plugin-server.wps.com
 127.0.0.1 p-n.io
 127.0.0.1 podrbx.best
@@ -2149,6 +2162,8 @@
 127.0.0.1 superpowered.com
 127.0.0.1 supersonicads.com
 127.0.0.1 supl.qxwz.com
+127.0.0.1 support.bignox.com
+127.0.0.1 support.yeshen.com
 127.0.0.1 surfing-waves.com
 127.0.0.1 survey.bignox.com
 127.0.0.1 survey.survicate.com
@@ -2196,7 +2211,9 @@
 127.0.0.1 tentaculos.net
 127.0.0.1 teslacoilapps.com
 127.0.0.1 testapi.amap.com
+127.0.0.1 test.bignox.com
 127.0.0.1 tex.z-dn.net
+127.0.0.1 th.bignox.com
 127.0.0.1 thedogvisitor.com
 127.0.0.1 themarfa.name
 127.0.0.1 theme-magazine-gl-01.heytapimg.com
@@ -2249,6 +2266,7 @@
 127.0.0.1 transsion.com
 127.0.0.1 travelncs.com
 127.0.0.1 travel.rakuten.com
+127.0.0.1 tr.bignox.com
 127.0.0.1 trclips.com
 127.0.0.1 trendinggen.website
 127.0.0.1 tria.ge
@@ -2366,6 +2384,7 @@
 127.0.0.1 visualwebsiteoptimizer.com
 127.0.0.1 vlitag.com
 127.0.0.1 v.lsttnews.com
+127.0.0.1 vn.bignox.com
 127.0.0.1 vnclip.net
 127.0.0.1 vntsm.com
 127.0.0.1 vob.fyi
@@ -2497,6 +2516,7 @@
 127.0.0.1 www.minoregimen.com
 127.0.0.1 www.minozodiac.com
 127.0.0.1 www.nathanaeldan.pro
+127.0.0.1 www.noxinfluencer.com
 127.0.0.1 www.pdfcylsmo.com
 127.0.0.1 www.pdl.id
 127.0.0.1 www.portals.mobi
@@ -2570,6 +2590,7 @@
 127.0.0.1 yandex.com
 127.0.0.1 yandex.net
 127.0.0.1 yandex.ru
+127.0.0.1 yeshen.com
 127.0.0.1 y.gtimg.cn
 127.0.0.1 yhgrffndvzbtoilmundkmvbaxrjtqsew.com
 127.0.0.1 yieldlove.com

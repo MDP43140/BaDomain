@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 31.03.2022
+# Version: 06.04.2022
 # Update: 1 days
 #
 
@@ -316,6 +316,7 @@ api.mobula.sdk.duapps.com
 api.muc.intl.miui.com
 api-new.bignox.com
 api-notice.kinemasters.com
+api.noxinfluencer.com
 api.owxd.xyz
 api.pa1mstore.com
 api.palmplaystore.com
@@ -389,6 +390,7 @@ ap-southeast-1.alidns.com
 aptoide.com
 ap-usage.ime.cootek.com
 ap.y5en.com
+ar.bignox.com
 arstechnica.net
 artas.biz
 artsai.com
@@ -949,6 +951,7 @@ feed.chimukappa.com
 feed.rhino-news.com
 feeds.shalltry.com
 feed-static.y5en.com
+feed-test.bignox.com
 feelingtouch.helpshift.com
 fennec-catalog-cdn.prod.mozaws.net
 filesusr.com
@@ -1058,6 +1061,7 @@ googleadservices.com
 google.ae
 google-analytics.com
 googleanalytics.com
+googleclubstore.com
 google.cn
 google.com.br
 google.com.hk
@@ -1271,11 +1275,13 @@ imrworldwide.com
 in-adreq.vivoglobal.com
 inappcheck.itunes.apple.com
 inappcheck-lb.itunes-apple.com.akadns.net
+in.bignox.com
 inbox.clashofclans.com
 increaserev.com
 indeed.com
 indexww.com
 i.neptunegame.com
+influencer.yeshen.com
 info.3g.qq.com
 info.bignox.com
 ingest.sentry.io
@@ -1327,6 +1333,7 @@ ir.sogou.com
 isex.baby
 i-sg.browser.heytapmobile.com
 i.snssdk.com
+it.bignox.com
 iteldrive.com
 itsecurity.com
 itunes.apple.com
@@ -1349,6 +1356,7 @@ jkt-milink.market.xiaomi.com
 jmacs.maribacaberita.com
 jmacs-m.lazada.co.id
 jomax.net
+jp.bignox.com
 jpserver.site
 js.cx
 js.datadome.co
@@ -1373,6 +1381,7 @@ klimg.com
 kl-youniverse.com
 knorex.com
 kobo.com
+kol.yeshen.com
 komoona.com
 kompasads.com
 koyu.space
@@ -1617,6 +1626,7 @@ noxagile.bceapp.com
 noxagile.duapp.com
 noxgroup.com
 noxgroup.org
+noxinfluencer.com
 npa.netcoresmartech.com
 npn.netcoresmartech.com
 nrcapi.ssl2.duapps.com
@@ -1718,6 +1728,7 @@ partner.toutiao.com
 passport.bignox.com
 passportlab.xyz
 passport-us.bignox.com
+passport.yeshen.com
 pasta.esfile.duapps.com
 pastibisajual.online
 path1.xtracloud.net
@@ -1725,6 +1736,7 @@ path2.xtracloud.net
 path3.xtracloud.net
 pay.bignox.com
 pay.vivoglobal.com
+pay.yeshen.com
 pbbl.co
 pbssrv-centralevents.com
 pbs.twimg.com
@@ -1758,6 +1770,7 @@ play0.heytapimg.com
 player.bignox.com
 player.bokep234.com
 player-ivideosmart-com.cdn.ampproject.org
+pl.bignox.com
 plugin-server.wps.com
 p-n.io
 podrbx.best
@@ -2141,6 +2154,8 @@ supercell.helpshift.com
 superpowered.com
 supersonicads.com
 supl.qxwz.com
+support.bignox.com
+support.yeshen.com
 surfing-waves.com
 survey.bignox.com
 survey.survicate.com
@@ -2188,7 +2203,9 @@ tenor.com
 tentaculos.net
 teslacoilapps.com
 testapi.amap.com
+test.bignox.com
 tex.z-dn.net
+th.bignox.com
 thedogvisitor.com
 themarfa.name
 theme-magazine-gl-01.heytapimg.com
@@ -2241,6 +2258,7 @@ transacme.com
 transsion.com
 travelncs.com
 travel.rakuten.com
+tr.bignox.com
 trclips.com
 trendinggen.website
 tria.ge
@@ -2358,6 +2376,7 @@ visitsme.uno
 visualwebsiteoptimizer.com
 vlitag.com
 v.lsttnews.com
+vn.bignox.com
 vnclip.net
 vntsm.com
 vob.fyi
@@ -2489,6 +2508,7 @@ www.minoplay.com
 www.minoregimen.com
 www.minozodiac.com
 www.nathanaeldan.pro
+www.noxinfluencer.com
 www.pdfcylsmo.com
 www.pdl.id
 www.portals.mobi
@@ -2562,6 +2582,7 @@ yaka.stream.kg.qq.com
 yandex.com
 yandex.net
 yandex.ru
+yeshen.com
 y.gtimg.cn
 yhgrffndvzbtoilmundkmvbaxrjtqsew.com
 yieldlove.com
