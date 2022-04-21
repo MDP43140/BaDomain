@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.04.2022
+# Version: 21.04.2022
 # Update: 1 days
 #
 
@@ -85,6 +85,7 @@ a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 a.6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52.com
 a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
 a.9838c153324104ebd01be4ed325f374f9845449f97a9998d179005fe.com
+a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 aa-cdn.net
 aadg.akadns.net
 aadg.trafficmanager.net
@@ -179,6 +180,7 @@ ad.youtube.com
 adzhosts.eu
 adz.wattpad.com
 a.e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
+a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
 a.f18597036f4034883ad83eaeb38250b39241210076555a33a60171b6.com
 a.fc4d74be804f943caa3621b864c54ff0d19c0aca87671ceb51aec5e8.com
 affilight.com
@@ -188,6 +190,7 @@ affpub.com
 af-rsa.shalltry.com
 af.shalltry.com
 afterpay.com
+agencymrbeast.com
 agkn.com
 ags.akadns.net
 aihelp.net
@@ -442,12 +445,14 @@ asia-wifi.vivoglobal.com
 askmen.com
 assets.alicdn.com
 assets.applovin.com
+assets.duniagames.co.id
 assets-share.dspunion.com
 assets.tower.sybo.net
 assets.ubembed.com
 associates-amazon.com
 astra9dlya10.com
 astratech.pro
+attention-system-warning.com
 attitude.applinzi.com
 atwola.com
 auction.unityads.unity3d.com
@@ -489,6 +494,7 @@ bc0a.com
 bdapi-f.ads.heytapmobile.com
 bdapi-id.ads.heytapmobile.com
 beacon.page
+beacons.ai
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons.page
@@ -871,6 +877,7 @@ dsu-a.shalltry.com
 dt2lb.madfingergames.com
 dts.like-it.video
 duolaipk.com
+dxp.baidu.com
 e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e2c19.gcp.gvt2.com
@@ -1074,6 +1081,7 @@ googletagservices.com
 googleweblight.com
 go-pardot.adcolony.com
 go.redirectingat.com
+gos-api.gos-gsp.io
 gov.cn
 gpapi.zepeto.io
 gpoint.com.gr
@@ -1330,6 +1338,7 @@ ire-dsu.shalltry.com
 irisk-id-l.alipay.com
 irl-api.twibida.com
 ir.sogou.com
+iseepassword.com
 isex.baby
 i-sg.browser.heytapmobile.com
 i.snssdk.com
@@ -1363,6 +1372,7 @@ js.datadome.co
 js.media-lab.ai
 justin.tv
 jwplayer.com
+kagaitiktok.net
 kargo.com
 kayumanis.detik.com
 keep2.xyz
@@ -1469,6 +1479,7 @@ mail.bignox.com
 mailing.educba.com
 mall.shopee.co.id
 manifest.tower.sybo.net
+mapi.langitmusik.com
 marchex.io
 marketo.com
 marketo.net
@@ -1592,6 +1603,7 @@ myim3banner.kloc.co
 mypic.icu
 myqcloud.com
 nanorep.co
+nat02.feelingtouch.com
 nat.cn.bucuowan.com
 nathanaeldan.pro
 nativepu.sh
@@ -1806,6 +1818,7 @@ prod.cloud.rockstargames.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod.mozaws.net
 profile.gc.apple.com
+profitwell.com
 pro.ilovexclub.com
 pro.ilovexclub.net
 pro.kikakeyboard.com
@@ -2432,6 +2445,7 @@ web.likeitlite.com
 web.like-it.video
 web-ops.nimostatic.tv
 weborama.com
+website-files.com
 webstore.ucweb.com
 web.toutiao.com
 webview.unityads.unity3d.com
@@ -2472,9 +2486,12 @@ www.12377.cn
 www.265.com
 www76.nathanaeldan.pro
 www.acckwmhi.com
+www.agencymrbeast.com
 www.apkeditorfree.com
+www.attention-system-warning.com
 www.aws.iobit.com
 www.baidu.com
+www.beacons.ai
 www.bignox.com
 www.cdn.viber.com
 www.ckmvkzurnd.com
@@ -2496,7 +2513,9 @@ www.hippoobox.com
 www.icloud.com
 www.iconsdb.com
 www.iqzgqivb.com
+www.iseepassword.com
 www.jd.com
+www.kagaitiktok.net
 www.letucook.com
 www.linkedin.com
 www.litatom.com
@@ -2512,6 +2531,7 @@ www.noxinfluencer.com
 www.pdfcylsmo.com
 www.pdl.id
 www.portals.mobi
+www.profitwell.com
 www.qq.com
 www.ralijqugghwqil.com
 www.servicewebly.com
@@ -2537,6 +2557,7 @@ www.vur.fyi
 www.vyn.fyi
 www.wajibbaca.top
 www.wattpad.com
+www.website-files.com
 www.wuueqejuratzdz.com
 www.xnxx.com
 www.xvideos2.com
@@ -2575,6 +2596,9 @@ xuanniaoweb.com
 xuicy.me
 xvideos2.com
 xvideos.com
+xx18like.uno
+x18like.uno
+18like.uno
 xyz.svr-algorix.com
 y5en.com
 yadro.ru

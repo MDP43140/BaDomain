@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.04.2022
+# Version: 21.04.2022
 # Update: 1 days
 #
 
@@ -85,6 +85,7 @@
 127.0.0.1 a.6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52.com
 127.0.0.1 a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
 127.0.0.1 a.9838c153324104ebd01be4ed325f374f9845449f97a9998d179005fe.com
+127.0.0.1 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 127.0.0.1 aa-cdn.net
 127.0.0.1 aadg.akadns.net
 127.0.0.1 aadg.trafficmanager.net
@@ -179,6 +180,7 @@
 127.0.0.1 adzhosts.eu
 127.0.0.1 adz.wattpad.com
 127.0.0.1 a.e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
+127.0.0.1 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
 127.0.0.1 a.f18597036f4034883ad83eaeb38250b39241210076555a33a60171b6.com
 127.0.0.1 a.fc4d74be804f943caa3621b864c54ff0d19c0aca87671ceb51aec5e8.com
 127.0.0.1 affilight.com
@@ -188,6 +190,7 @@
 127.0.0.1 af-rsa.shalltry.com
 127.0.0.1 af.shalltry.com
 127.0.0.1 afterpay.com
+127.0.0.1 agencymrbeast.com
 127.0.0.1 agkn.com
 127.0.0.1 ags.akadns.net
 127.0.0.1 aihelp.net
@@ -442,12 +445,14 @@
 127.0.0.1 askmen.com
 127.0.0.1 assets.alicdn.com
 127.0.0.1 assets.applovin.com
+127.0.0.1 assets.duniagames.co.id
 127.0.0.1 assets-share.dspunion.com
 127.0.0.1 assets.tower.sybo.net
 127.0.0.1 assets.ubembed.com
 127.0.0.1 associates-amazon.com
 127.0.0.1 astra9dlya10.com
 127.0.0.1 astratech.pro
+127.0.0.1 attention-system-warning.com
 127.0.0.1 attitude.applinzi.com
 127.0.0.1 atwola.com
 127.0.0.1 auction.unityads.unity3d.com
@@ -489,6 +494,7 @@
 127.0.0.1 bdapi-f.ads.heytapmobile.com
 127.0.0.1 bdapi-id.ads.heytapmobile.com
 127.0.0.1 beacon.page
+127.0.0.1 beacons.ai
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beacons.page
@@ -871,6 +877,7 @@
 127.0.0.1 dt2lb.madfingergames.com
 127.0.0.1 dts.like-it.video
 127.0.0.1 duolaipk.com
+127.0.0.1 dxp.baidu.com
 127.0.0.1 e10204.dsca.akamaiedge.net
 127.0.0.1 e10499.dsce9.akamaiedge.net
 127.0.0.1 e2c19.gcp.gvt2.com
@@ -1074,6 +1081,7 @@
 127.0.0.1 googleweblight.com
 127.0.0.1 go-pardot.adcolony.com
 127.0.0.1 go.redirectingat.com
+127.0.0.1 gos-api.gos-gsp.io
 127.0.0.1 gov.cn
 127.0.0.1 gpapi.zepeto.io
 127.0.0.1 gpoint.com.gr
@@ -1330,6 +1338,7 @@
 127.0.0.1 irisk-id-l.alipay.com
 127.0.0.1 irl-api.twibida.com
 127.0.0.1 ir.sogou.com
+127.0.0.1 iseepassword.com
 127.0.0.1 isex.baby
 127.0.0.1 i-sg.browser.heytapmobile.com
 127.0.0.1 i.snssdk.com
@@ -1363,6 +1372,7 @@
 127.0.0.1 js.media-lab.ai
 127.0.0.1 justin.tv
 127.0.0.1 jwplayer.com
+127.0.0.1 kagaitiktok.net
 127.0.0.1 kargo.com
 127.0.0.1 kayumanis.detik.com
 127.0.0.1 keep2.xyz
@@ -1469,6 +1479,7 @@
 127.0.0.1 mailing.educba.com
 127.0.0.1 mall.shopee.co.id
 127.0.0.1 manifest.tower.sybo.net
+127.0.0.1 mapi.langitmusik.com
 127.0.0.1 marchex.io
 127.0.0.1 marketo.com
 127.0.0.1 marketo.net
@@ -1592,6 +1603,7 @@
 127.0.0.1 mypic.icu
 127.0.0.1 myqcloud.com
 127.0.0.1 nanorep.co
+127.0.0.1 nat02.feelingtouch.com
 127.0.0.1 nat.cn.bucuowan.com
 127.0.0.1 nathanaeldan.pro
 127.0.0.1 nativepu.sh
@@ -1806,6 +1818,7 @@
 127.0.0.1 prod.detectportal.prod.cloudops.mozgcp.net
 127.0.0.1 prod.mozaws.net
 127.0.0.1 profile.gc.apple.com
+127.0.0.1 profitwell.com
 127.0.0.1 pro.ilovexclub.com
 127.0.0.1 pro.ilovexclub.net
 127.0.0.1 pro.kikakeyboard.com
@@ -2432,6 +2445,7 @@
 127.0.0.1 web.like-it.video
 127.0.0.1 web-ops.nimostatic.tv
 127.0.0.1 weborama.com
+127.0.0.1 website-files.com
 127.0.0.1 webstore.ucweb.com
 127.0.0.1 web.toutiao.com
 127.0.0.1 webview.unityads.unity3d.com
@@ -2472,9 +2486,12 @@
 127.0.0.1 www.265.com
 127.0.0.1 www76.nathanaeldan.pro
 127.0.0.1 www.acckwmhi.com
+127.0.0.1 www.agencymrbeast.com
 127.0.0.1 www.apkeditorfree.com
+127.0.0.1 www.attention-system-warning.com
 127.0.0.1 www.aws.iobit.com
 127.0.0.1 www.baidu.com
+127.0.0.1 www.beacons.ai
 127.0.0.1 www.bignox.com
 127.0.0.1 www.cdn.viber.com
 127.0.0.1 www.ckmvkzurnd.com
@@ -2496,7 +2513,9 @@
 127.0.0.1 www.icloud.com
 127.0.0.1 www.iconsdb.com
 127.0.0.1 www.iqzgqivb.com
+127.0.0.1 www.iseepassword.com
 127.0.0.1 www.jd.com
+127.0.0.1 www.kagaitiktok.net
 127.0.0.1 www.letucook.com
 127.0.0.1 www.linkedin.com
 127.0.0.1 www.litatom.com
@@ -2512,6 +2531,7 @@
 127.0.0.1 www.pdfcylsmo.com
 127.0.0.1 www.pdl.id
 127.0.0.1 www.portals.mobi
+127.0.0.1 www.profitwell.com
 127.0.0.1 www.qq.com
 127.0.0.1 www.ralijqugghwqil.com
 127.0.0.1 www.servicewebly.com
@@ -2537,6 +2557,7 @@
 127.0.0.1 www.vyn.fyi
 127.0.0.1 www.wajibbaca.top
 127.0.0.1 www.wattpad.com
+127.0.0.1 www.website-files.com
 127.0.0.1 www.wuueqejuratzdz.com
 127.0.0.1 www.xnxx.com
 127.0.0.1 www.xvideos2.com
@@ -2575,6 +2596,7 @@
 127.0.0.1 xuicy.me
 127.0.0.1 xvideos2.com
 127.0.0.1 xvideos.com
+127.0.0.1 xx18like.uno
 127.0.0.1 xyz.svr-algorix.com
 127.0.0.1 y5en.com
 127.0.0.1 yadro.ru
