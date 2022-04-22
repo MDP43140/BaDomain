@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 21.04.2022
+# Version: 22.04.2022
 # Update: 1 days
 #
 
@@ -15,6 +15,7 @@
 127.0.0.1 166.net
 127.0.0.1 18183.com
 127.0.0.1 18cams.xyz
+127.0.0.1 18like.uno
 127.0.0.1 1.cn.pool.ntp.org
 127.0.0.1 1g5k5w.com
 127.0.0.1 1.oca.nflxvideo.net
@@ -116,6 +117,7 @@
 127.0.0.1 ad4.flurry.com
 127.0.0.1 ada.cx
 127.0.0.1 adadvisor.net
+127.0.0.1 adapex.io
 127.0.0.1 adap.tv
 127.0.0.1 ada.support
 127.0.0.1 adc3-launch.adcolony.com
@@ -134,6 +136,7 @@
 127.0.0.1 adhaven.com
 127.0.0.1 adlightning.com
 127.0.0.1 adlog.flurry.com
+127.0.0.1 adlook.me
 127.0.0.1 ad.lsosdoc.com
 127.0.0.1 admin.justin.tv
 127.0.0.1 admixplay.com
@@ -480,6 +483,7 @@
 127.0.0.1 baby-girls.id
 127.0.0.1 baby-girls.my.id
 127.0.0.1 babyzee.uno
+127.0.0.1 backjawtanoa.com
 127.0.0.1 bae.appmeasurements.com
 127.0.0.1 bag.itunes.apple.com
 127.0.0.1 baidu.com
@@ -975,6 +979,7 @@
 127.0.0.1 fluxmud.quest
 127.0.0.1 footprints-pa.googleapis.com
 127.0.0.1 forepl4y.com
+127.0.0.1 forfrogadiertor.com
 127.0.0.1 fortawesome.com
 127.0.0.1 fortumo.com
 127.0.0.1 fortumo.io
@@ -1002,6 +1007,7 @@
 127.0.0.1 fuseplatform.net
 127.0.0.1 fuwu.sogou.com
 127.0.0.1 fwmrm.net
+127.0.0.1 fyber-static.com
 127.0.0.1 g.alicdn.com
 127.0.0.1 galleryjs.io
 127.0.0.1 gamea.clashofclans.com
@@ -1203,6 +1209,7 @@
 127.0.0.1 i.bosboslink.net
 127.0.0.1 i-by3p-cor001.api.p001.1drv.com
 127.0.0.1 ichef.bbci.co.uk
+127.0.0.1 iclickcdn.com
 127.0.0.1 icloud.com
 127.0.0.1 icms-image.slatic.net
 127.0.0.1 icosa-sg.coloros.com
@@ -1367,6 +1374,7 @@
 127.0.0.1 jomax.net
 127.0.0.1 jp.bignox.com
 127.0.0.1 jpserver.site
+127.0.0.1 js.chargebee.com
 127.0.0.1 js.cx
 127.0.0.1 js.datadome.co
 127.0.0.1 js.media-lab.ai
@@ -1414,6 +1422,7 @@
 127.0.0.1 launcher.us.yeshen.com
 127.0.0.1 layarindo21.pw
 127.0.0.1 layarkaca21.vip
+127.0.0.1 layuicdn.com
 127.0.0.1 laz-dorangesource.alicdn.com
 127.0.0.1 laz-g-cdn.alicdn.com
 127.0.0.1 laz-img-cdn.alicdn.com
@@ -1625,6 +1634,7 @@
 127.0.0.1 newscloud.or.kr
 127.0.0.1 news.hastopic.com
 127.0.0.1 newsmaticaapp.com
+127.0.0.1 news-muxeta.cc
 127.0.0.1 nexage.com
 127.0.0.1 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
 127.0.0.1 nflxvideo.net
@@ -1702,6 +1712,7 @@
 127.0.0.1 oslab.shalltry.com
 127.0.0.1 os-notice.shalltry.com
 127.0.0.1 ossgw.alicdn.com
+127.0.0.1 ostrichesica.com
 127.0.0.1 osupdate2020.shalltry.com
 127.0.0.1 osupdate.shalltry.com
 127.0.0.1 ota.lokalise.co
@@ -1860,6 +1871,7 @@
 127.0.0.1 quantcount.com
 127.0.0.1 quantserve.com
 127.0.0.1 quantummetric.com
+127.0.0.1 quiztest.me
 127.0.0.1 r2b2.io
 127.0.0.1 r3.i.lencr.org
 127.0.0.1 racgen.monster
@@ -1957,6 +1969,7 @@
 127.0.0.1 rudyvalencia.pro
 127.0.0.1 rusfsg.coloros.com
 127.0.0.1 rwt.fortumo.com
+127.0.0.1 s10.histats.com
 127.0.0.1 s.166.net
 127.0.0.1 s2.loli.net
 127.0.0.1 s2s.af.outfit7.com
@@ -2154,6 +2167,7 @@
 127.0.0.1 storefsf.nearme.com.cn
 127.0.0.1 storeimg.heytapimg.com
 127.0.0.1 streamback.ff.avast.com
+127.0.0.1 streamrail.net
 127.0.0.1 stun.ekiga.net
 127.0.0.1 stup5.appmeasurements.com
 127.0.0.1 sub2unlock.com
@@ -2302,6 +2316,7 @@
 127.0.0.1 ua-passport.space
 127.0.0.1 uapi.afo2o.com
 127.0.0.1 uat5-b.investingchannel.com
+127.0.0.1 ubembed.com
 127.0.0.1 ucweb.com
 127.0.0.1 udp-dispatch.ucweb.com
 127.0.0.1 ugo.com
@@ -2486,10 +2501,13 @@
 127.0.0.1 www.265.com
 127.0.0.1 www76.nathanaeldan.pro
 127.0.0.1 www.acckwmhi.com
+127.0.0.1 www.adapex.io
+127.0.0.1 www.adlook.me
 127.0.0.1 www.agencymrbeast.com
 127.0.0.1 www.apkeditorfree.com
 127.0.0.1 www.attention-system-warning.com
 127.0.0.1 www.aws.iobit.com
+127.0.0.1 www.backjawtanoa.com
 127.0.0.1 www.baidu.com
 127.0.0.1 www.beacons.ai
 127.0.0.1 www.bignox.com
@@ -2533,6 +2551,7 @@
 127.0.0.1 www.portals.mobi
 127.0.0.1 www.profitwell.com
 127.0.0.1 www.qq.com
+127.0.0.1 www.quiztest.me
 127.0.0.1 www.ralijqugghwqil.com
 127.0.0.1 www.servicewebly.com
 127.0.0.1 www.shareaholic.net
@@ -2561,9 +2580,11 @@
 127.0.0.1 www.wuueqejuratzdz.com
 127.0.0.1 www.xnxx.com
 127.0.0.1 www.xvideos2.com
+127.0.0.1 www.yastatic.net
 127.0.0.1 www.yeshen.com
 127.0.0.1 www.yeshen.com.w.kunlungr.com
 127.0.0.1 www.ykxipfcg.com
+127.0.0.1 x18like.uno
 127.0.0.1 x1.i.lencr.org
 127.0.0.1 x8sb.com
 127.0.0.1 x8speeder.com
@@ -2604,6 +2625,7 @@
 127.0.0.1 yandex.com
 127.0.0.1 yandex.net
 127.0.0.1 yandex.ru
+127.0.0.1 yastatic.net
 127.0.0.1 yeshen.com
 127.0.0.1 y.gtimg.cn
 127.0.0.1 yhgrffndvzbtoilmundkmvbaxrjtqsew.com
