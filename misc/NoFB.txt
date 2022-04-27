@@ -610,6 +610,7 @@ fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 free.facebook.com
 gateway.facebook.com
 graph.facebook.com
+graph-fallback.facebook.com
 graph.fbpigeon.com
 graph.instagram.com
 graphql.instagram.com

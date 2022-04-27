@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 22.04.2022
+# Version: 27.04.2022
 # Update: 1 days
 #
 
@@ -1971,10 +1971,12 @@ rusfsg.coloros.com
 rwt.fortumo.com
 s10.histats.com
 s.166.net
+s18900.webovernet.com
 s2.loli.net
 s2s.af.outfit7.com
 s3-v2.cdngtc.com
 s6.layarkaca21.vip
+s8900.webovernet.com
 safeframe.googlesyndication.com
 samba.tv
 samsappsbn.vo.llnwd.net
@@ -2460,6 +2462,7 @@ web.likeitlite.com
 web.like-it.video
 web-ops.nimostatic.tv
 weborama.com
+webovernet.com
 website-files.com
 webstore.ucweb.com
 web.toutiao.com
@@ -2576,6 +2579,7 @@ www.vur.fyi
 www.vyn.fyi
 www.wajibbaca.top
 www.wattpad.com
+www.webovernet.com
 www.website-files.com
 www.wuueqejuratzdz.com
 www.xnxx.com

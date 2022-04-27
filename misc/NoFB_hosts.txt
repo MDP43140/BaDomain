@@ -611,6 +611,7 @@
 127.0.0.1 free.facebook.com
 127.0.0.1 gateway.facebook.com
 127.0.0.1 graph.facebook.com
+127.0.0.1 graph-fallback.facebook.com
 127.0.0.1 graph.fbpigeon.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 graphql.instagram.com
