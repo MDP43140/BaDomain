@@ -8,27 +8,27 @@ VERSION="$(date +%d.%m.%Y)"
 UPDATE_FREQ="1 day"
 for i in "$@";do
 	case $(tr '[:upper:]' '[:lower:]' <<<"$i") in
-		-h|help)
+		-h|--help|h|help)
 			echo " HostsBuilder"
 			echo "-------------------------"
-			echo " help               | Display this help page"
-			echo " build              | Cleans old files, Cleans dupes, Create hosts files"
-			echo " build_all_clean    | Cleans old files and dupes, Create all hosts files, and clean again"
-			echo " mkHosts            | Create hosts file"
-			echo " mkHosts_misc       | Create hosts file (misc)"
-			echo " mkHosts_uni        | Create hosts file (universal)"
-			echo " mkHosts_all        | Create hosts file (all files)"
-			echo " clean              | Clean .old files"
-			echo " clean_all          | Clean .old files and hosts file"
-			echo " mkHosts_uni_mypref | melol"
+			echo " h  help               | Display this help page"
+			echo " b  build              | Cleans old files, Cleans dupes, Create hosts files"
+			echo " ba build-all-clean    | Cleans old files and dupes, Create all hosts files, and clean again"
+			echo " m  mkHosts            | Create hosts file"
+			echo " mm mkHosts-misc       | Create hosts file (misc)"
+			echo " mu mkHosts-uni        | Create hosts file (universal)"
+			echo " ma mkHosts-all        | Create hosts file (all files)"
+			echo " c  clean              | Clean .old files"
+			echo " ca clean-all          | Clean .old files and hosts file"
+			echo " mp mkHosts-uni-mypref | melol"
 			exit 0
 		;;
-		mkhosts)
+		m|mkhosts)
 			echo Creating regular hosts...
 			if [ -f BaDomain_hosts.txt ];then mv BaDomain_hosts.txt BaDomain_hosts.txt.old;fi
 			scripts/mkHosts.sh BaDomain
 		;;
-		mkhosts-misc)
+		mm|mkhosts-misc)
 			echo Creating misc hosts...
 			if [ -f misc/NoFB_hosts.txt ];then mv misc/NoFB_hosts.txt misc/NoFB_hosts.txt.old;fi
 			if [ -f misc/NoFreeFire_hosts.txt ];then mv misc/NoFreeFire_hosts.txt misc/NoFreeFire_hosts.txt.old;fi
@@ -39,7 +39,7 @@ for i in "$@";do
 			scripts/mkHosts.sh misc/NoMLBB
 			scripts/mkHosts.sh misc/NoTikTok
 		;;
-		mkhosts-uni)
+		mu|mkhosts-uni)
 			echo Creating unified hosts \(make sure the hosts file exists\!\)...
 			if [ -f BaDomain_Unified-hosts.txt ];then mv BaDomain_Unified-hosts.txt BaDomain_Unified-hosts.txt.old;fi
 			echo "#" > "BaDomain_Unified-hosts.txt"
@@ -58,7 +58,7 @@ for i in "$@";do
 			echo "" >> "BaDomain_Unified-hosts.txt"
 			sed '/^#/d' BaDomain_hosts.txt misc/NoFB_hosts.txt misc/NoFreeFire_hosts.txt misc/NoMLBB_hosts.txt misc/NoTikTok_hosts.txt >> "BaDomain_Unified-hosts.txt"
 		;;
-		mkhosts-all)
+		ma|mkhosts-all)
 			echo Renaming old hosts...
 			if [ -f BaDomain_hosts.txt ];then mv BaDomain_hosts.txt BaDomain_hosts.txt.old;fi
 			if [ -f misc/NoFB_hosts.txt ];then mv misc/NoFB_hosts.txt misc/NoFB_hosts.txt.old;fi
@@ -96,7 +96,7 @@ for i in "$@";do
 			clear
 			echo "Done!"
 		;;
-		build) # some easy script thing...
+		b|build) # some easy script thing...
 			echo Warning: this will override old backups\! Renaming old hosts...
 			rm -f BaDomain_hosts.txt.old
 			rm -f misc/NoFB_hosts.txt.old
@@ -155,7 +155,7 @@ for i in "$@";do
 			sed '/^#/d' BaDomain_hosts.txt misc/NoFB_hosts.txt misc/NoFreeFire_hosts.txt misc/NoMLBB_hosts.txt misc/NoTikTok_hosts.txt >> "BaDomain_Unified-hosts.txt"
 			echo "Done!"
 		;;
-		build-all-clean)
+		ba|build-all-clean)
 			echo Warning: this will override old backups\! Renaming old hosts...
 			rm -f BaDomain_hosts.txt.old
 			rm -f misc/NoFB_hosts.txt.old
@@ -232,15 +232,15 @@ for i in "$@";do
 			rm $(ls *.old misc/*.old)
 			echo "Done!"
 		;;
-		clean)
+		c|clean)
 			echo "Cleaning..."
 			rm $(ls *.old misc/*.old)
 		;;
-		clean-all)
+		ca|clean-all)
 			echo "Cleaning..."
 			rm $(ls *.old misc/*.old *hosts.txt misc/*hosts.txt)
 		;;
-		mkhosts-uni-mypref)
+		mp|mkhosts-uni-mypref)
 			if [ -f BaDomain_Unified-hosts_MyUseCase.txt ];then mv BaDomain_Unified-hosts_MyUseCase.txt BaDomain_Unified-hosts_MyUseCase.txt.old;fi
 			echo "#" > "BaDomain_Unified-hosts_MyUseCase.txt"
 			echo "# Name: BaDomain Unified" >> "BaDomain_Unified-hosts_MyUseCase.txt"
