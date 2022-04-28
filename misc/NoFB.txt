@@ -617,7 +617,6 @@ graphql.instagram.com
 graph.whatsapp.net
 h-ct-m-fbx.fbsbx.com.online-metrix.net
 help.instagram.com
-herningrideklub.netscontent-a-ams.xx.fbcdn.net
 h.facebook.com
 iglite-z.facebook.com
 i.instagram.com

@@ -1,11 +1,12 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.04.2022
+# Version: 28.04.2022
 # Update: 1 days
 #
 
 127.0.0.1 0.news20.biz
+127.0.0.1 0.ygti905ffth6.com
 127.0.0.1 101.249.211.130.bc.googleusercontent.com
 127.0.0.1 1111210941.rsc.cdn77.org
 127.0.0.1 114dns.com
@@ -930,6 +931,7 @@
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 events.backtrace.io
+127.0.0.1 events.iap.unity3d.com
 127.0.0.1 events.mz.unity3d.com
 127.0.0.1 everinform.com
 127.0.0.1 everyday.cf
@@ -1141,6 +1143,7 @@
 127.0.0.1 helpscout.net
 127.0.0.1 help.sogou.com
 127.0.0.1 helpx.adobe.com
+127.0.0.1 herningrideklub.net
 127.0.0.1 heytapdl.com
 127.0.0.1 heytapmobile.com
 127.0.0.1 hhhh.uno
@@ -2631,6 +2634,7 @@
 127.0.0.1 yandex.ru
 127.0.0.1 yastatic.net
 127.0.0.1 yeshen.com
+127.0.0.1 ygti905ffth6.com
 127.0.0.1 y.gtimg.cn
 127.0.0.1 yhgrffndvzbtoilmundkmvbaxrjtqsew.com
 127.0.0.1 yieldlove.com

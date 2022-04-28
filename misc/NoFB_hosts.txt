@@ -618,7 +618,6 @@
 127.0.0.1 graph.whatsapp.net
 127.0.0.1 h-ct-m-fbx.fbsbx.com.online-metrix.net
 127.0.0.1 help.instagram.com
-127.0.0.1 herningrideklub.netscontent-a-ams.xx.fbcdn.net
 127.0.0.1 h.facebook.com
 127.0.0.1 iglite-z.facebook.com
 127.0.0.1 i.instagram.com
