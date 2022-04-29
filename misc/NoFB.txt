@@ -894,9 +894,11 @@ snaptu-d-shv-05-frc3.facebook.com
 snaptu-d-shv-10-frc1.facebook.com
 snaptu-z.facebook.com
 sonar6-sea1-1.xx.fbcdn.net
+sonar6.xy.fbcdn.net
 sonar.fpku1-1.fna.whatsapp.net
 sonar.fpku1-2.fna.whatsapp.net
 sonar-iad.xx.fbcdn.net
+sonar-xsp1-2.xx.fbcdn.net
 sphotos-a-ams.xx.fbcdn.net
 sphotos-a-atl.xx.fbcdn.net
 sphotos-a-cdg.xx.fbcdn.net
@@ -1031,6 +1033,7 @@ xx-fbcdn-shv-02-cai1.fbcdn.net
 xx-fbcdn-shv-03-ash5.fbcdn.net
 xx-fbcdn-shv-04-hkg1.fbcdn.net
 xx-fbcdn-shv-04-prn2.fbcdn.net
+xy.fbcdn.net
 z-1-scontent-sjc2-1.xx.fbcdn.net
 z-1-scontent.xx.fbcdn.net
 z-m.c10r.facebook.com

@@ -895,9 +895,11 @@
 127.0.0.1 snaptu-d-shv-10-frc1.facebook.com
 127.0.0.1 snaptu-z.facebook.com
 127.0.0.1 sonar6-sea1-1.xx.fbcdn.net
+127.0.0.1 sonar6.xy.fbcdn.net
 127.0.0.1 sonar.fpku1-1.fna.whatsapp.net
 127.0.0.1 sonar.fpku1-2.fna.whatsapp.net
 127.0.0.1 sonar-iad.xx.fbcdn.net
+127.0.0.1 sonar-xsp1-2.xx.fbcdn.net
 127.0.0.1 sphotos-a-ams.xx.fbcdn.net
 127.0.0.1 sphotos-a-atl.xx.fbcdn.net
 127.0.0.1 sphotos-a-cdg.xx.fbcdn.net
@@ -1032,6 +1034,7 @@
 127.0.0.1 xx-fbcdn-shv-03-ash5.fbcdn.net
 127.0.0.1 xx-fbcdn-shv-04-hkg1.fbcdn.net
 127.0.0.1 xx-fbcdn-shv-04-prn2.fbcdn.net
+127.0.0.1 xy.fbcdn.net
 127.0.0.1 z-1-scontent-sjc2-1.xx.fbcdn.net
 127.0.0.1 z-1-scontent.xx.fbcdn.net
 127.0.0.1 z-m.c10r.facebook.com

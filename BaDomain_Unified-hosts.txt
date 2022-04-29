@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 28.04.2022
+# Version: 29.04.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -236,6 +236,8 @@
 127.0.0.1 allmipa.com
 127.0.0.1 all-stadium.net
 127.0.0.1 allstatics.com
+127.0.0.1 alms.demo34.ckg.hk
+127.0.0.1 alms.demo.ckg.hk
 127.0.0.1 alog.umeng.com
 127.0.0.1 aloha46.viber.com
 127.0.0.1 aloofvest.com
@@ -267,6 +269,7 @@
 127.0.0.1 anymind360.com
 127.0.0.1 aos.go2s.co
 127.0.0.1 ap-alps.y5en.com
+127.0.0.1 aparthotelmx.ge
 127.0.0.1 apester.com
 127.0.0.1 aphmes.xjwi5.com
 127.0.0.1 api22.resso.app
@@ -314,6 +317,7 @@
 127.0.0.1 api-id.theme.heytapmobile.com
 127.0.0.1 api.igofun.mobi
 127.0.0.1 api.input.intl.miui.com
+127.0.0.1 api.intellimize.co
 127.0.0.1 api.ipify.org
 127.0.0.1 api.isharingapp.com
 127.0.0.1 api.jetengine.be
@@ -375,12 +379,15 @@
 127.0.0.1 app.advertizer.com
 127.0.0.1 appannie.com
 127.0.0.1 app.bignox.com
+127.0.0.1 app.bt-cfm.io
 127.0.0.1 app.chat.global.xiaomi.net
 127.0.0.1 appcloud.mcafee.com
 127.0.0.1 appconf-ocs-sgp.heytapdl.com
 127.0.0.1 appconf-sgp.heytapdl.com
 127.0.0.1 app.cove.chat
+127.0.0.1 app.driftt.com
 127.0.0.1 appia.com
+127.0.0.1 appjustable.com
 127.0.0.1 apple-finance.query.yahoo.com
 127.0.0.1 app.link
 127.0.0.1 applinzi.com
@@ -476,6 +483,7 @@
 127.0.0.1 auiopt.unityads.unity3d.com
 127.0.0.1 au.mayalaze.xyz
 127.0.0.1 auth-cloudfront.prod.ims.adobejanus.com
+127.0.0.1 autocomplete.clearbit.com
 127.0.0.1 autopilothq.com
 127.0.0.1 autopush.prod.mozaws.net
 127.0.0.1 au.umeng.com
@@ -497,11 +505,13 @@
 127.0.0.1 bag.itunes.apple.com
 127.0.0.1 baidu.com
 127.0.0.1 baike.sogou.com
+127.0.0.1 ballou.se
 127.0.0.1 bam-cell.nr-data.net
 127.0.0.1 bannerflow.com
 127.0.0.1 bannersnack.com
 127.0.0.1 barrons.com
 127.0.0.1 basket2.xyz
+127.0.0.1 bazaarvoice.com
 127.0.0.1 bbs.bignox.com
 127.0.0.1 bc0a.com
 127.0.0.1 bdapi-f.ads.heytapmobile.com
@@ -537,14 +547,17 @@
 127.0.0.1 billigrefinansiering.com
 127.0.0.1 bi.yeshen.com
 127.0.0.1 bizconfig.palmplaystore.com
+127.0.0.1 bizible.com
 127.0.0.1 bizscene.palmplaystore.com
 127.0.0.1 bksdksp.wetvinfo.com
 127.0.0.1 black.riseup.net
+127.0.0.1 blackseas.ge
 127.0.0.1 blank
 127.0.0.1 blogblog.com
 127.0.0.1 bluecava.com
 127.0.0.1 bluekai.com
 127.0.0.1 blyjh.com
+127.0.0.1 bms.ge
 127.0.0.1 bofxxjgiejdp
 127.0.0.1 boltdns.net
 127.0.0.1 bolt-gcdn.sc-cdn.net
@@ -561,6 +574,7 @@
 127.0.0.1 brs.api.intl.miui.com
 127.0.0.1 b.sogou.com
 127.0.0.1 bstream.hzmklvdieo.com
+127.0.0.1 bt-cfm.io
 127.0.0.1 btloader.com
 127.0.0.1 btrace.wetvinfo.com
 127.0.0.1 bucket-img.y5en.com
@@ -584,6 +598,7 @@
 127.0.0.1 captive.apple.com
 127.0.0.1 captive.g.aaplimg.com
 127.0.0.1 carbonads.com
+127.0.0.1 cardboard.ge
 127.0.0.1 cardgen.uno
 127.0.0.1 casalemedia.com
 127.0.0.1 cashend.me
@@ -594,6 +609,7 @@
 127.0.0.1 cdn130.picsart.com
 127.0.0.1 cdn1.codashop.com
 127.0.0.1 cdn1-production-images-kly.akamaized.net
+127.0.0.1 cdn2.editmysite.com
 127.0.0.1 cdn2.palmplaystore.com
 127.0.0.1 cdn-2.tstatic.net
 127.0.0.1 cdn77.org
@@ -603,6 +619,7 @@
 127.0.0.1 cdn.aihelp.net
 127.0.0.1 cdn.alsgp0.fds.api.mi-img.com
 127.0.0.1 cdn-asset.zepeto.me
+127.0.0.1 cdn.bizible.com
 127.0.0.1 cdnconfig.aihelp.net
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.cove.chat
@@ -615,6 +632,7 @@
 127.0.0.1 cdn.gamesnacks.com
 127.0.0.1 cdn-graphql-v4.kumparan.com
 127.0.0.1 cdnimage2.caping.co.id
+127.0.0.1 cdn-images.mailchimp.com
 127.0.0.1 cdn.link4app.com
 127.0.0.1 cdnm3.caping.co.id
 127.0.0.1 cdn.otnolatrnup.com
@@ -624,6 +642,7 @@
 127.0.0.1 cdn.ravenjs.com
 127.0.0.1 cdn.rortoscdn.com
 127.0.0.1 cdn-sdk.aihelp.net
+127.0.0.1 cdn.segment.com
 127.0.0.1 cdn.shalltry.com
 127.0.0.1 cdn.slidesharecdn.com
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
@@ -659,12 +678,16 @@
 127.0.0.1 chimpstatic.com
 127.0.0.1 chmod777.ltd
 127.0.0.1 churnzero.net
+127.0.0.1 cipro.ms
 127.0.0.1 cix.line-apps.com
+127.0.0.1 ckg.hk
 127.0.0.1 ckmvkzurnd.com
 127.0.0.1 cl4.apple.com
 127.0.0.1 cl4.apple.com.c.footprint.net
 127.0.0.1 cl5.apple.com
 127.0.0.1 cleanmaster.club
+127.0.0.1 clearbit.com
+127.0.0.1 clearbitjs.com
 127.0.0.1 cleverpush.com
 127.0.0.1 clickagy.com
 127.0.0.1 clientapi-sin.dtignite.com
@@ -674,6 +697,7 @@
 127.0.0.1 cloudflareinsights.com
 127.0.0.1 cloudfront.net
 127.0.0.1 cloudi-in.browser.oppomobile.com
+127.0.0.1 cloudinary.com
 127.0.0.1 cloudi-sg.browser.heytapmobile.com
 127.0.0.1 cloudi-sg.browser.oppomobile.com
 127.0.0.1 cloudops.mozgcp.net
@@ -688,6 +712,7 @@
 127.0.0.1 code.createjs.com
 127.0.0.1 codepush.appcenter.ms
 127.0.0.1 cognitivlabs.com
+127.0.0.1 colegiounamuno.es
 127.0.0.1 collector.lunalabs.io
 127.0.0.1 collector-playground.lunalabs.uk
 127.0.0.1 combinatronics.io
@@ -695,6 +720,8 @@
 127.0.0.1 commnat-main-gc.ess.apple.com
 127.0.0.1 common-api.smart-sense.org
 127.0.0.1 common.duapps.com
+127.0.0.1 company.clearbit.com
+127.0.0.1 company-stream.clearbit.com
 127.0.0.1 company-target.com
 127.0.0.1 concert.io
 127.0.0.1 confection.io
@@ -733,12 +760,15 @@
 127.0.0.1 crazygirls24.com
 127.0.0.1 creativecow.net
 127.0.0.1 creatives.contextads.live
+127.0.0.1 creditkarma.com
+127.0.0.1 creemo.pl
 127.0.0.1 cricket.hastopic.com
 127.0.0.1 crisp.chat
 127.0.0.1 crisp.im
 127.0.0.1 criteo.com
 127.0.0.1 criteo.net
 127.0.0.1 crownpeak.net
+127.0.0.1 crs.popcore.com
 127.0.0.1 crsspxl.com
 127.0.0.1 crunchify.com
 127.0.0.1 crwdcntrl.net
@@ -781,6 +811,7 @@
 127.0.0.1 d3d6s0qsgup76t.cloudfront.net
 127.0.0.1 d3fw5vlhllyvee.cloudfront.net
 127.0.0.1 d3hegev0j37foa.cloudfront.net
+127.0.0.1 d3hjue7omxs01q.cloudfront.net
 127.0.0.1 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
 127.0.0.1 dac.contextads.live
 127.0.0.1 dadyapp.com
@@ -801,6 +832,7 @@
 127.0.0.1 datting.click
 127.0.0.1 datting.link
 127.0.0.1 datting.online
+127.0.0.1 da-www14.ballou.se
 127.0.0.1 dbn41syzjymrk.cloudfront.net
 127.0.0.1 dc1.networkbench.com
 127.0.0.1 dcb.fortumo.com
@@ -825,12 +857,15 @@
 127.0.0.1 demandbase.com
 127.0.0.1 demand.supply
 127.0.0.1 demdex.net
+127.0.0.1 demo34.ckg.hk
+127.0.0.1 demo.ckg.hk
 127.0.0.1 demo.mipunet.cn
 127.0.0.1 deo.shopeemobile.com
 127.0.0.1 derk.bar
 127.0.0.1 de.slideshare.net
 127.0.0.1 detectportal.prod.cloudops.mozgcp.net
 127.0.0.1 dev.bignox.com
+127.0.0.1 dev.driftt.com
 127.0.0.1 developers.google.cn
 127.0.0.1 developers.google.com.hk
 127.0.0.1 deviceintegritytokens-pa.googleapis.com
@@ -845,6 +880,8 @@
 127.0.0.1 dictionary.map.fastly.net
 127.0.0.1 digitalriver.com
 127.0.0.1 d.infeed.id
+127.0.0.1 discovery.clearbit.com
+127.0.0.1 distillery.wistia.com
 127.0.0.1 diva.bond
 127.0.0.1 dkyweipsds.com
 127.0.0.1 dls.di.atlas.samsung.com
@@ -879,6 +916,7 @@
 127.0.0.1 download-sin.dtignite.com
 127.0.0.1 dragate-sg.dc.heytapmobi.com
 127.0.0.1 dragate-sg.dc.oppomobile.com
+127.0.0.1 drift.com
 127.0.0.1 driftt.com
 127.0.0.1 dr.youme.im
 127.0.0.1 ds2.shalltry.com
@@ -905,8 +943,12 @@
 127.0.0.1 ecommerce.iap.unity3d.com
 127.0.0.1 edgecastcdn.net
 127.0.0.1 edialog24.com
+127.0.0.1 editmysite.com
+127.0.0.1 eep.io
 127.0.0.1 ekiga.net
 127.0.0.1 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
+127.0.0.1 embed-fastly.wistia.com
+127.0.0.1 embedwistia-a.akamaihd.net
 127.0.0.1 emebo.io
 127.0.0.1 emxdgt.com
 127.0.0.1 en.bignox.com
@@ -943,6 +985,7 @@
 127.0.0.1 events.mz.unity3d.com
 127.0.0.1 everinform.com
 127.0.0.1 everyday.cf
+127.0.0.1 evgnet.com
 127.0.0.1 evidon.com
 127.0.0.1 eviltracker.net
 127.0.0.1 example.org
@@ -951,6 +994,7 @@
 127.0.0.1 experts-exchange.com
 127.0.0.1 exploitbyte.net
 127.0.0.1 exponential.com
+127.0.0.1 exportinvest.ge
 127.0.0.1 extremetech.com
 127.0.0.1 eyeonsight.net
 127.0.0.1 eyeota.net
@@ -963,6 +1007,7 @@
 127.0.0.1 fankui.help.sogou.com
 127.0.0.1 fans.sports.qq.com
 127.0.0.1 farsroid.com
+127.0.0.1 fast.wistia.com
 127.0.0.1 feabtest.prod.tvlk-data.com
 127.0.0.1 feed1.yukbacaberita.com
 127.0.0.1 feedback-gl.heytapmobi.com
@@ -975,7 +1020,9 @@
 127.0.0.1 feed-test.bignox.com
 127.0.0.1 feelingtouch.helpshift.com
 127.0.0.1 fennec-catalog-cdn.prod.mozaws.net
+127.0.0.1 fg8vvsvnieiv3ej16jby.litix.io
 127.0.0.1 filesusr.com
+127.0.0.1 filmmogzivota.rs
 127.0.0.1 find.api.micloud.xiaomi.net
 127.0.0.1 fineboost.com
 127.0.0.1 firehose.eu-west-1.amazonaws.com
@@ -987,7 +1034,9 @@
 127.0.0.1 flow.maribacaberita.com
 127.0.0.1 fluidplayer.com
 127.0.0.1 fluxmud.quest
+127.0.0.1 focusmedica.in
 127.0.0.1 footprints-pa.googleapis.com
+127.0.0.1 force.com
 127.0.0.1 forepl4y.com
 127.0.0.1 forfrogadiertor.com
 127.0.0.1 fortawesome.com
@@ -1032,6 +1081,7 @@
 127.0.0.1 g-api.ekatox.com
 127.0.0.1 g-api.kwai.com
 127.0.0.1 g-api.kwaipros.com
+127.0.0.1 garagewestrotterdam.nl
 127.0.0.1 gateway.fe.apple-dns.net
 127.0.0.1 gateway.icloud.com
 127.0.0.1 gateway.multiplay.zepeto.run
@@ -1040,10 +1090,12 @@
 127.0.0.1 gcp.api.snapchat.com
 127.0.0.1 gcs.sc-cdn.net
 127.0.0.1 gdanstum.net
+127.0.0.1 geclose2eu.info
 127.0.0.1 g.ekatox.com
 127.0.0.1 geoip-db.com
 127.0.0.1 geojs.io
 127.0.0.1 geolocation-db.com
+127.0.0.1 geowf.ge
 127.0.0.1 germs-love.store
 127.0.0.1 get-bx.g.aaplimg.com
 127.0.0.1 getclicky.com
@@ -1108,6 +1160,7 @@
 127.0.0.1 groundtruth.com
 127.0.0.1 group41.sites.hscoscdn40.net
 127.0.0.1 group.bignox.com
+127.0.0.1 growin.ge
 127.0.0.1 growtopia1.com
 127.0.0.1 growtopia2.com
 127.0.0.1 gslb-gl.cdo.heytapmobi.com
@@ -1144,6 +1197,7 @@
 127.0.0.1 hastopic.com
 127.0.0.1 havasedge.com
 127.0.0.1 hb.kg.qq.com
+127.0.0.1 hbmtours.com
 127.0.0.1 hbs.ph.affinity.com
 127.0.0.1 hdcb-api.fortumo.io
 127.0.0.1 heapanalytics.com
@@ -1173,6 +1227,7 @@
 127.0.0.1 homepage.vivo.com
 127.0.0.1 horizonme.net
 127.0.0.1 horneymom.today
+127.0.0.1 hostek.se
 127.0.0.1 hostmaster.hichina.com
 127.0.0.1 hosupshunk.com
 127.0.0.1 hot-girls18.com
@@ -1272,6 +1327,7 @@
 127.0.0.1 ilovexclub.net
 127.0.0.1 image.bignox.com
 127.0.0.1 images.anime-pictures.net
+127.0.0.1 images.ctfassets.net
 127.0.0.1 images.idtopnews.com
 127.0.0.1 image.slidesharecdn.com
 127.0.0.1 images.sc-cdn.net
@@ -1333,6 +1389,8 @@
 127.0.0.1 internetpositif.uzone.id
 127.0.0.1 intlapi.cdo.oppomobile.com
 127.0.0.1 intl.iqiyi.com
+127.0.0.1 intuitcdn.net
+127.0.0.1 intuit.com
 127.0.0.1 invitereferrals.com
 127.0.0.1 ios.bignox.com
 127.0.0.1 i.otu.foreign.oppomobile.com
@@ -1388,10 +1446,12 @@
 127.0.0.1 js.chargebee.com
 127.0.0.1 js.cx
 127.0.0.1 js.datadome.co
+127.0.0.1 js.driftt.com
 127.0.0.1 js.media-lab.ai
 127.0.0.1 justin.tv
 127.0.0.1 jwplayer.com
 127.0.0.1 kagaitiktok.net
+127.0.0.1 kantora.ge
 127.0.0.1 kargo.com
 127.0.0.1 kayumanis.detik.com
 127.0.0.1 keep2.xyz
@@ -1417,6 +1477,7 @@
 127.0.0.1 kr.bignox.com
 127.0.0.1 krisp.ai
 127.0.0.1 krxd.net
+127.0.0.1 kustens.com
 127.0.0.1 kwai.com
 127.0.0.1 kwai.net
 127.0.0.1 kxcdn.com
@@ -1462,6 +1523,7 @@
 127.0.0.1 litatom.com
 127.0.0.1 liteapi.ekatox.com
 127.0.0.1 litemsg.ekatox.com
+127.0.0.1 litix.io
 127.0.0.1 live.chartboost.com
 127.0.0.1 live.messagebird.com
 127.0.0.1 live.shopee.co.id
@@ -1481,6 +1543,7 @@
 127.0.0.1 log.goodnovel.com
 127.0.0.1 logicbuy.com
 127.0.0.1 login.tim.qq.com
+127.0.0.1 logo.clearbit.com
 127.0.0.1 logos.kiwibrowser.com
 127.0.0.1 logs.im-gb.com
 127.0.0.1 logs.papertrailapp.com
@@ -1495,14 +1558,27 @@
 127.0.0.1 m1e.net
 127.0.0.1 m2.ai
 127.0.0.1 magzine.transacme.com
+127.0.0.1 mail.aparthotelmx.ge
 127.0.0.1 mail.bignox.com
+127.0.0.1 mail.blackseas.ge
+127.0.0.1 mail.bms.ge
+127.0.0.1 mail.cardboard.ge
+127.0.0.1 mailchimp.com
+127.0.0.1 mail.exportinvest.ge
+127.0.0.1 mail.geclose2eu.info
+127.0.0.1 mail.growin.ge
+127.0.0.1 mail.hbmtours.com
 127.0.0.1 mailing.educba.com
+127.0.0.1 mail.kantora.ge
+127.0.0.1 mail.pazu.ge
 127.0.0.1 mall.shopee.co.id
 127.0.0.1 manifest.tower.sybo.net
+127.0.0.1 mapi.langitmusik.co.id
 127.0.0.1 mapi.langitmusik.com
 127.0.0.1 marchex.io
 127.0.0.1 marketo.com
 127.0.0.1 marketo.net
+127.0.0.1 marketplace.editmysite.com
 127.0.0.1 mars.gamegamb.com
 127.0.0.1 mask-api.icloud.com
 127.0.0.1 mathtag.com
@@ -1554,6 +1630,7 @@
 127.0.0.1 minoplay.com
 127.0.0.1 minoregimen.com
 127.0.0.1 minozodiac.com
+127.0.0.1 mint.intuit.com
 127.0.0.1 mi-pre.shalltry.com
 127.0.0.1 mipunet.cn
 127.0.0.1 mirabelle.uno
@@ -1622,6 +1699,7 @@
 127.0.0.1 myim3banner.kloc.co
 127.0.0.1 mypic.icu
 127.0.0.1 myqcloud.com
+127.0.0.1 my.salesforce.com
 127.0.0.1 nanorep.co
 127.0.0.1 nat02.feelingtouch.com
 127.0.0.1 nat.cn.bucuowan.com
@@ -1676,6 +1754,7 @@
 127.0.0.1 nude.younggirls.today
 127.0.0.1 nurd.com
 127.0.0.1 nxtck.com
+127.0.0.1 o13824.ingest.sentry.io
 127.0.0.1 o209266.ingest.sentry.io
 127.0.0.1 o.alicdn.com
 127.0.0.1 obus-dc20123-sg.heytapmobile.com
@@ -1771,6 +1850,7 @@
 127.0.0.1 pay.bignox.com
 127.0.0.1 pay.vivoglobal.com
 127.0.0.1 pay.yeshen.com
+127.0.0.1 pazu.ge
 127.0.0.1 pbbl.co
 127.0.0.1 pbssrv-centralevents.com
 127.0.0.1 pbs.twimg.com
@@ -1781,6 +1861,8 @@
 127.0.0.1 perf.hsforms.com
 127.0.0.1 permutive.app
 127.0.0.1 persona.franchise.minecraft-services.net
+127.0.0.1 person.clearbit.com
+127.0.0.1 person-stream.clearbit.com
 127.0.0.1 pglstatp.com
 127.0.0.1 ph.bignox.com
 127.0.0.1 phone-api.realme.com
@@ -1793,6 +1875,7 @@
 127.0.0.1 pingma.qq.com
 127.0.0.1 pinning-02.secb2b.com
 127.0.0.1 pinyin.sogou.com
+127.0.0.1 pipedream.wistia.com
 127.0.0.1 pippio.com
 127.0.0.1 pir.fm
 127.0.0.1 pixel.wp.com
@@ -1810,6 +1893,7 @@
 127.0.0.1 podrbx.best
 127.0.0.1 pool.apk.aptoide.com
 127.0.0.1 pop3.bignox.com
+127.0.0.1 popcore.com
 127.0.0.1 popular.kiwibrowser.com
 127.0.0.1 pornozot.com
 127.0.0.1 postaffiliatepro.com
@@ -1822,6 +1906,7 @@
 127.0.0.1 prd.aadg.akadns.net
 127.0.0.1 prd.aadg.trafficmanager.net
 127.0.0.1 prd.ags.akadns.net
+127.0.0.1 preferences.clearbit.com
 127.0.0.1 pressablecdn.com
 127.0.0.1 preview-kly.akamaized.net
 127.0.0.1 p.rfihub.com
@@ -1846,11 +1931,14 @@
 127.0.0.1 pro.kikakeyboard.com
 127.0.0.1 pro-market.net
 127.0.0.1 propsid.b-cdn.net
+127.0.0.1 proservice.ge
+127.0.0.1 prospector.clearbit.com
 127.0.0.1 proxyf.apps.oppomobile.com
 127.0.0.1 proxy-omm.lotusflare.com
 127.0.0.1 ps4remoteplay.net
 127.0.0.1 psegment.netcoresmartech.com
 127.0.0.1 pt.bignox.com
+127.0.0.1 ptlinknettbk.my.salesforce.com
 127.0.0.1 pt.slideshare.net
 127.0.0.1 public1.114dns.com
 127.0.0.1 public.bnbstatic.com
@@ -1882,6 +1970,7 @@
 127.0.0.1 quantcount.com
 127.0.0.1 quantserve.com
 127.0.0.1 quantummetric.com
+127.0.0.1 quickbooks.intuit.com
 127.0.0.1 quiztest.me
 127.0.0.1 r2b2.io
 127.0.0.1 r3.i.lencr.org
@@ -1919,6 +2008,7 @@
 127.0.0.1 res12.bignox.com
 127.0.0.1 res1.applovin.com
 127.0.0.1 res.bignox.com
+127.0.0.1 res.cloudinary.com
 127.0.0.1 res-global-sg-master.sausage.xd.com
 127.0.0.1 res-global-sg-slave.sausage.xd.com
 127.0.0.1 res.noxmobi.com
@@ -1936,6 +2026,7 @@
 127.0.0.1 retcode-sg-lazada.arms.aliyuncs.com
 127.0.0.1 retrogamerclassics.com
 127.0.0.1 revampcdn.com
+127.0.0.1 reveal.clearbit.com
 127.0.0.1 revolvermaps.com
 127.0.0.1 rewards4you.pro
 127.0.0.1 rfihub.com
@@ -1943,6 +2034,7 @@
 127.0.0.1 rhino.acme.com
 127.0.0.1 rilds.com
 127.0.0.1 riseup.net
+127.0.0.1 risk.clearbit.com
 127.0.0.1 rkdms.com
 127.0.0.1 rlcdn.com
 127.0.0.1 robwu.nl
@@ -1989,6 +2081,7 @@
 127.0.0.1 s6.layarkaca21.vip
 127.0.0.1 s8900.webovernet.com
 127.0.0.1 safeframe.googlesyndication.com
+127.0.0.1 salesforce.com
 127.0.0.1 samba.tv
 127.0.0.1 samsappsbn.vo.llnwd.net
 127.0.0.1 samsung-callerprofile.edge.hiyaapi.com
@@ -2024,7 +2117,9 @@
 127.0.0.1 secreto.site
 127.0.0.1 securebiz.org
 127.0.0.1 securetoken.googleapis.com
+127.0.0.1 security.intuit.com
 127.0.0.1 security.noxgroup.org
+127.0.0.1 segment.com
 127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 sellwild.com
 127.0.0.1 semasio.net
@@ -2033,6 +2128,7 @@
 127.0.0.1 sentry.kumparan.com
 127.0.0.1 sentry.prod.mozaws.net
 127.0.0.1 servedby-buysellads.com
+127.0.0.1 service.force.com
 127.0.0.1 services.prod.ims.adobejanus.com
 127.0.0.1 serving-sys.com
 127.0.0.1 settings.kiwibrowser.com
@@ -2044,6 +2140,7 @@
 127.0.0.1 sexxo.baby
 127.0.0.1 sexy-dating.uno
 127.0.0.1 sf19-fe-tos-sg.pglstatp.com
+127.0.0.1 sfdcstatic.com
 127.0.0.1 sfdict.com
 127.0.0.1 sf.ezoiccdn.com
 127.0.0.1 sf.napi.ucweb.com
@@ -2116,6 +2213,7 @@
 127.0.0.1 source.servicewebly.com
 127.0.0.1 sp-497f6f2f.honzik.avcdn.net
 127.0.0.1 space.toutiao.com
+127.0.0.1 spanishcoursesunamuno.com
 127.0.0.1 spatial.fineboost.com
 127.0.0.1 specialdate.my.id
 127.0.0.1 specificclick.net
@@ -2208,6 +2306,7 @@
 127.0.0.1 sweet-girls18.com
 127.0.0.1 sweety-girls.online
 127.0.0.1 swiftkey-android.iris.touchtype-fluency.com
+127.0.0.1 swiftypecdn.com
 127.0.0.1 s.w.org
 127.0.0.1 swpsvc.com
 127.0.0.1 sync.search.spotxchange.com
@@ -2294,6 +2393,7 @@
 127.0.0.1 track-mixer.ru
 127.0.0.1 trackwilly.com
 127.0.0.1 trafficmanager.net
+127.0.0.1 trailhead.salesforce.com
 127.0.0.1 transacme.com
 127.0.0.1 transsion.com
 127.0.0.1 travelncs.com
@@ -2313,11 +2413,16 @@
 127.0.0.1 tubesex.uno
 127.0.0.1 tui.bignox.com
 127.0.0.1 tuplogpublic.bangcdn.net
+127.0.0.1 turbotax.com
+127.0.0.1 turbotax.intuit.com
 127.0.0.1 turn.com
 127.0.0.1 tv.bignox.com
 127.0.0.1 t.wattpad.com
 127.0.0.1 tw.bignox.com
 127.0.0.1 twibida.com
+127.0.0.1 twilio-cms-prod.s3.amazonaws.com
+127.0.0.1 twilio.com
+127.0.0.1 twilio.org
 127.0.0.1 tx.flv.nimo.tv
 127.0.0.1 tx.hls.nimo.tv
 127.0.0.1 ty-cdn.net
@@ -2508,10 +2613,12 @@
 127.0.0.1 ws.hls.nimo.tv
 127.0.0.1 wsod.com
 127.0.0.1 ws.tapjoyads.com
+127.0.0.1 wuildit.com
 127.0.0.1 wuueqejuratzdz.com
 127.0.0.1 wvzb9b.xjwi5.com
 127.0.0.1 ww25.apkeditorfree.com
 127.0.0.1 www.12377.cn
+127.0.0.1 www24.proservice.ge
 127.0.0.1 www.265.com
 127.0.0.1 www76.nathanaeldan.pro
 127.0.0.1 www.acckwmhi.com
@@ -2519,6 +2626,7 @@
 127.0.0.1 www.adlook.me
 127.0.0.1 www.agencymrbeast.com
 127.0.0.1 www.apkeditorfree.com
+127.0.0.1 www.appjustable.com
 127.0.0.1 www.attention-system-warning.com
 127.0.0.1 www.aws.iobit.com
 127.0.0.1 www.backjawtanoa.com
@@ -2526,14 +2634,25 @@
 127.0.0.1 www.beacons.ai
 127.0.0.1 www.bignox.com
 127.0.0.1 www.cdn.viber.com
+127.0.0.1 www.cipro.ms
+127.0.0.1 www.ckg.hk
 127.0.0.1 www.ckmvkzurnd.com
 127.0.0.1 www.cleverpush.com
 127.0.0.1 www.codashop.com
+127.0.0.1 www.colegiounamuno.es
+127.0.0.1 www.creditkarma.com
+127.0.0.1 www.creemo.pl
 127.0.0.1 www.data.ai
 127.0.0.1 www.dob5.com
 127.0.0.1 www.duolaipk.com
+127.0.0.1 www.eep.io
 127.0.0.1 www.etsy.com
+127.0.0.1 www.evgnet.com
+127.0.0.1 www.filmmogzivota.rs
+127.0.0.1 www.focusmedica.in
 127.0.0.1 www.ftblltrck.com
+127.0.0.1 www.garagewestrotterdam.nl
+127.0.0.1 www.geowf.ge
 127.0.0.1 www.glamour.com
 127.0.0.1 www.go2cloud.org
 127.0.0.1 www.googleapis.cn
@@ -2544,14 +2663,19 @@
 127.0.0.1 www.hippoobox.com
 127.0.0.1 www.icloud.com
 127.0.0.1 www.iconsdb.com
+127.0.0.1 www.intuitcdn.net
+127.0.0.1 www.intuit.com
 127.0.0.1 www.iqzgqivb.com
 127.0.0.1 www.iseepassword.com
 127.0.0.1 www.jd.com
 127.0.0.1 www.kagaitiktok.net
+127.0.0.1 www.kustens.com
 127.0.0.1 www.letucook.com
 127.0.0.1 www.linkedin.com
 127.0.0.1 www.litatom.com
+127.0.0.1 www.litix.io
 127.0.0.1 www.lovelybabestu.com
+127.0.0.1 www.marketo.com
 127.0.0.1 www.maskolis.com
 127.0.0.1 www.meongers.com
 127.0.0.1 www.minonav.com
@@ -2568,14 +2692,21 @@
 127.0.0.1 www.quiztest.me
 127.0.0.1 www.ralijqugghwqil.com
 127.0.0.1 www.servicewebly.com
+127.0.0.1 www.sfdcstatic.com
 127.0.0.1 www.shareaholic.net
 127.0.0.1 www.sixtest.com
 127.0.0.1 www.slideshare.net
+127.0.0.1 www.spanishcoursesunamuno.com
 127.0.0.1 www.sweet-girls18.com
+127.0.0.1 www.swiftypecdn.com
 127.0.0.1 www.taobao.com
 127.0.0.1 www.tap.io
 127.0.0.1 www.thrifter.com
+127.0.0.1 www.tiqcdn.com
 127.0.0.1 www.toutiao.com
+127.0.0.1 www.turbotax.com
+127.0.0.1 www.twilio.com
+127.0.0.1 www.twilio.org
 127.0.0.1 www.uadexchange.com
 127.0.0.1 www.unipin.com
 127.0.0.1 www.uzone.id
@@ -2592,6 +2723,7 @@
 127.0.0.1 www.wattpad.com
 127.0.0.1 www.webovernet.com
 127.0.0.1 www.website-files.com
+127.0.0.1 www.wuildit.com
 127.0.0.1 www.wuueqejuratzdz.com
 127.0.0.1 www.xnxx.com
 127.0.0.1 www.xvideos2.com
@@ -3578,9 +3710,11 @@
 127.0.0.1 snaptu-d-shv-10-frc1.facebook.com
 127.0.0.1 snaptu-z.facebook.com
 127.0.0.1 sonar6-sea1-1.xx.fbcdn.net
+127.0.0.1 sonar6.xy.fbcdn.net
 127.0.0.1 sonar.fpku1-1.fna.whatsapp.net
 127.0.0.1 sonar.fpku1-2.fna.whatsapp.net
 127.0.0.1 sonar-iad.xx.fbcdn.net
+127.0.0.1 sonar-xsp1-2.xx.fbcdn.net
 127.0.0.1 sphotos-a-ams.xx.fbcdn.net
 127.0.0.1 sphotos-a-atl.xx.fbcdn.net
 127.0.0.1 sphotos-a-cdg.xx.fbcdn.net
@@ -3715,6 +3849,7 @@
 127.0.0.1 xx-fbcdn-shv-03-ash5.fbcdn.net
 127.0.0.1 xx-fbcdn-shv-04-hkg1.fbcdn.net
 127.0.0.1 xx-fbcdn-shv-04-prn2.fbcdn.net
+127.0.0.1 xy.fbcdn.net
 127.0.0.1 z-1-scontent-sjc2-1.xx.fbcdn.net
 127.0.0.1 z-1-scontent.xx.fbcdn.net
 127.0.0.1 z-m.c10r.facebook.com
