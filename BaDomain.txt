@@ -1907,6 +1907,8 @@ printfriendly.com
 prismic.io
 privacy.kiwibrowser.org
 privacy-policy.truste.com
+private-58cec5-funsegmentsapi.apiary-mock.com
+private-da8bd3-funapi6.apiary-mock.com
 privatematchfz.com
 pro-accounts.snapchat.com
 pro-a-seracc-cdn.im-gb.com

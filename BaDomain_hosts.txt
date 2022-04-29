@@ -1907,6 +1907,8 @@
 127.0.0.1 prismic.io
 127.0.0.1 privacy.kiwibrowser.org
 127.0.0.1 privacy-policy.truste.com
+127.0.0.1 private-58cec5-funsegmentsapi.apiary-mock.com
+127.0.0.1 private-da8bd3-funapi6.apiary-mock.com
 127.0.0.1 privatematchfz.com
 127.0.0.1 pro-accounts.snapchat.com
 127.0.0.1 pro-a-seracc-cdn.im-gb.com
