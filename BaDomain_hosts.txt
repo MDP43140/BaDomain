@@ -2115,7 +2115,6 @@
 127.0.0.1 sc-cdn.net
 127.0.0.1 schemas.casa
 127.0.0.1 scholar.sogou.com
-127.0.0.1 scontent.fkno2-1.fna.fbcdn.net
 127.0.0.1 scorecardresearch.com
 127.0.0.1 screensteps.com
 127.0.0.1 scroll.com
@@ -2838,7 +2837,6 @@
 127.0.0.1 zhihu.sogou.com
 127.0.0.1 ziffdavis.com
 127.0.0.1 ziffstatic.com
-127.0.0.1 z-m-gateway.facebook.com
 127.0.0.1 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com

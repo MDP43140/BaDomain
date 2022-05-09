@@ -833,6 +833,7 @@ scontent.fcgk3-2.fna.fbcdn.net
 scontent.fcgk35-1.fna.fbcdn.net
 scontent.fcgk4-4.fna.fbcdn.net
 scontent.fdps5-1.fna.fbcdn.net
+scontent.fkno2-1.fna.fbcdn.net
 scontent.fkno9-1.fna.fbcdn.net
 scontent.fkno9-2.fna.fbcdn.net
 scontent.fpku1-1.fna.fbcdn.net
@@ -1038,6 +1039,7 @@ z-1-scontent-sjc2-1.xx.fbcdn.net
 z-1-scontent.xx.fbcdn.net
 z-m.c10r.facebook.com
 z-m.facebook.com
+z-m-gateway.facebook.com
 z-m-graph.facebook.com
 z-m-lookaside.facebook.com
 z-m-scontent.fpku1-1.fna.fbcdn.net

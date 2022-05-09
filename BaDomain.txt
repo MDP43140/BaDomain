@@ -2115,7 +2115,6 @@ scaleway.testdebit.info
 sc-cdn.net
 schemas.casa
 scholar.sogou.com
-scontent.fkno2-1.fna.fbcdn.net
 scorecardresearch.com
 screensteps.com
 scroll.com
@@ -2838,7 +2837,6 @@ zepeto.me
 zhihu.sogou.com
 ziffdavis.com
 ziffstatic.com
-z-m-gateway.facebook.com
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com
 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
