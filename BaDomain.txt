@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 29.04.2022
+# Version: 09.05.2022
 # Update: 1 days
 #
 
@@ -135,6 +135,7 @@ adgoal.de
 adgrx.com
 ad.gt
 adhaven.com
+adjust.net.in
 adlightning.com
 adlog.flurry.com
 adlook.me
@@ -300,6 +301,7 @@ api-gl.cdo.heytapmobi.com
 api-gl.cdo.heytapmobile.com
 api-gl.store.heytapmobi.com
 api-gl.theme.heytapmobile.com
+api.gras.samsungdm.com
 apigw-pre.shalltry.com
 api.hisavana.com
 api-id.cdo.heytapmobile.com
@@ -368,6 +370,7 @@ aplhabet.applinzi.com
 ap.mobhey.com
 apolloprogram.io
 app.adjust.com
+app.adjust.net.in
 app.advertizer.com
 appannie.com
 app.bignox.com
@@ -469,6 +472,7 @@ atwola.com
 auction.unityads.unity3d.com
 audid-api-sg.taobao.com
 audience.contextads.live
+auditrecording-pa.googleapis.com
 audrte.com
 au.ff.avast.com
 au.ff.avast.sec.miui.com
@@ -643,10 +647,12 @@ cdn.weglot.com
 cdn.wetest.qq.com
 cdnwidget.com
 cds-app.y5en.com
+cds.d6b8y6w3.hwcdn.net
 cd.xdplt.com
 cengine.contextads.live
 centre.baby
 cfg.oneboost.me
+cfg.ws.pho.to
 cf.iadsdk.apple.com
 cfs2.u-zone.id
 cf.shopee.co.id
@@ -658,6 +664,7 @@ cg.foldlife.net
 chargebee.com
 chartbeat.com
 chartboost.com
+chart.googleapis.com
 chat1-production.golabs.io
 chat4-production.golabs.io
 chat.wha
@@ -868,6 +875,7 @@ dhfs-id.heytapimage.com
 dhfs-in.heytapimage.com
 dhfs-my.heytapimage.com
 dhisex.uno
+diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 dictionary.map.fastly.net
 digitalriver.com
@@ -878,6 +886,8 @@ diva.bond
 dkyweipsds.com
 dls.di.atlas.samsung.com
 dlvr.it
+dl-xda.xposed.info
+dl.xposed.info
 dmcdn.net
 dm.samsungdive.com
 dn.im-gb.com
@@ -958,6 +968,8 @@ epdg.epc.mnc089.mcc510.pub.3gppnetwork.org
 epoch-id.cdo.heytapmobi.com
 eportalmobile.com
 es.bignox.com
+escolhatecnologia.com
+escolhatecnologia.com.br
 esnoptdkkiirzewlpgmccbwuynvxjumf.name
 es.rakuten.tv
 es.slideshare.net
@@ -1074,6 +1086,7 @@ g-api.ekatox.com
 g-api.kwai.com
 g-api.kwaipros.com
 garagewestrotterdam.nl
+gate.hockeyapp.net
 gateway.fe.apple-dns.net
 gateway.icloud.com
 gateway.multiplay.zepeto.run
@@ -1102,6 +1115,7 @@ gitkraken.com
 glamour.com
 glass3.xyz
 glb.samsung-gamelauncher.com
+gllto2.glpals.com
 globalapi.facemojikeyboard.com
 global.apis.naver.com
 global-apm.as.r.appspot.com
@@ -1132,6 +1146,7 @@ googleclubstore.com
 google.cn
 google.com.br
 google.com.hk
+google.com.onion
 google.com.sa
 google.co.zw
 google.ru
@@ -1324,6 +1339,7 @@ images.idtopnews.com
 image.slidesharecdn.com
 images.sc-cdn.net
 image.tmdb.org
+image.winudf.com
 imdb.com
 img.alicdn.com
 imgcache.joox.com
@@ -1355,6 +1371,7 @@ increaserev.com
 indeed.com
 indexww.com
 i.neptunegame.com
+infinitedata-pa.googleapis.com
 influencer.yeshen.com
 info.3g.qq.com
 info.bignox.com
@@ -1370,6 +1387,7 @@ injapp.com
 innity.net
 innovid.com
 ins.hastopic.com
+inshot.cc
 insidecrm.com
 insight.rakuten.com
 ins.shalltry.com
@@ -1410,6 +1428,7 @@ iseepassword.com
 isex.baby
 i-sg.browser.heytapmobile.com
 i.snssdk.com
+istarapps.com
 it.bignox.com
 iteldrive.com
 itsecurity.com
@@ -1580,6 +1599,8 @@ m.baidu.com
 mbgame.anticheatexpert.com
 m.caping.co.id
 mcds.wshareit.com
+mc-nat-t.cloudapp.net
+mcpecraft.ru
 mc.yandex.ru
 mdp-appconf-id.heytapdl.com
 mdp-appconf-mm.heytapdl.com
@@ -1693,6 +1714,7 @@ mypic.icu
 myqcloud.com
 my.salesforce.com
 nanorep.co
+narratorsvoice.com
 nat02.feelingtouch.com
 nat.cn.bucuowan.com
 nathanaeldan.pro
@@ -1860,6 +1882,7 @@ ph.bignox.com
 phone-api.realme.com
 phone.bignox.com
 phonedeviceverification-pa.googleapis.com
+photolabsocialapi.pho.to
 pic.sogou.com
 pingdom.net
 ping.huatuo.qq.com
@@ -1873,6 +1896,7 @@ pir.fm
 pixel.wp.com
 p.kg.qq.com
 placements.tapjoyads.com
+plassets.ws.pho.to
 plat-api.bignox.com
 platform.hicloud.com
 play0.heytapimg.com
@@ -1973,6 +1997,7 @@ rakam.io
 rakutenmarketing.com
 rakuten.tv
 ralijqugghwqil.com
+r.apkpure.net
 ravenjs.com
 rbux88.com
 rbxr.monster
@@ -2090,6 +2115,7 @@ scaleway.testdebit.info
 sc-cdn.net
 schemas.casa
 scholar.sogou.com
+scontent.fkno2-1.fna.fbcdn.net
 scorecardresearch.com
 screensteps.com
 scroll.com
@@ -2107,6 +2133,7 @@ search.eportalmobile.com
 searchiq.co
 search.kuwo.cn
 search-operate.cdn.bcebos.com
+search.ws.pho.to
 secret20.com
 secreto.site
 securebiz.org
@@ -2254,6 +2281,7 @@ static.zdassets.com
 static-zepeto.pstatic.net
 stat.idtopnews.com
 statis.facemojikeyboard.com
+stats.darkreader.app
 stats.wp.com
 statwup.nimo.tv
 stat.xdplt.com
@@ -2268,6 +2296,7 @@ stickyadstv.com
 st.like-it.video
 stocks-sparkline.apple.com
 storage.billy.bendingspoons.com
+storage.ws.pho.to
 storedl3f.nearme.com.cn
 storefsf.nearme.com.cn
 storeimg.heytapimg.com
@@ -2306,6 +2335,7 @@ swpsvc.com
 sync.search.spotxchange.com
 syndication.twitter.com
 system1.com
+syszalive.uksouth.cloudapp.azure.com
 t14.market.mi-img.com
 t2.chartboost.com
 t2.market.mi-img.com
@@ -2374,6 +2404,7 @@ tm.prd.ags.akadns.net
 tms-api.shalltry.com
 tongdun.net
 toolbox.com
+toonme-com-cdn.ws.pho.to
 topgirls.uno
 topic-sticker-vending.snapchat.com
 toprbx.best
@@ -2435,6 +2466,7 @@ ugo.com
 u-id.browser.oppomobile.com
 u-id.cpc.heytapmobile.com
 u-in.cpc.heytapmobile.com
+uksouth.cloudapp.azure.com
 u.like-it.video
 ulog.kwai.com
 ultimatecustomnightgame.net
@@ -2449,6 +2481,7 @@ unipin.com
 universehackworld.org
 u.nu
 upapi.net
+update.aida64.com
 updateapis.kiwibrowser.com
 update.bosbosupdate.net
 update.estrongs.com
@@ -2482,6 +2515,7 @@ v16.resso.app
 v16.resso.me
 v3.mercusuar.u-zone.id
 v3.mercusuar.uzone.id
+vaexposed.weishu.me
 vagenor.space
 vas.samsungapps.com
 vast.vokepedia.com
@@ -2640,6 +2674,7 @@ www.data.ai
 www.dob5.com
 www.duolaipk.com
 www.eep.io
+www.escolhatecnologia.com.br
 www.etsy.com
 www.evgnet.com
 www.filmmogzivota.rs
@@ -2661,6 +2696,7 @@ www.intuitcdn.net
 www.intuit.com
 www.iqzgqivb.com
 www.iseepassword.com
+www.istarapps.com
 www.jd.com
 www.kagaitiktok.net
 www.kustens.com
@@ -2676,6 +2712,7 @@ www.minonav.com
 www.minoplay.com
 www.minoregimen.com
 www.minozodiac.com
+www.narratorsvoice.com
 www.nathanaeldan.pro
 www.noxinfluencer.com
 www.pdfcylsmo.com
@@ -2725,6 +2762,7 @@ www.yastatic.net
 www.yeshen.com
 www.yeshen.com.w.kunlungr.com
 www.ykxipfcg.com
+www.youtts.com
 x18like.uno
 x1.i.lencr.org
 x8sb.com
@@ -2780,6 +2818,7 @@ ynuf.aliapp.org
 youme.im
 younggirls.today
 youngunt.online
+youtts.com
 youtube.fbunion.com
 youtube.ong
 youtuuu.tokyo
@@ -2799,6 +2838,7 @@ zepeto.me
 zhihu.sogou.com
 ziffdavis.com
 ziffstatic.com
+z-m-gateway.facebook.com
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com
 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
@@ -2807,3 +2847,4 @@ zqtk.net
 zres.alicdn.com1111210941.rsc.cdn77.org
 zte.com
 zte.com.cn
+zueirassemlimites.com
