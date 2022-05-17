@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.05.2022
+# Version: 17.05.2022
 # Update: 1 days
 #
 
@@ -11,6 +11,7 @@
 127.0.0.1 1111210941.rsc.cdn77.org
 127.0.0.1 114dns.com
 127.0.0.1 123.sogou.com
+127.0.0.1 133fitness.com
 127.0.0.1 163.com
 127.0.0.1 166co.com
 127.0.0.1 166.net
@@ -56,6 +57,7 @@
 127.0.0.1 64a9.playfabapi.com
 127.0.0.1 756964-android-ds.metric.gstatic.com
 127.0.0.1 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
+127.0.0.1 7efc7eb08gtearevf.rarefix.info
 127.0.0.1 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 127.0.0.1 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 127.0.0.1 845257-android-ds.metric.gstatic.com
@@ -491,6 +493,7 @@
 127.0.0.1 aws.duplex.snapchat.com
 127.0.0.1 aws-proxy-gcp.api.snapchat.com
 127.0.0.1 axiata-lk-43c53a330e9-he.fortumo.io
+127.0.0.1 ay-quiz.tk
 127.0.0.1 azureedge.net
 127.0.0.1 b1.nel.goog
 127.0.0.1 baby-girls.id
@@ -528,6 +531,7 @@
 127.0.0.1 bendingspoons.com
 127.0.0.1 bestcards.online
 127.0.0.1 bestdate.top
+127.0.0.1 best-datingclub.life
 127.0.0.1 bf19405wzd.bf.dynatrace.com
 127.0.0.1 bf54607cnw.bf.dynatrace.com
 127.0.0.1 bibblio.org
@@ -863,6 +867,7 @@
 127.0.0.1 derk.bar
 127.0.0.1 de.slideshare.net
 127.0.0.1 detectportal.prod.cloudops.mozgcp.net
+127.0.0.1 devanture.com.sg
 127.0.0.1 dev.bignox.com
 127.0.0.1 dev.driftt.com
 127.0.0.1 developers.google.cn
@@ -949,6 +954,8 @@
 127.0.0.1 eep.io
 127.0.0.1 ekiga.net
 127.0.0.1 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
+127.0.0.1 eleed.cloud
+127.0.0.1 eleed.online
 127.0.0.1 embed-fastly.wistia.com
 127.0.0.1 embedwistia-a.akamaihd.net
 127.0.0.1 emebo.io
@@ -1042,6 +1049,7 @@
 127.0.0.1 footprints-pa.googleapis.com
 127.0.0.1 force.com
 127.0.0.1 forepl4y.com
+127.0.0.1 foreprojects.webedge.com.ng
 127.0.0.1 forfrogadiertor.com
 127.0.0.1 fortawesome.com
 127.0.0.1 fortumo.com
@@ -1132,12 +1140,14 @@
 127.0.0.1 global.rakuten.com
 127.0.0.1 global-rank-sg.sausage.xd.com
 127.0.0.1 global-tokenserver-la.headline.uodoo.com
+127.0.0.1 gmnovietnam.vn
 127.0.0.1 go2cloud.org
 127.0.0.1 go.com
 127.0.0.1 godaddy.com
 127.0.0.1 go.eportalmobile.com
 127.0.0.1 gomo.com
 127.0.0.1 go-mpulse.net
+127.0.0.1 goodtech.cetxlabs.com
 127.0.0.1 googleadservices.com
 127.0.0.1 google.ae
 127.0.0.1 google-analytics.com
@@ -1261,6 +1271,7 @@
 127.0.0.1 hub2.com.pl
 127.0.0.1 hubspot.com
 127.0.0.1 hubspot.net
+127.0.0.1 hugoclub.ak
 127.0.0.1 hwcdn.net
 127.0.0.1 hw-crs-report.y5en.com
 127.0.0.1 hybrid.miniapp.taobao.com
@@ -1697,6 +1708,7 @@
 127.0.0.1 m.toutiaocdn.com
 127.0.0.1 m.toutiao.com
 127.0.0.1 mtrace.wetvinfo.com
+127.0.0.1 muathangnhom.com
 127.0.0.1 mup.amp.mcafee.com
 127.0.0.1 mu.se
 127.0.0.1 musicradio.com
@@ -1713,6 +1725,7 @@
 127.0.0.1 mypic.icu
 127.0.0.1 myqcloud.com
 127.0.0.1 my.salesforce.com
+127.0.0.1 nagios.dreamvps.com
 127.0.0.1 nanorep.co
 127.0.0.1 narratorsvoice.com
 127.0.0.1 nat02.feelingtouch.com
@@ -1736,6 +1749,7 @@
 127.0.0.1 news.bignox.com
 127.0.0.1 newscloud.or.kr
 127.0.0.1 news.hastopic.com
+127.0.0.1 newsmag.danielolayinkas.com
 127.0.0.1 newsmaticaapp.com
 127.0.0.1 news-muxeta.cc
 127.0.0.1 nexage.com
@@ -1806,6 +1820,7 @@
 127.0.0.1 openwifi.ucweb.com
 127.0.0.1 openx.net
 127.0.0.1 oppo-oem.avira-update.com
+127.0.0.1 opswat.info
 127.0.0.1 optad360.io
 127.0.0.1 orangeclickmedia.com
 127.0.0.1 orange-dc.lazada.com
@@ -1997,7 +2012,9 @@
 127.0.0.1 rakutenmarketing.com
 127.0.0.1 rakuten.tv
 127.0.0.1 ralijqugghwqil.com
+127.0.0.1 ranyipclub.net
 127.0.0.1 r.apkpure.net
+127.0.0.1 rarefix.info
 127.0.0.1 ravenjs.com
 127.0.0.1 rbux88.com
 127.0.0.1 rbxr.monster
@@ -2012,6 +2029,7 @@
 127.0.0.1 referralrock.com
 127.0.0.1 register.xmpush.global.xiaomi.com
 127.0.0.1 reign.appmeasurements.com
+127.0.0.1 reikoo.uno
 127.0.0.1 relation.like-it.video
 127.0.0.1 relocationapi.micloud.xiaomi.net
 127.0.0.1 reminiandroid.oracle.bendingspoonsapps.com
@@ -2056,6 +2074,7 @@
 127.0.0.1 risk.clearbit.com
 127.0.0.1 rkdms.com
 127.0.0.1 rlcdn.com
+127.0.0.1 robuxweb.pro
 127.0.0.1 robwu.nl
 127.0.0.1 robyoc.online
 127.0.0.1 romanhackers.com
@@ -2261,6 +2280,7 @@
 127.0.0.1 stackpathcdn.com
 127.0.0.1 stack-sonar.com
 127.0.0.1 stagepopkek.com
+127.0.0.1 stagingapps.xyz
 127.0.0.1 stags.bluekai.com
 127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
@@ -2354,6 +2374,7 @@
 127.0.0.1 tarot.minozodiac.com
 127.0.0.1 t.bignox.com
 127.0.0.1 tdcv3.talkingdata.net
+127.0.0.1 team.stagingapps.xyz
 127.0.0.1 techbargains.com
 127.0.0.1 technopawns.com
 127.0.0.1 techrights.org
@@ -2546,6 +2567,7 @@
 127.0.0.1 vip.bignox.com
 127.0.0.1 vip-client.heytapmobi.com
 127.0.0.1 visitsme.uno
+127.0.0.1 visteme.mx
 127.0.0.1 visualwebsiteoptimizer.com
 127.0.0.1 vlitag.com
 127.0.0.1 v.lsttnews.com
@@ -2727,6 +2749,7 @@
 127.0.0.1 www.sixtest.com
 127.0.0.1 www.slideshare.net
 127.0.0.1 www.spanishcoursesunamuno.com
+127.0.0.1 www.stagingapps.xyz
 127.0.0.1 www.sweet-girls18.com
 127.0.0.1 www.swiftypecdn.com
 127.0.0.1 www.taobao.com
@@ -2814,6 +2837,7 @@
 127.0.0.1 ykxipfcg.com
 127.0.0.1 ylx-aff.advertica-cdn.com
 127.0.0.1 ynuf.aliapp.org
+127.0.0.1 yotpo.com
 127.0.0.1 youme.im
 127.0.0.1 younggirls.today
 127.0.0.1 youngunt.online

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.05.2022
+# Version: 17.05.2022
 # Update: 1 days
 #
 
@@ -11,6 +11,7 @@
 1111210941.rsc.cdn77.org
 114dns.com
 123.sogou.com
+133fitness.com
 163.com
 166co.com
 166.net
@@ -56,6 +57,7 @@
 64a9.playfabapi.com
 756964-android-ds.metric.gstatic.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
+7efc7eb08gtearevf.rarefix.info
 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 845257-android-ds.metric.gstatic.com
@@ -491,6 +493,7 @@ aws.api.snapchat.com
 aws.duplex.snapchat.com
 aws-proxy-gcp.api.snapchat.com
 axiata-lk-43c53a330e9-he.fortumo.io
+ay-quiz.tk
 azureedge.net
 b1.nel.goog
 baby-girls.id
@@ -528,6 +531,7 @@ bendingspoonsapps.com
 bendingspoons.com
 bestcards.online
 bestdate.top
+best-datingclub.life
 bf19405wzd.bf.dynatrace.com
 bf54607cnw.bf.dynatrace.com
 bibblio.org
@@ -863,6 +867,7 @@ deo.shopeemobile.com
 derk.bar
 de.slideshare.net
 detectportal.prod.cloudops.mozgcp.net
+devanture.com.sg
 dev.bignox.com
 dev.driftt.com
 developers.google.cn
@@ -949,6 +954,8 @@ editmysite.com
 eep.io
 ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
+eleed.cloud
+eleed.online
 embed-fastly.wistia.com
 embedwistia-a.akamaihd.net
 emebo.io
@@ -1042,6 +1049,7 @@ focusmedica.in
 footprints-pa.googleapis.com
 force.com
 forepl4y.com
+foreprojects.webedge.com.ng
 forfrogadiertor.com
 fortawesome.com
 fortumo.com
@@ -1132,12 +1140,14 @@ globalmsg.facemojikeyboard.com
 global.rakuten.com
 global-rank-sg.sausage.xd.com
 global-tokenserver-la.headline.uodoo.com
+gmnovietnam.vn
 go2cloud.org
 go.com
 godaddy.com
 go.eportalmobile.com
 gomo.com
 go-mpulse.net
+goodtech.cetxlabs.com
 googleadservices.com
 google.ae
 google-analytics.com
@@ -1261,6 +1271,7 @@ https:\/\/ynuf.aliapp.org\/saveWb.json?
 hub2.com.pl
 hubspot.com
 hubspot.net
+hugoclub.ak
 hwcdn.net
 hw-crs-report.y5en.com
 hybrid.miniapp.taobao.com
@@ -1697,6 +1708,7 @@ m.toutiaocdn.cn
 m.toutiaocdn.com
 m.toutiao.com
 mtrace.wetvinfo.com
+muathangnhom.com
 mup.amp.mcafee.com
 mu.se
 musicradio.com
@@ -1713,6 +1725,7 @@ myim3banner.kloc.co
 mypic.icu
 myqcloud.com
 my.salesforce.com
+nagios.dreamvps.com
 nanorep.co
 narratorsvoice.com
 nat02.feelingtouch.com
@@ -1736,6 +1749,7 @@ newsaggreg.shalltry.com
 news.bignox.com
 newscloud.or.kr
 news.hastopic.com
+newsmag.danielolayinkas.com
 newsmaticaapp.com
 news-muxeta.cc
 nexage.com
@@ -1806,6 +1820,7 @@ open-vip.bmob.cn
 openwifi.ucweb.com
 openx.net
 oppo-oem.avira-update.com
+opswat.info
 optad360.io
 orangeclickmedia.com
 orange-dc.lazada.com
@@ -1997,7 +2012,9 @@ rakam.io
 rakutenmarketing.com
 rakuten.tv
 ralijqugghwqil.com
+ranyipclub.net
 r.apkpure.net
+rarefix.info
 ravenjs.com
 rbux88.com
 rbxr.monster
@@ -2012,6 +2029,7 @@ redirect.networkbench.com
 referralrock.com
 register.xmpush.global.xiaomi.com
 reign.appmeasurements.com
+reikoo.uno
 relation.like-it.video
 relocationapi.micloud.xiaomi.net
 reminiandroid.oracle.bendingspoonsapps.com
@@ -2056,6 +2074,7 @@ riseup.net
 risk.clearbit.com
 rkdms.com
 rlcdn.com
+robuxweb.pro
 robwu.nl
 robyoc.online
 romanhackers.com
@@ -2261,6 +2280,7 @@ st001004gj.instabug.com
 stackpathcdn.com
 stack-sonar.com
 stagepopkek.com
+stagingapps.xyz
 stags.bluekai.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
@@ -2354,6 +2374,7 @@ t.appsflyer.com
 tarot.minozodiac.com
 t.bignox.com
 tdcv3.talkingdata.net
+team.stagingapps.xyz
 techbargains.com
 technopawns.com
 techrights.org
@@ -2546,6 +2567,7 @@ vindicosuite.com
 vip.bignox.com
 vip-client.heytapmobi.com
 visitsme.uno
+visteme.mx
 visualwebsiteoptimizer.com
 vlitag.com
 v.lsttnews.com
@@ -2727,6 +2749,7 @@ www.shareaholic.net
 www.sixtest.com
 www.slideshare.net
 www.spanishcoursesunamuno.com
+www.stagingapps.xyz
 www.sweet-girls18.com
 www.swiftypecdn.com
 www.taobao.com
@@ -2814,6 +2837,7 @@ yixiu-abtest.alicdn.com
 ykxipfcg.com
 ylx-aff.advertica-cdn.com
 ynuf.aliapp.org
+yotpo.com
 youme.im
 younggirls.today
 youngunt.online
