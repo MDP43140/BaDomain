@@ -260,6 +260,9 @@ androiden.duapp.com
 android.pa1mstore.com
 android.palmplaystore.com
 android.palmst0re.com
+animeindo.asia
+animeindo.to
+animeindo.video
 anime-pictures.net
 anon.wapsite.info
 anticheatexpert.com
@@ -788,6 +791,7 @@ crwdcntrl.net
 cr.y5en.com
 cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
+cs-center.uc.cn
 cse.avlyun.com
 cshort.org
 csoversea.mbgame.anticheatexpert.com
@@ -1038,6 +1042,7 @@ feabtest.prod.tvlk-data.com
 feed1.yukbacaberita.com
 feedback-gl.heytapmobi.com
 feedback.intl.miui.com
+feedback.uc.cn
 feed.bignox.com
 feed.chimukappa.com
 feed.rhino-news.com
@@ -1120,6 +1125,7 @@ gauss-sauoldcostmanual-sg.allawnofs.com
 gcmapi.like-it.video
 gcp.api.snapchat.com
 gcs.sc-cdn.net
+gcsu.ucweb.com
 gdanstum.net
 geclose2eu.info
 g.ekatox.com
@@ -1862,6 +1868,7 @@ ossgw.alicdn.com
 ostrichesica.com
 osupdate2020.shalltry.com
 osupdate.shalltry.com
+otakudesu.org
 ota.lokalise.co
 oth.eve.mdt.qq.com
 othstr.beacon.qq.com
@@ -2066,6 +2073,7 @@ reminiandroid.oracle.bendingspoonsapps.com
 report.appmetrica.yandex.net
 report-ps.meettech.net
 report.uc.heytapmobi.com
+report.yukbacaberita.com
 requestmetrics.com
 res02.bignox.com
 res05.bignox.com
@@ -2151,6 +2159,7 @@ s8900.webovernet.com
 safeframe.googlesyndication.com
 salesforce.com
 samba.tv
+samehadaku.tv
 samsappsbn.vo.llnwd.net
 samsung-callerprofile.edge.hiyaapi.com
 samsung-gamelauncher.com
@@ -2513,6 +2522,7 @@ ua-passport.space
 uapi.afo2o.com
 uat5-b.investingchannel.com
 ubembed.com
+uc.cn
 ucweb.com
 udp-dispatch.ucweb.com
 ugo.com
@@ -2798,6 +2808,7 @@ www.turbotax.com
 www.twilio.com
 www.twilio.org
 www.uadexchange.com
+www.uc.cn
 www.unipin.com
 www.uzone.id
 www.viber.com

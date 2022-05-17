@@ -260,6 +260,9 @@
 127.0.0.1 android.pa1mstore.com
 127.0.0.1 android.palmplaystore.com
 127.0.0.1 android.palmst0re.com
+127.0.0.1 animeindo.asia
+127.0.0.1 animeindo.to
+127.0.0.1 animeindo.video
 127.0.0.1 anime-pictures.net
 127.0.0.1 anon.wapsite.info
 127.0.0.1 anticheatexpert.com
@@ -788,6 +791,7 @@
 127.0.0.1 cr.y5en.com
 127.0.0.1 cryptauthdevicesync.googleapis.com
 127.0.0.1 cryptauthenrollment.googleapis.com
+127.0.0.1 cs-center.uc.cn
 127.0.0.1 cse.avlyun.com
 127.0.0.1 cshort.org
 127.0.0.1 csoversea.mbgame.anticheatexpert.com
@@ -1038,6 +1042,7 @@
 127.0.0.1 feed1.yukbacaberita.com
 127.0.0.1 feedback-gl.heytapmobi.com
 127.0.0.1 feedback.intl.miui.com
+127.0.0.1 feedback.uc.cn
 127.0.0.1 feed.bignox.com
 127.0.0.1 feed.chimukappa.com
 127.0.0.1 feed.rhino-news.com
@@ -1120,6 +1125,7 @@
 127.0.0.1 gcmapi.like-it.video
 127.0.0.1 gcp.api.snapchat.com
 127.0.0.1 gcs.sc-cdn.net
+127.0.0.1 gcsu.ucweb.com
 127.0.0.1 gdanstum.net
 127.0.0.1 geclose2eu.info
 127.0.0.1 g.ekatox.com
@@ -1862,6 +1868,7 @@
 127.0.0.1 ostrichesica.com
 127.0.0.1 osupdate2020.shalltry.com
 127.0.0.1 osupdate.shalltry.com
+127.0.0.1 otakudesu.org
 127.0.0.1 ota.lokalise.co
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 othstr.beacon.qq.com
@@ -2066,6 +2073,7 @@
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 report-ps.meettech.net
 127.0.0.1 report.uc.heytapmobi.com
+127.0.0.1 report.yukbacaberita.com
 127.0.0.1 requestmetrics.com
 127.0.0.1 res02.bignox.com
 127.0.0.1 res05.bignox.com
@@ -2151,6 +2159,7 @@
 127.0.0.1 safeframe.googlesyndication.com
 127.0.0.1 salesforce.com
 127.0.0.1 samba.tv
+127.0.0.1 samehadaku.tv
 127.0.0.1 samsappsbn.vo.llnwd.net
 127.0.0.1 samsung-callerprofile.edge.hiyaapi.com
 127.0.0.1 samsung-gamelauncher.com
@@ -2513,6 +2522,7 @@
 127.0.0.1 uapi.afo2o.com
 127.0.0.1 uat5-b.investingchannel.com
 127.0.0.1 ubembed.com
+127.0.0.1 uc.cn
 127.0.0.1 ucweb.com
 127.0.0.1 udp-dispatch.ucweb.com
 127.0.0.1 ugo.com
@@ -2798,6 +2808,7 @@
 127.0.0.1 www.twilio.com
 127.0.0.1 www.twilio.org
 127.0.0.1 www.uadexchange.com
+127.0.0.1 www.uc.cn
 127.0.0.1 www.unipin.com
 127.0.0.1 www.uzone.id
 127.0.0.1 www.viber.com
