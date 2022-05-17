@@ -84,7 +84,10 @@ a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 a2.applovin.com
 a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
 a3.applovin.com
+a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 a4.applovin.com
+a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+a.5fcb097b24a36d5711d4315c16ad1b0cb9b3acae90c8d66462893b57.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 a.6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52.com
 a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
@@ -336,6 +339,7 @@ api.owxd.xyz
 api.pa1mstore.com
 api.palmplaystore.com
 api.palmst0re.com
+api.pho.to
 api.pico.bendingspoonsapps.com
 api.picsart.com
 api.pinterest.com
@@ -364,6 +368,7 @@ api.vungle.com
 api.wattpad.com
 api.weathercn.com
 api.wifimap.io
+api.wlvpn.com
 api.wondershare.com
 api.xintaicz.cn
 api.zhuti.intl.xiaomi.com
@@ -391,6 +396,8 @@ applinzi.com
 app-measurement.com
 appmetrica.yandex.net
 app-mgr.noxgroup.com
+appodeal.com
+appodealstack.com
 app.pou.me
 app.pushbrothers.com
 appsflyer.com
@@ -486,6 +493,7 @@ autopilothq.com
 autopush.prod.mozaws.net
 au.umeng.com
 ava-cdn.like-it.video
+avatar.pho.to
 avcdn.net
 avlyun.com
 a.wattpad.com
@@ -554,6 +562,7 @@ black.riseup.net
 blackseas.ge
 blank
 blogblog.com
+blog.pho.to
 bluecava.com
 bluekai.com
 blyjh.com
@@ -600,6 +609,7 @@ captive.g.aaplimg.com
 carbonads.com
 cardboard.ge
 cardgen.uno
+carrers.pho.to
 casalemedia.com
 cashend.me
 cbs.wondershare.com
@@ -793,12 +803,14 @@ cuttlela.ucweb.com
 cxomedia.id
 c.y5en.com
 cy-api.tysondata.com
+d-03.winudf.com
 d11yp7khhhspcr.cloudfront.net
 d178bchpnfmat.cloudfront.net
 d18c2vb2nmzsjs.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zcggttmijv1z.cloudfront.net
 d1zkz3k4cclnv6.cloudfront.net
+d-21.winudf.com
 d24zn61bgpeyxm.cloudfront.net
 d25l8ybundaqcq.cloudfront.net
 d26xw8rp6mlgfg.cloudfront.net
@@ -830,6 +842,7 @@ datadoghq.com
 datadome.co
 data.flurry.com
 datalake.gameloft.com
+datamation.com
 data-rep.livetech.shopee.co.id
 dat.gen.in
 datting.click
@@ -872,6 +885,7 @@ dev.bignox.com
 dev.driftt.com
 developers.google.cn
 developers.google.com.hk
+developers.pho.to
 deviceintegritytokens-pa.googleapis.com
 dew-omm.lotusflare.com
 dexeqbeb7giwr.cloudfront.net
@@ -951,6 +965,7 @@ ecommerce.iap.unity3d.com
 edgecastcdn.net
 edialog24.com
 editmysite.com
+editor.pho.to
 eep.io
 ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
@@ -1061,6 +1076,7 @@ f.push.oppomobile.com
 franchise.minecraft-services.net
 fraudjs.io
 fr.bignox.com
+frd.shopee.co.id
 freeshort.link
 freestar.com
 freestar.io
@@ -1075,6 +1091,7 @@ ftblltrck.com
 ftp.lysator.liu.se
 funbe.rjifxuqoo
 funnymuvie.online
+funny.pho.to
 fuseplatform.net
 fuwu.sogou.com
 fwmrm.net
@@ -1089,6 +1106,7 @@ gameguardian.b-cdn.net
 gameimg.heytapimg.com
 gameloft.com
 gameportal.casa
+games.shopee.co.id
 gametool10.ml
 g-api.ekatox.com
 g-api.kwai.com
@@ -1182,6 +1200,7 @@ growtopia1.com
 growtopia2.com
 gslb-gl.cdo.heytapmobi.com
 gslb.secb2b.com
+gslb.sgw.shopeemobile.com
 gslb.shalltry.com
 gs-loc.apple.com
 gs-loc.ls-apple.com.akadns.net
@@ -1254,10 +1273,15 @@ hot-teens24.online
 houseof-lust.xyz
 hrtechprivacy.com
 hrworld.com
+hsadspixel.net
+hs-analytics.net
+hs-banner.com
 hscoscdn40.net
 hsforms.com
 hsforms.net
+hsleadflows.net
 hs-scripts.com
+hs-scripts.net
 h.trace.qq.com
 htrace.wetvinfo.com
 httpdns.ocloud.heytapmobi.com
@@ -1270,6 +1294,7 @@ https:\/\/app-measurement.com\/sdk-exp
 https:\/\/ynuf.aliapp.org\/saveWb.json?
 hub2.com.pl
 hubspot.com
+hubspot-forms-static-embed.s3.amazonaws.com
 hubspot.net
 hugoclub.ak
 hwcdn.net
@@ -1335,6 +1360,7 @@ ifota.coloros.com
 ifrus.coloros.com
 ifsau.coloros.com
 if-sg.browser.oppomobile.com
+igapromomanager-pa.googleapis.com
 ign.com
 ignimgs.com
 igofun.mobi
@@ -1593,6 +1619,7 @@ mail.hbmtours.com
 mailing.educba.com
 mail.kantora.ge
 mail.pazu.ge
+makeup.pho.to
 mall.shopee.co.id
 manifest.tower.sybo.net
 mapi.langitmusik.co.id
@@ -1761,6 +1788,7 @@ nmnm.lol
 northpoleitalia.it
 notif.quizizz.com
 novac.gameloft.com
+now.gg
 noxagile.bceapp.com
 noxagile.duapp.com
 noxgroup.com
@@ -1897,6 +1925,8 @@ ph.bignox.com
 phone-api.realme.com
 phone.bignox.com
 phonedeviceverification-pa.googleapis.com
+pho.to
+photolab.me
 photolabsocialapi.pho.to
 pic.sogou.com
 pingdom.net
@@ -2376,6 +2406,7 @@ t.bignox.com
 tdcv3.talkingdata.net
 team.stagingapps.xyz
 techbargains.com
+technologyadvice.com
 technopawns.com
 techrights.org
 tecno.servicewebly.com
@@ -2383,6 +2414,7 @@ tencent.com
 tengame.net
 tenor.co
 tenor.com
+tenor.googleapis.com
 tentaculos.net
 teslacoilapps.com
 testapi.amap.com
@@ -2424,6 +2456,7 @@ tm.prd.ags.akadns.net
 tms-api.shalltry.com
 tongdun.net
 toolbox.com
+tooncoin.com
 toonme-com-cdn.ws.pho.to
 topgirls.uno
 topic-sticker-vending.snapchat.com
@@ -2519,6 +2552,7 @@ uscreen.tv
 us-east1-aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 useinsider.com
+usemessages.com
 user-api.ucweb.com
 user.bignox.com
 user.haokan.mobi
@@ -2653,6 +2687,7 @@ wifimap.zendesk.com
 wifi.vivo.com.cn
 wistia.com
 wjunction.com
+wlvpn.com
 wns.kg.qq.com
 wnskg.qq.com
 wondershare.cc
@@ -2692,6 +2727,7 @@ www.colegiounamuno.es
 www.creditkarma.com
 www.creemo.pl
 www.data.ai
+www.datamation.com
 www.dob5.com
 www.duolaipk.com
 www.eep.io
@@ -2754,6 +2790,7 @@ www.sweet-girls18.com
 www.swiftypecdn.com
 www.taobao.com
 www.tap.io
+www.technologyadvice.com
 www.thrifter.com
 www.tiqcdn.com
 www.toutiao.com
@@ -2776,6 +2813,7 @@ www.wajibbaca.top
 www.wattpad.com
 www.webovernet.com
 www.website-files.com
+www.wlvpn.com
 www.wuildit.com
 www.wuueqejuratzdz.com
 www.xnxx.com

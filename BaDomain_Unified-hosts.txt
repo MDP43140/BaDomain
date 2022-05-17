@@ -92,7 +92,10 @@
 127.0.0.1 a2.applovin.com
 127.0.0.1 a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
 127.0.0.1 a3.applovin.com
+127.0.0.1 a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 127.0.0.1 a4.applovin.com
+127.0.0.1 a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+127.0.0.1 a.5fcb097b24a36d5711d4315c16ad1b0cb9b3acae90c8d66462893b57.com
 127.0.0.1 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 127.0.0.1 a.6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52.com
 127.0.0.1 a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
@@ -344,6 +347,7 @@
 127.0.0.1 api.pa1mstore.com
 127.0.0.1 api.palmplaystore.com
 127.0.0.1 api.palmst0re.com
+127.0.0.1 api.pho.to
 127.0.0.1 api.pico.bendingspoonsapps.com
 127.0.0.1 api.picsart.com
 127.0.0.1 api.pinterest.com
@@ -372,6 +376,7 @@
 127.0.0.1 api.wattpad.com
 127.0.0.1 api.weathercn.com
 127.0.0.1 api.wifimap.io
+127.0.0.1 api.wlvpn.com
 127.0.0.1 api.wondershare.com
 127.0.0.1 api.xintaicz.cn
 127.0.0.1 api.zhuti.intl.xiaomi.com
@@ -399,6 +404,8 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 appmetrica.yandex.net
 127.0.0.1 app-mgr.noxgroup.com
+127.0.0.1 appodeal.com
+127.0.0.1 appodealstack.com
 127.0.0.1 app.pou.me
 127.0.0.1 app.pushbrothers.com
 127.0.0.1 appsflyer.com
@@ -494,6 +501,7 @@
 127.0.0.1 autopush.prod.mozaws.net
 127.0.0.1 au.umeng.com
 127.0.0.1 ava-cdn.like-it.video
+127.0.0.1 avatar.pho.to
 127.0.0.1 avcdn.net
 127.0.0.1 avlyun.com
 127.0.0.1 a.wattpad.com
@@ -562,6 +570,7 @@
 127.0.0.1 blackseas.ge
 127.0.0.1 blank
 127.0.0.1 blogblog.com
+127.0.0.1 blog.pho.to
 127.0.0.1 bluecava.com
 127.0.0.1 bluekai.com
 127.0.0.1 blyjh.com
@@ -608,6 +617,7 @@
 127.0.0.1 carbonads.com
 127.0.0.1 cardboard.ge
 127.0.0.1 cardgen.uno
+127.0.0.1 carrers.pho.to
 127.0.0.1 casalemedia.com
 127.0.0.1 cashend.me
 127.0.0.1 cbs.wondershare.com
@@ -801,12 +811,14 @@
 127.0.0.1 cxomedia.id
 127.0.0.1 c.y5en.com
 127.0.0.1 cy-api.tysondata.com
+127.0.0.1 d-03.winudf.com
 127.0.0.1 d11yp7khhhspcr.cloudfront.net
 127.0.0.1 d178bchpnfmat.cloudfront.net
 127.0.0.1 d18c2vb2nmzsjs.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d1zcggttmijv1z.cloudfront.net
 127.0.0.1 d1zkz3k4cclnv6.cloudfront.net
+127.0.0.1 d-21.winudf.com
 127.0.0.1 d24zn61bgpeyxm.cloudfront.net
 127.0.0.1 d25l8ybundaqcq.cloudfront.net
 127.0.0.1 d26xw8rp6mlgfg.cloudfront.net
@@ -838,6 +850,7 @@
 127.0.0.1 datadome.co
 127.0.0.1 data.flurry.com
 127.0.0.1 datalake.gameloft.com
+127.0.0.1 datamation.com
 127.0.0.1 data-rep.livetech.shopee.co.id
 127.0.0.1 dat.gen.in
 127.0.0.1 datting.click
@@ -880,6 +893,7 @@
 127.0.0.1 dev.driftt.com
 127.0.0.1 developers.google.cn
 127.0.0.1 developers.google.com.hk
+127.0.0.1 developers.pho.to
 127.0.0.1 deviceintegritytokens-pa.googleapis.com
 127.0.0.1 dew-omm.lotusflare.com
 127.0.0.1 dexeqbeb7giwr.cloudfront.net
@@ -959,6 +973,7 @@
 127.0.0.1 edgecastcdn.net
 127.0.0.1 edialog24.com
 127.0.0.1 editmysite.com
+127.0.0.1 editor.pho.to
 127.0.0.1 eep.io
 127.0.0.1 ekiga.net
 127.0.0.1 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
@@ -1069,6 +1084,7 @@
 127.0.0.1 franchise.minecraft-services.net
 127.0.0.1 fraudjs.io
 127.0.0.1 fr.bignox.com
+127.0.0.1 frd.shopee.co.id
 127.0.0.1 freeshort.link
 127.0.0.1 freestar.com
 127.0.0.1 freestar.io
@@ -1083,6 +1099,7 @@
 127.0.0.1 ftp.lysator.liu.se
 127.0.0.1 funbe.rjifxuqoo
 127.0.0.1 funnymuvie.online
+127.0.0.1 funny.pho.to
 127.0.0.1 fuseplatform.net
 127.0.0.1 fuwu.sogou.com
 127.0.0.1 fwmrm.net
@@ -1097,6 +1114,7 @@
 127.0.0.1 gameimg.heytapimg.com
 127.0.0.1 gameloft.com
 127.0.0.1 gameportal.casa
+127.0.0.1 games.shopee.co.id
 127.0.0.1 gametool10.ml
 127.0.0.1 g-api.ekatox.com
 127.0.0.1 g-api.kwai.com
@@ -1190,6 +1208,7 @@
 127.0.0.1 growtopia2.com
 127.0.0.1 gslb-gl.cdo.heytapmobi.com
 127.0.0.1 gslb.secb2b.com
+127.0.0.1 gslb.sgw.shopeemobile.com
 127.0.0.1 gslb.shalltry.com
 127.0.0.1 gs-loc.apple.com
 127.0.0.1 gs-loc.ls-apple.com.akadns.net
@@ -1262,10 +1281,15 @@
 127.0.0.1 houseof-lust.xyz
 127.0.0.1 hrtechprivacy.com
 127.0.0.1 hrworld.com
+127.0.0.1 hsadspixel.net
+127.0.0.1 hs-analytics.net
+127.0.0.1 hs-banner.com
 127.0.0.1 hscoscdn40.net
 127.0.0.1 hsforms.com
 127.0.0.1 hsforms.net
+127.0.0.1 hsleadflows.net
 127.0.0.1 hs-scripts.com
+127.0.0.1 hs-scripts.net
 127.0.0.1 h.trace.qq.com
 127.0.0.1 htrace.wetvinfo.com
 127.0.0.1 httpdns.ocloud.heytapmobi.com
@@ -1278,6 +1302,7 @@
 127.0.0.1 https:\/\/ynuf.aliapp.org\/saveWb.json?
 127.0.0.1 hub2.com.pl
 127.0.0.1 hubspot.com
+127.0.0.1 hubspot-forms-static-embed.s3.amazonaws.com
 127.0.0.1 hubspot.net
 127.0.0.1 hugoclub.ak
 127.0.0.1 hwcdn.net
@@ -1343,6 +1368,7 @@
 127.0.0.1 ifrus.coloros.com
 127.0.0.1 ifsau.coloros.com
 127.0.0.1 if-sg.browser.oppomobile.com
+127.0.0.1 igapromomanager-pa.googleapis.com
 127.0.0.1 ign.com
 127.0.0.1 ignimgs.com
 127.0.0.1 igofun.mobi
@@ -1601,6 +1627,7 @@
 127.0.0.1 mailing.educba.com
 127.0.0.1 mail.kantora.ge
 127.0.0.1 mail.pazu.ge
+127.0.0.1 makeup.pho.to
 127.0.0.1 mall.shopee.co.id
 127.0.0.1 manifest.tower.sybo.net
 127.0.0.1 mapi.langitmusik.co.id
@@ -1769,6 +1796,7 @@
 127.0.0.1 northpoleitalia.it
 127.0.0.1 notif.quizizz.com
 127.0.0.1 novac.gameloft.com
+127.0.0.1 now.gg
 127.0.0.1 noxagile.bceapp.com
 127.0.0.1 noxagile.duapp.com
 127.0.0.1 noxgroup.com
@@ -1905,6 +1933,8 @@
 127.0.0.1 phone-api.realme.com
 127.0.0.1 phone.bignox.com
 127.0.0.1 phonedeviceverification-pa.googleapis.com
+127.0.0.1 pho.to
+127.0.0.1 photolab.me
 127.0.0.1 photolabsocialapi.pho.to
 127.0.0.1 pic.sogou.com
 127.0.0.1 pingdom.net
@@ -2384,6 +2414,7 @@
 127.0.0.1 tdcv3.talkingdata.net
 127.0.0.1 team.stagingapps.xyz
 127.0.0.1 techbargains.com
+127.0.0.1 technologyadvice.com
 127.0.0.1 technopawns.com
 127.0.0.1 techrights.org
 127.0.0.1 tecno.servicewebly.com
@@ -2391,6 +2422,7 @@
 127.0.0.1 tengame.net
 127.0.0.1 tenor.co
 127.0.0.1 tenor.com
+127.0.0.1 tenor.googleapis.com
 127.0.0.1 tentaculos.net
 127.0.0.1 teslacoilapps.com
 127.0.0.1 testapi.amap.com
@@ -2432,6 +2464,7 @@
 127.0.0.1 tms-api.shalltry.com
 127.0.0.1 tongdun.net
 127.0.0.1 toolbox.com
+127.0.0.1 tooncoin.com
 127.0.0.1 toonme-com-cdn.ws.pho.to
 127.0.0.1 topgirls.uno
 127.0.0.1 topic-sticker-vending.snapchat.com
@@ -2527,6 +2560,7 @@
 127.0.0.1 us-east1-aws.api.snapchat.com
 127.0.0.1 us-east4-gcp.api.snapchat.com
 127.0.0.1 useinsider.com
+127.0.0.1 usemessages.com
 127.0.0.1 user-api.ucweb.com
 127.0.0.1 user.bignox.com
 127.0.0.1 user.haokan.mobi
@@ -2661,6 +2695,7 @@
 127.0.0.1 wifi.vivo.com.cn
 127.0.0.1 wistia.com
 127.0.0.1 wjunction.com
+127.0.0.1 wlvpn.com
 127.0.0.1 wns.kg.qq.com
 127.0.0.1 wnskg.qq.com
 127.0.0.1 wondershare.cc
@@ -2700,6 +2735,7 @@
 127.0.0.1 www.creditkarma.com
 127.0.0.1 www.creemo.pl
 127.0.0.1 www.data.ai
+127.0.0.1 www.datamation.com
 127.0.0.1 www.dob5.com
 127.0.0.1 www.duolaipk.com
 127.0.0.1 www.eep.io
@@ -2762,6 +2798,7 @@
 127.0.0.1 www.swiftypecdn.com
 127.0.0.1 www.taobao.com
 127.0.0.1 www.tap.io
+127.0.0.1 www.technologyadvice.com
 127.0.0.1 www.thrifter.com
 127.0.0.1 www.tiqcdn.com
 127.0.0.1 www.toutiao.com
@@ -2784,6 +2821,7 @@
 127.0.0.1 www.wattpad.com
 127.0.0.1 www.webovernet.com
 127.0.0.1 www.website-files.com
+127.0.0.1 www.wlvpn.com
 127.0.0.1 www.wuildit.com
 127.0.0.1 www.wuueqejuratzdz.com
 127.0.0.1 www.xnxx.com
