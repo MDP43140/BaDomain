@@ -399,6 +399,7 @@ applinzi.com
 app-measurement.com
 appmetrica.yandex.net
 app-mgr.noxgroup.com
+app.monetizer.com
 appodeal.com
 appodealstack.com
 app.pou.me
@@ -701,6 +702,7 @@ ckmvkzurnd.com
 cl4.apple.com
 cl4.apple.com.c.footprint.net
 cl5.apple.com
+cldapi.net
 cleanmaster.club
 clearbit.com
 clearbitjs.com
@@ -765,6 +767,7 @@ convertkit.com
 cookiebot.com
 cookielaw.org
 cookiepro.com
+copyrightform-helpcenter.tk
 core-api.data.appsinnova.com
 corp.sogou.com
 counter.yadro.ru
@@ -1021,6 +1024,7 @@ eviltracker.net
 example.org
 execute-api.eu-west-1.amazonaws.com
 exelator.com
+exonhack.com
 experts-exchange.com
 exploitbyte.net
 exponential.com
@@ -1039,6 +1043,7 @@ fans.sports.qq.com
 farsroid.com
 fast.wistia.com
 feabtest.prod.tvlk-data.com
+feebhax.com
 feed1.yukbacaberita.com
 feedback-gl.heytapmobi.com
 feedback.intl.miui.com
@@ -1077,6 +1082,7 @@ fortumo.io
 fouanalytics.com
 fout.jp
 foxpush.net
+fpstool.com
 f.push.oppomobile.com
 franchise.minecraft-services.net
 fraudjs.io
@@ -1166,6 +1172,7 @@ global-rank-sg.sausage.xd.com
 global-tokenserver-la.headline.uodoo.com
 gmnovietnam.vn
 go2cloud.org
+go2speed.org
 go.com
 godaddy.com
 go.eportalmobile.com
@@ -1233,6 +1240,7 @@ gws.line.naver.jp
 gwwdhkwtswtjc
 g-zgroup.pstatic.net
 h5.y5en.com
+hack4me.is
 hammergamer.com
 hanyu.sogou.com
 haokan.mobi
@@ -1502,6 +1510,7 @@ js.cx
 js.datadome.co
 js.driftt.com
 js.media-lab.ai
+jump.ogtrk.net
 justin.tv
 jwplayer.com
 kagaitiktok.net
@@ -1651,6 +1660,7 @@ media6degrees.com
 media-amazon.com
 media-contentful.zepeto.io
 mediaforge.com
+media.go2speed.org
 mediaiqdigital.com
 media-lab.ai
 media.neliti.com
@@ -1704,6 +1714,7 @@ moatads.com
 mobadvent.com
 mobile.bignox.com
 mobilesearchers.com
+mobiletime.net
 mobile.useinsider.com
 mobile.webvisor.com
 mobile.yandex.net
@@ -1711,6 +1722,7 @@ mobredirect.net
 modgen.uno
 moengage.com
 momgen.best
+monetizer.com
 montok.wapsite.info
 mookie1.com
 mopinion.com
@@ -1910,6 +1922,7 @@ path1.xtracloud.net
 path2.xtracloud.net
 path3.xtracloud.net
 pay.bignox.com
+paypal--accounts.com
 pay.vivoglobal.com
 pay.yeshen.com
 pazu.ge
@@ -2054,6 +2067,7 @@ ravenjs.com
 rbux88.com
 rbxr.monster
 rbxton.online
+rdr.mobiletime.net
 rebuilt.pro.ilovexclub.com
 rebuilt.pro.ilovexclub.net
 recommend.pa1mstore.com
@@ -2712,6 +2726,7 @@ ww25.apkeditorfree.com
 www.12377.cn
 www24.proservice.ge
 www.265.com
+www6.exonhack.com
 www76.nathanaeldan.pro
 www.acckwmhi.com
 www.adapex.io
@@ -2742,6 +2757,7 @@ www.eep.io
 www.escolhatecnologia.com.br
 www.etsy.com
 www.evgnet.com
+www.exonhack.com
 www.filmmogzivota.rs
 www.focusmedica.in
 www.ftblltrck.com

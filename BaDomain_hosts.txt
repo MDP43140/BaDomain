@@ -399,6 +399,7 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 appmetrica.yandex.net
 127.0.0.1 app-mgr.noxgroup.com
+127.0.0.1 app.monetizer.com
 127.0.0.1 appodeal.com
 127.0.0.1 appodealstack.com
 127.0.0.1 app.pou.me
@@ -701,6 +702,7 @@
 127.0.0.1 cl4.apple.com
 127.0.0.1 cl4.apple.com.c.footprint.net
 127.0.0.1 cl5.apple.com
+127.0.0.1 cldapi.net
 127.0.0.1 cleanmaster.club
 127.0.0.1 clearbit.com
 127.0.0.1 clearbitjs.com
@@ -765,6 +767,7 @@
 127.0.0.1 cookiebot.com
 127.0.0.1 cookielaw.org
 127.0.0.1 cookiepro.com
+127.0.0.1 copyrightform-helpcenter.tk
 127.0.0.1 core-api.data.appsinnova.com
 127.0.0.1 corp.sogou.com
 127.0.0.1 counter.yadro.ru
@@ -1021,6 +1024,7 @@
 127.0.0.1 example.org
 127.0.0.1 execute-api.eu-west-1.amazonaws.com
 127.0.0.1 exelator.com
+127.0.0.1 exonhack.com
 127.0.0.1 experts-exchange.com
 127.0.0.1 exploitbyte.net
 127.0.0.1 exponential.com
@@ -1039,6 +1043,7 @@
 127.0.0.1 farsroid.com
 127.0.0.1 fast.wistia.com
 127.0.0.1 feabtest.prod.tvlk-data.com
+127.0.0.1 feebhax.com
 127.0.0.1 feed1.yukbacaberita.com
 127.0.0.1 feedback-gl.heytapmobi.com
 127.0.0.1 feedback.intl.miui.com
@@ -1077,6 +1082,7 @@
 127.0.0.1 fouanalytics.com
 127.0.0.1 fout.jp
 127.0.0.1 foxpush.net
+127.0.0.1 fpstool.com
 127.0.0.1 f.push.oppomobile.com
 127.0.0.1 franchise.minecraft-services.net
 127.0.0.1 fraudjs.io
@@ -1166,6 +1172,7 @@
 127.0.0.1 global-tokenserver-la.headline.uodoo.com
 127.0.0.1 gmnovietnam.vn
 127.0.0.1 go2cloud.org
+127.0.0.1 go2speed.org
 127.0.0.1 go.com
 127.0.0.1 godaddy.com
 127.0.0.1 go.eportalmobile.com
@@ -1233,6 +1240,7 @@
 127.0.0.1 gwwdhkwtswtjc
 127.0.0.1 g-zgroup.pstatic.net
 127.0.0.1 h5.y5en.com
+127.0.0.1 hack4me.is
 127.0.0.1 hammergamer.com
 127.0.0.1 hanyu.sogou.com
 127.0.0.1 haokan.mobi
@@ -1502,6 +1510,7 @@
 127.0.0.1 js.datadome.co
 127.0.0.1 js.driftt.com
 127.0.0.1 js.media-lab.ai
+127.0.0.1 jump.ogtrk.net
 127.0.0.1 justin.tv
 127.0.0.1 jwplayer.com
 127.0.0.1 kagaitiktok.net
@@ -1651,6 +1660,7 @@
 127.0.0.1 media-amazon.com
 127.0.0.1 media-contentful.zepeto.io
 127.0.0.1 mediaforge.com
+127.0.0.1 media.go2speed.org
 127.0.0.1 mediaiqdigital.com
 127.0.0.1 media-lab.ai
 127.0.0.1 media.neliti.com
@@ -1704,6 +1714,7 @@
 127.0.0.1 mobadvent.com
 127.0.0.1 mobile.bignox.com
 127.0.0.1 mobilesearchers.com
+127.0.0.1 mobiletime.net
 127.0.0.1 mobile.useinsider.com
 127.0.0.1 mobile.webvisor.com
 127.0.0.1 mobile.yandex.net
@@ -1711,6 +1722,7 @@
 127.0.0.1 modgen.uno
 127.0.0.1 moengage.com
 127.0.0.1 momgen.best
+127.0.0.1 monetizer.com
 127.0.0.1 montok.wapsite.info
 127.0.0.1 mookie1.com
 127.0.0.1 mopinion.com
@@ -1910,6 +1922,7 @@
 127.0.0.1 path2.xtracloud.net
 127.0.0.1 path3.xtracloud.net
 127.0.0.1 pay.bignox.com
+127.0.0.1 paypal--accounts.com
 127.0.0.1 pay.vivoglobal.com
 127.0.0.1 pay.yeshen.com
 127.0.0.1 pazu.ge
@@ -2054,6 +2067,7 @@
 127.0.0.1 rbux88.com
 127.0.0.1 rbxr.monster
 127.0.0.1 rbxton.online
+127.0.0.1 rdr.mobiletime.net
 127.0.0.1 rebuilt.pro.ilovexclub.com
 127.0.0.1 rebuilt.pro.ilovexclub.net
 127.0.0.1 recommend.pa1mstore.com
@@ -2712,6 +2726,7 @@
 127.0.0.1 www.12377.cn
 127.0.0.1 www24.proservice.ge
 127.0.0.1 www.265.com
+127.0.0.1 www6.exonhack.com
 127.0.0.1 www76.nathanaeldan.pro
 127.0.0.1 www.acckwmhi.com
 127.0.0.1 www.adapex.io
@@ -2742,6 +2757,7 @@
 127.0.0.1 www.escolhatecnologia.com.br
 127.0.0.1 www.etsy.com
 127.0.0.1 www.evgnet.com
+127.0.0.1 www.exonhack.com
 127.0.0.1 www.filmmogzivota.rs
 127.0.0.1 www.focusmedica.in
 127.0.0.1 www.ftblltrck.com
