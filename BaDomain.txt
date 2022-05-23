@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.05.2022
+# Version: 23.05.2022
 # Update: 1 days
 #
 
@@ -1523,11 +1523,9 @@ klaviyo.com
 klimg.com
 kl-youniverse.com
 knorex.com
-kobo.com
 kol.yeshen.com
 komoona.com
 kompasads.com
-koyu.space
 kr.bignox.com
 krisp.ai
 krxd.net

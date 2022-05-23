@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.05.2022
+# Version: 23.05.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -1531,11 +1531,9 @@
 127.0.0.1 klimg.com
 127.0.0.1 kl-youniverse.com
 127.0.0.1 knorex.com
-127.0.0.1 kobo.com
 127.0.0.1 kol.yeshen.com
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
-127.0.0.1 koyu.space
 127.0.0.1 kr.bignox.com
 127.0.0.1 krisp.ai
 127.0.0.1 krxd.net
