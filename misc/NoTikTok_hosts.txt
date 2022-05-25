@@ -145,6 +145,7 @@
 127.0.0.1 api15-h2.tiktokv.com
 127.0.0.1 api15-normal-probe-useast2a.tiktokv.com
 127.0.0.1 api15-normal-useast2a.tiktokv.com
+127.0.0.1 api16-access-gcp.pangle.io
 127.0.0.1 api16-access-sg.pangle.io
 127.0.0.1 api16-core-c4-alisg.tiktokv.com
 127.0.0.1 api16-core-c-alisg.tiktokv.com
@@ -1489,6 +1490,7 @@
 127.0.0.1 mcs-sg.tiktok.com
 127.0.0.1 mcs-sg.tiktok.com.edgekey.net
 127.0.0.1 mcs.snssdk.com
+127.0.0.1 mcs-va.tiktok.com
 127.0.0.1 mcs-va.tiktokv.com
 127.0.0.1 mcs-va-useast2a.tiktokv.com
 127.0.0.1 media.tiktok.com
@@ -2022,6 +2024,8 @@
 127.0.0.1 p9-xg.byteimg.com.bsgslb.com
 127.0.0.1 p9-xg.pstatp.com
 127.0.0.1 page.snssdk.com
+127.0.0.1 pangle.io
+127.0.0.1 pangle.io.edgekey.net
 127.0.0.1 pangolin16.isnssdk.com
 127.0.0.1 pangolin16.sgsnssdk.com
 127.0.0.1 pangolin.snssdk.com

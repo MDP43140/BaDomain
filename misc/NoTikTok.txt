@@ -145,6 +145,7 @@ api15-h2-eagle.tiktokv.com
 api15-h2.tiktokv.com
 api15-normal-probe-useast2a.tiktokv.com
 api15-normal-useast2a.tiktokv.com
+api16-access-gcp.pangle.io
 api16-access-sg.pangle.io
 api16-core-c4-alisg.tiktokv.com
 api16-core-c-alisg.tiktokv.com
@@ -1489,6 +1490,7 @@ mcast1.toutiao50.com
 mcs-sg.tiktok.com
 mcs-sg.tiktok.com.edgekey.net
 mcs.snssdk.com
+mcs-va.tiktok.com
 mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 media.tiktok.com
@@ -2022,6 +2024,8 @@ p9-xg.byteimg.com
 p9-xg.byteimg.com.bsgslb.com
 p9-xg.pstatp.com
 page.snssdk.com
+pangle.io
+pangle.io.edgekey.net
 pangolin16.isnssdk.com
 pangolin16.sgsnssdk.com
 pangolin.snssdk.com

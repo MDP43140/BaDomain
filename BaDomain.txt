@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.05.2022
+# Version: 25.05.2022
 # Update: 1 days
 #
 
@@ -105,6 +105,7 @@ aboutads.info
 aboutads.net
 abroad.apilocate.amap.com
 abruptlyinstitution.com
+abtesting.ai
 a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 a.c93eb87839c6be3faf4eec1c4863e043791e3b4c9c40a159812fbc6a.com
 access.line.me
@@ -391,6 +392,7 @@ appconf-ocs-sgp.heytapdl.com
 appconf-sgp.heytapdl.com
 app.cove.chat
 app.driftt.com
+app.hubspot.com
 appia.com
 appjustable.com
 apple-finance.query.yahoo.com
@@ -421,6 +423,7 @@ aptoide.com
 ap-usage.ime.cootek.com
 ap.y5en.com
 ar.bignox.com
+arcai.com
 arstechnica.net
 artas.biz
 artsai.com
@@ -470,6 +473,7 @@ asia-vnote.vivoglobal.com
 asia-weather.vivoglobal.com
 asia-wifi.vivoglobal.com
 askmen.com
+assets9.lottiefiles.com
 assets.alicdn.com
 assets.applovin.com
 assets.duniagames.co.id
@@ -541,6 +545,7 @@ beian.gov.cn
 beian.miit.gov.cn
 bendingspoonsapps.com
 bendingspoons.com
+besmeargleor.com
 bestcards.online
 bestdate.top
 best-datingclub.life
@@ -624,6 +629,7 @@ cdn130.picsart.com
 cdn1.codashop.com
 cdn1-production-images-kly.akamaized.net
 cdn2.editmysite.com
+cdn2.hubspot.net
 cdn2.palmplaystore.com
 cdn-2.tstatic.net
 cdn77.org
@@ -683,6 +689,7 @@ chargebee.com
 chartbeat.com
 chartboost.com
 chart.googleapis.com
+chartprime.com
 chat1-production.golabs.io
 chat4-production.golabs.io
 chat.wha
@@ -702,6 +709,7 @@ ckmvkzurnd.com
 cl4.apple.com
 cl4.apple.com.c.footprint.net
 cl5.apple.com
+clarity.ms
 cldapi.net
 cleanmaster.club
 clearbit.com
@@ -730,6 +738,7 @@ codashop.com
 code.createjs.com
 codepush.appcenter.ms
 cognitivlabs.com
+coinbasesj.vip
 colegiounamuno.es
 collector.lunalabs.io
 collector-playground.lunalabs.uk
@@ -763,6 +772,7 @@ constellix.com
 content-fgw.zepeto.io
 contextads.live
 contextweb.com
+convertexperiments.com
 convertkit.com
 cookiebot.com
 cookielaw.org
@@ -974,10 +984,12 @@ edialog24.com
 editmysite.com
 editor.pho.to
 eep.io
+eezegrip.net
 ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 eleed.cloud
 eleed.online
+embed-cdn.com
 embed-fastly.wistia.com
 embedwistia-a.akamaihd.net
 emebo.io
@@ -1104,6 +1116,8 @@ funbe.rjifxuqoo
 funnymuvie.online
 funny.pho.to
 fuseplatform.net
+futurecdn.net
+futureplc.com
 fuwu.sogou.com
 fwmrm.net
 fyber-static.com
@@ -1256,6 +1270,7 @@ helpscout.net
 help.sogou.com
 helpx.adobe.com
 herningrideklub.net
+heylink.me
 heytapdl.com
 heytapmobile.com
 hhhh.uno
@@ -1275,6 +1290,7 @@ hm.baidu.com
 hm.e.shifen.com
 hmma.baidu.com
 homepage.vivo.com
+hopexos.vip
 horizonme.net
 horneymom.today
 hostek.se
@@ -1289,6 +1305,7 @@ hrtechprivacy.com
 hrworld.com
 hsadspixel.net
 hs-analytics.net
+hsappstatic.net
 hs-banner.com
 hscoscdn40.net
 hsforms.com
@@ -1308,6 +1325,7 @@ https:\/\/app-measurement.com\/sdk-exp
 https:\/\/ynuf.aliapp.org\/saveWb.json?
 hub2.com.pl
 hubspot.com
+hubspotfeedback.com
 hubspot-forms-static-embed.s3.amazonaws.com
 hubspot.net
 hugoclub.ak
@@ -1437,6 +1455,7 @@ init.y5en.com
 injapp.com
 innity.net
 innovid.com
+inpagepush.com
 ins.hastopic.com
 inshot.cc
 insidecrm.com
@@ -1509,7 +1528,12 @@ js.chargebee.com
 js.cx
 js.datadome.co
 js.driftt.com
+js.hs-analytics.net
+js.hs-banner.com
+js.hsleadflows.net
+js.hubspotfeedback.com
 js.media-lab.ai
+js.usemessages.com
 jump.ogtrk.net
 justin.tv
 jwplayer.com
@@ -1563,6 +1587,7 @@ lbs.like.video
 lbs-zaizai.netease.im
 lcdn-locator.apple.com
 lcdn-locator-usms11.apple.com.akadns.net
+leawo.org
 lencr.org
 letsgoconvert.com
 liadm.com
@@ -1593,6 +1618,7 @@ livetech.shopee.co.id
 livoop.com
 lkqd.net
 lmhorse.se
+lngtd.com
 lnk.news
 load18.biz
 localdate.monster
@@ -1658,6 +1684,7 @@ mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
 media6degrees.com
 media-amazon.com
+mediacategory.com
 media-contentful.zepeto.io
 mediaforge.com
 media.go2speed.org
@@ -1770,6 +1797,7 @@ myqcloud.com
 my.salesforce.com
 nagios.dreamvps.com
 nanorep.co
+narrativ.com
 narratorsvoice.com
 nat02.feelingtouch.com
 nat.cn.bucuowan.com
@@ -1887,6 +1915,7 @@ otnolatrnup.com
 outbrain.com
 outcome-ssp.supersonicads.com
 over.net
+overwolf.com
 owap.bar
 owneriq.net
 ozap.bar
@@ -2056,6 +2085,7 @@ quiztest.me
 r2b2.io
 r3.i.lencr.org
 racgen.monster
+raishiz.com
 rakam.io
 rakutenmarketing.com
 rakuten.tv
@@ -2076,6 +2106,7 @@ recorder.iobit.com
 redirectingat.com
 redirect.networkbench.com
 referralrock.com
+refersion.com
 register.xmpush.global.xiaomi.com
 reign.appmeasurements.com
 reikoo.uno
@@ -2124,6 +2155,7 @@ riseup.net
 risk.clearbit.com
 rkdms.com
 rlcdn.com
+robinhand.vip
 robuxweb.pro
 robwu.nl
 robyoc.online
@@ -2176,6 +2208,7 @@ samsappsbn.vo.llnwd.net
 samsung-callerprofile.edge.hiyaapi.com
 samsung-gamelauncher.com
 sapi.taptap.com
+sas-autos.com
 saserver.search.oppomobile.com
 satismeter.com
 sausage-global-cdn.sausage.xd.com
@@ -2211,12 +2244,14 @@ security.intuit.com
 security.noxgroup.org
 segment.com
 self.events.data.microsoft.com
+selfishsnake.com
 sellwild.com
 semasio.net
 sentry-cdn.com
 sentry.io
 sentry.kumparan.com
 sentry.prod.mozaws.net
+servebom.com
 servedby-buysellads.com
 service.force.com
 services.prod.ims.adobejanus.com
@@ -2342,6 +2377,7 @@ static.ahagamecenter.com
 static-cms.aa-cdn.net
 static-doubleclick-net.l.google.com
 static.gc.apple.com
+static.hsappstatic.net
 static.like-it.video
 static.messagebird.com
 static.servicewebly.com
@@ -2616,6 +2652,7 @@ video-l.usicdn.com
 videoplayerhub.com
 videos.sc-cdn.net
 vidyard.com
+viglink.com
 viki.com
 vimeocdn.com
 vimeo.com
@@ -2673,6 +2710,7 @@ waterfox.net
 waust.at
 wcmbqxzeuopnvyfmhkstaretfciywdrl.name
 wd.adcolony.com
+wdfl.co
 weatherapi.intl.xiaomi.com
 weatherapi.market.xiaomi.com
 weather-data.apple.com
@@ -2746,6 +2784,7 @@ www.ckg.hk
 www.ckmvkzurnd.com
 www.cleverpush.com
 www.codashop.com
+www.coinbasesj.vip
 www.colegiounamuno.es
 www.creditkarma.com
 www.creemo.pl
@@ -2771,6 +2810,7 @@ www.google.ru
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.hastopic.com
 www.hippoobox.com
+www.hopexos.vip
 www.icloud.com
 www.iconsdb.com
 www.intuitcdn.net
@@ -2803,6 +2843,7 @@ www.profitwell.com
 www.qq.com
 www.quiztest.me
 www.ralijqugghwqil.com
+www.robinhand.vip
 www.servicewebly.com
 www.sfdcstatic.com
 www.shareaholic.net
@@ -2841,12 +2882,14 @@ www.website-files.com
 www.wlvpn.com
 www.wuildit.com
 www.wuueqejuratzdz.com
+www.xapoapp.com
 www.xnxx.com
 www.xvideos2.com
 www.yastatic.net
 www.yeshen.com
 www.yeshen.com.w.kunlungr.com
 www.ykxipfcg.com
+www.yomani.vip
 www.youtts.com
 x18like.uno
 x1.i.lencr.org
@@ -2855,6 +2898,7 @@ x8speeder.com
 x8zs.cok
 x.acme.com
 xad.com
+xapoapp.com
 xbritclone.net
 xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com
@@ -2900,6 +2944,7 @@ yixiu-abtest.alicdn.com
 ykxipfcg.com
 ylx-aff.advertica-cdn.com
 ynuf.aliapp.org
+yomani.vip
 yotpo.com
 youme.im
 younggirls.today

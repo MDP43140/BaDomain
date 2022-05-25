@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.05.2022
+# Version: 25.05.2022
 # Update: 1 days
 #
 
@@ -105,6 +105,7 @@
 127.0.0.1 aboutads.net
 127.0.0.1 abroad.apilocate.amap.com
 127.0.0.1 abruptlyinstitution.com
+127.0.0.1 abtesting.ai
 127.0.0.1 a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 127.0.0.1 a.c93eb87839c6be3faf4eec1c4863e043791e3b4c9c40a159812fbc6a.com
 127.0.0.1 access.line.me
@@ -391,6 +392,7 @@
 127.0.0.1 appconf-sgp.heytapdl.com
 127.0.0.1 app.cove.chat
 127.0.0.1 app.driftt.com
+127.0.0.1 app.hubspot.com
 127.0.0.1 appia.com
 127.0.0.1 appjustable.com
 127.0.0.1 apple-finance.query.yahoo.com
@@ -421,6 +423,7 @@
 127.0.0.1 ap-usage.ime.cootek.com
 127.0.0.1 ap.y5en.com
 127.0.0.1 ar.bignox.com
+127.0.0.1 arcai.com
 127.0.0.1 arstechnica.net
 127.0.0.1 artas.biz
 127.0.0.1 artsai.com
@@ -470,6 +473,7 @@
 127.0.0.1 asia-weather.vivoglobal.com
 127.0.0.1 asia-wifi.vivoglobal.com
 127.0.0.1 askmen.com
+127.0.0.1 assets9.lottiefiles.com
 127.0.0.1 assets.alicdn.com
 127.0.0.1 assets.applovin.com
 127.0.0.1 assets.duniagames.co.id
@@ -541,6 +545,7 @@
 127.0.0.1 beian.miit.gov.cn
 127.0.0.1 bendingspoonsapps.com
 127.0.0.1 bendingspoons.com
+127.0.0.1 besmeargleor.com
 127.0.0.1 bestcards.online
 127.0.0.1 bestdate.top
 127.0.0.1 best-datingclub.life
@@ -624,6 +629,7 @@
 127.0.0.1 cdn1.codashop.com
 127.0.0.1 cdn1-production-images-kly.akamaized.net
 127.0.0.1 cdn2.editmysite.com
+127.0.0.1 cdn2.hubspot.net
 127.0.0.1 cdn2.palmplaystore.com
 127.0.0.1 cdn-2.tstatic.net
 127.0.0.1 cdn77.org
@@ -683,6 +689,7 @@
 127.0.0.1 chartbeat.com
 127.0.0.1 chartboost.com
 127.0.0.1 chart.googleapis.com
+127.0.0.1 chartprime.com
 127.0.0.1 chat1-production.golabs.io
 127.0.0.1 chat4-production.golabs.io
 127.0.0.1 chat.wha
@@ -702,6 +709,7 @@
 127.0.0.1 cl4.apple.com
 127.0.0.1 cl4.apple.com.c.footprint.net
 127.0.0.1 cl5.apple.com
+127.0.0.1 clarity.ms
 127.0.0.1 cldapi.net
 127.0.0.1 cleanmaster.club
 127.0.0.1 clearbit.com
@@ -730,6 +738,7 @@
 127.0.0.1 code.createjs.com
 127.0.0.1 codepush.appcenter.ms
 127.0.0.1 cognitivlabs.com
+127.0.0.1 coinbasesj.vip
 127.0.0.1 colegiounamuno.es
 127.0.0.1 collector.lunalabs.io
 127.0.0.1 collector-playground.lunalabs.uk
@@ -763,6 +772,7 @@
 127.0.0.1 content-fgw.zepeto.io
 127.0.0.1 contextads.live
 127.0.0.1 contextweb.com
+127.0.0.1 convertexperiments.com
 127.0.0.1 convertkit.com
 127.0.0.1 cookiebot.com
 127.0.0.1 cookielaw.org
@@ -974,10 +984,12 @@
 127.0.0.1 editmysite.com
 127.0.0.1 editor.pho.to
 127.0.0.1 eep.io
+127.0.0.1 eezegrip.net
 127.0.0.1 ekiga.net
 127.0.0.1 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 127.0.0.1 eleed.cloud
 127.0.0.1 eleed.online
+127.0.0.1 embed-cdn.com
 127.0.0.1 embed-fastly.wistia.com
 127.0.0.1 embedwistia-a.akamaihd.net
 127.0.0.1 emebo.io
@@ -1104,6 +1116,8 @@
 127.0.0.1 funnymuvie.online
 127.0.0.1 funny.pho.to
 127.0.0.1 fuseplatform.net
+127.0.0.1 futurecdn.net
+127.0.0.1 futureplc.com
 127.0.0.1 fuwu.sogou.com
 127.0.0.1 fwmrm.net
 127.0.0.1 fyber-static.com
@@ -1256,6 +1270,7 @@
 127.0.0.1 help.sogou.com
 127.0.0.1 helpx.adobe.com
 127.0.0.1 herningrideklub.net
+127.0.0.1 heylink.me
 127.0.0.1 heytapdl.com
 127.0.0.1 heytapmobile.com
 127.0.0.1 hhhh.uno
@@ -1275,6 +1290,7 @@
 127.0.0.1 hm.e.shifen.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 homepage.vivo.com
+127.0.0.1 hopexos.vip
 127.0.0.1 horizonme.net
 127.0.0.1 horneymom.today
 127.0.0.1 hostek.se
@@ -1289,6 +1305,7 @@
 127.0.0.1 hrworld.com
 127.0.0.1 hsadspixel.net
 127.0.0.1 hs-analytics.net
+127.0.0.1 hsappstatic.net
 127.0.0.1 hs-banner.com
 127.0.0.1 hscoscdn40.net
 127.0.0.1 hsforms.com
@@ -1308,6 +1325,7 @@
 127.0.0.1 https:\/\/ynuf.aliapp.org\/saveWb.json?
 127.0.0.1 hub2.com.pl
 127.0.0.1 hubspot.com
+127.0.0.1 hubspotfeedback.com
 127.0.0.1 hubspot-forms-static-embed.s3.amazonaws.com
 127.0.0.1 hubspot.net
 127.0.0.1 hugoclub.ak
@@ -1437,6 +1455,7 @@
 127.0.0.1 injapp.com
 127.0.0.1 innity.net
 127.0.0.1 innovid.com
+127.0.0.1 inpagepush.com
 127.0.0.1 ins.hastopic.com
 127.0.0.1 inshot.cc
 127.0.0.1 insidecrm.com
@@ -1509,7 +1528,12 @@
 127.0.0.1 js.cx
 127.0.0.1 js.datadome.co
 127.0.0.1 js.driftt.com
+127.0.0.1 js.hs-analytics.net
+127.0.0.1 js.hs-banner.com
+127.0.0.1 js.hsleadflows.net
+127.0.0.1 js.hubspotfeedback.com
 127.0.0.1 js.media-lab.ai
+127.0.0.1 js.usemessages.com
 127.0.0.1 jump.ogtrk.net
 127.0.0.1 justin.tv
 127.0.0.1 jwplayer.com
@@ -1563,6 +1587,7 @@
 127.0.0.1 lbs-zaizai.netease.im
 127.0.0.1 lcdn-locator.apple.com
 127.0.0.1 lcdn-locator-usms11.apple.com.akadns.net
+127.0.0.1 leawo.org
 127.0.0.1 lencr.org
 127.0.0.1 letsgoconvert.com
 127.0.0.1 liadm.com
@@ -1593,6 +1618,7 @@
 127.0.0.1 livoop.com
 127.0.0.1 lkqd.net
 127.0.0.1 lmhorse.se
+127.0.0.1 lngtd.com
 127.0.0.1 lnk.news
 127.0.0.1 load18.biz
 127.0.0.1 localdate.monster
@@ -1658,6 +1684,7 @@
 127.0.0.1 mdp-appconf-sg.heytapdl.com
 127.0.0.1 media6degrees.com
 127.0.0.1 media-amazon.com
+127.0.0.1 mediacategory.com
 127.0.0.1 media-contentful.zepeto.io
 127.0.0.1 mediaforge.com
 127.0.0.1 media.go2speed.org
@@ -1770,6 +1797,7 @@
 127.0.0.1 my.salesforce.com
 127.0.0.1 nagios.dreamvps.com
 127.0.0.1 nanorep.co
+127.0.0.1 narrativ.com
 127.0.0.1 narratorsvoice.com
 127.0.0.1 nat02.feelingtouch.com
 127.0.0.1 nat.cn.bucuowan.com
@@ -1887,6 +1915,7 @@
 127.0.0.1 outbrain.com
 127.0.0.1 outcome-ssp.supersonicads.com
 127.0.0.1 over.net
+127.0.0.1 overwolf.com
 127.0.0.1 owap.bar
 127.0.0.1 owneriq.net
 127.0.0.1 ozap.bar
@@ -2056,6 +2085,7 @@
 127.0.0.1 r2b2.io
 127.0.0.1 r3.i.lencr.org
 127.0.0.1 racgen.monster
+127.0.0.1 raishiz.com
 127.0.0.1 rakam.io
 127.0.0.1 rakutenmarketing.com
 127.0.0.1 rakuten.tv
@@ -2076,6 +2106,7 @@
 127.0.0.1 redirectingat.com
 127.0.0.1 redirect.networkbench.com
 127.0.0.1 referralrock.com
+127.0.0.1 refersion.com
 127.0.0.1 register.xmpush.global.xiaomi.com
 127.0.0.1 reign.appmeasurements.com
 127.0.0.1 reikoo.uno
@@ -2124,6 +2155,7 @@
 127.0.0.1 risk.clearbit.com
 127.0.0.1 rkdms.com
 127.0.0.1 rlcdn.com
+127.0.0.1 robinhand.vip
 127.0.0.1 robuxweb.pro
 127.0.0.1 robwu.nl
 127.0.0.1 robyoc.online
@@ -2176,6 +2208,7 @@
 127.0.0.1 samsung-callerprofile.edge.hiyaapi.com
 127.0.0.1 samsung-gamelauncher.com
 127.0.0.1 sapi.taptap.com
+127.0.0.1 sas-autos.com
 127.0.0.1 saserver.search.oppomobile.com
 127.0.0.1 satismeter.com
 127.0.0.1 sausage-global-cdn.sausage.xd.com
@@ -2211,12 +2244,14 @@
 127.0.0.1 security.noxgroup.org
 127.0.0.1 segment.com
 127.0.0.1 self.events.data.microsoft.com
+127.0.0.1 selfishsnake.com
 127.0.0.1 sellwild.com
 127.0.0.1 semasio.net
 127.0.0.1 sentry-cdn.com
 127.0.0.1 sentry.io
 127.0.0.1 sentry.kumparan.com
 127.0.0.1 sentry.prod.mozaws.net
+127.0.0.1 servebom.com
 127.0.0.1 servedby-buysellads.com
 127.0.0.1 service.force.com
 127.0.0.1 services.prod.ims.adobejanus.com
@@ -2342,6 +2377,7 @@
 127.0.0.1 static-cms.aa-cdn.net
 127.0.0.1 static-doubleclick-net.l.google.com
 127.0.0.1 static.gc.apple.com
+127.0.0.1 static.hsappstatic.net
 127.0.0.1 static.like-it.video
 127.0.0.1 static.messagebird.com
 127.0.0.1 static.servicewebly.com
@@ -2616,6 +2652,7 @@
 127.0.0.1 videoplayerhub.com
 127.0.0.1 videos.sc-cdn.net
 127.0.0.1 vidyard.com
+127.0.0.1 viglink.com
 127.0.0.1 viki.com
 127.0.0.1 vimeocdn.com
 127.0.0.1 vimeo.com
@@ -2673,6 +2710,7 @@
 127.0.0.1 waust.at
 127.0.0.1 wcmbqxzeuopnvyfmhkstaretfciywdrl.name
 127.0.0.1 wd.adcolony.com
+127.0.0.1 wdfl.co
 127.0.0.1 weatherapi.intl.xiaomi.com
 127.0.0.1 weatherapi.market.xiaomi.com
 127.0.0.1 weather-data.apple.com
@@ -2746,6 +2784,7 @@
 127.0.0.1 www.ckmvkzurnd.com
 127.0.0.1 www.cleverpush.com
 127.0.0.1 www.codashop.com
+127.0.0.1 www.coinbasesj.vip
 127.0.0.1 www.colegiounamuno.es
 127.0.0.1 www.creditkarma.com
 127.0.0.1 www.creemo.pl
@@ -2771,6 +2810,7 @@
 127.0.0.1 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 127.0.0.1 www.hastopic.com
 127.0.0.1 www.hippoobox.com
+127.0.0.1 www.hopexos.vip
 127.0.0.1 www.icloud.com
 127.0.0.1 www.iconsdb.com
 127.0.0.1 www.intuitcdn.net
@@ -2803,6 +2843,7 @@
 127.0.0.1 www.qq.com
 127.0.0.1 www.quiztest.me
 127.0.0.1 www.ralijqugghwqil.com
+127.0.0.1 www.robinhand.vip
 127.0.0.1 www.servicewebly.com
 127.0.0.1 www.sfdcstatic.com
 127.0.0.1 www.shareaholic.net
@@ -2841,12 +2882,14 @@
 127.0.0.1 www.wlvpn.com
 127.0.0.1 www.wuildit.com
 127.0.0.1 www.wuueqejuratzdz.com
+127.0.0.1 www.xapoapp.com
 127.0.0.1 www.xnxx.com
 127.0.0.1 www.xvideos2.com
 127.0.0.1 www.yastatic.net
 127.0.0.1 www.yeshen.com
 127.0.0.1 www.yeshen.com.w.kunlungr.com
 127.0.0.1 www.ykxipfcg.com
+127.0.0.1 www.yomani.vip
 127.0.0.1 www.youtts.com
 127.0.0.1 x18like.uno
 127.0.0.1 x1.i.lencr.org
@@ -2855,6 +2898,7 @@
 127.0.0.1 x8zs.cok
 127.0.0.1 x.acme.com
 127.0.0.1 xad.com
+127.0.0.1 xapoapp.com
 127.0.0.1 xbritclone.net
 127.0.0.1 xdg-1c20f-intl.xd.com
 127.0.0.1 xdg-2fc4a-intl.xd.com
@@ -2900,6 +2944,7 @@
 127.0.0.1 ykxipfcg.com
 127.0.0.1 ylx-aff.advertica-cdn.com
 127.0.0.1 ynuf.aliapp.org
+127.0.0.1 yomani.vip
 127.0.0.1 yotpo.com
 127.0.0.1 youme.im
 127.0.0.1 younggirls.today
