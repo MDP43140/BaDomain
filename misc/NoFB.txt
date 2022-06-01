@@ -671,6 +671,7 @@ edge-sonar-shv-13-frc1.fbcdn.net
 edge-sonar-shv-17-prn1.fbcdn.net
 edge-sonar-shv-18-prn1.fbcdn.net
 edge-star-shv-12-frc3.facebook.com
+edge-stun.facebook.com
 edge-video-shv-01-ams2.fbcdn.net
 edge-video-shv-01-ams3.fbcdn.net
 edge-video-shv-01-arn2.fbcdn.net
@@ -1168,7 +1169,10 @@ scontent.fcgk24-1.fna.fbcdn.net
 scontent.fcgk24-2.fna.fbcdn.net
 scontent.fcgk3-2.fna.fbcdn.net
 scontent.fcgk35-1.fna.fbcdn.net
+scontent.fcgk4-2.fna.fbcdn.net
 scontent.fcgk4-4.fna.fbcdn.net
+scontent.fcgk4-5.fna.fbcdn.net
+scontent.fcgk4-6.fna.fbcdn.net
 scontent.fcha1-1.fna.fbcdn.net
 scontent.fcia1-1.fna.fbcdn.net
 scontent.fcmb1-1.fna.fbcdn.net
@@ -1728,6 +1732,7 @@ z-m-scontent.fdac1-1.fna.fbcdn.net
 z-m-scontent.fmex10-1.fna.fbcdn.net
 z-m-scontent.fpku1-1.fna.fbcdn.net
 z-m-scontent.fpku1-2.fna.fbcdn.net
+z-m-scontent.fpku1-3.fna.fbcdn.net
 z-m-scontent-frt.xx.fbcdn.net
 z-m-scontent-gru.xx.fbcdn.net
 z-m-scontent-hkg.xx.fbcdn.net

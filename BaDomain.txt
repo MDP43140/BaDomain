@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 25.05.2022
+# Version: 02.06.2022
 # Update: 1 days
 #
 
@@ -46,6 +46,7 @@
 49-courier.push.apple.com
 4cinsights.com
 4mads.com
+5140.deeginews.com
 51.appmeasurements.com
 52.appmeasurements.com
 531840-android-ds.metric.gstatic.com
@@ -257,6 +258,9 @@ anchor.fm
 androidads4-7.adcolony.com
 android-appboot.netflix.com
 android.bignox.com
+android-dcdn.pa1mstore.com
+android-dcdn.palmplaystore.com
+android-dcdn.palmst0re.com
 androiden.duapp.com
 android.pa1mstore.com
 android.palmplaystore.com
@@ -320,6 +324,7 @@ api-id.store.heytapmobi.com
 api-id.theme.heytapmobile.com
 api.igofun.mobi
 api.input.intl.miui.com
+api.instabridge.com
 api.intellimize.co
 api.ipify.org
 api.isharingapp.com
@@ -362,6 +367,7 @@ api.snake.oppomobile.com
 api.snapkit.com
 api.sportskeeda.com
 apissug-sf.ucweb.com
+api-stream.twitter.com
 api.teslacoilapps.com
 api.themoviedb.org
 apitm.toolmatrix.plus
@@ -374,6 +380,7 @@ api.weathercn.com
 api.wifimap.io
 api.wlvpn.com
 api.wondershare.com
+api.wt14yf.com
 api.xintaicz.cn
 api.zhuti.intl.xiaomi.com
 apkeditorfree.com
@@ -393,6 +400,7 @@ appconf-sgp.heytapdl.com
 app.cove.chat
 app.driftt.com
 app.hubspot.com
+apph.wpsmail.net
 appia.com
 appjustable.com
 apple-finance.query.yahoo.com
@@ -464,6 +472,7 @@ asia-st-romsp.vivoglobal.com
 asia-st-sl.vivoglobal.com
 asia-st-sysupgrade.vivoglobal.com
 asia-sysupgrade-api.vivoglobal.com
+asia-third-appstore.vivoglobal.com
 asia-timesync.vivoglobal.com
 asia-upload-appstore.vivoglobal.com
 asia-vcode-api.vivoglobal.com
@@ -508,6 +517,7 @@ a.wattpad.com
 aws.api.snapchat.com
 aws.duplex.snapchat.com
 aws-proxy-gcp.api.snapchat.com
+aws-static.snackvideo.in
 axiata-lk-43c53a330e9-he.fortumo.io
 ay-quiz.tk
 azureedge.net
@@ -581,6 +591,7 @@ boltdns.net
 bolt-gcdn.sc-cdn.net
 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 bombora.com
+bosbosupdate.com
 box5757.temp.domains
 brainly.app.link
 braintreegateway.com
@@ -588,6 +599,7 @@ branch.io
 brand-display.com
 brightcove.net
 britepool.com
+broadcast.biliintl.com
 browser-i-gl.heytapmobile.com
 brs.api.intl.miui.com
 b.sogou.com
@@ -755,8 +767,10 @@ confection.io
 confection-status.netlify.app
 config.edge.skype.com
 config.e-droid.net
+config.toolmatrix.plus
 config.unityads.unity3d.com
 configuration.ls.apple.com
+configv2.unityads.unity3d.com
 config.y5en.com
 confirmation.gameloft.com
 conf-sg-dc.heytapdl.com
@@ -767,6 +781,8 @@ connectivitycheck.cbg-app.huawei.com
 connect-milink.g.mi.com
 connect.rom.miui.com
 connect.tapjoy.com
+conn-service-us-04.allawnos.com
+conn-service-us-05.allawnos.com
 consensu.org
 constellix.com
 content-fgw.zepeto.io
@@ -886,6 +902,7 @@ dcmdae.y5en.com
 dc.y5en.com
 deal24.lv
 de.bignox.com
+degoo-instabridge.adsbynimbus.com
 delivery.contextads.live
 demandbase.com
 demand.supply
@@ -1069,6 +1086,7 @@ feed-test.bignox.com
 feelingtouch.helpshift.com
 fennec-catalog-cdn.prod.mozaws.net
 fg8vvsvnieiv3ej16jby.litix.io
+file.market.xiaomi.com
 filesusr.com
 filmmogzivota.rs
 find.api.micloud.xiaomi.net
@@ -1135,6 +1153,7 @@ games.shopee.co.id
 gametool10.ml
 g-api.ekatox.com
 g-api.kwai.com
+g-api.kwai-pro.com
 g-api.kwaipros.com
 garagewestrotterdam.nl
 gate.hockeyapp.net
@@ -1162,6 +1181,7 @@ getsitecontrol.com
 g.ezoic.net
 gfp.veta.naver.com
 gfycat.com
+g.galleryapi.micloud.xiaomi.net
 gift.bignox.com
 gitkraken.com
 glamour.com
@@ -1246,10 +1266,12 @@ gtimg.cn
 gtimg.com
 gtq6.sct.sc-prod.net
 guid.tpns.hk.tencent.com
+guid.tpns.sgp.tencent.com
 gumgum.com
 gumroad.com
 gw-dana.ebuckler.com
 gw-napi.zepeto.io
+gw.ruangguru.com
 gws.line.naver.jp
 gwwdhkwtswtjc
 g-zgroup.pstatic.net
@@ -1335,6 +1357,7 @@ hybrid.miniapp.taobao.com
 hyperxgaming.website
 i18n-api.faceueditor.com
 i18n-feed-api.faceueditor.com
+i18n-gcp-everphoto.faceueditor.com
 i18n.mvconf.50union.com
 i18n-passport-api.faceueditor.com
 i59400f.xyz
@@ -1389,6 +1412,7 @@ iflowf.browser.oppomobile.com
 iflowf-sg.browser.oppomobile.com
 iflow-sg.browser.heytapmobile.com
 ifota.coloros.com
+ifota.realmemobile.com
 ifrus.coloros.com
 ifsau.coloros.com
 if-sg.browser.oppomobile.com
@@ -1412,6 +1436,8 @@ image.winudf.com
 imdb.com
 img.alicdn.com
 imgcache.joox.com
+imgcdn.ymstatic.com
+img.feednews.com
 img-hw.xnxx-cdn.com
 img-hw.xvideos-cdn.com
 img-intl-push.heytapimg.com
@@ -1453,7 +1479,9 @@ init.push-apple.com.akadns.net
 init.supersonicads.com
 init.y5en.com
 injapp.com
+inneractive-assets.s3-eu-west-1.amazonaws.com
 innity.net
+innovads-server.poster.appsinnova.com
 innovid.com
 inpagepush.com
 ins.hastopic.com
@@ -1562,6 +1590,7 @@ kompasads.com
 kr.bignox.com
 krisp.ai
 krxd.net
+k-ulog.kwaipros.com
 kustens.com
 kwai.com
 kwai.net
@@ -1590,6 +1619,8 @@ lcdn-locator-usms11.apple.com.akadns.net
 leawo.org
 lencr.org
 letsgoconvert.com
+lf16-geckocdn.bytegecko-i18n.com
+lf19-geckocdn.bytegecko-i18n.com
 liadm.com
 libra-sg.resso.app
 licdn.com
@@ -1635,6 +1666,7 @@ logos.kiwibrowser.com
 logs.im-gb.com
 logs.papertrailapp.com
 log.tpns.hk.tencent.com
+log.tpns.sgp.tencent.com
 loki.wattpad.com
 loli.net
 loptelink.pro
@@ -1717,6 +1749,7 @@ miit.gov.cn
 m.imdb.com
 minecrafttweaker.net
 mingyi.sogou.com
+mini5.opera-mini.net
 mini.fbunion.com
 minonav.com
 minoplay.com
@@ -1760,6 +1793,7 @@ motogp.api.weplay.media
 mozaws.net
 mozgcp.net
 mp.toutiao.com
+ms4.applovin.com
 ms.bignox.com
 msdk.shopee.co.id
 msearchcdn.kugou.com
@@ -1819,6 +1853,7 @@ newrelic.com
 newsaggreg.shalltry.com
 news.bignox.com
 newscloud.or.kr
+newsfeed.api.intl.miui.com
 news.hastopic.com
 newsmag.danielolayinkas.com
 newsmaticaapp.com
@@ -1856,6 +1891,7 @@ nurd.com
 nxtck.com
 o13824.ingest.sentry.io
 o209266.ingest.sentry.io
+o937343.ingest.sentry.io
 o.alicdn.com
 obus-dc20123-sg.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
@@ -1891,9 +1927,11 @@ openlog.tap.io
 open-vip.bmob.cn
 openwifi.ucweb.com
 openx.net
+opex-service-sg.allawnos.com
 oppo-oem.avira-update.com
 opswat.info
 optad360.io
+optimizationguide-pa.googleapis.com
 orangeclickmedia.com
 orange-dc.lazada.com
 orxhacks.com
@@ -2127,6 +2165,7 @@ res12.bignox.com
 res1.applovin.com
 res.bignox.com
 res.cloudinary.com
+res.feednews.com
 res-global-sg-master.sausage.xd.com
 res-global-sg-slave.sausage.xd.com
 res.noxmobi.com
@@ -2161,6 +2200,7 @@ robwu.nl
 robyoc.online
 romanhackers.com
 rosenberg.appmetrica.yandex.net
+router.miwifi.com
 rpc.tapjoy.com
 rpe.xdplt.com
 r.playerio.com
@@ -2186,6 +2226,7 @@ rt.applovin.com
 rtc.youme.im
 rt.foldlife.net
 rtlog.resso.app
+ruangguruhelp.zendesk.com
 rubiconproject.com
 ru.bignox.com
 ruciplbrxwjscyhtapvlfskoqqgnxevw.name
@@ -2212,6 +2253,7 @@ sas-autos.com
 saserver.search.oppomobile.com
 satismeter.com
 sausage-global-cdn.sausage.xd.com
+sau-server-sg.allawnos.com
 saya.ucweb.com
 sc386.com
 scaleway.testdebit.info
@@ -2234,6 +2276,7 @@ search-api.fie.futurecdn.net
 search.eportalmobile.com
 searchiq.co
 search.kuwo.cn
+searchlite-pa.googleapis.com
 search-operate.cdn.bcebos.com
 search.ws.pho.to
 secret20.com
@@ -2337,6 +2380,7 @@ sonobi.com
 sonora.id
 source.servicewebly.com
 sp-497f6f2f.honzik.avcdn.net
+sp-607ddbd2.honzik.avcdn.net
 space.toutiao.com
 spanishcoursesunamuno.com
 spatial.fineboost.com
@@ -2358,6 +2402,7 @@ srv-si-photo-upload.z-dn.net
 ssacdn.com
 ssl-images-amazon.com
 ss.litatom.com
+sso.y5en.com
 ssp-39f58.trnox.com
 ssp-3-9f58.trnox.com
 sspapi-prd.samsungrs.com
@@ -2473,6 +2518,7 @@ tenor.co
 tenor.com
 tenor.googleapis.com
 tentaculos.net
+terabox.com
 teslacoilapps.com
 testapi.amap.com
 test.bignox.com
@@ -2522,6 +2568,7 @@ toutiao.com
 tpai.caping.co.id
 t.pubmatic.com
 track.analytics.rocks
+tracker.ruangguru.com
 trackersimulator.org
 tracking.apptrackerlink.com
 tracking.trnox.com
@@ -2570,12 +2617,15 @@ ua-passport.space
 uapi.afo2o.com
 uat5-b.investingchannel.com
 ubembed.com
+uc-1.telemetry.eyeo.com
+uc-8.telemetry.eyeo.com
 uc.cn
 ucweb.com
 udp-dispatch.ucweb.com
 ugo.com
 u-id.browser.oppomobile.com
 u-id.cpc.heytapmobile.com
+ui.ff.avast.com
 u-in.cpc.heytapmobile.com
 uksouth.cloudapp.azure.com
 u.like-it.video
@@ -2594,6 +2644,7 @@ u.nu
 upapi.net
 update.aida64.com
 updateapis.kiwibrowser.com
+update.bosbosupdate.com
 update.bosbosupdate.net
 update.estrongs.com
 update.intl.miui.com
@@ -2651,6 +2702,7 @@ video-g.usicdn.com
 video-l.usicdn.com
 videoplayerhub.com
 videos.sc-cdn.net
+video.twimg.com
 vidyard.com
 viglink.com
 viki.com
@@ -2689,6 +2741,7 @@ vskit.tv
 v.sogou.com
 vthird-log.vskit.tv
 vuclipi-a.akamaihd.net
+vulcan5.branch.io
 vum.fyi
 vum.ngo
 vun.fyi
@@ -2856,6 +2909,7 @@ www.swiftypecdn.com
 www.taobao.com
 www.tap.io
 www.technologyadvice.com
+www.terabox.com
 www.thrifter.com
 www.tiqcdn.com
 www.toutiao.com

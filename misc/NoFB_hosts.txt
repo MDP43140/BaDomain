@@ -672,6 +672,7 @@
 127.0.0.1 edge-sonar-shv-17-prn1.fbcdn.net
 127.0.0.1 edge-sonar-shv-18-prn1.fbcdn.net
 127.0.0.1 edge-star-shv-12-frc3.facebook.com
+127.0.0.1 edge-stun.facebook.com
 127.0.0.1 edge-video-shv-01-ams2.fbcdn.net
 127.0.0.1 edge-video-shv-01-ams3.fbcdn.net
 127.0.0.1 edge-video-shv-01-arn2.fbcdn.net
@@ -1169,7 +1170,10 @@
 127.0.0.1 scontent.fcgk24-2.fna.fbcdn.net
 127.0.0.1 scontent.fcgk3-2.fna.fbcdn.net
 127.0.0.1 scontent.fcgk35-1.fna.fbcdn.net
+127.0.0.1 scontent.fcgk4-2.fna.fbcdn.net
 127.0.0.1 scontent.fcgk4-4.fna.fbcdn.net
+127.0.0.1 scontent.fcgk4-5.fna.fbcdn.net
+127.0.0.1 scontent.fcgk4-6.fna.fbcdn.net
 127.0.0.1 scontent.fcha1-1.fna.fbcdn.net
 127.0.0.1 scontent.fcia1-1.fna.fbcdn.net
 127.0.0.1 scontent.fcmb1-1.fna.fbcdn.net
@@ -1729,6 +1733,7 @@
 127.0.0.1 z-m-scontent.fmex10-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fpku1-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fpku1-2.fna.fbcdn.net
+127.0.0.1 z-m-scontent.fpku1-3.fna.fbcdn.net
 127.0.0.1 z-m-scontent-frt.xx.fbcdn.net
 127.0.0.1 z-m-scontent-gru.xx.fbcdn.net
 127.0.0.1 z-m-scontent-hkg.xx.fbcdn.net
