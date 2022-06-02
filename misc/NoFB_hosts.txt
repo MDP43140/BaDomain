@@ -799,6 +799,7 @@
 127.0.0.1 fr.facebook.com
 127.0.0.1 fr-fr.facebook.com
 127.0.0.1 gateway.facebook.com
+127.0.0.1 gateway.instagram.com
 127.0.0.1 generalelectric.m.facebook.com
 127.0.0.1 gingerhotels.m.facebook.com
 127.0.0.1 gob.m.facebook.com
@@ -953,6 +954,7 @@
 127.0.0.1 microsoft.m.facebook.com
 127.0.0.1 mietra-de.m.facebook.com
 127.0.0.1 miroglio.m.facebook.com
+127.0.0.1 mmg-fallback.whatsapp.net
 127.0.0.1 mm.m.facebook.com
 127.0.0.1 mobile.beta.facebook.com
 127.0.0.1 mobile.facebook.com
@@ -1255,6 +1257,7 @@
 127.0.0.1 scontent.fpku1-1.fna.fbcdn.net
 127.0.0.1 scontent.fpku1-2.fna.fbcdn.net
 127.0.0.1 scontent.fpku1-3.fna.fbcdn.net
+127.0.0.1 scontent.fpku2-1.fna.fbcdn.net
 127.0.0.1 scontent.fpku3-1.fna.fbcdn.net
 127.0.0.1 scontent.fpku3-2.fna.fbcdn.net
 127.0.0.1 scontent.fplu10-1.fna.fbcdn.net

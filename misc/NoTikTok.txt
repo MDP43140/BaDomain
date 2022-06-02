@@ -2528,6 +2528,7 @@ search16-normal-c-useast1a.tiktokv.com.edgekey.net
 search16-normal-c-useast2a.tiktokv.com
 search16-normal-c-useast2a.tiktokv.com.edgekey.net
 search21-normal-c-alisg.tiktokv.com
+search22-normal-c-alisg.tiktokv.com
 search22-normal-c-useast1a.tiktokv.com
 search.amemv.com
 search.amemv.com.w.cdngslb.com

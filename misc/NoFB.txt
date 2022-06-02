@@ -798,6 +798,7 @@ free.facebook.com
 fr.facebook.com
 fr-fr.facebook.com
 gateway.facebook.com
+gateway.instagram.com
 generalelectric.m.facebook.com
 gingerhotels.m.facebook.com
 gob.m.facebook.com
@@ -952,6 +953,7 @@ mia1.fbcdn.net
 microsoft.m.facebook.com
 mietra-de.m.facebook.com
 miroglio.m.facebook.com
+mmg-fallback.whatsapp.net
 mm.m.facebook.com
 mobile.beta.facebook.com
 mobile.facebook.com
@@ -1254,6 +1256,7 @@ scontent.fphl2-2.fna.fbcdn.net
 scontent.fpku1-1.fna.fbcdn.net
 scontent.fpku1-2.fna.fbcdn.net
 scontent.fpku1-3.fna.fbcdn.net
+scontent.fpku2-1.fna.fbcdn.net
 scontent.fpku3-1.fna.fbcdn.net
 scontent.fpku3-2.fna.fbcdn.net
 scontent.fplu10-1.fna.fbcdn.net
