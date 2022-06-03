@@ -1,10 +1,11 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.06.2022
+# Version: 04.06.2022
 # Update: 1 days
 #
 
+pan-el.com
 0kczn7.l0fwny.com
 0.news20.biz
 0.ygti905ffth6.com
@@ -323,6 +324,7 @@ api-gl.store.heytapmobi.com
 api-gl.theme.heytapmobile.com
 api.gotube.pro
 api.gras.samsungdm.com
+api.gw.airpay.co.id
 apigw-pre.shalltry.com
 api.hisavana.com
 api-id.cdo.heytapmobile.com
@@ -707,6 +709,7 @@ cds.d6b8y6w3.hwcdn.net
 cd.xdplt.com
 cengine.contextads.live
 centre.baby
+centurygames.com
 cfg.oneboost.me
 cfg.ws.pho.to
 cf.iadsdk.apple.com
@@ -762,6 +765,7 @@ cloudi-sg.browser.oppomobile.com
 cloudops.mozgcp.net
 cloud.tencent.com
 cloud.typography.com
+cloud.wpscdn.com
 cmh01.justin.tv
 cname.vercel-dns.com
 cn.bignox.com
@@ -1138,6 +1142,7 @@ fortumo.io
 fouanalytics.com
 fout.jp
 foxpush.net
+fpcs-prod-wf.centurygames.com
 fpstool.com
 f.push.oppomobile.com
 franchise.minecraft-services.net
@@ -1157,6 +1162,7 @@ fs1.hubspotusercontent-na1.net
 fsdn.com
 ftblltrck.com
 ftp.lysator.liu.se
+fukada-jpp.monster
 funbe.rjifxuqoo
 funnymuvie.online
 funny.pho.to
@@ -1526,6 +1532,7 @@ in.sv
 intellimize.co
 intellitxt.com
 internetpositif.uzone.id
+in-third-appstore.vivoglobal.com
 intlapi.cdo.oppomobile.com
 intl.iqiyi.com
 intuitcdn.net
@@ -2007,6 +2014,7 @@ pageonenewsapp.com
 page.portals.mobi
 pages.lazada.co.id
 palmplaystore.com
+pamelarioss.uno
 pancake.apple.com
 pangle-b.io
 pangle.io
@@ -2161,6 +2169,7 @@ quantcount.com
 quantserve.com
 quantummetric.com
 quickbooks.intuit.com
+quinzaa.monster
 quiztest.me
 r2b2.io
 r3.i.lencr.org
@@ -2293,6 +2302,8 @@ samsung-callerprofile.edge.hiyaapi.com
 samsung-gamelauncher.com
 sapi.taptap.com
 sas-autos.com
+ww25.sas-autos.com
+www.sas-autos.com
 saserver.search.oppomobile.com
 satismeter.com
 sausage-global-cdn.sausage.xd.com
@@ -2345,6 +2356,7 @@ serving-sys.com
 settings.kiwibrowser.com
 settings.picsart.com
 sex69.uno
+sexopornoo.uno
 sexoporno.uno
 sexposition.uno
 sexxdating.site
@@ -2462,6 +2474,7 @@ startup.mobile.webvisor.com
 startup.mobile.yandex.net
 static-02.veve.com
 static0.cbrimages.com
+static.addtoany.com
 static.ads-twitter.com
 static.ahagamecenter.com
 static-cms.aa-cdn.net
@@ -2857,6 +2870,7 @@ wns.kg.qq.com
 wnskg.qq.com
 wondershare.cc
 wootric.com
+wpscdn.com
 wsapi.master.live
 ws.flv.nimo.tv
 ws.hls.nimo.tv
@@ -2876,6 +2890,7 @@ www6.exonhack.com
 www76.nathanaeldan.pro
 www.acckwmhi.com
 www.adapex.io
+www.addtoany.com
 www.adlook.me
 www.agencymrbeast.com
 www.apkeditorfree.com
@@ -2887,6 +2902,7 @@ www.baidu.com
 www.beacons.ai
 www.bignox.com
 www.cdn.viber.com
+www.centurygames.com
 www.cipro.ms
 www.ckg.hk
 www.ckmvkzurnd.com

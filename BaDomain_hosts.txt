@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.06.2022
+# Version: 04.06.2022
 # Update: 1 days
 #
 
@@ -323,6 +323,7 @@
 127.0.0.1 api-gl.theme.heytapmobile.com
 127.0.0.1 api.gotube.pro
 127.0.0.1 api.gras.samsungdm.com
+127.0.0.1 api.gw.airpay.co.id
 127.0.0.1 apigw-pre.shalltry.com
 127.0.0.1 api.hisavana.com
 127.0.0.1 api-id.cdo.heytapmobile.com
@@ -707,6 +708,7 @@
 127.0.0.1 cd.xdplt.com
 127.0.0.1 cengine.contextads.live
 127.0.0.1 centre.baby
+127.0.0.1 centurygames.com
 127.0.0.1 cfg.oneboost.me
 127.0.0.1 cfg.ws.pho.to
 127.0.0.1 cf.iadsdk.apple.com
@@ -762,6 +764,7 @@
 127.0.0.1 cloudops.mozgcp.net
 127.0.0.1 cloud.tencent.com
 127.0.0.1 cloud.typography.com
+127.0.0.1 cloud.wpscdn.com
 127.0.0.1 cmh01.justin.tv
 127.0.0.1 cname.vercel-dns.com
 127.0.0.1 cn.bignox.com
@@ -1138,6 +1141,7 @@
 127.0.0.1 fouanalytics.com
 127.0.0.1 fout.jp
 127.0.0.1 foxpush.net
+127.0.0.1 fpcs-prod-wf.centurygames.com
 127.0.0.1 fpstool.com
 127.0.0.1 f.push.oppomobile.com
 127.0.0.1 franchise.minecraft-services.net
@@ -1157,6 +1161,7 @@
 127.0.0.1 fsdn.com
 127.0.0.1 ftblltrck.com
 127.0.0.1 ftp.lysator.liu.se
+127.0.0.1 fukada-jpp.monster
 127.0.0.1 funbe.rjifxuqoo
 127.0.0.1 funnymuvie.online
 127.0.0.1 funny.pho.to
@@ -1526,6 +1531,7 @@
 127.0.0.1 intellimize.co
 127.0.0.1 intellitxt.com
 127.0.0.1 internetpositif.uzone.id
+127.0.0.1 in-third-appstore.vivoglobal.com
 127.0.0.1 intlapi.cdo.oppomobile.com
 127.0.0.1 intl.iqiyi.com
 127.0.0.1 intuitcdn.net
@@ -2007,6 +2013,7 @@
 127.0.0.1 page.portals.mobi
 127.0.0.1 pages.lazada.co.id
 127.0.0.1 palmplaystore.com
+127.0.0.1 pamelarioss.uno
 127.0.0.1 pancake.apple.com
 127.0.0.1 pangle-b.io
 127.0.0.1 pangle.io
@@ -2161,6 +2168,7 @@
 127.0.0.1 quantserve.com
 127.0.0.1 quantummetric.com
 127.0.0.1 quickbooks.intuit.com
+127.0.0.1 quinzaa.monster
 127.0.0.1 quiztest.me
 127.0.0.1 r2b2.io
 127.0.0.1 r3.i.lencr.org
@@ -2345,6 +2353,7 @@
 127.0.0.1 settings.kiwibrowser.com
 127.0.0.1 settings.picsart.com
 127.0.0.1 sex69.uno
+127.0.0.1 sexopornoo.uno
 127.0.0.1 sexoporno.uno
 127.0.0.1 sexposition.uno
 127.0.0.1 sexxdating.site
@@ -2462,6 +2471,7 @@
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 static-02.veve.com
 127.0.0.1 static0.cbrimages.com
+127.0.0.1 static.addtoany.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.ahagamecenter.com
 127.0.0.1 static-cms.aa-cdn.net
@@ -2857,6 +2867,7 @@
 127.0.0.1 wnskg.qq.com
 127.0.0.1 wondershare.cc
 127.0.0.1 wootric.com
+127.0.0.1 wpscdn.com
 127.0.0.1 wsapi.master.live
 127.0.0.1 ws.flv.nimo.tv
 127.0.0.1 ws.hls.nimo.tv
@@ -2876,6 +2887,7 @@
 127.0.0.1 www76.nathanaeldan.pro
 127.0.0.1 www.acckwmhi.com
 127.0.0.1 www.adapex.io
+127.0.0.1 www.addtoany.com
 127.0.0.1 www.adlook.me
 127.0.0.1 www.agencymrbeast.com
 127.0.0.1 www.apkeditorfree.com
@@ -2887,6 +2899,7 @@
 127.0.0.1 www.beacons.ai
 127.0.0.1 www.bignox.com
 127.0.0.1 www.cdn.viber.com
+127.0.0.1 www.centurygames.com
 127.0.0.1 www.cipro.ms
 127.0.0.1 www.ckg.hk
 127.0.0.1 www.ckmvkzurnd.com
