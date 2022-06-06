@@ -985,6 +985,7 @@ gms-ns.byteoversea.com
 gplog-sg.byteoversea.com
 gplog.snssdk.com
 gplog-va.byteoversea.com
+gppg-sg.byteintl.com
 grafana-boe.byted.org
 grelationship-sg.snssdk.com
 gsdk.sgsnssdk.com
@@ -1583,6 +1584,7 @@ mr-lq.snssdk.com
 mr.snssdk.com
 mssdk16-normal-alisg.tiktokv.com
 mssdk22-normal-alisg.tiktokv.com
+mssdk-sg-bu.byteoversea.com
 mssdk-sg.byteoversea.com
 mssdk-sg.tiktokv.com
 mssdk.snssdk.com

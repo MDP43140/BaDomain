@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 04.06.2022
+# Version: 06.06.2022
 # Update: 1 days
 #
 
@@ -61,6 +61,7 @@
 127.0.0.1 55.appmeasurements.com
 127.0.0.1 55bie1v.50zo.com
 127.0.0.1 5hjdbfjfd5.monster
+127.0.0.1 5yme8j.xxobs5.com
 127.0.0.1 64a9.playfabapi.com
 127.0.0.1 756964-android-ds.metric.gstatic.com
 127.0.0.1 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
@@ -235,8 +236,12 @@
 127.0.0.1 alexmods.com
 127.0.0.1 al.flv.nimo.tv
 127.0.0.1 al.hls.nimo.tv
+127.0.0.1 ali2-sgp-cdn.snackvideo.in
 127.0.0.1 aliapp.org
 127.0.0.1 alightcreative.com
+127.0.0.1 ali-sgp-cdn.snackvideo.in
+127.0.0.1 ali-sgp-origin-pull.snackvideo.in
+127.0.0.1 ali-sgp-pull.snackvideo.in
 127.0.0.1 alitup.bangcdn.net
 127.0.0.1 alive.vskit.tv
 127.0.0.1 aliyuncs.com
@@ -326,6 +331,7 @@
 127.0.0.1 api.gw.airpay.co.id
 127.0.0.1 apigw-pre.shalltry.com
 127.0.0.1 api.hisavana.com
+127.0.0.1 api.hotstar.com
 127.0.0.1 api-id.cdo.heytapmobile.com
 127.0.0.1 api-id.game.heytapmobi.com
 127.0.0.1 api-id.play.heytapmobile.com
@@ -350,6 +356,7 @@
 127.0.0.1 api.mobilesearchers.com
 127.0.0.1 api.mobula.sdk.duapps.com
 127.0.0.1 api.muc.intl.miui.com
+127.0.0.1 api.mythad.com
 127.0.0.1 api-new.bignox.com
 127.0.0.1 api-notice.kinemasters.com
 127.0.0.1 api.noxinfluencer.com
@@ -368,6 +375,7 @@
 127.0.0.1 api.resso.app
 127.0.0.1 api.revenuecat.com
 127.0.0.1 api-sdk.datadome.co
+127.0.0.1 api.segment.io
 127.0.0.1 api.shareitgames.com
 127.0.0.1 api.shopee.co.id
 127.0.0.1 api.smoot.apple.com
@@ -530,9 +538,11 @@
 127.0.0.1 avcdn.net
 127.0.0.1 avlyun.com
 127.0.0.1 a.wattpad.com
+127.0.0.1 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 127.0.0.1 aws.api.snapchat.com
 127.0.0.1 aws.duplex.snapchat.com
 127.0.0.1 aws-proxy-gcp.api.snapchat.com
+127.0.0.1 aws-sgp-cdn.snackvideo.in
 127.0.0.1 aws-static.snackvideo.in
 127.0.0.1 axiata-lk-43c53a330e9-he.fortumo.io
 127.0.0.1 ay-quiz.tk
@@ -698,6 +708,8 @@
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdn.shalltry.com
 127.0.0.1 cdn.slidesharecdn.com
+127.0.0.1 cdn-static.ap4r.com
+127.0.0.1 cdn-static.kwai.net
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
 127.0.0.1 cdn.viber.com
 127.0.0.1 cdn.weglot.com
@@ -812,6 +824,7 @@
 127.0.0.1 constellix.com
 127.0.0.1 content-fgw.zepeto.io
 127.0.0.1 contentful.com
+127.0.0.1 content.webengage.com
 127.0.0.1 contextads.live
 127.0.0.1 contextweb.com
 127.0.0.1 convertexperiments.com
@@ -860,6 +873,7 @@
 127.0.0.1 cuminside.uno
 127.0.0.1 cutegirl.my.id
 127.0.0.1 cuttlela.ucweb.com
+127.0.0.1 c.webengage.com
 127.0.0.1 cxomedia.id
 127.0.0.1 c.y5en.com
 127.0.0.1 cy-api.tysondata.com
@@ -1171,6 +1185,8 @@
 127.0.0.1 fuwu.sogou.com
 127.0.0.1 fwmrm.net
 127.0.0.1 fyber-static.com
+127.0.0.1 g2.com
+127.0.0.1 g2crowd.com
 127.0.0.1 g.alicdn.com
 127.0.0.1 galleryjs.io
 127.0.0.1 gamea.clashofclans.com
@@ -1198,9 +1214,11 @@
 127.0.0.1 gcs.sc-cdn.net
 127.0.0.1 gcsu.ucweb.com
 127.0.0.1 gdanstum.net
+127.0.0.1 gdfp.kwai-pro.com
 127.0.0.1 geclose2eu.info
 127.0.0.1 g.ekatox.com
 127.0.0.1 geoip-db.com
+127.0.0.1 geoip.hotstar.com
 127.0.0.1 geojs.io
 127.0.0.1 geolocation-db.com
 127.0.0.1 geowf.ge
@@ -1214,6 +1232,7 @@
 127.0.0.1 gfp.veta.naver.com
 127.0.0.1 gfycat.com
 127.0.0.1 g.galleryapi.micloud.xiaomi.net
+127.0.0.1 g-gdfp.uvfuns.com
 127.0.0.1 gift.bignox.com
 127.0.0.1 gitkraken.com
 127.0.0.1 glamour.com
@@ -1236,6 +1255,7 @@
 127.0.0.1 global.rakuten.com
 127.0.0.1 global-rank-sg.sausage.xd.com
 127.0.0.1 global-tokenserver-la.headline.uodoo.com
+127.0.0.1 g-logsdk.snackvideo.com
 127.0.0.1 gmnovietnam.vn
 127.0.0.1 go2cloud.org
 127.0.0.1 go2speed.org
@@ -1309,6 +1329,7 @@
 127.0.0.1 gws.line.naver.jp
 127.0.0.1 gwwdhkwtswtjc
 127.0.0.1 g-zgroup.pstatic.net
+127.0.0.1 g-zt.uvfuns.com
 127.0.0.1 h5.y5en.com
 127.0.0.1 hack4me.is
 127.0.0.1 hammergamer.com
@@ -1461,6 +1482,7 @@
 127.0.0.1 ilockcardf.apps.coloros.com
 127.0.0.1 ilovexclub.com
 127.0.0.1 ilovexclub.net
+127.0.0.1 ilyon.net
 127.0.0.1 image.bignox.com
 127.0.0.1 images.anime-pictures.net
 127.0.0.1 images.ctfassets.net
@@ -1506,6 +1528,7 @@
 127.0.0.1 influencer.yeshen.com
 127.0.0.1 info.3g.qq.com
 127.0.0.1 info.bignox.com
+127.0.0.1 in-gaap.snackvideo.in
 127.0.0.1 ingest.sentry.io
 127.0.0.1 init-cdn.itunes-apple.com.akadns.net
 127.0.0.1 init.gc.apple.com
@@ -1604,6 +1627,8 @@
 127.0.0.1 jwplayer.com
 127.0.0.1 kagaitiktok.net
 127.0.0.1 kantora.ge
+127.0.0.1 k-api.kwai-pro.com
+127.0.0.1 k-api.kwaipros.com
 127.0.0.1 kargo.com
 127.0.0.1 kayumanis.detik.com
 127.0.0.1 keep2.xyz
@@ -1619,6 +1644,7 @@
 127.0.0.1 kiwiirc.com
 127.0.0.1 klaviyo.com
 127.0.0.1 klimg.com
+127.0.0.1 klink.snackvideo.com
 127.0.0.1 kl-youniverse.com
 127.0.0.1 knorex.com
 127.0.0.1 kol.yeshen.com
@@ -1627,6 +1653,10 @@
 127.0.0.1 kr.bignox.com
 127.0.0.1 krisp.ai
 127.0.0.1 krxd.net
+127.0.0.1 ks-sgp-cdn.snackvideo.in
+127.0.0.1 ks-sgp-origin-pull.snackvideo.in
+127.0.0.1 kuaishou.com
+127.0.0.1 k-ulog.kwai-pro.com
 127.0.0.1 k-ulog.kwaipros.com
 127.0.0.1 kustens.com
 127.0.0.1 kwai.com
@@ -1658,6 +1688,7 @@
 127.0.0.1 letsgoconvert.com
 127.0.0.1 lf16-geckocdn.bytegecko-i18n.com
 127.0.0.1 lf19-geckocdn.bytegecko-i18n.com
+127.0.0.1 l.gotube.pro
 127.0.0.1 liadm.com
 127.0.0.1 libra-sg.resso.app
 127.0.0.1 licdn.com
@@ -1716,6 +1747,7 @@
 127.0.0.1 lustre.ai
 127.0.0.1 m1e.net
 127.0.0.1 m2.ai
+127.0.0.1 mabbox.bytel.fr
 127.0.0.1 magazine-api-gl.heytapmobile.com
 127.0.0.1 magzine.transacme.com
 127.0.0.1 mail.aparthotelmx.ge
@@ -1880,6 +1912,7 @@
 127.0.0.1 nativepu.sh
 127.0.0.1 ncaudienceexchange.com
 127.0.0.1 ndt-mlab2-sin01.mlab-oti.measurementlab.net
+127.0.0.1 nea.telkomsel.com
 127.0.0.1 nestledmph.com
 127.0.0.1 netcts.cdn-apple.com
 127.0.0.1 netdna-cdn.com
@@ -1908,6 +1941,7 @@
 127.0.0.1 nmnm.lol
 127.0.0.1 northpoleitalia.it
 127.0.0.1 notif.quizizz.com
+127.0.0.1 notix.io
 127.0.0.1 novac.gameloft.com
 127.0.0.1 now.gg
 127.0.0.1 noxagile.bceapp.com
@@ -1924,7 +1958,9 @@
 127.0.0.1 ns59.domaincontrol.com
 127.0.0.1 nsstatic.net
 127.0.0.1 ntp1.aliyun.com
+127.0.0.1 ntp1.uvfuns.com
 127.0.0.1 ntp.ntsc.ac.cn
+127.0.0.1 ntp.uvfuns.com
 127.0.0.1 ntv.io
 127.0.0.1 nude.baby-girls.id
 127.0.0.1 nude.snapgirls.today
@@ -2015,6 +2051,7 @@
 127.0.0.1 palmplaystore.com
 127.0.0.1 pamelarioss.uno
 127.0.0.1 pancake.apple.com
+127.0.0.1 pan-el.com
 127.0.0.1 pangle-b.io
 127.0.0.1 pangle.io
 127.0.0.1 pangolin16.sgsnssdk.com
@@ -2050,6 +2087,7 @@
 127.0.0.1 perf.hsforms.com
 127.0.0.1 permutive.app
 127.0.0.1 persona.franchise.minecraft-services.net
+127.0.0.1 persona.hotstar.com
 127.0.0.1 person.clearbit.com
 127.0.0.1 person-stream.clearbit.com
 127.0.0.1 pglstatp.com
@@ -2107,10 +2145,12 @@
 127.0.0.1 primis.tech
 127.0.0.1 printfriendly.com
 127.0.0.1 prismic.io
+127.0.0.1 privacy-center.org
 127.0.0.1 privacy.kiwibrowser.org
 127.0.0.1 privacy-policy.truste.com
 127.0.0.1 private-58cec5-funsegmentsapi.apiary-mock.com
 127.0.0.1 private-da8bd3-funapi6.apiary-mock.com
+127.0.0.1 private.ilyon.net
 127.0.0.1 privatematchfz.com
 127.0.0.1 pro-accounts.snapchat.com
 127.0.0.1 pro-a-seracc-cdn.im-gb.com
@@ -2320,6 +2360,7 @@
 127.0.0.1 sdk.bignox.com
 127.0.0.1 sdk-config.fyber.com
 127.0.0.1 sdk.open.inc2.igexin.com
+127.0.0.1 sdk.privacy-center.org
 127.0.0.1 sdk.pushmessage.samsung.com
 127.0.0.1 sdksp.wetvinfo.com
 127.0.0.1 sdk.vskit.tv
@@ -2333,6 +2374,8 @@
 127.0.0.1 secret20.com
 127.0.0.1 secreto.site
 127.0.0.1 securebiz.org
+127.0.0.1 securegw.paytm.in
+127.0.0.1 secure-media.hotstar.com
 127.0.0.1 securetoken.googleapis.com
 127.0.0.1 security.intuit.com
 127.0.0.1 security.noxgroup.org
@@ -2395,6 +2438,7 @@
 127.0.0.1 shouyou.bignox.com
 127.0.0.1 shreeganeshlab.co.in
 127.0.0.1 sift-creatives.s3.amazonaws.com
+127.0.0.1 simple-get.ilyon.net
 127.0.0.1 simpli.fi
 127.0.0.1 sin.a.ak.prd.aadg.trafficmanager.net
 127.0.0.1 sina.cn
@@ -2415,6 +2459,8 @@
 127.0.0.1 sm.ms
 127.0.0.1 s.mobsrvapi.com
 127.0.0.1 sms.webadv.co
+127.0.0.1 snackvideo.com
+127.0.0.1 snackvideo.in
 127.0.0.1 snapchat.com
 127.0.0.1 snapengage.com
 127.0.0.1 snapgirls.date
@@ -2482,6 +2528,7 @@
 127.0.0.1 static.messagebird.com
 127.0.0.1 static.servicewebly.com
 127.0.0.1 statics-marketingsites-eus-ms-com.akamaized.net
+127.0.0.1 static-webengage.s3.ap-southeast-1.amazonaws.com
 127.0.0.1 staticworld.net
 127.0.0.1 static.zdassets.com
 127.0.0.1 static-zepeto.pstatic.net
@@ -2628,6 +2675,8 @@
 127.0.0.1 tracker.ruangguru.com
 127.0.0.1 trackersimulator.org
 127.0.0.1 tracking.apptrackerlink.com
+127.0.0.1 tracking.g2.com
+127.0.0.1 tracking.g2crowd.com
 127.0.0.1 tracking.trnox.com
 127.0.0.1 track-mixer.ru
 127.0.0.1 trackwilly.com
@@ -2662,6 +2711,7 @@
 127.0.0.1 twilio-cms-prod.s3.amazonaws.com
 127.0.0.1 twilio.com
 127.0.0.1 twilio.org
+127.0.0.1 tx2-sgp-cdn.snackvideo.in
 127.0.0.1 tx.flv.nimo.tv
 127.0.0.1 tx.hls.nimo.tv
 127.0.0.1 ty-cdn.net
@@ -2873,6 +2923,8 @@
 127.0.0.1 ws.hls.nimo.tv
 127.0.0.1 wsimg.com
 127.0.0.1 wsod.com
+127.0.0.1 ws-sgp-origin-pull.snackvideo.in
+127.0.0.1 ws-sgp-pull.snackvideo.in
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 ws.zoominfo.com
 127.0.0.1 wuildit.com
@@ -2880,6 +2932,7 @@
 127.0.0.1 wuueqejuratzdz.com
 127.0.0.1 wvzb9b.xjwi5.com
 127.0.0.1 ww25.apkeditorfree.com
+127.0.0.1 ww25.sas-autos.com
 127.0.0.1 www.12377.cn
 127.0.0.1 www24.proservice.ge
 127.0.0.1 www.265.com
@@ -2921,6 +2974,8 @@
 127.0.0.1 www.filmmogzivota.rs
 127.0.0.1 www.focusmedica.in
 127.0.0.1 www.ftblltrck.com
+127.0.0.1 www.g2.com
+127.0.0.1 www.g2crowd.com
 127.0.0.1 www.garagewestrotterdam.nl
 127.0.0.1 www.geowf.ge
 127.0.0.1 www.glamour.com
@@ -2934,6 +2989,7 @@
 127.0.0.1 www.hopexos.vip
 127.0.0.1 www.icloud.com
 127.0.0.1 www.iconsdb.com
+127.0.0.1 www.ilyon.net
 127.0.0.1 www.intuitcdn.net
 127.0.0.1 www.intuit.com
 127.0.0.1 www.iqzgqivb.com
@@ -2965,6 +3021,7 @@
 127.0.0.1 www.quiztest.me
 127.0.0.1 www.ralijqugghwqil.com
 127.0.0.1 www.robinhand.vip
+127.0.0.1 www.sas-autos.com
 127.0.0.1 www.servicewebly.com
 127.0.0.1 www.sfdcstatic.com
 127.0.0.1 www.shareaholic.net
@@ -3000,6 +3057,7 @@
 127.0.0.1 www.vyn.fyi
 127.0.0.1 www.wajibbaca.top
 127.0.0.1 www.wattpad.com
+127.0.0.1 www.webengage.com
 127.0.0.1 www.webovernet.com
 127.0.0.1 www.website-files.com
 127.0.0.1 www.wlvpn.com

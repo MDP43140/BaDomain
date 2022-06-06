@@ -856,6 +856,12 @@
 127.0.0.1 instagram.fpku1-1.fna.fbcdn.net
 127.0.0.1 instagram.fpku1-2.fna.fbcdn.net
 127.0.0.1 instagram.fpku1-3.fna.fbcdn.net
+127.0.0.1 instagram.fpku2-1.fna.fbcdn.net
+127.0.0.1 instagram.fpku2-2.fna.fbcdn.net
+127.0.0.1 instagram.fpku2-3.fna.fbcdn.net
+127.0.0.1 instagram.fpku3-1.fna.fbcdn.net
+127.0.0.1 instagram.fpku3-2.fna.fbcdn.net
+127.0.0.1 instagram.fpku3-3.fna.fbcdn.net
 127.0.0.1 instagram-shv-01-ams2.fbcdn.net
 127.0.0.1 instagram-shv-01-ams3.fbcdn.net
 127.0.0.1 instagram-shv-01-ash5.fbcdn.net

@@ -1,11 +1,10 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 04.06.2022
+# Version: 06.06.2022
 # Update: 1 days
 #
 
-pan-el.com
 0kczn7.l0fwny.com
 0.news20.biz
 0.ygti905ffth6.com
@@ -62,6 +61,7 @@ pan-el.com
 55.appmeasurements.com
 55bie1v.50zo.com
 5hjdbfjfd5.monster
+5yme8j.xxobs5.com
 64a9.playfabapi.com
 756964-android-ds.metric.gstatic.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
@@ -236,8 +236,12 @@ alexametrics.com
 alexmods.com
 al.flv.nimo.tv
 al.hls.nimo.tv
+ali2-sgp-cdn.snackvideo.in
 aliapp.org
 alightcreative.com
+ali-sgp-cdn.snackvideo.in
+ali-sgp-origin-pull.snackvideo.in
+ali-sgp-pull.snackvideo.in
 alitup.bangcdn.net
 alive.vskit.tv
 aliyuncs.com
@@ -327,6 +331,7 @@ api.gras.samsungdm.com
 api.gw.airpay.co.id
 apigw-pre.shalltry.com
 api.hisavana.com
+api.hotstar.com
 api-id.cdo.heytapmobile.com
 api-id.game.heytapmobi.com
 api-id.play.heytapmobile.com
@@ -351,6 +356,7 @@ api.mintbrs.intl.miui.com
 api.mobilesearchers.com
 api.mobula.sdk.duapps.com
 api.muc.intl.miui.com
+api.mythad.com
 api-new.bignox.com
 api-notice.kinemasters.com
 api.noxinfluencer.com
@@ -369,6 +375,7 @@ api.qiscus.com
 api.resso.app
 api.revenuecat.com
 api-sdk.datadome.co
+api.segment.io
 api.shareitgames.com
 api.shopee.co.id
 api.smoot.apple.com
@@ -531,9 +538,11 @@ avatar.pho.to
 avcdn.net
 avlyun.com
 a.wattpad.com
+awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 aws.api.snapchat.com
 aws.duplex.snapchat.com
 aws-proxy-gcp.api.snapchat.com
+aws-sgp-cdn.snackvideo.in
 aws-static.snackvideo.in
 axiata-lk-43c53a330e9-he.fortumo.io
 ay-quiz.tk
@@ -699,6 +708,8 @@ cdn-sdk.aihelp.net
 cdn.segment.com
 cdn.shalltry.com
 cdn.slidesharecdn.com
+cdn-static.ap4r.com
+cdn-static.kwai.net
 cdn-store-icons-akamai-prd.unityads.unity3d.com
 cdn.viber.com
 cdn.weglot.com
@@ -813,6 +824,7 @@ consensu.org
 constellix.com
 content-fgw.zepeto.io
 contentful.com
+content.webengage.com
 contextads.live
 contextweb.com
 convertexperiments.com
@@ -861,6 +873,7 @@ ctfassets.net
 cuminside.uno
 cutegirl.my.id
 cuttlela.ucweb.com
+c.webengage.com
 cxomedia.id
 c.y5en.com
 cy-api.tysondata.com
@@ -1172,6 +1185,8 @@ futureplc.com
 fuwu.sogou.com
 fwmrm.net
 fyber-static.com
+g2.com
+g2crowd.com
 g.alicdn.com
 galleryjs.io
 gamea.clashofclans.com
@@ -1199,9 +1214,11 @@ gcp.api.snapchat.com
 gcs.sc-cdn.net
 gcsu.ucweb.com
 gdanstum.net
+gdfp.kwai-pro.com
 geclose2eu.info
 g.ekatox.com
 geoip-db.com
+geoip.hotstar.com
 geojs.io
 geolocation-db.com
 geowf.ge
@@ -1215,6 +1232,7 @@ g.ezoic.net
 gfp.veta.naver.com
 gfycat.com
 g.galleryapi.micloud.xiaomi.net
+g-gdfp.uvfuns.com
 gift.bignox.com
 gitkraken.com
 glamour.com
@@ -1237,6 +1255,7 @@ globalmsg.facemojikeyboard.com
 global.rakuten.com
 global-rank-sg.sausage.xd.com
 global-tokenserver-la.headline.uodoo.com
+g-logsdk.snackvideo.com
 gmnovietnam.vn
 go2cloud.org
 go2speed.org
@@ -1310,6 +1329,7 @@ gw.ruangguru.com
 gws.line.naver.jp
 gwwdhkwtswtjc
 g-zgroup.pstatic.net
+g-zt.uvfuns.com
 h5.y5en.com
 hack4me.is
 hammergamer.com
@@ -1462,6 +1482,7 @@ i.lencr.org
 ilockcardf.apps.coloros.com
 ilovexclub.com
 ilovexclub.net
+ilyon.net
 image.bignox.com
 images.anime-pictures.net
 images.ctfassets.net
@@ -1507,6 +1528,7 @@ infinitedata-pa.googleapis.com
 influencer.yeshen.com
 info.3g.qq.com
 info.bignox.com
+in-gaap.snackvideo.in
 ingest.sentry.io
 init-cdn.itunes-apple.com.akadns.net
 init.gc.apple.com
@@ -1605,6 +1627,8 @@ justin.tv
 jwplayer.com
 kagaitiktok.net
 kantora.ge
+k-api.kwai-pro.com
+k-api.kwaipros.com
 kargo.com
 kayumanis.detik.com
 keep2.xyz
@@ -1620,6 +1644,7 @@ kiwibrowser.org
 kiwiirc.com
 klaviyo.com
 klimg.com
+klink.snackvideo.com
 kl-youniverse.com
 knorex.com
 kol.yeshen.com
@@ -1628,6 +1653,10 @@ kompasads.com
 kr.bignox.com
 krisp.ai
 krxd.net
+ks-sgp-cdn.snackvideo.in
+ks-sgp-origin-pull.snackvideo.in
+kuaishou.com
+k-ulog.kwai-pro.com
 k-ulog.kwaipros.com
 kustens.com
 kwai.com
@@ -1659,6 +1688,7 @@ lencr.org
 letsgoconvert.com
 lf16-geckocdn.bytegecko-i18n.com
 lf19-geckocdn.bytegecko-i18n.com
+l.gotube.pro
 liadm.com
 libra-sg.resso.app
 licdn.com
@@ -1717,6 +1747,7 @@ lunalabs.io
 lustre.ai
 m1e.net
 m2.ai
+mabbox.bytel.fr
 magazine-api-gl.heytapmobile.com
 magzine.transacme.com
 mail.aparthotelmx.ge
@@ -1881,6 +1912,7 @@ nathanaeldan.pro
 nativepu.sh
 ncaudienceexchange.com
 ndt-mlab2-sin01.mlab-oti.measurementlab.net
+nea.telkomsel.com
 nestledmph.com
 netcts.cdn-apple.com
 netdna-cdn.com
@@ -1909,6 +1941,7 @@ nj.cschannel.anticheatexpert.com
 nmnm.lol
 northpoleitalia.it
 notif.quizizz.com
+notix.io
 novac.gameloft.com
 now.gg
 noxagile.bceapp.com
@@ -1925,7 +1958,9 @@ ns1.com
 ns59.domaincontrol.com
 nsstatic.net
 ntp1.aliyun.com
+ntp1.uvfuns.com
 ntp.ntsc.ac.cn
+ntp.uvfuns.com
 ntv.io
 nude.baby-girls.id
 nude.snapgirls.today
@@ -2016,6 +2051,7 @@ pages.lazada.co.id
 palmplaystore.com
 pamelarioss.uno
 pancake.apple.com
+pan-el.com
 pangle-b.io
 pangle.io
 pangolin16.sgsnssdk.com
@@ -2051,6 +2087,7 @@ pedulilindungi.com
 perf.hsforms.com
 permutive.app
 persona.franchise.minecraft-services.net
+persona.hotstar.com
 person.clearbit.com
 person-stream.clearbit.com
 pglstatp.com
@@ -2108,10 +2145,12 @@ p.rfihub.com
 primis.tech
 printfriendly.com
 prismic.io
+privacy-center.org
 privacy.kiwibrowser.org
 privacy-policy.truste.com
 private-58cec5-funsegmentsapi.apiary-mock.com
 private-da8bd3-funapi6.apiary-mock.com
+private.ilyon.net
 privatematchfz.com
 pro-accounts.snapchat.com
 pro-a-seracc-cdn.im-gb.com
@@ -2302,8 +2341,6 @@ samsung-callerprofile.edge.hiyaapi.com
 samsung-gamelauncher.com
 sapi.taptap.com
 sas-autos.com
-ww25.sas-autos.com
-www.sas-autos.com
 saserver.search.oppomobile.com
 satismeter.com
 sausage-global-cdn.sausage.xd.com
@@ -2323,6 +2360,7 @@ sdkapi.wifimap.io
 sdk.bignox.com
 sdk-config.fyber.com
 sdk.open.inc2.igexin.com
+sdk.privacy-center.org
 sdk.pushmessage.samsung.com
 sdksp.wetvinfo.com
 sdk.vskit.tv
@@ -2336,6 +2374,8 @@ search.ws.pho.to
 secret20.com
 secreto.site
 securebiz.org
+securegw.paytm.in
+secure-media.hotstar.com
 securetoken.googleapis.com
 security.intuit.com
 security.noxgroup.org
@@ -2398,6 +2438,7 @@ shortvideo.qiniuapi.com
 shouyou.bignox.com
 shreeganeshlab.co.in
 sift-creatives.s3.amazonaws.com
+simple-get.ilyon.net
 simpli.fi
 sin.a.ak.prd.aadg.trafficmanager.net
 sina.cn
@@ -2418,6 +2459,8 @@ sm.bdimg.com
 sm.ms
 s.mobsrvapi.com
 sms.webadv.co
+snackvideo.com
+snackvideo.in
 snapchat.com
 snapengage.com
 snapgirls.date
@@ -2485,6 +2528,7 @@ static.like-it.video
 static.messagebird.com
 static.servicewebly.com
 statics-marketingsites-eus-ms-com.akamaized.net
+static-webengage.s3.ap-southeast-1.amazonaws.com
 staticworld.net
 static.zdassets.com
 static-zepeto.pstatic.net
@@ -2631,6 +2675,8 @@ track.analytics.rocks
 tracker.ruangguru.com
 trackersimulator.org
 tracking.apptrackerlink.com
+tracking.g2.com
+tracking.g2crowd.com
 tracking.trnox.com
 track-mixer.ru
 trackwilly.com
@@ -2665,6 +2711,7 @@ twibida.com
 twilio-cms-prod.s3.amazonaws.com
 twilio.com
 twilio.org
+tx2-sgp-cdn.snackvideo.in
 tx.flv.nimo.tv
 tx.hls.nimo.tv
 ty-cdn.net
@@ -2876,6 +2923,8 @@ ws.flv.nimo.tv
 ws.hls.nimo.tv
 wsimg.com
 wsod.com
+ws-sgp-origin-pull.snackvideo.in
+ws-sgp-pull.snackvideo.in
 ws.tapjoyads.com
 ws.zoominfo.com
 wuildit.com
@@ -2883,6 +2932,7 @@ wuji.wetvinfo.com
 wuueqejuratzdz.com
 wvzb9b.xjwi5.com
 ww25.apkeditorfree.com
+ww25.sas-autos.com
 www.12377.cn
 www24.proservice.ge
 www.265.com
@@ -2924,6 +2974,8 @@ www.exonhack.com
 www.filmmogzivota.rs
 www.focusmedica.in
 www.ftblltrck.com
+www.g2.com
+www.g2crowd.com
 www.garagewestrotterdam.nl
 www.geowf.ge
 www.glamour.com
@@ -2937,6 +2989,7 @@ www.hippoobox.com
 www.hopexos.vip
 www.icloud.com
 www.iconsdb.com
+www.ilyon.net
 www.intuitcdn.net
 www.intuit.com
 www.iqzgqivb.com
@@ -2968,6 +3021,7 @@ www.qq.com
 www.quiztest.me
 www.ralijqugghwqil.com
 www.robinhand.vip
+www.sas-autos.com
 www.servicewebly.com
 www.sfdcstatic.com
 www.shareaholic.net
@@ -3003,6 +3057,7 @@ www.vur.fyi
 www.vyn.fyi
 www.wajibbaca.top
 www.wattpad.com
+www.webengage.com
 www.webovernet.com
 www.website-files.com
 www.wlvpn.com

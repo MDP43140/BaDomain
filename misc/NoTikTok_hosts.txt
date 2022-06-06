@@ -985,6 +985,7 @@
 127.0.0.1 gplog-sg.byteoversea.com
 127.0.0.1 gplog.snssdk.com
 127.0.0.1 gplog-va.byteoversea.com
+127.0.0.1 gppg-sg.byteintl.com
 127.0.0.1 grafana-boe.byted.org
 127.0.0.1 grelationship-sg.snssdk.com
 127.0.0.1 gsdk.sgsnssdk.com
@@ -1583,6 +1584,7 @@
 127.0.0.1 mr.snssdk.com
 127.0.0.1 mssdk16-normal-alisg.tiktokv.com
 127.0.0.1 mssdk22-normal-alisg.tiktokv.com
+127.0.0.1 mssdk-sg-bu.byteoversea.com
 127.0.0.1 mssdk-sg.byteoversea.com
 127.0.0.1 mssdk-sg.tiktokv.com
 127.0.0.1 mssdk.snssdk.com
