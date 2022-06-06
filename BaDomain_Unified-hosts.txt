@@ -1975,6 +1975,7 @@
 127.0.0.1 nude.younggirls.today
 127.0.0.1 nurd.com
 127.0.0.1 nxtck.com
+127.0.0.1 o1069899.ingest.sentry.io
 127.0.0.1 o13824.ingest.sentry.io
 127.0.0.1 o209266.ingest.sentry.io
 127.0.0.1 o937343.ingest.sentry.io
@@ -2126,6 +2127,7 @@
 127.0.0.1 player.bignox.com
 127.0.0.1 player.bokep234.com
 127.0.0.1 player-ivideosmart-com.cdn.ampproject.org
+127.0.0.1 players.brightcove.net
 127.0.0.1 play.wetvinfo.com
 127.0.0.1 pl.bignox.com
 127.0.0.1 plugin-server.wps.com
