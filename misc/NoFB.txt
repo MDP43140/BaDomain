@@ -837,6 +837,7 @@ instagram.c10r.instagram.com
 instagram.com
 instagram.fbdj3-1.fna.fbcdn.net
 instagram.fbth1-1.fna.fbcdn.net
+instagram.fbth2-1.fna.fbcdn.net
 instagram.fbth3-1.fna.fbcdn.net
 instagram.fcgk18-2.fna.fbcdn.net
 instagram.fcgk24-1.fna.fbcdn.net
@@ -1734,6 +1735,7 @@ z-m-scontent-bru.xx.fbcdn.net
 z-m-scontent-cai.xx.fbcdn.net
 z-m-scontent-cdg.xx.fbcdn.net
 z-m-scontent-cdt.xx.fbcdn.net
+z-m-scontent-cgk1-1.xx.fbcdn.net
 z-m-scontent-dft.xx.fbcdn.net
 z-m-scontent-eze.xx.fbcdn.net
 z-m-scontent.fceb1-1.fna.fbcdn.net

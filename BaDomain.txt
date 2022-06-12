@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.06.2022
+# Version: 13.06.2022
 # Update: 1 days
 #
 
@@ -114,6 +114,7 @@ aboutads.net
 abroad.apilocate.amap.com
 abruptlyinstitution.com
 abtesting.ai
+abubadu.com
 a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 a.c93eb87839c6be3faf4eec1c4863e043791e3b4c9c40a159812fbc6a.com
 access.line.me
@@ -188,6 +189,8 @@ adtech.de
 adtechjp.com
 adtechus.com
 adtilt.com
+adtimaserver.vn
+adtima-static.zascdn.me
 ad.toutiao.com
 advertica-cdn.com
 advertising.com
@@ -262,6 +265,7 @@ am.olx.biz.id
 amplitude.com
 analytics.163.com
 analytics.churnzero.net
+analytics.nodecraft.com
 analytics.quizizz.com
 analytics.rocks
 analytics-tcp.mintegral.net
@@ -342,6 +346,7 @@ api.input.intl.miui.com
 api.instabridge.com
 api.intellimize.co
 api.ipify.org
+api.iq.com
 api.isharingapp.com
 api.jetengine.be
 api.kika-backend.com
@@ -401,6 +406,7 @@ api.wondershare.com
 api.wt14yf.com
 api.xintaicz.cn
 api.zhuti.intl.xiaomi.com
+api.zingnews.vn
 apkeditorfree.com
 aplhabet.applinzi.com
 ap.mobhey.com
@@ -636,6 +642,7 @@ bstream.hzmklvdieo.com
 bt-cfm.io
 btloader.com
 btrace.wetvinfo.com
+bubadu.com
 bucket-img.y5en.com
 bugsnag.com
 buhatfjrk9dje10eme.com
@@ -670,10 +677,12 @@ cdn0-production-images-kly.akamaized.net
 cdn130.picsart.com
 cdn1.codashop.com
 cdn1-production-images-kly.akamaized.net
+cdn-1.tstatic.net
 cdn2.editmysite.com
 cdn2.hubspot.net
 cdn2.palmplaystore.com
 cdn-2.tstatic.net
+cdn-3.tstatic.net
 cdn77.org
 cdn77-pic.xnxx-cdn.com
 cdn77-pic.xvideos-cdn.com
@@ -711,6 +720,7 @@ cdn.slidesharecdn.com
 cdn-static.ap4r.com
 cdn-static.kwai.net
 cdn-store-icons-akamai-prd.unityads.unity3d.com
+cdn.tstatic.net
 cdn.viber.com
 cdn.weglot.com
 cdn.wetest.qq.com
@@ -979,6 +989,7 @@ discovery.clearbit.com
 distillery.wistia.com
 diva.bond
 dkyweipsds.com
+dl.hw.freefiremobile.com
 dls.di.atlas.samsung.com
 dlvr.it
 dl-xda.xposed.info
@@ -1015,6 +1026,8 @@ dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 drift.com
 driftt.com
+driver-image-preprocessed-production.s3.amazonaws.com
+drone-sg.xunyou.mobi
 dr.youme.im
 ds2.shalltry.com
 dsms0mj1bbhn4.cloudfront.net
@@ -1030,14 +1043,20 @@ e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e2c19.gcp.gvt2.com
 e2c30.gcp.gvt2.com
+e2c38.gcp.gvt2.com
 e2c40.gcp.gvt2.com
 e673.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 easymakesolution.com
+ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
+ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
+ec2-54-165-151-168.compute-1.amazonaws.com
+ec2-54-169-233-104.ap-southeast-1.compute.amazonaws.com
 echo-tcp-org.y5en.com
 ecommerce.iap.unity3d.com
+ecs-110-238-109-184.compute.hwclouds-dns.com
 edgecastcdn.net
 edialog24.com
 editmysite.com
@@ -1408,6 +1427,7 @@ hubspot.net
 hubspotusercontent-na1.net
 hugoclub.ak
 hwcdn.net
+hwclouds-dns.com
 hw-crs-report.y5en.com
 hybrid.miniapp.taobao.com
 hyperxgaming.website
@@ -1441,6 +1461,7 @@ idapi.store.oppomobile.com
 id.bigmir.space
 id.bignox.com
 id-comet.z-dn.net
+id-connect.sms.intl.xiaomi.com
 idea5.xyz
 id-fcm.sms.intl.xiaomi.com
 idg.map.fastly.net
@@ -1464,6 +1485,7 @@ id-xl.rcs.telephony.goog
 ieee.org
 ie.sogou.com
 if4a3802.app-ads-txt.com
+iface2.iqiyi.com
 if.browser.oppomobile.com
 iflowf.browser.oppomobile.com
 iflowf-sg.browser.oppomobile.com
@@ -1491,6 +1513,7 @@ image.slidesharecdn.com
 images.sc-cdn.net
 image.tmdb.org
 image.winudf.com
+imasdk.googleapis.com
 imdb.com
 img.alicdn.com
 imgcache.joox.com
@@ -1556,6 +1579,7 @@ intellitxt.com
 internetpositif.uzone.id
 in-third-appstore.vivoglobal.com
 intlapi.cdo.oppomobile.com
+intl-api.iq.com
 intl.iqiyi.com
 intuitcdn.net
 intuit.com
@@ -1586,6 +1610,7 @@ iseepassword.com
 isex.baby
 i-sg.browser.heytapmobile.com
 i.snssdk.com
+isp-map.xunyou.mobi
 istarapps.com
 it.bignox.com
 iteldrive.com
@@ -1612,6 +1637,7 @@ jmacs-m.lazada.co.id
 jomax.net
 jp.bignox.com
 jpserver.site
+jr.zingnews.vn
 js.chargebee.com
 js.cx
 js.datadome.co
@@ -1731,12 +1757,15 @@ logging.baca.co.id
 log.goodnovel.com
 logicbuy.com
 login.tim.qq.com
+log.kzvepo.com
 logo.clearbit.com
 logos.kiwibrowser.com
 logs.im-gb.com
 logs.papertrailapp.com
 log.tpns.hk.tencent.com
 log.tpns.sgp.tencent.com
+log.wt14yf.com
+log.zingnews.vn
 loki.wattpad.com
 loli.net
 loomi.tv
@@ -1798,6 +1827,7 @@ media-lab.ai
 media.neliti.com
 media.net
 media.tenor.co
+media.tenor.com
 mediavine.com
 mediavoice.com
 meettech.net
@@ -1865,6 +1895,7 @@ morungato.space
 motogp.api.weplay.media
 mozaws.net
 mozgcp.net
+mp3.zing.vn
 mp.toutiao.com
 ms4.applovin.com
 ms.bignox.com
@@ -1902,6 +1933,7 @@ myim3banner.kloc.co
 mypic.icu
 myqcloud.com
 my.salesforce.com
+na.albtls.t.co
 nagios.dreamvps.com
 nanorep.co
 narrativ.com
@@ -1923,6 +1955,7 @@ network.ssacdn.com
 newdebut-av.monster
 newds01.myoppo.com
 newds02.myoppo.com
+newpic.wetvinfo.com
 new.qq.com
 newrelic.com
 newsaggreg.shalltry.com
@@ -2017,6 +2050,7 @@ optimizationguide-pa.googleapis.com
 orangeclickmedia.com
 orange-dc.lazada.com
 orxhacks.com
+os-aibox.shalltry.com
 os-code.shalltry.com
 osfeature.shalltry.com
 oshola.shalltry.com
@@ -2074,6 +2108,7 @@ path2.xtracloud.net
 path3.xtracloud.net
 pay.bignox.com
 paypal--accounts.com
+pay-sg.wsds.cn
 pay.vivoglobal.com
 pay.yeshen.com
 pazu.ge
@@ -2130,6 +2165,7 @@ pop3.bignox.com
 popcore.com
 popular.kiwibrowser.com
 pornozot.com
+portal-sg.xunyou.mobi
 postaffiliatepro.com
 postback.applinzi.com
 postrelease.com
@@ -2157,6 +2193,7 @@ privatematchfz.com
 pro-accounts.snapchat.com
 pro-a-seracc-cdn.im-gb.com
 pro-a-user-avatar-cdn.im-gb.com
+probe.twitter.com
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 prod.cloudops.mozgcp.net
 prod.cloud.rockstargames.com
@@ -2417,6 +2454,7 @@ sg-drive.wps.com
 sgfp.tongdun.net
 sg-idm.api.io.mi.com
 sg.omlet.me
+sgpac.account.xiaomi.com
 sgp-img-c.heytapimg.com
 sg.tdatamaster.com
 shake-body.com
@@ -2497,6 +2535,7 @@ splash.unity.com
 sportskeeda.com
 sports.qq.com
 sp-prod.net
+sp.zalo.me
 srv1.bilikfilm.xyz
 srv-mobile-version-validator.services.z-dn.net
 srv-ocr-api-logged.z-dn.net
@@ -2534,13 +2573,17 @@ static-webengage.s3.ap-southeast-1.amazonaws.com
 staticworld.net
 static.zdassets.com
 static-zepeto.pstatic.net
+static-znews.zadn.vn
+static-znews.zingcdn.me
 stat.idtopnews.com
 statis.facemojikeyboard.com
 stats.darkreader.app
 stats.wp.com
+stat.tpns.sgp.tencent.com
 statwup.nimo.tv
 stat.xdplt.com
 st.bignox.com
+stc-sp.zadn.vn
 steadfastsystem.com
 steelhousemedia.com
 stepsister.uno
@@ -2700,6 +2743,7 @@ truefornite.com
 truepush.com
 trustarc.com
 ts.qq.com
+tstatic.net
 tubesex.uno
 tui.bignox.com
 tuplogpublic.bangcdn.net
@@ -2989,6 +3033,7 @@ www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.hastopic.com
 www.hippoobox.com
 www.hopexos.vip
+www.hwclouds-dns.com
 www.icloud.com
 www.iconsdb.com
 www.ilyon.net
@@ -3074,6 +3119,13 @@ www.yeshen.com.w.kunlungr.com
 www.ykxipfcg.com
 www.yomani.vip
 www.youtts.com
+www.zadn.vn
+www.zalo.me
+www.zascdn.me
+www.zdn.vn
+www.zingcdn.me
+www.zingnews.vn
+www.zing.vn
 x18like.uno
 x1.i.lencr.org
 x8sb.com
@@ -3107,6 +3159,7 @@ xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
 xuanniaoweb.com
 xuicy.me
+xunyou.mobi
 xvideos2.com
 xvideos.com
 xx18like.uno
@@ -3146,18 +3199,28 @@ ywbgrcrupasdiqxknwgcearlnbvmezti.com
 ywxi.net
 z4y.pl
 z5iqil.xjwi5.com
+zadn.vn
 zaizai.yun-app.net
+zalo.me
 zantbowsing.cam
+zascdn.me
+za.zdn.vn
 zconfig.alibabausercontent.com
 zdbb.net
+zdn.vn
 zeevpn-fca47.firebaseio.com
 zepeto.me
 zhihu.sogou.com
 ziffdavis.com
 ziffstatic.com
+zingcdn.me
+zingnews.vn
+zing.vn
+zjs.zingcdn.me
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com
 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
+znews-photo.zingcdn.me
 znpst.top
 zoominfo.com
 zqtk.net

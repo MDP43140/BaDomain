@@ -1521,7 +1521,11 @@ mobile.g.l.bytedns.net
 mobile.ttgw.tuchong-normal-lb-lf.l.bytedns.net
 mobile.x.l.bytedns.net
 mofxg.snssdk.com
+mon15-normal-useast1a.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
+mon16-normal-useast1a.tiktokv.com
+mon19-normal-useast1a.tiktokv.com
+mon22-normal-useast1a.tiktokv.com
 mon-alias1.snssdk.com
 mon.byteoversea.com
 mon.byteoversea.com.edgesuite.net
@@ -2069,8 +2073,10 @@ picwebws.pstatp.com.wsglb0.com
 pigeon.snssdk.com
 pigeon.snssdk.com.w.kunluncan.com
 p.ipstatp.com
+pitaya-sg.byteintlapi.com
 pitaya-sg.tiktokv.com
 pitaya-task-sg.tiktokv.com
+pitaya.tiktokv.com
 polaris-ns.byteoversea.com
 p.pstatp.com
 p.pstatp.com.w.alikunlun.com
@@ -2135,6 +2141,7 @@ pull-cmaf-f5.tiktokcdn.com
 pull-cmaf-f5.tiktokcdn.com.akamaized.net
 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 pull-cmaf-f77-gcp01.tiktokcdn.com
+pull-cmaf-f77-sg01.tiktokcdn.com
 pull-cmaf-f77-va01.tiktokcdn.com
 pull-cmaf-l10-sg01.tiktokcdn.com
 pull-cmaf-l16-gcp01.tiktokcdn.com
@@ -2181,6 +2188,9 @@ pull-flv-f1.tiktokcdn.com.wsdvs.com
 pull-flv-f1-va01.tiktokcdn.com
 pull-flv-f1-xg.bytecdn.cn
 pull-flv-f6-xg.bytecdn.cn
+pull-flv-f77-gcp01.tiktokcdn.com
+pull-flv-f77-sg01.tiktokcdn.com
+pull-flv-f77-va01.tiktokcdn.com
 pull-flv-l10-sg01.tiktokcdn.com
 pull-flv-l11-gcp01.tiktokcdn.com
 pull-flv-l11-gcp01.ttlivecdn.com

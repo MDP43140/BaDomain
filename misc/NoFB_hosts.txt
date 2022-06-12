@@ -838,6 +838,7 @@
 127.0.0.1 instagram.com
 127.0.0.1 instagram.fbdj3-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth1-1.fna.fbcdn.net
+127.0.0.1 instagram.fbth2-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth3-1.fna.fbcdn.net
 127.0.0.1 instagram.fcgk18-2.fna.fbcdn.net
 127.0.0.1 instagram.fcgk24-1.fna.fbcdn.net
@@ -1735,6 +1736,7 @@
 127.0.0.1 z-m-scontent-cai.xx.fbcdn.net
 127.0.0.1 z-m-scontent-cdg.xx.fbcdn.net
 127.0.0.1 z-m-scontent-cdt.xx.fbcdn.net
+127.0.0.1 z-m-scontent-cgk1-1.xx.fbcdn.net
 127.0.0.1 z-m-scontent-dft.xx.fbcdn.net
 127.0.0.1 z-m-scontent-eze.xx.fbcdn.net
 127.0.0.1 z-m-scontent.fceb1-1.fna.fbcdn.net

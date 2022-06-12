@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.06.2022
+# Version: 13.06.2022
 # Update: 1 days
 #
 
@@ -114,6 +114,7 @@
 127.0.0.1 abroad.apilocate.amap.com
 127.0.0.1 abruptlyinstitution.com
 127.0.0.1 abtesting.ai
+127.0.0.1 abubadu.com
 127.0.0.1 a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 127.0.0.1 a.c93eb87839c6be3faf4eec1c4863e043791e3b4c9c40a159812fbc6a.com
 127.0.0.1 access.line.me
@@ -188,6 +189,8 @@
 127.0.0.1 adtechjp.com
 127.0.0.1 adtechus.com
 127.0.0.1 adtilt.com
+127.0.0.1 adtimaserver.vn
+127.0.0.1 adtima-static.zascdn.me
 127.0.0.1 ad.toutiao.com
 127.0.0.1 advertica-cdn.com
 127.0.0.1 advertising.com
@@ -262,6 +265,7 @@
 127.0.0.1 amplitude.com
 127.0.0.1 analytics.163.com
 127.0.0.1 analytics.churnzero.net
+127.0.0.1 analytics.nodecraft.com
 127.0.0.1 analytics.quizizz.com
 127.0.0.1 analytics.rocks
 127.0.0.1 analytics-tcp.mintegral.net
@@ -342,6 +346,7 @@
 127.0.0.1 api.instabridge.com
 127.0.0.1 api.intellimize.co
 127.0.0.1 api.ipify.org
+127.0.0.1 api.iq.com
 127.0.0.1 api.isharingapp.com
 127.0.0.1 api.jetengine.be
 127.0.0.1 api.kika-backend.com
@@ -401,6 +406,7 @@
 127.0.0.1 api.wt14yf.com
 127.0.0.1 api.xintaicz.cn
 127.0.0.1 api.zhuti.intl.xiaomi.com
+127.0.0.1 api.zingnews.vn
 127.0.0.1 apkeditorfree.com
 127.0.0.1 aplhabet.applinzi.com
 127.0.0.1 ap.mobhey.com
@@ -636,6 +642,7 @@
 127.0.0.1 bt-cfm.io
 127.0.0.1 btloader.com
 127.0.0.1 btrace.wetvinfo.com
+127.0.0.1 bubadu.com
 127.0.0.1 bucket-img.y5en.com
 127.0.0.1 bugsnag.com
 127.0.0.1 buhatfjrk9dje10eme.com
@@ -670,10 +677,12 @@
 127.0.0.1 cdn130.picsart.com
 127.0.0.1 cdn1.codashop.com
 127.0.0.1 cdn1-production-images-kly.akamaized.net
+127.0.0.1 cdn-1.tstatic.net
 127.0.0.1 cdn2.editmysite.com
 127.0.0.1 cdn2.hubspot.net
 127.0.0.1 cdn2.palmplaystore.com
 127.0.0.1 cdn-2.tstatic.net
+127.0.0.1 cdn-3.tstatic.net
 127.0.0.1 cdn77.org
 127.0.0.1 cdn77-pic.xnxx-cdn.com
 127.0.0.1 cdn77-pic.xvideos-cdn.com
@@ -711,6 +720,7 @@
 127.0.0.1 cdn-static.ap4r.com
 127.0.0.1 cdn-static.kwai.net
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
+127.0.0.1 cdn.tstatic.net
 127.0.0.1 cdn.viber.com
 127.0.0.1 cdn.weglot.com
 127.0.0.1 cdn.wetest.qq.com
@@ -979,6 +989,7 @@
 127.0.0.1 distillery.wistia.com
 127.0.0.1 diva.bond
 127.0.0.1 dkyweipsds.com
+127.0.0.1 dl.hw.freefiremobile.com
 127.0.0.1 dls.di.atlas.samsung.com
 127.0.0.1 dlvr.it
 127.0.0.1 dl-xda.xposed.info
@@ -1015,6 +1026,8 @@
 127.0.0.1 dragate-sg.dc.oppomobile.com
 127.0.0.1 drift.com
 127.0.0.1 driftt.com
+127.0.0.1 driver-image-preprocessed-production.s3.amazonaws.com
+127.0.0.1 drone-sg.xunyou.mobi
 127.0.0.1 dr.youme.im
 127.0.0.1 ds2.shalltry.com
 127.0.0.1 dsms0mj1bbhn4.cloudfront.net
@@ -1030,14 +1043,20 @@
 127.0.0.1 e10499.dsce9.akamaiedge.net
 127.0.0.1 e2c19.gcp.gvt2.com
 127.0.0.1 e2c30.gcp.gvt2.com
+127.0.0.1 e2c38.gcp.gvt2.com
 127.0.0.1 e2c40.gcp.gvt2.com
 127.0.0.1 e673.dsce9.akamaiedge.net
 127.0.0.1 e69896.dscapi6.akamaiedge.net
 127.0.0.1 e7100.g.akamaiedge.net
 127.0.0.1 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 127.0.0.1 easymakesolution.com
+127.0.0.1 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
+127.0.0.1 ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
+127.0.0.1 ec2-54-165-151-168.compute-1.amazonaws.com
+127.0.0.1 ec2-54-169-233-104.ap-southeast-1.compute.amazonaws.com
 127.0.0.1 echo-tcp-org.y5en.com
 127.0.0.1 ecommerce.iap.unity3d.com
+127.0.0.1 ecs-110-238-109-184.compute.hwclouds-dns.com
 127.0.0.1 edgecastcdn.net
 127.0.0.1 edialog24.com
 127.0.0.1 editmysite.com
@@ -1408,6 +1427,7 @@
 127.0.0.1 hubspotusercontent-na1.net
 127.0.0.1 hugoclub.ak
 127.0.0.1 hwcdn.net
+127.0.0.1 hwclouds-dns.com
 127.0.0.1 hw-crs-report.y5en.com
 127.0.0.1 hybrid.miniapp.taobao.com
 127.0.0.1 hyperxgaming.website
@@ -1441,6 +1461,7 @@
 127.0.0.1 id.bigmir.space
 127.0.0.1 id.bignox.com
 127.0.0.1 id-comet.z-dn.net
+127.0.0.1 id-connect.sms.intl.xiaomi.com
 127.0.0.1 idea5.xyz
 127.0.0.1 id-fcm.sms.intl.xiaomi.com
 127.0.0.1 idg.map.fastly.net
@@ -1464,6 +1485,7 @@
 127.0.0.1 ieee.org
 127.0.0.1 ie.sogou.com
 127.0.0.1 if4a3802.app-ads-txt.com
+127.0.0.1 iface2.iqiyi.com
 127.0.0.1 if.browser.oppomobile.com
 127.0.0.1 iflowf.browser.oppomobile.com
 127.0.0.1 iflowf-sg.browser.oppomobile.com
@@ -1491,6 +1513,7 @@
 127.0.0.1 images.sc-cdn.net
 127.0.0.1 image.tmdb.org
 127.0.0.1 image.winudf.com
+127.0.0.1 imasdk.googleapis.com
 127.0.0.1 imdb.com
 127.0.0.1 img.alicdn.com
 127.0.0.1 imgcache.joox.com
@@ -1556,6 +1579,7 @@
 127.0.0.1 internetpositif.uzone.id
 127.0.0.1 in-third-appstore.vivoglobal.com
 127.0.0.1 intlapi.cdo.oppomobile.com
+127.0.0.1 intl-api.iq.com
 127.0.0.1 intl.iqiyi.com
 127.0.0.1 intuitcdn.net
 127.0.0.1 intuit.com
@@ -1586,6 +1610,7 @@
 127.0.0.1 isex.baby
 127.0.0.1 i-sg.browser.heytapmobile.com
 127.0.0.1 i.snssdk.com
+127.0.0.1 isp-map.xunyou.mobi
 127.0.0.1 istarapps.com
 127.0.0.1 it.bignox.com
 127.0.0.1 iteldrive.com
@@ -1612,6 +1637,7 @@
 127.0.0.1 jomax.net
 127.0.0.1 jp.bignox.com
 127.0.0.1 jpserver.site
+127.0.0.1 jr.zingnews.vn
 127.0.0.1 js.chargebee.com
 127.0.0.1 js.cx
 127.0.0.1 js.datadome.co
@@ -1731,12 +1757,15 @@
 127.0.0.1 log.goodnovel.com
 127.0.0.1 logicbuy.com
 127.0.0.1 login.tim.qq.com
+127.0.0.1 log.kzvepo.com
 127.0.0.1 logo.clearbit.com
 127.0.0.1 logos.kiwibrowser.com
 127.0.0.1 logs.im-gb.com
 127.0.0.1 logs.papertrailapp.com
 127.0.0.1 log.tpns.hk.tencent.com
 127.0.0.1 log.tpns.sgp.tencent.com
+127.0.0.1 log.wt14yf.com
+127.0.0.1 log.zingnews.vn
 127.0.0.1 loki.wattpad.com
 127.0.0.1 loli.net
 127.0.0.1 loomi.tv
@@ -1798,6 +1827,7 @@
 127.0.0.1 media.neliti.com
 127.0.0.1 media.net
 127.0.0.1 media.tenor.co
+127.0.0.1 media.tenor.com
 127.0.0.1 mediavine.com
 127.0.0.1 mediavoice.com
 127.0.0.1 meettech.net
@@ -1865,6 +1895,7 @@
 127.0.0.1 motogp.api.weplay.media
 127.0.0.1 mozaws.net
 127.0.0.1 mozgcp.net
+127.0.0.1 mp3.zing.vn
 127.0.0.1 mp.toutiao.com
 127.0.0.1 ms4.applovin.com
 127.0.0.1 ms.bignox.com
@@ -1902,6 +1933,7 @@
 127.0.0.1 mypic.icu
 127.0.0.1 myqcloud.com
 127.0.0.1 my.salesforce.com
+127.0.0.1 na.albtls.t.co
 127.0.0.1 nagios.dreamvps.com
 127.0.0.1 nanorep.co
 127.0.0.1 narrativ.com
@@ -1923,6 +1955,7 @@
 127.0.0.1 newdebut-av.monster
 127.0.0.1 newds01.myoppo.com
 127.0.0.1 newds02.myoppo.com
+127.0.0.1 newpic.wetvinfo.com
 127.0.0.1 new.qq.com
 127.0.0.1 newrelic.com
 127.0.0.1 newsaggreg.shalltry.com
@@ -2017,6 +2050,7 @@
 127.0.0.1 orangeclickmedia.com
 127.0.0.1 orange-dc.lazada.com
 127.0.0.1 orxhacks.com
+127.0.0.1 os-aibox.shalltry.com
 127.0.0.1 os-code.shalltry.com
 127.0.0.1 osfeature.shalltry.com
 127.0.0.1 oshola.shalltry.com
@@ -2074,6 +2108,7 @@
 127.0.0.1 path3.xtracloud.net
 127.0.0.1 pay.bignox.com
 127.0.0.1 paypal--accounts.com
+127.0.0.1 pay-sg.wsds.cn
 127.0.0.1 pay.vivoglobal.com
 127.0.0.1 pay.yeshen.com
 127.0.0.1 pazu.ge
@@ -2130,6 +2165,7 @@
 127.0.0.1 popcore.com
 127.0.0.1 popular.kiwibrowser.com
 127.0.0.1 pornozot.com
+127.0.0.1 portal-sg.xunyou.mobi
 127.0.0.1 postaffiliatepro.com
 127.0.0.1 postback.applinzi.com
 127.0.0.1 postrelease.com
@@ -2157,6 +2193,7 @@
 127.0.0.1 pro-accounts.snapchat.com
 127.0.0.1 pro-a-seracc-cdn.im-gb.com
 127.0.0.1 pro-a-user-avatar-cdn.im-gb.com
+127.0.0.1 probe.twitter.com
 127.0.0.1 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 127.0.0.1 prod.cloudops.mozgcp.net
 127.0.0.1 prod.cloud.rockstargames.com
@@ -2417,6 +2454,7 @@
 127.0.0.1 sgfp.tongdun.net
 127.0.0.1 sg-idm.api.io.mi.com
 127.0.0.1 sg.omlet.me
+127.0.0.1 sgpac.account.xiaomi.com
 127.0.0.1 sgp-img-c.heytapimg.com
 127.0.0.1 sg.tdatamaster.com
 127.0.0.1 shake-body.com
@@ -2497,6 +2535,7 @@
 127.0.0.1 sportskeeda.com
 127.0.0.1 sports.qq.com
 127.0.0.1 sp-prod.net
+127.0.0.1 sp.zalo.me
 127.0.0.1 srv1.bilikfilm.xyz
 127.0.0.1 srv-mobile-version-validator.services.z-dn.net
 127.0.0.1 srv-ocr-api-logged.z-dn.net
@@ -2534,13 +2573,17 @@
 127.0.0.1 staticworld.net
 127.0.0.1 static.zdassets.com
 127.0.0.1 static-zepeto.pstatic.net
+127.0.0.1 static-znews.zadn.vn
+127.0.0.1 static-znews.zingcdn.me
 127.0.0.1 stat.idtopnews.com
 127.0.0.1 statis.facemojikeyboard.com
 127.0.0.1 stats.darkreader.app
 127.0.0.1 stats.wp.com
+127.0.0.1 stat.tpns.sgp.tencent.com
 127.0.0.1 statwup.nimo.tv
 127.0.0.1 stat.xdplt.com
 127.0.0.1 st.bignox.com
+127.0.0.1 stc-sp.zadn.vn
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steelhousemedia.com
 127.0.0.1 stepsister.uno
@@ -2700,6 +2743,7 @@
 127.0.0.1 truepush.com
 127.0.0.1 trustarc.com
 127.0.0.1 ts.qq.com
+127.0.0.1 tstatic.net
 127.0.0.1 tubesex.uno
 127.0.0.1 tui.bignox.com
 127.0.0.1 tuplogpublic.bangcdn.net
@@ -2989,6 +3033,7 @@
 127.0.0.1 www.hastopic.com
 127.0.0.1 www.hippoobox.com
 127.0.0.1 www.hopexos.vip
+127.0.0.1 www.hwclouds-dns.com
 127.0.0.1 www.icloud.com
 127.0.0.1 www.iconsdb.com
 127.0.0.1 www.ilyon.net
@@ -3074,6 +3119,13 @@
 127.0.0.1 www.ykxipfcg.com
 127.0.0.1 www.yomani.vip
 127.0.0.1 www.youtts.com
+127.0.0.1 www.zadn.vn
+127.0.0.1 www.zalo.me
+127.0.0.1 www.zascdn.me
+127.0.0.1 www.zdn.vn
+127.0.0.1 www.zingcdn.me
+127.0.0.1 www.zingnews.vn
+127.0.0.1 www.zing.vn
 127.0.0.1 x18like.uno
 127.0.0.1 x1.i.lencr.org
 127.0.0.1 x8sb.com
@@ -3107,6 +3159,7 @@
 127.0.0.1 xtrapath3.izatcloud.net
 127.0.0.1 xuanniaoweb.com
 127.0.0.1 xuicy.me
+127.0.0.1 xunyou.mobi
 127.0.0.1 xvideos2.com
 127.0.0.1 xvideos.com
 127.0.0.1 xx18like.uno
@@ -3146,18 +3199,28 @@
 127.0.0.1 ywxi.net
 127.0.0.1 z4y.pl
 127.0.0.1 z5iqil.xjwi5.com
+127.0.0.1 zadn.vn
 127.0.0.1 zaizai.yun-app.net
+127.0.0.1 zalo.me
 127.0.0.1 zantbowsing.cam
+127.0.0.1 zascdn.me
+127.0.0.1 za.zdn.vn
 127.0.0.1 zconfig.alibabausercontent.com
 127.0.0.1 zdbb.net
+127.0.0.1 zdn.vn
 127.0.0.1 zeevpn-fca47.firebaseio.com
 127.0.0.1 zepeto.me
 127.0.0.1 zhihu.sogou.com
 127.0.0.1 ziffdavis.com
 127.0.0.1 ziffstatic.com
+127.0.0.1 zingcdn.me
+127.0.0.1 zingnews.vn
+127.0.0.1 zing.vn
+127.0.0.1 zjs.zingcdn.me
 127.0.0.1 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
+127.0.0.1 znews-photo.zingcdn.me
 127.0.0.1 znpst.top
 127.0.0.1 zoominfo.com
 127.0.0.1 zqtk.net
