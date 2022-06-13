@@ -156,6 +156,7 @@ adlog.flurry.com
 adlook.me
 ad.lsosdoc.com
 admin.justin.tv
+admin.qidian.qq.com
 admixplay.com
 adnxs.com
 adobedtm.com
@@ -365,6 +366,7 @@ api.mythad.com
 api-new.bignox.com
 api-notice.kinemasters.com
 api.noxinfluencer.com
+api.os.mob.com
 api.owxd.xyz
 api.pa1mstore.com
 api.palmplaystore.com
@@ -390,6 +392,7 @@ api.snapkit.com
 api.sportskeeda.com
 apissug-sf.ucweb.com
 api-stream.twitter.com
+api.tenor.com
 api.teslacoilapps.com
 api.themoviedb.org
 apitm.toolmatrix.plus
@@ -741,6 +744,7 @@ cfs.u-ad.info
 cfs.uzone.id
 c.ftblltrck.com
 cg.foldlife.net
+chandashi.com
 chargebee.com
 chartbeat.com
 chartboost.com
@@ -792,6 +796,7 @@ cname.vercel-dns.com
 cn.bignox.com
 cnevids.com
 cn.pool.ntp.org
+cnzz.com
 codashop.com
 code.createjs.com
 codepush.appcenter.ms
@@ -969,6 +974,7 @@ detectportal.prod.cloudops.mozgcp.net
 devanture.com.sg
 dev.bignox.com
 dev.driftt.com
+developer.huaweiuniversity.com
 developers.google.cn
 developers.google.com.hk
 developers.pho.to
@@ -1203,6 +1209,7 @@ futurecdn.net
 futureplc.com
 fuwu.sogou.com
 fwmrm.net
+fxgate.baidu.com
 fyber-static.com
 g2.com
 g2crowd.com
@@ -1257,12 +1264,14 @@ gitkraken.com
 glamour.com
 glass3.xyz
 glb.samsung-gamelauncher.com
+glcs.listdl.com
 gllto2.glpals.com
 globalapi.facemojikeyboard.com
 global.apis.naver.com
 global-apm.as.r.appspot.com
 global-auth-sg.sausage.xd.com
 global-chat-sg.sausage.xd.com
+global-client-log-gf-sg-turbine-da.sausage.xd.com
 global-client-log.sg-turbine-da.sausage.xd.com
 global-data-info-sg.sausage.xd.com
 global.developer.xiaomi.com
@@ -1379,6 +1388,7 @@ hisavana.com
 histats.com
 history.google.com
 hk.app.joox.com
+hk.slb.mob.com
 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
 hls-hw.others-cdn.com
 hm2.yrnykx.com
@@ -1419,6 +1429,7 @@ https-api.bigolive.tv
 https-api.like.video
 https:\/\/app-measurement.com\/sdk-exp
 https:\/\/ynuf.aliapp.org\/saveWb.json?
+huaweiuniversity.com
 hub2.com.pl
 hubspot.com
 hubspotfeedback.com
@@ -1603,6 +1614,7 @@ iqm.com
 iqzgqivb.com
 ire-dsc.shalltry.com
 ire-dsu.shalltry.com
+iresearch.vip
 irisk-id-l.alipay.com
 irl-api.twibida.com
 ir.sogou.com
@@ -1732,6 +1744,7 @@ linkedin.com
 linksynergy.com
 linkvertise.com
 linkvertize.com
+listdl.com
 litatom.com
 liteapi.ekatox.com
 litemsg.ekatox.com
@@ -1867,6 +1880,7 @@ misc-pili-qos-report.qiniuapi.com
 miservice.comm.miui.com
 mixerbabki.ru
 mixerparanas.ru
+mkevents.mob.com
 mktoresp.com
 ml314.com
 ml.aihelp.net
@@ -1875,6 +1889,7 @@ m.mobilesearchers.com
 mmtro.com
 moatads.com
 mobadvent.com
+mob.com
 mobile.bignox.com
 mobilesearchers.com
 mobiletime.net
@@ -2078,6 +2093,7 @@ p16.resso.me
 p16.topbuzzcdn.com
 p20.zdassets.com
 p55-keyvalueservice.icloud.com
+paas.iresearch.vip
 pagead2.googlesyndication.com
 pagead.googlesyndication.com
 pageonenewsapp.com
@@ -2239,6 +2255,7 @@ px1.lifesavvy.com
 pxf.io
 pxksnymto.ru
 qbox.me
+qidian.qq.com
 qiniuapi.com
 qotu.bar
 qq.com
@@ -2365,6 +2382,7 @@ rwt.fortumo.com
 s10.histats.com
 s.166.net
 s18900.webovernet.com
+s23.cnzz.com
 s2.loli.net
 s2s.af.outfit7.com
 s2.teraboxcdn.com
@@ -2567,6 +2585,7 @@ static.gc.apple.com
 static.hsappstatic.net
 static.like-it.video
 static.messagebird.com
+static.mob.com
 static.servicewebly.com
 statics-marketingsites-eus-ms-com.akamaized.net
 static-webengage.s3.ap-southeast-1.amazonaws.com
@@ -2809,7 +2828,10 @@ update.mysecuritystudio.com
 update.neptunegame.com
 upgrade.shalltry.com
 ureca.samsungapps.com
+us.api.fc.mob.com
+us.api.fd.mob.com
 us-api.mcsvc.samsung.com
+us.api.share.mob.com
 us-central1-alight-creative.cloudfunctions.net
 us-central1-gcp.api.snapchat.com
 uscreen.tv
@@ -2999,6 +3021,7 @@ www.beacons.ai
 www.bignox.com
 www.cdn.viber.com
 www.centurygames.com
+www.chandashi.com
 www.cipro.ms
 www.ckg.hk
 www.ckmvkzurnd.com
@@ -3057,6 +3080,7 @@ www.minonav.com
 www.minoplay.com
 www.minoregimen.com
 www.minozodiac.com
+www.mob.com
 www.narratorsvoice.com
 www.nathanaeldan.pro
 www.noxinfluencer.com
@@ -3177,6 +3201,7 @@ y.gtimg.cn
 yhgrffndvzbtoilmundkmvbaxrjtqsew.com
 yieldlove.com
 yieldmo.com
+yingxiao.baidu.com
 yixiu-abtest.alicdn.com
 ykxipfcg.com
 ylx-aff.advertica-cdn.com

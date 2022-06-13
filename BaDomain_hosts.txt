@@ -156,6 +156,7 @@
 127.0.0.1 adlook.me
 127.0.0.1 ad.lsosdoc.com
 127.0.0.1 admin.justin.tv
+127.0.0.1 admin.qidian.qq.com
 127.0.0.1 admixplay.com
 127.0.0.1 adnxs.com
 127.0.0.1 adobedtm.com
@@ -365,6 +366,7 @@
 127.0.0.1 api-new.bignox.com
 127.0.0.1 api-notice.kinemasters.com
 127.0.0.1 api.noxinfluencer.com
+127.0.0.1 api.os.mob.com
 127.0.0.1 api.owxd.xyz
 127.0.0.1 api.pa1mstore.com
 127.0.0.1 api.palmplaystore.com
@@ -390,6 +392,7 @@
 127.0.0.1 api.sportskeeda.com
 127.0.0.1 apissug-sf.ucweb.com
 127.0.0.1 api-stream.twitter.com
+127.0.0.1 api.tenor.com
 127.0.0.1 api.teslacoilapps.com
 127.0.0.1 api.themoviedb.org
 127.0.0.1 apitm.toolmatrix.plus
@@ -741,6 +744,7 @@
 127.0.0.1 cfs.uzone.id
 127.0.0.1 c.ftblltrck.com
 127.0.0.1 cg.foldlife.net
+127.0.0.1 chandashi.com
 127.0.0.1 chargebee.com
 127.0.0.1 chartbeat.com
 127.0.0.1 chartboost.com
@@ -792,6 +796,7 @@
 127.0.0.1 cn.bignox.com
 127.0.0.1 cnevids.com
 127.0.0.1 cn.pool.ntp.org
+127.0.0.1 cnzz.com
 127.0.0.1 codashop.com
 127.0.0.1 code.createjs.com
 127.0.0.1 codepush.appcenter.ms
@@ -969,6 +974,7 @@
 127.0.0.1 devanture.com.sg
 127.0.0.1 dev.bignox.com
 127.0.0.1 dev.driftt.com
+127.0.0.1 developer.huaweiuniversity.com
 127.0.0.1 developers.google.cn
 127.0.0.1 developers.google.com.hk
 127.0.0.1 developers.pho.to
@@ -1203,6 +1209,7 @@
 127.0.0.1 futureplc.com
 127.0.0.1 fuwu.sogou.com
 127.0.0.1 fwmrm.net
+127.0.0.1 fxgate.baidu.com
 127.0.0.1 fyber-static.com
 127.0.0.1 g2.com
 127.0.0.1 g2crowd.com
@@ -1257,12 +1264,14 @@
 127.0.0.1 glamour.com
 127.0.0.1 glass3.xyz
 127.0.0.1 glb.samsung-gamelauncher.com
+127.0.0.1 glcs.listdl.com
 127.0.0.1 gllto2.glpals.com
 127.0.0.1 globalapi.facemojikeyboard.com
 127.0.0.1 global.apis.naver.com
 127.0.0.1 global-apm.as.r.appspot.com
 127.0.0.1 global-auth-sg.sausage.xd.com
 127.0.0.1 global-chat-sg.sausage.xd.com
+127.0.0.1 global-client-log-gf-sg-turbine-da.sausage.xd.com
 127.0.0.1 global-client-log.sg-turbine-da.sausage.xd.com
 127.0.0.1 global-data-info-sg.sausage.xd.com
 127.0.0.1 global.developer.xiaomi.com
@@ -1379,6 +1388,7 @@
 127.0.0.1 histats.com
 127.0.0.1 history.google.com
 127.0.0.1 hk.app.joox.com
+127.0.0.1 hk.slb.mob.com
 127.0.0.1 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
 127.0.0.1 hls-hw.others-cdn.com
 127.0.0.1 hm2.yrnykx.com
@@ -1419,6 +1429,7 @@
 127.0.0.1 https-api.like.video
 127.0.0.1 https:\/\/app-measurement.com\/sdk-exp
 127.0.0.1 https:\/\/ynuf.aliapp.org\/saveWb.json?
+127.0.0.1 huaweiuniversity.com
 127.0.0.1 hub2.com.pl
 127.0.0.1 hubspot.com
 127.0.0.1 hubspotfeedback.com
@@ -1603,6 +1614,7 @@
 127.0.0.1 iqzgqivb.com
 127.0.0.1 ire-dsc.shalltry.com
 127.0.0.1 ire-dsu.shalltry.com
+127.0.0.1 iresearch.vip
 127.0.0.1 irisk-id-l.alipay.com
 127.0.0.1 irl-api.twibida.com
 127.0.0.1 ir.sogou.com
@@ -1732,6 +1744,7 @@
 127.0.0.1 linksynergy.com
 127.0.0.1 linkvertise.com
 127.0.0.1 linkvertize.com
+127.0.0.1 listdl.com
 127.0.0.1 litatom.com
 127.0.0.1 liteapi.ekatox.com
 127.0.0.1 litemsg.ekatox.com
@@ -1867,6 +1880,7 @@
 127.0.0.1 miservice.comm.miui.com
 127.0.0.1 mixerbabki.ru
 127.0.0.1 mixerparanas.ru
+127.0.0.1 mkevents.mob.com
 127.0.0.1 mktoresp.com
 127.0.0.1 ml314.com
 127.0.0.1 ml.aihelp.net
@@ -1875,6 +1889,7 @@
 127.0.0.1 mmtro.com
 127.0.0.1 moatads.com
 127.0.0.1 mobadvent.com
+127.0.0.1 mob.com
 127.0.0.1 mobile.bignox.com
 127.0.0.1 mobilesearchers.com
 127.0.0.1 mobiletime.net
@@ -2078,6 +2093,7 @@
 127.0.0.1 p16.topbuzzcdn.com
 127.0.0.1 p20.zdassets.com
 127.0.0.1 p55-keyvalueservice.icloud.com
+127.0.0.1 paas.iresearch.vip
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pageonenewsapp.com
@@ -2239,6 +2255,7 @@
 127.0.0.1 pxf.io
 127.0.0.1 pxksnymto.ru
 127.0.0.1 qbox.me
+127.0.0.1 qidian.qq.com
 127.0.0.1 qiniuapi.com
 127.0.0.1 qotu.bar
 127.0.0.1 qq.com
@@ -2365,6 +2382,7 @@
 127.0.0.1 s10.histats.com
 127.0.0.1 s.166.net
 127.0.0.1 s18900.webovernet.com
+127.0.0.1 s23.cnzz.com
 127.0.0.1 s2.loli.net
 127.0.0.1 s2s.af.outfit7.com
 127.0.0.1 s2.teraboxcdn.com
@@ -2567,6 +2585,7 @@
 127.0.0.1 static.hsappstatic.net
 127.0.0.1 static.like-it.video
 127.0.0.1 static.messagebird.com
+127.0.0.1 static.mob.com
 127.0.0.1 static.servicewebly.com
 127.0.0.1 statics-marketingsites-eus-ms-com.akamaized.net
 127.0.0.1 static-webengage.s3.ap-southeast-1.amazonaws.com
@@ -2809,7 +2828,10 @@
 127.0.0.1 update.neptunegame.com
 127.0.0.1 upgrade.shalltry.com
 127.0.0.1 ureca.samsungapps.com
+127.0.0.1 us.api.fc.mob.com
+127.0.0.1 us.api.fd.mob.com
 127.0.0.1 us-api.mcsvc.samsung.com
+127.0.0.1 us.api.share.mob.com
 127.0.0.1 us-central1-alight-creative.cloudfunctions.net
 127.0.0.1 us-central1-gcp.api.snapchat.com
 127.0.0.1 uscreen.tv
@@ -2999,6 +3021,7 @@
 127.0.0.1 www.bignox.com
 127.0.0.1 www.cdn.viber.com
 127.0.0.1 www.centurygames.com
+127.0.0.1 www.chandashi.com
 127.0.0.1 www.cipro.ms
 127.0.0.1 www.ckg.hk
 127.0.0.1 www.ckmvkzurnd.com
@@ -3057,6 +3080,7 @@
 127.0.0.1 www.minoplay.com
 127.0.0.1 www.minoregimen.com
 127.0.0.1 www.minozodiac.com
+127.0.0.1 www.mob.com
 127.0.0.1 www.narratorsvoice.com
 127.0.0.1 www.nathanaeldan.pro
 127.0.0.1 www.noxinfluencer.com
@@ -3177,6 +3201,7 @@
 127.0.0.1 yhgrffndvzbtoilmundkmvbaxrjtqsew.com
 127.0.0.1 yieldlove.com
 127.0.0.1 yieldmo.com
+127.0.0.1 yingxiao.baidu.com
 127.0.0.1 yixiu-abtest.alicdn.com
 127.0.0.1 ykxipfcg.com
 127.0.0.1 ylx-aff.advertica-cdn.com
