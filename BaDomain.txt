@@ -66,6 +66,7 @@
 756964-android-ds.metric.gstatic.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 7efc7eb08gtearevf.rarefix.info
+829395.smushcdn.com
 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 845257-android-ds.metric.gstatic.com
@@ -90,6 +91,7 @@ a1-sgp.easemob.com
 a2047.dscb.akamai.net
 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 a2.applovin.com
+a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
 a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
 a3.applovin.com
 a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
@@ -122,6 +124,7 @@ access.line.me
 access-pre.ucweb.com
 acckwmhi.com
 account.xiaomi.com
+accuweather-com.videoplayerhub.com
 acc.wetvinfo.com
 acegen.uno
 acs.maribacaberita.com
@@ -288,6 +291,7 @@ animeindo.asia
 animeindo.to
 animeindo.video
 anime-pictures.net
+announcekit.app
 anon.wapsite.info
 anticheatexpert.com
 anyclip.com
@@ -355,6 +359,7 @@ api.isharingapp.com
 api.jetengine.be
 api.kika-backend.com
 api.kwai.com
+api-leap.nbcsports.com
 api.likee.video
 api.like-it.video
 ap.ime.cdn.cootekservice.com
@@ -402,6 +407,7 @@ apitm.toolmatrix.plus
 api.tratao.com
 api.twibida.com
 api-us.bidmachine.io
+api-visitor-analytics.intercom.com
 api.vungle.com
 api.wattpad.com
 api.weathercn.com
@@ -520,6 +526,7 @@ asia-weather.vivoglobal.com
 asia-wifi.vivoglobal.com
 askmen.com
 assets9.lottiefiles.com
+assets.adobedtm.com
 assets.alicdn.com
 assets.applovin.com
 assets.duniagames.co.id
@@ -668,6 +675,9 @@ cadmoremedia.com
 cahoots.com
 c-api-bit.shopeemobile.com
 caping.co.id
+capitalone-resources.digital-cloud.medallia.com
+capitaloneservices.tt.omtrdc.net
+capitalone-udc.digital-cloud.medallia.com
 c.apple.news
 captive.apple.com
 captive.g.aaplimg.com
@@ -713,10 +723,12 @@ cdn.gamesnacks.com
 cdn-graphql-v4.kumparan.com
 cdnimage2.caping.co.id
 cdn-images.mailchimp.com
+cdn.jwplayer.com
 cdn.link4app.com
 cdnm3.caping.co.id
 cdn.otnolatrnup.com
 cdn.outfit7.com
+cdn.printfriendly.com
 cdn-production-assets-kly.akamaized.net
 cdn.pushmart.net
 cdn.ravenjs.com
@@ -751,6 +763,7 @@ cfs.uzone.id
 c.ftblltrck.com
 cg.foldlife.net
 chandashi.com
+changelog.announcekit.app
 chargebee.com
 chartbeat.com
 chartboost.com
@@ -784,6 +797,7 @@ clearbitjs.com
 cleverpush.com
 clickagy.com
 clientapi-sin.dtignite.com
+client-registry.mutinycdn.com
 client-uc.heytapmobi.com
 cloudcf.like-it.video
 cloudctrl.gcloudsdk.com
@@ -1129,6 +1143,7 @@ evgnet.com
 evidon.com
 eviltracker.net
 example.org
+ex.co
 execute-api.eu-west-1.amazonaws.com
 exelator.com
 exonhack.com
@@ -1211,6 +1226,7 @@ fsdn.com
 ftblltrck.com
 ftp.lysator.liu.se
 fukada-jpp.monster
+fullstory.com
 funbe.rjifxuqoo
 funnymuvie.online
 funny.pho.to
@@ -1225,6 +1241,7 @@ fyber-static.com
 g0.market.mi-img.com
 g2.com
 g2crowd.com
+g4tagging.komando.com
 g.alicdn.com
 galleryjs.io
 gamea.clashofclans.com
@@ -1255,6 +1272,7 @@ gdanstum.net
 gdfp.kwai-pro.com
 geclose2eu.info
 g.ekatox.com
+geo.cnbc.com
 geoip-db.com
 geoip.hotstar.com
 geojs.io
@@ -1425,6 +1443,7 @@ hsadspixel.net
 hs-analytics.net
 hsappstatic.net
 hs-banner.com
+hscollectedforms.net
 hscoscdn40.net
 hsforms.com
 hsforms.net
@@ -1601,6 +1620,8 @@ instiengage.com
 in.sv
 intellimize.co
 intellitxt.com
+intercomcdn.com
+intercom.io
 internetpositif.uzone.id
 in-third-appstore.vivoglobal.com
 intlapi.cdo.oppomobile.com
@@ -1672,6 +1693,7 @@ js.hs-analytics.net
 js.hs-banner.com
 js.hsleadflows.net
 js.hubspotfeedback.com
+js.intercomcdn.com
 js.media-lab.ai
 js.usemessages.com
 jump.ogtrk.net
@@ -1686,6 +1708,7 @@ kayumanis.detik.com
 keep2.xyz
 kepler.51y5.net
 kepler.y5en.com
+key-cdn.printfriendly.com
 keyvalueservice.icloud.com
 kika-backend.com
 kikakeyboard.com
@@ -1843,9 +1866,12 @@ mc.yandex.ru
 mdp-appconf-id.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
+medallia.com
+media2.s-nbcnews.com
 media6degrees.com
 media-amazon.com
 mediacategory.com
+media-cldnry.s-nbcnews.com
 media-contentful.zepeto.io
 mediaforge.com
 media.go2speed.org
@@ -1858,6 +1884,8 @@ media.tenor.com
 mediavine.com
 mediavoice.com
 meettech.net
+megaphone.fm
+megaphone.fmmparticle.com
 member.lazada.co.id
 memex-pa.googleapis.com
 mercusuar.u-zone.id
@@ -1926,6 +1954,7 @@ motogp.api.weplay.media
 mozaws.net
 mozgcp.net
 mp3.zing.vn
+mps.nbcuni.com
 mp.toutiao.com
 ms4.applovin.com
 ms.bignox.com
@@ -1972,6 +2001,7 @@ nat02.feelingtouch.com
 nat.cn.bucuowan.com
 nathanaeldan.pro
 nativepu.sh
+nbcu.demdex.net
 ncaudienceexchange.com
 ndt-mlab2-sin01.mlab-oti.measurementlab.net
 nea.telkomsel.com
@@ -2188,6 +2218,7 @@ player.bignox.com
 player.bokep234.com
 player-ivideosmart-com.cdn.ampproject.org
 players.brightcove.net
+playmakerservices.com
 play.wetvinfo.com
 pl.bignox.com
 plugin-server.wps.com
@@ -2218,6 +2249,7 @@ printfriendly.com
 prismic.io
 privacy-center.org
 privacy.kiwibrowser.org
+privacy-mgmt.com
 privacy-policy.truste.com
 private-58cec5-funsegmentsapi.apiary-mock.com
 private-da8bd3-funapi6.apiary-mock.com
@@ -2537,6 +2569,7 @@ sm.bdimg.com
 sm.ms
 s.mobsrvapi.com
 sms.webadv.co
+smushcdn.com
 snackvideo.com
 snackvideo.in
 snapchat.com
@@ -2544,6 +2577,7 @@ snapengage.com
 snapgirls.date
 snapgirls.today
 snapgirls.uno
+s-nbcnews.com
 snigelweb.com
 sns.bignox.com
 snssdk.com
@@ -2574,6 +2608,7 @@ splash.unity.com
 sportskeeda.com
 sports.qq.com
 sp-prod.net
+sprtsecureassets.akamaized.net
 sp.zalo.me
 srv1.bilikfilm.xyz
 srv-mobile-version-validator.services.z-dn.net
@@ -2683,6 +2718,7 @@ t5.market.xiaomi.com
 t7.a.market.xiaomi.com
 taboola.com
 tads.mobadvent.com
+tag.researchnow.com
 taichi.y5en.com
 talking-ads.com
 tanteseksi.one
@@ -2748,6 +2784,7 @@ tm.a.prd.aadg.trafficmanager.net
 tmdb.org
 tm.prd.ags.akadns.net
 tms-api.shalltry.com
+tokens.playmakerservices.com
 tongdun.net
 toolbox.com
 tooncoin.com
@@ -2781,6 +2818,7 @@ tribalfusion.com
 tribl.io
 trnox.com
 trojanarticle.com
+tru.am
 truefornite.com
 truepush.com
 trustarc.com
@@ -2793,6 +2831,7 @@ turbotax.com
 turbotax.intuit.com
 turn.com
 tv.bignox.com
+tvpixel.com
 t.wattpad.com
 tw.bignox.com
 twibida.com
@@ -2998,6 +3037,7 @@ whippedfreezerbegun.com
 whoami.akamai.net
 whx66.veve.com
 whynt.xyz
+widget.intercom.io
 widget.surveymonkey.com
 wifimap.zendesk.com
 wifi.vivo.com.cn
@@ -3034,6 +3074,7 @@ www.adapex.io
 www.addtoany.com
 www.adlook.me
 www.agencymrbeast.com
+www.announcekit.app
 www.apkeditorfree.com
 www.appjustable.com
 www.attention-system-warning.com
@@ -3075,6 +3116,7 @@ www.go2cloud.org
 www.googleapis.cn
 www.google.cn
 www.google.ru
+www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.hastopic.com
 www.hippoobox.com
@@ -3115,6 +3157,7 @@ www.qq.com
 www.quiztest.me
 www.ralijqugghwqil.com
 www.robinhand.vip
+www.sail-horizon.com
 www.sas-autos.com
 www.servicewebly.com
 www.sfdcstatic.com
