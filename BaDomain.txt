@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 13.06.2022
+# Version: 15.06.2022
 # Update: 1 days
 #
 
@@ -109,6 +109,7 @@ a.applovin.com
 aaxads.com
 abesu.org
 about2.xyz
+aboutads.com
 aboutads.info
 aboutads.net
 abroad.apilocate.amap.com
@@ -133,6 +134,7 @@ acuityplatform.com
 ad4.flurry.com
 ada.cx
 adadvisor.net
+adaggreg-ali.shalltry.com
 adapex.io
 adap.tv
 ada.support
@@ -337,6 +339,7 @@ api.gw.airpay.co.id
 apigw-pre.shalltry.com
 api.hisavana.com
 api.hotstar.com
+api.howlapm.com
 api-id.cdo.heytapmobile.com
 api-id.game.heytapmobi.com
 api-id.play.heytapmobile.com
@@ -488,12 +491,14 @@ asia-gsearch.vivoglobal.com
 asia-img-appstore.vivoglobal.com
 asia-magazineunlock.vivoglobal.com
 asia-mailcli.vivoglobal.com
+asia-news-abroad-backstage-interface.vivoglobal.com
 asia-news-abroad.vivo.com
 asianteen.space
 asia-os-config-appstore.vivoglobal.com
 asia-p.vivoglobal.com
 asia-rommc-api.vivoglobal.com
 asia-romsp-unifyconfig.vivoglobal.com
+asia-romsp.vivoglobal.com
 asia-ro-up.vivoglobal.com
 asia-sms-api.vivoglobal.com
 asia-southeast1-gcp.api.snapchat.com
@@ -723,6 +728,7 @@ cdn.slidesharecdn.com
 cdn-static.ap4r.com
 cdn-static.kwai.net
 cdn-store-icons-akamai-prd.unityads.unity3d.com
+cdn-theme-eu-central-1.shalltry.com
 cdn.tstatic.net
 cdn.viber.com
 cdn.weglot.com
@@ -805,6 +811,7 @@ coinbasesj.vip
 colegiounamuno.es
 collector.lunalabs.io
 collector-playground.lunalabs.uk
+collector-pxikkul2rm.perimeterx.net
 combinatronics.io
 commnat-cohort-gc.ess.apple.com
 commnat-main-gc.ess.apple.com
@@ -829,6 +836,7 @@ conf-sg-dc.heytapdl.com
 conf-sg.dc.heytapmobi.com
 conn1.oppomobile.com
 conn2.oppomobile.com
+connect.intl.rom.miui.com
 connectivitycheck.cbg-app.huawei.com
 connect-milink.g.mi.com
 connect.rom.miui.com
@@ -1005,6 +1013,7 @@ dm.samsungdive.com
 dn.im-gb.com
 dns11.quad9.net
 dns9.hichina.com
+dnsforwardingservice.com
 dns.jomax.net
 dns.msftncsi.com
 dns.oppomobile.com
@@ -1077,6 +1086,7 @@ embed-cdn.com
 embed-fastly.wistia.com
 embedwistia-a.akamaihd.net
 emebo.io
+empower-api.palmplaystore.com
 emxdgt.com
 en.bignox.com
 encrypted-tbn0.gstatic.com
@@ -1208,9 +1218,11 @@ fuseplatform.net
 futurecdn.net
 futureplc.com
 fuwu.sogou.com
+fw.dnsforwardingservice.com
 fwmrm.net
 fxgate.baidu.com
 fyber-static.com
+g0.market.mi-img.com
 g2.com
 g2crowd.com
 g.alicdn.com
@@ -1539,6 +1551,7 @@ img-l.usicdn.com
 img.onesignal.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img.samsungapps.com
+img-s-msn-com.akamaized.net
 img.wattpad.com
 imgx.gridoto.com
 i.mi.com
@@ -1577,6 +1590,7 @@ innity.net
 innovads-server.poster.appsinnova.com
 innovid.com
 inpagepush.com
+i-n.sgsnssdk.com
 ins.hastopic.com
 inshot.cc
 insidecrm.com
@@ -1890,6 +1904,7 @@ mmtro.com
 moatads.com
 mobadvent.com
 mob.com
+mobileassets.gopaylater.findaya.co.id
 mobile.bignox.com
 mobilesearchers.com
 mobiletime.net
@@ -2091,6 +2106,7 @@ ozap.bar
 p16.resso.app
 p16.resso.me
 p16.topbuzzcdn.com
+p16-va.topbuzzcdn.com
 p20.zdassets.com
 p55-keyvalueservice.icloud.com
 paas.iresearch.vip
@@ -2122,6 +2138,7 @@ pastibisajual.online
 path1.xtracloud.net
 path2.xtracloud.net
 path3.xtracloud.net
+patronus.idata.shopeemobile.com
 pay.bignox.com
 paypal--accounts.com
 pay-sg.wsds.cn
@@ -2252,6 +2269,7 @@ pushmart.net
 pushmessage.samsung.com
 pushpromjs.messagebird.com
 px1.lifesavvy.com
+px-conf.perimeterx.net
 pxf.io
 pxksnymto.ru
 qbox.me
@@ -2346,6 +2364,7 @@ robwu.nl
 robyoc.online
 romanhackers.com
 rosenberg.appmetrica.yandex.net
+ro.up.vivoglobal.com
 router.miwifi.com
 rpc.tapjoy.com
 rpe.xdplt.com
@@ -2471,6 +2490,7 @@ sg-dm.pageonenewsapp.com
 sg-drive.wps.com
 sgfp.tongdun.net
 sg-idm.api.io.mi.com
+sg-live-01.slatic.net
 sg.omlet.me
 sgpac.account.xiaomi.com
 sgp-img-c.heytapimg.com
@@ -2547,6 +2567,7 @@ specificclick.net
 specificmedia.com
 speedcurve.com
 speed.y5en.com
+spidersense.bendingspoons.com
 s.pinimg.com
 splash.unity.cn
 splash.unity.com
@@ -2557,6 +2578,7 @@ sp.zalo.me
 srv1.bilikfilm.xyz
 srv-mobile-version-validator.services.z-dn.net
 srv-ocr-api-logged.z-dn.net
+srv.sec.intl.miui.com
 srv-si-photo-upload.z-dn.net
 ssacdn.com
 ssl-images-amazon.com
@@ -2657,6 +2679,7 @@ syszalive.uksouth.cloudapp.azure.com
 t14.market.mi-img.com
 t2.chartboost.com
 t2.market.mi-img.com
+t5.market.xiaomi.com
 t7.a.market.xiaomi.com
 taboola.com
 tads.mobadvent.com
@@ -3250,6 +3273,7 @@ znpst.top
 zoominfo.com
 zqtk.net
 zres.alicdn.com1111210941.rsc.cdn77.org
+zte.cn
 zte.com
 zte.com.cn
 zueirassemlimites.com

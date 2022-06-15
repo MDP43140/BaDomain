@@ -163,6 +163,7 @@
 127.0.0.1 api16-core-ipv6.sgsnssdk.com
 127.0.0.1 api16-core-n-alisg.tiktokv.com
 127.0.0.1 api16-core-n-alisg.tiktokv.com.edgekey.net
+127.0.0.1 api16-core.tiktokv.com
 127.0.0.1 api16-core-va.tiktokv.com
 127.0.0.1 api16-core-va.tiktokv.com.edgekey.net
 127.0.0.1 api16-log-sg.pangle.io
@@ -280,6 +281,7 @@
 127.0.0.1 api22-core-c-useast2a.tiktokv.com
 127.0.0.1 api22-core-i-alisg.sgsnssdk.com
 127.0.0.1 api22-core-n-alisg.tiktokv.com
+127.0.0.1 api22-core.tiktokv.com
 127.0.0.1 api22-core-va.tiktokv.com
 127.0.0.1 api22-normal-alisg.helo-api.com
 127.0.0.1 api22-normal-c-alisg.tiktokv.com

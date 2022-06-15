@@ -163,6 +163,7 @@ api16-core-i-alisg.sgsnssdk.com
 api16-core-ipv6.sgsnssdk.com
 api16-core-n-alisg.tiktokv.com
 api16-core-n-alisg.tiktokv.com.edgekey.net
+api16-core.tiktokv.com
 api16-core-va.tiktokv.com
 api16-core-va.tiktokv.com.edgekey.net
 api16-log-sg.pangle.io
@@ -280,6 +281,7 @@ api22-core-c-useast2a.musical.ly
 api22-core-c-useast2a.tiktokv.com
 api22-core-i-alisg.sgsnssdk.com
 api22-core-n-alisg.tiktokv.com
+api22-core.tiktokv.com
 api22-core-va.tiktokv.com
 api22-normal-alisg.helo-api.com
 api22-normal-c-alisg.tiktokv.com

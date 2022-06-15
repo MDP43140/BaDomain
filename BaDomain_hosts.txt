@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 13.06.2022
+# Version: 15.06.2022
 # Update: 1 days
 #
 
@@ -133,6 +133,7 @@
 127.0.0.1 ad4.flurry.com
 127.0.0.1 ada.cx
 127.0.0.1 adadvisor.net
+127.0.0.1 adaggreg-ali.shalltry.com
 127.0.0.1 adapex.io
 127.0.0.1 adap.tv
 127.0.0.1 ada.support
@@ -337,6 +338,7 @@
 127.0.0.1 apigw-pre.shalltry.com
 127.0.0.1 api.hisavana.com
 127.0.0.1 api.hotstar.com
+127.0.0.1 api.howlapm.com
 127.0.0.1 api-id.cdo.heytapmobile.com
 127.0.0.1 api-id.game.heytapmobi.com
 127.0.0.1 api-id.play.heytapmobile.com
@@ -488,12 +490,14 @@
 127.0.0.1 asia-img-appstore.vivoglobal.com
 127.0.0.1 asia-magazineunlock.vivoglobal.com
 127.0.0.1 asia-mailcli.vivoglobal.com
+127.0.0.1 asia-news-abroad-backstage-interface.vivoglobal.com
 127.0.0.1 asia-news-abroad.vivo.com
 127.0.0.1 asianteen.space
 127.0.0.1 asia-os-config-appstore.vivoglobal.com
 127.0.0.1 asia-p.vivoglobal.com
 127.0.0.1 asia-rommc-api.vivoglobal.com
 127.0.0.1 asia-romsp-unifyconfig.vivoglobal.com
+127.0.0.1 asia-romsp.vivoglobal.com
 127.0.0.1 asia-ro-up.vivoglobal.com
 127.0.0.1 asia-sms-api.vivoglobal.com
 127.0.0.1 asia-southeast1-gcp.api.snapchat.com
@@ -723,6 +727,7 @@
 127.0.0.1 cdn-static.ap4r.com
 127.0.0.1 cdn-static.kwai.net
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
+127.0.0.1 cdn-theme-eu-central-1.shalltry.com
 127.0.0.1 cdn.tstatic.net
 127.0.0.1 cdn.viber.com
 127.0.0.1 cdn.weglot.com
@@ -805,6 +810,7 @@
 127.0.0.1 colegiounamuno.es
 127.0.0.1 collector.lunalabs.io
 127.0.0.1 collector-playground.lunalabs.uk
+127.0.0.1 collector-pxikkul2rm.perimeterx.net
 127.0.0.1 combinatronics.io
 127.0.0.1 commnat-cohort-gc.ess.apple.com
 127.0.0.1 commnat-main-gc.ess.apple.com
@@ -829,6 +835,7 @@
 127.0.0.1 conf-sg.dc.heytapmobi.com
 127.0.0.1 conn1.oppomobile.com
 127.0.0.1 conn2.oppomobile.com
+127.0.0.1 connect.intl.rom.miui.com
 127.0.0.1 connectivitycheck.cbg-app.huawei.com
 127.0.0.1 connect-milink.g.mi.com
 127.0.0.1 connect.rom.miui.com
@@ -1005,6 +1012,7 @@
 127.0.0.1 dn.im-gb.com
 127.0.0.1 dns11.quad9.net
 127.0.0.1 dns9.hichina.com
+127.0.0.1 dnsforwardingservice.com
 127.0.0.1 dns.jomax.net
 127.0.0.1 dns.msftncsi.com
 127.0.0.1 dns.oppomobile.com
@@ -1077,6 +1085,7 @@
 127.0.0.1 embed-fastly.wistia.com
 127.0.0.1 embedwistia-a.akamaihd.net
 127.0.0.1 emebo.io
+127.0.0.1 empower-api.palmplaystore.com
 127.0.0.1 emxdgt.com
 127.0.0.1 en.bignox.com
 127.0.0.1 encrypted-tbn0.gstatic.com
@@ -1208,9 +1217,11 @@
 127.0.0.1 futurecdn.net
 127.0.0.1 futureplc.com
 127.0.0.1 fuwu.sogou.com
+127.0.0.1 fw.dnsforwardingservice.com
 127.0.0.1 fwmrm.net
 127.0.0.1 fxgate.baidu.com
 127.0.0.1 fyber-static.com
+127.0.0.1 g0.market.mi-img.com
 127.0.0.1 g2.com
 127.0.0.1 g2crowd.com
 127.0.0.1 g.alicdn.com
@@ -1539,6 +1550,7 @@
 127.0.0.1 img.onesignal.com
 127.0.0.1 img-prod-cms-rt-microsoft-com.akamaized.net
 127.0.0.1 img.samsungapps.com
+127.0.0.1 img-s-msn-com.akamaized.net
 127.0.0.1 img.wattpad.com
 127.0.0.1 imgx.gridoto.com
 127.0.0.1 i.mi.com
@@ -1577,6 +1589,7 @@
 127.0.0.1 innovads-server.poster.appsinnova.com
 127.0.0.1 innovid.com
 127.0.0.1 inpagepush.com
+127.0.0.1 i-n.sgsnssdk.com
 127.0.0.1 ins.hastopic.com
 127.0.0.1 inshot.cc
 127.0.0.1 insidecrm.com
@@ -1890,6 +1903,7 @@
 127.0.0.1 moatads.com
 127.0.0.1 mobadvent.com
 127.0.0.1 mob.com
+127.0.0.1 mobileassets.gopaylater.findaya.co.id
 127.0.0.1 mobile.bignox.com
 127.0.0.1 mobilesearchers.com
 127.0.0.1 mobiletime.net
@@ -2091,6 +2105,7 @@
 127.0.0.1 p16.resso.app
 127.0.0.1 p16.resso.me
 127.0.0.1 p16.topbuzzcdn.com
+127.0.0.1 p16-va.topbuzzcdn.com
 127.0.0.1 p20.zdassets.com
 127.0.0.1 p55-keyvalueservice.icloud.com
 127.0.0.1 paas.iresearch.vip
@@ -2122,6 +2137,7 @@
 127.0.0.1 path1.xtracloud.net
 127.0.0.1 path2.xtracloud.net
 127.0.0.1 path3.xtracloud.net
+127.0.0.1 patronus.idata.shopeemobile.com
 127.0.0.1 pay.bignox.com
 127.0.0.1 paypal--accounts.com
 127.0.0.1 pay-sg.wsds.cn
@@ -2252,6 +2268,7 @@
 127.0.0.1 pushmessage.samsung.com
 127.0.0.1 pushpromjs.messagebird.com
 127.0.0.1 px1.lifesavvy.com
+127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 pxf.io
 127.0.0.1 pxksnymto.ru
 127.0.0.1 qbox.me
@@ -2346,6 +2363,7 @@
 127.0.0.1 robyoc.online
 127.0.0.1 romanhackers.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
+127.0.0.1 ro.up.vivoglobal.com
 127.0.0.1 router.miwifi.com
 127.0.0.1 rpc.tapjoy.com
 127.0.0.1 rpe.xdplt.com
@@ -2471,6 +2489,7 @@
 127.0.0.1 sg-drive.wps.com
 127.0.0.1 sgfp.tongdun.net
 127.0.0.1 sg-idm.api.io.mi.com
+127.0.0.1 sg-live-01.slatic.net
 127.0.0.1 sg.omlet.me
 127.0.0.1 sgpac.account.xiaomi.com
 127.0.0.1 sgp-img-c.heytapimg.com
@@ -2547,6 +2566,7 @@
 127.0.0.1 specificmedia.com
 127.0.0.1 speedcurve.com
 127.0.0.1 speed.y5en.com
+127.0.0.1 spidersense.bendingspoons.com
 127.0.0.1 s.pinimg.com
 127.0.0.1 splash.unity.cn
 127.0.0.1 splash.unity.com
@@ -2557,6 +2577,7 @@
 127.0.0.1 srv1.bilikfilm.xyz
 127.0.0.1 srv-mobile-version-validator.services.z-dn.net
 127.0.0.1 srv-ocr-api-logged.z-dn.net
+127.0.0.1 srv.sec.intl.miui.com
 127.0.0.1 srv-si-photo-upload.z-dn.net
 127.0.0.1 ssacdn.com
 127.0.0.1 ssl-images-amazon.com
@@ -2657,6 +2678,7 @@
 127.0.0.1 t14.market.mi-img.com
 127.0.0.1 t2.chartboost.com
 127.0.0.1 t2.market.mi-img.com
+127.0.0.1 t5.market.xiaomi.com
 127.0.0.1 t7.a.market.xiaomi.com
 127.0.0.1 taboola.com
 127.0.0.1 tads.mobadvent.com
@@ -3250,6 +3272,7 @@
 127.0.0.1 zoominfo.com
 127.0.0.1 zqtk.net
 127.0.0.1 zres.alicdn.com1111210941.rsc.cdn77.org
+127.0.0.1 zte.cn
 127.0.0.1 zte.com
 127.0.0.1 zte.com.cn
 127.0.0.1 zueirassemlimites.com
