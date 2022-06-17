@@ -938,6 +938,7 @@ l.facebook.com
 lists.facebook.com
 lithium.facebook.com
 liverail.c10r.facebook.com
+live-upload.instagram.com
 lm.facebook.com
 lntecc.m.facebook.com
 lntinfotech.m.facebook.com

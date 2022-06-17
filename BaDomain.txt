@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 15.06.2022
+# Version: 17.06.2022
 # Update: 1 days
 #
 
@@ -210,6 +210,7 @@ adzhosts.eu
 adz.wattpad.com
 a.e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
+aegis.qq.com
 a.f18597036f4034883ad83eaeb38250b39241210076555a33a60171b6.com
 a.fc4d74be804f943caa3621b864c54ff0d19c0aca87671ceb51aec5e8.com
 affilight.com
@@ -247,7 +248,10 @@ al.flv.nimo.tv
 al.hls.nimo.tv
 ali2-sgp-cdn.snackvideo.in
 aliapp.org
+alicdn.com
 alightcreative.com
+alipay.com
+alipayobjects.com
 ali-sgp-cdn.snackvideo.in
 ali-sgp-origin-pull.snackvideo.in
 ali-sgp-pull.snackvideo.in
@@ -314,11 +318,13 @@ api-apac.bidmachine.io
 api.appsflyer.com
 api-assetstore.kinemasters.com
 api-auth.kinemasters.com
+api.baca.co.id
 api.bidmachine.io
 api.bignox.com
 api.black.riseup.net
 api.blocka.net
 api.cleanmaster.club
+api.coin.baca.co.id
 api.data.appsinnova.com
 api-dci.kinemasters.com
 api.device.xiaomi.net
@@ -362,6 +368,7 @@ api.kwai.com
 api-leap.nbcsports.com
 api.likee.video
 api.like-it.video
+api.map.baidu.com
 ap.ime.cdn.cootekservice.com
 ap.ime.cootek.com
 api.meditation.oneboost.me
@@ -397,6 +404,7 @@ api.smoot.apple.com
 api-snake.oppomobile.com
 api.snake.oppomobile.com
 api.snapkit.com
+apisnd.heytapmobi.com
 api.sportskeeda.com
 apissug-sf.ucweb.com
 api-stream.twitter.com
@@ -536,6 +544,7 @@ assets.ubembed.com
 associates-amazon.com
 astra9dlya10.com
 astratech.pro
+at.alicdn.com
 atom-log.3.cn
 attention-system-warning.com
 attitude.applinzi.com
@@ -557,6 +566,7 @@ au.umeng.com
 ava-cdn.like-it.video
 avatar.pho.to
 avcdn.net
+a.vdo.ai
 avlyun.com
 a.wattpad.com
 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
@@ -572,11 +582,13 @@ b1.nel.goog
 baby-girls.id
 baby-girls.my.id
 babyzee.uno
+baca.co.id
 backjawtanoa.com
 bae.appmeasurements.com
 bag.itunes.apple.com
 baidu.com
 baike.sogou.com
+b.alipay.com
 ballou.se
 bam-cell.nr-data.net
 bannerflow.com
@@ -586,6 +598,7 @@ basket2.xyz
 bazaarvoice.com
 bbs.bignox.com
 bc0a.com
+bdapi-f.ads.heytapmobi.com
 bdapi-f.ads.heytapmobile.com
 bdapi-id.ads.heytapmobile.com
 beacon.page
@@ -665,6 +678,7 @@ buildit-api.zepeto.me
 bunnygirlss.site
 buxadder.club
 buy.itunes-apple.com.akadns.net
+buy.qcloudimg.com
 buysellads.com
 buysellads.net
 by3pcor001-com.be.1drv.com
@@ -720,6 +734,7 @@ cdn.fbsbx.com
 cdn-f.heylink.me
 cdn.foxpush.net
 cdn.gamesnacks.com
+cdn-go.cn
 cdn-graphql-v4.kumparan.com
 cdnimage2.caping.co.id
 cdn-images.mailchimp.com
@@ -728,7 +743,6 @@ cdn.link4app.com
 cdnm3.caping.co.id
 cdn.otnolatrnup.com
 cdn.outfit7.com
-cdn.printfriendly.com
 cdn-production-assets-kly.akamaized.net
 cdn.pushmart.net
 cdn.ravenjs.com
@@ -789,6 +803,7 @@ cl4.apple.com
 cl4.apple.com.c.footprint.net
 cl5.apple.com
 clarity.ms
+classify.apps.coloros.com
 c.lazada.co.id
 cldapi.net
 cleanmaster.club
@@ -799,6 +814,8 @@ clickagy.com
 clientapi-sin.dtignite.com
 client-registry.mutinycdn.com
 client-uc.heytapmobi.com
+cloudcache.tencent-cloud.com
+cloudcache.tencentcs.com
 cloudcf.like-it.video
 cloudctrl.gcloudsdk.com
 cloudflareinsights.com
@@ -821,12 +838,15 @@ codashop.com
 code.createjs.com
 codepush.appcenter.ms
 cognitivlabs.com
+coin.baca.co.id
 coinbasesj.vip
 colegiounamuno.es
+collect.alipay.com
 collector.lunalabs.io
 collector-playground.lunalabs.uk
 collector-pxikkul2rm.perimeterx.net
 combinatronics.io
+comm.api.vivoglobal.com
 commnat-cohort-gc.ess.apple.com
 commnat-main-gc.ess.apple.com
 common-api.smart-sense.org
@@ -848,6 +868,7 @@ config.y5en.com
 confirmation.gameloft.com
 conf-sg-dc.heytapdl.com
 conf-sg.dc.heytapmobi.com
+conf-snake.esa.heytapmobi.com
 conn1.oppomobile.com
 conn2.oppomobile.com
 connect.intl.rom.miui.com
@@ -1048,6 +1069,7 @@ dot.iq.com
 dotomi.com
 doubleclick.net
 down.anticheatexpert.com
+download.alicdn.com
 download.bignox.com
 download.iobit.com
 download-sin.dtignite.com
@@ -1078,11 +1100,13 @@ e673.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
+e.alipay.com
 easymakesolution.com
 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
 ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
 ec2-54-165-151-168.compute-1.amazonaws.com
 ec2-54-169-233-104.ap-southeast-1.compute.amazonaws.com
+ec-api.akulaku.com
 echo-tcp-org.y5en.com
 ecommerce.iap.unity3d.com
 ecs-110-238-109-184.compute.hwclouds-dns.com
@@ -1381,6 +1405,7 @@ guid.tpns.hk.tencent.com
 guid.tpns.sgp.tencent.com
 gumgum.com
 gumroad.com
+gw.alipayobjects.com
 gw-dana.ebuckler.com
 gw-napi.zepeto.io
 gw.ruangguru.com
@@ -1525,12 +1550,14 @@ id-update-appstore.vivoglobal.com
 id.video.intl.xiaomi.com
 id-xl.rcs.telephony.goog
 ieee.org
+ientp.alipay.com
 ie.sogou.com
 if4a3802.app-ads-txt.com
 iface2.iqiyi.com
 if.browser.oppomobile.com
 iflowf.browser.oppomobile.com
 iflowf-sg.browser.oppomobile.com
+iflow-in.browser.heytapmobile.com
 iflow-sg.browser.heytapmobile.com
 ifota.coloros.com
 ifota.realmemobile.com
@@ -1542,6 +1569,7 @@ ign.com
 ignimgs.com
 igofun.mobi
 igslb.cdo.oppomobile.com
+i-in.browser.heytapmobile.com
 i.lencr.org
 ilockcardf.apps.coloros.com
 ilovexclub.com
@@ -1613,6 +1641,7 @@ i-n.sgsnssdk.com
 ins.hastopic.com
 inshot.cc
 insidecrm.com
+insight.cloud.tencent.com
 insight.rakuten.com
 ins.shalltry.com
 instant.page
@@ -1689,6 +1718,7 @@ js.chargebee.com
 js.cx
 js.datadome.co
 js.driftt.com
+js.getlasso.co
 js.hs-analytics.net
 js.hs-banner.com
 js.hsleadflows.net
@@ -1708,7 +1738,6 @@ kayumanis.detik.com
 keep2.xyz
 kepler.51y5.net
 kepler.y5en.com
-key-cdn.printfriendly.com
 keyvalueservice.icloud.com
 kika-backend.com
 kikakeyboard.com
@@ -1763,6 +1792,7 @@ lencr.org
 letsgoconvert.com
 lf16-geckocdn.bytegecko-i18n.com
 lf19-geckocdn.bytegecko-i18n.com
+l.getsitecontrol.com
 l.gotube.pro
 liadm.com
 libra-sg.resso.app
@@ -1806,6 +1836,7 @@ log.bignox.com
 logging.baca.co.id
 log.goodnovel.com
 logicbuy.com
+login.im.qcloud.com
 login.tim.qq.com
 log.kzvepo.com
 logo.clearbit.com
@@ -1842,6 +1873,7 @@ mail.hbmtours.com
 mailing.educba.com
 mail.kantora.ge
 mail.pazu.ge
+main.qcloudimg.com
 makeup.pho.to
 mall.shopee.co.id
 manifest.tower.sybo.net
@@ -2093,6 +2125,7 @@ onesoft.com.vn
 onetrust.com
 onezapp.com
 onnanoko.tokyo
+opc.cloud.tencent.com
 openapi.joox.com
 openapi.webull.com
 open.bignox.com
@@ -2198,7 +2231,9 @@ pho.to
 photolab.me
 photolabsocialapi.pho.to
 pic.sogou.com
+ping.cloud.tencent.com
 pingdom.net
+pingfore.qq.com
 ping.huatuo.qq.com
 ping.im-gb.com
 pingma.qq.com
@@ -2213,6 +2248,7 @@ placements.tapjoyads.com
 plassets.ws.pho.to
 plat-api.bignox.com
 platform.hicloud.com
+plausible.chmod777.ltd
 play0.heytapimg.com
 player.bignox.com
 player.bokep234.com
@@ -2245,7 +2281,6 @@ pressablecdn.com
 preview-kly.akamaized.net
 p.rfihub.com
 primis.tech
-printfriendly.com
 prismic.io
 privacy-center.org
 privacy.kiwibrowser.org
@@ -2264,6 +2299,7 @@ prod.cloudops.mozgcp.net
 prod.cloud.rockstargames.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod.mozaws.net
+product.instiengage.com
 profile.gc.apple.com
 profitwell.com
 pro.ilovexclub.com
@@ -2292,6 +2328,7 @@ pubmine.com
 pub.neasenldz.com
 pub.network
 pubs.contextads.live
+pub.searchiq.co
 pubstatus.sinaapp.com
 pushbrothers.com
 push.heytapmobile.com
@@ -2305,6 +2342,10 @@ px-conf.perimeterx.net
 pxf.io
 pxksnymto.ru
 qbox.me
+qcloudimg.com
+qcloudimg.tencent-cloud.cn
+qcloudimg.tencentcs.cn
+qcloudimg.tencentcs.com
 qidian.qq.com
 qiniuapi.com
 qotu.bar
@@ -2492,6 +2533,8 @@ self.events.data.microsoft.com
 selfishsnake.com
 sellwild.com
 semasio.net
+sendgrid.com
+sensors.cloud.tencent.com
 sentry-cdn.com
 sentry.io
 sentry.kumparan.com
@@ -2618,6 +2661,7 @@ srv-si-photo-upload.z-dn.net
 ssacdn.com
 ssl-images-amazon.com
 ss.litatom.com
+ssl.pstatic.net
 sso.y5en.com
 ssp-39f58.trnox.com
 ssp-3-9f58.trnox.com
@@ -2636,6 +2680,7 @@ static0.cbrimages.com
 static.addtoany.com
 static.ads-twitter.com
 static.ahagamecenter.com
+static.apester.com
 static-cms.aa-cdn.net
 static-doubleclick-net.l.google.com
 static.gc.apple.com
@@ -2710,6 +2755,7 @@ s.xlgmedia.com
 sync.search.spotxchange.com
 syndication.twitter.com
 system1.com
+sysupgrade.api.vivoglobal.com
 syszalive.uksouth.cloudapp.azure.com
 t14.market.mi-img.com
 t2.chartboost.com
@@ -2720,6 +2766,7 @@ taboola.com
 tads.mobadvent.com
 tag.researchnow.com
 taichi.y5en.com
+t.alipayobjects.com
 talking-ads.com
 tanteseksi.one
 taobao.com
@@ -2738,7 +2785,11 @@ technologyadvice.com
 technopawns.com
 techrights.org
 tecno.servicewebly.com
+tencent-cloud.cn
+tencent-cloud.com
 tencent.com
+tencentcs.cn
+tencentcs.com
 tengame.net
 tenor.co
 tenor.com
@@ -2782,6 +2833,7 @@ tm.ak.prd.aadg.akadns.net
 tm.ak.prd.aadg.trafficmanager.net
 tm.a.prd.aadg.trafficmanager.net
 tmdb.org
+tmge.alicdn.com
 tm.prd.ags.akadns.net
 tms-api.shalltry.com
 tokens.playmakerservices.com
@@ -2795,6 +2847,7 @@ toprbx.best
 toutiao.com
 tpai.caping.co.id
 t.pubmatic.com
+tracert.alipay.com
 track.analytics.rocks
 tracker.ruangguru.com
 trackersimulator.org
@@ -2889,6 +2942,8 @@ update.kiwibrowser.com
 update.mysecuritystudio.com
 update.neptunegame.com
 upgrade.shalltry.com
+upload-dianshi-1255598498.file.myqcloud.com
+ur.alipay.com
 ureca.samsungapps.com
 us.api.fc.mob.com
 us.api.fd.mob.com
@@ -2927,6 +2982,7 @@ vaw.fyi
 vay.rent
 vbucks22.com
 vbw.vivoglobal.com
+vdo.ai
 vercel-analytics.com
 verify.uxcam.com
 veso2.xyz
@@ -3074,11 +3130,13 @@ www.adapex.io
 www.addtoany.com
 www.adlook.me
 www.agencymrbeast.com
+www.alipay.com
 www.announcekit.app
 www.apkeditorfree.com
 www.appjustable.com
 www.attention-system-warning.com
 www.aws.iobit.com
+www.baca.co.id
 www.backjawtanoa.com
 www.baidu.com
 www.beacons.ai
@@ -3183,6 +3241,7 @@ www.uadexchange.com
 www.uc.cn
 www.unipin.com
 www.uzone.id
+www.vdo.ai
 www.viber.com
 www.vidio.com
 www.vob.fyi
@@ -3314,6 +3373,7 @@ zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
 znews-photo.zingcdn.me
 znpst.top
 zoominfo.com
+zos.alipayobjects.com
 zqtk.net
 zres.alicdn.com1111210941.rsc.cdn77.org
 zte.cn

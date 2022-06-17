@@ -1594,6 +1594,7 @@ mssdk-sg-bu.byteoversea.com
 mssdk-sg.byteoversea.com
 mssdk-sg.tiktokv.com
 mssdk.snssdk.com
+mssdk-va.tiktokv.com
 mtg-bkk-v1.l.byteoversea.net
 m.tiktok.com
 m.tiktok.com.edgesuite.net

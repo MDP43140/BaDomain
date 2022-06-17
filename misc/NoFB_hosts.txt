@@ -939,6 +939,7 @@
 127.0.0.1 lists.facebook.com
 127.0.0.1 lithium.facebook.com
 127.0.0.1 liverail.c10r.facebook.com
+127.0.0.1 live-upload.instagram.com
 127.0.0.1 lm.facebook.com
 127.0.0.1 lntecc.m.facebook.com
 127.0.0.1 lntinfotech.m.facebook.com
