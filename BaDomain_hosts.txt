@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.06.2022
+# Version: 19.06.2022
 # Update: 1 days
 #
 
@@ -2798,6 +2798,7 @@
 127.0.0.1 teraboxcdn.com
 127.0.0.1 terabox.com
 127.0.0.1 teslacoilapps.com
+127.0.0.1 tesladoge.pro
 127.0.0.1 testapi.amap.com
 127.0.0.1 test.bignox.com
 127.0.0.1 tex.z-dn.net
@@ -3104,6 +3105,7 @@
 127.0.0.1 wnskg.qq.com
 127.0.0.1 wondershare.cc
 127.0.0.1 wootric.com
+127.0.0.1 wp20.ru
 127.0.0.1 wpscdn.com
 127.0.0.1 wsapi.master.live
 127.0.0.1 ws.flv.nimo.tv

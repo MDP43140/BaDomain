@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.06.2022
+# Version: 19.06.2022
 # Update: 1 days
 #
 
@@ -2798,6 +2798,7 @@ tentaculos.net
 teraboxcdn.com
 terabox.com
 teslacoilapps.com
+tesladoge.pro
 testapi.amap.com
 test.bignox.com
 tex.z-dn.net
@@ -3104,6 +3105,7 @@ wns.kg.qq.com
 wnskg.qq.com
 wondershare.cc
 wootric.com
+wp20.ru
 wpscdn.com
 wsapi.master.live
 ws.flv.nimo.tv
