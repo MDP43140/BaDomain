@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.06.2022
+# Version: 21.06.2022
 # Update: 1 days
 #
 
@@ -217,6 +217,7 @@ affilight.com
 affilight.network
 affinity.com
 affpub.com
+aff-track.net
 af-rsa.shalltry.com
 af.shalltry.com
 afterpay.com
@@ -352,6 +353,7 @@ api.hotstar.com
 api.howlapm.com
 api-id.cdo.heytapmobile.com
 api-id.game.heytapmobi.com
+api-id.instant.heytapmobile.com
 api-id.play.heytapmobile.com
 api-id.store.heytapmobi.com
 api-id.theme.heytapmobile.com
@@ -1120,6 +1122,7 @@ ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 eleed.cloud
 eleed.online
+eloism.net
 embed-cdn.com
 embed-fastly.wistia.com
 embedwistia-a.akamaihd.net
@@ -1586,6 +1589,7 @@ image.winudf.com
 imasdk.googleapis.com
 imdb.com
 img.alicdn.com
+img.baca.co.id
 imgcache.joox.com
 imgcdn.ymstatic.com
 img.feednews.com
@@ -1952,6 +1956,7 @@ mirabelle.uno
 mis.bignox.com
 misc-pili-qos-report.qiniuapi.com
 miservice.comm.miui.com
+mix.aff-track.net
 mixerbabki.ru
 mixerparanas.ru
 mkevents.mob.com
@@ -2065,6 +2070,7 @@ nightfallinquiredune.com
 nj.cschannel.anticheatexpert.com
 nmnm.lol
 northpoleitalia.it
+notificationsacademy.com
 notif.quizizz.com
 notix.io
 novac.gameloft.com
@@ -2681,6 +2687,7 @@ static.addtoany.com
 static.ads-twitter.com
 static.ahagamecenter.com
 static.apester.com
+static.baca.co.id
 static-cms.aa-cdn.net
 static-doubleclick-net.l.google.com
 static.gc.apple.com
@@ -2804,6 +2811,7 @@ test.bignox.com
 tex.z-dn.net
 th.bignox.com
 thedogvisitor.com
+thefatherofsalmon.com
 themarfa.name
 theme-magazine-gl-01.heytapimg.com
 theme.shalltry.com
@@ -2812,6 +2820,7 @@ themoneytizer.com
 themoviedb.org
 thesaurus.com
 thespacehackers.com
+theyt786ku.cfd
 thinksuggest.org
 threadloom.com
 thrtle.com
@@ -2881,6 +2890,7 @@ tstatic.net
 tubesex.uno
 tui.bignox.com
 tuplogpublic.bangcdn.net
+turbobit.net
 turbotax.com
 turbotax.intuit.com
 turn.com
@@ -2903,6 +2913,7 @@ uadexchange.com
 u-ad.info
 ua-passport.space
 uapi.afo2o.com
+uapi-id.heytapmobile.com
 uat5-b.investingchannel.com
 ubembed.com
 uc-1.telemetry.eyeo.com
@@ -3122,6 +3133,7 @@ wuueqejuratzdz.com
 wvzb9b.xjwi5.com
 ww25.apkeditorfree.com
 ww25.sas-autos.com
+www100.nathanaeldan.pro
 www.12377.cn
 www24.proservice.ge
 www.265.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.06.2022
+# Version: 21.06.2022
 # Update: 1 days
 #
 # This is one single unified hosts file based on:
@@ -225,6 +225,7 @@
 127.0.0.1 affilight.network
 127.0.0.1 affinity.com
 127.0.0.1 affpub.com
+127.0.0.1 aff-track.net
 127.0.0.1 af-rsa.shalltry.com
 127.0.0.1 af.shalltry.com
 127.0.0.1 afterpay.com
@@ -360,6 +361,7 @@
 127.0.0.1 api.howlapm.com
 127.0.0.1 api-id.cdo.heytapmobile.com
 127.0.0.1 api-id.game.heytapmobi.com
+127.0.0.1 api-id.instant.heytapmobile.com
 127.0.0.1 api-id.play.heytapmobile.com
 127.0.0.1 api-id.store.heytapmobi.com
 127.0.0.1 api-id.theme.heytapmobile.com
@@ -1128,6 +1130,7 @@
 127.0.0.1 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 127.0.0.1 eleed.cloud
 127.0.0.1 eleed.online
+127.0.0.1 eloism.net
 127.0.0.1 embed-cdn.com
 127.0.0.1 embed-fastly.wistia.com
 127.0.0.1 embedwistia-a.akamaihd.net
@@ -1594,6 +1597,7 @@
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 imdb.com
 127.0.0.1 img.alicdn.com
+127.0.0.1 img.baca.co.id
 127.0.0.1 imgcache.joox.com
 127.0.0.1 imgcdn.ymstatic.com
 127.0.0.1 img.feednews.com
@@ -1960,6 +1964,7 @@
 127.0.0.1 mis.bignox.com
 127.0.0.1 misc-pili-qos-report.qiniuapi.com
 127.0.0.1 miservice.comm.miui.com
+127.0.0.1 mix.aff-track.net
 127.0.0.1 mixerbabki.ru
 127.0.0.1 mixerparanas.ru
 127.0.0.1 mkevents.mob.com
@@ -2073,6 +2078,7 @@
 127.0.0.1 nj.cschannel.anticheatexpert.com
 127.0.0.1 nmnm.lol
 127.0.0.1 northpoleitalia.it
+127.0.0.1 notificationsacademy.com
 127.0.0.1 notif.quizizz.com
 127.0.0.1 notix.io
 127.0.0.1 novac.gameloft.com
@@ -2689,6 +2695,7 @@
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.ahagamecenter.com
 127.0.0.1 static.apester.com
+127.0.0.1 static.baca.co.id
 127.0.0.1 static-cms.aa-cdn.net
 127.0.0.1 static-doubleclick-net.l.google.com
 127.0.0.1 static.gc.apple.com
@@ -2812,6 +2819,7 @@
 127.0.0.1 tex.z-dn.net
 127.0.0.1 th.bignox.com
 127.0.0.1 thedogvisitor.com
+127.0.0.1 thefatherofsalmon.com
 127.0.0.1 themarfa.name
 127.0.0.1 theme-magazine-gl-01.heytapimg.com
 127.0.0.1 theme.shalltry.com
@@ -2820,6 +2828,7 @@
 127.0.0.1 themoviedb.org
 127.0.0.1 thesaurus.com
 127.0.0.1 thespacehackers.com
+127.0.0.1 theyt786ku.cfd
 127.0.0.1 thinksuggest.org
 127.0.0.1 threadloom.com
 127.0.0.1 thrtle.com
@@ -2889,6 +2898,7 @@
 127.0.0.1 tubesex.uno
 127.0.0.1 tui.bignox.com
 127.0.0.1 tuplogpublic.bangcdn.net
+127.0.0.1 turbobit.net
 127.0.0.1 turbotax.com
 127.0.0.1 turbotax.intuit.com
 127.0.0.1 turn.com
@@ -2911,6 +2921,7 @@
 127.0.0.1 u-ad.info
 127.0.0.1 ua-passport.space
 127.0.0.1 uapi.afo2o.com
+127.0.0.1 uapi-id.heytapmobile.com
 127.0.0.1 uat5-b.investingchannel.com
 127.0.0.1 ubembed.com
 127.0.0.1 uc-1.telemetry.eyeo.com
@@ -3130,6 +3141,7 @@
 127.0.0.1 wvzb9b.xjwi5.com
 127.0.0.1 ww25.apkeditorfree.com
 127.0.0.1 ww25.sas-autos.com
+127.0.0.1 www100.nathanaeldan.pro
 127.0.0.1 www.12377.cn
 127.0.0.1 www24.proservice.ge
 127.0.0.1 www.265.com
