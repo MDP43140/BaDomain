@@ -596,6 +596,7 @@ bytedance.map.fastly.net
 bytedance-tmcdn.tm.com.my
 bytedns.net
 byted.org
+byteeffecttos-g.com
 bytegeo.akadns.net
 byteicdn.com
 byteimg.com
@@ -1312,6 +1313,7 @@ lf16-tiktok-common.ibytedos.com
 lf16-tiktok-common.ibytedtos.com
 lf16-tiktok.ibytedtos.com
 lf16-tiktok-web.ttwstatic.com
+lf19-effectcdn.byteeffecttos-g.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
 lf1-amcdn-tos.pstatp.com.wsglb0.com
@@ -1414,6 +1416,7 @@ lively-ws-hls.muscdn.com
 live.musical.ly
 l.l.bytedns.net
 lms-ns.byteoversea.com
+location-traceroute-sg.bytedance.com
 loc.snssdk.com
 log15.byteoversea.com
 log15-normal-useast2a.tiktokv.com

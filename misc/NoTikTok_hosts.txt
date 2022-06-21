@@ -596,6 +596,7 @@
 127.0.0.1 bytedance-tmcdn.tm.com.my
 127.0.0.1 bytedns.net
 127.0.0.1 byted.org
+127.0.0.1 byteeffecttos-g.com
 127.0.0.1 bytegeo.akadns.net
 127.0.0.1 byteicdn.com
 127.0.0.1 byteimg.com
@@ -1312,6 +1313,7 @@
 127.0.0.1 lf16-tiktok-common.ibytedtos.com
 127.0.0.1 lf16-tiktok.ibytedtos.com
 127.0.0.1 lf16-tiktok-web.ttwstatic.com
+127.0.0.1 lf19-effectcdn.byteeffecttos-g.com
 127.0.0.1 lf19-geckocdn-sg.ibytedtos.com
 127.0.0.1 lf19-geckocdn-sg.tiktokcdn.com
 127.0.0.1 lf1-amcdn-tos.pstatp.com.wsglb0.com
@@ -1414,6 +1416,7 @@
 127.0.0.1 live.musical.ly
 127.0.0.1 l.l.bytedns.net
 127.0.0.1 lms-ns.byteoversea.com
+127.0.0.1 location-traceroute-sg.bytedance.com
 127.0.0.1 loc.snssdk.com
 127.0.0.1 log15.byteoversea.com
 127.0.0.1 log15-normal-useast2a.tiktokv.com

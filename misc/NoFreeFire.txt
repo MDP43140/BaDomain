@@ -8,6 +8,7 @@ connect.garena.com
 connect.garenanow.com
 content.garena.com
 csoversea.castle.freefiremobile.com
+csoversea.stronghold.freefiremobile.com
 ctlin.freefiremobile.com
 data.garenanow.com
 diamondstore.sea.freefiremobile.com
@@ -19,6 +20,7 @@ dl.dir.freefiremobile.com
 dl.gcp.freefiremobile.com
 event.freefiremobile.com
 ffguide.garena.com
+ff.rtc.grtc.garenanow.com
 freefiremobile-a.akamaihd.net
 freefiremobile.com
 garena.com

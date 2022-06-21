@@ -189,6 +189,7 @@ ad.smaato.net
 ads.net.id
 adsrvr.org
 ads-twitter.com
+ads.yahoo.com
 adsymptotic.com
 ads.youtube.com
 adtech.de
@@ -307,11 +308,14 @@ aparthotelmx.ge
 apester.com
 aphmes.xjwi5.com
 api22.resso.app
+api2.push.ilovexclub.com
 api31-normal-alisg.helo-api.com
 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
+api-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
 api.account.xiaomi.com
 api.adapty.io
 api.ad.intl.xiaomi.com
+api.ads.yahoo.com
 api.ahagamecenter.com
 api.airtable.com
 api.anythinktech.com
@@ -365,6 +369,7 @@ api.ipify.org
 api.iq.com
 api.isharingapp.com
 api.jetengine.be
+api.joinbudapp.com
 api.kika-backend.com
 api.kwai.com
 api-leap.nbcsports.com
@@ -453,12 +458,15 @@ apph.wpsmail.net
 appia.com
 appjustable.com
 apple-finance.query.yahoo.com
+applilink.jp
 app.link
+applink.jp
 applinzi.com
 app-measurement.com
 appmetrica.yandex.net
 app-mgr.noxgroup.com
 app.monetizer.com
+appnext.com
 appodeal.com
 appodealstack.com
 app.pou.me
@@ -485,6 +493,7 @@ arstechnica.net
 artas.biz
 artpp-vivofs.vivoglobal.com
 artsai.com
+asai-file-wlanapkcdn2.vivoglobal.com
 asia-assistant-sports.vivoglobal.com
 asia-browserplat.vivoglobal.com
 asia-browserstatic.vivoglobal.com
@@ -624,6 +633,7 @@ best-datingclub.life
 betowy.i45x0w.com
 bf19405wzd.bf.dynatrace.com
 bf54607cnw.bf.dynatrace.com
+b.hatena.ne.jp
 bibblio.org
 bidmachine.io
 bidr.io
@@ -668,12 +678,15 @@ browser-i-gl.heytapmobile.com
 brs.api.intl.miui.com
 b.sogou.com
 bstarstatic.com
+b.st-hatena.com
 bstream.hzmklvdieo.com
 bt-cfm.io
 btloader.com
 btrace.wetvinfo.com
 bubadu.com
 bucket-img.y5en.com
+budcreate.xyz
+buddy-app-bucket.s3-accelerate.amazonaws.com
 bugsnag.com
 buhatfjrk9dje10eme.com
 buildit-api.zepeto.me
@@ -700,6 +713,7 @@ captive.g.aaplimg.com
 carbonads.com
 cardboard.ge
 cardgen.uno
+carlcare.com
 carrers.pho.to
 casalemedia.com
 cashend.me
@@ -740,6 +754,7 @@ cdn-go.cn
 cdn-graphql-v4.kumparan.com
 cdnimage2.caping.co.id
 cdn-images.mailchimp.com
+cdn.joinbudapp.com
 cdn.jwplayer.com
 cdn.link4app.com
 cdnm3.caping.co.id
@@ -811,6 +826,7 @@ cldapi.net
 cleanmaster.club
 clearbit.com
 clearbitjs.com
+clearbitscripts.com
 cleverpush.com
 clickagy.com
 clientapi-sin.dtignite.com
@@ -840,6 +856,7 @@ codashop.com
 code.createjs.com
 codepush.appcenter.ms
 cognitivlabs.com
+cognito-identity.us-west-1.amazonaws.com
 coin.baca.co.id
 coinbasesj.vip
 colegiounamuno.es
@@ -985,6 +1002,7 @@ datting.online
 da-www14.ballou.se
 dbn41syzjymrk.cloudfront.net
 dc1.networkbench.com
+dc.albtls.t.co
 dcb.fortumo.com
 dc.di.atlas.samsung.com
 dc.dqa.samsung.com
@@ -1092,6 +1110,7 @@ dt2lb.madfingergames.com
 dts.like-it.video
 duolaipk.com
 dxp.baidu.com
+dzbkjh1.myoppo.com
 e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e2c19.gcp.gvt2.com
@@ -1221,6 +1240,7 @@ flow.maribacaberita.com
 fluidplayer.com
 fluxmud.quest
 focusmedica.in
+fo.iemiq.com
 footprints-pa.googleapis.com
 force.com
 forepl4y.com
@@ -1330,6 +1350,7 @@ global-auth-sg.sausage.xd.com
 global-chat-sg.sausage.xd.com
 global-client-log-gf-sg-turbine-da.sausage.xd.com
 global-client-log.sg-turbine-da.sausage.xd.com
+globalcolor-service-sg.allawnos.com
 global-data-info-sg.sausage.xd.com
 global.developer.xiaomi.com
 global-game-sg.sausage.xd.com
@@ -1422,6 +1443,7 @@ hammergamer.com
 hanyu.sogou.com
 haokan.mobi
 hastopic.com
+hatena.ne.jp
 havasedge.com
 hb.kg.qq.com
 hbmtours.com
@@ -1445,6 +1467,7 @@ hippy.stream.kg.qq.com
 hisavana.com
 histats.com
 history.google.com
+hk.api.unipay.qq.com
 hk.app.joox.com
 hk.slb.mob.com
 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
@@ -1523,6 +1546,7 @@ ichef.bbci.co.uk
 iclickcdn.com
 icloud.com
 icms-image.slatic.net
+icosa-service-sg.allawnos.com
 icosa-sg.coloros.com
 icredits.heytapmobi.com
 id-analyzer-appstore.vivoglobal.com
@@ -1553,6 +1577,7 @@ id-update-appstore.vivoglobal.com
 id.video.intl.xiaomi.com
 id-xl.rcs.telephony.goog
 ieee.org
+iemiq.com
 ientp.alipay.com
 ie.sogou.com
 if4a3802.app-ads-txt.com
@@ -1579,6 +1604,7 @@ ilovexclub.com
 ilovexclub.net
 ilyon.net
 image.bignox.com
+image-cdn.joinbudapp.com
 images.anime-pictures.net
 images.ctfassets.net
 images.idtopnews.com
@@ -1591,6 +1617,7 @@ imdb.com
 img.alicdn.com
 img.baca.co.id
 imgcache.joox.com
+img.cdn.baca.co.id
 imgcdn.ymstatic.com
 img.feednews.com
 img-hw.xnxx-cdn.com
@@ -1680,6 +1707,7 @@ iqid.iqiyi.com
 iqiyi.com
 iqm.com
 iqzgqivb.com
+ir.appnext.com
 ire-dsc.shalltry.com
 ire-dsu.shalltry.com
 iresearch.vip
@@ -1703,6 +1731,7 @@ iubenda.com
 iucf-icon-sg.s3.ap-southeast-1.amazonaws.com
 ivideosmart.com
 i.vimeocdn.com
+i.warranty.oppo.comglobal-receiver-ta.thinkingdata.cn
 iweather.oppomobile.com
 ixiaochuan.cn
 ixigua.com
@@ -1714,6 +1743,7 @@ jixie.media
 jkt-milink.market.xiaomi.com
 jmacs.maribacaberita.com
 jmacs-m.lazada.co.id
+joinbudapp.com
 jomax.net
 jp.bignox.com
 jpserver.site
@@ -1836,6 +1866,7 @@ locate.measurementlab.net
 location.apps.oppomobile.com
 lockersatelic.cam
 loc.map.baidu.com
+log-api.mintkeyboard.com
 log.bignox.com
 logging.baca.co.id
 log.goodnovel.com
@@ -1950,6 +1981,7 @@ minoplay.com
 minoregimen.com
 minozodiac.com
 mint.intuit.com
+mintkeyboard.com
 mi-pre.shalltry.com
 mipunet.cn
 mirabelle.uno
@@ -2013,6 +2045,7 @@ m.toutiaocdn.com
 m.toutiao.com
 mtrace.wetvinfo.com
 muathangnhom.com
+munchkin.marketo.net
 mup.amp.mcafee.com
 mu.se
 musicradio.com
@@ -2055,6 +2088,7 @@ newds02.myoppo.com
 newpic.wetvinfo.com
 new.qq.com
 newrelic.com
+news-abroad.vivo.com
 newsaggreg.shalltry.com
 news.bignox.com
 newscloud.or.kr
@@ -2121,6 +2155,7 @@ oficayuda.club
 ogtrk.net
 omappapi.com
 omes-sec.heytapmobile.com
+omgid.qq.com
 omlet.me
 omnithrottle.com
 omtrdc.net
@@ -2169,6 +2204,7 @@ outbrain.com
 outcome-ssp.supersonicads.com
 over.net
 overwolf.com
+ovv.video.qq.com
 owap.bar
 owneriq.net
 ozap.bar
@@ -2208,6 +2244,7 @@ path1.xtracloud.net
 path2.xtracloud.net
 path3.xtracloud.net
 patronus.idata.shopeemobile.com
+pay-api.ahagamecenter.com
 pay.bignox.com
 paypal--accounts.com
 pay-sg.wsds.cn
@@ -2228,6 +2265,7 @@ persona.franchise.minecraft-services.net
 persona.hotstar.com
 person.clearbit.com
 person-stream.clearbit.com
+pes22-game.cs.konami.net
 pglstatp.com
 ph.bignox.com
 phone-api.realme.com
@@ -2266,6 +2304,7 @@ pl.bignox.com
 plugin-server.wps.com
 p-n.io
 podrbx.best
+pointone.tech
 pool.apk.aptoide.com
 pop3.bignox.com
 popcore.com
@@ -2348,6 +2387,7 @@ px-conf.perimeterx.net
 pxf.io
 pxksnymto.ru
 qbox.me
+qcloud.com
 qcloudimg.com
 qcloudimg.tencent-cloud.cn
 qcloudimg.tencentcs.cn
@@ -2489,6 +2529,7 @@ s6.layarkaca21.vip
 s8900.webovernet.com
 safeframe.googlesyndication.com
 salesforce.com
+salesloft.com
 samba.tv
 samehadaku.tv
 samsappsbn.vo.llnwd.net
@@ -2507,6 +2548,7 @@ sc-cdn.net
 schemas.casa
 scholar.sogou.com
 scorecardresearch.com
+scout-cdn.salesloft.com
 screensteps.com
 scroll.com
 sdk-01.moengage.com
@@ -2539,6 +2581,7 @@ self.events.data.microsoft.com
 selfishsnake.com
 sellwild.com
 semasio.net
+sendbird.com
 sendgrid.com
 sensors.cloud.tencent.com
 sentry-cdn.com
@@ -2547,6 +2590,7 @@ sentry.kumparan.com
 sentry.prod.mozaws.net
 servebom.com
 servedby-buysellads.com
+service.carlcare.com
 service.force.com
 services.prod.ims.adobejanus.com
 serving-sys.com
@@ -2588,6 +2632,7 @@ shepherd.sb.avast.com
 shib22.pro
 shopzilla.com
 shortapi.admixplay.com
+shortconn.im.qcloud.com
 shortener.secureserver.net
 short.im-gb.com
 short.im-gb.comhttp
@@ -2687,6 +2732,7 @@ static.addtoany.com
 static.ads-twitter.com
 static.ahagamecenter.com
 static.apester.com
+static.api.baca.co.id
 static.baca.co.id
 static-cms.aa-cdn.net
 static-doubleclick-net.l.google.com
@@ -2717,6 +2763,7 @@ steelhousemedia.com
 stepsister.uno
 st-exbrowser.vivoglobal.com
 stg-data-id.ads.heytapmobile.com
+st-hatena.com
 stickerf.apps.oppomobile.com
 stickyadstv.com
 st.like-it.video
@@ -2764,6 +2811,7 @@ syndication.twitter.com
 system1.com
 sysupgrade.api.vivoglobal.com
 syszalive.uksouth.cloudapp.azure.com
+szmg.qq.com
 t14.market.mi-img.com
 t2.chartboost.com
 t2.market.mi-img.com
@@ -2804,6 +2852,7 @@ tenor.googleapis.com
 tentaculos.net
 teraboxcdn.com
 terabox.com
+termly.io
 teslacoilapps.com
 tesladoge.pro
 testapi.amap.com
@@ -2821,6 +2870,7 @@ themoviedb.org
 thesaurus.com
 thespacehackers.com
 theyt786ku.cfd
+thinkingdata.cn
 thinksuggest.org
 threadloom.com
 thrtle.com
@@ -3118,13 +3168,16 @@ wondershare.cc
 wootric.com
 wp20.ru
 wpscdn.com
+ws-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
 wsapi.master.live
 ws.flv.nimo.tv
 ws.hls.nimo.tv
 wsimg.com
 wsod.com
 ws-sgp-origin-pull.snackvideo.in
+ws-sgp-pic.snackvideo.in
 ws-sgp-pull.snackvideo.in
+wss.im.qcloud.com
 ws.tapjoyads.com
 ws.zoominfo.com
 wuildit.com
@@ -3148,6 +3201,7 @@ www.alipay.com
 www.announcekit.app
 www.apkeditorfree.com
 www.appjustable.com
+www.applilink.jp
 www.attention-system-warning.com
 www.aws.iobit.com
 www.baca.co.id
@@ -3315,6 +3369,7 @@ xnxx.com
 xp.apple.com
 xplayer-42f31.web.app
 xpush.site
+xserver.jp
 xs.vskitcdn.com
 xtom.com
 xtrapath1.izatcloud.net
