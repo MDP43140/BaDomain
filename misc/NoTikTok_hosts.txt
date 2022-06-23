@@ -1296,7 +1296,10 @@
 127.0.0.1 legroup21.gslb.cdnle.com
 127.0.0.1 letsencrypt.bytecdn.cn
 127.0.0.1 lf16-beecdn.ibytedtos.com
+127.0.0.1 lf16-capcut.faceueditorv.com
+127.0.0.1 lf16-capcut.faceulv.com
 127.0.0.1 lf16-capcut.ibytedtos.com
+127.0.0.1 lf16-effectcdn.byteeffecttos-g.com
 127.0.0.1 lf16-effectcdn-sg.ibytedtos.com
 127.0.0.1 lf16-effectcdn-sg.tiktokcdn.com
 127.0.0.1 lf16-geckocdn-sg.ibytedtos.com
@@ -1313,6 +1316,8 @@
 127.0.0.1 lf16-tiktok-common.ibytedtos.com
 127.0.0.1 lf16-tiktok.ibytedtos.com
 127.0.0.1 lf16-tiktok-web.ttwstatic.com
+127.0.0.1 lf19-capcut.faceueditorv.com
+127.0.0.1 lf19-capcut.faceulv.com
 127.0.0.1 lf19-effectcdn.byteeffecttos-g.com
 127.0.0.1 lf19-geckocdn-sg.ibytedtos.com
 127.0.0.1 lf19-geckocdn-sg.tiktokcdn.com
@@ -3153,6 +3158,7 @@
 127.0.0.1 v11-tt.ixigua.com
 127.0.0.1 v15-edge.tiktokcdn.com
 127.0.0.1 v15-fr.tiktokcdn.com
+127.0.0.1 v15m.tiktokcdn.com
 127.0.0.1 v15.tiktokcdn.com
 127.0.0.1 v16-ad.byteoversea.com
 127.0.0.1 v16-a.tiktokcdn.com

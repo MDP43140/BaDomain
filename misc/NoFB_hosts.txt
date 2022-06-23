@@ -837,9 +837,11 @@
 127.0.0.1 instagram.c10r.instagram.com
 127.0.0.1 instagram.com
 127.0.0.1 instagram.fbdj3-1.fna.fbcdn.net
+127.0.0.1 instagram.fbek1-2.fna.fbcdn.net
 127.0.0.1 instagram.fbth1-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth2-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth3-1.fna.fbcdn.net
+127.0.0.1 instagram.fbth5-1.fna.fbcdn.net
 127.0.0.1 instagram.fcgk18-2.fna.fbcdn.net
 127.0.0.1 instagram.fcgk24-1.fna.fbcdn.net
 127.0.0.1 instagram.fcgk24-2.fna.fbcdn.net
@@ -850,7 +852,9 @@
 127.0.0.1 instagram.fcgk4-5.fna.fbcdn.net
 127.0.0.1 instagram.fcgk4-6.fna.fbcdn.net
 127.0.0.1 instagram.fcgk6-2.fna.fbcdn.net
+127.0.0.1 instagram.fevn1-2.fna.fbcdn.net
 127.0.0.1 instagram.fhyd12-1.fna.fbcdn.net
+127.0.0.1 instagram.fkix2-1.fna.fbcdn.net
 127.0.0.1 instagram.fkul14-1.fna.fbcdn.net
 127.0.0.1 instagram.fnag1-2.fna.fbcdn.net
 127.0.0.1 instagram.fpen2-1.fna.fbcdn.net
@@ -863,6 +867,7 @@
 127.0.0.1 instagram.fpku3-1.fna.fbcdn.net
 127.0.0.1 instagram.fpku3-2.fna.fbcdn.net
 127.0.0.1 instagram.fpku3-3.fna.fbcdn.net
+127.0.0.1 instagram.fvns6-1.fna.fbcdn.net
 127.0.0.1 instagram-shv-01-ams2.fbcdn.net
 127.0.0.1 instagram-shv-01-ams3.fbcdn.net
 127.0.0.1 instagram-shv-01-ash5.fbcdn.net
@@ -1168,6 +1173,7 @@
 127.0.0.1 scontent.fbsb1-1.fna.fbcdn.net
 127.0.0.1 scontent.fbth1-1.fna.fbcdn.net
 127.0.0.1 scontent.fbth3-1.fna.fbcdn.net
+127.0.0.1 scontent.fbth5-1.fna.fbcdn.net
 127.0.0.1 scontent.fbze1-1.fna.fbcdn.net
 127.0.0.1 scontent.fcac1-1.fna.fbcdn.net
 127.0.0.1 scontent.fcbb1-1.fna.fbcdn.net
@@ -1401,6 +1407,7 @@
 127.0.0.1 sonar.fmaa1-1.fna.fbcdn.net
 127.0.0.1 sonar.fpku1-1.fna.whatsapp.net
 127.0.0.1 sonar.fpku1-2.fna.whatsapp.net
+127.0.0.1 sonar.fpku1-3.fna.whatsapp.net
 127.0.0.1 sonar.fsea1-1.fna.fbcdn.net
 127.0.0.1 sonar.ftpa1-1.fna.fbcdn.net
 127.0.0.1 sonar-ham3-1.xx.fbcdn.net

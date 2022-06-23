@@ -19,6 +19,7 @@
 127.0.0.1 dl.ctlin.freefiremobile.com
 127.0.0.1 dl.dir.freefiremobile.com
 127.0.0.1 dl.gcp.freefiremobile.com
+127.0.0.1 dl.wsu.freefiremobile.com
 127.0.0.1 event.freefiremobile.com
 127.0.0.1 ffguide.garena.com
 127.0.0.1 ff.rtc.grtc.garenanow.com
@@ -31,6 +32,7 @@
 127.0.0.1 id.network.freefiremobile.com
 127.0.0.1 logcollector.data.garenanow.com
 127.0.0.1 login.common.freefiremobile.com
+127.0.0.1 ludofire1.1.sea.freefiremobile.com
 127.0.0.1 network.freefiremobile.com
 127.0.0.1 networkselftest.ff.garena.com
 127.0.0.1 poisontail.sea.freefiremobile.com

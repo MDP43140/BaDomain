@@ -18,6 +18,7 @@ dl.castle.freefiremobile.com
 dl.ctlin.freefiremobile.com
 dl.dir.freefiremobile.com
 dl.gcp.freefiremobile.com
+dl.wsu.freefiremobile.com
 event.freefiremobile.com
 ffguide.garena.com
 ff.rtc.grtc.garenanow.com
@@ -30,6 +31,7 @@ id.event.freefiremobile.com
 id.network.freefiremobile.com
 logcollector.data.garenanow.com
 login.common.freefiremobile.com
+ludofire1.1.sea.freefiremobile.com
 network.freefiremobile.com
 networkselftest.ff.garena.com
 poisontail.sea.freefiremobile.com
