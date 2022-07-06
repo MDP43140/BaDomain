@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 24.06.2022
+# Version: 06.07.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -487,9 +487,12 @@
 127.0.0.1 appodealstack.com
 127.0.0.1 app.pou.me
 127.0.0.1 app.pushbrothers.com
+127.0.0.1 app.securiti.ai
 127.0.0.1 appsflyer.com
 127.0.0.1 apps.i59400f.xyz
 127.0.0.1 appsinnova.com
+127.0.0.1 app-sj30.marketo.com
+127.0.0.1 app.slickstream.com
 127.0.0.1 app.snapchat.com
 127.0.0.1 apps.outfit7.com
 127.0.0.1 appspot.com
@@ -722,6 +725,8 @@
 127.0.0.1 buysellads.com
 127.0.0.1 buysellads.net
 127.0.0.1 by3pcor001-com.be.1drv.com
+127.0.0.1 c02b-wss.app.slickstream.com
+127.0.0.1 c02f.app.slickstream.com
 127.0.0.1 c4d-cdn.adcolony.com
 127.0.0.1 cabinet2-sea.taximaxim.com
 127.0.0.1 cachefly.net
@@ -793,6 +798,7 @@
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.otnolatrnup.com
 127.0.0.1 cdn.outfit7.com
+127.0.0.1 cdn-prod.securiti.ai
 127.0.0.1 cdn-production-assets-kly.akamaized.net
 127.0.0.1 cdn.pushmart.net
 127.0.0.1 cdn.ravenjs.com
@@ -957,6 +963,7 @@
 127.0.0.1 cpmstar.com
 127.0.0.1 cpn.netcoresmartech.com
 127.0.0.1 cpx.to
+127.0.0.1 craft.pe
 127.0.0.1 crazygirls24.com
 127.0.0.1 creativecow.net
 127.0.0.1 creatives.contextads.live
@@ -981,6 +988,7 @@
 127.0.0.1 cs-center.uc.cn
 127.0.0.1 cse.avlyun.com
 127.0.0.1 cshort.org
+127.0.0.1 c.slickstream.com
 127.0.0.1 csoversea.mbgame.anticheatexpert.com
 127.0.0.1 csp1.zte.com
 127.0.0.1 csp1.zte.com.cn
@@ -1365,6 +1373,7 @@
 127.0.0.1 gameguardian.b-cdn.net
 127.0.0.1 gameimg.heytapimg.com
 127.0.0.1 gameloft.com
+127.0.0.1 gamepe.ru
 127.0.0.1 gameportal.casa
 127.0.0.1 games.shopee.co.id
 127.0.0.1 gametool10.ml
@@ -1423,6 +1432,7 @@
 127.0.0.1 global-data-info-sg.sausage.xd.com
 127.0.0.1 global.developer.xiaomi.com
 127.0.0.1 global-game-sg.sausage.xd.com
+127.0.0.1 globalhop.net
 127.0.0.1 global.ilovexclub.com
 127.0.0.1 global.ilovexclub.net
 127.0.0.1 global.market.xiaomi.com
@@ -1469,6 +1479,7 @@
 127.0.0.1 graphql.kumparan.com
 127.0.0.1 graphql-v4.kumparan.com
 127.0.0.1 gray.bignox.com
+127.0.0.1 greaterfiledownload.com
 127.0.0.1 groundtruth.com
 127.0.0.1 group41.sites.hscoscdn40.net
 127.0.0.1 group.bignox.com
@@ -1552,6 +1563,7 @@
 127.0.0.1 hm.baidu.com
 127.0.0.1 hm.e.shifen.com
 127.0.0.1 hmma.baidu.com
+127.0.0.1 hockeyapp.net
 127.0.0.1 homepage.vivo.com
 127.0.0.1 hopexos.vip
 127.0.0.1 horizonme.net
@@ -1739,6 +1751,7 @@
 127.0.0.1 influencer.yeshen.com
 127.0.0.1 info.3g.qq.com
 127.0.0.1 info.bignox.com
+127.0.0.1 info.braze.com
 127.0.0.1 in-gaap.snackvideo.in
 127.0.0.1 ingest.sentry.io
 127.0.0.1 init-cdn.itunes-apple.com.akadns.net
@@ -1754,6 +1767,7 @@
 127.0.0.1 innovads-server.poster.appsinnova.com
 127.0.0.1 innovid.com
 127.0.0.1 inpagepush.com
+127.0.0.1 insent.ai
 127.0.0.1 i-n.sgsnssdk.com
 127.0.0.1 ins.hastopic.com
 127.0.0.1 inshot.cc
@@ -2612,6 +2626,7 @@
 127.0.0.1 rfihub.net
 127.0.0.1 rhino.acme.com
 127.0.0.1 rilds.com
+127.0.0.1 rink.hockeyapp.net
 127.0.0.1 riseup.net
 127.0.0.1 risk.clearbit.com
 127.0.0.1 rkdms.com
@@ -2702,6 +2717,10 @@
 127.0.0.1 sdkapi.wifimap.io
 127.0.0.1 sdk.bignox.com
 127.0.0.1 sdk-config.fyber.com
+127.0.0.1 sdk.iad-04.braze.com
+127.0.0.1 sdk.iad-05.braze.com
+127.0.0.1 sdk.iad-07.braze.com
+127.0.0.1 sdk.iad-09.braze.com
 127.0.0.1 sdk.open.inc2.igexin.com
 127.0.0.1 sdk.privacy-center.org
 127.0.0.1 sdk.pushmessage.samsung.com
@@ -2720,6 +2739,8 @@
 127.0.0.1 securegw.paytm.in
 127.0.0.1 secure-media.hotstar.com
 127.0.0.1 securetoken.googleapis.com
+127.0.0.1 securiti.ai
+127.0.0.1 securitiai.widget.insent.ai
 127.0.0.1 security.intuit.com
 127.0.0.1 security.noxgroup.org
 127.0.0.1 segment.com
@@ -2800,6 +2821,7 @@
 127.0.0.1 sla-intl.trustlook.com
 127.0.0.1 slant-api.com
 127.0.0.1 slashdotmedia.com
+127.0.0.1 slickstream.com
 127.0.0.1 smaato.net
 127.0.0.1 smartadserver.com
 127.0.0.1 smartcardf-eu.apps.coloros.com
@@ -3395,6 +3417,7 @@
 127.0.0.1 www.baidu.com
 127.0.0.1 www.beacons.ai
 127.0.0.1 www.bignox.com
+127.0.0.1 www.braze.com
 127.0.0.1 www.cdn.viber.com
 127.0.0.1 www.centurygames.com
 127.0.0.1 www.chandashi.com
@@ -3480,6 +3503,7 @@
 127.0.0.1 www.sfdcstatic.com
 127.0.0.1 www.shareaholic.net
 127.0.0.1 www.sixtest.com
+127.0.0.1 www.slickstream.com
 127.0.0.1 www.slideshare.net
 127.0.0.1 www.spanishcoursesunamuno.com
 127.0.0.1 www.stagingapps.xyz

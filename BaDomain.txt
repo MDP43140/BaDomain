@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 24.06.2022
+# Version: 06.07.2022
 # Update: 1 day
 #
 
@@ -479,9 +479,12 @@ appodeal.com
 appodealstack.com
 app.pou.me
 app.pushbrothers.com
+app.securiti.ai
 appsflyer.com
 apps.i59400f.xyz
 appsinnova.com
+app-sj30.marketo.com
+app.slickstream.com
 app.snapchat.com
 apps.outfit7.com
 appspot.com
@@ -714,6 +717,8 @@ buy.qcloudimg.com
 buysellads.com
 buysellads.net
 by3pcor001-com.be.1drv.com
+c02b-wss.app.slickstream.com
+c02f.app.slickstream.com
 c4d-cdn.adcolony.com
 cabinet2-sea.taximaxim.com
 cachefly.net
@@ -785,6 +790,7 @@ cdnm3.caping.co.id
 cdn.mxpnl.com
 cdn.otnolatrnup.com
 cdn.outfit7.com
+cdn-prod.securiti.ai
 cdn-production-assets-kly.akamaized.net
 cdn.pushmart.net
 cdn.ravenjs.com
@@ -949,6 +955,7 @@ cpahero.com
 cpmstar.com
 cpn.netcoresmartech.com
 cpx.to
+craft.pe
 crazygirls24.com
 creativecow.net
 creatives.contextads.live
@@ -973,6 +980,7 @@ cs9.wac.phicdn.net
 cs-center.uc.cn
 cse.avlyun.com
 cshort.org
+c.slickstream.com
 csoversea.mbgame.anticheatexpert.com
 csp1.zte.com
 csp1.zte.com.cn
@@ -1357,6 +1365,7 @@ gamecfg-mob.ubi.com
 gameguardian.b-cdn.net
 gameimg.heytapimg.com
 gameloft.com
+gamepe.ru
 gameportal.casa
 games.shopee.co.id
 gametool10.ml
@@ -1415,6 +1424,7 @@ globalcolor-service-sg.allawnos.com
 global-data-info-sg.sausage.xd.com
 global.developer.xiaomi.com
 global-game-sg.sausage.xd.com
+globalhop.net
 global.ilovexclub.com
 global.ilovexclub.net
 global.market.xiaomi.com
@@ -1461,6 +1471,7 @@ graphql.api.dailymotion.com
 graphql.kumparan.com
 graphql-v4.kumparan.com
 gray.bignox.com
+greaterfiledownload.com
 groundtruth.com
 group41.sites.hscoscdn40.net
 group.bignox.com
@@ -1544,6 +1555,7 @@ hm2.yrnykx.com
 hm.baidu.com
 hm.e.shifen.com
 hmma.baidu.com
+hockeyapp.net
 homepage.vivo.com
 hopexos.vip
 horizonme.net
@@ -1731,6 +1743,7 @@ infinitedata-pa.googleapis.com
 influencer.yeshen.com
 info.3g.qq.com
 info.bignox.com
+info.braze.com
 in-gaap.snackvideo.in
 ingest.sentry.io
 init-cdn.itunes-apple.com.akadns.net
@@ -1746,6 +1759,7 @@ innity.net
 innovads-server.poster.appsinnova.com
 innovid.com
 inpagepush.com
+insent.ai
 i-n.sgsnssdk.com
 ins.hastopic.com
 inshot.cc
@@ -2604,6 +2618,7 @@ rfihub.com
 rfihub.net
 rhino.acme.com
 rilds.com
+rink.hockeyapp.net
 riseup.net
 risk.clearbit.com
 rkdms.com
@@ -2694,6 +2709,10 @@ sdk-android.ad.smaato.net
 sdkapi.wifimap.io
 sdk.bignox.com
 sdk-config.fyber.com
+sdk.iad-04.braze.com
+sdk.iad-05.braze.com
+sdk.iad-07.braze.com
+sdk.iad-09.braze.com
 sdk.open.inc2.igexin.com
 sdk.privacy-center.org
 sdk.pushmessage.samsung.com
@@ -2712,6 +2731,8 @@ securebiz.org
 securegw.paytm.in
 secure-media.hotstar.com
 securetoken.googleapis.com
+securiti.ai
+securitiai.widget.insent.ai
 security.intuit.com
 security.noxgroup.org
 segment.com
@@ -2792,6 +2813,7 @@ skimresources.com
 sla-intl.trustlook.com
 slant-api.com
 slashdotmedia.com
+slickstream.com
 smaato.net
 smartadserver.com
 smartcardf-eu.apps.coloros.com
@@ -3387,6 +3409,7 @@ www.backjawtanoa.com
 www.baidu.com
 www.beacons.ai
 www.bignox.com
+www.braze.com
 www.cdn.viber.com
 www.centurygames.com
 www.chandashi.com
@@ -3472,6 +3495,7 @@ www.servicewebly.com
 www.sfdcstatic.com
 www.shareaholic.net
 www.sixtest.com
+www.slickstream.com
 www.slideshare.net
 www.spanishcoursesunamuno.com
 www.stagingapps.xyz
