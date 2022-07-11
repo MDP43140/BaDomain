@@ -12,6 +12,10 @@ aws-us-west-2a-lms.rbx.com
 bom1-128-116-104-4.roblox.com
 c0ak.rbxcdn.com
 c0cfly.rbxcdn.com
+c0.rbxcdn.com
+c1.rbxcdn.com
+c2.rbxcdn.com
+c3.rbxcdn.com
 catalog.roblox.com
 chat.roblox.com
 clientsettingscdn.roblox.com
@@ -32,6 +36,15 @@ premiumfeatures.roblox.com
 presence.roblox.com
 realtime.roblox.com
 sea1-128-116-100-3.roblox.com
+t0.rbxcdn.com
+t1.rbxcdn.com
+t2.rbxcdn.com
+t3.rbxcdn.com
+t4.rbxcdn.com
+t5.rbxcdn.com
+t6.rbxcdn.com
+t7.rbxcdn.com
+t8.rbxcdn.com
 thumbnails.roblox.com
 tr.rbxcdn.com
 users.roblox.com

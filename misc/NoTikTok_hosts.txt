@@ -3137,6 +3137,7 @@
 127.0.0.1 unpkg.pstatp.com
 127.0.0.1 unpkg.pstatp.com.m.alikunlun.com
 127.0.0.1 updatewebws.pstatp.com.wsglb0.com
+127.0.0.1 us-central1-tiktokdownloader-9eb12.cloudfunctions.net
 127.0.0.1 us.tiktok.com
 127.0.0.1 us.tiktok.com.edgekey.net
 127.0.0.1 uz91a.v.bsgslb.com

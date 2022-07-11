@@ -3137,6 +3137,7 @@ unicom.y.l.bytedns.net
 unpkg.pstatp.com
 unpkg.pstatp.com.m.alikunlun.com
 updatewebws.pstatp.com.wsglb0.com
+us-central1-tiktokdownloader-9eb12.cloudfunctions.net
 us.tiktok.com
 us.tiktok.com.edgekey.net
 uz91a.v.bsgslb.com

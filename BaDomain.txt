@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.07.2022
+# Version: 11.07.2022
 # Update: 1 day
 #
 
@@ -1110,6 +1110,7 @@ dkyweipsds.com
 dl.hw.freefiremobile.com
 dls.di.atlas.samsung.com
 dlvr.it
+dlvrit.com
 dl-xda.xposed.info
 dl.xposed.info
 dmcdn.net
@@ -1192,6 +1193,7 @@ editor.pho.to
 editor-upload-cdn.optimonk.com
 eep.io
 eezegrip.net
+ejvonlyrik.com
 ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 eleed.cloud
@@ -1467,6 +1469,7 @@ gov.cn
 gpapi.zepeto.io
 gpoint.com.gr
 gpvjyx.ssptp4.com
+graph.microsoft.com
 graphql.api.dailymotion.com
 graphql.kumparan.com
 graphql-v4.kumparan.com
@@ -1514,6 +1517,7 @@ gwwdhkwtswtjc
 gwx.line.naver.jp
 g-zgroup.pstatic.net
 g-zt.uvfuns.com
+h2svr.info
 h5.y5en.com
 hack4me.is
 hammergamer.com
@@ -1744,6 +1748,7 @@ influencer.yeshen.com
 info.3g.qq.com
 info.bignox.com
 info.braze.com
+info.ejvonlyrik.com
 in-gaap.snackvideo.in
 ingest.sentry.io
 init-cdn.itunes-apple.com.akadns.net
@@ -2498,6 +2503,7 @@ ptlinknettbk.my.salesforce.com
 pt.slideshare.net
 public1.114dns.com
 public.bnbstatic.com
+public.profitwell.com
 public.shtranssion.com
 public.slidesharecdn.com
 public.transacme.com
@@ -2781,6 +2787,7 @@ sgp-img-c.heytapimg.com
 sg.tdatamaster.com
 shake-body.com
 shalltry.com
+shareaholic.com
 shareaholic.net
 sharepointonline.com
 sharethis.com
@@ -3386,6 +3393,7 @@ wuueqejuratzdz.com
 wvzb9b.xjwi5.com
 ww25.apkeditorfree.com
 ww25.sas-autos.com
+ww38.h2svr.info
 www100.nathanaeldan.pro
 www.12377.cn
 www24.proservice.ge
@@ -3445,6 +3453,7 @@ www.google.cn
 www.google.ru
 www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+www.h2svr.info
 www.hastopic.com
 www.hippoobox.com
 www.hopexos.vip
@@ -3493,6 +3502,7 @@ www.sail-horizon.com
 www.sas-autos.com
 www.servicewebly.com
 www.sfdcstatic.com
+www.shareaholic.com
 www.shareaholic.net
 www.sixtest.com
 www.slickstream.com

@@ -12,6 +12,10 @@
 127.0.0.1 bom1-128-116-104-4.roblox.com
 127.0.0.1 c0ak.rbxcdn.com
 127.0.0.1 c0cfly.rbxcdn.com
+127.0.0.1 c0.rbxcdn.com
+127.0.0.1 c1.rbxcdn.com
+127.0.0.1 c2.rbxcdn.com
+127.0.0.1 c3.rbxcdn.com
 127.0.0.1 catalog.roblox.com
 127.0.0.1 chat.roblox.com
 127.0.0.1 clientsettingscdn.roblox.com
@@ -32,6 +36,15 @@
 127.0.0.1 presence.roblox.com
 127.0.0.1 realtime.roblox.com
 127.0.0.1 sea1-128-116-100-3.roblox.com
+127.0.0.1 t0.rbxcdn.com
+127.0.0.1 t1.rbxcdn.com
+127.0.0.1 t2.rbxcdn.com
+127.0.0.1 t3.rbxcdn.com
+127.0.0.1 t4.rbxcdn.com
+127.0.0.1 t5.rbxcdn.com
+127.0.0.1 t6.rbxcdn.com
+127.0.0.1 t7.rbxcdn.com
+127.0.0.1 t8.rbxcdn.com
 127.0.0.1 thumbnails.roblox.com
 127.0.0.1 tr.rbxcdn.com
 127.0.0.1 users.roblox.com

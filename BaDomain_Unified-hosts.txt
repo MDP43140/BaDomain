@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.07.2022
+# Version: 11.07.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -1118,6 +1118,7 @@
 127.0.0.1 dl.hw.freefiremobile.com
 127.0.0.1 dls.di.atlas.samsung.com
 127.0.0.1 dlvr.it
+127.0.0.1 dlvrit.com
 127.0.0.1 dl-xda.xposed.info
 127.0.0.1 dl.xposed.info
 127.0.0.1 dmcdn.net
@@ -1200,6 +1201,7 @@
 127.0.0.1 editor-upload-cdn.optimonk.com
 127.0.0.1 eep.io
 127.0.0.1 eezegrip.net
+127.0.0.1 ejvonlyrik.com
 127.0.0.1 ekiga.net
 127.0.0.1 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 127.0.0.1 eleed.cloud
@@ -1475,6 +1477,7 @@
 127.0.0.1 gpapi.zepeto.io
 127.0.0.1 gpoint.com.gr
 127.0.0.1 gpvjyx.ssptp4.com
+127.0.0.1 graph.microsoft.com
 127.0.0.1 graphql.api.dailymotion.com
 127.0.0.1 graphql.kumparan.com
 127.0.0.1 graphql-v4.kumparan.com
@@ -1522,6 +1525,7 @@
 127.0.0.1 gwx.line.naver.jp
 127.0.0.1 g-zgroup.pstatic.net
 127.0.0.1 g-zt.uvfuns.com
+127.0.0.1 h2svr.info
 127.0.0.1 h5.y5en.com
 127.0.0.1 hack4me.is
 127.0.0.1 hammergamer.com
@@ -1752,6 +1756,7 @@
 127.0.0.1 info.3g.qq.com
 127.0.0.1 info.bignox.com
 127.0.0.1 info.braze.com
+127.0.0.1 info.ejvonlyrik.com
 127.0.0.1 in-gaap.snackvideo.in
 127.0.0.1 ingest.sentry.io
 127.0.0.1 init-cdn.itunes-apple.com.akadns.net
@@ -2506,6 +2511,7 @@
 127.0.0.1 pt.slideshare.net
 127.0.0.1 public1.114dns.com
 127.0.0.1 public.bnbstatic.com
+127.0.0.1 public.profitwell.com
 127.0.0.1 public.shtranssion.com
 127.0.0.1 public.slidesharecdn.com
 127.0.0.1 public.transacme.com
@@ -2789,6 +2795,7 @@
 127.0.0.1 sg.tdatamaster.com
 127.0.0.1 shake-body.com
 127.0.0.1 shalltry.com
+127.0.0.1 shareaholic.com
 127.0.0.1 shareaholic.net
 127.0.0.1 sharepointonline.com
 127.0.0.1 sharethis.com
@@ -3394,6 +3401,7 @@
 127.0.0.1 wvzb9b.xjwi5.com
 127.0.0.1 ww25.apkeditorfree.com
 127.0.0.1 ww25.sas-autos.com
+127.0.0.1 ww38.h2svr.info
 127.0.0.1 www100.nathanaeldan.pro
 127.0.0.1 www.12377.cn
 127.0.0.1 www24.proservice.ge
@@ -3453,6 +3461,7 @@
 127.0.0.1 www.google.ru
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+127.0.0.1 www.h2svr.info
 127.0.0.1 www.hastopic.com
 127.0.0.1 www.hippoobox.com
 127.0.0.1 www.hopexos.vip
@@ -3501,6 +3510,7 @@
 127.0.0.1 www.sas-autos.com
 127.0.0.1 www.servicewebly.com
 127.0.0.1 www.sfdcstatic.com
+127.0.0.1 www.shareaholic.com
 127.0.0.1 www.shareaholic.net
 127.0.0.1 www.sixtest.com
 127.0.0.1 www.slickstream.com
@@ -8810,6 +8820,7 @@
 127.0.0.1 unpkg.pstatp.com
 127.0.0.1 unpkg.pstatp.com.m.alikunlun.com
 127.0.0.1 updatewebws.pstatp.com.wsglb0.com
+127.0.0.1 us-central1-tiktokdownloader-9eb12.cloudfunctions.net
 127.0.0.1 us.tiktok.com
 127.0.0.1 us.tiktok.com.edgekey.net
 127.0.0.1 uz91a.v.bsgslb.com
