@@ -1910,6 +1910,7 @@
 127.0.0.1 z-p3-scontent.fsub1-1.fna.fbcdn.net
 127.0.0.1 z-p3-scontent.ftpa1-1.fna.fbcdn.net
 127.0.0.1 z-p3-scontent-lax3-1.xx.fbcdn.net
+127.0.0.1 z-p3-static.xx.fbcdn.net
 127.0.0.1 z-p3-upload.facebook.com
 127.0.0.1 z-p3-video.flpb1-1.fna.fbcdn.net
 127.0.0.1 z-p3-video.fpfb1-1.fna.fbcdn.net

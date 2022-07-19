@@ -1406,6 +1406,7 @@
 127.0.0.1 libra22-normal-useast2a.tiktokv.com
 127.0.0.1 libra-i18n.tiktokv.com
 127.0.0.1 library.musical.ly
+127.0.0.1 libra-sg.tiktokv.com
 127.0.0.1 libra-va.tiktokv.com
 127.0.0.1 link.e.tiktok.com
 127.0.0.1 link-sg.byteoversea.com

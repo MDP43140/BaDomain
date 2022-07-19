@@ -1406,6 +1406,7 @@ libra16-normal-useast2a.tiktokv.com
 libra22-normal-useast2a.tiktokv.com
 libra-i18n.tiktokv.com
 library.musical.ly
+libra-sg.tiktokv.com
 libra-va.tiktokv.com
 link.e.tiktok.com
 link-sg.byteoversea.com

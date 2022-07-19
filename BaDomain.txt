@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 11.07.2022
+# Version: 19.07.2022
 # Update: 1 day
 #
 
@@ -27,6 +27,7 @@
 1.ssiloc.com
 1up.com
 201205igp.gameloft.com
+20824721p.rfihub.com
 20ca2.playfabapi.com
 232.138.196.35.bc.googleusercontent.com
 247extratech.com
@@ -97,6 +98,7 @@ a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
 a3.applovin.com
 a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 a4.applovin.com
+a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 a.5fcb097b24a36d5711d4315c16ad1b0cb9b3acae90c8d66462893b57.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
@@ -110,6 +112,7 @@ aadg.trafficmanager.net
 a.ak.prd.aadg.trafficmanager.net
 a.applovin.com
 aaxads.com
+a.b21239b48c28b76ab0fadd9390384ca24cfcd6a986907259ad0b9967.com
 abesu.org
 about2.xyz
 aboutads.com
@@ -477,6 +480,7 @@ app.monetizer.com
 appnext.com
 appodeal.com
 appodealstack.com
+app.overloop.com
 app.pou.me
 app.pushbrothers.com
 app.securiti.ai
@@ -571,6 +575,7 @@ associates-amazon.com
 astra9dlya10.com
 astratech.pro
 at.alicdn.com
+atomic.oxy.host
 atom-log.3.cn
 attention-system-warning.com
 attitude.applinzi.com
@@ -590,6 +595,7 @@ autopilothq.com
 autopush.prod.mozaws.net
 au.umeng.com
 ava-cdn.like-it.video
+avanquest.com
 avatar.pho.to
 avcdn.net
 a.vdo.ai
@@ -684,6 +690,7 @@ boltdns.net
 bolt-gcdn.sc-cdn.net
 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 bombora.com
+bootstrap.smartsuppchat.com
 bosbosupdate.com
 botsrv2.com
 box5757.temp.domains
@@ -719,6 +726,7 @@ buysellads.net
 by3pcor001-com.be.1drv.com
 c02b-wss.app.slickstream.com
 c02f.app.slickstream.com
+c1.rfihub.net
 c4d-cdn.adcolony.com
 cabinet2-sea.taximaxim.com
 cachefly.net
@@ -727,7 +735,6 @@ cahoots.com
 c-api-bit.shopeemobile.com
 caping.co.id
 capitalone-resources.digital-cloud.medallia.com
-capitaloneservices.tt.omtrdc.net
 capitalone-udc.digital-cloud.medallia.com
 c.apple.news
 captive.apple.com
@@ -743,6 +750,8 @@ cbs.wondershare.com
 cc.163.com
 ccgateway.net
 c.cnzz.com
+cda1.avanquest.com
+cd.exp.xiaomi.com
 cdn0-production-images-kly.akamaized.net
 cdn130.picsart.com
 cdn1.codashop.com
@@ -761,6 +770,7 @@ cdn.aihelp.net
 cdn.alsgp0.fds.api.mi-img.com
 cdn-asset.optimonk.com
 cdn-asset.zepeto.me
+cdn.avanquest.com
 cdn.bizible.com
 cdn.concert.io
 cdnconfig.aihelp.net
@@ -885,6 +895,7 @@ cmh01.justin.tv
 cname.vercel-dns.com
 cn.bignox.com
 cnevids.com
+cnnx.io
 cn.pool.ntp.org
 cnzz.com
 codashop.com
@@ -901,6 +912,7 @@ collector-playground.lunalabs.uk
 collector-pxikkul2rm.perimeterx.net
 combinatronics.io
 comm.api.vivoglobal.com
+commerce-i18n-api.faceucam.com
 commnat-cohort-gc.ess.apple.com
 commnat-main-gc.ess.apple.com
 common-api.smart-sense.org
@@ -949,6 +961,55 @@ copyrightform-helpcenter.tk
 core-api.data.appsinnova.com
 corp.sogou.com
 counter.yadro.ru
+courier10.push.apple.com
+courier11.push.apple.com
+courier12.push.apple.com
+courier13.push.apple.com
+courier14.push.apple.com
+courier15.push.apple.com
+courier16.push.apple.com
+courier17.push.apple.com
+courier18.push.apple.com
+courier19.push.apple.com
+courier20.push.apple.com
+courier21.push.apple.com
+courier22.push.apple.com
+courier23.push.apple.com
+courier24.push.apple.com
+courier25.push.apple.com
+courier26.push.apple.com
+courier27.push.apple.com
+courier28.push.apple.com
+courier29.push.apple.com
+courier2.push.apple.com
+courier30.push.apple.com
+courier31.push.apple.com
+courier32.push.apple.com
+courier33.push.apple.com
+courier34.push.apple.com
+courier35.push.apple.com
+courier36.push.apple.com
+courier37.push.apple.com
+courier38.push.apple.com
+courier39.push.apple.com
+courier3.push.apple.com
+courier40.push.apple.com
+courier41.push.apple.com
+courier42.push.apple.com
+courier43.push.apple.com
+courier44.push.apple.com
+courier45.push.apple.com
+courier46.push.apple.com
+courier47.push.apple.com
+courier48.push.apple.com
+courier49.push.apple.com
+courier4.push.apple.com
+courier50.push.apple.com
+courier5.push.apple.com
+courier6.push.apple.com
+courier7.push.apple.com
+courier8.push.apple.com
+courier9.push.apple.com
 cove-cdn.ams3.cdn.digitaloceanspaces.com
 cove.chat
 cpahero.com
@@ -1021,6 +1082,7 @@ d34chcsvb7ug62.cloudfront.net
 d3amn7ayexbwsr.cloudfront.net
 d3d6s0qsgup76t.cloudfront.net
 d3fw5vlhllyvee.cloudfront.net
+d3gaa7hzm4yu8j.cloudfront.net
 d3hegev0j37foa.cloudfront.net
 d3hjue7omxs01q.cloudfront.net
 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
@@ -1128,6 +1190,8 @@ dns.sb
 dns-tunnel-check.googlezip.net
 do7nu6l5erzu3.cloudfront.net
 dob5.com
+doge43tothemoon.us
+dogecointothemoon43.us
 doh.dns.apple.com
 doh.iq.com
 dojo.cc
@@ -1178,6 +1242,7 @@ e7100.g.akamaiedge.net
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 e.alipay.com
 easymakesolution.com
+easyworldbusiness.com
 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
 ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
 ec2-54-165-151-168.compute-1.amazonaws.com
@@ -1198,6 +1263,7 @@ ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
 eleed.cloud
 eleed.online
+elements.oxy.host
 elo.io
 eloism.net
 embed-cdn.com
@@ -1258,6 +1324,8 @@ experts-exchange.com
 exploitbyte.net
 exponential.com
 exportinvest.ge
+exp.xiaomi.com
+extremescoffee.com
 extremetech.com
 eyeonsight.net
 eyeota.net
@@ -1309,6 +1377,7 @@ footprints-pa.googleapis.com
 force.com
 forepl4y.com
 foreprojects.webedge.com.ng
+forex-digitalcurrencies.com
 forfrogadiertor.com
 forgecdn.net
 forkcdn.com
@@ -1326,6 +1395,8 @@ franchise.minecraft-services.net
 fraudjs.io
 fr.bignox.com
 frd.shopee.co.id
+free-burning-software.com
+freeburningtools.com
 freeshort.link
 freestar.com
 freestar.io
@@ -1377,6 +1448,7 @@ g-api.kwai-pro.com
 g-api.kwaipros.com
 garagewestrotterdam.nl
 gate.hockeyapp.net
+gate.upclick.com
 gateway.fe.apple-dns.net
 gateway.icloud.com
 gateway.multiplay.zepeto.run
@@ -1412,6 +1484,7 @@ gift.bignox.com
 gitkraken.com
 glamour.com
 glass3.xyz
+glassbox.com
 glb.samsung-gamelauncher.com
 glcs.listdl.com
 gllto2.glpals.com
@@ -1431,6 +1504,7 @@ global.ilovexclub.com
 global.ilovexclub.net
 global.market.xiaomi.com
 globalmsg.facemojikeyboard.com
+globalnileapi.market.xiaomi.com
 global.rakuten.com
 global-rank-sg.sausage.xd.com
 global-tokenserver-la.headline.uodoo.com
@@ -1475,6 +1549,7 @@ graphql.kumparan.com
 graphql-v4.kumparan.com
 gray.bignox.com
 greaterfiledownload.com
+greendot.com
 groundtruth.com
 group41.sites.hscoscdn40.net
 group.bignox.com
@@ -1517,6 +1592,7 @@ gwwdhkwtswtjc
 gwx.line.naver.jp
 g-zgroup.pstatic.net
 g-zt.uvfuns.com
+h2ocdn.lavasoft.com
 h2svr.info
 h5.y5en.com
 hack4me.is
@@ -1740,6 +1816,7 @@ in.bignox.com
 inbox.clashofclans.com
 increaserev.com
 increasinglycockroachpolicy.com
+ind65.notesbook.in
 indeed.com
 indexww.com
 i.neptunegame.com
@@ -1863,6 +1940,7 @@ js.hubspotfeedback.com
 js.intercomcdn.com
 js.media-lab.ai
 js.usemessages.com
+jtracking-gate.lulusoft.com
 jtvnw.net
 jump.ogtrk.net
 justin.tv
@@ -1894,6 +1972,7 @@ klimg.com
 klink.snackvideo.com
 kl-youniverse.com
 knorex.com
+kokotrokot.com
 kol.yeshen.com
 komoona.com
 kompasads.com
@@ -1921,6 +2000,7 @@ la-ucc-upaas.ucweb.com
 laucenter.ucweb.com
 launcher-us.yeshen.com
 launcher.us.yeshen.com
+lavasoft.com
 layarindo21.pw
 layarkaca21.vip
 layuicdn.com
@@ -1997,11 +2077,14 @@ log.wt14yf.com
 log.zingnews.vn
 loki.wattpad.com
 loli.net
+lontaranews.com
 loomi.tv
 loptelink.pro
+lordofthequietbadgers.com
 lottiefiles.com
 lovelybabestu.com
 loveme.uno
+lulusoft.com
 lunalabs.io
 lustre.ai
 m1e.net
@@ -2033,6 +2116,7 @@ marchex.io
 marketo.com
 marketo.net
 marketplace.editmysite.com
+market.xiaomi.com
 mars.gamegamb.com
 mask-api.icloud.com
 mathtag.com
@@ -2049,6 +2133,7 @@ mdp-appconf-id.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
 medallia.com
+medals.bizrate.com
 media2.s-nbcnews.com
 media6degrees.com
 media-amazon.com
@@ -2183,6 +2268,7 @@ myim3banner.kloc.co
 mypic.icu
 myqcloud.com
 my.salesforce.com
+n5t8v6w3.stackpathcdn.com
 na.albtls.t.co
 nagios.dreamvps.com
 nanorep.co
@@ -2328,11 +2414,13 @@ otnolatrnup.com
 outbrain.com
 outcome-ssp.supersonicads.com
 outfit7.com
+overloop.com
 over.net
 overwolf.com
 ovv.video.qq.com
 owap.bar
 owneriq.net
+oxy.host
 ozap.bar
 p16.resso.app
 p16.resso.me
@@ -2340,6 +2428,7 @@ p16.topbuzzcdn.com
 p16-va.topbuzzcdn.com
 p20.zdassets.com
 p55-keyvalueservice.icloud.com
+p66-keyvalueservice.icloud.com
 paas.iresearch.vip
 pagead2.googlesyndication.com
 pagead.googlesyndication.com
@@ -2517,6 +2606,7 @@ pubs.contextads.live
 pub.searchiq.co
 pubstatus.sinaapp.com
 pulselb.relap.info
+push.apple.com
 pushbrothers.com
 push.heytapmobile.com
 push.idtopnews.com
@@ -2529,6 +2619,7 @@ px-conf.perimeterx.net
 pxf.io
 pxksnymto.ru
 px.za.zalo.me
+q8f4f8w7.stackpathcdn.com
 qanda-storage.s3.amazonaws.com
 qbox.me
 qcloud.com
@@ -2540,6 +2631,7 @@ qidian.qq.com
 qiniuapi.com
 qotu.bar
 qq.com
+qti.avanquest.com
 qualtrics.com
 quantcount.com
 quantserve.com
@@ -2553,6 +2645,7 @@ r2b2.io
 r3.i.lencr.org
 r3.mail.ru
 racgen.monster
+radaris.com
 raishiz.com
 rakam.io
 rakutenmarketing.com
@@ -2572,6 +2665,7 @@ recommend.pa1mstore.com
 recommend.palmplaystore.com
 recorder.iobit.com
 recostream.go.mail.ru
+rec.smartlook.com
 redirectingat.com
 redirect.networkbench.com
 referralrock.com
@@ -2634,6 +2728,7 @@ robinhand.vip
 robuxweb.pro
 robwu.nl
 robyoc.online
+rokev.extremescoffee.com
 romanhackers.com
 rosenberg.appmetrica.yandex.net
 ro.up.vivoglobal.com
@@ -2734,6 +2829,7 @@ search.ws.pho.to
 secret20.com
 secreto.site
 securebiz.org
+secure.greendot.com
 securegw.paytm.in
 secure-media.hotstar.com
 securetoken.googleapis.com
@@ -2826,9 +2922,13 @@ smartadserver.com
 smartcardf-eu.apps.coloros.com
 smarthackerstech.org
 smartlook.com
+smartsuppcdn.com
+smartsuppchat.com
+smartsupp.com
 sm.bdimg.com
 sm.ms
 s.mobsrvapi.com
+smokey.lordofthequietbadgers.com
 sms.webadv.co
 smushcdn.com
 snackvideo.com
@@ -2839,6 +2939,7 @@ snapgirls.date
 snapgirls.today
 snapgirls.uno
 s-nbcnews.com
+sneaky.lordofthequietbadgers.com
 snigelweb.com
 sns.bignox.com
 snssdk.com
@@ -3053,6 +3154,7 @@ theme.shalltry.com
 theme.zdassets.com
 themoneytizer.com
 themoviedb.org
+thepossssed.xyz
 thesaurus.com
 thespacehackers.com
 theyt786ku.cfd
@@ -3188,6 +3290,7 @@ unipin.com
 universehackworld.org
 u.nu
 upapi.net
+upclick.com
 update.aida64.com
 updateapis.kiwibrowser.com
 update.bosbosupdate.com
@@ -3324,6 +3427,7 @@ wdfl.co
 weatherapi.intl.xiaomi.com
 weatherapi.market.xiaomi.com
 weather-data.apple.com
+weather-server-sg.allawnos.com
 webadv.co
 webapi-clean.ikeepapps.com
 webdesignerdepot.com
@@ -3335,7 +3439,9 @@ web-ops.nimostatic.tv
 weborama.com
 webovernet.com
 webpulse.imgsmail.ru
+webpushr.com
 website-files.com
+websocket-visitors.smartsupp.com
 webstore.ucweb.com
 webtoon-phinf.pstatic.net
 web.toutiao.com
@@ -3361,6 +3467,7 @@ whynt.xyz
 widget.intercom.io
 widgets.outbrain.com
 widget.surveymonkey.com
+widget-v2.smartsuppcdn.com
 wifimap.zendesk.com
 wifi.vivo.com.cn
 wins.isprog.com
@@ -3391,9 +3498,12 @@ wuildit.com
 wuji.wetvinfo.com
 wuueqejuratzdz.com
 wvzb9b.xjwi5.com
+ww16.doge43tothemoon.us
 ww25.apkeditorfree.com
+ww25.dogecointothemoon43.us
 ww25.sas-autos.com
 ww38.h2svr.info
+ww82.lontaranews.com
 www100.nathanaeldan.pro
 www.12377.cn
 www24.proservice.ge
@@ -3417,6 +3527,7 @@ www.backjawtanoa.com
 www.baidu.com
 www.beacons.ai
 www.bignox.com
+www.bizrate.com
 www.braze.com
 www.cdn.viber.com
 www.centurygames.com
@@ -3447,6 +3558,7 @@ www.g2crowd.com
 www.garagewestrotterdam.nl
 www.geowf.ge
 www.glamour.com
+www.glassbox.com
 www.go2cloud.org
 www.googleapis.cn
 www.google.cn
@@ -3507,6 +3619,7 @@ www.shareaholic.net
 www.sixtest.com
 www.slickstream.com
 www.slideshare.net
+www.smartsuppchat.com
 www.spanishcoursesunamuno.com
 www.stagingapps.xyz
 www.sweet-girls18.com
@@ -3567,6 +3680,7 @@ www.zingnews.vn
 www.zing.vn
 x18like.uno
 x1.i.lencr.org
+x2drop.com
 x8sb.com
 x8speeder.com
 x8zs.cok

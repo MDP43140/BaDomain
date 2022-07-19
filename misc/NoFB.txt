@@ -1909,6 +1909,7 @@ z-p3-scontent.fsea1-1.fna.fbcdn.net
 z-p3-scontent.fsub1-1.fna.fbcdn.net
 z-p3-scontent.ftpa1-1.fna.fbcdn.net
 z-p3-scontent-lax3-1.xx.fbcdn.net
+z-p3-static.xx.fbcdn.net
 z-p3-upload.facebook.com
 z-p3-video.flpb1-1.fna.fbcdn.net
 z-p3-video.fpfb1-1.fna.fbcdn.net
