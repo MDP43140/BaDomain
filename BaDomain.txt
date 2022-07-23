@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.07.2022
+# Version: 23.07.2022
 # Update: 1 day
 #
 
@@ -124,6 +124,7 @@ abtesting.ai
 abubadu.com
 a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 a.c93eb87839c6be3faf4eec1c4863e043791e3b4c9c40a159812fbc6a.com
+access1.tpns.sgp.tencent.com
 access.line.me
 access-pre.ucweb.com
 acckwmhi.com
@@ -335,6 +336,9 @@ api-auth.kinemasters.com
 api.baca.co.id
 api.bidmachine.io
 api.bignox.com
+api.bilibili.com
+api.bilibili.tv
+api.biliintl.com
 api.black.riseup.net
 api.blocka.net
 api.cleanmaster.club
@@ -390,6 +394,7 @@ ap.ime.cootek.com
 api.meditation.oneboost.me
 api.micloud.xiaomi.net
 api.mintbrs.intl.miui.com
+api.mintkeyboard.com
 api.mobilesearchers.com
 api.mobula.sdk.duapps.com
 api.muc.intl.miui.com
@@ -454,6 +459,7 @@ app.adjust.net.in
 app.advertizer.com
 appannie.com
 app.bignox.com
+app.biliintl.com
 app.bt-cfm.io
 appcfg.v.qq.com
 appcfg.wetvinfo.com
@@ -504,6 +510,7 @@ ap-usage.ime.cootek.com
 ap.y5en.com
 ar.bignox.com
 arcai.com
+arms-retcode-sg.aliyuncs.com
 arstechnica.net
 artas.biz
 artpp-vivofs.vivoglobal.com
@@ -577,6 +584,7 @@ astratech.pro
 at.alicdn.com
 atomic.oxy.host
 atom-log.3.cn
+atrace-api.palmplaystore.com
 attention-system-warning.com
 attitude.applinzi.com
 atwola.com
@@ -667,7 +675,9 @@ bigbooty.online
 bighop.com
 bigmir.space
 bignox.com
+bilibili.com
 bilibili.tv
+biliintl.com
 bilikfilm.xyz
 billigrefinansiering.com
 bi.yeshen.com
@@ -732,6 +742,7 @@ cabinet2-sea.taximaxim.com
 cachefly.net
 cadmoremedia.com
 cahoots.com
+candycrushsaga.king.com
 c-api-bit.shopeemobile.com
 caping.co.id
 capitalone-resources.digital-cloud.medallia.com
@@ -891,6 +902,7 @@ cloudops.mozgcp.net
 cloud.tencent.com
 cloud.typography.com
 cloud.wpscdn.com
+cm.bilibili.com
 cmh01.justin.tv
 cname.vercel-dns.com
 cn.bignox.com
@@ -1098,6 +1110,7 @@ d.applovin.com
 data00.adlooxtracking.com
 data.ai
 data.appsinnova.com
+data.bilibili.tv
 datadoghq.com
 datadome.co
 data.flurry.com
@@ -1206,6 +1219,7 @@ dotmetrics.net
 dotomi.com
 doubleclick.net
 down.anticheatexpert.com
+download0.vivo.com.cn
 download.alicdn.com
 download.bignox.com
 download.iobit.com
@@ -1325,6 +1339,7 @@ exploitbyte.net
 exponential.com
 exportinvest.ge
 exp.xiaomi.com
+external.appstore.vivo.com.cn
 extremescoffee.com
 extremetech.com
 eyeonsight.net
@@ -1607,6 +1622,7 @@ hbmtours.com
 hbs.ph.affinity.com
 hcdnv119back.ovc.c.cdnhwc1.com
 hdcb-api.fortumo.io
+hdslb.com
 heapanalytics.com
 heap.io
 hellay.net
@@ -1663,6 +1679,7 @@ hs-marketing.imgix.net
 hs-scripts.com
 hs-scripts.net
 hsstatic.net
+htms.heytapmobile.com
 h.trace.qq.com
 htrace.wetvinfo.com
 httpdns.ocloud.heytapmobi.com
@@ -1688,11 +1705,14 @@ hwclouds-dns.com
 hw-crs-report.y5en.com
 hybrid.miniapp.taobao.com
 hyperxgaming.website
+i0.hdslb.com
 i18n-api.faceueditor.com
 i18n-feed-api.faceueditor.com
 i18n-gcp-everphoto.faceueditor.com
 i18n.mvconf.50union.com
 i18n-passport-api.faceueditor.com
+i1.hdslb.com
+i2.hdslb.com
 i59400f.xyz
 i5.weather.oppomobile.com
 i6f.weather.oppomobile.com
@@ -1737,6 +1757,7 @@ id-store.oppomobile.com
 id-store.realmemobile.com
 id.supercell.com
 id-telkom.rcs.telephony.goog
+id-test-11.slatic.net
 id-three.rcs.telephony.goog
 id-update-appstore.vivoglobal.com
 id.video.intl.xiaomi.com
@@ -1949,6 +1970,7 @@ jwplayer.com
 jwpsrv.com
 jwrqzz.womenforlove.net
 jwshowcase.com
+k2.midasplayer.com
 kagaitiktok.net
 kantora.ge
 k-api.kwai-pro.com
@@ -1962,6 +1984,7 @@ keyvalueservice.icloud.com
 kika-backend.com
 kikakeyboard.com
 killerbeanforever.com
+king.com
 kinja.com
 kinja-com.videoplayerhub.com
 kinja-static.com
@@ -2169,6 +2192,7 @@ m.harbourfunny.com
 mhy.link
 microservices.wifimap.io
 midas-api.hellay.net
+midasplayer.com
 mi-img.com
 miit.gov.cn
 m.imdb.com
@@ -2304,6 +2328,7 @@ news.hastopic.com
 newsmag.danielolayinkas.com
 newsmaticaapp.com
 news-muxeta.cc
+news.zing.vn
 nexage.com
 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
 nflxvideo.net
@@ -2340,6 +2365,7 @@ nude.snapgirls.today
 nude.younggirls.today
 nurd.com
 nxtck.com
+n.zing.vn
 o1069899.ingest.sentry.io
 o13824.ingest.sentry.io
 o209266.ingest.sentry.io
@@ -2470,11 +2496,13 @@ pazu.ge
 pbacc.wetvinfo.com
 pbbl.co
 pbssrv-centralevents.com
+p.bstarstatic.com
 pbs.twimg.com
 pcoptimizerpro.com
 pdfcylsmo.com
 pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
 pedulilindungi.com
+pepepush.net
 perf.hsforms.com
 permutive.app
 persona.franchise.minecraft-services.net
@@ -2491,6 +2519,8 @@ phonograph2.voxmedia.com
 pho.to
 photolab.me
 photolabsocialapi.pho.to
+pic-bstarstatic.akamaized.net
+pic.bstarstatic.com
 pic.sogou.com
 ping.baca.co.id
 ping.cloud.tencent.com
@@ -2772,6 +2802,7 @@ s160-ava-talk.zadn.vn
 s.166.net
 s16.kwai.net
 s18900.webovernet.com
+s1.hdslb.com
 s23.cnzz.com
 s2.loli.net
 s2s.af.outfit7.com
@@ -2880,6 +2911,7 @@ sg-live-01.slatic.net
 sg.omlet.me
 sgpac.account.xiaomi.com
 sgp-img-c.heytapimg.com
+sgp.tencent.com
 sg.tdatamaster.com
 shake-body.com
 shalltry.com
@@ -2976,6 +3008,7 @@ sp.zalo.me
 s.relap.mail.ru
 srv1.bilikfilm.xyz
 srv-mobile-version-validator.services.z-dn.net
+srv.mp3.zing.vn
 srv-ocr-api-logged.z-dn.net
 srvr.dmvs-apac.com
 srv.sec.intl.miui.com
@@ -3012,6 +3045,7 @@ static-cms.aa-cdn.net
 static.dable.io
 static-doubleclick-net.l.google.com
 static.gc.apple.com
+static.hdslb.com
 static.hsappstatic.net
 static.like-it.video
 static.messagebird.com
@@ -3055,6 +3089,7 @@ storeimg.heytapimg.com
 streamback.ff.avast.com
 streamrail.net
 stuck-sg.dc.oppomobile.com
+stumblepremiumlive.kitkagames.com
 stun.ekiga.net
 stup5.appmeasurements.com
 sub2unlock.com
@@ -3066,6 +3101,7 @@ suggests.go.mail.ru
 sumo.com
 sumo.mozit.cloud
 sun.mv
+supapush.net
 supercell.helpshift.com
 superpowered.com
 supersonicads.com
@@ -3198,6 +3234,7 @@ topic-sticker-vending.snapchat.com
 toprbx.best
 toutiao.com
 tpai.caping.co.id
+tpns.sgp.tencent.com
 t.pubmatic.com
 tracert.alipay.com
 track.analytics.rocks
@@ -3371,6 +3408,7 @@ vip-client.heytapmobi.com
 visitsme.uno
 visteme.mx
 visualwebsiteoptimizer.com
+vivo.com.cn
 vlitag.com
 v.lsttnews.com
 vn.bignox.com
@@ -3527,6 +3565,8 @@ www.backjawtanoa.com
 www.baidu.com
 www.beacons.ai
 www.bignox.com
+www.bilibili.com
+www.bilibili.tv
 www.bizrate.com
 www.braze.com
 www.cdn.viber.com
@@ -3582,6 +3622,7 @@ www.jd.com
 www.jwplayer.com
 www.jwshowcase.com
 www.kagaitiktok.net
+www.king.com
 www.kustens.com
 www.letucook.com
 www.linkedin.com

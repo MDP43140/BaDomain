@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.07.2022
+# Version: 23.07.2022
 # Update: 1 day
 #
 
@@ -124,6 +124,7 @@
 127.0.0.1 abubadu.com
 127.0.0.1 a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 127.0.0.1 a.c93eb87839c6be3faf4eec1c4863e043791e3b4c9c40a159812fbc6a.com
+127.0.0.1 access1.tpns.sgp.tencent.com
 127.0.0.1 access.line.me
 127.0.0.1 access-pre.ucweb.com
 127.0.0.1 acckwmhi.com
@@ -335,6 +336,9 @@
 127.0.0.1 api.baca.co.id
 127.0.0.1 api.bidmachine.io
 127.0.0.1 api.bignox.com
+127.0.0.1 api.bilibili.com
+127.0.0.1 api.bilibili.tv
+127.0.0.1 api.biliintl.com
 127.0.0.1 api.black.riseup.net
 127.0.0.1 api.blocka.net
 127.0.0.1 api.cleanmaster.club
@@ -390,6 +394,7 @@
 127.0.0.1 api.meditation.oneboost.me
 127.0.0.1 api.micloud.xiaomi.net
 127.0.0.1 api.mintbrs.intl.miui.com
+127.0.0.1 api.mintkeyboard.com
 127.0.0.1 api.mobilesearchers.com
 127.0.0.1 api.mobula.sdk.duapps.com
 127.0.0.1 api.muc.intl.miui.com
@@ -454,6 +459,7 @@
 127.0.0.1 app.advertizer.com
 127.0.0.1 appannie.com
 127.0.0.1 app.bignox.com
+127.0.0.1 app.biliintl.com
 127.0.0.1 app.bt-cfm.io
 127.0.0.1 appcfg.v.qq.com
 127.0.0.1 appcfg.wetvinfo.com
@@ -504,6 +510,7 @@
 127.0.0.1 ap.y5en.com
 127.0.0.1 ar.bignox.com
 127.0.0.1 arcai.com
+127.0.0.1 arms-retcode-sg.aliyuncs.com
 127.0.0.1 arstechnica.net
 127.0.0.1 artas.biz
 127.0.0.1 artpp-vivofs.vivoglobal.com
@@ -577,6 +584,7 @@
 127.0.0.1 at.alicdn.com
 127.0.0.1 atomic.oxy.host
 127.0.0.1 atom-log.3.cn
+127.0.0.1 atrace-api.palmplaystore.com
 127.0.0.1 attention-system-warning.com
 127.0.0.1 attitude.applinzi.com
 127.0.0.1 atwola.com
@@ -667,7 +675,9 @@
 127.0.0.1 bighop.com
 127.0.0.1 bigmir.space
 127.0.0.1 bignox.com
+127.0.0.1 bilibili.com
 127.0.0.1 bilibili.tv
+127.0.0.1 biliintl.com
 127.0.0.1 bilikfilm.xyz
 127.0.0.1 billigrefinansiering.com
 127.0.0.1 bi.yeshen.com
@@ -732,6 +742,7 @@
 127.0.0.1 cachefly.net
 127.0.0.1 cadmoremedia.com
 127.0.0.1 cahoots.com
+127.0.0.1 candycrushsaga.king.com
 127.0.0.1 c-api-bit.shopeemobile.com
 127.0.0.1 caping.co.id
 127.0.0.1 capitalone-resources.digital-cloud.medallia.com
@@ -891,6 +902,7 @@
 127.0.0.1 cloud.tencent.com
 127.0.0.1 cloud.typography.com
 127.0.0.1 cloud.wpscdn.com
+127.0.0.1 cm.bilibili.com
 127.0.0.1 cmh01.justin.tv
 127.0.0.1 cname.vercel-dns.com
 127.0.0.1 cn.bignox.com
@@ -1098,6 +1110,7 @@
 127.0.0.1 data00.adlooxtracking.com
 127.0.0.1 data.ai
 127.0.0.1 data.appsinnova.com
+127.0.0.1 data.bilibili.tv
 127.0.0.1 datadoghq.com
 127.0.0.1 datadome.co
 127.0.0.1 data.flurry.com
@@ -1206,6 +1219,7 @@
 127.0.0.1 dotomi.com
 127.0.0.1 doubleclick.net
 127.0.0.1 down.anticheatexpert.com
+127.0.0.1 download0.vivo.com.cn
 127.0.0.1 download.alicdn.com
 127.0.0.1 download.bignox.com
 127.0.0.1 download.iobit.com
@@ -1325,6 +1339,7 @@
 127.0.0.1 exponential.com
 127.0.0.1 exportinvest.ge
 127.0.0.1 exp.xiaomi.com
+127.0.0.1 external.appstore.vivo.com.cn
 127.0.0.1 extremescoffee.com
 127.0.0.1 extremetech.com
 127.0.0.1 eyeonsight.net
@@ -1607,6 +1622,7 @@
 127.0.0.1 hbs.ph.affinity.com
 127.0.0.1 hcdnv119back.ovc.c.cdnhwc1.com
 127.0.0.1 hdcb-api.fortumo.io
+127.0.0.1 hdslb.com
 127.0.0.1 heapanalytics.com
 127.0.0.1 heap.io
 127.0.0.1 hellay.net
@@ -1663,6 +1679,7 @@
 127.0.0.1 hs-scripts.com
 127.0.0.1 hs-scripts.net
 127.0.0.1 hsstatic.net
+127.0.0.1 htms.heytapmobile.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 htrace.wetvinfo.com
 127.0.0.1 httpdns.ocloud.heytapmobi.com
@@ -1688,11 +1705,14 @@
 127.0.0.1 hw-crs-report.y5en.com
 127.0.0.1 hybrid.miniapp.taobao.com
 127.0.0.1 hyperxgaming.website
+127.0.0.1 i0.hdslb.com
 127.0.0.1 i18n-api.faceueditor.com
 127.0.0.1 i18n-feed-api.faceueditor.com
 127.0.0.1 i18n-gcp-everphoto.faceueditor.com
 127.0.0.1 i18n.mvconf.50union.com
 127.0.0.1 i18n-passport-api.faceueditor.com
+127.0.0.1 i1.hdslb.com
+127.0.0.1 i2.hdslb.com
 127.0.0.1 i59400f.xyz
 127.0.0.1 i5.weather.oppomobile.com
 127.0.0.1 i6f.weather.oppomobile.com
@@ -1737,6 +1757,7 @@
 127.0.0.1 id-store.realmemobile.com
 127.0.0.1 id.supercell.com
 127.0.0.1 id-telkom.rcs.telephony.goog
+127.0.0.1 id-test-11.slatic.net
 127.0.0.1 id-three.rcs.telephony.goog
 127.0.0.1 id-update-appstore.vivoglobal.com
 127.0.0.1 id.video.intl.xiaomi.com
@@ -1949,6 +1970,7 @@
 127.0.0.1 jwpsrv.com
 127.0.0.1 jwrqzz.womenforlove.net
 127.0.0.1 jwshowcase.com
+127.0.0.1 k2.midasplayer.com
 127.0.0.1 kagaitiktok.net
 127.0.0.1 kantora.ge
 127.0.0.1 k-api.kwai-pro.com
@@ -1962,6 +1984,7 @@
 127.0.0.1 kika-backend.com
 127.0.0.1 kikakeyboard.com
 127.0.0.1 killerbeanforever.com
+127.0.0.1 king.com
 127.0.0.1 kinja.com
 127.0.0.1 kinja-com.videoplayerhub.com
 127.0.0.1 kinja-static.com
@@ -2169,6 +2192,7 @@
 127.0.0.1 mhy.link
 127.0.0.1 microservices.wifimap.io
 127.0.0.1 midas-api.hellay.net
+127.0.0.1 midasplayer.com
 127.0.0.1 mi-img.com
 127.0.0.1 miit.gov.cn
 127.0.0.1 m.imdb.com
@@ -2304,6 +2328,7 @@
 127.0.0.1 newsmag.danielolayinkas.com
 127.0.0.1 newsmaticaapp.com
 127.0.0.1 news-muxeta.cc
+127.0.0.1 news.zing.vn
 127.0.0.1 nexage.com
 127.0.0.1 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
 127.0.0.1 nflxvideo.net
@@ -2340,6 +2365,7 @@
 127.0.0.1 nude.younggirls.today
 127.0.0.1 nurd.com
 127.0.0.1 nxtck.com
+127.0.0.1 n.zing.vn
 127.0.0.1 o1069899.ingest.sentry.io
 127.0.0.1 o13824.ingest.sentry.io
 127.0.0.1 o209266.ingest.sentry.io
@@ -2470,11 +2496,13 @@
 127.0.0.1 pbacc.wetvinfo.com
 127.0.0.1 pbbl.co
 127.0.0.1 pbssrv-centralevents.com
+127.0.0.1 p.bstarstatic.com
 127.0.0.1 pbs.twimg.com
 127.0.0.1 pcoptimizerpro.com
 127.0.0.1 pdfcylsmo.com
 127.0.0.1 pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
 127.0.0.1 pedulilindungi.com
+127.0.0.1 pepepush.net
 127.0.0.1 perf.hsforms.com
 127.0.0.1 permutive.app
 127.0.0.1 persona.franchise.minecraft-services.net
@@ -2491,6 +2519,8 @@
 127.0.0.1 pho.to
 127.0.0.1 photolab.me
 127.0.0.1 photolabsocialapi.pho.to
+127.0.0.1 pic-bstarstatic.akamaized.net
+127.0.0.1 pic.bstarstatic.com
 127.0.0.1 pic.sogou.com
 127.0.0.1 ping.baca.co.id
 127.0.0.1 ping.cloud.tencent.com
@@ -2772,6 +2802,7 @@
 127.0.0.1 s.166.net
 127.0.0.1 s16.kwai.net
 127.0.0.1 s18900.webovernet.com
+127.0.0.1 s1.hdslb.com
 127.0.0.1 s23.cnzz.com
 127.0.0.1 s2.loli.net
 127.0.0.1 s2s.af.outfit7.com
@@ -2880,6 +2911,7 @@
 127.0.0.1 sg.omlet.me
 127.0.0.1 sgpac.account.xiaomi.com
 127.0.0.1 sgp-img-c.heytapimg.com
+127.0.0.1 sgp.tencent.com
 127.0.0.1 sg.tdatamaster.com
 127.0.0.1 shake-body.com
 127.0.0.1 shalltry.com
@@ -2976,6 +3008,7 @@
 127.0.0.1 s.relap.mail.ru
 127.0.0.1 srv1.bilikfilm.xyz
 127.0.0.1 srv-mobile-version-validator.services.z-dn.net
+127.0.0.1 srv.mp3.zing.vn
 127.0.0.1 srv-ocr-api-logged.z-dn.net
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 srv.sec.intl.miui.com
@@ -3012,6 +3045,7 @@
 127.0.0.1 static.dable.io
 127.0.0.1 static-doubleclick-net.l.google.com
 127.0.0.1 static.gc.apple.com
+127.0.0.1 static.hdslb.com
 127.0.0.1 static.hsappstatic.net
 127.0.0.1 static.like-it.video
 127.0.0.1 static.messagebird.com
@@ -3055,6 +3089,7 @@
 127.0.0.1 streamback.ff.avast.com
 127.0.0.1 streamrail.net
 127.0.0.1 stuck-sg.dc.oppomobile.com
+127.0.0.1 stumblepremiumlive.kitkagames.com
 127.0.0.1 stun.ekiga.net
 127.0.0.1 stup5.appmeasurements.com
 127.0.0.1 sub2unlock.com
@@ -3066,6 +3101,7 @@
 127.0.0.1 sumo.com
 127.0.0.1 sumo.mozit.cloud
 127.0.0.1 sun.mv
+127.0.0.1 supapush.net
 127.0.0.1 supercell.helpshift.com
 127.0.0.1 superpowered.com
 127.0.0.1 supersonicads.com
@@ -3198,6 +3234,7 @@
 127.0.0.1 toprbx.best
 127.0.0.1 toutiao.com
 127.0.0.1 tpai.caping.co.id
+127.0.0.1 tpns.sgp.tencent.com
 127.0.0.1 t.pubmatic.com
 127.0.0.1 tracert.alipay.com
 127.0.0.1 track.analytics.rocks
@@ -3371,6 +3408,7 @@
 127.0.0.1 visitsme.uno
 127.0.0.1 visteme.mx
 127.0.0.1 visualwebsiteoptimizer.com
+127.0.0.1 vivo.com.cn
 127.0.0.1 vlitag.com
 127.0.0.1 v.lsttnews.com
 127.0.0.1 vn.bignox.com
@@ -3527,6 +3565,8 @@
 127.0.0.1 www.baidu.com
 127.0.0.1 www.beacons.ai
 127.0.0.1 www.bignox.com
+127.0.0.1 www.bilibili.com
+127.0.0.1 www.bilibili.tv
 127.0.0.1 www.bizrate.com
 127.0.0.1 www.braze.com
 127.0.0.1 www.cdn.viber.com
@@ -3582,6 +3622,7 @@
 127.0.0.1 www.jwplayer.com
 127.0.0.1 www.jwshowcase.com
 127.0.0.1 www.kagaitiktok.net
+127.0.0.1 www.king.com
 127.0.0.1 www.kustens.com
 127.0.0.1 www.letucook.com
 127.0.0.1 www.linkedin.com

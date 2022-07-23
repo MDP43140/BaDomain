@@ -593,6 +593,7 @@ bytedance.akadns.net
 bytedanceapi.com
 bytedance.com
 bytedance.map.fastly.net
+bytedance.net
 bytedance-tmcdn.tm.com.my
 bytedns.net
 byted.org
@@ -715,6 +716,7 @@ developer.sgsnssdk.com
 developer-sg.toutiao.com
 developers.tiktok.com
 developers.tiktok.com.edgesuite.net
+developers.tiktok-shops.com
 developer.toutiao.com
 devops.byted.org
 dficimage.toutiao.com
@@ -898,6 +900,7 @@ fantasy-static.snssdk.com
 fb89a3b6273106930d55e9747de3d9d4.byteoversea.com
 fcdnns1.compass.byteoversea.net
 fcdnns2.compass.byteoversea.net
+fcdn.us.tiktokv.com
 f-charge-fee.snssdk.com
 fddfafhadd.temp.p23.tc.cdntip.com
 feedback-va.byteoversea.com
@@ -1057,6 +1060,7 @@ i16-core.sgsnssdk.com
 i16-tb.isnssdk.com
 i16-tb.isnssdk.com.edgekey.net
 i16-tb.sgsnssdk.com
+i18n-pglstatp.com
 i1.isnssdk.com
 i1.isnssdk.com.edgekey.net
 i1.pstatp.com
@@ -1788,6 +1792,7 @@ p16-tiktok-va-h2.ibyteimg.com
 p16-tiktok-va-h2.ibyteimg.com.akamaized.net
 p16-tiktok-va.ibyteimg.com
 p16-tiktok-va.ibyteimg.com.edgesuite.net
+p-16-tiktokyoyo-va.ibyteimg.com
 p16-tk-m.tiktokcdn.com
 p16-tk-m.tiktokcdn.com.edgesuite.net
 p16-tk.tiktokcdn.com
@@ -1814,6 +1819,7 @@ p16.xzcs3zlph.com
 p16.xzcs3zlph.com.akamaized.net
 p19-capcut-sg.ibyteimg.com
 p19.hypstarcdn.com
+p-19-oec-sg.ibyteimg.com
 p19-webcast.hypstarcdn.com
 p19-webcast.muscdn.com
 p19-webcast.tiktokcdn.com
@@ -2078,6 +2084,7 @@ pb3.pstatp.com
 pb3.pstatp.com.w.kunlungr.com
 pb9.pstatp.com
 pb9.pstatp.com.bsgslb.com
+pearl.bytedance.net
 pgc.isnssdk.com
 phonemark.toutiao.com
 p.hypstarcdn.com
@@ -2179,6 +2186,7 @@ pull-f5.tiktokcdn.com.c.worldfcdn.com
 pull-f5-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.tiktokcdn.com
 pull-f5-tt02.fcdn.us.tiktokv.com
+pull-f5-tt02-intra.fcdn.us.tiktokv.com
 pull-f5-tt02.tiktokcdn.com
 pull-f5-va01.tiktokcdn.com
 pull-f5-va01.ttlivecdn.com
@@ -2580,9 +2588,13 @@ security-lq.snssdk.com
 security-o.snssdk.com
 security.snssdk.com
 security.snssdk.com.w.kunluncan.com
+seller-id.tiktok.com
+seller.tiktok.com
+seller.tiktokglobalshop.com
 sf16-cgfe-sg.ibytedtos.com
 sf16-cgfe-va.ibytedtos.com
 sf16-eacdn-tos.pstatp.com
+sf16-fe-tos-sg.i18n-pglstatp.com
 sf16-ies-music-sg.tiktokcdn.com
 sf16-ies-music.tiktokcdn.com
 sf16-lark-va.ibytedtos.com
@@ -2603,6 +2615,7 @@ sf16-sg-default.edgesuite.net
 sf16-sg.hypstarcdn.com
 sf16-sg.muscdn.com
 sf16-sg.tiktokcdn.com
+sf16-static.i18n-pglstatp.com
 sf16-tk-m.tiktokcdn.com
 sf16-tk-m.tiktokcdn.com.edgesuite.net
 sf16-tk.tiktokcdn.com
@@ -2731,6 +2744,7 @@ share-sg.snssdk.com
 share-test.musemuse.cn
 shop.musical.ly
 shop.snssdk.com
+shop.tiktok.com
 s.ipstatp.com
 slb-lb.bytedns.net
 slide.toutiao.com
@@ -2853,8 +2867,10 @@ tiktok.com.edgekey.net
 tiktok.com.edgesuite.net
 tiktok-core-lb-maliva.byteoversea.net
 tiktok-core-lb-maliva-useast2a.byteoversea.net
+tiktokglobalshop.com
 tiktok-lb-alisg.byteoversea.net
 tiktok-lb-maliva.byteoversea.net
+tiktok-shops.com
 tiktokv.com
 tiktokv.com.cdn.cloudflare.net
 tiktokv.com.edgekey.net
@@ -3141,6 +3157,7 @@ updatewebws.pstatp.com.wsglb0.com
 us-central1-tiktokdownloader-9eb12.cloudfunctions.net
 us.tiktok.com
 us.tiktok.com.edgekey.net
+us.tiktokv.com
 uz91a.v.bsgslb.com
 uz91ipv6pic1.v.bsgslb.com
 uz91ipv6pic.v.bsgslb.com

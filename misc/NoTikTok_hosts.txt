@@ -593,6 +593,7 @@
 127.0.0.1 bytedanceapi.com
 127.0.0.1 bytedance.com
 127.0.0.1 bytedance.map.fastly.net
+127.0.0.1 bytedance.net
 127.0.0.1 bytedance-tmcdn.tm.com.my
 127.0.0.1 bytedns.net
 127.0.0.1 byted.org
@@ -715,6 +716,7 @@
 127.0.0.1 developer-sg.toutiao.com
 127.0.0.1 developers.tiktok.com
 127.0.0.1 developers.tiktok.com.edgesuite.net
+127.0.0.1 developers.tiktok-shops.com
 127.0.0.1 developer.toutiao.com
 127.0.0.1 devops.byted.org
 127.0.0.1 dficimage.toutiao.com
@@ -898,6 +900,7 @@
 127.0.0.1 fb89a3b6273106930d55e9747de3d9d4.byteoversea.com
 127.0.0.1 fcdnns1.compass.byteoversea.net
 127.0.0.1 fcdnns2.compass.byteoversea.net
+127.0.0.1 fcdn.us.tiktokv.com
 127.0.0.1 f-charge-fee.snssdk.com
 127.0.0.1 fddfafhadd.temp.p23.tc.cdntip.com
 127.0.0.1 feedback-va.byteoversea.com
@@ -1057,6 +1060,7 @@
 127.0.0.1 i16-tb.isnssdk.com
 127.0.0.1 i16-tb.isnssdk.com.edgekey.net
 127.0.0.1 i16-tb.sgsnssdk.com
+127.0.0.1 i18n-pglstatp.com
 127.0.0.1 i1.isnssdk.com
 127.0.0.1 i1.isnssdk.com.edgekey.net
 127.0.0.1 i1.pstatp.com
@@ -1788,6 +1792,7 @@
 127.0.0.1 p16-tiktok-va-h2.ibyteimg.com.akamaized.net
 127.0.0.1 p16-tiktok-va.ibyteimg.com
 127.0.0.1 p16-tiktok-va.ibyteimg.com.edgesuite.net
+127.0.0.1 p-16-tiktokyoyo-va.ibyteimg.com
 127.0.0.1 p16-tk-m.tiktokcdn.com
 127.0.0.1 p16-tk-m.tiktokcdn.com.edgesuite.net
 127.0.0.1 p16-tk.tiktokcdn.com
@@ -1814,6 +1819,7 @@
 127.0.0.1 p16.xzcs3zlph.com.akamaized.net
 127.0.0.1 p19-capcut-sg.ibyteimg.com
 127.0.0.1 p19.hypstarcdn.com
+127.0.0.1 p-19-oec-sg.ibyteimg.com
 127.0.0.1 p19-webcast.hypstarcdn.com
 127.0.0.1 p19-webcast.muscdn.com
 127.0.0.1 p19-webcast.tiktokcdn.com
@@ -2078,6 +2084,7 @@
 127.0.0.1 pb3.pstatp.com.w.kunlungr.com
 127.0.0.1 pb9.pstatp.com
 127.0.0.1 pb9.pstatp.com.bsgslb.com
+127.0.0.1 pearl.bytedance.net
 127.0.0.1 pgc.isnssdk.com
 127.0.0.1 phonemark.toutiao.com
 127.0.0.1 p.hypstarcdn.com
@@ -2179,6 +2186,7 @@
 127.0.0.1 pull-f5-tt01.fcdn.us.tiktokv.com
 127.0.0.1 pull-f5-tt01.tiktokcdn.com
 127.0.0.1 pull-f5-tt02.fcdn.us.tiktokv.com
+127.0.0.1 pull-f5-tt02-intra.fcdn.us.tiktokv.com
 127.0.0.1 pull-f5-tt02.tiktokcdn.com
 127.0.0.1 pull-f5-va01.tiktokcdn.com
 127.0.0.1 pull-f5-va01.ttlivecdn.com
@@ -2580,9 +2588,13 @@
 127.0.0.1 security-o.snssdk.com
 127.0.0.1 security.snssdk.com
 127.0.0.1 security.snssdk.com.w.kunluncan.com
+127.0.0.1 seller-id.tiktok.com
+127.0.0.1 seller.tiktok.com
+127.0.0.1 seller.tiktokglobalshop.com
 127.0.0.1 sf16-cgfe-sg.ibytedtos.com
 127.0.0.1 sf16-cgfe-va.ibytedtos.com
 127.0.0.1 sf16-eacdn-tos.pstatp.com
+127.0.0.1 sf16-fe-tos-sg.i18n-pglstatp.com
 127.0.0.1 sf16-ies-music-sg.tiktokcdn.com
 127.0.0.1 sf16-ies-music.tiktokcdn.com
 127.0.0.1 sf16-lark-va.ibytedtos.com
@@ -2603,6 +2615,7 @@
 127.0.0.1 sf16-sg.hypstarcdn.com
 127.0.0.1 sf16-sg.muscdn.com
 127.0.0.1 sf16-sg.tiktokcdn.com
+127.0.0.1 sf16-static.i18n-pglstatp.com
 127.0.0.1 sf16-tk-m.tiktokcdn.com
 127.0.0.1 sf16-tk-m.tiktokcdn.com.edgesuite.net
 127.0.0.1 sf16-tk.tiktokcdn.com
@@ -2731,6 +2744,7 @@
 127.0.0.1 share-test.musemuse.cn
 127.0.0.1 shop.musical.ly
 127.0.0.1 shop.snssdk.com
+127.0.0.1 shop.tiktok.com
 127.0.0.1 s.ipstatp.com
 127.0.0.1 slb-lb.bytedns.net
 127.0.0.1 slide.toutiao.com
@@ -2853,8 +2867,10 @@
 127.0.0.1 tiktok.com.edgesuite.net
 127.0.0.1 tiktok-core-lb-maliva.byteoversea.net
 127.0.0.1 tiktok-core-lb-maliva-useast2a.byteoversea.net
+127.0.0.1 tiktokglobalshop.com
 127.0.0.1 tiktok-lb-alisg.byteoversea.net
 127.0.0.1 tiktok-lb-maliva.byteoversea.net
+127.0.0.1 tiktok-shops.com
 127.0.0.1 tiktokv.com
 127.0.0.1 tiktokv.com.cdn.cloudflare.net
 127.0.0.1 tiktokv.com.edgekey.net
@@ -3141,6 +3157,7 @@
 127.0.0.1 us-central1-tiktokdownloader-9eb12.cloudfunctions.net
 127.0.0.1 us.tiktok.com
 127.0.0.1 us.tiktok.com.edgekey.net
+127.0.0.1 us.tiktokv.com
 127.0.0.1 uz91a.v.bsgslb.com
 127.0.0.1 uz91ipv6pic1.v.bsgslb.com
 127.0.0.1 uz91ipv6pic.v.bsgslb.com
