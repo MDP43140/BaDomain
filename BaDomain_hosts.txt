@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.07.2022
+# Version: 28.07.2022
 # Update: 1 day
 #
 
@@ -647,6 +647,7 @@
 127.0.0.1 beacon.page
 127.0.0.1 beacons.ai
 127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 beacons.glance.inmobi.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beacons.page
 127.0.0.1 beamngdrive.net
@@ -939,6 +940,7 @@
 127.0.0.1 config.ab.qq.com
 127.0.0.1 config.edge.skype.com
 127.0.0.1 config.e-droid.net
+127.0.0.1 config.qms.quicinc.com
 127.0.0.1 config.toolmatrix.plus
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configuration.ls.apple.com
@@ -1065,6 +1067,7 @@
 127.0.0.1 cuminside.uno
 127.0.0.1 cursecdn.com
 127.0.0.1 curse.com
+127.0.0.1 custhelp.com
 127.0.0.1 cutegirl.my.id
 127.0.0.1 cuttlela.ucweb.com
 127.0.0.1 c.webengage.com
@@ -2155,6 +2158,7 @@
 127.0.0.1 mdp-appconf-id.heytapdl.com
 127.0.0.1 mdp-appconf-mm.heytapdl.com
 127.0.0.1 mdp-appconf-sg.heytapdl.com
+127.0.0.1 mdp-appconf-us.heytapdl.com
 127.0.0.1 medallia.com
 127.0.0.1 medals.bizrate.com
 127.0.0.1 media2.s-nbcnews.com
@@ -2195,6 +2199,7 @@
 127.0.0.1 midasplayer.com
 127.0.0.1 mi-img.com
 127.0.0.1 miit.gov.cn
+127.0.0.1 milvarusso.com
 127.0.0.1 m.imdb.com
 127.0.0.1 minecrafttweaker.net
 127.0.0.1 mingyi.sogou.com
@@ -2404,6 +2409,7 @@
 127.0.0.1 onnanoko.tokyo
 127.0.0.1 opc.cloud.tencent.com
 127.0.0.1 openapi.joox.com
+127.0.0.1 open-api.spot.im
 127.0.0.1 openapi.webull.com
 127.0.0.1 open.bignox.com
 127.0.0.1 opendns.zendesk.com
@@ -2413,6 +2419,7 @@
 127.0.0.1 openwifi.ucweb.com
 127.0.0.1 openx.net
 127.0.0.1 opex-service-sg.allawnos.com
+127.0.0.1 oppo-kz.custhelp.com
 127.0.0.1 oppo-oem.avira-update.com
 127.0.0.1 opswat.info
 127.0.0.1 optad360.io
@@ -2659,6 +2666,7 @@
 127.0.0.1 qcloudimg.tencentcs.com
 127.0.0.1 qidian.qq.com
 127.0.0.1 qiniuapi.com
+127.0.0.1 qms.quicinc.com
 127.0.0.1 qotu.bar
 127.0.0.1 qq.com
 127.0.0.1 qti.avanquest.com
@@ -3155,6 +3163,8 @@
 127.0.0.1 t.appsflyer.com
 127.0.0.1 tarot.minozodiac.com
 127.0.0.1 t.bignox.com
+127.0.0.1 tch493077.tch.quora.com
+127.0.0.1 tch.quora.com
 127.0.0.1 tdcv3.talkingdata.net
 127.0.0.1 teads.tv
 127.0.0.1 team.stagingapps.xyz

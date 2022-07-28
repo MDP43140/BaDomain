@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.07.2022
+# Version: 28.07.2022
 # Update: 1 day
 #
 
@@ -647,6 +647,7 @@ bdapi-id.ads.heytapmobile.com
 beacon.page
 beacons.ai
 beacons.gcp.gvt2.com
+beacons.glance.inmobi.com
 beacons.gvt2.com
 beacons.page
 beamngdrive.net
@@ -939,6 +940,7 @@ confection-status.netlify.app
 config.ab.qq.com
 config.edge.skype.com
 config.e-droid.net
+config.qms.quicinc.com
 config.toolmatrix.plus
 config.unityads.unity3d.com
 configuration.ls.apple.com
@@ -1065,6 +1067,7 @@ ctfassets.net
 cuminside.uno
 cursecdn.com
 curse.com
+custhelp.com
 cutegirl.my.id
 cuttlela.ucweb.com
 c.webengage.com
@@ -2155,6 +2158,7 @@ mc.yandex.ru
 mdp-appconf-id.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
+mdp-appconf-us.heytapdl.com
 medallia.com
 medals.bizrate.com
 media2.s-nbcnews.com
@@ -2195,6 +2199,7 @@ midas-api.hellay.net
 midasplayer.com
 mi-img.com
 miit.gov.cn
+milvarusso.com
 m.imdb.com
 minecrafttweaker.net
 mingyi.sogou.com
@@ -2404,6 +2409,7 @@ onezapp.com
 onnanoko.tokyo
 opc.cloud.tencent.com
 openapi.joox.com
+open-api.spot.im
 openapi.webull.com
 open.bignox.com
 opendns.zendesk.com
@@ -2413,6 +2419,7 @@ open-vip.bmob.cn
 openwifi.ucweb.com
 openx.net
 opex-service-sg.allawnos.com
+oppo-kz.custhelp.com
 oppo-oem.avira-update.com
 opswat.info
 optad360.io
@@ -2659,6 +2666,7 @@ qcloudimg.tencentcs.cn
 qcloudimg.tencentcs.com
 qidian.qq.com
 qiniuapi.com
+qms.quicinc.com
 qotu.bar
 qq.com
 qti.avanquest.com
@@ -3155,6 +3163,8 @@ tappco.go2cloud.org
 t.appsflyer.com
 tarot.minozodiac.com
 t.bignox.com
+tch493077.tch.quora.com
+tch.quora.com
 tdcv3.talkingdata.net
 teads.tv
 team.stagingapps.xyz

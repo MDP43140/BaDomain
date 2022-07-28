@@ -1678,6 +1678,7 @@
 127.0.0.1 ns3.c.bytetcdn.com
 127.0.0.1 ns.s.bytetcdn.com
 127.0.0.1 oec16-normal-alisg.tiktokv.com
+127.0.0.1 oec16-normal-gquic-useast1a.tiktokv.com
 127.0.0.1 oec16-normal-useast1a.tiktokv.com
 127.0.0.1 oec22-normal-alisg.tiktokv.com
 127.0.0.1 oec22-normal-useast1a.tiktokv.com
@@ -2186,6 +2187,7 @@
 127.0.0.1 pull-f5-tt01.fcdn.us.tiktokv.com
 127.0.0.1 pull-f5-tt01.tiktokcdn.com
 127.0.0.1 pull-f5-tt02.fcdn.us.tiktokv.com
+127.0.0.1 pull-f5-tt02-infra.fcdn.us.tiktokv.com
 127.0.0.1 pull-f5-tt02-intra.fcdn.us.tiktokv.com
 127.0.0.1 pull-f5-tt02.tiktokcdn.com
 127.0.0.1 pull-f5-va01.tiktokcdn.com

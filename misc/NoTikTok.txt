@@ -1678,6 +1678,7 @@ ns3.bsgslb.com
 ns3.c.bytetcdn.com
 ns.s.bytetcdn.com
 oec16-normal-alisg.tiktokv.com
+oec16-normal-gquic-useast1a.tiktokv.com
 oec16-normal-useast1a.tiktokv.com
 oec22-normal-alisg.tiktokv.com
 oec22-normal-useast1a.tiktokv.com
@@ -2186,6 +2187,7 @@ pull-f5.tiktokcdn.com.c.worldfcdn.com
 pull-f5-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.tiktokcdn.com
 pull-f5-tt02.fcdn.us.tiktokv.com
+pull-f5-tt02-infra.fcdn.us.tiktokv.com
 pull-f5-tt02-intra.fcdn.us.tiktokv.com
 pull-f5-tt02.tiktokcdn.com
 pull-f5-va01.tiktokcdn.com
