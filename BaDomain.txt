@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 28.07.2022
+# Version: 01.08.2022
 # Update: 1 day
 #
 
@@ -192,10 +192,12 @@ ads-geo.appia.com
 ads.grid.id
 ads.heytapmobile.com
 adsimg.kompas.com
+ads.indosatooredoo.com
 ads-interfaces.sc-cdn.net
 ad.smaato.net
 ads.net.id
 adsrvr.org
+ads.telkomsel.com
 ads-twitter.com
 ads.yahoo.com
 adsymptotic.com
@@ -207,6 +209,7 @@ adtilt.com
 adtimaserver.vn
 adtima-static.zascdn.me
 ad.toutiao.com
+aduankonten.id
 advertica-cdn.com
 advertising.com
 advertizer.com
@@ -268,6 +271,7 @@ ali-sgp-pull.snackvideo.in
 alitup.bangcdn.net
 alive.vskit.tv
 aliyuncs.com
+allawntech.com
 allmipa.com
 all-stadium.net
 allstatics.com
@@ -690,6 +694,7 @@ black.riseup.net
 blackseas.ge
 blank
 blockmeter.unblockia.com
+block.uzone.id
 blogblog.com
 blog.pho.to
 bluecava.com
@@ -769,15 +774,22 @@ cdn130.picsart.com
 cdn1.codashop.com
 cdn1-production-images-kly.akamaized.net
 cdn-1.tstatic.net
+cdn1.uzone.id
 cdn2.editmysite.com
 cdn2.hubspot.net
 cdn2.palmplaystore.com
 cdn-2.tstatic.net
+cdn2.uzone.id
 cdn-3.tstatic.net
+cdn3.uzone.id
+cdn4.uzone.id
+cdn5.uzone.id
+cdn6.uzone.id
 cdn77.org
 cdn77-pic.xnxx-cdn.com
 cdn77-pic.xvideos-cdn.com
 cdn77-vid.others-cdn.com
+cdn7.uzone.id
 cdn.aihelp.net
 cdn.alsgp0.fds.api.mi-img.com
 cdn-asset.optimonk.com
@@ -795,6 +807,7 @@ cdn-creatives-akamaistls-prd.unityads.unity3d.com
 cdn.cxomedia.id
 cdn.fbsbx.com
 cdn-f.heylink.me
+cdn.firstpromoter.com
 cdn.foxpush.net
 cdn.gamesnacks.com
 cdn-go.cn
@@ -841,7 +854,9 @@ centurygames.com
 cfg.oneboost.me
 cfg.ws.pho.to
 cf.iadsdk.apple.com
+cfs2.uadexchange.com
 cfs2.u-zone.id
+cfs2.uzone.id
 cf.shopee.co.id
 cf-st.sc-cdn.net
 cfs.u-ad.info
@@ -957,6 +972,7 @@ connectivitycheck.cbg-app.huawei.com
 connect-milink.g.mi.com
 connect.rom.miui.com
 connect.tapjoy.com
+conn-service-gl-01.allawntech.com
 conn-service-us-04.allawnos.com
 conn-service-us-05.allawnos.com
 consensu.org
@@ -1042,6 +1058,7 @@ crisp.im
 criteo.com
 criteo.net
 cross-orbit.com
+crotdidalemnikmatbet.com
 crownpeak.net
 crs.popcore.com
 crsspxl.com
@@ -1054,6 +1071,7 @@ cs491.wac.edgecastcdn.net
 cs9.wac.phicdn.net
 cs-center.uc.cn
 cse.avlyun.com
+csf.uzone.id
 cshort.org
 c.slickstream.com
 csoversea.mbgame.anticheatexpert.com
@@ -1074,6 +1092,7 @@ c.webengage.com
 cxomedia.id
 c.y5en.com
 cy-api.tysondata.com
+d01.notifa.info
 d-03.winudf.com
 d11yp7khhhspcr.cloudfront.net
 d178bchpnfmat.cloudfront.net
@@ -1101,6 +1120,8 @@ d3gaa7hzm4yu8j.cloudfront.net
 d3hegev0j37foa.cloudfront.net
 d3hjue7omxs01q.cloudfront.net
 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
+d5nxst8fruw4z.cloudfront.net
+d6c30-6de1a.pushwoosh.com
 dable.io
 dable.ioscript
 dac.contextads.live
@@ -1110,6 +1131,7 @@ d.alicdn.com
 dana.threatcast.guardsquare.com
 dance4.xyz
 d.applovin.com
+das.uadexchange.com
 data00.adlooxtracking.com
 data.ai
 data.appsinnova.com
@@ -1131,6 +1153,7 @@ dc.albtls.t.co
 dcb.fortumo.com
 dc.di.atlas.samsung.com
 dc.dqa.samsung.com
+dc-dragate-sg.heytapmobile.com
 dc.foreign.oppomobile.com
 dcintl1.push.heytapmobile.com
 dcintl1.push.oppomobile.com
@@ -1178,6 +1201,9 @@ dhisex.uno
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 dictionary.map.fastly.net
+digiads.co.id
+digiads.id
+digilife.uzone.id
 digitalriver.com
 digitaltarget.ru
 d.infeed.id
@@ -1341,6 +1367,7 @@ experts-exchange.com
 exploitbyte.net
 exponential.com
 exportinvest.ge
+expose.uzone.id
 exp.xiaomi.com
 external.appstore.vivo.com.cn
 extremescoffee.com
@@ -1380,6 +1407,7 @@ filmmogzivota.rs
 find.api.micloud.xiaomi.net
 fineboost.com
 firehose.eu-west-1.amazonaws.com
+firstpromoter.com
 flashtalking.com
 flbk.izooto.com
 flive.ixigua.com
@@ -1391,6 +1419,7 @@ fluxmud.quest
 fmdata.imgsmail.ru
 focusmedica.in
 fo.iemiq.com
+food.uzone.id
 footprints-pa.googleapis.com
 force.com
 forepl4y.com
@@ -1498,9 +1527,12 @@ gfp.veta.naver.com
 gfycat.com
 g.galleryapi.micloud.xiaomi.net
 g-gdfp.uvfuns.com
+ghbtns.com
+ghost.org
 gift.bignox.com
 gitkraken.com
 glamour.com
+glanceapis.com
 glass3.xyz
 glassbox.com
 glb.samsung-gamelauncher.com
@@ -1708,6 +1740,7 @@ hwclouds-dns.com
 hw-crs-report.y5en.com
 hybrid.miniapp.taobao.com
 hyperxgaming.website
+hypnobukantest.com
 i0.hdslb.com
 i18n-api.faceueditor.com
 i18n-feed-api.faceueditor.com
@@ -1728,6 +1761,7 @@ ib-ens.cmh01.justin.tv
 ib-ibi.com
 ibikini.cyou
 ibispaint.com
+ibnads.xl.co.id
 i.bosboslink.net
 i-by3p-cor001.api.p001.1drv.com
 ichef.bbci.co.uk
@@ -1778,6 +1812,7 @@ iflow-in.browser.heytapmobile.com
 iflow-sg.browser.heytapmobile.com
 ifota.coloros.com
 ifota.realmemobile.com
+iframe.videodelivery.net
 ifrus.coloros.com
 ifsau.coloros.com
 if-sg.browser.oppomobile.com
@@ -1954,6 +1989,7 @@ js.chargebee.com
 jsc.mgid.com
 js.cx
 js.datadome.co
+js.digiads.co.id
 js.driftt.com
 js.getlasso.co
 js.hs-analytics.net
@@ -1981,6 +2017,7 @@ k-api.kwaipros.com
 kargo.com
 kayumanis.detik.com
 keep2.xyz
+kendedes.uzone.id
 kepler.51y5.net
 kepler.y5en.com
 keyvalueservice.icloud.com
@@ -2018,6 +2055,7 @@ l86iug.xjwi5.com
 la4-userver-upaas.ucweb.com
 laamor.uno
 ladepeche.fr
+lamanlabuh.aduankonten.id
 lamida.id
 lan3rd.line.me
 languagef.coloros.com
@@ -2110,6 +2148,7 @@ lordofthequietbadgers.com
 lottiefiles.com
 lovelybabestu.com
 loveme.uno
+ls.glanceapis.com
 lulusoft.com
 lunalabs.io
 lustre.ai
@@ -2316,6 +2355,7 @@ netcts.cdn-apple.com
 netdna-cdn.com
 netdna-ssl.com
 netpayjob.com
+netsafe.indosatm2.com
 net.simontok.site
 network.ssacdn.com
 newdebut-av.monster
@@ -2333,6 +2373,7 @@ news.hastopic.com
 newsmag.danielolayinkas.com
 newsmaticaapp.com
 news-muxeta.cc
+news.uzone.id
 news.zing.vn
 nexage.com
 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
@@ -2342,6 +2383,7 @@ nj.cschannel.anticheatexpert.com
 nmnm.lol
 no-cache.hubspot.com
 northpoleitalia.it
+notifa.info
 notificationsacademy.com
 notif.quizizz.com
 notix.io
@@ -2455,6 +2497,11 @@ owap.bar
 owneriq.net
 oxy.host
 ozap.bar
+p01.notifa.info
+p02.notifa.info
+p03.notifa.info
+p04.notifa.info
+p05.notifa.info
 p16.resso.app
 p16.resso.me
 p16.topbuzzcdn.com
@@ -2651,6 +2698,7 @@ pushimg.com
 pushmart.net
 pushmessage.samsung.com
 pushpromjs.messagebird.com
+pushwoosh.com
 px1.lifesavvy.com
 px-conf.perimeterx.net
 pxf.io
@@ -2755,6 +2803,7 @@ rewards4you.pro
 rfihub.com
 rfihub.net
 rhino.acme.com
+r-id.ls.glanceapis.com
 rilds.com
 rink.hockeyapp.net
 riseup.net
@@ -3185,7 +3234,9 @@ tenor.googleapis.com
 tentaculos.net
 teraboxcdn.com
 terabox.com
+terbaru.uzone.id
 termly.io
+terpopuler.uzone.id
 teslacoilapps.com
 tesladoge.pro
 testapi.amap.com
@@ -3350,6 +3401,7 @@ update.mysecuritystudio.com
 update.neptunegame.com
 upgrade.shalltry.com
 upload-dianshi-1255598498.file.myqcloud.com
+upoint.id
 ur.alipay.com
 ureca.samsungapps.com
 us.api.fc.mob.com
@@ -3359,6 +3411,7 @@ us.api.share.mob.com
 us-central1-alight-creative.cloudfunctions.net
 us-central1-gcp.api.snapchat.com
 uscreen.tv
+usearch.co.id
 us-east1-aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 useinsider.com
@@ -3379,6 +3432,7 @@ v16.resso.app
 v16.resso.me
 v3.mercusuar.u-zone.id
 v3.mercusuar.uzone.id
+v57.genieesspv.jp
 vaexposed.weishu.me
 vagenor.space
 vas.samsungapps.com
@@ -3399,6 +3453,7 @@ vibeaconstr.onezapp.com
 vibecdn.contextads.live
 viber.com
 victim-dot-spectre-web.appspot.com
+videodelivery.net
 videodownloader.ummy.net
 video-edge-6f5d8d.pdx01.abs.hls.ttvnw.net
 video-g.usicdn.com
@@ -3593,6 +3648,8 @@ www.creditkarma.com
 www.creemo.pl
 www.data.ai
 www.datamation.com
+www.digiads.co.id
+www.digiads.id
 www.dob5.com
 www.duolaipk.com
 www.eep.io
@@ -3650,6 +3707,7 @@ www.mob.com
 www.mobfox.com
 www.narratorsvoice.com
 www.nathanaeldan.pro
+www.notifa.info
 www.noxinfluencer.com
 www.pdfcylsmo.com
 www.pdl.id
@@ -3688,8 +3746,11 @@ www.turingfraud.net
 www.twilio.com
 www.twilio.org
 www.uadexchange.com
+www.u-ad.info
 www.uc.cn
 www.unipin.com
+www.upoint.id
+www.usearch.co.id
 www.uzone.id
 www.vdo.ai
 www.viber.com
@@ -3714,6 +3775,7 @@ www.wuueqejuratzdz.com
 www.xapoapp.com
 www.xjke.xyz
 www.xnxx.com
+www.x-tags.net
 www.xvideos2.com
 www.yastatic.net
 www.yeshen.com
@@ -3760,6 +3822,7 @@ xpush.site
 xray.mail.ru
 xserver.jp
 xs.vskitcdn.com
+x-tags.net
 xtom.com
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net

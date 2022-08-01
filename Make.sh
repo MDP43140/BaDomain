@@ -195,6 +195,8 @@ for i in "$@";do
 			echo "#" >> BaDomain_Unified-hosts.txt
 			echo "" >> BaDomain_Unified-hosts.txt
 			sed '/^#/d' BaDomain_hosts.txt misc/NoFB_hosts.txt misc/NoFreeFire_hosts.txt misc/NoMLBB_hosts.txt misc/NoTikTok_hosts.txt >> "BaDomain_Unified-hosts.txt"
+			echo "[i] Updating 'BaDomain_Uncensor' date..."
+			sed -ri 's/Version: [0-9]{2}\.[0-9]{2}\.[0-9]{2,4}/Version: '$(date +%d.%m.%Y)'/i' BaDomain_Uncensor.txt
 			echo -n "[i] Cleaning..."
 			rm $(ls *.old misc/*.old)
 			echo -e "\r[+] Done!\e[0K"
