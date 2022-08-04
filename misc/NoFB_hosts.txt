@@ -1766,6 +1766,7 @@
 127.0.0.1 z-m-scontent-cgk1-1.xx.fbcdn.net
 127.0.0.1 z-m-scontent-dft.xx.fbcdn.net
 127.0.0.1 z-m-scontent-eze.xx.fbcdn.net
+127.0.0.1 z-m-scontent.fbth3-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fceb1-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fdac1-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fmex10-1.fna.fbcdn.net

@@ -1753,6 +1753,7 @@
 127.0.0.1 p16-musical-va-ab.ibyteimg.com.edgesuite.net
 127.0.0.1 p16-musical-va.ibyteimg.com
 127.0.0.1 p16-musical-va.ibyteimg.com.edgesuite.net
+127.0.0.1 p16-oec-sg.ibyteimg.com
 127.0.0.1 p16.pstatp.com
 127.0.0.1 p16.pstatp.com.edgekey.net
 127.0.0.1 p16.pstatp.com.w.alikunlun.com
@@ -2163,6 +2164,7 @@
 127.0.0.1 pull-cmaf-f77-gcp01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f77-sg01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f77-va01.tiktokcdn.com
+127.0.0.1 pull-cmaf-l10-gcp01.tiktokcdn.com
 127.0.0.1 pull-cmaf-l10-sg01.tiktokcdn.com
 127.0.0.1 pull-cmaf-l16-gcp01.tiktokcdn.com
 127.0.0.1 pull-cmaf-l16-sg01.tiktokcdn.com
@@ -2213,6 +2215,7 @@
 127.0.0.1 pull-flv-f77-gcp01.tiktokcdn.com
 127.0.0.1 pull-flv-f77-sg01.tiktokcdn.com
 127.0.0.1 pull-flv-f77-va01.tiktokcdn.com
+127.0.0.1 pull-flv-l10-gcp01.tiktokcdn.com
 127.0.0.1 pull-flv-l10-sg01.tiktokcdn.com
 127.0.0.1 pull-flv-l11-gcp01.tiktokcdn.com
 127.0.0.1 pull-flv-l11-gcp01.ttlivecdn.com
@@ -2380,6 +2383,7 @@
 127.0.0.1 push-rtmp-f5-va01.tiktokcdn.com
 127.0.0.1 push-rtmp-f5-va01.ttlivecdn.com
 127.0.0.1 push-rtmp-f5-xg.bytecdn.cn
+127.0.0.1 push-rtmp-l10-gcp01.tiktokcdn.com
 127.0.0.1 push-rtmp-l10-sg01.tiktokcdn.com
 127.0.0.1 push-rtmp-l11-gcp01.tiktokcdn.com
 127.0.0.1 push-rtmp-l11-gcp01.ttlivecdn.com

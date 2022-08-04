@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 01.08.2022
+# Version: 04.08.2022
 # Update: 1 day
 #
 
@@ -39,6 +39,7 @@
 30-courier.push.apple.com
 33across.com
 344587-android-ds.metric.gstatic.com
+39d0825d09f05.cdn.sohucs.com
 3.cn
 3lift.com
 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
@@ -61,6 +62,7 @@
 54.appmeasurements.com
 55.appmeasurements.com
 55bie1v.50zo.com
+5b0988e595225.cdn.sohucs.com
 5hjdbfjfd5.monster
 5yme8j.xxobs5.com
 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
@@ -199,6 +201,7 @@ ads.net.id
 adsrvr.org
 ads.telkomsel.com
 ads-twitter.com
+ads.vidoomy.com
 ads.yahoo.com
 adsymptotic.com
 ads.youtube.com
@@ -215,6 +218,7 @@ advertising.com
 advertizer.com
 advertnative.com
 adviva.net
+adv-sv-show.focus.cn
 adx.adsgaga.com
 adx-id.ads.heytapmobile.com
 ad.youtube.com
@@ -365,6 +369,7 @@ api-gl.cdo.heytapmobi.com
 api-gl.cdo.heytapmobile.com
 api-gl.store.heytapmobi.com
 api-gl.theme.heytapmobile.com
+api.gotinder.com
 api.gotube.pro
 api.gras.samsungdm.com
 api.gw.airpay.co.id
@@ -583,6 +588,7 @@ assets.tower.sybo.net
 assets.ubembed.com
 assets.webmoney.ru
 associates-amazon.com
+astivysauran.com
 astra9dlya10.com
 astratech.pro
 at.alicdn.com
@@ -603,6 +609,7 @@ auiopt.unityads.unity3d.com
 au.mayalaze.xyz
 auth-cloudfront.prod.ims.adobejanus.com
 autocomplete.clearbit.com
+auto.itc.cn
 autopilothq.com
 autopush.prod.mozaws.net
 au.umeng.com
@@ -633,6 +640,7 @@ backjawtanoa.com
 bae.appmeasurements.com
 bag.itunes.apple.com
 baidu.com
+baidustatic.com
 baike.sogou.com
 b.alipay.com
 ballou.se
@@ -688,6 +696,7 @@ billigrefinansiering.com
 bi.yeshen.com
 bizconfig.palmplaystore.com
 bizible.com
+biz.itc.cn
 bizscene.palmplaystore.com
 bksdksp.wetvinfo.com
 black.riseup.net
@@ -805,6 +814,7 @@ cdn.cove.chat
 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 cdn.cxomedia.id
+cdn.exp.xiaomi.com
 cdn.fbsbx.com
 cdn-f.heylink.me
 cdn.firstpromoter.com
@@ -835,6 +845,7 @@ cdn.segment.com
 cdn.shalltry.com
 cdn.slidesharecdn.com
 cdn.snigelweb.com
+cdn.sohucs.com
 cdn-static.ap4r.com
 cdn-static.kwai.net
 cdn-store-icons-akamai-prd.unityads.unity3d.com
@@ -930,6 +941,7 @@ codashop.com
 code.createjs.com
 codepush.appcenter.ms
 cognitivlabs.com
+cognito-identity.us-east-1.amazonaws.com
 cognito-identity.us-west-1.amazonaws.com
 coin.baca.co.id
 coinbasesj.vip
@@ -948,6 +960,7 @@ common.duapps.com
 company.clearbit.com
 company-stream.clearbit.com
 company-target.com
+component-ota-f.coloros.com
 concertads-configs.vox-cdn.com
 concert.io
 confection.io
@@ -987,6 +1000,7 @@ convertkit.com
 cookiebot.com
 cookielaw.org
 cookiepro.com
+cootekservice.com
 copyrightform-helpcenter.tk
 core-api.data.appsinnova.com
 corp.sogou.com
@@ -1097,6 +1111,7 @@ d-03.winudf.com
 d11yp7khhhspcr.cloudfront.net
 d178bchpnfmat.cloudfront.net
 d18c2vb2nmzsjs.cloudfront.net
+d1.biz.itc.cn
 d1z2jf7jlzjs58.cloudfront.net
 d1zcggttmijv1z.cloudfront.net
 d1zkz3k4cclnv6.cloudfront.net
@@ -1417,7 +1432,10 @@ flow.maribacaberita.com
 fluidplayer.com
 fluxmud.quest
 fmdata.imgsmail.ru
+focus.cn
+focus-img.cn
 focusmedica.in
+focus-res.cn
 fo.iemiq.com
 food.uzone.id
 footprints-pa.googleapis.com
@@ -1664,6 +1682,7 @@ hellay.net
 helpscout.net
 help.sogou.com
 helpx.adobe.com
+hermes-fs.wshareit.com
 herningrideklub.net
 heylink.me
 heytapdl.com
@@ -1770,6 +1789,7 @@ icloud.com
 icms-image.slatic.net
 icosa-service-sg.allawnos.com
 icosa-sg.coloros.com
+icota-eu.coloros.com
 icredits.heytapmobi.com
 id-analyzer-appstore.vivoglobal.com
 idapi.open.oppomobile.com
@@ -1862,6 +1882,7 @@ imgx.gridoto.com
 i.mi.com
 immr-uhl-tvm.elasticbeanstalk.com
 impactradius-go.com
+imp.optaim.com
 imp.pxf.io
 imps.appia.com
 imptrk.siteplug.com
@@ -1885,6 +1906,8 @@ info.3g.qq.com
 info.bignox.com
 info.braze.com
 info.ejvonlyrik.com
+infohub.azureedge.net
+infohubnews.app
 in-gaap.snackvideo.in
 ingest.sentry.io
 init-cdn.itunes-apple.com.akadns.net
@@ -1896,9 +1919,11 @@ init.supersonicads.com
 init.y5en.com
 injapp.com
 inneractive-assets.s3-eu-west-1.amazonaws.com
+innews.infohubnews.app
 innity.net
 innovads-server.poster.appsinnova.com
 innovid.com
+in-os-config-appstore.vivoglobal.com
 inpagepush.com
 insent.ai
 i-n.sgsnssdk.com
@@ -1956,6 +1981,7 @@ isp-map.xunyou.mobi
 isprog.com
 istarapps.com
 it.bignox.com
+itc.cn
 iteldrive.com
 itsecurity.com
 itunes.apple.com
@@ -2039,6 +2065,7 @@ kokotrokot.com
 kol.yeshen.com
 komoona.com
 kompasads.com
+kompascybermedia-d.openx.net
 kr.bignox.com
 krisp.ai
 krxd.net
@@ -2058,6 +2085,7 @@ ladepeche.fr
 lamanlabuh.aduankonten.id
 lamida.id
 lan3rd.line.me
+lang-f.coloros.com
 languagef.coloros.com
 lapaksebelahh.com
 la-ucc-upaas.ucweb.com
@@ -2152,8 +2180,11 @@ ls.glanceapis.com
 lulusoft.com
 lunalabs.io
 lustre.ai
+m1.auto.itc.cn
 m1e.net
 m2.ai
+m3.auto.itc.cn
+m4.auto.itc.cn
 mabbox.bytel.fr
 magazine-api-gl.heytapmobile.com
 magzine.transacme.com
@@ -2181,6 +2212,7 @@ marchex.io
 marketo.com
 marketo.net
 marketplace.editmysite.com
+market.superkickoff.net
 market.xiaomi.com
 mars.gamegamb.com
 mask-api.icloud.com
@@ -2339,6 +2371,7 @@ my.salesforce.com
 n5t8v6w3.stackpathcdn.com
 na.albtls.t.co
 nagios.dreamvps.com
+na.glbtls.t.co
 nanorep.co
 narrativ.com
 narratorsvoice.com
@@ -2349,6 +2382,7 @@ nativepu.sh
 nbcu.demdex.net
 ncaudienceexchange.com
 ndt-mlab2-sin01.mlab-oti.measurementlab.net
+nearbysharing-pa.googleapis.com
 nea.telkomsel.com
 nestledmph.com
 netcts.cdn-apple.com
@@ -2465,6 +2499,7 @@ oppo-kz.custhelp.com
 oppo-oem.avira-update.com
 opswat.info
 optad360.io
+optaim.com
 optimizationguide-pa.googleapis.com
 optimonk.com
 orangeclickmedia.com
@@ -2502,13 +2537,23 @@ p02.notifa.info
 p03.notifa.info
 p04.notifa.info
 p05.notifa.info
+p0.itc.cn
 p16.resso.app
 p16.resso.me
 p16.topbuzzcdn.com
 p16-va.topbuzzcdn.com
+p1.itc.cn
 p20.zdassets.com
+p2.itc.cn
+p3.itc.cn
+p4.itc.cn
 p55-keyvalueservice.icloud.com
+p5.itc.cn
 p66-keyvalueservice.icloud.com
+p6.itc.cn
+p7.itc.cn
+p8.itc.cn
+p9.itc.cn
 paas.iresearch.vip
 pagead2.googlesyndication.com
 pagead.googlesyndication.com
@@ -2764,6 +2809,7 @@ relap.info
 relation.like-it.video
 relocationapi.micloud.xiaomi.net
 reminiandroid.oracle.bendingspoonsapps.com
+repair-system-phone.firebaseio.com
 report.appmetrica.yandex.net
 report-ps.meettech.net
 report.uc.heytapmobi.com
@@ -2805,6 +2851,7 @@ rfihub.net
 rhino.acme.com
 r-id.ls.glanceapis.com
 rilds.com
+r-in.glance-cdn.com
 rink.hockeyapp.net
 riseup.net
 risk.clearbit.com
@@ -2898,6 +2945,7 @@ sdk-android.ad.smaato.net
 sdkapi.wifimap.io
 sdk.bignox.com
 sdk-config.fyber.com
+sdk-exchange.startappservice.com
 sdk.iad-04.braze.com
 sdk.iad-05.braze.com
 sdk.iad-07.braze.com
@@ -3038,6 +3086,8 @@ socks.like.video
 socks-omm-1.lotusflare.com
 sogou.com
 sogrobartigg.monster
+sohu.com
+sohucs.com
 sojern.com
 sonobi.com
 sonora.id
@@ -3070,6 +3120,7 @@ srv-ocr-api-logged.z-dn.net
 srvr.dmvs-apac.com
 srv.sec.intl.miui.com
 srv-si-photo-upload.z-dn.net
+srv-supersonic-images.z-dn.net
 ssacdn.com
 ssl-images-amazon.com
 ss.litatom.com
@@ -3109,6 +3160,7 @@ static.messagebird.com
 static.mob.com
 static.pulse.mail.ru
 static.servicewebly.com
+statics.itc.cn
 statics-marketingsites-eus-ms-com.akamaized.net
 static-webengage.s3.ap-southeast-1.amazonaws.com
 staticworld.net
@@ -3153,6 +3205,7 @@ sub2unlock.com
 subscribers.com
 subscription.omnithrottle.com
 subway.prod.sybo.net
+sucimg.itc.cn
 suggestqueries.google.com
 suggests.go.mail.ru
 sumo.com
@@ -3190,6 +3243,7 @@ syszalive.uksouth.cloudapp.azure.com
 szmg.qq.com
 t14.market.mi-img.com
 t17.market.mi-img.com
+t1.focus-img.cn
 t2.chartboost.com
 t2.market.mi-img.com
 t5.market.xiaomi.com
@@ -3242,6 +3296,7 @@ tesladoge.pro
 testapi.amap.com
 test.bignox.com
 tex.z-dn.net
+t.focus-res.cn
 th.bignox.com
 thedogvisitor.com
 thefatherofsalmon.com
@@ -3271,6 +3326,7 @@ timer-api.pa1mstore.com
 timer-api.palmplaystore.com
 timer-api.palmst0re.com
 time.xtracloud.net
+tinder.com
 tinders.club
 tiqcdn.com
 tirto.id
@@ -3404,6 +3460,7 @@ upload-dianshi-1255598498.file.myqcloud.com
 upoint.id
 ur.alipay.com
 ureca.samsungapps.com
+usa.ime.cdn.cootekservice.com
 us.api.fc.mob.com
 us.api.fd.mob.com
 us-api.mcsvc.samsung.com
@@ -3423,6 +3480,8 @@ useroperation.wondershare.com
 us.find.api.micloud.xiaomi.net
 us.galleryapi.micloud.xiaomi.net
 usicdn.com
+us.noteapi.micloud.xiaomi.net
+us.pdc.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
 u.startup.mobile.webvisor.com
 us.ynuf.aliapp.org
@@ -3456,12 +3515,14 @@ victim-dot-spectre-web.appspot.com
 videodelivery.net
 videodownloader.ummy.net
 video-edge-6f5d8d.pdx01.abs.hls.ttvnw.net
+videoeditor-sg.soloop.heytapmobile.com
 video-g.usicdn.com
 video-l.usicdn.com
 videoplayerhub.com
 videos-fms.jwpsrv.com
 videos.sc-cdn.net
 video.twimg.com
+vidoomy.com
 vidyard.com
 viglink.com
 viki.com
@@ -3729,6 +3790,7 @@ www.sixtest.com
 www.slickstream.com
 www.slideshare.net
 www.smartsuppchat.com
+www.sohu.com
 www.spanishcoursesunamuno.com
 www.stagingapps.xyz
 www.sweet-girls18.com
@@ -3808,6 +3870,7 @@ xdplt.com
 x.glance-cdn.com
 x.glance-cdn.net
 x-id.ls.glanceapis.com
+x-in.glance-cdn.com
 x-in.glance-cdn.net
 xjke.xyz
 xjp-msgacs.m.taobao.com
@@ -3894,6 +3957,7 @@ zing.vn
 zjs.zingcdn.me
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com
+zmt.itc.cn
 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
 znews-photo.zingcdn.me
 znpst.top
