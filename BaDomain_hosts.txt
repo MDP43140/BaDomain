@@ -315,6 +315,7 @@
 127.0.0.1 anime-pictures.net
 127.0.0.1 an.mail.ru
 127.0.0.1 announcekit.app
+127.0.0.1 anon.oauth.cimpress.io
 127.0.0.1 anon.wapsite.info
 127.0.0.1 anpoimages.com
 127.0.0.1 anticheatexpert.com
@@ -353,6 +354,7 @@
 127.0.0.1 api.coin.baca.co.id
 127.0.0.1 api.data.appsinnova.com
 127.0.0.1 api-dci.kinemasters.com
+127.0.0.1 api.dcp.vpdcp.com
 127.0.0.1 api.device.xiaomi.net
 127.0.0.1 api.dkyweipsds.com
 127.0.0.1 api.dns.oppomobile.com
@@ -377,6 +379,7 @@
 127.0.0.1 api.hisavana.com
 127.0.0.1 api.hotstar.com
 127.0.0.1 api.howlapm.com
+127.0.0.1 api-iam.intercom.io
 127.0.0.1 api-id.cdo.heytapmobile.com
 127.0.0.1 api-id.game.heytapmobi.com
 127.0.0.1 api-id.instant.heytapmobile.com
@@ -895,6 +898,7 @@
 127.0.0.1 chmod777.ltd
 127.0.0.1 churnzero.net
 127.0.0.1 ci.line-apps.com
+127.0.0.1 cimpress.io
 127.0.0.1 cipro.ms
 127.0.0.1 cix.line-apps.com
 127.0.0.1 ckg.hk
@@ -1066,6 +1070,7 @@
 127.0.0.1 creatives.contextads.live
 127.0.0.1 creditkarma.com
 127.0.0.1 creemo.pl
+127.0.0.1 crello.com
 127.0.0.1 cricket.hastopic.com
 127.0.0.1 crisp.chat
 127.0.0.1 crisp.im
@@ -1268,6 +1273,7 @@
 127.0.0.1 download.bignox.com
 127.0.0.1 download.iobit.com
 127.0.0.1 download-sin.dtignite.com
+127.0.0.1 downloads.intercomcdn.com
 127.0.0.1 dragate-sg.dc.heytapmobi.com
 127.0.0.1 dragate-sg.dc.oppomobile.com
 127.0.0.1 drift.com
@@ -1373,6 +1379,7 @@
 127.0.0.1 evgnet.com
 127.0.0.1 evidon.com
 127.0.0.1 eviltracker.net
+127.0.0.1 evs.dcp.vpdcp.com
 127.0.0.1 example.org
 127.0.0.1 ex.co
 127.0.0.1 execute-api.eu-west-1.amazonaws.com
@@ -1939,6 +1946,7 @@
 127.0.0.1 in.sv
 127.0.0.1 intellimize.co
 127.0.0.1 intellitxt.com
+127.0.0.1 intercomassets.com
 127.0.0.1 intercomcdn.com
 127.0.0.1 intercom.io
 127.0.0.1 internetpositif.uzone.id
@@ -2410,6 +2418,7 @@
 127.0.0.1 news.uzone.id
 127.0.0.1 news.zing.vn
 127.0.0.1 nexage.com
+127.0.0.1 nexus-websocket-a.intercom.io
 127.0.0.1 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
 127.0.0.1 nflxvideo.net
 127.0.0.1 nightfallinquiredune.com
@@ -3155,6 +3164,7 @@
 127.0.0.1 static.gc.apple.com
 127.0.0.1 static.hdslb.com
 127.0.0.1 static.hsappstatic.net
+127.0.0.1 static.intercomassets.com
 127.0.0.1 static.like-it.video
 127.0.0.1 static.messagebird.com
 127.0.0.1 static.mob.com
@@ -3531,6 +3541,7 @@
 127.0.0.1 vindicosuite.com
 127.0.0.1 vip.bignox.com
 127.0.0.1 vip-client.heytapmobi.com
+127.0.0.1 visage-design-system.prod.merch.vpsvc.com
 127.0.0.1 visitsme.uno
 127.0.0.1 visteme.mx
 127.0.0.1 visualwebsiteoptimizer.com
@@ -3553,8 +3564,10 @@
 127.0.0.1 vor.gen.in
 127.0.0.1 vor.lol
 127.0.0.1 vor.monster
+127.0.0.1 vpdcp.com
 127.0.0.1 v.pinimg.com
 127.0.0.1 vps-v4.u.avcdn.net
+127.0.0.1 vpsvc.com
 127.0.0.1 v.qq.com
 127.0.0.1 vs3.wshareit.com
 127.0.0.1 vs-api.like-it.video

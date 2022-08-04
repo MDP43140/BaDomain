@@ -315,6 +315,7 @@ animeindo.video
 anime-pictures.net
 an.mail.ru
 announcekit.app
+anon.oauth.cimpress.io
 anon.wapsite.info
 anpoimages.com
 anticheatexpert.com
@@ -353,6 +354,7 @@ api.cleanmaster.club
 api.coin.baca.co.id
 api.data.appsinnova.com
 api-dci.kinemasters.com
+api.dcp.vpdcp.com
 api.device.xiaomi.net
 api.dkyweipsds.com
 api.dns.oppomobile.com
@@ -377,6 +379,7 @@ apigw-pre.shalltry.com
 api.hisavana.com
 api.hotstar.com
 api.howlapm.com
+api-iam.intercom.io
 api-id.cdo.heytapmobile.com
 api-id.game.heytapmobi.com
 api-id.instant.heytapmobile.com
@@ -895,6 +898,7 @@ chimpstatic.com
 chmod777.ltd
 churnzero.net
 ci.line-apps.com
+cimpress.io
 cipro.ms
 cix.line-apps.com
 ckg.hk
@@ -1066,6 +1070,7 @@ creativecow.net
 creatives.contextads.live
 creditkarma.com
 creemo.pl
+crello.com
 cricket.hastopic.com
 crisp.chat
 crisp.im
@@ -1268,6 +1273,7 @@ download.alicdn.com
 download.bignox.com
 download.iobit.com
 download-sin.dtignite.com
+downloads.intercomcdn.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 drift.com
@@ -1373,6 +1379,7 @@ everyday.cf
 evgnet.com
 evidon.com
 eviltracker.net
+evs.dcp.vpdcp.com
 example.org
 ex.co
 execute-api.eu-west-1.amazonaws.com
@@ -1939,6 +1946,7 @@ insurads.com
 in.sv
 intellimize.co
 intellitxt.com
+intercomassets.com
 intercomcdn.com
 intercom.io
 internetpositif.uzone.id
@@ -2410,6 +2418,7 @@ news-muxeta.cc
 news.uzone.id
 news.zing.vn
 nexage.com
+nexus-websocket-a.intercom.io
 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
 nflxvideo.net
 nightfallinquiredune.com
@@ -3155,6 +3164,7 @@ static-doubleclick-net.l.google.com
 static.gc.apple.com
 static.hdslb.com
 static.hsappstatic.net
+static.intercomassets.com
 static.like-it.video
 static.messagebird.com
 static.mob.com
@@ -3531,6 +3541,7 @@ vimeo.com
 vindicosuite.com
 vip.bignox.com
 vip-client.heytapmobi.com
+visage-design-system.prod.merch.vpsvc.com
 visitsme.uno
 visteme.mx
 visualwebsiteoptimizer.com
@@ -3553,8 +3564,10 @@ von.rent
 vor.gen.in
 vor.lol
 vor.monster
+vpdcp.com
 v.pinimg.com
 vps-v4.u.avcdn.net
+vpsvc.com
 v.qq.com
 vs3.wshareit.com
 vs-api.like-it.video
