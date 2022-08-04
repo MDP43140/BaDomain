@@ -180,6 +180,7 @@ for i in "$@";do
 			scripts/mkHosts.sh misc/NoMLBB
 			scripts/mkHosts.sh misc/NoTikTok
 			scripts/mkHosts.sh misc/NoRoblox
+			echo "[i] Creating unified hosts..."
 			echo "#" > BaDomain_Unified-hosts.txt
 			echo "# Name: BaDomain Unified" >> BaDomain_Unified-hosts.txt
 			echo "# Desc: An \"addon\" to block even more domains that existing lists cover already" >> BaDomain_Unified-hosts.txt
