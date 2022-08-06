@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 04.08.2022
+# Version: 06.08.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -44,6 +44,7 @@
 127.0.0.1 2ktgy3.yw7nm3.com
 127.0.0.1 2mdn.net
 127.0.0.1 2tx120.1g5k5w.com
+127.0.0.1 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
 127.0.0.1 30-courier.push.apple.com
 127.0.0.1 33across.com
 127.0.0.1 344587-android-ds.metric.gstatic.com
@@ -210,6 +211,7 @@
 127.0.0.1 ads.telkomsel.com
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.vidoomy.com
+127.0.0.1 adswizz.com
 127.0.0.1 ads.yahoo.com
 127.0.0.1 adsymptotic.com
 127.0.0.1 ads.youtube.com
@@ -299,6 +301,7 @@
 127.0.0.1 amibios-updater.com
 127.0.0.1 am.olx.biz.id
 127.0.0.1 amplitude.com
+127.0.0.1 analysis.mangatoon.mobi
 127.0.0.1 analytics.163.com
 127.0.0.1 analytics.churnzero.net
 127.0.0.1 analytics.nodecraft.com
@@ -422,6 +425,7 @@
 127.0.0.1 api-new.bignox.com
 127.0.0.1 api-notice.kinemasters.com
 127.0.0.1 api.noxinfluencer.com
+127.0.0.1 api.olmusic.xyz
 127.0.0.1 api.os.mob.com
 127.0.0.1 api.owxd.xyz
 127.0.0.1 api.pa1mstore.com
@@ -439,6 +443,7 @@
 127.0.0.1 api.revenuecat.com
 127.0.0.1 api-sdk.datadome.co
 127.0.0.1 api.segment.io
+127.0.0.1 api.sg.mangatoon.mobi
 127.0.0.1 api.shareitgames.com
 127.0.0.1 api.shopee.co.id
 127.0.0.1 api.smoot.apple.com
@@ -576,6 +581,7 @@
 127.0.0.1 asia-st-sl.vivoglobal.com
 127.0.0.1 asia-st-sysupgrade.vivoglobal.com
 127.0.0.1 asia-sysupgrade-api.vivoglobal.com
+127.0.0.1 asia-theme-api.vivoglobal.com
 127.0.0.1 asia-third-appstore.vivoglobal.com
 127.0.0.1 asia-timesync.vivoglobal.com
 127.0.0.1 asia-upload-appstore.vivoglobal.com
@@ -594,6 +600,7 @@
 127.0.0.1 assets.applovin.com
 127.0.0.1 assets.duniagames.co.id
 127.0.0.1 assets-jpcust.jwpsrv.com
+127.0.0.1 assets.mintegral.com
 127.0.0.1 assets-share.dspunion.com
 127.0.0.1 assets.tower.sybo.net
 127.0.0.1 assets.ubembed.com
@@ -667,6 +674,8 @@
 127.0.0.1 bdapi-f.ads.heytapmobi.com
 127.0.0.1 bdapi-f.ads.heytapmobile.com
 127.0.0.1 bdapi-id.ads.heytapmobile.com
+127.0.0.1 beacon-fra1.rubiconproject.com
+127.0.0.1 beacon-fra2.rubiconproject.com
 127.0.0.1 beacon.page
 127.0.0.1 beacons.ai
 127.0.0.1 beacons.gcp.gvt2.com
@@ -722,6 +731,7 @@
 127.0.0.1 blyjh.com
 127.0.0.1 bms.ge
 127.0.0.1 bofxxjgiejdp
+127.0.0.1 bokts.com
 127.0.0.1 boltdns.net
 127.0.0.1 bolt-gcdn.sc-cdn.net
 127.0.0.1 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
@@ -810,6 +820,7 @@
 127.0.0.1 cdn77-pic.xvideos-cdn.com
 127.0.0.1 cdn77-vid.others-cdn.com
 127.0.0.1 cdn7.uzone.id
+127.0.0.1 cdn.adswizz.com
 127.0.0.1 cdn.aihelp.net
 127.0.0.1 cdn.alsgp0.fds.api.mi-img.com
 127.0.0.1 cdn-asset.optimonk.com
@@ -841,6 +852,7 @@
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.joinbudapp.com
 127.0.0.1 cdn.jwplayer.com
+127.0.0.1 cdn.kidozplayer.com
 127.0.0.1 cdn.link4app.com
 127.0.0.1 cdnm3.caping.co.id
 127.0.0.1 cdn.mxpnl.com
@@ -945,6 +957,11 @@
 127.0.0.1 cmh01.justin.tv
 127.0.0.1 cname.vercel-dns.com
 127.0.0.1 cn.bignox.com
+127.0.0.1 cn-e-pic-aliyun.mangatoon.mobi
+127.0.0.1 cn-e-pic.mangatoon.mobi
+127.0.0.1 cn.e.pic.mangatoon.mobi
+127.0.0.1 cn-e-pic-tencent.mangatoon.mobi
+127.0.0.1 cn-e-pic-ws.mangatoon.mobi
 127.0.0.1 cnevids.com
 127.0.0.1 cnnx.io
 127.0.0.1 cn.pool.ntp.org
@@ -998,6 +1015,7 @@
 127.0.0.1 connect.rom.miui.com
 127.0.0.1 connect.tapjoy.com
 127.0.0.1 conn-service-gl-01.allawntech.com
+127.0.0.1 conn-service-us-03.allawnos.com
 127.0.0.1 conn-service-us-04.allawnos.com
 127.0.0.1 conn-service-us-05.allawnos.com
 127.0.0.1 consensu.org
@@ -1170,6 +1188,7 @@
 127.0.0.1 datalake.gameloft.com
 127.0.0.1 datamation.com
 127.0.0.1 data-rep.livetech.shopee.co.id
+127.0.0.1 datasink.analysis.mangatoon.mobi
 127.0.0.1 dat.gen.in
 127.0.0.1 datting.click
 127.0.0.1 datting.link
@@ -1361,6 +1380,7 @@
 127.0.0.1 epdg.epc.mnc089.mcc510.pub.3gppnetwork.org
 127.0.0.1 epoch-id.cdo.heytapmobi.com
 127.0.0.1 eportalmobile.com
+127.0.0.1 erda158.to
 127.0.0.1 es.bignox.com
 127.0.0.1 escolhatecnologia.com
 127.0.0.1 escolhatecnologia.com.br
@@ -1375,6 +1395,7 @@
 127.0.0.1 eu1-spiky.clevertap-prod.com
 127.0.0.1 eu-kaf.samsungknox.com
 127.0.0.1 eve.gameloft.com
+127.0.0.1 event.inner-active.mobi
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 events-api-ak.outfit7.com
@@ -1685,6 +1706,7 @@
 127.0.0.1 hastopic.com
 127.0.0.1 hatena.ne.jp
 127.0.0.1 havasedge.com
+127.0.0.1 hb-af.outfit7.com
 127.0.0.1 hb.kg.qq.com
 127.0.0.1 hbmtours.com
 127.0.0.1 hbs.ph.affinity.com
@@ -1759,6 +1781,7 @@
 127.0.0.1 https-api.like.video
 127.0.0.1 https:\/\/app-measurement.com\/sdk-exp
 127.0.0.1 https:\/\/ynuf.aliapp.org\/saveWb.json?
+127.0.0.1 huatuo.qq.com
 127.0.0.1 huaweiuniversity.com
 127.0.0.1 hub2.com.pl
 127.0.0.1 hubspot.com
@@ -1833,6 +1856,8 @@
 127.0.0.1 id-three.rcs.telephony.goog
 127.0.0.1 id-update-appstore.vivoglobal.com
 127.0.0.1 id.video.intl.xiaomi.com
+127.0.0.1 id-ws-edge001.itoon.org
+127.0.0.1 id-ws-edge002.itoon.org
 127.0.0.1 id-xl.rcs.telephony.goog
 127.0.0.1 ieee.org
 127.0.0.1 iemiq.com
@@ -1934,6 +1959,7 @@
 127.0.0.1 init.y5en.com
 127.0.0.1 injapp.com
 127.0.0.1 inneractive-assets.s3-eu-west-1.amazonaws.com
+127.0.0.1 inner-active.mobi
 127.0.0.1 innews.infohubnews.app
 127.0.0.1 innity.net
 127.0.0.1 innovads-server.poster.appsinnova.com
@@ -1999,6 +2025,7 @@
 127.0.0.1 it.bignox.com
 127.0.0.1 itc.cn
 127.0.0.1 iteldrive.com
+127.0.0.1 itoon.org
 127.0.0.1 itsecurity.com
 127.0.0.1 itunes.apple.com
 127.0.0.1 ituserver.xyz
@@ -2014,6 +2041,7 @@
 127.0.0.1 ixigua.com
 127.0.0.1 izatcloud.net
 127.0.0.1 izooto.com
+127.0.0.1 j19544519.pr46m.vps.myjino.ru
 127.0.0.1 jd.com
 127.0.0.1 jetengine.it
 127.0.0.1 jfapiprod.optimonk.com
@@ -2063,6 +2091,7 @@
 127.0.0.1 kepler.51y5.net
 127.0.0.1 kepler.y5en.com
 127.0.0.1 keyvalueservice.icloud.com
+127.0.0.1 kidozplayer.com
 127.0.0.1 kika-backend.com
 127.0.0.1 kikakeyboard.com
 127.0.0.1 killerbeanforever.com
@@ -2078,6 +2107,7 @@
 127.0.0.1 kl-youniverse.com
 127.0.0.1 knorex.com
 127.0.0.1 kokotrokot.com
+127.0.0.1 kolbapps.com
 127.0.0.1 kol.yeshen.com
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
@@ -2146,6 +2176,7 @@
 127.0.0.1 linkvertise.com
 127.0.0.1 linkvertize.com
 127.0.0.1 listdl.com
+127.0.0.1 listoffreeware.com
 127.0.0.1 litatom.com
 127.0.0.1 liteapi.ekatox.com
 127.0.0.1 litemsg.ekatox.com
@@ -2177,6 +2208,7 @@
 127.0.0.1 log.kzvepo.com
 127.0.0.1 logo.clearbit.com
 127.0.0.1 logos.kiwibrowser.com
+127.0.0.1 log.reyun.com
 127.0.0.1 logs.im-gb.com
 127.0.0.1 logs.papertrailapp.com
 127.0.0.1 log.tpns.hk.tencent.com
@@ -2203,6 +2235,7 @@
 127.0.0.1 m4.auto.itc.cn
 127.0.0.1 mabbox.bytel.fr
 127.0.0.1 magazine-api-gl.heytapmobile.com
+127.0.0.1 magnite.com
 127.0.0.1 magzine.transacme.com
 127.0.0.1 mail.aparthotelmx.ge
 127.0.0.1 mail.bignox.com
@@ -2288,6 +2321,7 @@
 127.0.0.1 miit.gov.cn
 127.0.0.1 milvarusso.com
 127.0.0.1 m.imdb.com
+127.0.0.1 mindworks-creative.com
 127.0.0.1 minecrafttweaker.net
 127.0.0.1 mingyi.sogou.com
 127.0.0.1 mini5.opera-mini.net
@@ -2311,6 +2345,8 @@
 127.0.0.1 mktoresp.com
 127.0.0.1 ml314.com
 127.0.0.1 ml.aihelp.net
+127.0.0.1 ml-sessions-v3-dot-events-dot-o7apps.appspot.com
+127.0.0.1 ml-sessions-v3.events.o7apps.appspot.com
 127.0.0.1 mmfiles.amp.mcafee.com
 127.0.0.1 m.mobilesearchers.com
 127.0.0.1 mmtro.com
@@ -2381,6 +2417,7 @@
 127.0.0.1 my.bignox.com
 127.0.0.1 myfan.monster
 127.0.0.1 myim3banner.kloc.co
+127.0.0.1 myjino.ru
 127.0.0.1 mypic.icu
 127.0.0.1 myqcloud.com
 127.0.0.1 my.salesforce.com
@@ -2487,6 +2524,7 @@
 127.0.0.1 of.foldlife.net
 127.0.0.1 oficayuda.club
 127.0.0.1 ogtrk.net
+127.0.0.1 olmusic.xyz
 127.0.0.1 omappapi.com
 127.0.0.1 omes-sec.heytapmobile.com
 127.0.0.1 omgid.qq.com
@@ -2545,6 +2583,7 @@
 127.0.0.1 over.net
 127.0.0.1 overwolf.com
 127.0.0.1 ovv.video.qq.com
+127.0.0.1 ovz1.j19544519.pr46m.vps.myjino.ru
 127.0.0.1 owap.bar
 127.0.0.1 owneriq.net
 127.0.0.1 oxy.host
@@ -2662,12 +2701,15 @@
 127.0.0.1 platform.hicloud.com
 127.0.0.1 plausible.chmod777.ltd
 127.0.0.1 play0.heytapimg.com
+127.0.0.1 playable.mintegral.com
+127.0.0.1 playable-stats.mindworks-creative.com
 127.0.0.1 player.bignox.com
 127.0.0.1 player.bokep234.com
 127.0.0.1 player.ivideosmart.com
 127.0.0.1 player-ivideosmart-com.cdn.ampproject.org
 127.0.0.1 players.brightcove.net
 127.0.0.1 playmakerservices.com
+127.0.0.1 play.mintegral.com
 127.0.0.1 play.wetvinfo.com
 127.0.0.1 pl.bignox.com
 127.0.0.1 plugin-server.wps.com
@@ -2690,6 +2732,7 @@
 127.0.0.1 powerad.ai
 127.0.0.1 pppbr.com
 127.0.0.1 pp.xpush.site
+127.0.0.1 pr46m.vps.myjino.ru
 127.0.0.1 prd.aadg.akadns.net
 127.0.0.1 prd.aadg.trafficmanager.net
 127.0.0.1 prd.ags.akadns.net
@@ -2719,6 +2762,7 @@
 127.0.0.1 prod.mozaws.net
 127.0.0.1 prod-tp.sumo.mozit.cloud
 127.0.0.1 product.instiengage.com
+127.0.0.1 production.kolbapps.com
 127.0.0.1 profile.gc.apple.com
 127.0.0.1 profitwell.com
 127.0.0.1 pro.ilovexclub.com
@@ -2863,6 +2907,7 @@
 127.0.0.1 reveal.clearbit.com
 127.0.0.1 revolvermaps.com
 127.0.0.1 rewards4you.pro
+127.0.0.1 reyun.com
 127.0.0.1 rfihub.com
 127.0.0.1 rfihub.net
 127.0.0.1 rhino.acme.com
@@ -2926,6 +2971,7 @@
 127.0.0.1 s1.hdslb.com
 127.0.0.1 s23.cnzz.com
 127.0.0.1 s2.loli.net
+127.0.0.1 s2s-af.outfit7.com
 127.0.0.1 s2s.af.outfit7.com
 127.0.0.1 s2.teraboxcdn.com
 127.0.0.1 s3.amazonaws.com
@@ -2959,6 +3005,7 @@
 127.0.0.1 scroll.com
 127.0.0.1 sdk-01.moengage.com
 127.0.0.1 sdk-android.ad.smaato.net
+127.0.0.1 sdk-api.kidoz.net
 127.0.0.1 sdkapi.wifimap.io
 127.0.0.1 sdk.bignox.com
 127.0.0.1 sdk-config.fyber.com
@@ -3004,6 +3051,7 @@
 127.0.0.1 sentry.prod.mozaws.net
 127.0.0.1 servebom.com
 127.0.0.1 servedby-buysellads.com
+127.0.0.1 server.update.bokts.com
 127.0.0.1 service.carlcare.com
 127.0.0.1 service.force.com
 127.0.0.1 services.prod.ims.adobejanus.com
@@ -3030,6 +3078,7 @@
 127.0.0.1 sgfp.tongdun.net
 127.0.0.1 sg-idm.api.io.mi.com
 127.0.0.1 sg-live-01.slatic.net
+127.0.0.1 sg.mangatoon.mobi
 127.0.0.1 sg.omlet.me
 127.0.0.1 sgpac.account.xiaomi.com
 127.0.0.1 sgp-img-c.heytapimg.com
@@ -3252,6 +3301,7 @@
 127.0.0.1 s.w.org
 127.0.0.1 swpsvc.com
 127.0.0.1 s.xlgmedia.com
+127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 system1.com
@@ -3345,8 +3395,10 @@
 127.0.0.1 time.xtracloud.net
 127.0.0.1 tinder.com
 127.0.0.1 tinders.club
+127.0.0.1 tipsf.apps.oppomobile.com
 127.0.0.1 tiqcdn.com
 127.0.0.1 tirto.id
+127.0.0.1 tk0x1.com
 127.0.0.1 tl.bignox.com
 127.0.0.1 tm.ak.prd.aadg.akadns.net
 127.0.0.1 tm.ak.prd.aadg.trafficmanager.net
@@ -3366,6 +3418,7 @@
 127.0.0.1 topgirls.uno
 127.0.0.1 topic-sticker-vending.snapchat.com
 127.0.0.1 toprbx.best
+127.0.0.1 toptradeguru.com
 127.0.0.1 toutiao.com
 127.0.0.1 tpai.caping.co.id
 127.0.0.1 tpns.sgp.tencent.com
@@ -3464,6 +3517,7 @@
 127.0.0.1 upclick.com
 127.0.0.1 update.aida64.com
 127.0.0.1 updateapis.kiwibrowser.com
+127.0.0.1 update.bokts.com
 127.0.0.1 update.bosbosupdate.com
 127.0.0.1 update.bosbosupdate.net
 127.0.0.1 update.estrongs.com
@@ -3501,6 +3555,7 @@
 127.0.0.1 us.pdc.micloud.xiaomi.net
 127.0.0.1 us.statusapi.micloud.xiaomi.net
 127.0.0.1 u.startup.mobile.webvisor.com
+127.0.0.1 us.tk0x1.com
 127.0.0.1 us.ynuf.aliapp.org
 127.0.0.1 u-zone.id
 127.0.0.1 uzone.id
@@ -3512,6 +3567,7 @@
 127.0.0.1 vaexposed.weishu.me
 127.0.0.1 vagenor.space
 127.0.0.1 vas.samsungapps.com
+127.0.0.1 vast-events.inner-active.mobi
 127.0.0.1 vast.vokepedia.com
 127.0.0.1 vasundharaapps.com
 127.0.0.1 vaw.fy
@@ -3573,6 +3629,7 @@
 127.0.0.1 vor.monster
 127.0.0.1 vpdcp.com
 127.0.0.1 v.pinimg.com
+127.0.0.1 vps.myjino.ru
 127.0.0.1 vps-v4.u.avcdn.net
 127.0.0.1 vpsvc.com
 127.0.0.1 v.qq.com
@@ -3602,6 +3659,7 @@
 127.0.0.1 wannos-oversea.127.net
 127.0.0.1 wap.bignox.com
 127.0.0.1 wap.sogou.com
+127.0.0.1 warmthhh.online
 127.0.0.1 wa.tenor.co
 127.0.0.1 waterfox.net
 127.0.0.1 waust.at
@@ -3681,6 +3739,7 @@
 127.0.0.1 wuildit.com
 127.0.0.1 wuji.wetvinfo.com
 127.0.0.1 wuueqejuratzdz.com
+127.0.0.1 wv.inner-active.mobi
 127.0.0.1 wvzb9b.xjwi5.com
 127.0.0.1 ww16.doge43tothemoon.us
 127.0.0.1 ww25.apkeditorfree.com
@@ -3777,6 +3836,7 @@
 127.0.0.1 www.litatom.com
 127.0.0.1 www.litix.io
 127.0.0.1 www.lovelybabestu.com
+127.0.0.1 www.magnite.com
 127.0.0.1 www.marketo.com
 127.0.0.1 www.maskolis.com
 127.0.0.1 www.meongers.com
@@ -4827,6 +4887,7 @@
 127.0.0.1 instagram.c10r.facebook.com
 127.0.0.1 instagram.c10r.instagram.com
 127.0.0.1 instagram.com
+127.0.0.1 instagram.fadl5-1.fna.fbcdn.net
 127.0.0.1 instagram.fbdj3-1.fna.fbcdn.net
 127.0.0.1 instagram.fbek1-2.fna.fbcdn.net
 127.0.0.1 instagram.fbth1-1.fna.fbcdn.net

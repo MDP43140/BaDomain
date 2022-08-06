@@ -836,6 +836,7 @@
 127.0.0.1 instagram.c10r.facebook.com
 127.0.0.1 instagram.c10r.instagram.com
 127.0.0.1 instagram.com
+127.0.0.1 instagram.fadl5-1.fna.fbcdn.net
 127.0.0.1 instagram.fbdj3-1.fna.fbcdn.net
 127.0.0.1 instagram.fbek1-2.fna.fbcdn.net
 127.0.0.1 instagram.fbth1-1.fna.fbcdn.net

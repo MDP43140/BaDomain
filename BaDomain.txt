@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 04.08.2022
+# Version: 06.08.2022
 # Update: 1 day
 #
 
@@ -36,6 +36,7 @@
 2ktgy3.yw7nm3.com
 2mdn.net
 2tx120.1g5k5w.com
+2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
 30-courier.push.apple.com
 33across.com
 344587-android-ds.metric.gstatic.com
@@ -202,6 +203,7 @@ adsrvr.org
 ads.telkomsel.com
 ads-twitter.com
 ads.vidoomy.com
+adswizz.com
 ads.yahoo.com
 adsymptotic.com
 ads.youtube.com
@@ -291,6 +293,7 @@ amgdgt.com
 amibios-updater.com
 am.olx.biz.id
 amplitude.com
+analysis.mangatoon.mobi
 analytics.163.com
 analytics.churnzero.net
 analytics.nodecraft.com
@@ -414,6 +417,7 @@ api.mythad.com
 api-new.bignox.com
 api-notice.kinemasters.com
 api.noxinfluencer.com
+api.olmusic.xyz
 api.os.mob.com
 api.owxd.xyz
 api.pa1mstore.com
@@ -431,6 +435,7 @@ api.resso.app
 api.revenuecat.com
 api-sdk.datadome.co
 api.segment.io
+api.sg.mangatoon.mobi
 api.shareitgames.com
 api.shopee.co.id
 api.smoot.apple.com
@@ -568,6 +573,7 @@ asia-st-romsp.vivoglobal.com
 asia-st-sl.vivoglobal.com
 asia-st-sysupgrade.vivoglobal.com
 asia-sysupgrade-api.vivoglobal.com
+asia-theme-api.vivoglobal.com
 asia-third-appstore.vivoglobal.com
 asia-timesync.vivoglobal.com
 asia-upload-appstore.vivoglobal.com
@@ -586,6 +592,7 @@ assets.alicdn.com
 assets.applovin.com
 assets.duniagames.co.id
 assets-jpcust.jwpsrv.com
+assets.mintegral.com
 assets-share.dspunion.com
 assets.tower.sybo.net
 assets.ubembed.com
@@ -659,6 +666,8 @@ bc0a.com
 bdapi-f.ads.heytapmobi.com
 bdapi-f.ads.heytapmobile.com
 bdapi-id.ads.heytapmobile.com
+beacon-fra1.rubiconproject.com
+beacon-fra2.rubiconproject.com
 beacon.page
 beacons.ai
 beacons.gcp.gvt2.com
@@ -714,6 +723,7 @@ bluekai.com
 blyjh.com
 bms.ge
 bofxxjgiejdp
+bokts.com
 boltdns.net
 bolt-gcdn.sc-cdn.net
 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
@@ -802,6 +812,7 @@ cdn77-pic.xnxx-cdn.com
 cdn77-pic.xvideos-cdn.com
 cdn77-vid.others-cdn.com
 cdn7.uzone.id
+cdn.adswizz.com
 cdn.aihelp.net
 cdn.alsgp0.fds.api.mi-img.com
 cdn-asset.optimonk.com
@@ -833,6 +844,7 @@ cdn.innity.net
 cdn.insurads.com
 cdn.joinbudapp.com
 cdn.jwplayer.com
+cdn.kidozplayer.com
 cdn.link4app.com
 cdnm3.caping.co.id
 cdn.mxpnl.com
@@ -937,6 +949,11 @@ cm.bilibili.com
 cmh01.justin.tv
 cname.vercel-dns.com
 cn.bignox.com
+cn-e-pic-aliyun.mangatoon.mobi
+cn-e-pic.mangatoon.mobi
+cn.e.pic.mangatoon.mobi
+cn-e-pic-tencent.mangatoon.mobi
+cn-e-pic-ws.mangatoon.mobi
 cnevids.com
 cnnx.io
 cn.pool.ntp.org
@@ -990,6 +1007,7 @@ connect-milink.g.mi.com
 connect.rom.miui.com
 connect.tapjoy.com
 conn-service-gl-01.allawntech.com
+conn-service-us-03.allawnos.com
 conn-service-us-04.allawnos.com
 conn-service-us-05.allawnos.com
 consensu.org
@@ -1162,6 +1180,7 @@ data.flurry.com
 datalake.gameloft.com
 datamation.com
 data-rep.livetech.shopee.co.id
+datasink.analysis.mangatoon.mobi
 dat.gen.in
 datting.click
 datting.link
@@ -1353,6 +1372,7 @@ epdg.epc.mnc011.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc089.mcc510.pub.3gppnetwork.org
 epoch-id.cdo.heytapmobi.com
 eportalmobile.com
+erda158.to
 es.bignox.com
 escolhatecnologia.com
 escolhatecnologia.com.br
@@ -1367,6 +1387,7 @@ eu1.clevertap-prod.com
 eu1-spiky.clevertap-prod.com
 eu-kaf.samsungknox.com
 eve.gameloft.com
+event.inner-active.mobi
 events3.adcolony.com
 events3alt.adcolony.com
 events-api-ak.outfit7.com
@@ -1677,6 +1698,7 @@ haokan.mobi
 hastopic.com
 hatena.ne.jp
 havasedge.com
+hb-af.outfit7.com
 hb.kg.qq.com
 hbmtours.com
 hbs.ph.affinity.com
@@ -1751,6 +1773,7 @@ https-api.bigolive.tv
 https-api.like.video
 https:\/\/app-measurement.com\/sdk-exp
 https:\/\/ynuf.aliapp.org\/saveWb.json?
+huatuo.qq.com
 huaweiuniversity.com
 hub2.com.pl
 hubspot.com
@@ -1825,6 +1848,8 @@ id-test-11.slatic.net
 id-three.rcs.telephony.goog
 id-update-appstore.vivoglobal.com
 id.video.intl.xiaomi.com
+id-ws-edge001.itoon.org
+id-ws-edge002.itoon.org
 id-xl.rcs.telephony.goog
 ieee.org
 iemiq.com
@@ -1926,6 +1951,7 @@ init.supersonicads.com
 init.y5en.com
 injapp.com
 inneractive-assets.s3-eu-west-1.amazonaws.com
+inner-active.mobi
 innews.infohubnews.app
 innity.net
 innovads-server.poster.appsinnova.com
@@ -1991,6 +2017,7 @@ istarapps.com
 it.bignox.com
 itc.cn
 iteldrive.com
+itoon.org
 itsecurity.com
 itunes.apple.com
 ituserver.xyz
@@ -2006,6 +2033,7 @@ ixiaochuan.cn
 ixigua.com
 izatcloud.net
 izooto.com
+j19544519.pr46m.vps.myjino.ru
 jd.com
 jetengine.it
 jfapiprod.optimonk.com
@@ -2055,6 +2083,7 @@ kendedes.uzone.id
 kepler.51y5.net
 kepler.y5en.com
 keyvalueservice.icloud.com
+kidozplayer.com
 kika-backend.com
 kikakeyboard.com
 killerbeanforever.com
@@ -2070,6 +2099,7 @@ klink.snackvideo.com
 kl-youniverse.com
 knorex.com
 kokotrokot.com
+kolbapps.com
 kol.yeshen.com
 komoona.com
 kompasads.com
@@ -2138,6 +2168,7 @@ linksynergy.com
 linkvertise.com
 linkvertize.com
 listdl.com
+listoffreeware.com
 litatom.com
 liteapi.ekatox.com
 litemsg.ekatox.com
@@ -2169,6 +2200,7 @@ login.wmtransfer.com
 log.kzvepo.com
 logo.clearbit.com
 logos.kiwibrowser.com
+log.reyun.com
 logs.im-gb.com
 logs.papertrailapp.com
 log.tpns.hk.tencent.com
@@ -2195,6 +2227,7 @@ m3.auto.itc.cn
 m4.auto.itc.cn
 mabbox.bytel.fr
 magazine-api-gl.heytapmobile.com
+magnite.com
 magzine.transacme.com
 mail.aparthotelmx.ge
 mail.bignox.com
@@ -2280,6 +2313,7 @@ mi-img.com
 miit.gov.cn
 milvarusso.com
 m.imdb.com
+mindworks-creative.com
 minecrafttweaker.net
 mingyi.sogou.com
 mini5.opera-mini.net
@@ -2303,6 +2337,8 @@ mkevents.mob.com
 mktoresp.com
 ml314.com
 ml.aihelp.net
+ml-sessions-v3-dot-events-dot-o7apps.appspot.com
+ml-sessions-v3.events.o7apps.appspot.com
 mmfiles.amp.mcafee.com
 m.mobilesearchers.com
 mmtro.com
@@ -2373,6 +2409,7 @@ myappsget.com
 my.bignox.com
 myfan.monster
 myim3banner.kloc.co
+myjino.ru
 mypic.icu
 myqcloud.com
 my.salesforce.com
@@ -2479,6 +2516,7 @@ office.net
 of.foldlife.net
 oficayuda.club
 ogtrk.net
+olmusic.xyz
 omappapi.com
 omes-sec.heytapmobile.com
 omgid.qq.com
@@ -2537,6 +2575,7 @@ overloop.com
 over.net
 overwolf.com
 ovv.video.qq.com
+ovz1.j19544519.pr46m.vps.myjino.ru
 owap.bar
 owneriq.net
 oxy.host
@@ -2654,12 +2693,15 @@ plat-api.bignox.com
 platform.hicloud.com
 plausible.chmod777.ltd
 play0.heytapimg.com
+playable.mintegral.com
+playable-stats.mindworks-creative.com
 player.bignox.com
 player.bokep234.com
 player.ivideosmart.com
 player-ivideosmart-com.cdn.ampproject.org
 players.brightcove.net
 playmakerservices.com
+play.mintegral.com
 play.wetvinfo.com
 pl.bignox.com
 plugin-server.wps.com
@@ -2682,6 +2724,7 @@ pou.me
 powerad.ai
 pppbr.com
 pp.xpush.site
+pr46m.vps.myjino.ru
 prd.aadg.akadns.net
 prd.aadg.trafficmanager.net
 prd.ags.akadns.net
@@ -2711,6 +2754,7 @@ prod.detectportal.prod.cloudops.mozgcp.net
 prod.mozaws.net
 prod-tp.sumo.mozit.cloud
 product.instiengage.com
+production.kolbapps.com
 profile.gc.apple.com
 profitwell.com
 pro.ilovexclub.com
@@ -2855,6 +2899,7 @@ revampcdn.com
 reveal.clearbit.com
 revolvermaps.com
 rewards4you.pro
+reyun.com
 rfihub.com
 rfihub.net
 rhino.acme.com
@@ -2918,6 +2963,7 @@ s18900.webovernet.com
 s1.hdslb.com
 s23.cnzz.com
 s2.loli.net
+s2s-af.outfit7.com
 s2s.af.outfit7.com
 s2.teraboxcdn.com
 s3.amazonaws.com
@@ -2951,6 +2997,7 @@ scripts.jixie.media
 scroll.com
 sdk-01.moengage.com
 sdk-android.ad.smaato.net
+sdk-api.kidoz.net
 sdkapi.wifimap.io
 sdk.bignox.com
 sdk-config.fyber.com
@@ -2996,6 +3043,7 @@ sentry.kumparan.com
 sentry.prod.mozaws.net
 servebom.com
 servedby-buysellads.com
+server.update.bokts.com
 service.carlcare.com
 service.force.com
 services.prod.ims.adobejanus.com
@@ -3022,6 +3070,7 @@ sg-drive.wps.com
 sgfp.tongdun.net
 sg-idm.api.io.mi.com
 sg-live-01.slatic.net
+sg.mangatoon.mobi
 sg.omlet.me
 sgpac.account.xiaomi.com
 sgp-img-c.heytapimg.com
@@ -3244,6 +3293,7 @@ swiftypecdn.com
 s.w.org
 swpsvc.com
 s.xlgmedia.com
+synchrobox.adswizz.com
 sync.search.spotxchange.com
 syndication.twitter.com
 system1.com
@@ -3337,8 +3387,10 @@ timer-api.palmst0re.com
 time.xtracloud.net
 tinder.com
 tinders.club
+tipsf.apps.oppomobile.com
 tiqcdn.com
 tirto.id
+tk0x1.com
 tl.bignox.com
 tm.ak.prd.aadg.akadns.net
 tm.ak.prd.aadg.trafficmanager.net
@@ -3358,6 +3410,7 @@ top-fwz1.mail.ru
 topgirls.uno
 topic-sticker-vending.snapchat.com
 toprbx.best
+toptradeguru.com
 toutiao.com
 tpai.caping.co.id
 tpns.sgp.tencent.com
@@ -3456,6 +3509,7 @@ upapi.net
 upclick.com
 update.aida64.com
 updateapis.kiwibrowser.com
+update.bokts.com
 update.bosbosupdate.com
 update.bosbosupdate.net
 update.estrongs.com
@@ -3493,6 +3547,7 @@ us.noteapi.micloud.xiaomi.net
 us.pdc.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
 u.startup.mobile.webvisor.com
+us.tk0x1.com
 us.ynuf.aliapp.org
 u-zone.id
 uzone.id
@@ -3504,6 +3559,7 @@ v57.genieesspv.jp
 vaexposed.weishu.me
 vagenor.space
 vas.samsungapps.com
+vast-events.inner-active.mobi
 vast.vokepedia.com
 vasundharaapps.com
 vaw.fy
@@ -3565,6 +3621,7 @@ vor.lol
 vor.monster
 vpdcp.com
 v.pinimg.com
+vps.myjino.ru
 vps-v4.u.avcdn.net
 vpsvc.com
 v.qq.com
@@ -3594,6 +3651,7 @@ wannos-hz.127.net
 wannos-oversea.127.net
 wap.bignox.com
 wap.sogou.com
+warmthhh.online
 wa.tenor.co
 waterfox.net
 waust.at
@@ -3673,6 +3731,7 @@ ws.zoominfo.com
 wuildit.com
 wuji.wetvinfo.com
 wuueqejuratzdz.com
+wv.inner-active.mobi
 wvzb9b.xjwi5.com
 ww16.doge43tothemoon.us
 ww25.apkeditorfree.com
@@ -3769,6 +3828,7 @@ www.linkedin.com
 www.litatom.com
 www.litix.io
 www.lovelybabestu.com
+www.magnite.com
 www.marketo.com
 www.maskolis.com
 www.meongers.com
