@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.08.2022
+# Version: 08.08.2022
 # Update: 1 day
 #
 
@@ -700,6 +700,7 @@
 127.0.0.1 bighop.com
 127.0.0.1 bigmir.space
 127.0.0.1 bignox.com
+127.0.0.1 bigosext1.com
 127.0.0.1 bilibili.com
 127.0.0.1 bilibili.tv
 127.0.0.1 biliintl.com
@@ -922,6 +923,7 @@
 127.0.0.1 classify.apps.coloros.com
 127.0.0.1 c.lazada.co.id
 127.0.0.1 cldapi.net
+127.0.0.1 cleanapps.org
 127.0.0.1 cleanmaster.club
 127.0.0.1 clearbit.com
 127.0.0.1 clearbitjs.com
@@ -1131,6 +1133,7 @@
 127.0.0.1 cy-api.tysondata.com
 127.0.0.1 d01.notifa.info
 127.0.0.1 d-03.winudf.com
+127.0.0.1 d0zi.com
 127.0.0.1 d11yp7khhhspcr.cloudfront.net
 127.0.0.1 d178bchpnfmat.cloudfront.net
 127.0.0.1 d18c2vb2nmzsjs.cloudfront.net
@@ -1983,6 +1986,7 @@
 127.0.0.1 intuitcdn.net
 127.0.0.1 intuit.com
 127.0.0.1 invitereferrals.com
+127.0.0.1 iobit.com
 127.0.0.1 ios.bignox.com
 127.0.0.1 i.otu.foreign.oppomobile.com
 127.0.0.1 ip-api.com
@@ -2061,6 +2065,7 @@
 127.0.0.1 js.hubspotfeedback.com
 127.0.0.1 js.intercomcdn.com
 127.0.0.1 js.media-lab.ai
+127.0.0.1 js.rfp.fout.jp
 127.0.0.1 js.usemessages.com
 127.0.0.1 jtracking-gate.lulusoft.com
 127.0.0.1 jtvnw.net
@@ -2184,6 +2189,7 @@
 127.0.0.1 lngtd.com
 127.0.0.1 lnk.news
 127.0.0.1 load18.biz
+127.0.0.1 loadnova898.netlify.app
 127.0.0.1 localdate.monster
 127.0.0.1 locate.measurementlab.net
 127.0.0.1 location.apps.oppomobile.com
@@ -2437,6 +2443,7 @@
 127.0.0.1 netsafe.indosatm2.com
 127.0.0.1 net.simontok.site
 127.0.0.1 network.ssacdn.com
+127.0.0.1 new.bestageoffers2022.com
 127.0.0.1 newdebut-av.monster
 127.0.0.1 newds01.myoppo.com
 127.0.0.1 newds02.myoppo.com
@@ -2455,6 +2462,7 @@
 127.0.0.1 news.uzone.id
 127.0.0.1 news.zing.vn
 127.0.0.1 nexage.com
+127.0.0.1 nextsoft.icu
 127.0.0.1 nexus-websocket-a.intercom.io
 127.0.0.1 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
 127.0.0.1 nflxvideo.net
@@ -2569,6 +2577,7 @@
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 otnolatrnup.com
 127.0.0.1 outbrain.com
+127.0.0.1 outbyte.com
 127.0.0.1 outcome-ssp.supersonicads.com
 127.0.0.1 outfit7.com
 127.0.0.1 overloop.com
@@ -2899,6 +2908,7 @@
 127.0.0.1 reveal.clearbit.com
 127.0.0.1 revolvermaps.com
 127.0.0.1 rewards4you.pro
+127.0.0.1 rewards-cards.org
 127.0.0.1 reyun.com
 127.0.0.1 rfihub.com
 127.0.0.1 rfihub.net
@@ -3142,6 +3152,7 @@
 127.0.0.1 sociomile.com
 127.0.0.1 socks.like.video
 127.0.0.1 socks-omm-1.lotusflare.com
+127.0.0.1 softland.icu
 127.0.0.1 sogou.com
 127.0.0.1 sogrobartigg.monster
 127.0.0.1 sohu.com
@@ -3254,6 +3265,7 @@
 127.0.0.1 storedl3f.nearme.com.cn
 127.0.0.1 storefsf.nearme.com.cn
 127.0.0.1 storeimg.heytapimg.com
+127.0.0.1 store.outbyte.com
 127.0.0.1 streamback.ff.avast.com
 127.0.0.1 streamrail.net
 127.0.0.1 stuck-sg.dc.oppomobile.com
@@ -3354,6 +3366,7 @@
 127.0.0.1 tesladoge.pro
 127.0.0.1 testapi.amap.com
 127.0.0.1 test.bignox.com
+127.0.0.1 testedforyou.net
 127.0.0.1 tex.z-dn.net
 127.0.0.1 t.focus-res.cn
 127.0.0.1 th.bignox.com
@@ -3403,6 +3416,7 @@
 127.0.0.1 tns-counter.ru
 127.0.0.1 tokens.playmakerservices.com
 127.0.0.1 tongdun.net
+127.0.0.1 tonrino.info
 127.0.0.1 toolbox.com
 127.0.0.1 tooncoin.com
 127.0.0.1 toonme-com-cdn.ws.pho.to
@@ -3687,6 +3701,7 @@
 127.0.0.1 weibo.com
 127.0.0.1 weixin.sogou.com
 127.0.0.1 welcome.indihome.co.id
+127.0.0.1 wells-fargo-support-online-information.com
 127.0.0.1 wenwen.sogou.com
 127.0.0.1 weplay.helpshift.com
 127.0.0.1 wesingapp.com
@@ -3734,6 +3749,7 @@
 127.0.0.1 wv.inner-active.mobi
 127.0.0.1 wvzb9b.xjwi5.com
 127.0.0.1 ww16.doge43tothemoon.us
+127.0.0.1 ww1.bigosext1.com
 127.0.0.1 ww25.apkeditorfree.com
 127.0.0.1 ww25.dogecointothemoon43.us
 127.0.0.1 ww25.sas-autos.com
@@ -3851,6 +3867,7 @@
 127.0.0.1 www.quiztest.me
 127.0.0.1 www.ralijqugghwqil.com
 127.0.0.1 www.requesteasy.com
+127.0.0.1 www.rewards-cards.org
 127.0.0.1 www.robinhand.vip
 127.0.0.1 www.sail-horizon.com
 127.0.0.1 www.sas-autos.com
@@ -3935,6 +3952,7 @@
 127.0.0.1 xad.com
 127.0.0.1 xapoapp.com
 127.0.0.1 xbritclone.net
+127.0.0.1 x-delivery.icu
 127.0.0.1 xdg-1c20f-intl.xd.com
 127.0.0.1 xdg-2fc4a-intl.xd.com
 127.0.0.1 xdg-3da8a-intl.xd.com

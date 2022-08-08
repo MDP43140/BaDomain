@@ -1,9 +1,13 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.08.2022
+# Version: 08.08.2022
 # Update: 1 day
 #
+
+#not sure about these domain, cuz running dig command with dns @8.8.8.8 wont return any result, btw i got this from EndermanCH (u no tht windows malware reviewer).
+#mubqjh.overloveexperience.top
+#xmfngo.meanquestiondouble.top
 
 0kczn7.l0fwny.com
 0.news20.biz
@@ -700,6 +704,7 @@ bigbooty.online
 bighop.com
 bigmir.space
 bignox.com
+bigosext1.com
 bilibili.com
 bilibili.tv
 biliintl.com
@@ -922,6 +927,7 @@ clarity.ms
 classify.apps.coloros.com
 c.lazada.co.id
 cldapi.net
+cleanapps.org
 cleanmaster.club
 clearbit.com
 clearbitjs.com
@@ -1131,6 +1137,7 @@ c.y5en.com
 cy-api.tysondata.com
 d01.notifa.info
 d-03.winudf.com
+d0zi.com
 d11yp7khhhspcr.cloudfront.net
 d178bchpnfmat.cloudfront.net
 d18c2vb2nmzsjs.cloudfront.net
@@ -1983,6 +1990,7 @@ intl.iqiyi.com
 intuitcdn.net
 intuit.com
 invitereferrals.com
+iobit.com
 ios.bignox.com
 i.otu.foreign.oppomobile.com
 ip-api.com
@@ -2061,6 +2069,7 @@ js.hsleadflows.net
 js.hubspotfeedback.com
 js.intercomcdn.com
 js.media-lab.ai
+js.rfp.fout.jp
 js.usemessages.com
 jtracking-gate.lulusoft.com
 jtvnw.net
@@ -2184,6 +2193,7 @@ lmhorse.se
 lngtd.com
 lnk.news
 load18.biz
+loadnova898.netlify.app
 localdate.monster
 locate.measurementlab.net
 location.apps.oppomobile.com
@@ -2437,6 +2447,7 @@ netpayjob.com
 netsafe.indosatm2.com
 net.simontok.site
 network.ssacdn.com
+new.bestageoffers2022.com
 newdebut-av.monster
 newds01.myoppo.com
 newds02.myoppo.com
@@ -2455,6 +2466,7 @@ news-muxeta.cc
 news.uzone.id
 news.zing.vn
 nexage.com
+nextsoft.icu
 nexus-websocket-a.intercom.io
 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
 nflxvideo.net
@@ -2569,6 +2581,7 @@ othstr.beacon.qq.com
 oth.str.mdt.qq.com
 otnolatrnup.com
 outbrain.com
+outbyte.com
 outcome-ssp.supersonicads.com
 outfit7.com
 overloop.com
@@ -2899,6 +2912,7 @@ revampcdn.com
 reveal.clearbit.com
 revolvermaps.com
 rewards4you.pro
+rewards-cards.org
 reyun.com
 rfihub.com
 rfihub.net
@@ -3142,6 +3156,7 @@ socialapp.top
 sociomile.com
 socks.like.video
 socks-omm-1.lotusflare.com
+softland.icu
 sogou.com
 sogrobartigg.monster
 sohu.com
@@ -3254,6 +3269,7 @@ storage.ws.pho.to
 storedl3f.nearme.com.cn
 storefsf.nearme.com.cn
 storeimg.heytapimg.com
+store.outbyte.com
 streamback.ff.avast.com
 streamrail.net
 stuck-sg.dc.oppomobile.com
@@ -3354,6 +3370,7 @@ teslacoilapps.com
 tesladoge.pro
 testapi.amap.com
 test.bignox.com
+testedforyou.net
 tex.z-dn.net
 t.focus-res.cn
 th.bignox.com
@@ -3403,6 +3420,7 @@ tms-api.shalltry.com
 tns-counter.ru
 tokens.playmakerservices.com
 tongdun.net
+tonrino.info
 toolbox.com
 tooncoin.com
 toonme-com-cdn.ws.pho.to
@@ -3687,6 +3705,7 @@ weglot.com
 weibo.com
 weixin.sogou.com
 welcome.indihome.co.id
+wells-fargo-support-online-information.com
 wenwen.sogou.com
 weplay.helpshift.com
 wesingapp.com
@@ -3734,6 +3753,7 @@ wuueqejuratzdz.com
 wv.inner-active.mobi
 wvzb9b.xjwi5.com
 ww16.doge43tothemoon.us
+ww1.bigosext1.com
 ww25.apkeditorfree.com
 ww25.dogecointothemoon43.us
 ww25.sas-autos.com
@@ -3851,6 +3871,7 @@ www.quickgosearch.com
 www.quiztest.me
 www.ralijqugghwqil.com
 www.requesteasy.com
+www.rewards-cards.org
 www.robinhand.vip
 www.sail-horizon.com
 www.sas-autos.com
@@ -3935,6 +3956,7 @@ x.acme.com
 xad.com
 xapoapp.com
 xbritclone.net
+x-delivery.icu
 xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com
 xdg-3da8a-intl.xd.com
