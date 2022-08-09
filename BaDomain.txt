@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 08.08.2022
+# Version: 09.08.2022
 # Update: 1 day
 #
 
@@ -848,6 +848,7 @@ cdnimage2.caping.co.id
 cdn-images.mailchimp.com
 cdn.innity.net
 cdn.insurads.com
+cdn.jifo.co
 cdn.joinbudapp.com
 cdn.jwplayer.com
 cdn.kidozplayer.com
@@ -874,6 +875,7 @@ cdn-theme-eu-central-1.shalltry.com
 cdn.tstatic.net
 cdn.unblockia.com
 cdn.viber.com
+cdn-web.jifo.co
 cdn.weglot.com
 cdn.wetest.qq.com
 cdnwidget.com
@@ -965,6 +967,7 @@ cnevids.com
 cnnx.io
 cn.pool.ntp.org
 cnzz.com
+co.com
 codashop.com
 code.createjs.com
 codepush.appcenter.ms
@@ -1808,6 +1811,7 @@ i1.hdslb.com
 i2.hdslb.com
 i59400f.xyz
 i5.weather.oppomobile.com
+i6e7aabybyc.co.com
 i6f.weather.oppomobile.com
 i6.weather.oppomobile.com
 i.aecoapps.com
@@ -1946,6 +1950,7 @@ info.3g.qq.com
 info.bignox.com
 info.braze.com
 info.ejvonlyrik.com
+infogram.com
 infohub.azureedge.net
 infohubnews.app
 in-gaap.snackvideo.in
@@ -2046,6 +2051,7 @@ j19544519.pr46m.vps.myjino.ru
 jd.com
 jetengine.it
 jfapiprod.optimonk.com
+jifo.co
 jixie.io
 jixie.media
 jkt-milink.market.xiaomi.com
@@ -2792,6 +2798,7 @@ public.profitwell.com
 public.shtranssion.com
 public.slidesharecdn.com
 public.transacme.com
+publisher.caroda.io
 publisher-config.unityads.unity3d.com
 publisher-event.unityads.unity3d.com
 pubmatic.com
@@ -2844,6 +2851,8 @@ r3.i.lencr.org
 r3.mail.ru
 racgen.monster
 radaris.com
+rainway.tv
+rainway.us
 raishiz.com
 rakam.io
 rakutenmarketing.com
@@ -3072,6 +3081,7 @@ sexposition.uno
 sexxdating.site
 sexxo.baby
 sexy-dating.uno
+seznam.cz
 sf19-fe-tos-sg.pglstatp.com
 sfdcstatic.com
 sfdict.com
@@ -3188,6 +3198,7 @@ sprtsecureassets.akamaized.net
 sp.zalo.me
 s.relap.mail.ru
 srv1.bilikfilm.xyz
+srv214-h-st.jino.ru
 srv-mobile-version-validator.services.z-dn.net
 srv.mp3.zing.vn
 srv-ocr-api-logged.z-dn.net
@@ -3393,6 +3404,8 @@ thm.market.intl.xiaomi.com
 threadloom.com
 thrtle.com
 thunderxnew.site
+ti9pl5.i6e7aabybyc.co.com
+ti9pl5.ti9pl5.i6e7aabybyc.co.com
 time1.cloud.tencent.com
 time2.apple.com
 time.apple.com
@@ -3435,6 +3448,7 @@ tpai.caping.co.id
 tpns.sgp.tencent.com
 t.pubmatic.com
 tracert.alipay.com
+trackad.cz
 track.analytics.rocks
 tracker.ruangguru.com
 trackersimulator.org
@@ -3549,6 +3563,7 @@ us-api.mcsvc.samsung.com
 us.api.share.mob.com
 us-central1-alight-creative.cloudfunctions.net
 us-central1-gcp.api.snapchat.com
+us.contactapi.micloud.xiaomi.net
 uscreen.tv
 usearch.co.id
 us-east1-aws.api.snapchat.com
@@ -3562,6 +3577,7 @@ useroperation.wondershare.com
 us.find.api.micloud.xiaomi.net
 us.galleryapi.micloud.xiaomi.net
 usicdn.com
+us.micardapi.micloud.xiaomi.net
 us.noteapi.micloud.xiaomi.net
 us.pdc.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
@@ -3712,6 +3728,7 @@ weplay.helpshift.com
 wesingapp.com
 wesingapp.stream.kg.qq.com
 wesingapp.tsmusic.kg.qq.com
+westeurope2.caroda.io
 wetv.vip
 whatismyip.akamai.com
 whippedfreezerbegun.com

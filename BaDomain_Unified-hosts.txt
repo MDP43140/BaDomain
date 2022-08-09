@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 08.08.2022
+# Version: 09.08.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -46,6 +46,7 @@
 127.0.0.1 2tx120.1g5k5w.com
 127.0.0.1 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
 127.0.0.1 30-courier.push.apple.com
+127.0.0.1 320volt.com
 127.0.0.1 33across.com
 127.0.0.1 344587-android-ds.metric.gstatic.com
 127.0.0.1 39d0825d09f05.cdn.sohucs.com
@@ -851,6 +852,7 @@
 127.0.0.1 cdn-images.mailchimp.com
 127.0.0.1 cdn.innity.net
 127.0.0.1 cdn.insurads.com
+127.0.0.1 cdn.jifo.co
 127.0.0.1 cdn.joinbudapp.com
 127.0.0.1 cdn.jwplayer.com
 127.0.0.1 cdn.kidozplayer.com
@@ -877,6 +879,7 @@
 127.0.0.1 cdn.tstatic.net
 127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn.viber.com
+127.0.0.1 cdn-web.jifo.co
 127.0.0.1 cdn.weglot.com
 127.0.0.1 cdn.wetest.qq.com
 127.0.0.1 cdnwidget.com
@@ -968,6 +971,7 @@
 127.0.0.1 cnnx.io
 127.0.0.1 cn.pool.ntp.org
 127.0.0.1 cnzz.com
+127.0.0.1 co.com
 127.0.0.1 codashop.com
 127.0.0.1 code.createjs.com
 127.0.0.1 codepush.appcenter.ms
@@ -1811,6 +1815,7 @@
 127.0.0.1 i2.hdslb.com
 127.0.0.1 i59400f.xyz
 127.0.0.1 i5.weather.oppomobile.com
+127.0.0.1 i6e7aabybyc.co.com
 127.0.0.1 i6f.weather.oppomobile.com
 127.0.0.1 i6.weather.oppomobile.com
 127.0.0.1 i.aecoapps.com
@@ -1949,6 +1954,7 @@
 127.0.0.1 info.bignox.com
 127.0.0.1 info.braze.com
 127.0.0.1 info.ejvonlyrik.com
+127.0.0.1 infogram.com
 127.0.0.1 infohub.azureedge.net
 127.0.0.1 infohubnews.app
 127.0.0.1 in-gaap.snackvideo.in
@@ -2049,6 +2055,7 @@
 127.0.0.1 jd.com
 127.0.0.1 jetengine.it
 127.0.0.1 jfapiprod.optimonk.com
+127.0.0.1 jifo.co
 127.0.0.1 jixie.io
 127.0.0.1 jixie.media
 127.0.0.1 jkt-milink.market.xiaomi.com
@@ -2795,6 +2802,7 @@
 127.0.0.1 public.shtranssion.com
 127.0.0.1 public.slidesharecdn.com
 127.0.0.1 public.transacme.com
+127.0.0.1 publisher.caroda.io
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 publisher-event.unityads.unity3d.com
 127.0.0.1 pubmatic.com
@@ -2847,6 +2855,8 @@
 127.0.0.1 r3.mail.ru
 127.0.0.1 racgen.monster
 127.0.0.1 radaris.com
+127.0.0.1 rainway.tv
+127.0.0.1 rainway.us
 127.0.0.1 raishiz.com
 127.0.0.1 rakam.io
 127.0.0.1 rakutenmarketing.com
@@ -3075,6 +3085,7 @@
 127.0.0.1 sexxdating.site
 127.0.0.1 sexxo.baby
 127.0.0.1 sexy-dating.uno
+127.0.0.1 seznam.cz
 127.0.0.1 sf19-fe-tos-sg.pglstatp.com
 127.0.0.1 sfdcstatic.com
 127.0.0.1 sfdict.com
@@ -3191,6 +3202,7 @@
 127.0.0.1 sp.zalo.me
 127.0.0.1 s.relap.mail.ru
 127.0.0.1 srv1.bilikfilm.xyz
+127.0.0.1 srv214-h-st.jino.ru
 127.0.0.1 srv-mobile-version-validator.services.z-dn.net
 127.0.0.1 srv.mp3.zing.vn
 127.0.0.1 srv-ocr-api-logged.z-dn.net
@@ -3396,6 +3408,8 @@
 127.0.0.1 threadloom.com
 127.0.0.1 thrtle.com
 127.0.0.1 thunderxnew.site
+127.0.0.1 ti9pl5.i6e7aabybyc.co.com
+127.0.0.1 ti9pl5.ti9pl5.i6e7aabybyc.co.com
 127.0.0.1 time1.cloud.tencent.com
 127.0.0.1 time2.apple.com
 127.0.0.1 time.apple.com
@@ -3438,6 +3452,7 @@
 127.0.0.1 tpns.sgp.tencent.com
 127.0.0.1 t.pubmatic.com
 127.0.0.1 tracert.alipay.com
+127.0.0.1 trackad.cz
 127.0.0.1 track.analytics.rocks
 127.0.0.1 tracker.ruangguru.com
 127.0.0.1 trackersimulator.org
@@ -3552,6 +3567,7 @@
 127.0.0.1 us.api.share.mob.com
 127.0.0.1 us-central1-alight-creative.cloudfunctions.net
 127.0.0.1 us-central1-gcp.api.snapchat.com
+127.0.0.1 us.contactapi.micloud.xiaomi.net
 127.0.0.1 uscreen.tv
 127.0.0.1 usearch.co.id
 127.0.0.1 us-east1-aws.api.snapchat.com
@@ -3565,6 +3581,7 @@
 127.0.0.1 us.find.api.micloud.xiaomi.net
 127.0.0.1 us.galleryapi.micloud.xiaomi.net
 127.0.0.1 usicdn.com
+127.0.0.1 us.micardapi.micloud.xiaomi.net
 127.0.0.1 us.noteapi.micloud.xiaomi.net
 127.0.0.1 us.pdc.micloud.xiaomi.net
 127.0.0.1 us.statusapi.micloud.xiaomi.net
@@ -3715,6 +3732,7 @@
 127.0.0.1 wesingapp.com
 127.0.0.1 wesingapp.stream.kg.qq.com
 127.0.0.1 wesingapp.tsmusic.kg.qq.com
+127.0.0.1 westeurope2.caroda.io
 127.0.0.1 wetv.vip
 127.0.0.1 whatismyip.akamai.com
 127.0.0.1 whippedfreezerbegun.com
