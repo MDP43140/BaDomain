@@ -951,6 +951,7 @@
 127.0.0.1 gecko16-normal-c-useast1a.tiktokv.com.edgesuite.net
 127.0.0.1 gecko16-normal-c-useast2a.tiktokv.com
 127.0.0.1 gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
+127.0.0.1 gecko16-normal-useast2a.tiktokv.com
 127.0.0.1 gecko-cold.snssdk.com
 127.0.0.1 gecko-hl.snssdk.com
 127.0.0.1 gecko-hl.snssdk.com.w.kunluncan.com
@@ -1244,6 +1245,7 @@
 127.0.0.1 jmj.toutiao.com
 127.0.0.1 job.toutiao.com
 127.0.0.1 jsb16-normal-c-useast2a.tiktokv.com
+127.0.0.1 jsb16-normal-useast2a.tiktokv.com
 127.0.0.1 jsb-hl.snssdk.com
 127.0.0.1 jsb-lf.snssdk.com
 127.0.0.1 jsb-lq.snssdk.com

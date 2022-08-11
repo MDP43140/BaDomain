@@ -951,6 +951,7 @@ gecko16-normal-c-useast1a.tiktokv.com
 gecko16-normal-c-useast1a.tiktokv.com.edgesuite.net
 gecko16-normal-c-useast2a.tiktokv.com
 gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
+gecko16-normal-useast2a.tiktokv.com
 gecko-cold.snssdk.com
 gecko-hl.snssdk.com
 gecko-hl.snssdk.com.w.kunluncan.com
@@ -1244,6 +1245,7 @@ j.l.bytedns.net
 jmj.toutiao.com
 job.toutiao.com
 jsb16-normal-c-useast2a.tiktokv.com
+jsb16-normal-useast2a.tiktokv.com
 jsb-hl.snssdk.com
 jsb-lf.snssdk.com
 jsb-lq.snssdk.com

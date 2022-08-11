@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.08.2022
+# Version: 11.08.2022
 # Update: 1 day
 #
 
@@ -862,6 +862,7 @@ cdn-production-assets-kly.akamaized.net
 cdn.pushmart.net
 cdn.ravenjs.com
 cdn.rortoscdn.com
+cdn.scooper.news
 cdn-sdk.aihelp.net
 cdn.segment.com
 cdn.shalltry.com
@@ -1919,6 +1920,7 @@ img-l.usicdn.com
 img.onesignal.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img.samsungapps.com
+img.scooper.news
 imgsmail.ru
 img-s-msn-com.akamaized.net
 img.wattpad.com
@@ -2021,6 +2023,7 @@ iresearch.vip
 irisk-id-l.alipay.com
 irl-api.twibida.com
 ir.sogou.com
+i.scooper.news
 iseepassword.com
 isex.baby
 i-sg.browser.heytapmobile.com
@@ -2393,6 +2396,7 @@ mp.toutiao.com
 mradx.net
 ms4.applovin.com
 ms.bignox.com
+m.scoopernews.com
 msdk.shopee.co.id
 msearchcdn.kugou.com
 msecnd.net
@@ -3014,6 +3018,8 @@ scaleway.testdebit.info
 sc-cdn.net
 schemas.casa
 scholar.sogou.com
+scooper.news
+scoopernews.com
 scorecardresearch.com
 scout-cdn.salesloft.com
 screensteps.com

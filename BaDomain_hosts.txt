@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.08.2022
+# Version: 11.08.2022
 # Update: 1 day
 #
 #not sure about these domain, cuz running dig command with dns @8.8.8.8 wont return any result, btw i got this from EndermanCH (u no tht windows malware reviewer).
@@ -861,6 +861,7 @@
 127.0.0.1 cdn.pushmart.net
 127.0.0.1 cdn.ravenjs.com
 127.0.0.1 cdn.rortoscdn.com
+127.0.0.1 cdn.scooper.news
 127.0.0.1 cdn-sdk.aihelp.net
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdn.shalltry.com
@@ -1918,6 +1919,7 @@
 127.0.0.1 img.onesignal.com
 127.0.0.1 img-prod-cms-rt-microsoft-com.akamaized.net
 127.0.0.1 img.samsungapps.com
+127.0.0.1 img.scooper.news
 127.0.0.1 imgsmail.ru
 127.0.0.1 img-s-msn-com.akamaized.net
 127.0.0.1 img.wattpad.com
@@ -2020,6 +2022,7 @@
 127.0.0.1 irisk-id-l.alipay.com
 127.0.0.1 irl-api.twibida.com
 127.0.0.1 ir.sogou.com
+127.0.0.1 i.scooper.news
 127.0.0.1 iseepassword.com
 127.0.0.1 isex.baby
 127.0.0.1 i-sg.browser.heytapmobile.com
@@ -2392,6 +2395,7 @@
 127.0.0.1 mradx.net
 127.0.0.1 ms4.applovin.com
 127.0.0.1 ms.bignox.com
+127.0.0.1 m.scoopernews.com
 127.0.0.1 msdk.shopee.co.id
 127.0.0.1 msearchcdn.kugou.com
 127.0.0.1 msecnd.net
@@ -3013,6 +3017,8 @@
 127.0.0.1 sc-cdn.net
 127.0.0.1 schemas.casa
 127.0.0.1 scholar.sogou.com
+127.0.0.1 scooper.news
+127.0.0.1 scoopernews.com
 127.0.0.1 scorecardresearch.com
 127.0.0.1 scout-cdn.salesloft.com
 127.0.0.1 screensteps.com
