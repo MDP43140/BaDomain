@@ -13,6 +13,7 @@ akmpicture.youngjoygame.com
 akmstatic.ml.youngjoygame.com
 akmweb.youngjoygame.com
 alxdlml.yuanzhanapp.com
+bi.moonton.com
 cycdn.ml.youngjoygame.com
 face.yuanzhanapp.com
 ip.ml.youngjoygame.com
@@ -23,5 +24,6 @@ moonton.com
 newlogin.ml.mlbangbang.com
 newlogin.ml.youngjoygame.com
 report.ml.youngjoygame.com
+track.bi.moonton.com
 wscdn.ml.youngjoygame.com
 youngjoygame.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 11.08.2022
+# Version: 12.08.2022
 # Update: 1 day
 #
 
@@ -776,6 +776,7 @@ cabinet2-sea.taximaxim.com
 cachefly.net
 cadmoremedia.com
 cahoots.com
+calibermind.com
 candycrushsaga.king.com
 c-api-bit.shopeemobile.com
 caping.co.id
@@ -799,6 +800,7 @@ cda1.avanquest.com
 cd.exp.xiaomi.com
 cdn0-production-images-kly.akamaized.net
 cdn130.picsart.com
+cdn-146.privacy-mgmt.com
 cdn1.codashop.com
 cdn1-production-images-kly.akamaized.net
 cdn-1.tstatic.net
@@ -825,6 +827,7 @@ cdn-asset.optimonk.com
 cdn-asset.zepeto.me
 cdn.avanquest.com
 cdn.bizible.com
+cdn.calibermind.com
 cdn.concert.io
 cdnconfig.aihelp.net
 cdn.contentful.com
@@ -854,6 +857,7 @@ cdn.jwplayer.com
 cdn.kidozplayer.com
 cdn.link4app.com
 cdnm3.caping.co.id
+cdn.metarouter.io
 cdn.mxpnl.com
 cdn.otnolatrnup.com
 cdn.outfit7.com
@@ -957,6 +961,7 @@ cloud.typography.com
 cloud.wpscdn.com
 cm.bilibili.com
 cmh01.justin.tv
+cmpv2.macworld.com
 cname.vercel-dns.com
 cn.bignox.com
 cn-e-pic-aliyun.mangatoon.mobi
@@ -1165,6 +1170,7 @@ d33wubrfki0l68.cloudfront.net
 d34chcsvb7ug62.cloudfront.net
 d3amn7ayexbwsr.cloudfront.net
 d3d6s0qsgup76t.cloudfront.net
+d3e54v103j8qbb.cloudfront.net
 d3fw5vlhllyvee.cloudfront.net
 d3gaa7hzm4yu8j.cloudfront.net
 d3hegev0j37foa.cloudfront.net
@@ -1262,7 +1268,11 @@ discovery.clearbit.com
 distillery.wistia.com
 diva.bond
 dkyweipsds.com
+dl111.dlmate26.xyz
+dl111.fbefcafbeedc.xyz
 dl.hw.freefiremobile.com
+dlmate18.xyz
+dlmate26.xyz
 dls.di.atlas.samsung.com
 dlvr.it
 dlvrit.com
@@ -1366,6 +1376,7 @@ embedcdn.com
 embed-fastly.wistia.com
 embedwistia-a.akamaihd.net
 emebo.io
+e.metarouter.io
 empower-api.palmplaystore.com
 emxdgt.com
 en.bignox.com
@@ -1455,6 +1466,7 @@ feed-test.bignox.com
 feelingtouch.helpshift.com
 fennec-catalog-cdn.prod.mozaws.net
 fg8vvsvnieiv3ej16jby.litix.io
+fid.agkn.com
 file.market.xiaomi.com
 filesusr.com
 files.webmoney.ru
@@ -1519,6 +1531,7 @@ ftp.lysator.liu.se
 fukada-jpp.monster
 fullstory.com
 funbe.rjifxuqoo
+funminigame.com
 funnymuvie.online
 funny.pho.to
 fuseplatform.net
@@ -1536,6 +1549,7 @@ g4tagging.komando.com
 ga.clearbit.com
 g.alicdn.com
 galleryjs.io
+gallerysearchapi.micloud.xiaomi.net
 gamea.clashofclans.com
 gameanalytics.com
 game.bignox.com
@@ -1648,6 +1662,7 @@ go.redirectingat.com
 gos-api.gos-gsp.io
 gotube.pro
 gov.cn
+go-vip.net
 gpapi.zepeto.io
 gpoint.com.gr
 gpvjyx.ssptp4.com
@@ -1843,6 +1858,7 @@ id-comet.z-dn.net
 id-connect.sms.intl.xiaomi.com
 idea5.xyz
 id-fcm.sms.intl.xiaomi.com
+id.gallerysearchapi.micloud.xiaomi.net
 idg.map.fastly.net
 id-info-appstore.vivoglobal.com
 id-live.slatic.net
@@ -2019,6 +2035,7 @@ iqzgqivb.com
 ir.appnext.com
 ire-dsc.shalltry.com
 ire-dsu.shalltry.com
+ire-oneid.shalltry.com
 iresearch.vip
 irisk-id-l.alipay.com
 irl-api.twibida.com
@@ -2075,6 +2092,7 @@ js.getlasso.co
 js.hs-analytics.net
 js.hs-banner.com
 js.hscollectedforms.net
+js.hsforms.net
 js.hsleadflows.net
 js.hubspotfeedback.com
 js.intercomcdn.com
@@ -2198,6 +2216,7 @@ live.shopee.co.id
 livetech.live.shopee.co.id
 livetech.shopee.co.id
 livoop.com
+ljhmcithwuigm.xyz
 lkqd.net
 lmhorse.se
 lngtd.com
@@ -2215,6 +2234,7 @@ logging.baca.co.id
 log.goodnovel.com
 logicbuy.com
 login.im.qcloud.com
+login.sc.funminigame.com
 login.tim.qq.com
 login.wmtransfer.com
 log.kzvepo.com
@@ -2246,6 +2266,7 @@ m2.ai
 m3.auto.itc.cn
 m4.auto.itc.cn
 mabbox.bytel.fr
+macworld.go-vip.net
 magazine-api-gl.heytapmobile.com
 magnite.com
 magzine.transacme.com
@@ -2320,12 +2341,14 @@ messagebird.com
 messaging.messagebird.com
 mesu.apple.com
 mesu-cdn.origin-apple.com.akadns.net
+metarouter.io
 meteor.shalltry.com
 metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
 mgid.com
 m.harbourfunny.com
 mhy.link
+micloud.xiaomi.net
 microservices.wifimap.io
 midas-api.hellay.net
 midasplayer.com
@@ -2415,6 +2438,7 @@ m.toutiaocdn.com
 m.toutiao.com
 mtrace.wetvinfo.com
 muathangnhom.com
+mufsdk.funminigame.com
 multimedia.pulse.mail.ru
 munchkin.marketo.net
 mup.amp.mcafee.com
@@ -2523,6 +2547,7 @@ o446669.ingest.sentry.io
 o64315.ingest.sentry.io
 o937343.ingest.sentry.io
 o.alicdn.com
+observe.metarouter.io
 obus-dc20123-sg.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
@@ -2548,6 +2573,7 @@ omnithrottle.com
 omtrdc.net
 oneboost.me
 one.cryptonomiconf.com
+one.progmxs.com
 onesignal.com
 onesoft.com.vn
 onetrust.com
@@ -2576,6 +2602,7 @@ orangeclickmedia.com
 orange-dc.lazada.com
 orxhacks.com
 os-aibox.shalltry.com
+osano.com
 os-code.shalltry.com
 osfeature.shalltry.com
 oshola.shalltry.com
@@ -2879,6 +2906,7 @@ recostream.go.mail.ru
 rec.smartlook.com
 redirectingat.com
 redirect.networkbench.com
+redventures.io
 referralrock.com
 refersion.com
 register.xmpush.global.xiaomi.com
@@ -2892,6 +2920,7 @@ reminiandroid.oracle.bendingspoonsapps.com
 repair-system-phone.firebaseio.com
 report.appmetrica.yandex.net
 report-ps.meettech.net
+report.sc.funminigame.com
 report.uc.heytapmobi.com
 report.yukbacaberita.com
 requesteasy.com
@@ -3016,6 +3045,7 @@ saya.ucweb.com
 sc386.com
 scaleway.testdebit.info
 sc-cdn.net
+sc.funminigame.com
 schemas.casa
 scholar.sogou.com
 scooper.news
@@ -3344,6 +3374,7 @@ t7.a.market.xiaomi.com
 tablequantity.com
 taboola.com
 tads.mobadvent.com
+tag.clearbitscripts.com
 tag.researchnow.com
 tags.tiqcdn.com
 taichi.y5en.com
@@ -3582,6 +3613,7 @@ user.haokan.mobi
 useroperation.wondershare.com
 us.find.api.micloud.xiaomi.net
 us.galleryapi.micloud.xiaomi.net
+us.gallerysearchapi.micloud.xiaomi.net
 usicdn.com
 us.micardapi.micloud.xiaomi.net
 us.noteapi.micloud.xiaomi.net
@@ -3759,6 +3791,7 @@ wondershare.cc
 wootric.com
 wp20.ru
 wpscdn.com
+wpvip.com
 ws-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
 wsapi.master.live
 ws.flv.nimo.tv
@@ -3956,6 +3989,7 @@ www.xjke.xyz
 www.xnxx.com
 www.x-tags.net
 www.xvideos2.com
+www.y2mate.com
 www.yastatic.net
 www.yeshen.com
 www.yeshen.com.w.kunlungr.com
@@ -4015,6 +4049,7 @@ xvideos2.com
 xvideos.com
 xx18like.uno
 xyz.svr-algorix.com
+y2mate.com
 y5en.com
 yadro.ru
 yaka.stream.kg.qq.com
@@ -4077,6 +4112,7 @@ zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com
 zmt.itc.cn
 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
+z-na.associates-amazon.com
 znews-photo.zingcdn.me
 znpst.top
 zoominfo.com

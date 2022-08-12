@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 11.08.2022
+# Version: 12.08.2022
 # Update: 1 day
 #
 #not sure about these domain, cuz running dig command with dns @8.8.8.8 wont return any result, btw i got this from EndermanCH (u no tht windows malware reviewer).
@@ -775,6 +775,7 @@
 127.0.0.1 cachefly.net
 127.0.0.1 cadmoremedia.com
 127.0.0.1 cahoots.com
+127.0.0.1 calibermind.com
 127.0.0.1 candycrushsaga.king.com
 127.0.0.1 c-api-bit.shopeemobile.com
 127.0.0.1 caping.co.id
@@ -798,6 +799,7 @@
 127.0.0.1 cd.exp.xiaomi.com
 127.0.0.1 cdn0-production-images-kly.akamaized.net
 127.0.0.1 cdn130.picsart.com
+127.0.0.1 cdn-146.privacy-mgmt.com
 127.0.0.1 cdn1.codashop.com
 127.0.0.1 cdn1-production-images-kly.akamaized.net
 127.0.0.1 cdn-1.tstatic.net
@@ -824,6 +826,7 @@
 127.0.0.1 cdn-asset.zepeto.me
 127.0.0.1 cdn.avanquest.com
 127.0.0.1 cdn.bizible.com
+127.0.0.1 cdn.calibermind.com
 127.0.0.1 cdn.concert.io
 127.0.0.1 cdnconfig.aihelp.net
 127.0.0.1 cdn.contentful.com
@@ -853,6 +856,7 @@
 127.0.0.1 cdn.kidozplayer.com
 127.0.0.1 cdn.link4app.com
 127.0.0.1 cdnm3.caping.co.id
+127.0.0.1 cdn.metarouter.io
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.otnolatrnup.com
 127.0.0.1 cdn.outfit7.com
@@ -956,6 +960,7 @@
 127.0.0.1 cloud.wpscdn.com
 127.0.0.1 cm.bilibili.com
 127.0.0.1 cmh01.justin.tv
+127.0.0.1 cmpv2.macworld.com
 127.0.0.1 cname.vercel-dns.com
 127.0.0.1 cn.bignox.com
 127.0.0.1 cn-e-pic-aliyun.mangatoon.mobi
@@ -1164,6 +1169,7 @@
 127.0.0.1 d34chcsvb7ug62.cloudfront.net
 127.0.0.1 d3amn7ayexbwsr.cloudfront.net
 127.0.0.1 d3d6s0qsgup76t.cloudfront.net
+127.0.0.1 d3e54v103j8qbb.cloudfront.net
 127.0.0.1 d3fw5vlhllyvee.cloudfront.net
 127.0.0.1 d3gaa7hzm4yu8j.cloudfront.net
 127.0.0.1 d3hegev0j37foa.cloudfront.net
@@ -1261,7 +1267,11 @@
 127.0.0.1 distillery.wistia.com
 127.0.0.1 diva.bond
 127.0.0.1 dkyweipsds.com
+127.0.0.1 dl111.dlmate26.xyz
+127.0.0.1 dl111.fbefcafbeedc.xyz
 127.0.0.1 dl.hw.freefiremobile.com
+127.0.0.1 dlmate18.xyz
+127.0.0.1 dlmate26.xyz
 127.0.0.1 dls.di.atlas.samsung.com
 127.0.0.1 dlvr.it
 127.0.0.1 dlvrit.com
@@ -1365,6 +1375,7 @@
 127.0.0.1 embed-fastly.wistia.com
 127.0.0.1 embedwistia-a.akamaihd.net
 127.0.0.1 emebo.io
+127.0.0.1 e.metarouter.io
 127.0.0.1 empower-api.palmplaystore.com
 127.0.0.1 emxdgt.com
 127.0.0.1 en.bignox.com
@@ -1454,6 +1465,7 @@
 127.0.0.1 feelingtouch.helpshift.com
 127.0.0.1 fennec-catalog-cdn.prod.mozaws.net
 127.0.0.1 fg8vvsvnieiv3ej16jby.litix.io
+127.0.0.1 fid.agkn.com
 127.0.0.1 file.market.xiaomi.com
 127.0.0.1 filesusr.com
 127.0.0.1 files.webmoney.ru
@@ -1518,6 +1530,7 @@
 127.0.0.1 fukada-jpp.monster
 127.0.0.1 fullstory.com
 127.0.0.1 funbe.rjifxuqoo
+127.0.0.1 funminigame.com
 127.0.0.1 funnymuvie.online
 127.0.0.1 funny.pho.to
 127.0.0.1 fuseplatform.net
@@ -1535,6 +1548,7 @@
 127.0.0.1 ga.clearbit.com
 127.0.0.1 g.alicdn.com
 127.0.0.1 galleryjs.io
+127.0.0.1 gallerysearchapi.micloud.xiaomi.net
 127.0.0.1 gamea.clashofclans.com
 127.0.0.1 gameanalytics.com
 127.0.0.1 game.bignox.com
@@ -1647,6 +1661,7 @@
 127.0.0.1 gos-api.gos-gsp.io
 127.0.0.1 gotube.pro
 127.0.0.1 gov.cn
+127.0.0.1 go-vip.net
 127.0.0.1 gpapi.zepeto.io
 127.0.0.1 gpoint.com.gr
 127.0.0.1 gpvjyx.ssptp4.com
@@ -1842,6 +1857,7 @@
 127.0.0.1 id-connect.sms.intl.xiaomi.com
 127.0.0.1 idea5.xyz
 127.0.0.1 id-fcm.sms.intl.xiaomi.com
+127.0.0.1 id.gallerysearchapi.micloud.xiaomi.net
 127.0.0.1 idg.map.fastly.net
 127.0.0.1 id-info-appstore.vivoglobal.com
 127.0.0.1 id-live.slatic.net
@@ -2018,6 +2034,7 @@
 127.0.0.1 ir.appnext.com
 127.0.0.1 ire-dsc.shalltry.com
 127.0.0.1 ire-dsu.shalltry.com
+127.0.0.1 ire-oneid.shalltry.com
 127.0.0.1 iresearch.vip
 127.0.0.1 irisk-id-l.alipay.com
 127.0.0.1 irl-api.twibida.com
@@ -2074,6 +2091,7 @@
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hs-banner.com
 127.0.0.1 js.hscollectedforms.net
+127.0.0.1 js.hsforms.net
 127.0.0.1 js.hsleadflows.net
 127.0.0.1 js.hubspotfeedback.com
 127.0.0.1 js.intercomcdn.com
@@ -2197,6 +2215,7 @@
 127.0.0.1 livetech.live.shopee.co.id
 127.0.0.1 livetech.shopee.co.id
 127.0.0.1 livoop.com
+127.0.0.1 ljhmcithwuigm.xyz
 127.0.0.1 lkqd.net
 127.0.0.1 lmhorse.se
 127.0.0.1 lngtd.com
@@ -2214,6 +2233,7 @@
 127.0.0.1 log.goodnovel.com
 127.0.0.1 logicbuy.com
 127.0.0.1 login.im.qcloud.com
+127.0.0.1 login.sc.funminigame.com
 127.0.0.1 login.tim.qq.com
 127.0.0.1 login.wmtransfer.com
 127.0.0.1 log.kzvepo.com
@@ -2245,6 +2265,7 @@
 127.0.0.1 m3.auto.itc.cn
 127.0.0.1 m4.auto.itc.cn
 127.0.0.1 mabbox.bytel.fr
+127.0.0.1 macworld.go-vip.net
 127.0.0.1 magazine-api-gl.heytapmobile.com
 127.0.0.1 magnite.com
 127.0.0.1 magzine.transacme.com
@@ -2319,12 +2340,14 @@
 127.0.0.1 messaging.messagebird.com
 127.0.0.1 mesu.apple.com
 127.0.0.1 mesu-cdn.origin-apple.com.akadns.net
+127.0.0.1 metarouter.io
 127.0.0.1 meteor.shalltry.com
 127.0.0.1 metok-ccc.intl.xiaomi.com
 127.0.0.1 metok.intl.xiaomi.com
 127.0.0.1 mgid.com
 127.0.0.1 m.harbourfunny.com
 127.0.0.1 mhy.link
+127.0.0.1 micloud.xiaomi.net
 127.0.0.1 microservices.wifimap.io
 127.0.0.1 midas-api.hellay.net
 127.0.0.1 midasplayer.com
@@ -2414,6 +2437,7 @@
 127.0.0.1 m.toutiao.com
 127.0.0.1 mtrace.wetvinfo.com
 127.0.0.1 muathangnhom.com
+127.0.0.1 mufsdk.funminigame.com
 127.0.0.1 multimedia.pulse.mail.ru
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 mup.amp.mcafee.com
@@ -2522,6 +2546,7 @@
 127.0.0.1 o64315.ingest.sentry.io
 127.0.0.1 o937343.ingest.sentry.io
 127.0.0.1 o.alicdn.com
+127.0.0.1 observe.metarouter.io
 127.0.0.1 obus-dc20123-sg.heytapmobile.com
 127.0.0.1 obus-dc2-sg.heytapmobile.com
 127.0.0.1 obus-dctech-sg.heytapmobile.com
@@ -2547,6 +2572,7 @@
 127.0.0.1 omtrdc.net
 127.0.0.1 oneboost.me
 127.0.0.1 one.cryptonomiconf.com
+127.0.0.1 one.progmxs.com
 127.0.0.1 onesignal.com
 127.0.0.1 onesoft.com.vn
 127.0.0.1 onetrust.com
@@ -2575,6 +2601,7 @@
 127.0.0.1 orange-dc.lazada.com
 127.0.0.1 orxhacks.com
 127.0.0.1 os-aibox.shalltry.com
+127.0.0.1 osano.com
 127.0.0.1 os-code.shalltry.com
 127.0.0.1 osfeature.shalltry.com
 127.0.0.1 oshola.shalltry.com
@@ -2878,6 +2905,7 @@
 127.0.0.1 rec.smartlook.com
 127.0.0.1 redirectingat.com
 127.0.0.1 redirect.networkbench.com
+127.0.0.1 redventures.io
 127.0.0.1 referralrock.com
 127.0.0.1 refersion.com
 127.0.0.1 register.xmpush.global.xiaomi.com
@@ -2891,6 +2919,7 @@
 127.0.0.1 repair-system-phone.firebaseio.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 report-ps.meettech.net
+127.0.0.1 report.sc.funminigame.com
 127.0.0.1 report.uc.heytapmobi.com
 127.0.0.1 report.yukbacaberita.com
 127.0.0.1 requesteasy.com
@@ -3015,6 +3044,7 @@
 127.0.0.1 sc386.com
 127.0.0.1 scaleway.testdebit.info
 127.0.0.1 sc-cdn.net
+127.0.0.1 sc.funminigame.com
 127.0.0.1 schemas.casa
 127.0.0.1 scholar.sogou.com
 127.0.0.1 scooper.news
@@ -3343,6 +3373,7 @@
 127.0.0.1 tablequantity.com
 127.0.0.1 taboola.com
 127.0.0.1 tads.mobadvent.com
+127.0.0.1 tag.clearbitscripts.com
 127.0.0.1 tag.researchnow.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 taichi.y5en.com
@@ -3581,6 +3612,7 @@
 127.0.0.1 useroperation.wondershare.com
 127.0.0.1 us.find.api.micloud.xiaomi.net
 127.0.0.1 us.galleryapi.micloud.xiaomi.net
+127.0.0.1 us.gallerysearchapi.micloud.xiaomi.net
 127.0.0.1 usicdn.com
 127.0.0.1 us.micardapi.micloud.xiaomi.net
 127.0.0.1 us.noteapi.micloud.xiaomi.net
@@ -3758,6 +3790,7 @@
 127.0.0.1 wootric.com
 127.0.0.1 wp20.ru
 127.0.0.1 wpscdn.com
+127.0.0.1 wpvip.com
 127.0.0.1 ws-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
 127.0.0.1 wsapi.master.live
 127.0.0.1 ws.flv.nimo.tv
@@ -3955,6 +3988,7 @@
 127.0.0.1 www.xnxx.com
 127.0.0.1 www.x-tags.net
 127.0.0.1 www.xvideos2.com
+127.0.0.1 www.y2mate.com
 127.0.0.1 www.yastatic.net
 127.0.0.1 www.yeshen.com
 127.0.0.1 www.yeshen.com.w.kunlungr.com
@@ -4014,6 +4048,7 @@
 127.0.0.1 xvideos.com
 127.0.0.1 xx18like.uno
 127.0.0.1 xyz.svr-algorix.com
+127.0.0.1 y2mate.com
 127.0.0.1 y5en.com
 127.0.0.1 yadro.ru
 127.0.0.1 yaka.stream.kg.qq.com
@@ -4076,6 +4111,7 @@
 127.0.0.1 z.moatads.com
 127.0.0.1 zmt.itc.cn
 127.0.0.1 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
+127.0.0.1 z-na.associates-amazon.com
 127.0.0.1 znews-photo.zingcdn.me
 127.0.0.1 znpst.top
 127.0.0.1 zoominfo.com
