@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.08.2022
+# Version: 13.08.2022
 # Update: 1 day
 #
 #not sure about these domain, cuz running dig command with dns @8.8.8.8 wont return any result, btw i got this from EndermanCH (u no tht windows malware reviewer).
@@ -437,6 +437,7 @@
 127.0.0.1 api.qiscus.com
 127.0.0.1 api.resso.app
 127.0.0.1 api.revenuecat.com
+127.0.0.1 api.scooper.news
 127.0.0.1 api-sdk.datadome.co
 127.0.0.1 api.segment.io
 127.0.0.1 api.sg.mangatoon.mobi
@@ -581,6 +582,7 @@
 127.0.0.1 asia-third-appstore.vivoglobal.com
 127.0.0.1 asia-timesync.vivoglobal.com
 127.0.0.1 asia-upload-appstore.vivoglobal.com
+127.0.0.1 asia-usrsys-api.vivoglobal.com
 127.0.0.1 asia-vcode-api.vivoglobal.com
 127.0.0.1 asia-vcode-od.vivoglobal.com
 127.0.0.1 asia-vcode-or.vivoglobal.com
@@ -588,6 +590,7 @@
 127.0.0.1 asia-weather.vivoglobal.com
 127.0.0.1 asia-wifi.vivoglobal.com
 127.0.0.1 askmen.com
+127.0.0.1 assets16.resso.app
 127.0.0.1 assets5.lottiefiles.com
 127.0.0.1 assets7.lottiefiles.com
 127.0.0.1 assets9.lottiefiles.com
@@ -802,6 +805,7 @@
 127.0.0.1 cdn-146.privacy-mgmt.com
 127.0.0.1 cdn1.codashop.com
 127.0.0.1 cdn1-production-images-kly.akamaized.net
+127.0.0.1 cdn1.scooper.news
 127.0.0.1 cdn-1.tstatic.net
 127.0.0.1 cdn1.uzone.id
 127.0.0.1 cdn2.editmysite.com
@@ -1191,6 +1195,7 @@
 127.0.0.1 data.ai
 127.0.0.1 data.appsinnova.com
 127.0.0.1 data.bilibili.tv
+127.0.0.1 data.biliintl.com
 127.0.0.1 datadoghq.com
 127.0.0.1 datadome.co
 127.0.0.1 data.flurry.com
@@ -1362,6 +1367,7 @@
 127.0.0.1 editor-upload-cdn.optimonk.com
 127.0.0.1 eep.io
 127.0.0.1 eezegrip.net
+127.0.0.1 effect.resso.app
 127.0.0.1 ejvonlyrik.com
 127.0.0.1 ekiga.net
 127.0.0.1 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
@@ -1601,6 +1607,7 @@
 127.0.0.1 ghbtns.com
 127.0.0.1 ghost.org
 127.0.0.1 gift.bignox.com
+127.0.0.1 giphy.com
 127.0.0.1 gitkraken.com
 127.0.0.1 glamour.com
 127.0.0.1 glanceapis.com
@@ -2118,6 +2125,7 @@
 127.0.0.1 kendedes.uzone.id
 127.0.0.1 kepler.51y5.net
 127.0.0.1 kepler.y5en.com
+127.0.0.1 keybag.id.mi.com
 127.0.0.1 keyvalueservice.icloud.com
 127.0.0.1 kidozplayer.com
 127.0.0.1 kika-backend.com
@@ -2313,6 +2321,7 @@
 127.0.0.1 mdp-appconf-us.heytapdl.com
 127.0.0.1 medallia.com
 127.0.0.1 medals.bizrate.com
+127.0.0.1 media0.giphy.com
 127.0.0.1 media2.s-nbcnews.com
 127.0.0.1 media6degrees.com
 127.0.0.1 media-amazon.com
@@ -2674,6 +2683,7 @@
 127.0.0.1 partiality.itunes.apple.com
 127.0.0.1 partner.toutiao.com
 127.0.0.1 passport.bignox.com
+127.0.0.1 passport.biliintl.com
 127.0.0.1 passportlab.xyz
 127.0.0.1 passport-us.bignox.com
 127.0.0.1 passport.yeshen.com
@@ -3215,6 +3225,7 @@
 127.0.0.1 sp-497f6f2f.honzik.avcdn.net
 127.0.0.1 sp-607ddbd2.honzik.avcdn.net
 127.0.0.1 space.toutiao.com
+127.0.0.1 spacex.plus
 127.0.0.1 spanishcoursesunamuno.com
 127.0.0.1 spatial.fineboost.com
 127.0.0.1 specialdate.my.id
@@ -3493,6 +3504,7 @@
 127.0.0.1 tracking.g2crowd.com
 127.0.0.1 tracking.trnox.com
 127.0.0.1 track-mixer.ru
+127.0.0.1 track.scooper.news
 127.0.0.1 trackwilly.com
 127.0.0.1 trafficmanager.net
 127.0.0.1 trailhead.salesforce.com
@@ -3872,6 +3884,7 @@
 127.0.0.1 www.g2crowd.com
 127.0.0.1 www.garagewestrotterdam.nl
 127.0.0.1 www.geowf.ge
+127.0.0.1 www.giphy.com
 127.0.0.1 www.glamour.com
 127.0.0.1 www.glassbox.com
 127.0.0.1 www.go2cloud.org

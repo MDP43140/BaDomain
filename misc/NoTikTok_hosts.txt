@@ -1031,6 +1031,7 @@
 127.0.0.1 hotapi-cn.snssdk.com.w.kunluncan.com
 127.0.0.1 hotapi-i18n.tiktokv.com
 127.0.0.1 hotapi.sgsnssdk.com
+127.0.0.1 hotapi-sg.tiktokv.com
 127.0.0.1 hotapi-va.isnssdk.com
 127.0.0.1 hotapi-va.isnssdk.com.edgekey.net
 127.0.0.1 hotsoon-a-hl.snssdk.com
@@ -1773,6 +1774,7 @@
 127.0.0.1 p16-sg.xzcs3zlph.com
 127.0.0.1 p16-sg.xzcs3zlph.com.edgesuite.net
 127.0.0.1 p16-sign-sg.tiktokcdn.com
+127.0.0.1 p16-sign.tiktokcdn-us.com
 127.0.0.1 p16-sign-va.tiktokcdn.com
 127.0.0.1 p16-tcscdn.byteoversea.com
 127.0.0.1 p16-tcscdn.byteoversea.com.edgekey.net
@@ -1824,6 +1826,7 @@
 127.0.0.1 p19-capcut-sg.ibyteimg.com
 127.0.0.1 p19.hypstarcdn.com
 127.0.0.1 p-19-oec-sg.ibyteimg.com
+127.0.0.1 p19-sign.tiktokcdn-us.com
 127.0.0.1 p19-webcast.hypstarcdn.com
 127.0.0.1 p19-webcast.muscdn.com
 127.0.0.1 p19-webcast.tiktokcdn.com
@@ -1991,6 +1994,7 @@
 127.0.0.1 p6-xg.pstatp.com
 127.0.0.1 p77-sg.tiktokcdn.com
 127.0.0.1 p77-sign-sg.tiktokcdn.com
+127.0.0.1 p77-sign-va-lite.tiktokcdn.com
 127.0.0.1 p77-sign-va.tiktokcdn.com
 127.0.0.1 p77-va.tiktokcdn.com
 127.0.0.1 p7-dy.bytecdn.cn
@@ -2867,6 +2871,7 @@
 127.0.0.1 tiktokcdn.com.w.kunlunsl.com
 127.0.0.1 tiktokcdn.com.wsdvs.com
 127.0.0.1 tiktokcdn.liveplay.myqcloud.com
+127.0.0.1 tiktokcdn-us.com
 127.0.0.1 tiktok.cdnvideo.ru
 127.0.0.1 tiktok.com
 127.0.0.1 tiktok.com.c.footprint.net

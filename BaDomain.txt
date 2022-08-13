@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.08.2022
+# Version: 13.08.2022
 # Update: 1 day
 #
 
@@ -438,6 +438,7 @@ api.pro.kikakeyboard.com
 api.qiscus.com
 api.resso.app
 api.revenuecat.com
+api.scooper.news
 api-sdk.datadome.co
 api.segment.io
 api.sg.mangatoon.mobi
@@ -582,6 +583,7 @@ asia-theme-api.vivoglobal.com
 asia-third-appstore.vivoglobal.com
 asia-timesync.vivoglobal.com
 asia-upload-appstore.vivoglobal.com
+asia-usrsys-api.vivoglobal.com
 asia-vcode-api.vivoglobal.com
 asia-vcode-od.vivoglobal.com
 asia-vcode-or.vivoglobal.com
@@ -589,6 +591,7 @@ asia-vnote.vivoglobal.com
 asia-weather.vivoglobal.com
 asia-wifi.vivoglobal.com
 askmen.com
+assets16.resso.app
 assets5.lottiefiles.com
 assets7.lottiefiles.com
 assets9.lottiefiles.com
@@ -803,6 +806,7 @@ cdn130.picsart.com
 cdn-146.privacy-mgmt.com
 cdn1.codashop.com
 cdn1-production-images-kly.akamaized.net
+cdn1.scooper.news
 cdn-1.tstatic.net
 cdn1.uzone.id
 cdn2.editmysite.com
@@ -1192,6 +1196,7 @@ data00.adlooxtracking.com
 data.ai
 data.appsinnova.com
 data.bilibili.tv
+data.biliintl.com
 datadoghq.com
 datadome.co
 data.flurry.com
@@ -1363,6 +1368,7 @@ editor.pho.to
 editor-upload-cdn.optimonk.com
 eep.io
 eezegrip.net
+effect.resso.app
 ejvonlyrik.com
 ekiga.net
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
@@ -1602,6 +1608,7 @@ g-gdfp.uvfuns.com
 ghbtns.com
 ghost.org
 gift.bignox.com
+giphy.com
 gitkraken.com
 glamour.com
 glanceapis.com
@@ -2119,6 +2126,7 @@ keep2.xyz
 kendedes.uzone.id
 kepler.51y5.net
 kepler.y5en.com
+keybag.id.mi.com
 keyvalueservice.icloud.com
 kidozplayer.com
 kika-backend.com
@@ -2314,6 +2322,7 @@ mdp-appconf-sg.heytapdl.com
 mdp-appconf-us.heytapdl.com
 medallia.com
 medals.bizrate.com
+media0.giphy.com
 media2.s-nbcnews.com
 media6degrees.com
 media-amazon.com
@@ -2675,6 +2684,7 @@ parsely.com
 partiality.itunes.apple.com
 partner.toutiao.com
 passport.bignox.com
+passport.biliintl.com
 passportlab.xyz
 passport-us.bignox.com
 passport.yeshen.com
@@ -3216,6 +3226,7 @@ source.servicewebly.com
 sp-497f6f2f.honzik.avcdn.net
 sp-607ddbd2.honzik.avcdn.net
 space.toutiao.com
+spacex.plus
 spanishcoursesunamuno.com
 spatial.fineboost.com
 specialdate.my.id
@@ -3494,6 +3505,7 @@ tracking.g2.com
 tracking.g2crowd.com
 tracking.trnox.com
 track-mixer.ru
+track.scooper.news
 trackwilly.com
 trafficmanager.net
 trailhead.salesforce.com
@@ -3873,6 +3885,7 @@ www.g2.com
 www.g2crowd.com
 www.garagewestrotterdam.nl
 www.geowf.ge
+www.giphy.com
 www.glamour.com
 www.glassbox.com
 www.go2cloud.org

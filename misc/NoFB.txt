@@ -1394,6 +1394,7 @@ snaptu-mini.facebook.com
 snaptu-p1.facebook.com
 snaptu-p2.facebook.com
 snaptu-z.facebook.com
+snr.whatsapp.net
 softtech.m.facebook.com
 sok.m.facebook.com
 sonar6-sea1-1.xx.fbcdn.net
@@ -1594,6 +1595,7 @@ vthumb.xx.fbcdn.net
 vupload2.vvv.facebook.com
 vupload.facebook.com
 w1527b17e1-gm3dcnrzguzdimru.snr.whatsapp.net
+w414333631-gi3dknzzgyzdcoa.snr.whatsapp.net
 web.beta.facebook.com
 webdav.facebook.com
 web.facebook.com

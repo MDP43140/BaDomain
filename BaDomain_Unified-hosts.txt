@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.08.2022
+# Version: 13.08.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -442,6 +442,7 @@
 127.0.0.1 api.qiscus.com
 127.0.0.1 api.resso.app
 127.0.0.1 api.revenuecat.com
+127.0.0.1 api.scooper.news
 127.0.0.1 api-sdk.datadome.co
 127.0.0.1 api.segment.io
 127.0.0.1 api.sg.mangatoon.mobi
@@ -586,6 +587,7 @@
 127.0.0.1 asia-third-appstore.vivoglobal.com
 127.0.0.1 asia-timesync.vivoglobal.com
 127.0.0.1 asia-upload-appstore.vivoglobal.com
+127.0.0.1 asia-usrsys-api.vivoglobal.com
 127.0.0.1 asia-vcode-api.vivoglobal.com
 127.0.0.1 asia-vcode-od.vivoglobal.com
 127.0.0.1 asia-vcode-or.vivoglobal.com
@@ -593,6 +595,7 @@
 127.0.0.1 asia-weather.vivoglobal.com
 127.0.0.1 asia-wifi.vivoglobal.com
 127.0.0.1 askmen.com
+127.0.0.1 assets16.resso.app
 127.0.0.1 assets5.lottiefiles.com
 127.0.0.1 assets7.lottiefiles.com
 127.0.0.1 assets9.lottiefiles.com
@@ -807,6 +810,7 @@
 127.0.0.1 cdn-146.privacy-mgmt.com
 127.0.0.1 cdn1.codashop.com
 127.0.0.1 cdn1-production-images-kly.akamaized.net
+127.0.0.1 cdn1.scooper.news
 127.0.0.1 cdn-1.tstatic.net
 127.0.0.1 cdn1.uzone.id
 127.0.0.1 cdn2.editmysite.com
@@ -1196,6 +1200,7 @@
 127.0.0.1 data.ai
 127.0.0.1 data.appsinnova.com
 127.0.0.1 data.bilibili.tv
+127.0.0.1 data.biliintl.com
 127.0.0.1 datadoghq.com
 127.0.0.1 datadome.co
 127.0.0.1 data.flurry.com
@@ -1367,6 +1372,7 @@
 127.0.0.1 editor-upload-cdn.optimonk.com
 127.0.0.1 eep.io
 127.0.0.1 eezegrip.net
+127.0.0.1 effect.resso.app
 127.0.0.1 ejvonlyrik.com
 127.0.0.1 ekiga.net
 127.0.0.1 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
@@ -1606,6 +1612,7 @@
 127.0.0.1 ghbtns.com
 127.0.0.1 ghost.org
 127.0.0.1 gift.bignox.com
+127.0.0.1 giphy.com
 127.0.0.1 gitkraken.com
 127.0.0.1 glamour.com
 127.0.0.1 glanceapis.com
@@ -2123,6 +2130,7 @@
 127.0.0.1 kendedes.uzone.id
 127.0.0.1 kepler.51y5.net
 127.0.0.1 kepler.y5en.com
+127.0.0.1 keybag.id.mi.com
 127.0.0.1 keyvalueservice.icloud.com
 127.0.0.1 kidozplayer.com
 127.0.0.1 kika-backend.com
@@ -2318,6 +2326,7 @@
 127.0.0.1 mdp-appconf-us.heytapdl.com
 127.0.0.1 medallia.com
 127.0.0.1 medals.bizrate.com
+127.0.0.1 media0.giphy.com
 127.0.0.1 media2.s-nbcnews.com
 127.0.0.1 media6degrees.com
 127.0.0.1 media-amazon.com
@@ -2679,6 +2688,7 @@
 127.0.0.1 partiality.itunes.apple.com
 127.0.0.1 partner.toutiao.com
 127.0.0.1 passport.bignox.com
+127.0.0.1 passport.biliintl.com
 127.0.0.1 passportlab.xyz
 127.0.0.1 passport-us.bignox.com
 127.0.0.1 passport.yeshen.com
@@ -3220,6 +3230,7 @@
 127.0.0.1 sp-497f6f2f.honzik.avcdn.net
 127.0.0.1 sp-607ddbd2.honzik.avcdn.net
 127.0.0.1 space.toutiao.com
+127.0.0.1 spacex.plus
 127.0.0.1 spanishcoursesunamuno.com
 127.0.0.1 spatial.fineboost.com
 127.0.0.1 specialdate.my.id
@@ -3498,6 +3509,7 @@
 127.0.0.1 tracking.g2crowd.com
 127.0.0.1 tracking.trnox.com
 127.0.0.1 track-mixer.ru
+127.0.0.1 track.scooper.news
 127.0.0.1 trackwilly.com
 127.0.0.1 trafficmanager.net
 127.0.0.1 trailhead.salesforce.com
@@ -3877,6 +3889,7 @@
 127.0.0.1 www.g2crowd.com
 127.0.0.1 www.garagewestrotterdam.nl
 127.0.0.1 www.geowf.ge
+127.0.0.1 www.giphy.com
 127.0.0.1 www.glamour.com
 127.0.0.1 www.glassbox.com
 127.0.0.1 www.go2cloud.org
@@ -5524,6 +5537,7 @@
 127.0.0.1 snaptu-p1.facebook.com
 127.0.0.1 snaptu-p2.facebook.com
 127.0.0.1 snaptu-z.facebook.com
+127.0.0.1 snr.whatsapp.net
 127.0.0.1 softtech.m.facebook.com
 127.0.0.1 sok.m.facebook.com
 127.0.0.1 sonar6-sea1-1.xx.fbcdn.net
@@ -5724,6 +5738,7 @@
 127.0.0.1 vupload2.vvv.facebook.com
 127.0.0.1 vupload.facebook.com
 127.0.0.1 w1527b17e1-gm3dcnrzguzdimru.snr.whatsapp.net
+127.0.0.1 w414333631-gi3dknzzgyzdcoa.snr.whatsapp.net
 127.0.0.1 web.beta.facebook.com
 127.0.0.1 webdav.facebook.com
 127.0.0.1 web.facebook.com
@@ -7161,6 +7176,7 @@
 127.0.0.1 hotapi-cn.snssdk.com.w.kunluncan.com
 127.0.0.1 hotapi-i18n.tiktokv.com
 127.0.0.1 hotapi.sgsnssdk.com
+127.0.0.1 hotapi-sg.tiktokv.com
 127.0.0.1 hotapi-va.isnssdk.com
 127.0.0.1 hotapi-va.isnssdk.com.edgekey.net
 127.0.0.1 hotsoon-a-hl.snssdk.com
@@ -7903,6 +7919,7 @@
 127.0.0.1 p16-sg.xzcs3zlph.com
 127.0.0.1 p16-sg.xzcs3zlph.com.edgesuite.net
 127.0.0.1 p16-sign-sg.tiktokcdn.com
+127.0.0.1 p16-sign.tiktokcdn-us.com
 127.0.0.1 p16-sign-va.tiktokcdn.com
 127.0.0.1 p16-tcscdn.byteoversea.com
 127.0.0.1 p16-tcscdn.byteoversea.com.edgekey.net
@@ -7954,6 +7971,7 @@
 127.0.0.1 p19-capcut-sg.ibyteimg.com
 127.0.0.1 p19.hypstarcdn.com
 127.0.0.1 p-19-oec-sg.ibyteimg.com
+127.0.0.1 p19-sign.tiktokcdn-us.com
 127.0.0.1 p19-webcast.hypstarcdn.com
 127.0.0.1 p19-webcast.muscdn.com
 127.0.0.1 p19-webcast.tiktokcdn.com
@@ -8121,6 +8139,7 @@
 127.0.0.1 p6-xg.pstatp.com
 127.0.0.1 p77-sg.tiktokcdn.com
 127.0.0.1 p77-sign-sg.tiktokcdn.com
+127.0.0.1 p77-sign-va-lite.tiktokcdn.com
 127.0.0.1 p77-sign-va.tiktokcdn.com
 127.0.0.1 p77-va.tiktokcdn.com
 127.0.0.1 p7-dy.bytecdn.cn
@@ -8997,6 +9016,7 @@
 127.0.0.1 tiktokcdn.com.w.kunlunsl.com
 127.0.0.1 tiktokcdn.com.wsdvs.com
 127.0.0.1 tiktokcdn.liveplay.myqcloud.com
+127.0.0.1 tiktokcdn-us.com
 127.0.0.1 tiktok.cdnvideo.ru
 127.0.0.1 tiktok.com
 127.0.0.1 tiktok.com.c.footprint.net
