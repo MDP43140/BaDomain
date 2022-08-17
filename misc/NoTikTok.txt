@@ -2121,6 +2121,7 @@ press-dyn-ali-c.snssdk.com
 press-dyn-ali-d.snssdk.com
 press-dyn-ali-e.snssdk.com
 press-dyn-ali.snssdk.com
+private-attribution.us.tiktokv.com
 p.sgpstatp.com
 p.sgsnssdk.com
 pstatp.com
@@ -3092,6 +3093,7 @@ tos-nc2-slb1.bytecdn.cn
 tos-nc2-slb2.bytecdn.cn
 tos-nc2.snssdk.com
 tos.pstatp.com
+tos-quic-awssg.tiktokcdn.com
 tos-quic-gcpid.tiktokcdn.com
 tos-quic-sg.tiktokcdn.com
 tos-useast2a16-up.byteoversea.net

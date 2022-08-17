@@ -2121,6 +2121,7 @@
 127.0.0.1 press-dyn-ali-d.snssdk.com
 127.0.0.1 press-dyn-ali-e.snssdk.com
 127.0.0.1 press-dyn-ali.snssdk.com
+127.0.0.1 private-attribution.us.tiktokv.com
 127.0.0.1 p.sgpstatp.com
 127.0.0.1 p.sgsnssdk.com
 127.0.0.1 pstatp.com
@@ -3092,6 +3093,7 @@
 127.0.0.1 tos-nc2-slb2.bytecdn.cn
 127.0.0.1 tos-nc2.snssdk.com
 127.0.0.1 tos.pstatp.com
+127.0.0.1 tos-quic-awssg.tiktokcdn.com
 127.0.0.1 tos-quic-gcpid.tiktokcdn.com
 127.0.0.1 tos-quic-sg.tiktokcdn.com
 127.0.0.1 tos-useast2a16-up.byteoversea.net

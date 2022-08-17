@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 13.08.2022
+# Version: 17.08.2022
 # Update: 1 day
 #
 
@@ -21,6 +21,7 @@
 163.com
 166co.com
 166.net
+18000.me
 18183.com
 18cams.xyz
 18like.uno
@@ -36,6 +37,7 @@
 232.138.196.35.bc.googleusercontent.com
 247extratech.com
 247hacks.net
+24-courier.push.apple.com
 2828691.group41.sites.hubspot.net
 2ktgy3.yw7nm3.com
 2mdn.net
@@ -59,6 +61,9 @@
 4835415.fs1.hubspotusercontent-na1.net
 49-courier.push.apple.com
 4cinsights.com
+4gnetfree.top
+4g-net.top
+4gnet.top
 4mads.com
 5140.deeginews.com
 51.appmeasurements.com
@@ -85,6 +90,8 @@
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 91busgame.com
 94.110.204.35.bc.googleusercontent.com
+95-217-35-153.serverhub.ru
+9933gg.com
 9C8B0AE1.dr.youme.im
 9C8B0AE1.rtc.youme.im
 a01.uadexchange.com
@@ -121,6 +128,8 @@ a.ak.prd.aadg.trafficmanager.net
 a.applovin.com
 aaxads.com
 a.b21239b48c28b76ab0fadd9390384ca24cfcd6a986907259ad0b9967.com
+abcsport3.com
+abcsport8.com
 abesu.org
 about2.xyz
 aboutads.com
@@ -140,6 +149,7 @@ account.xiaomi.com
 accuweather-com.videoplayerhub.com
 acc.wetvinfo.com
 acegen.uno
+acircle.vip
 acs.maribacaberita.com
 acs-m.lazada.co.id
 acs-m.lazada.sg
@@ -174,6 +184,7 @@ adlog.flurry.com
 adlook.me
 ad.lsosdoc.com
 ad.mail.ru
+admin-3.oss-cn-hongkong.aliyuncs.com
 admin.justin.tv
 admin.qidian.qq.com
 admixplay.com
@@ -265,6 +276,7 @@ akimg.icocofun.com
 ak.itlatiaser.com
 ak.prd.aadg.akadns.net
 ak.prd.aadg.trafficmanager.net
+aktup.bangcdn.net
 album-sg01a.ocloud.heytapmobi.com
 alexametrics.com
 alexmods.com
@@ -408,6 +420,7 @@ api.kwai.com
 api-leap.nbcsports.com
 api.likee.video
 api.like-it.video
+api.livechatinc.com
 api.map.baidu.com
 ap.ime.cdn.cootekservice.com
 ap.ime.cootek.com
@@ -438,6 +451,8 @@ api.pro.kikakeyboard.com
 api.qiscus.com
 api.resso.app
 api.revenuecat.com
+api.saasexch.com
+api.samsungcloud.com
 api.scooper.news
 api-sdk.datadome.co
 api.segment.io
@@ -451,6 +466,7 @@ api.snapkit.com
 apisnd.heytapmobi.com
 api.sportskeeda.com
 apissug-sf.ucweb.com
+api.staging.livechatinc.com
 api-stream.twitter.com
 api.tenor.com
 api.teslacoilapps.com
@@ -516,6 +532,7 @@ app.securiti.ai
 appsflyer.com
 apps.i59400f.xyz
 appsinnova.com
+app-site-association.cdn-apple.com
 app-sj30.marketo.com
 app.slickstream.com
 app.snapchat.com
@@ -559,6 +576,7 @@ asia-f-up.vivoglobal.com
 asia-gamecenter.vivoglobal.com
 asia-gsearch.vivoglobal.com
 asia-img-appstore.vivoglobal.com
+asia-magazineunlockstatic.vivoglobal.com
 asia-magazineunlock.vivoglobal.com
 asia-mailcli.vivoglobal.com
 asia-news-abroad-backstage-interface.vivoglobal.com
@@ -616,6 +634,7 @@ atrace-api.palmplaystore.com
 attention-system-warning.com
 attitude.applinzi.com
 atwola.com
+auction-banner.unityads.unity3d.com
 auction.unityads.unity3d.com
 audid-api-sg.taobao.com
 audience.contextads.live
@@ -657,6 +676,7 @@ baca.co.id
 backjawtanoa.com
 bae.appmeasurements.com
 bag.itunes.apple.com
+bag-smoot.v.aaplimg.com
 baidu.com
 baidustatic.com
 baike.sogou.com
@@ -674,6 +694,7 @@ bc0a.com
 bdapi-f.ads.heytapmobi.com
 bdapi-f.ads.heytapmobile.com
 bdapi-id.ads.heytapmobile.com
+bdysite.com
 beacon-fra1.rubiconproject.com
 beacon-fra2.rubiconproject.com
 beacon.page
@@ -745,6 +766,7 @@ brainly.app.link
 braintreegateway.com
 branch.io
 brand-display.com
+braze-images.com
 brightcove.net
 britepool.com
 broadcast.biliintl.com
@@ -782,6 +804,7 @@ cahoots.com
 calibermind.com
 candycrushsaga.king.com
 c-api-bit.shopeemobile.com
+c-api.gos-gsp.io
 caping.co.id
 capitalone-resources.digital-cloud.medallia.com
 capitalone-udc.digital-cloud.medallia.com
@@ -792,6 +815,7 @@ carbonads.com
 cardboard.ge
 cardgen.uno
 carlcare.com
+carrentalcrew.com
 carrers.pho.to
 casalemedia.com
 cashend.me
@@ -859,7 +883,9 @@ cdn.jifo.co
 cdn.joinbudapp.com
 cdn.jwplayer.com
 cdn.kidozplayer.com
+cdn.liftoff-creatives.io
 cdn.link4app.com
+cdn.livechatinc.com
 cdnm3.caping.co.id
 cdn.metarouter.io
 cdn.mxpnl.com
@@ -976,6 +1002,7 @@ cn-e-pic-ws.mangatoon.mobi
 cnevids.com
 cnnx.io
 cn.pool.ntp.org
+cnyhyl.cn
 cnzz.com
 co.com
 codashop.com
@@ -1307,6 +1334,7 @@ dokl7xqu9svnv.cloudfront.net
 dollarbrite.com
 domaincfg.vivoglobal.com
 domain.trialogger.com
+domain.zongg.top
 do-not-tracker.org
 dosgen.monster
 dot.iq.com
@@ -1326,6 +1354,7 @@ drift.com
 driftt.com
 driver-image-preprocessed-production.s3.amazonaws.com
 drone-sg.xunyou.mobi
+druglike.com
 dr.youme.im
 ds2.shalltry.com
 dsail-tech.com
@@ -1333,6 +1362,7 @@ dsms0mj1bbhn4.cloudfront.net
 dsp.baidu.com
 dspunion.com
 ds.shalltry.com
+ds-test.shalltry.com
 dsu-a.shalltry.com
 dt2lb.madfingergames.com
 dts.like-it.video
@@ -1457,6 +1487,7 @@ fans.sports.qq.com
 farmcityer.com
 farsroid.com
 fast.wistia.com
+fbs.smoot.apple.com
 feabtest.prod.tvlk-data.com
 feebhax.com
 feed1.yukbacaberita.com
@@ -1598,6 +1629,7 @@ germs-love.store
 get-bx.g.aaplimg.com
 getclicky.com
 getduckduckgo.com
+getgo.com
 getlasso.co
 getsitecontrol.com
 g.ezoic.net
@@ -1720,6 +1752,7 @@ gw.ruangguru.com
 gws.line.naver.jp
 gwwdhkwtswtjc
 gwx.line.naver.jp
+gxycoj.com
 g-zgroup.pstatic.net
 g-zt.uvfuns.com
 h2ocdn.lavasoft.com
@@ -1918,6 +1951,7 @@ ilyon.net
 image.bignox.com
 image-cdn.joinbudapp.com
 images.anime-pictures.net
+images.bitmoji.com
 images.ctfassets.net
 images.idtopnews.com
 image.slidesharecdn.com
@@ -2013,6 +2047,7 @@ intellitxt.com
 intercomassets.com
 intercomcdn.com
 intercom.io
+internal.faceunity.com
 internetpositif.uzone.id
 in-third-appstore.vivoglobal.com
 intlapi.cdo.oppomobile.com
@@ -2128,6 +2163,7 @@ kepler.51y5.net
 kepler.y5en.com
 keybag.id.mi.com
 keyvalueservice.icloud.com
+kgsports-apk.acircle.vip
 kidozplayer.com
 kika-backend.com
 kikakeyboard.com
@@ -2219,6 +2255,9 @@ liteapi.ekatox.com
 litemsg.ekatox.com
 litix.io
 live.chartboost.com
+livechat.com
+livechat.containers.piwik.pro
+livechatinc.com
 live.messagebird.com
 live.shopee.co.id
 livetech.live.shopee.co.id
@@ -2227,6 +2266,7 @@ livoop.com
 ljhmcithwuigm.xyz
 lkqd.net
 lmhorse.se
+lmiutil.com
 lngtd.com
 lnk.news
 load18.biz
@@ -2406,6 +2446,7 @@ mobile.useinsider.com
 mobile.webvisor.com
 mobile.yandex.net
 mobredirect.net
+mobvista.com
 modgen.uno
 moengage.com
 momentive.ai
@@ -2580,13 +2621,16 @@ omgid.qq.com
 omlet.me
 omnithrottle.com
 omtrdc.net
+ondigitalocean.app
 oneboost.me
+oneclient.sfx.ms
 one.cryptonomiconf.com
 one.progmxs.com
 onesignal.com
 onesoft.com.vn
 onetrust.com
 onezapp.com
+online.lenzmx.com
 onnanoko.tokyo
 opc.cloud.tencent.com
 openapi.joox.com
@@ -2617,7 +2661,9 @@ osfeature.shalltry.com
 oshola.shalltry.com
 oslab.shalltry.com
 os-notice.shalltry.com
+oss-admin.cnyhyl.cn
 ossgw.alicdn.com
+oss-usdtt.cnyhyl.cn
 ostrichesica.com
 osupdate2020.shalltry.com
 osupdate.shalltry.com
@@ -2778,6 +2824,7 @@ popular.kiwibrowser.com
 pornozot.com
 portal.mail.ru
 portal-sg.xunyou.mobi
+port.sec.intl.miui.com
 postaffiliatepro.com
 postback.applinzi.com
 postrelease.com
@@ -2903,10 +2950,12 @@ ranyipclub.net
 r.apkpure.net
 rarefix.info
 ravenjs.com
+rayjump.com
 rbux88.com
 rbxr.monster
 rbxton.online
 rdr.mobiletime.net
+ready.whatssappa.xyz
 rebuilt.pro.ilovexclub.com
 rebuilt.pro.ilovexclub.net
 recommend.pa1mstore.com
@@ -3037,6 +3086,8 @@ s3.amazonaws.com
 s3-v2.cdngtc.com
 s6.layarkaca21.vip
 s8900.webovernet.com
+s9.cnzz.com
+saasexch.com
 safeframe.googlesyndication.com
 salesforce.com
 salesloft.com
@@ -3093,6 +3144,8 @@ secreto.site
 securebiz.org
 secure.greendot.com
 securegw.paytm.in
+secure-lc.livechatinc.com
+secure.livechatinc.com
 secure-media.hotstar.com
 securetoken.googleapis.com
 securiti.ai
@@ -3106,6 +3159,7 @@ sellwild.com
 semasio.net
 sendbird.com
 sendgrid.com
+se-new-cdn-ap-northeast-2a-hb.rayjump.com
 sensors.cloud.tencent.com
 sentry-cdn.com
 sentry.io
@@ -3113,6 +3167,7 @@ sentry.kumparan.com
 sentry.prod.mozaws.net
 servebom.com
 servedby-buysellads.com
+serverhub.ru
 server.update.bokts.com
 service.carlcare.com
 service.force.com
@@ -3195,6 +3250,7 @@ sm.bdimg.com
 sm.ms
 s.mobsrvapi.com
 smokey.lordofthequietbadgers.com
+smp-device-content.apple.com
 sms.webadv.co
 smushcdn.com
 snackvideo.com
@@ -3262,6 +3318,7 @@ sso.y5en.com
 ssp-39f58.trnox.com
 ssp-3-9f58.trnox.com
 sspapi-prd.samsungrs.com
+ssp.wp.pl
 st001004gj-apm.instabug.com
 st001004gj.instabug.com
 stackpathcdn.com
@@ -3292,9 +3349,11 @@ static.like-it.video
 static.messagebird.com
 static.mob.com
 static.pulse.mail.ru
+statics.creativecdn.com
 static.servicewebly.com
 statics.itc.cn
 statics-marketingsites-eus-ms-com.akamaized.net
+static-update.mobsrvapi.com
 static-webengage.s3.ap-southeast-1.amazonaws.com
 staticworld.net
 static.zdassets.com
@@ -3404,6 +3463,7 @@ t.bignox.com
 tch493077.tch.quora.com
 tch.quora.com
 tdcv3.talkingdata.net
+tdsjsext3.com
 teads.tv
 team.stagingapps.xyz
 techbargains.com
@@ -3411,6 +3471,7 @@ technologyadvice.com
 technopawns.com
 techrights.org
 tecno.servicewebly.com
+tenantlinet22.com
 tencent-cloud.cn
 tencent-cloud.com
 tencent.com
@@ -3548,6 +3609,7 @@ tx2-sgp-cdn.snackvideo.in
 tx.flv.nimo.tv
 tx.hls.nimo.tv
 tx-sgp-pic.snackvideo.in
+tyapi-juno.abcsport3.com
 ty-cdn.net
 tynt.com
 typeform.com
@@ -3603,6 +3665,7 @@ update.neptunegame.com
 upgrade.shalltry.com
 upload-dianshi-1255598498.file.myqcloud.com
 upoint.id
+upos-bstar1-mirrorakam.akamaized.net
 ur.alipay.com
 ureca.samsungapps.com
 usa.ime.cdn.cootekservice.com
@@ -3656,6 +3719,7 @@ vdo.ai
 vercel-analytics.com
 verify.uxcam.com
 veso2.xyz
+vfad-fb7az.ondigitalocean.app
 vgold.gameloft.com
 vibeacon.onezapp.com
 vibeaconstr.onezapp.com
@@ -3736,6 +3800,7 @@ wannos-hz.127.net
 wannos-oversea.127.net
 wap.bignox.com
 wap.sogou.com
+waridd.top
 warmthhh.online
 wa.tenor.co
 waterfox.net
@@ -3748,8 +3813,10 @@ weatherapi.market.xiaomi.com
 weather-data.apple.com
 weather-server-sg.allawnos.com
 webadv.co
+webanalytic.info
 webapi-clean.ikeepapps.com
 webdesignerdepot.com
+weblibrary.cdn.getgo.com
 web.likeitlite.com
 web.like-it.video
 web.money
@@ -3770,6 +3837,7 @@ webvisor.com
 wedn.best
 weglot.com
 weibo.com
+weihu.abcsport8.com
 weixin.sogou.com
 welcome.indihome.co.id
 wells-fargo-support-online-information.com
@@ -3781,6 +3849,7 @@ wesingapp.tsmusic.kg.qq.com
 westeurope2.caroda.io
 wetv.vip
 whatismyip.akamai.com
+whatssappa.xyz
 whippedfreezerbegun.com
 whoami.akamai.net
 whx66.veve.com
@@ -3802,6 +3871,7 @@ womenforlove.net
 wondershare.cc
 wootric.com
 wp20.ru
+wp.pl
 wpscdn.com
 wpvip.com
 ws-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
@@ -3830,8 +3900,12 @@ ww38.h2svr.info
 ww82.lontaranews.com
 www100.nathanaeldan.pro
 www.12377.cn
+www.18000.me
 www24.proservice.ge
 www.265.com
+www.4gnetfree.top
+www.4g-net.top
+www.4gnet.top
 www6.exonhack.com
 www76.nathanaeldan.pro
 www.acckwmhi.com
@@ -3917,6 +3991,8 @@ www.letucook.com
 www.linkedin.com
 www.litatom.com
 www.litix.io
+www.livechat.com
+www.livechat.comwww.livechat.com
 www.lovelybabestu.com
 www.magnite.com
 www.marketo.com
@@ -3928,6 +4004,7 @@ www.minoregimen.com
 www.minozodiac.com
 www.mob.com
 www.mobfox.com
+www.mobvista.com
 www.narratorsvoice.com
 www.nathanaeldan.pro
 www.notifa.info
@@ -3940,6 +4017,7 @@ www.qq.com
 www.quickgosearch.com
 www.quiztest.me
 www.ralijqugghwqil.com
+www.rayjump.com
 www.requesteasy.com
 www.rewards-cards.org
 www.robinhand.vip
@@ -3988,6 +4066,7 @@ www.vun.fyi
 www.vur.fyi
 www.vyn.fyi
 www.wajibbaca.top
+www.waridd.top
 www.wattpad.com
 www.webengage.com
 www.webovernet.com
@@ -3995,6 +4074,7 @@ www.website-files.com
 www.wlvpn.com
 www.wmtransfer.com
 www.womenforlove.net
+www.wp.pl
 www.wuildit.com
 www.wuueqejuratzdz.com
 www.xapoapp.com
@@ -4128,6 +4208,7 @@ zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com
 z-na.associates-amazon.com
 znews-photo.zingcdn.me
 znpst.top
+zongg.top
 zoominfo.com
 zos.alipayobjects.com
 zqtk.net
