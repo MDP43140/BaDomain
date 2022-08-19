@@ -952,6 +952,7 @@ gecko16-normal-c-useast1a.tiktokv.com.edgesuite.net
 gecko16-normal-c-useast2a.tiktokv.com
 gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
 gecko16-normal-useast2a.tiktokv.com
+gecko22-normal-useast2a.tiktokv.com
 gecko-cold.snssdk.com
 gecko-hl.snssdk.com
 gecko-hl.snssdk.com.w.kunluncan.com
@@ -2205,6 +2206,9 @@ pull-f5-xg.bytecdn.cn
 pull-fcdn-base-oversea.s.worldfcdn.com
 pull-fcdn.bytecdn.cn
 pull-fcdn-self-oversea.s.bytetcdn.com
+pull-flv-f10-gcp01.tiktokcdn.com
+pull-flv-f10-sg01.tiktokcdn.com
+pull-flv-f10-va01.tiktokcdn.com
 pull-flv-f11-ab.tiktokcdn.com
 pull-flv-f11-gcp01.tiktokcdn.com
 pull-flv-f11-sg01.tiktokcdn.com

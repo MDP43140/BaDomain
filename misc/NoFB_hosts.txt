@@ -843,6 +843,7 @@
 127.0.0.1 instagram.fbth2-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth3-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth5-1.fna.fbcdn.net
+127.0.0.1 instagram.fcgk12-1.fna.fbcdn.net
 127.0.0.1 instagram.fcgk18-2.fna.fbcdn.net
 127.0.0.1 instagram.fcgk24-1.fna.fbcdn.net
 127.0.0.1 instagram.fcgk24-2.fna.fbcdn.net
@@ -858,6 +859,7 @@
 127.0.0.1 instagram.fkix2-1.fna.fbcdn.net
 127.0.0.1 instagram.fkul14-1.fna.fbcdn.net
 127.0.0.1 instagram.fnag1-2.fna.fbcdn.net
+127.0.0.1 instagram.fngo1-1.fna.fbcdn.net
 127.0.0.1 instagram.fpen2-1.fna.fbcdn.net
 127.0.0.1 instagram.fpku1-1.fna.fbcdn.net
 127.0.0.1 instagram.fpku1-2.fna.fbcdn.net
@@ -1183,6 +1185,7 @@
 127.0.0.1 scontent.fcgh10-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgh11-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk10-1.fna.fbcdn.net
+127.0.0.1 scontent.fcgk12-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk24-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk24-2.fna.fbcdn.net
 127.0.0.1 scontent.fcgk3-2.fna.fbcdn.net
@@ -1750,6 +1753,7 @@
 127.0.0.1 zh-tw.facebook.com
 127.0.0.1 z-m-api.facebook.com
 127.0.0.1 z-m.c10r.facebook.com
+127.0.0.1 z-m-external.fpku1-3.fna.fbcdn.net
 127.0.0.1 z-m.facebook.com
 127.0.0.1 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
 127.0.0.1 z-m-fbcdn-shv-01-frt3.fbcdn.net
@@ -1771,6 +1775,7 @@
 127.0.0.1 z-m-scontent-eze.xx.fbcdn.net
 127.0.0.1 z-m-scontent.fbth3-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fceb1-1.fna.fbcdn.net
+127.0.0.1 z-m-scontent.fcgk4-6.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fdac1-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fmex10-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fpku1-1.fna.fbcdn.net
@@ -1793,6 +1798,8 @@
 127.0.0.1 z-m-scontent-nrt.xx.fbcdn.net
 127.0.0.1 z-m-scontent-ort.xx.fbcdn.net
 127.0.0.1 z-m-scontent-scl.xx.fbcdn.net
+127.0.0.1 z-m-scontent-sin6-2.xx.fbcdn.net
+127.0.0.1 z-m-scontent-sin6-4.xx.fbcdn.net
 127.0.0.1 z-m-scontent-sin.xx.fbcdn.net
 127.0.0.1 z-m-scontent-sit.xx.fbcdn.net
 127.0.0.1 z-m-scontent-sjc.xx.fbcdn.net

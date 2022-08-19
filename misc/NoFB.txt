@@ -842,6 +842,7 @@ instagram.fbth1-1.fna.fbcdn.net
 instagram.fbth2-1.fna.fbcdn.net
 instagram.fbth3-1.fna.fbcdn.net
 instagram.fbth5-1.fna.fbcdn.net
+instagram.fcgk12-1.fna.fbcdn.net
 instagram.fcgk18-2.fna.fbcdn.net
 instagram.fcgk24-1.fna.fbcdn.net
 instagram.fcgk24-2.fna.fbcdn.net
@@ -857,6 +858,7 @@ instagram.fhyd12-1.fna.fbcdn.net
 instagram.fkix2-1.fna.fbcdn.net
 instagram.fkul14-1.fna.fbcdn.net
 instagram.fnag1-2.fna.fbcdn.net
+instagram.fngo1-1.fna.fbcdn.net
 instagram.fpen2-1.fna.fbcdn.net
 instagram.fpku1-1.fna.fbcdn.net
 instagram.fpku1-2.fna.fbcdn.net
@@ -1182,6 +1184,7 @@ scontent.fcgb1-1.fna.fbcdn.net
 scontent.fcgh10-1.fna.fbcdn.net
 scontent.fcgh11-1.fna.fbcdn.net
 scontent.fcgk10-1.fna.fbcdn.net
+scontent.fcgk12-1.fna.fbcdn.net
 scontent.fcgk24-1.fna.fbcdn.net
 scontent.fcgk24-2.fna.fbcdn.net
 scontent.fcgk3-2.fna.fbcdn.net
@@ -1749,6 +1752,7 @@ zh-hk.facebook.com
 zh-tw.facebook.com
 z-m-api.facebook.com
 z-m.c10r.facebook.com
+z-m-external.fpku1-3.fna.fbcdn.net
 z-m.facebook.com
 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
 z-m-fbcdn-shv-01-frt3.fbcdn.net
@@ -1770,6 +1774,7 @@ z-m-scontent-dft.xx.fbcdn.net
 z-m-scontent-eze.xx.fbcdn.net
 z-m-scontent.fbth3-1.fna.fbcdn.net
 z-m-scontent.fceb1-1.fna.fbcdn.net
+z-m-scontent.fcgk4-6.fna.fbcdn.net
 z-m-scontent.fdac1-1.fna.fbcdn.net
 z-m-scontent.fmex10-1.fna.fbcdn.net
 z-m-scontent.fpku1-1.fna.fbcdn.net
@@ -1792,6 +1797,8 @@ z-m-scontent-mxp.xx.fbcdn.net
 z-m-scontent-nrt.xx.fbcdn.net
 z-m-scontent-ort.xx.fbcdn.net
 z-m-scontent-scl.xx.fbcdn.net
+z-m-scontent-sin6-2.xx.fbcdn.net
+z-m-scontent-sin6-4.xx.fbcdn.net
 z-m-scontent-sin.xx.fbcdn.net
 z-m-scontent-sit.xx.fbcdn.net
 z-m-scontent-sjc.xx.fbcdn.net

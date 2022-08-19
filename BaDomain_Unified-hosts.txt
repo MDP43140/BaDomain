@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.08.2022
+# Version: 19.08.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -17,10 +17,13 @@
 127.0.0.1 0.news20.biz
 127.0.0.1 0.ygti905ffth6.com
 127.0.0.1 101.249.211.130.bc.googleusercontent.com
+127.0.0.1 10-courier.push.apple.com
 127.0.0.1 1111210941.rsc.cdn77.org
 127.0.0.1 114dns.com
+127.0.0.1 11-courier.push.apple.com
 127.0.0.1 12377.cn
 127.0.0.1 123.sogou.com
+127.0.0.1 12-courier.push.apple.com
 127.0.0.1 133fitness.com
 127.0.0.1 163.com
 127.0.0.1 166co.com
@@ -29,6 +32,7 @@
 127.0.0.1 18183.com
 127.0.0.1 18cams.xyz
 127.0.0.1 18like.uno
+127.0.0.1 19-courier.push.apple.com
 127.0.0.1 1.cn.pool.ntp.org
 127.0.0.1 1g5k5w.com
 127.0.0.1 1.oca.nflxvideo.net
@@ -42,15 +46,20 @@
 127.0.0.1 247extratech.com
 127.0.0.1 247hacks.net
 127.0.0.1 24-courier.push.apple.com
+127.0.0.1 25-courier.push.apple.com
+127.0.0.1 27-courier.push.apple.com
 127.0.0.1 2828691.group41.sites.hubspot.net
 127.0.0.1 2ktgy3.yw7nm3.com
 127.0.0.1 2mdn.net
 127.0.0.1 2tx120.1g5k5w.com
 127.0.0.1 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
 127.0.0.1 30-courier.push.apple.com
+127.0.0.1 31-courier.push.apple.com
 127.0.0.1 320volt.com
 127.0.0.1 33across.com
+127.0.0.1 33-courier.push.apple.com
 127.0.0.1 344587-android-ds.metric.gstatic.com
+127.0.0.1 36-courier.push.apple.com
 127.0.0.1 39d0825d09f05.cdn.sohucs.com
 127.0.0.1 3.cn
 127.0.0.1 3lift.com
@@ -61,6 +70,7 @@
 127.0.0.1 448673-android-ds.metric.gstatic.com
 127.0.0.1 44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com
 127.0.0.1 44-courier.push.apple.com
+127.0.0.1 45-courier.push.apple.com
 127.0.0.1 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
 127.0.0.1 4835415.fs1.hubspotusercontent-na1.net
 127.0.0.1 49-courier.push.apple.com
@@ -77,6 +87,7 @@
 127.0.0.1 54.appmeasurements.com
 127.0.0.1 55.appmeasurements.com
 127.0.0.1 55bie1v.50zo.com
+127.0.0.1 5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 127.0.0.1 5b0988e595225.cdn.sohucs.com
 127.0.0.1 5hjdbfjfd5.monster
 127.0.0.1 5yme8j.xxobs5.com
@@ -98,6 +109,7 @@
 127.0.0.1 9933gg.com
 127.0.0.1 9C8B0AE1.dr.youme.im
 127.0.0.1 9C8B0AE1.rtc.youme.im
+127.0.0.1 9-courier.push.apple.com
 127.0.0.1 a01.uadexchange.com
 127.0.0.1 a02.uadexchange.com
 127.0.0.1 a03.uadexchange.com
@@ -110,6 +122,7 @@
 127.0.0.1 a1.applovin.com
 127.0.0.1 a1-sgp.easemob.com
 127.0.0.1 a2047.dscb.akamai.net
+127.0.0.1 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 127.0.0.1 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 127.0.0.1 a2.applovin.com
 127.0.0.1 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
@@ -890,6 +903,7 @@
 127.0.0.1 cdn.liftoff-creatives.io
 127.0.0.1 cdn.link4app.com
 127.0.0.1 cdn.livechatinc.com
+127.0.0.1 cdn.lr-ingest.io
 127.0.0.1 cdnm3.caping.co.id
 127.0.0.1 cdn.metarouter.io
 127.0.0.1 cdn.mxpnl.com
@@ -1352,6 +1366,7 @@
 127.0.0.1 download.iobit.com
 127.0.0.1 download-sin.dtignite.com
 127.0.0.1 downloads.intercomcdn.com
+127.0.0.1 downloads.mailchimp.com
 127.0.0.1 dragate-sg.dc.heytapmobi.com
 127.0.0.1 dragate-sg.dc.oppomobile.com
 127.0.0.1 drift.com
@@ -1372,6 +1387,7 @@
 127.0.0.1 dts.like-it.video
 127.0.0.1 dum5uv7xb9d66.cloudfront.net
 127.0.0.1 duolaipk.com
+127.0.0.1 d.wattpad.com
 127.0.0.1 dxp.baidu.com
 127.0.0.1 dzbkjh1.myoppo.com
 127.0.0.1 e10204.dsca.akamaiedge.net
@@ -1385,6 +1401,7 @@
 127.0.0.1 e7100.g.akamaiedge.net
 127.0.0.1 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 127.0.0.1 e.alipay.com
+127.0.0.1 easemob.com
 127.0.0.1 easymakesolution.com
 127.0.0.1 easyworldbusiness.com
 127.0.0.1 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
@@ -1749,6 +1766,7 @@
 127.0.0.1 guid.tpns.sgp.tencent.com
 127.0.0.1 gumgum.com
 127.0.0.1 gumroad.com
+127.0.0.1 guzzoni.apple.com
 127.0.0.1 gw.alipayobjects.com
 127.0.0.1 gw-dana.ebuckler.com
 127.0.0.1 gw-napi.zepeto.io
@@ -1910,6 +1928,7 @@
 127.0.0.1 id.maps.taxsee.com
 127.0.0.1 idm.iot.mi.com
 127.0.0.1 idola.net.id
+127.0.0.1 id.push.oppomobile.com
 127.0.0.1 id-search-appstore.vivoglobal.com
 127.0.0.1 idsearch.ucnews.ucweb.com
 127.0.0.1 id-static.z-dn.net
@@ -1961,6 +1980,7 @@
 127.0.0.1 image.slidesharecdn.com
 127.0.0.1 images.sc-cdn.net
 127.0.0.1 image.tmdb.org
+127.0.0.1 image.useinsider.com
 127.0.0.1 image.winudf.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 imdb.com
@@ -2253,6 +2273,7 @@
 127.0.0.1 linkvertise.com
 127.0.0.1 linkvertize.com
 127.0.0.1 listdl.com
+127.0.0.1 list-manage.com
 127.0.0.1 listoffreeware.com
 127.0.0.1 litatom.com
 127.0.0.1 liteapi.ekatox.com
@@ -2308,6 +2329,7 @@
 127.0.0.1 lottiefiles.com
 127.0.0.1 lovelybabestu.com
 127.0.0.1 loveme.uno
+127.0.0.1 lr-ingest.io
 127.0.0.1 ls.glanceapis.com
 127.0.0.1 lulusoft.com
 127.0.0.1 lunalabs.io
@@ -2359,6 +2381,7 @@
 127.0.0.1 mcds.wshareit.com
 127.0.0.1 mc-nat-t.cloudapp.net
 127.0.0.1 mcpecraft.ru
+127.0.0.1 mc.us18.list-manage.com
 127.0.0.1 mc.yandex.ru
 127.0.0.1 mdp-appconf-id.heytapdl.com
 127.0.0.1 mdp-appconf-mm.heytapdl.com
@@ -2366,6 +2389,7 @@
 127.0.0.1 mdp-appconf-us.heytapdl.com
 127.0.0.1 medallia.com
 127.0.0.1 medals.bizrate.com
+127.0.0.1 med.dtblt.com
 127.0.0.1 media0.giphy.com
 127.0.0.1 media2.s-nbcnews.com
 127.0.0.1 media6degrees.com
@@ -2477,6 +2501,7 @@
 127.0.0.1 msdk.shopee.co.id
 127.0.0.1 msearchcdn.kugou.com
 127.0.0.1 msecnd.net
+127.0.0.1 mserver-sgp.easemob.com
 127.0.0.1 msgacs-m.lazada.co.id
 127.0.0.1 msg.ekatox.com
 127.0.0.1 msg-intl.qy.net
@@ -2564,6 +2589,7 @@
 127.0.0.1 nmnm.lol
 127.0.0.1 no-cache.hubspot.com
 127.0.0.1 northpoleitalia.it
+127.0.0.1 noss.litatom.com
 127.0.0.1 notifa.info
 127.0.0.1 notificationsacademy.com
 127.0.0.1 notif.quizizz.com
@@ -2787,6 +2813,7 @@
 127.0.0.1 ping.huatuo.qq.com
 127.0.0.1 ping.im-gb.com
 127.0.0.1 pingma.qq.com
+127.0.0.1 pinguin.kredivo.com
 127.0.0.1 pinning-02.secb2b.com
 127.0.0.1 pinterest.gw-dv.net
 127.0.0.1 pinyin.sogou.com
@@ -3672,6 +3699,7 @@
 127.0.0.1 upos-bstar1-mirrorakam.akamaized.net
 127.0.0.1 ur.alipay.com
 127.0.0.1 ureca.samsungapps.com
+127.0.0.1 us18.list-manage.com
 127.0.0.1 usa.ime.cdn.cootekservice.com
 127.0.0.1 us.api.fc.mob.com
 127.0.0.1 us.api.fd.mob.com
@@ -5066,6 +5094,7 @@
 127.0.0.1 instagram.fbth2-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth3-1.fna.fbcdn.net
 127.0.0.1 instagram.fbth5-1.fna.fbcdn.net
+127.0.0.1 instagram.fcgk12-1.fna.fbcdn.net
 127.0.0.1 instagram.fcgk18-2.fna.fbcdn.net
 127.0.0.1 instagram.fcgk24-1.fna.fbcdn.net
 127.0.0.1 instagram.fcgk24-2.fna.fbcdn.net
@@ -5081,6 +5110,7 @@
 127.0.0.1 instagram.fkix2-1.fna.fbcdn.net
 127.0.0.1 instagram.fkul14-1.fna.fbcdn.net
 127.0.0.1 instagram.fnag1-2.fna.fbcdn.net
+127.0.0.1 instagram.fngo1-1.fna.fbcdn.net
 127.0.0.1 instagram.fpen2-1.fna.fbcdn.net
 127.0.0.1 instagram.fpku1-1.fna.fbcdn.net
 127.0.0.1 instagram.fpku1-2.fna.fbcdn.net
@@ -5406,6 +5436,7 @@
 127.0.0.1 scontent.fcgh10-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgh11-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk10-1.fna.fbcdn.net
+127.0.0.1 scontent.fcgk12-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk24-1.fna.fbcdn.net
 127.0.0.1 scontent.fcgk24-2.fna.fbcdn.net
 127.0.0.1 scontent.fcgk3-2.fna.fbcdn.net
@@ -5973,6 +6004,7 @@
 127.0.0.1 zh-tw.facebook.com
 127.0.0.1 z-m-api.facebook.com
 127.0.0.1 z-m.c10r.facebook.com
+127.0.0.1 z-m-external.fpku1-3.fna.fbcdn.net
 127.0.0.1 z-m.facebook.com
 127.0.0.1 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
 127.0.0.1 z-m-fbcdn-shv-01-frt3.fbcdn.net
@@ -5994,6 +6026,7 @@
 127.0.0.1 z-m-scontent-eze.xx.fbcdn.net
 127.0.0.1 z-m-scontent.fbth3-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fceb1-1.fna.fbcdn.net
+127.0.0.1 z-m-scontent.fcgk4-6.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fdac1-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fmex10-1.fna.fbcdn.net
 127.0.0.1 z-m-scontent.fpku1-1.fna.fbcdn.net
@@ -6016,6 +6049,8 @@
 127.0.0.1 z-m-scontent-nrt.xx.fbcdn.net
 127.0.0.1 z-m-scontent-ort.xx.fbcdn.net
 127.0.0.1 z-m-scontent-scl.xx.fbcdn.net
+127.0.0.1 z-m-scontent-sin6-2.xx.fbcdn.net
+127.0.0.1 z-m-scontent-sin6-4.xx.fbcdn.net
 127.0.0.1 z-m-scontent-sin.xx.fbcdn.net
 127.0.0.1 z-m-scontent-sit.xx.fbcdn.net
 127.0.0.1 z-m-scontent-sjc.xx.fbcdn.net
@@ -7179,6 +7214,7 @@
 127.0.0.1 gecko16-normal-c-useast2a.tiktokv.com
 127.0.0.1 gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
 127.0.0.1 gecko16-normal-useast2a.tiktokv.com
+127.0.0.1 gecko22-normal-useast2a.tiktokv.com
 127.0.0.1 gecko-cold.snssdk.com
 127.0.0.1 gecko-hl.snssdk.com
 127.0.0.1 gecko-hl.snssdk.com.w.kunluncan.com
@@ -8432,6 +8468,9 @@
 127.0.0.1 pull-fcdn-base-oversea.s.worldfcdn.com
 127.0.0.1 pull-fcdn.bytecdn.cn
 127.0.0.1 pull-fcdn-self-oversea.s.bytetcdn.com
+127.0.0.1 pull-flv-f10-gcp01.tiktokcdn.com
+127.0.0.1 pull-flv-f10-sg01.tiktokcdn.com
+127.0.0.1 pull-flv-f10-va01.tiktokcdn.com
 127.0.0.1 pull-flv-f11-ab.tiktokcdn.com
 127.0.0.1 pull-flv-f11-gcp01.tiktokcdn.com
 127.0.0.1 pull-flv-f11-sg01.tiktokcdn.com

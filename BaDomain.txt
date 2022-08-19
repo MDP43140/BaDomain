@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.08.2022
+# Version: 19.08.2022
 # Update: 1 day
 #
 
@@ -13,10 +13,13 @@
 0.news20.biz
 0.ygti905ffth6.com
 101.249.211.130.bc.googleusercontent.com
+10-courier.push.apple.com
 1111210941.rsc.cdn77.org
 114dns.com
+11-courier.push.apple.com
 12377.cn
 123.sogou.com
+12-courier.push.apple.com
 133fitness.com
 163.com
 166co.com
@@ -25,6 +28,7 @@
 18183.com
 18cams.xyz
 18like.uno
+19-courier.push.apple.com
 1.cn.pool.ntp.org
 1g5k5w.com
 1.oca.nflxvideo.net
@@ -38,15 +42,20 @@
 247extratech.com
 247hacks.net
 24-courier.push.apple.com
+25-courier.push.apple.com
+27-courier.push.apple.com
 2828691.group41.sites.hubspot.net
 2ktgy3.yw7nm3.com
 2mdn.net
 2tx120.1g5k5w.com
 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
 30-courier.push.apple.com
+31-courier.push.apple.com
 320volt.com
 33across.com
+33-courier.push.apple.com
 344587-android-ds.metric.gstatic.com
+36-courier.push.apple.com
 39d0825d09f05.cdn.sohucs.com
 3.cn
 3lift.com
@@ -57,6 +66,7 @@
 448673-android-ds.metric.gstatic.com
 44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com
 44-courier.push.apple.com
+45-courier.push.apple.com
 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
 4835415.fs1.hubspotusercontent-na1.net
 49-courier.push.apple.com
@@ -73,6 +83,7 @@
 54.appmeasurements.com
 55.appmeasurements.com
 55bie1v.50zo.com
+5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 5b0988e595225.cdn.sohucs.com
 5hjdbfjfd5.monster
 5yme8j.xxobs5.com
@@ -94,6 +105,7 @@
 9933gg.com
 9C8B0AE1.dr.youme.im
 9C8B0AE1.rtc.youme.im
+9-courier.push.apple.com
 a01.uadexchange.com
 a02.uadexchange.com
 a03.uadexchange.com
@@ -106,6 +118,7 @@ a1a4c40e556f413ef.awsglobalaccelerator.com
 a1.applovin.com
 a1-sgp.easemob.com
 a2047.dscb.akamai.net
+a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 a2.applovin.com
 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
@@ -886,6 +899,7 @@ cdn.kidozplayer.com
 cdn.liftoff-creatives.io
 cdn.link4app.com
 cdn.livechatinc.com
+cdn.lr-ingest.io
 cdnm3.caping.co.id
 cdn.metarouter.io
 cdn.mxpnl.com
@@ -1348,6 +1362,7 @@ download.bignox.com
 download.iobit.com
 download-sin.dtignite.com
 downloads.intercomcdn.com
+downloads.mailchimp.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 drift.com
@@ -1368,6 +1383,7 @@ dt2lb.madfingergames.com
 dts.like-it.video
 dum5uv7xb9d66.cloudfront.net
 duolaipk.com
+d.wattpad.com
 dxp.baidu.com
 dzbkjh1.myoppo.com
 e10204.dsca.akamaiedge.net
@@ -1381,6 +1397,7 @@ e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 e.alipay.com
+easemob.com
 easymakesolution.com
 easyworldbusiness.com
 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
@@ -1745,6 +1762,7 @@ guid.tpns.hk.tencent.com
 guid.tpns.sgp.tencent.com
 gumgum.com
 gumroad.com
+guzzoni.apple.com
 gw.alipayobjects.com
 gw-dana.ebuckler.com
 gw-napi.zepeto.io
@@ -1906,6 +1924,7 @@ id-main-appstore.vivoglobal.com
 id.maps.taxsee.com
 idm.iot.mi.com
 idola.net.id
+id.push.oppomobile.com
 id-search-appstore.vivoglobal.com
 idsearch.ucnews.ucweb.com
 id-static.z-dn.net
@@ -1957,6 +1976,7 @@ images.idtopnews.com
 image.slidesharecdn.com
 images.sc-cdn.net
 image.tmdb.org
+image.useinsider.com
 image.winudf.com
 imasdk.googleapis.com
 imdb.com
@@ -2249,6 +2269,7 @@ linksynergy.com
 linkvertise.com
 linkvertize.com
 listdl.com
+list-manage.com
 listoffreeware.com
 litatom.com
 liteapi.ekatox.com
@@ -2304,6 +2325,7 @@ lordofthequietbadgers.com
 lottiefiles.com
 lovelybabestu.com
 loveme.uno
+lr-ingest.io
 ls.glanceapis.com
 lulusoft.com
 lunalabs.io
@@ -2355,6 +2377,7 @@ m.caping.co.id
 mcds.wshareit.com
 mc-nat-t.cloudapp.net
 mcpecraft.ru
+mc.us18.list-manage.com
 mc.yandex.ru
 mdp-appconf-id.heytapdl.com
 mdp-appconf-mm.heytapdl.com
@@ -2362,6 +2385,7 @@ mdp-appconf-sg.heytapdl.com
 mdp-appconf-us.heytapdl.com
 medallia.com
 medals.bizrate.com
+med.dtblt.com
 media0.giphy.com
 media2.s-nbcnews.com
 media6degrees.com
@@ -2473,6 +2497,7 @@ m.scoopernews.com
 msdk.shopee.co.id
 msearchcdn.kugou.com
 msecnd.net
+mserver-sgp.easemob.com
 msgacs-m.lazada.co.id
 msg.ekatox.com
 msg-intl.qy.net
@@ -2560,6 +2585,7 @@ nj.cschannel.anticheatexpert.com
 nmnm.lol
 no-cache.hubspot.com
 northpoleitalia.it
+noss.litatom.com
 notifa.info
 notificationsacademy.com
 notif.quizizz.com
@@ -2783,6 +2809,7 @@ pingfore.qq.com
 ping.huatuo.qq.com
 ping.im-gb.com
 pingma.qq.com
+pinguin.kredivo.com
 pinning-02.secb2b.com
 pinterest.gw-dv.net
 pinyin.sogou.com
@@ -3668,6 +3695,7 @@ upoint.id
 upos-bstar1-mirrorakam.akamaized.net
 ur.alipay.com
 ureca.samsungapps.com
+us18.list-manage.com
 usa.ime.cdn.cootekservice.com
 us.api.fc.mob.com
 us.api.fd.mob.com
