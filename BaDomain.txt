@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.08.2022
+# Version: 21.08.2022
 # Update: 1 day
 #
 
@@ -1431,6 +1431,7 @@ embedwistia-a.akamaihd.net
 emebo.io
 e.metarouter.io
 empower-api.palmplaystore.com
+empru.online
 emxdgt.com
 en.bignox.com
 encrypted-tbn0.gstatic.com
@@ -2245,6 +2246,7 @@ lcdn-locator-usms11.apple.com.akadns.net
 leawo.org
 lencr.org
 letsgoconvert.com
+letusdomino.com
 lf16-geckocdn.bytegecko-i18n.com
 lf19-geckocdn.bytegecko-i18n.com
 l.getsitecontrol.com
@@ -2528,6 +2530,7 @@ mxptint.net
 myappsget.com
 my.bignox.com
 myfan.monster
+myfreecams.com
 myim3banner.kloc.co
 myjino.ru
 mypic.icu
@@ -3402,6 +3405,7 @@ stc.za.zaloapp.com
 steadfastsystem.com
 steelhousemedia.com
 stepsister.uno
+steveziogames.com
 st-exbrowser.vivoglobal.com
 stg-data-id.ads.heytapmobile.com
 st-hatena.com
@@ -3746,6 +3750,7 @@ vbw.vivoglobal.com
 vdo.ai
 vercel-analytics.com
 verify.uxcam.com
+verwohn.online
 veso2.xyz
 vfad-fb7az.ondigitalocean.app
 vgold.gameloft.com
@@ -4016,6 +4021,7 @@ www.kagaitiktok.net
 www.king.com
 www.kustens.com
 www.letucook.com
+www.letusdomino.com
 www.linkedin.com
 www.litatom.com
 www.litix.io
@@ -4062,6 +4068,7 @@ www.smartsuppchat.com
 www.sohu.com
 www.spanishcoursesunamuno.com
 www.stagingapps.xyz
+www.steveziogames.com
 www.sweet-girls18.com
 www.swiftypecdn.com
 www.taobao.com

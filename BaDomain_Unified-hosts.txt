@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.08.2022
+# Version: 21.08.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -1435,6 +1435,7 @@
 127.0.0.1 emebo.io
 127.0.0.1 e.metarouter.io
 127.0.0.1 empower-api.palmplaystore.com
+127.0.0.1 empru.online
 127.0.0.1 emxdgt.com
 127.0.0.1 en.bignox.com
 127.0.0.1 encrypted-tbn0.gstatic.com
@@ -2249,6 +2250,7 @@
 127.0.0.1 leawo.org
 127.0.0.1 lencr.org
 127.0.0.1 letsgoconvert.com
+127.0.0.1 letusdomino.com
 127.0.0.1 lf16-geckocdn.bytegecko-i18n.com
 127.0.0.1 lf19-geckocdn.bytegecko-i18n.com
 127.0.0.1 l.getsitecontrol.com
@@ -2532,6 +2534,7 @@
 127.0.0.1 myappsget.com
 127.0.0.1 my.bignox.com
 127.0.0.1 myfan.monster
+127.0.0.1 myfreecams.com
 127.0.0.1 myim3banner.kloc.co
 127.0.0.1 myjino.ru
 127.0.0.1 mypic.icu
@@ -3406,6 +3409,7 @@
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steelhousemedia.com
 127.0.0.1 stepsister.uno
+127.0.0.1 steveziogames.com
 127.0.0.1 st-exbrowser.vivoglobal.com
 127.0.0.1 stg-data-id.ads.heytapmobile.com
 127.0.0.1 st-hatena.com
@@ -3750,6 +3754,7 @@
 127.0.0.1 vdo.ai
 127.0.0.1 vercel-analytics.com
 127.0.0.1 verify.uxcam.com
+127.0.0.1 verwohn.online
 127.0.0.1 veso2.xyz
 127.0.0.1 vfad-fb7az.ondigitalocean.app
 127.0.0.1 vgold.gameloft.com
@@ -4020,6 +4025,7 @@
 127.0.0.1 www.king.com
 127.0.0.1 www.kustens.com
 127.0.0.1 www.letucook.com
+127.0.0.1 www.letusdomino.com
 127.0.0.1 www.linkedin.com
 127.0.0.1 www.litatom.com
 127.0.0.1 www.litix.io
@@ -4066,6 +4072,7 @@
 127.0.0.1 www.sohu.com
 127.0.0.1 www.spanishcoursesunamuno.com
 127.0.0.1 www.stagingapps.xyz
+127.0.0.1 www.steveziogames.com
 127.0.0.1 www.sweet-girls18.com
 127.0.0.1 www.swiftypecdn.com
 127.0.0.1 www.taobao.com
