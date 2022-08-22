@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 21.08.2022
+# Version: 22.08.2022
 # Update: 1 day
 #
 
@@ -335,6 +335,7 @@ anchor.fm
 androidads4-7.adcolony.com
 android-appboot.netflix.com
 android.bignox.com
+android.crashsight.wetest.net
 android-dcdn.pa1mstore.com
 android-dcdn.palmplaystore.com
 android-dcdn.palmst0re.com
@@ -359,9 +360,12 @@ ap-alps.y5en.com
 aparthotelmx.ge
 apester.com
 aphmes.xjwi5.com
+api1.boomplaymusic.com
 api22.resso.app
+api2.boomplaymusic.com
 api2.push.ilovexclub.com
 api31-normal-alisg.helo-api.com
+api3.boomplaymusic.com
 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
 api-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
 api.account.xiaomi.com
@@ -383,6 +387,7 @@ api.bilibili.tv
 api.biliintl.com
 api.black.riseup.net
 api.blocka.net
+api.boomplaymusic.com
 api.cleanmaster.club
 api.coin.baca.co.id
 api.data.appsinnova.com
@@ -669,6 +674,7 @@ avatar.pho.to
 avcdn.net
 a.vdo.ai
 avlyun.com
+avlyun.sec.miui.com
 a.wattpad.com
 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 aws.api.snapchat.com
@@ -771,6 +777,8 @@ boltdns.net
 bolt-gcdn.sc-cdn.net
 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 bombora.com
+boomplay.com
+boomplaymusic.com
 bootstrap.smartsuppchat.com
 bosbosupdate.com
 botsrv2.com
@@ -902,6 +910,7 @@ cdn.livechatinc.com
 cdn.lr-ingest.io
 cdnm3.caping.co.id
 cdn.metarouter.io
+cdnmore.com
 cdn.mxpnl.com
 cdn.otnolatrnup.com
 cdn.outfit7.com
@@ -945,6 +954,7 @@ cf-st.sc-cdn.net
 cfs.u-ad.info
 cfs.uzone.id
 c.ftblltrck.com
+cf.vskitcdn.com
 cg.foldlife.net
 chance4.xyz
 chandashi.com
@@ -972,6 +982,7 @@ cipro.ms
 cix.line-apps.com
 ckg.hk
 ckmvkzurnd.com
+cl3.apple.com
 cl4.apple.com
 cl4.apple.com.c.footprint.net
 cl5.apple.com
@@ -993,6 +1004,7 @@ cloudcache.tencent-cloud.com
 cloudcache.tencentcs.com
 cloudcf.like-it.video
 cloudctrl.gcloudsdk.com
+cloudctrl.igamecj.com
 cloudflareinsights.com
 cloudfront.net
 cloudi-in.browser.oppomobile.com
@@ -1052,6 +1064,7 @@ config.edge.skype.com
 config.e-droid.net
 config.qms.quicinc.com
 config.toolmatrix.plus
+config.toto.zipoapps.com
 config.unityads.unity3d.com
 configuration.ls.apple.com
 configv2.unityads.unity3d.com
@@ -1144,6 +1157,7 @@ cpmstar.com
 cpn.netcoresmartech.com
 cpx.to
 craft.pe
+crashsight.wetest.net
 crazygirls24.com
 creativecow.net
 creatives.contextads.live
@@ -1169,6 +1183,7 @@ cs491.wac.edgecastcdn.net
 cs9.wac.phicdn.net
 cs-center.uc.cn
 cse.avlyun.com
+cse.avlyun.sec.miui.com
 csf.uzone.id
 cshort.org
 c.slickstream.com
@@ -1616,6 +1631,7 @@ gamepe.ru
 gameportal.casa
 games.shopee.co.id
 gametool10.ml
+game.zuiqiangyingyu.net
 g-api.ekatox.com
 g-api.kwai.com
 g-api.kwai-pro.com
@@ -1745,6 +1761,7 @@ gslb.shalltry.com
 gs-loc.apple.com
 gs-loc.ls-apple.com.akadns.net
 gs-loc-new.ls-apple.com.akadns.net
+gsp36-ssl.ls.apple.com
 gsp64-ssl.ls.apple.com
 gsp64-ssl.ls-apple.com.akadns.net
 gsp85-ssl.ls.apple.com
@@ -1814,6 +1831,7 @@ history.google.com
 hk.api.unipay.qq.com
 hk.app.joox.com
 hk.slb.mob.com
+hkspeed.igamecj.com
 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
 hls-hw.others-cdn.com
 hm2.yrnykx.com
@@ -1957,6 +1975,7 @@ iframe.videodelivery.net
 ifrus.coloros.com
 ifsau.coloros.com
 if-sg.browser.oppomobile.com
+igamecj.com
 igapromomanager-pa.googleapis.com
 ign.com
 ignimgs.com
@@ -2036,6 +2055,7 @@ infohubnews.app
 in-gaap.snackvideo.in
 ingest.sentry.io
 init-cdn.itunes-apple.com.akadns.net
+init.ess.apple.com
 init.gc.apple.com
 init.itunes.apple.com
 init.push.apple.com
@@ -2079,8 +2099,10 @@ intuit.com
 invitereferrals.com
 iobit.com
 ios.bignox.com
+ios.crashsight.wetest.net
 i.otu.foreign.oppomobile.com
 ip-api.com
+ipcdn.apple.com
 iphone-ld.apple.com
 ipify.org
 ipinfo.io
@@ -2195,6 +2217,8 @@ kinja-com.videoplayerhub.com
 kinja-static.com
 kiwibrowser.org
 kiwiirc.com
+kix-ulog.kwai-pro.com
+kix-ulog.kwaipros.com
 klaviyo.com
 klimg.com
 klink.snackvideo.com
@@ -2294,6 +2318,7 @@ lngtd.com
 lnk.news
 load18.biz
 loadnova898.netlify.app
+lobby.igamecj.com
 localdate.monster
 locate.measurementlab.net
 location.apps.oppomobile.com
@@ -2421,6 +2446,7 @@ meteor.shalltry.com
 metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
 mgid.com
+mgl.lobby.igamecj.com
 m.harbourfunny.com
 mhy.link
 micloud.xiaomi.net
@@ -2448,6 +2474,7 @@ mirabelle.uno
 mis.bignox.com
 misc-pili-qos-report.qiniuapi.com
 miservice.comm.miui.com
+miui.com
 mix.aff-track.net
 mixerbabki.ru
 mixerparanas.ru
@@ -2662,6 +2689,7 @@ onezapp.com
 online.lenzmx.com
 onnanoko.tokyo
 opc.cloud.tencent.com
+op-data.zuiqiangyingyu.net
 openapi.joox.com
 open-api.spot.im
 openapi.webull.com
@@ -2728,6 +2756,8 @@ p16-va.topbuzzcdn.com
 p1.itc.cn
 p20.zdassets.com
 p2.itc.cn
+p36-acsgateway.icloud.com
+p36-contacts.icloud.com
 p3.itc.cn
 p4.itc.cn
 p55-keyvalueservice.icloud.com
@@ -2744,6 +2774,7 @@ pageonenewsapp.com
 page.portals.mobi
 pages.lazada.co.id
 page.widget.zalo.me
+palmpay.com
 palmplaystore.com
 pamelarioss.uno
 pancake.apple.com
@@ -3169,6 +3200,7 @@ search.kuwo.cn
 searchlite-pa.googleapis.com
 search-operate.cdn.bcebos.com
 search.ws.pho.to
+sec.miui.com
 secret20.com
 secreto.site
 securebiz.org
@@ -3191,6 +3223,7 @@ sendbird.com
 sendgrid.com
 se-new-cdn-ap-northeast-2a-hb.rayjump.com
 sensors.cloud.tencent.com
+sentry.boomplaymusic.com
 sentry-cdn.com
 sentry.io
 sentry.kumparan.com
@@ -3307,7 +3340,12 @@ sohucs.com
 sojern.com
 sonobi.com
 sonora.id
+soundiradio.com
 soup.wetvinfo.com
+source1.boomplaymusic.com
+source2.boomplaymusic.com
+source3.boomplaymusic.com
+source.boomplaymusic.com
 source.servicewebly.com
 sp-497f6f2f.honzik.avcdn.net
 sp-607ddbd2.honzik.avcdn.net
@@ -3412,6 +3450,8 @@ st-hatena.com
 stickerf.apps.oppomobile.com
 stickyadstv.com
 st.like-it.video
+stocks-data-service.apple.com
+stocks-edge.apple.com
 stocks-sparkline.apple.com
 storage.billy.bendingspoons.com
 storage.ws.pho.to
@@ -3583,6 +3623,7 @@ topgirls.uno
 topic-sticker-vending.snapchat.com
 toprbx.best
 toptradeguru.com
+toto.zipoapps.com
 toutiao.com
 tpai.caping.co.id
 tpns.sgp.tencent.com
@@ -3603,6 +3644,7 @@ trafficmanager.net
 trailhead.salesforce.com
 transacme.com
 transsion.com
+transsnet.com
 travelncs.com
 travel.rakuten.com
 tr.bignox.com
@@ -3810,6 +3852,7 @@ v.qq.com
 vs3.wshareit.com
 vs-api.like-it.video
 vs-api.wshareit.com
+vskitcdn.com
 vskit.tv
 v.sogou.com
 vthird-log.vskit.tv
@@ -3880,6 +3923,7 @@ wesingapp.com
 wesingapp.stream.kg.qq.com
 wesingapp.tsmusic.kg.qq.com
 westeurope2.caroda.io
+wetest.net
 wetv.vip
 whatismyip.akamai.com
 whatssappa.xyz
@@ -3961,7 +4005,10 @@ www.bignox.com
 www.bilibili.com
 www.bilibili.tv
 www.bizrate.com
+www.boomplay.com
+www.boomplaymusic.com
 www.braze.com
+www.cdnmore.com
 www.cdn.viber.com
 www.centurygames.com
 www.chandashi.com
@@ -4043,6 +4090,7 @@ www.narratorsvoice.com
 www.nathanaeldan.pro
 www.notifa.info
 www.noxinfluencer.com
+www.palmpay.com
 www.pdfcylsmo.com
 www.pdl.id
 www.portals.mobi
@@ -4066,6 +4114,7 @@ www.slickstream.com
 www.slideshare.net
 www.smartsuppchat.com
 www.sohu.com
+www.soundiradio.com
 www.spanishcoursesunamuno.com
 www.stagingapps.xyz
 www.steveziogames.com
@@ -4079,6 +4128,7 @@ www.thrifter.com
 www.tiqcdn.com
 www.tns-counter.ru
 www.toutiao.com
+www.transsnet.com
 www.turbotax.com
 www.turingfraud.net
 www.twilio.com
@@ -4132,6 +4182,7 @@ www.zingcdn.me
 www.zingload.com
 www.zingnews.vn
 www.zing.vn
+www.zuiqiangyingyu.net
 x18like.uno
 x1.i.lencr.org
 x2drop.com
@@ -4235,6 +4286,7 @@ zingcdn.me
 zingload.com
 zingnews.vn
 zing.vn
+zipoapps.com
 zjs.zingcdn.me
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com
@@ -4252,3 +4304,4 @@ zte.cn
 zte.com
 zte.com.cn
 zueirassemlimites.com
+zuiqiangyingyu.net

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 21.08.2022
+# Version: 22.08.2022
 # Update: 1 day
 #
 #not sure about these domain, cuz running dig command with dns @8.8.8.8 wont return any result, btw i got this from EndermanCH (u no tht windows malware reviewer).
@@ -334,6 +334,7 @@
 127.0.0.1 androidads4-7.adcolony.com
 127.0.0.1 android-appboot.netflix.com
 127.0.0.1 android.bignox.com
+127.0.0.1 android.crashsight.wetest.net
 127.0.0.1 android-dcdn.pa1mstore.com
 127.0.0.1 android-dcdn.palmplaystore.com
 127.0.0.1 android-dcdn.palmst0re.com
@@ -358,9 +359,12 @@
 127.0.0.1 aparthotelmx.ge
 127.0.0.1 apester.com
 127.0.0.1 aphmes.xjwi5.com
+127.0.0.1 api1.boomplaymusic.com
 127.0.0.1 api22.resso.app
+127.0.0.1 api2.boomplaymusic.com
 127.0.0.1 api2.push.ilovexclub.com
 127.0.0.1 api31-normal-alisg.helo-api.com
+127.0.0.1 api3.boomplaymusic.com
 127.0.0.1 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
 127.0.0.1 api-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
 127.0.0.1 api.account.xiaomi.com
@@ -382,6 +386,7 @@
 127.0.0.1 api.biliintl.com
 127.0.0.1 api.black.riseup.net
 127.0.0.1 api.blocka.net
+127.0.0.1 api.boomplaymusic.com
 127.0.0.1 api.cleanmaster.club
 127.0.0.1 api.coin.baca.co.id
 127.0.0.1 api.data.appsinnova.com
@@ -668,6 +673,7 @@
 127.0.0.1 avcdn.net
 127.0.0.1 a.vdo.ai
 127.0.0.1 avlyun.com
+127.0.0.1 avlyun.sec.miui.com
 127.0.0.1 a.wattpad.com
 127.0.0.1 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 127.0.0.1 aws.api.snapchat.com
@@ -770,6 +776,8 @@
 127.0.0.1 bolt-gcdn.sc-cdn.net
 127.0.0.1 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 127.0.0.1 bombora.com
+127.0.0.1 boomplay.com
+127.0.0.1 boomplaymusic.com
 127.0.0.1 bootstrap.smartsuppchat.com
 127.0.0.1 bosbosupdate.com
 127.0.0.1 botsrv2.com
@@ -901,6 +909,7 @@
 127.0.0.1 cdn.lr-ingest.io
 127.0.0.1 cdnm3.caping.co.id
 127.0.0.1 cdn.metarouter.io
+127.0.0.1 cdnmore.com
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.otnolatrnup.com
 127.0.0.1 cdn.outfit7.com
@@ -944,6 +953,7 @@
 127.0.0.1 cfs.u-ad.info
 127.0.0.1 cfs.uzone.id
 127.0.0.1 c.ftblltrck.com
+127.0.0.1 cf.vskitcdn.com
 127.0.0.1 cg.foldlife.net
 127.0.0.1 chance4.xyz
 127.0.0.1 chandashi.com
@@ -971,6 +981,7 @@
 127.0.0.1 cix.line-apps.com
 127.0.0.1 ckg.hk
 127.0.0.1 ckmvkzurnd.com
+127.0.0.1 cl3.apple.com
 127.0.0.1 cl4.apple.com
 127.0.0.1 cl4.apple.com.c.footprint.net
 127.0.0.1 cl5.apple.com
@@ -992,6 +1003,7 @@
 127.0.0.1 cloudcache.tencentcs.com
 127.0.0.1 cloudcf.like-it.video
 127.0.0.1 cloudctrl.gcloudsdk.com
+127.0.0.1 cloudctrl.igamecj.com
 127.0.0.1 cloudflareinsights.com
 127.0.0.1 cloudfront.net
 127.0.0.1 cloudi-in.browser.oppomobile.com
@@ -1051,6 +1063,7 @@
 127.0.0.1 config.e-droid.net
 127.0.0.1 config.qms.quicinc.com
 127.0.0.1 config.toolmatrix.plus
+127.0.0.1 config.toto.zipoapps.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configuration.ls.apple.com
 127.0.0.1 configv2.unityads.unity3d.com
@@ -1143,6 +1156,7 @@
 127.0.0.1 cpn.netcoresmartech.com
 127.0.0.1 cpx.to
 127.0.0.1 craft.pe
+127.0.0.1 crashsight.wetest.net
 127.0.0.1 crazygirls24.com
 127.0.0.1 creativecow.net
 127.0.0.1 creatives.contextads.live
@@ -1168,6 +1182,7 @@
 127.0.0.1 cs9.wac.phicdn.net
 127.0.0.1 cs-center.uc.cn
 127.0.0.1 cse.avlyun.com
+127.0.0.1 cse.avlyun.sec.miui.com
 127.0.0.1 csf.uzone.id
 127.0.0.1 cshort.org
 127.0.0.1 c.slickstream.com
@@ -1615,6 +1630,7 @@
 127.0.0.1 gameportal.casa
 127.0.0.1 games.shopee.co.id
 127.0.0.1 gametool10.ml
+127.0.0.1 game.zuiqiangyingyu.net
 127.0.0.1 g-api.ekatox.com
 127.0.0.1 g-api.kwai.com
 127.0.0.1 g-api.kwai-pro.com
@@ -1744,6 +1760,7 @@
 127.0.0.1 gs-loc.apple.com
 127.0.0.1 gs-loc.ls-apple.com.akadns.net
 127.0.0.1 gs-loc-new.ls-apple.com.akadns.net
+127.0.0.1 gsp36-ssl.ls.apple.com
 127.0.0.1 gsp64-ssl.ls.apple.com
 127.0.0.1 gsp64-ssl.ls-apple.com.akadns.net
 127.0.0.1 gsp85-ssl.ls.apple.com
@@ -1813,6 +1830,7 @@
 127.0.0.1 hk.api.unipay.qq.com
 127.0.0.1 hk.app.joox.com
 127.0.0.1 hk.slb.mob.com
+127.0.0.1 hkspeed.igamecj.com
 127.0.0.1 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
 127.0.0.1 hls-hw.others-cdn.com
 127.0.0.1 hm2.yrnykx.com
@@ -1956,6 +1974,7 @@
 127.0.0.1 ifrus.coloros.com
 127.0.0.1 ifsau.coloros.com
 127.0.0.1 if-sg.browser.oppomobile.com
+127.0.0.1 igamecj.com
 127.0.0.1 igapromomanager-pa.googleapis.com
 127.0.0.1 ign.com
 127.0.0.1 ignimgs.com
@@ -2035,6 +2054,7 @@
 127.0.0.1 in-gaap.snackvideo.in
 127.0.0.1 ingest.sentry.io
 127.0.0.1 init-cdn.itunes-apple.com.akadns.net
+127.0.0.1 init.ess.apple.com
 127.0.0.1 init.gc.apple.com
 127.0.0.1 init.itunes.apple.com
 127.0.0.1 init.push.apple.com
@@ -2078,8 +2098,10 @@
 127.0.0.1 invitereferrals.com
 127.0.0.1 iobit.com
 127.0.0.1 ios.bignox.com
+127.0.0.1 ios.crashsight.wetest.net
 127.0.0.1 i.otu.foreign.oppomobile.com
 127.0.0.1 ip-api.com
+127.0.0.1 ipcdn.apple.com
 127.0.0.1 iphone-ld.apple.com
 127.0.0.1 ipify.org
 127.0.0.1 ipinfo.io
@@ -2194,6 +2216,8 @@
 127.0.0.1 kinja-static.com
 127.0.0.1 kiwibrowser.org
 127.0.0.1 kiwiirc.com
+127.0.0.1 kix-ulog.kwai-pro.com
+127.0.0.1 kix-ulog.kwaipros.com
 127.0.0.1 klaviyo.com
 127.0.0.1 klimg.com
 127.0.0.1 klink.snackvideo.com
@@ -2293,6 +2317,7 @@
 127.0.0.1 lnk.news
 127.0.0.1 load18.biz
 127.0.0.1 loadnova898.netlify.app
+127.0.0.1 lobby.igamecj.com
 127.0.0.1 localdate.monster
 127.0.0.1 locate.measurementlab.net
 127.0.0.1 location.apps.oppomobile.com
@@ -2420,6 +2445,7 @@
 127.0.0.1 metok-ccc.intl.xiaomi.com
 127.0.0.1 metok.intl.xiaomi.com
 127.0.0.1 mgid.com
+127.0.0.1 mgl.lobby.igamecj.com
 127.0.0.1 m.harbourfunny.com
 127.0.0.1 mhy.link
 127.0.0.1 micloud.xiaomi.net
@@ -2447,6 +2473,7 @@
 127.0.0.1 mis.bignox.com
 127.0.0.1 misc-pili-qos-report.qiniuapi.com
 127.0.0.1 miservice.comm.miui.com
+127.0.0.1 miui.com
 127.0.0.1 mix.aff-track.net
 127.0.0.1 mixerbabki.ru
 127.0.0.1 mixerparanas.ru
@@ -2661,6 +2688,7 @@
 127.0.0.1 online.lenzmx.com
 127.0.0.1 onnanoko.tokyo
 127.0.0.1 opc.cloud.tencent.com
+127.0.0.1 op-data.zuiqiangyingyu.net
 127.0.0.1 openapi.joox.com
 127.0.0.1 open-api.spot.im
 127.0.0.1 openapi.webull.com
@@ -2727,6 +2755,8 @@
 127.0.0.1 p1.itc.cn
 127.0.0.1 p20.zdassets.com
 127.0.0.1 p2.itc.cn
+127.0.0.1 p36-acsgateway.icloud.com
+127.0.0.1 p36-contacts.icloud.com
 127.0.0.1 p3.itc.cn
 127.0.0.1 p4.itc.cn
 127.0.0.1 p55-keyvalueservice.icloud.com
@@ -2743,6 +2773,7 @@
 127.0.0.1 page.portals.mobi
 127.0.0.1 pages.lazada.co.id
 127.0.0.1 page.widget.zalo.me
+127.0.0.1 palmpay.com
 127.0.0.1 palmplaystore.com
 127.0.0.1 pamelarioss.uno
 127.0.0.1 pancake.apple.com
@@ -3168,6 +3199,7 @@
 127.0.0.1 searchlite-pa.googleapis.com
 127.0.0.1 search-operate.cdn.bcebos.com
 127.0.0.1 search.ws.pho.to
+127.0.0.1 sec.miui.com
 127.0.0.1 secret20.com
 127.0.0.1 secreto.site
 127.0.0.1 securebiz.org
@@ -3190,6 +3222,7 @@
 127.0.0.1 sendgrid.com
 127.0.0.1 se-new-cdn-ap-northeast-2a-hb.rayjump.com
 127.0.0.1 sensors.cloud.tencent.com
+127.0.0.1 sentry.boomplaymusic.com
 127.0.0.1 sentry-cdn.com
 127.0.0.1 sentry.io
 127.0.0.1 sentry.kumparan.com
@@ -3306,7 +3339,12 @@
 127.0.0.1 sojern.com
 127.0.0.1 sonobi.com
 127.0.0.1 sonora.id
+127.0.0.1 soundiradio.com
 127.0.0.1 soup.wetvinfo.com
+127.0.0.1 source1.boomplaymusic.com
+127.0.0.1 source2.boomplaymusic.com
+127.0.0.1 source3.boomplaymusic.com
+127.0.0.1 source.boomplaymusic.com
 127.0.0.1 source.servicewebly.com
 127.0.0.1 sp-497f6f2f.honzik.avcdn.net
 127.0.0.1 sp-607ddbd2.honzik.avcdn.net
@@ -3411,6 +3449,8 @@
 127.0.0.1 stickerf.apps.oppomobile.com
 127.0.0.1 stickyadstv.com
 127.0.0.1 st.like-it.video
+127.0.0.1 stocks-data-service.apple.com
+127.0.0.1 stocks-edge.apple.com
 127.0.0.1 stocks-sparkline.apple.com
 127.0.0.1 storage.billy.bendingspoons.com
 127.0.0.1 storage.ws.pho.to
@@ -3582,6 +3622,7 @@
 127.0.0.1 topic-sticker-vending.snapchat.com
 127.0.0.1 toprbx.best
 127.0.0.1 toptradeguru.com
+127.0.0.1 toto.zipoapps.com
 127.0.0.1 toutiao.com
 127.0.0.1 tpai.caping.co.id
 127.0.0.1 tpns.sgp.tencent.com
@@ -3602,6 +3643,7 @@
 127.0.0.1 trailhead.salesforce.com
 127.0.0.1 transacme.com
 127.0.0.1 transsion.com
+127.0.0.1 transsnet.com
 127.0.0.1 travelncs.com
 127.0.0.1 travel.rakuten.com
 127.0.0.1 tr.bignox.com
@@ -3809,6 +3851,7 @@
 127.0.0.1 vs3.wshareit.com
 127.0.0.1 vs-api.like-it.video
 127.0.0.1 vs-api.wshareit.com
+127.0.0.1 vskitcdn.com
 127.0.0.1 vskit.tv
 127.0.0.1 v.sogou.com
 127.0.0.1 vthird-log.vskit.tv
@@ -3879,6 +3922,7 @@
 127.0.0.1 wesingapp.stream.kg.qq.com
 127.0.0.1 wesingapp.tsmusic.kg.qq.com
 127.0.0.1 westeurope2.caroda.io
+127.0.0.1 wetest.net
 127.0.0.1 wetv.vip
 127.0.0.1 whatismyip.akamai.com
 127.0.0.1 whatssappa.xyz
@@ -3960,7 +4004,10 @@
 127.0.0.1 www.bilibili.com
 127.0.0.1 www.bilibili.tv
 127.0.0.1 www.bizrate.com
+127.0.0.1 www.boomplay.com
+127.0.0.1 www.boomplaymusic.com
 127.0.0.1 www.braze.com
+127.0.0.1 www.cdnmore.com
 127.0.0.1 www.cdn.viber.com
 127.0.0.1 www.centurygames.com
 127.0.0.1 www.chandashi.com
@@ -4042,6 +4089,7 @@
 127.0.0.1 www.nathanaeldan.pro
 127.0.0.1 www.notifa.info
 127.0.0.1 www.noxinfluencer.com
+127.0.0.1 www.palmpay.com
 127.0.0.1 www.pdfcylsmo.com
 127.0.0.1 www.pdl.id
 127.0.0.1 www.portals.mobi
@@ -4065,6 +4113,7 @@
 127.0.0.1 www.slideshare.net
 127.0.0.1 www.smartsuppchat.com
 127.0.0.1 www.sohu.com
+127.0.0.1 www.soundiradio.com
 127.0.0.1 www.spanishcoursesunamuno.com
 127.0.0.1 www.stagingapps.xyz
 127.0.0.1 www.steveziogames.com
@@ -4078,6 +4127,7 @@
 127.0.0.1 www.tiqcdn.com
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 www.toutiao.com
+127.0.0.1 www.transsnet.com
 127.0.0.1 www.turbotax.com
 127.0.0.1 www.turingfraud.net
 127.0.0.1 www.twilio.com
@@ -4131,6 +4181,7 @@
 127.0.0.1 www.zingload.com
 127.0.0.1 www.zingnews.vn
 127.0.0.1 www.zing.vn
+127.0.0.1 www.zuiqiangyingyu.net
 127.0.0.1 x18like.uno
 127.0.0.1 x1.i.lencr.org
 127.0.0.1 x2drop.com
@@ -4234,6 +4285,7 @@
 127.0.0.1 zingload.com
 127.0.0.1 zingnews.vn
 127.0.0.1 zing.vn
+127.0.0.1 zipoapps.com
 127.0.0.1 zjs.zingcdn.me
 127.0.0.1 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 127.0.0.1 z.moatads.com
@@ -4251,3 +4303,4 @@
 127.0.0.1 zte.com
 127.0.0.1 zte.com.cn
 127.0.0.1 zueirassemlimites.com
+127.0.0.1 zuiqiangyingyu.net
