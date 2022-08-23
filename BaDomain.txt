@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 22.08.2022
+# Version: 23.08.2022
 # Update: 1 day
 #
 
@@ -19,6 +19,7 @@
 11-courier.push.apple.com
 12377.cn
 123.sogou.com
+126.net
 12-courier.push.apple.com
 133fitness.com
 163.com
@@ -268,6 +269,7 @@ aff-track.net
 af-rsa.shalltry.com
 af.shalltry.com
 afterpay.com
+a.fxltsbl.com
 agencymrbeast.com
 agkn.com
 ags.akadns.net
@@ -830,6 +832,7 @@ caping.co.id
 capitalone-resources.digital-cloud.medallia.com
 capitalone-udc.digital-cloud.medallia.com
 c.apple.news
+captcha.gtimg.com
 captive.apple.com
 captive.g.aaplimg.com
 carbonads.com
@@ -1096,6 +1099,7 @@ convertkit.com
 cookiebot.com
 cookielaw.org
 cookiepro.com
+cooooos.com
 cootekservice.com
 copyrightform-helpcenter.tk
 core-api.data.appsinnova.com
@@ -1191,6 +1195,7 @@ csoversea.mbgame.anticheatexpert.com
 csp1.zte.com
 csp1.zte.com.cn
 csp-central.appspot.com
+cstaticdun.126.net
 cta-redirect.hubspot.com
 cta-service-cms2.hubspot.com
 c.tenor.com
@@ -1378,6 +1383,7 @@ download.iobit.com
 download-sin.dtignite.com
 downloads.intercomcdn.com
 downloads.mailchimp.com
+dragate.dc.oppomobile.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 drift.com
@@ -1754,6 +1760,7 @@ growtopia1.com
 growtopia2.com
 grsm.io
 gs-cdn.optimonk.com
+gslb.cdo.oppomobile.com
 gslb-gl.cdo.heytapmobi.com
 gslb.secb2b.com
 gslb.sgw.shopeemobile.com
@@ -1982,6 +1989,7 @@ ignimgs.com
 igofun.mobi
 igslb.cdo.oppomobile.com
 i-in.browser.heytapmobile.com
+i.instant.oppomobile.com
 i.lencr.org
 ilockcardf.apps.coloros.com
 ilovexclub.com
@@ -2014,12 +2022,14 @@ imgix.net
 img-l3.xnxx-cdn.com
 img.linkxw.com
 img-l.usicdn.com
+img-music.heytapimage.com
 img.onesignal.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img.samsungapps.com
 img.scooper.news
 imgsmail.ru
 img-s-msn-com.akamaized.net
+img.teddymobile.cn
 img.wattpad.com
 imgx.gridoto.com
 i.mi.com
@@ -2100,6 +2110,7 @@ invitereferrals.com
 iobit.com
 ios.bignox.com
 ios.crashsight.wetest.net
+iota.cooooos.com
 i.otu.foreign.oppomobile.com
 ip-api.com
 ipcdn.apple.com
@@ -2125,6 +2136,7 @@ iresearch.vip
 irisk-id-l.alipay.com
 irl-api.twibida.com
 ir.sogou.com
+isau.coloros.com
 i.scooper.news
 iseepassword.com
 isex.baby
@@ -2407,6 +2419,7 @@ mcpecraft.ru
 mc.us18.list-manage.com
 mc.yandex.ru
 mdp-appconf-id.heytapdl.com
+mdp-appconf-kh.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
 mdp-appconf-us.heytapdl.com
@@ -2531,6 +2544,7 @@ msgacs-m.lazada.co.id
 msg.ekatox.com
 msg-intl.qy.net
 msg.transacme.com
+m.sogo.com
 m.sohu.com
 msr-public-ubiservices.ubi.com
 ms.shalltry.com
@@ -2579,6 +2593,7 @@ ncaudienceexchange.com
 ndt-mlab2-sin01.mlab-oti.measurementlab.net
 nearbysharing-pa.googleapis.com
 nea.telkomsel.com
+nekkimobile.ru
 nestledmph.com
 netcts.cdn-apple.com
 netdna-cdn.com
@@ -2703,6 +2718,7 @@ openx.net
 opex-service-sg.allawnos.com
 oppo-kz.custhelp.com
 oppo-oem.avira-update.com
+oppo.wifi.teddymobile.cn
 opswat.info
 optad360.io
 optaim.com
@@ -3378,6 +3394,7 @@ srv.sec.intl.miui.com
 srv-si-photo-upload.z-dn.net
 srv-supersonic-images.z-dn.net
 ssacdn.com
+ssl.captcha.qq.com
 ssl-images-amazon.com
 ss.litatom.com
 ssl.p.jwpcdn.com
@@ -3542,6 +3559,7 @@ technologyadvice.com
 technopawns.com
 techrights.org
 tecno.servicewebly.com
+teddymobile.cn
 tenantlinet22.com
 tencent-cloud.cn
 tencent-cloud.com
@@ -3561,6 +3579,7 @@ terpopuler.uzone.id
 teslacoilapps.com
 tesladoge.pro
 testapi.amap.com
+test-bg-td.teddymobile.cn
 test.bignox.com
 testedforyou.net
 tex.z-dn.net
@@ -3595,6 +3614,7 @@ time-osx.g.aaplimg.com
 timer-api.pa1mstore.com
 timer-api.palmplaystore.com
 timer-api.palmst0re.com
+time-server.nekkimobile.ru
 time.xtracloud.net
 tinder.com
 tinders.club
@@ -3741,6 +3761,7 @@ upoint.id
 upos-bstar1-mirrorakam.akamaized.net
 ur.alipay.com
 ureca.samsungapps.com
+url-fwax40fx1.com
 us18.list-manage.com
 usa.ime.cdn.cootekservice.com
 us.api.fc.mob.com
@@ -3936,6 +3957,7 @@ widgets.outbrain.com
 widget.surveymonkey.com
 widget-v2.smartsuppcdn.com
 wifimap.zendesk.com
+wifi.teddymobile.cn
 wifi.vivo.com.cn
 wins.isprog.com
 wistia.com
@@ -4123,6 +4145,7 @@ www.swiftypecdn.com
 www.taobao.com
 www.tap.io
 www.technologyadvice.com
+www.teddymobile.cn
 www.terabox.com
 www.thrifter.com
 www.tiqcdn.com

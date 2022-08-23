@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 22.08.2022
+# Version: 23.08.2022
 # Update: 1 day
 #
 #not sure about these domain, cuz running dig command with dns @8.8.8.8 wont return any result, btw i got this from EndermanCH (u no tht windows malware reviewer).
@@ -18,6 +18,7 @@
 127.0.0.1 11-courier.push.apple.com
 127.0.0.1 12377.cn
 127.0.0.1 123.sogou.com
+127.0.0.1 126.net
 127.0.0.1 12-courier.push.apple.com
 127.0.0.1 133fitness.com
 127.0.0.1 163.com
@@ -267,6 +268,7 @@
 127.0.0.1 af-rsa.shalltry.com
 127.0.0.1 af.shalltry.com
 127.0.0.1 afterpay.com
+127.0.0.1 a.fxltsbl.com
 127.0.0.1 agencymrbeast.com
 127.0.0.1 agkn.com
 127.0.0.1 ags.akadns.net
@@ -829,6 +831,7 @@
 127.0.0.1 capitalone-resources.digital-cloud.medallia.com
 127.0.0.1 capitalone-udc.digital-cloud.medallia.com
 127.0.0.1 c.apple.news
+127.0.0.1 captcha.gtimg.com
 127.0.0.1 captive.apple.com
 127.0.0.1 captive.g.aaplimg.com
 127.0.0.1 carbonads.com
@@ -1095,6 +1098,7 @@
 127.0.0.1 cookiebot.com
 127.0.0.1 cookielaw.org
 127.0.0.1 cookiepro.com
+127.0.0.1 cooooos.com
 127.0.0.1 cootekservice.com
 127.0.0.1 copyrightform-helpcenter.tk
 127.0.0.1 core-api.data.appsinnova.com
@@ -1190,6 +1194,7 @@
 127.0.0.1 csp1.zte.com
 127.0.0.1 csp1.zte.com.cn
 127.0.0.1 csp-central.appspot.com
+127.0.0.1 cstaticdun.126.net
 127.0.0.1 cta-redirect.hubspot.com
 127.0.0.1 cta-service-cms2.hubspot.com
 127.0.0.1 c.tenor.com
@@ -1377,6 +1382,7 @@
 127.0.0.1 download-sin.dtignite.com
 127.0.0.1 downloads.intercomcdn.com
 127.0.0.1 downloads.mailchimp.com
+127.0.0.1 dragate.dc.oppomobile.com
 127.0.0.1 dragate-sg.dc.heytapmobi.com
 127.0.0.1 dragate-sg.dc.oppomobile.com
 127.0.0.1 drift.com
@@ -1753,6 +1759,7 @@
 127.0.0.1 growtopia2.com
 127.0.0.1 grsm.io
 127.0.0.1 gs-cdn.optimonk.com
+127.0.0.1 gslb.cdo.oppomobile.com
 127.0.0.1 gslb-gl.cdo.heytapmobi.com
 127.0.0.1 gslb.secb2b.com
 127.0.0.1 gslb.sgw.shopeemobile.com
@@ -1981,6 +1988,7 @@
 127.0.0.1 igofun.mobi
 127.0.0.1 igslb.cdo.oppomobile.com
 127.0.0.1 i-in.browser.heytapmobile.com
+127.0.0.1 i.instant.oppomobile.com
 127.0.0.1 i.lencr.org
 127.0.0.1 ilockcardf.apps.coloros.com
 127.0.0.1 ilovexclub.com
@@ -2013,12 +2021,14 @@
 127.0.0.1 img-l3.xnxx-cdn.com
 127.0.0.1 img.linkxw.com
 127.0.0.1 img-l.usicdn.com
+127.0.0.1 img-music.heytapimage.com
 127.0.0.1 img.onesignal.com
 127.0.0.1 img-prod-cms-rt-microsoft-com.akamaized.net
 127.0.0.1 img.samsungapps.com
 127.0.0.1 img.scooper.news
 127.0.0.1 imgsmail.ru
 127.0.0.1 img-s-msn-com.akamaized.net
+127.0.0.1 img.teddymobile.cn
 127.0.0.1 img.wattpad.com
 127.0.0.1 imgx.gridoto.com
 127.0.0.1 i.mi.com
@@ -2099,6 +2109,7 @@
 127.0.0.1 iobit.com
 127.0.0.1 ios.bignox.com
 127.0.0.1 ios.crashsight.wetest.net
+127.0.0.1 iota.cooooos.com
 127.0.0.1 i.otu.foreign.oppomobile.com
 127.0.0.1 ip-api.com
 127.0.0.1 ipcdn.apple.com
@@ -2124,6 +2135,7 @@
 127.0.0.1 irisk-id-l.alipay.com
 127.0.0.1 irl-api.twibida.com
 127.0.0.1 ir.sogou.com
+127.0.0.1 isau.coloros.com
 127.0.0.1 i.scooper.news
 127.0.0.1 iseepassword.com
 127.0.0.1 isex.baby
@@ -2406,6 +2418,7 @@
 127.0.0.1 mc.us18.list-manage.com
 127.0.0.1 mc.yandex.ru
 127.0.0.1 mdp-appconf-id.heytapdl.com
+127.0.0.1 mdp-appconf-kh.heytapdl.com
 127.0.0.1 mdp-appconf-mm.heytapdl.com
 127.0.0.1 mdp-appconf-sg.heytapdl.com
 127.0.0.1 mdp-appconf-us.heytapdl.com
@@ -2530,6 +2543,7 @@
 127.0.0.1 msg.ekatox.com
 127.0.0.1 msg-intl.qy.net
 127.0.0.1 msg.transacme.com
+127.0.0.1 m.sogo.com
 127.0.0.1 m.sohu.com
 127.0.0.1 msr-public-ubiservices.ubi.com
 127.0.0.1 ms.shalltry.com
@@ -2578,6 +2592,7 @@
 127.0.0.1 ndt-mlab2-sin01.mlab-oti.measurementlab.net
 127.0.0.1 nearbysharing-pa.googleapis.com
 127.0.0.1 nea.telkomsel.com
+127.0.0.1 nekkimobile.ru
 127.0.0.1 nestledmph.com
 127.0.0.1 netcts.cdn-apple.com
 127.0.0.1 netdna-cdn.com
@@ -2702,6 +2717,7 @@
 127.0.0.1 opex-service-sg.allawnos.com
 127.0.0.1 oppo-kz.custhelp.com
 127.0.0.1 oppo-oem.avira-update.com
+127.0.0.1 oppo.wifi.teddymobile.cn
 127.0.0.1 opswat.info
 127.0.0.1 optad360.io
 127.0.0.1 optaim.com
@@ -3377,6 +3393,7 @@
 127.0.0.1 srv-si-photo-upload.z-dn.net
 127.0.0.1 srv-supersonic-images.z-dn.net
 127.0.0.1 ssacdn.com
+127.0.0.1 ssl.captcha.qq.com
 127.0.0.1 ssl-images-amazon.com
 127.0.0.1 ss.litatom.com
 127.0.0.1 ssl.p.jwpcdn.com
@@ -3541,6 +3558,7 @@
 127.0.0.1 technopawns.com
 127.0.0.1 techrights.org
 127.0.0.1 tecno.servicewebly.com
+127.0.0.1 teddymobile.cn
 127.0.0.1 tenantlinet22.com
 127.0.0.1 tencent-cloud.cn
 127.0.0.1 tencent-cloud.com
@@ -3560,6 +3578,7 @@
 127.0.0.1 teslacoilapps.com
 127.0.0.1 tesladoge.pro
 127.0.0.1 testapi.amap.com
+127.0.0.1 test-bg-td.teddymobile.cn
 127.0.0.1 test.bignox.com
 127.0.0.1 testedforyou.net
 127.0.0.1 tex.z-dn.net
@@ -3594,6 +3613,7 @@
 127.0.0.1 timer-api.pa1mstore.com
 127.0.0.1 timer-api.palmplaystore.com
 127.0.0.1 timer-api.palmst0re.com
+127.0.0.1 time-server.nekkimobile.ru
 127.0.0.1 time.xtracloud.net
 127.0.0.1 tinder.com
 127.0.0.1 tinders.club
@@ -3740,6 +3760,7 @@
 127.0.0.1 upos-bstar1-mirrorakam.akamaized.net
 127.0.0.1 ur.alipay.com
 127.0.0.1 ureca.samsungapps.com
+127.0.0.1 url-fwax40fx1.com
 127.0.0.1 us18.list-manage.com
 127.0.0.1 usa.ime.cdn.cootekservice.com
 127.0.0.1 us.api.fc.mob.com
@@ -3935,6 +3956,7 @@
 127.0.0.1 widget.surveymonkey.com
 127.0.0.1 widget-v2.smartsuppcdn.com
 127.0.0.1 wifimap.zendesk.com
+127.0.0.1 wifi.teddymobile.cn
 127.0.0.1 wifi.vivo.com.cn
 127.0.0.1 wins.isprog.com
 127.0.0.1 wistia.com
@@ -4122,6 +4144,7 @@
 127.0.0.1 www.taobao.com
 127.0.0.1 www.tap.io
 127.0.0.1 www.technologyadvice.com
+127.0.0.1 www.teddymobile.cn
 127.0.0.1 www.terabox.com
 127.0.0.1 www.thrifter.com
 127.0.0.1 www.tiqcdn.com
