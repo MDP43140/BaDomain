@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.08.2022
+# Version: 24.08.2022
 # Update: 1 day
 #
 
@@ -576,6 +576,7 @@ artas.biz
 artpp-vivofs.vivoglobal.com
 artsai.com
 asai-file-wlanapkcdn2.vivoglobal.com
+asia-album-api.vivoglobal.com
 asia-assistant-sports.vivoglobal.com
 asia-browserplat.vivoglobal.com
 asia-browserstatic.vivoglobal.com
@@ -1643,6 +1644,8 @@ g-api.kwai.com
 g-api.kwai-pro.com
 g-api.kwaipros.com
 garagewestrotterdam.nl
+garud.jp
+garusoft.com
 gate.hockeyapp.net
 gate.upclick.com
 gateway.fe.apple-dns.net
@@ -1830,6 +1833,7 @@ hhhh.uno
 hichina.com
 hicloud.com
 hidester.postaffiliatepro.com
+higgsslotgame.com
 highcharts.com
 hippy.stream.kg.qq.com
 hisavana.com
@@ -1990,6 +1994,7 @@ igofun.mobi
 igslb.cdo.oppomobile.com
 i-in.browser.heytapmobile.com
 i.instant.oppomobile.com
+i.jpallnight.com
 i.lencr.org
 ilockcardf.apps.coloros.com
 ilovexclub.com
@@ -2176,6 +2181,7 @@ jmacs.maribacaberita.com
 jmacs-m.lazada.co.id
 joinbudapp.com
 jomax.net
+jpallnight.com
 jp.bignox.com
 jpserver.site
 jr.zingnews.vn
@@ -2594,6 +2600,7 @@ ndt-mlab2-sin01.mlab-oti.measurementlab.net
 nearbysharing-pa.googleapis.com
 nea.telkomsel.com
 nekkimobile.ru
+neptunegame.com
 nestledmph.com
 netcts.cdn-apple.com
 netdna-cdn.com
@@ -3430,9 +3437,11 @@ static.gc.apple.com
 static.hdslb.com
 static.hsappstatic.net
 static.intercomassets.com
+static.jpallnight.com
 static.like-it.video
 static.messagebird.com
 static.mob.com
+static.neptunegame.com
 static.pulse.mail.ru
 statics.creativecdn.com
 static.servicewebly.com
@@ -4072,6 +4081,7 @@ www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.h2svr.info
 www.hastopic.com
+www.higgsslotgame.com
 www.hippoobox.com
 www.hopexos.vip
 www.hwclouds-dns.com

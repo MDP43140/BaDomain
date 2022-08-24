@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.08.2022
+# Version: 24.08.2022
 # Update: 1 day
 #
 #not sure about these domain, cuz running dig command with dns @8.8.8.8 wont return any result, btw i got this from EndermanCH (u no tht windows malware reviewer).
@@ -575,6 +575,7 @@
 127.0.0.1 artpp-vivofs.vivoglobal.com
 127.0.0.1 artsai.com
 127.0.0.1 asai-file-wlanapkcdn2.vivoglobal.com
+127.0.0.1 asia-album-api.vivoglobal.com
 127.0.0.1 asia-assistant-sports.vivoglobal.com
 127.0.0.1 asia-browserplat.vivoglobal.com
 127.0.0.1 asia-browserstatic.vivoglobal.com
@@ -1642,6 +1643,8 @@
 127.0.0.1 g-api.kwai-pro.com
 127.0.0.1 g-api.kwaipros.com
 127.0.0.1 garagewestrotterdam.nl
+127.0.0.1 garud.jp
+127.0.0.1 garusoft.com
 127.0.0.1 gate.hockeyapp.net
 127.0.0.1 gate.upclick.com
 127.0.0.1 gateway.fe.apple-dns.net
@@ -1829,6 +1832,7 @@
 127.0.0.1 hichina.com
 127.0.0.1 hicloud.com
 127.0.0.1 hidester.postaffiliatepro.com
+127.0.0.1 higgsslotgame.com
 127.0.0.1 highcharts.com
 127.0.0.1 hippy.stream.kg.qq.com
 127.0.0.1 hisavana.com
@@ -1989,6 +1993,7 @@
 127.0.0.1 igslb.cdo.oppomobile.com
 127.0.0.1 i-in.browser.heytapmobile.com
 127.0.0.1 i.instant.oppomobile.com
+127.0.0.1 i.jpallnight.com
 127.0.0.1 i.lencr.org
 127.0.0.1 ilockcardf.apps.coloros.com
 127.0.0.1 ilovexclub.com
@@ -2175,6 +2180,7 @@
 127.0.0.1 jmacs-m.lazada.co.id
 127.0.0.1 joinbudapp.com
 127.0.0.1 jomax.net
+127.0.0.1 jpallnight.com
 127.0.0.1 jp.bignox.com
 127.0.0.1 jpserver.site
 127.0.0.1 jr.zingnews.vn
@@ -2593,6 +2599,7 @@
 127.0.0.1 nearbysharing-pa.googleapis.com
 127.0.0.1 nea.telkomsel.com
 127.0.0.1 nekkimobile.ru
+127.0.0.1 neptunegame.com
 127.0.0.1 nestledmph.com
 127.0.0.1 netcts.cdn-apple.com
 127.0.0.1 netdna-cdn.com
@@ -3429,9 +3436,11 @@
 127.0.0.1 static.hdslb.com
 127.0.0.1 static.hsappstatic.net
 127.0.0.1 static.intercomassets.com
+127.0.0.1 static.jpallnight.com
 127.0.0.1 static.like-it.video
 127.0.0.1 static.messagebird.com
 127.0.0.1 static.mob.com
+127.0.0.1 static.neptunegame.com
 127.0.0.1 static.pulse.mail.ru
 127.0.0.1 statics.creativecdn.com
 127.0.0.1 static.servicewebly.com
@@ -4071,6 +4080,7 @@
 127.0.0.1 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 127.0.0.1 www.h2svr.info
 127.0.0.1 www.hastopic.com
+127.0.0.1 www.higgsslotgame.com
 127.0.0.1 www.hippoobox.com
 127.0.0.1 www.hopexos.vip
 127.0.0.1 www.hwclouds-dns.com

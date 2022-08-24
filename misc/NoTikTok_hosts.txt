@@ -1027,6 +1027,7 @@
 127.0.0.1 homed.snssdk.com
 127.0.0.1 homed.snssdk.com.w.kunluncan.com
 127.0.0.1 hotapi16-normal-useast2a.tiktokv.com
+127.0.0.1 hotapi22-normal-alisg.tiktokv.com
 127.0.0.1 hotapi22-normal-useast2a.tiktokv.com
 127.0.0.1 hotapi-cn.snssdk.com
 127.0.0.1 hotapi-cn.snssdk.com.w.kunluncan.com
@@ -1411,6 +1412,7 @@
 127.0.0.1 lianmengapi.snssdk.com.w.kunluncan.com
 127.0.0.1 lianmeng.snssdk.com
 127.0.0.1 libra16-normal-useast2a.tiktokv.com
+127.0.0.1 libra22-normal-alisg.tiktokv.com
 127.0.0.1 libra22-normal-useast2a.tiktokv.com
 127.0.0.1 libra-i18n.tiktokv.com
 127.0.0.1 library.musical.ly
@@ -1436,6 +1438,7 @@
 127.0.0.1 log15-normal-useast2a.tiktokv.com
 127.0.0.1 log16.byteoversea.com
 127.0.0.1 log16.byteoversea.com.edgekey.net
+127.0.0.1 log16-normal-alisg.tiktokv.com
 127.0.0.1 log16-normal-c-useast1a.tiktokv.com
 127.0.0.1 log16-normal-c-useast1a.tiktokv.com.edgekey.net
 127.0.0.1 log16-normal-c-useast2a.tiktokv.com
@@ -1443,6 +1446,7 @@
 127.0.0.1 log16-normal-useast2a.tiktokv.com
 127.0.0.1 log-16.toutiao50.com
 127.0.0.1 log17-normal-useast2a.tiktokv.com
+127.0.0.1 log22-normal-alisg.tiktokv.com
 127.0.0.1 log22-normal-useast2a.tiktokv.com
 127.0.0.1 log2.musical.ly
 127.0.0.1 log2.musical.ly.edgesuite.net

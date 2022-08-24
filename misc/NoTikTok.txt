@@ -1027,6 +1027,7 @@ homed-lq.snssdk.com
 homed.snssdk.com
 homed.snssdk.com.w.kunluncan.com
 hotapi16-normal-useast2a.tiktokv.com
+hotapi22-normal-alisg.tiktokv.com
 hotapi22-normal-useast2a.tiktokv.com
 hotapi-cn.snssdk.com
 hotapi-cn.snssdk.com.w.kunluncan.com
@@ -1411,6 +1412,7 @@ lianmengapi.snssdk.com
 lianmengapi.snssdk.com.w.kunluncan.com
 lianmeng.snssdk.com
 libra16-normal-useast2a.tiktokv.com
+libra22-normal-alisg.tiktokv.com
 libra22-normal-useast2a.tiktokv.com
 libra-i18n.tiktokv.com
 library.musical.ly
@@ -1436,6 +1438,7 @@ log15.byteoversea.com
 log15-normal-useast2a.tiktokv.com
 log16.byteoversea.com
 log16.byteoversea.com.edgekey.net
+log16-normal-alisg.tiktokv.com
 log16-normal-c-useast1a.tiktokv.com
 log16-normal-c-useast1a.tiktokv.com.edgekey.net
 log16-normal-c-useast2a.tiktokv.com
@@ -1443,6 +1446,7 @@ log16-normal-c-useast2a.tiktokv.com.edgekey.net
 log16-normal-useast2a.tiktokv.com
 log-16.toutiao50.com
 log17-normal-useast2a.tiktokv.com
+log22-normal-alisg.tiktokv.com
 log22-normal-useast2a.tiktokv.com
 log2.musical.ly
 log2.musical.ly.edgesuite.net
