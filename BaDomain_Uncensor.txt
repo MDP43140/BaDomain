@@ -1,5 +1,5 @@
 #
-#  BaDomain Uncensored (Version: 09.08.2022)
+#  BaDomain Uncensored (Version: 26.08.2022)
 #  This hosts file tries to unblock big websites from goverment censorshit
 #  (mostly blocked from Indonesia)
 #
@@ -18,7 +18,7 @@
 #  - thepiratebay
 #
 
-# [Cloudflare-DNS.com] (Stripped down version of BebasID CloudFlare DNS, only for manual DoH/DoT/DoQ/etc, other partnered cloudflare dns wont be included, eg. Mozilla,Opera,Chrome...)
+# [Cloudflare-DNS.com] (used for DoH/DoT/DoQ/etc, manually defining DNS addresses prevent dns querying for secure dns server)
 2606:4700:4700::1111 1dot1dot1dot1.cloudflare-dns.com
 2606:4700:4700::1112 security.cloudflare-dns.com
 2606:4700:4700::1113 family.cloudflare-dns.com
@@ -77,8 +77,9 @@
 # [Reddit.com] (not as much here, only for viewing stuff, logins, video, etc is untested)
 151.101.1.140 reddit.com
 151.101.1.140 www.reddit.com
+151.101.1.140 s.reddit.com
+151.101.1.140 oauth.reddit.com
 151.101.1.140 gateway.reddit.com
-151.101.1.140 reddit.map.fastly.net
 151.101.1.140 gql.reddit.com
 151.101.1.140 gql-realtime.reddit.com
 

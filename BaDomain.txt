@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 24.08.2022
+# Version: 26.08.2022
 # Update: 1 day
 #
 
@@ -406,6 +406,7 @@ api.galileoab.com
 api.gallery.intl.miui.com
 api.gameanalytics.com
 api.gamesystem.zepeto.run
+api.glance.inmobi.com
 api.glb.samsung-gamelauncher.com
 api-gl.cdo.heytapmobi.com
 api-gl.cdo.heytapmobile.com
@@ -767,6 +768,7 @@ black.riseup.net
 blackseas.ge
 blank
 blockmeter.unblockia.com
+blockpage.xl.co.id
 block.uzone.id
 blogblog.com
 blog.pho.to
@@ -817,6 +819,7 @@ buy.qcloudimg.com
 buysellads.com
 buysellads.net
 by3pcor001-com.be.1drv.com
+bytemeta.vip
 c02b-wss.app.slickstream.com
 c02f.app.slickstream.com
 c1.rfihub.net
@@ -1270,6 +1273,8 @@ dat.gen.in
 datting.click
 datting.link
 datting.online
+daumcdn.net
+daum.net
 da-www14.ballou.se
 dbn41syzjymrk.cloudfront.net
 dc1.networkbench.com
@@ -1384,6 +1389,7 @@ download.iobit.com
 download-sin.dtignite.com
 downloads.intercomcdn.com
 downloads.mailchimp.com
+dpdwnl.my-free.website
 dragate.dc.oppomobile.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
@@ -1426,6 +1432,7 @@ ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
 ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
 ec2-54-165-151-168.compute-1.amazonaws.com
 ec2-54-169-233-104.ap-southeast-1.compute.amazonaws.com
+ecal.com
 ec-api.akulaku.com
 echo-tcp-org.y5en.com
 ecommerce.iap.unity3d.com
@@ -1673,6 +1680,7 @@ get-bx.g.aaplimg.com
 getclicky.com
 getduckduckgo.com
 getgo.com
+gethouse.top
 getlasso.co
 getsitecontrol.com
 g.ezoic.net
@@ -1684,9 +1692,11 @@ ghbtns.com
 ghost.org
 gift.bignox.com
 giphy.com
+github.phala.one
 gitkraken.com
 glamour.com
 glanceapis.com
+glanceseg.blob.core.windows.net
 glass3.xyz
 glassbox.com
 glb.samsung-gamelauncher.com
@@ -1820,7 +1830,9 @@ hdcb-api.fortumo.io
 hdslb.com
 heapanalytics.com
 heap.io
+hearstapps.com
 hellay.net
+hellomagazine.com
 helpscout.net
 help.sogou.com
 helpx.adobe.com
@@ -1836,6 +1848,7 @@ hidester.postaffiliatepro.com
 higgsslotgame.com
 highcharts.com
 hippy.stream.kg.qq.com
+hips.hearstapps.com
 hisavana.com
 histats.com
 history.google.com
@@ -1964,6 +1977,7 @@ id.supercell.com
 id-telkom.rcs.telephony.goog
 id-test-11.slatic.net
 id-three.rcs.telephony.goog
+id-timer-appstore.vivoglobal.com
 id-update-appstore.vivoglobal.com
 id.video.intl.xiaomi.com
 id-ws-edge001.itoon.org
@@ -2002,9 +2016,11 @@ ilovexclub.net
 ilyon.net
 image.bignox.com
 image-cdn.joinbudapp.com
+images.51.la
 images.anime-pictures.net
 images.bitmoji.com
 images.ctfassets.net
+images.hellomagazine.com
 images.idtopnews.com
 image.slidesharecdn.com
 images.sc-cdn.net
@@ -2013,6 +2029,7 @@ image.useinsider.com
 image.winudf.com
 imasdk.googleapis.com
 imdb.com
+img1.daumcdn.net
 img.alicdn.com
 img.baca.co.id
 imgcache.joox.com
@@ -2154,6 +2171,7 @@ it.bignox.com
 itc.cn
 iteldrive.com
 itoon.org
+it.pingchas.com
 itsecurity.com
 itunes.apple.com
 ituserver.xyz
@@ -2285,6 +2303,7 @@ lbs.like.video
 lbs-zaizai.netease.im
 lcdn-locator.apple.com
 lcdn-locator-usms11.apple.com.akadns.net
+leaderboard.api.glance.inmobi.com
 leawo.org
 lencr.org
 letsgoconvert.com
@@ -2298,6 +2317,7 @@ libra-sg.resso.app
 licdn.com
 licensebuttons.net
 license.vod2.myqcloud.com
+lifymk.tistory.com
 lijit.com
 likeitlite.com
 like-it.video
@@ -2376,12 +2396,14 @@ lulusoft.com
 lunalabs.io
 lustre.ai
 m1.auto.itc.cn
+m1.daumcdn.net
 m1e.net
 m2.ai
 m3.auto.itc.cn
 m4.auto.itc.cn
 mabbox.bytel.fr
 macworld.go-vip.net
+mademoiselleosaki.com
 magazine-api-gl.heytapmobile.com
 magnite.com
 magzine.transacme.com
@@ -2585,6 +2607,7 @@ myqcloud.com
 my.salesforce.com
 n5t8v6w3.stackpathcdn.com
 na.albtls.t.co
+nadaring.mademoiselleosaki.com
 nagios.dreamvps.com
 na.glbtls.t.co
 nanorep.co
@@ -2848,6 +2871,7 @@ person.clearbit.com
 person-stream.clearbit.com
 pes22-game.cs.konami.net
 pglstatp.com
+phala.one
 ph.bignox.com
 phone-api.realme.com
 phone.bignox.com
@@ -2860,6 +2884,7 @@ pic-bstarstatic.akamaized.net
 pic.bstarstatic.com
 pic.sogou.com
 ping.baca.co.id
+pingchas.com
 ping.cloud.tencent.com
 pingdom.net
 pingfore.qq.com
@@ -2873,6 +2898,7 @@ pinyin.sogou.com
 pipedream.wistia.com
 pippio.com
 pir.fm
+pixelfed-prod.nyc3.digitaloceanspaces.com
 pixel.wp.com
 p.jwpcdn.com
 p.kg.qq.com
@@ -2922,6 +2948,7 @@ prd.aadg.trafficmanager.net
 prd.ags.akadns.net
 prd.jwpltx.com
 preferences.clearbit.com
+premierleague.com
 pressablecdn.com
 preview-kly.akamaized.net
 p.rfihub.com
@@ -2981,6 +3008,7 @@ pubs.contextads.live
 pub.searchiq.co
 pubstatus.sinaapp.com
 pulselb.relap.info
+pulselive.com
 push.apple.com
 pushbrothers.com
 push.heytapmobile.com
@@ -3083,7 +3111,9 @@ res-global-sg-slave.sausage.xd.com
 res.noxmobi.com
 resolver.msg.global.xiaomi.net
 reson8.com
+resources.careers.pulselive.com
 resources.digital-cloud-sin1.medallia.com
+resources.premierleague.com
 resource.wondershare.com
 resso.app
 resso.me
@@ -3160,6 +3190,7 @@ s160-ava-talk.zadn.vn
 s.166.net
 s16.kwai.net
 s18900.webovernet.com
+s1.daumcdn.net
 s1.hdslb.com
 s23.cnzz.com
 s2.loli.net
@@ -3216,6 +3247,7 @@ sdk.privacy-center.org
 sdk.pushmessage.samsung.com
 sdksp.wetvinfo.com
 sdk.vskit.tv
+search1.daumcdn.net
 search-api.fie.futurecdn.net
 search.eportalmobile.com
 searchiq.co
@@ -3456,8 +3488,10 @@ static-znews.zadn.vn
 static-znews.zingcdn.me
 stat.idtopnews.com
 statis.facemojikeyboard.com
+stats.cross-orbit.com
 stats.darkreader.app
 stats.wp.com
+stat.tiara.tistory.com
 stat.tpns.sgp.tencent.com
 statwup.nimo.tv
 stat.xdplt.com
@@ -3524,6 +3558,7 @@ swiftypecdn.com
 s.w.org
 swpsvc.com
 s.xlgmedia.com
+sync.ecal.com
 synchrobox.adswizz.com
 sync.search.spotxchange.com
 syndication.twitter.com
@@ -3533,6 +3568,7 @@ syszalive.uksouth.cloudapp.azure.com
 szmg.qq.com
 t14.market.mi-img.com
 t17.market.mi-img.com
+t1.daumcdn.net
 t1.focus-img.cn
 t2.chartboost.com
 t2.market.mi-img.com
@@ -3630,6 +3666,8 @@ tinders.club
 tipsf.apps.oppomobile.com
 tiqcdn.com
 tirto.id
+tistory1.daumcdn.net
+tistory.com
 tk0x1.com
 tl.bignox.com
 tm.ak.prd.aadg.akadns.net
@@ -3672,6 +3710,7 @@ trackwilly.com
 trafficmanager.net
 trailhead.salesforce.com
 transacme.com
+translations.platform.pulselive.com
 transsion.com
 transsnet.com
 travelncs.com
@@ -4127,6 +4166,7 @@ www.pdfcylsmo.com
 www.pdl.id
 www.portals.mobi
 www.profitwell.com
+www.pulselive.com
 www.qq.com
 www.quickgosearch.com
 www.quiztest.me

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 24.08.2022
+# Version: 26.08.2022
 # Update: 1 day
 #
 #not sure about these domain, cuz running dig command with dns @8.8.8.8 wont return any result, btw i got this from EndermanCH (u no tht windows malware reviewer).
@@ -405,6 +405,7 @@
 127.0.0.1 api.gallery.intl.miui.com
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.gamesystem.zepeto.run
+127.0.0.1 api.glance.inmobi.com
 127.0.0.1 api.glb.samsung-gamelauncher.com
 127.0.0.1 api-gl.cdo.heytapmobi.com
 127.0.0.1 api-gl.cdo.heytapmobile.com
@@ -766,6 +767,7 @@
 127.0.0.1 blackseas.ge
 127.0.0.1 blank
 127.0.0.1 blockmeter.unblockia.com
+127.0.0.1 blockpage.xl.co.id
 127.0.0.1 block.uzone.id
 127.0.0.1 blogblog.com
 127.0.0.1 blog.pho.to
@@ -816,6 +818,7 @@
 127.0.0.1 buysellads.com
 127.0.0.1 buysellads.net
 127.0.0.1 by3pcor001-com.be.1drv.com
+127.0.0.1 bytemeta.vip
 127.0.0.1 c02b-wss.app.slickstream.com
 127.0.0.1 c02f.app.slickstream.com
 127.0.0.1 c1.rfihub.net
@@ -1269,6 +1272,8 @@
 127.0.0.1 datting.click
 127.0.0.1 datting.link
 127.0.0.1 datting.online
+127.0.0.1 daumcdn.net
+127.0.0.1 daum.net
 127.0.0.1 da-www14.ballou.se
 127.0.0.1 dbn41syzjymrk.cloudfront.net
 127.0.0.1 dc1.networkbench.com
@@ -1383,6 +1388,7 @@
 127.0.0.1 download-sin.dtignite.com
 127.0.0.1 downloads.intercomcdn.com
 127.0.0.1 downloads.mailchimp.com
+127.0.0.1 dpdwnl.my-free.website
 127.0.0.1 dragate.dc.oppomobile.com
 127.0.0.1 dragate-sg.dc.heytapmobi.com
 127.0.0.1 dragate-sg.dc.oppomobile.com
@@ -1425,6 +1431,7 @@
 127.0.0.1 ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
 127.0.0.1 ec2-54-165-151-168.compute-1.amazonaws.com
 127.0.0.1 ec2-54-169-233-104.ap-southeast-1.compute.amazonaws.com
+127.0.0.1 ecal.com
 127.0.0.1 ec-api.akulaku.com
 127.0.0.1 echo-tcp-org.y5en.com
 127.0.0.1 ecommerce.iap.unity3d.com
@@ -1672,6 +1679,7 @@
 127.0.0.1 getclicky.com
 127.0.0.1 getduckduckgo.com
 127.0.0.1 getgo.com
+127.0.0.1 gethouse.top
 127.0.0.1 getlasso.co
 127.0.0.1 getsitecontrol.com
 127.0.0.1 g.ezoic.net
@@ -1683,9 +1691,11 @@
 127.0.0.1 ghost.org
 127.0.0.1 gift.bignox.com
 127.0.0.1 giphy.com
+127.0.0.1 github.phala.one
 127.0.0.1 gitkraken.com
 127.0.0.1 glamour.com
 127.0.0.1 glanceapis.com
+127.0.0.1 glanceseg.blob.core.windows.net
 127.0.0.1 glass3.xyz
 127.0.0.1 glassbox.com
 127.0.0.1 glb.samsung-gamelauncher.com
@@ -1819,7 +1829,9 @@
 127.0.0.1 hdslb.com
 127.0.0.1 heapanalytics.com
 127.0.0.1 heap.io
+127.0.0.1 hearstapps.com
 127.0.0.1 hellay.net
+127.0.0.1 hellomagazine.com
 127.0.0.1 helpscout.net
 127.0.0.1 help.sogou.com
 127.0.0.1 helpx.adobe.com
@@ -1835,6 +1847,7 @@
 127.0.0.1 higgsslotgame.com
 127.0.0.1 highcharts.com
 127.0.0.1 hippy.stream.kg.qq.com
+127.0.0.1 hips.hearstapps.com
 127.0.0.1 hisavana.com
 127.0.0.1 histats.com
 127.0.0.1 history.google.com
@@ -1963,6 +1976,7 @@
 127.0.0.1 id-telkom.rcs.telephony.goog
 127.0.0.1 id-test-11.slatic.net
 127.0.0.1 id-three.rcs.telephony.goog
+127.0.0.1 id-timer-appstore.vivoglobal.com
 127.0.0.1 id-update-appstore.vivoglobal.com
 127.0.0.1 id.video.intl.xiaomi.com
 127.0.0.1 id-ws-edge001.itoon.org
@@ -2001,9 +2015,11 @@
 127.0.0.1 ilyon.net
 127.0.0.1 image.bignox.com
 127.0.0.1 image-cdn.joinbudapp.com
+127.0.0.1 images.51.la
 127.0.0.1 images.anime-pictures.net
 127.0.0.1 images.bitmoji.com
 127.0.0.1 images.ctfassets.net
+127.0.0.1 images.hellomagazine.com
 127.0.0.1 images.idtopnews.com
 127.0.0.1 image.slidesharecdn.com
 127.0.0.1 images.sc-cdn.net
@@ -2012,6 +2028,7 @@
 127.0.0.1 image.winudf.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 imdb.com
+127.0.0.1 img1.daumcdn.net
 127.0.0.1 img.alicdn.com
 127.0.0.1 img.baca.co.id
 127.0.0.1 imgcache.joox.com
@@ -2153,6 +2170,7 @@
 127.0.0.1 itc.cn
 127.0.0.1 iteldrive.com
 127.0.0.1 itoon.org
+127.0.0.1 it.pingchas.com
 127.0.0.1 itsecurity.com
 127.0.0.1 itunes.apple.com
 127.0.0.1 ituserver.xyz
@@ -2284,6 +2302,7 @@
 127.0.0.1 lbs-zaizai.netease.im
 127.0.0.1 lcdn-locator.apple.com
 127.0.0.1 lcdn-locator-usms11.apple.com.akadns.net
+127.0.0.1 leaderboard.api.glance.inmobi.com
 127.0.0.1 leawo.org
 127.0.0.1 lencr.org
 127.0.0.1 letsgoconvert.com
@@ -2297,6 +2316,7 @@
 127.0.0.1 licdn.com
 127.0.0.1 licensebuttons.net
 127.0.0.1 license.vod2.myqcloud.com
+127.0.0.1 lifymk.tistory.com
 127.0.0.1 lijit.com
 127.0.0.1 likeitlite.com
 127.0.0.1 like-it.video
@@ -2375,12 +2395,14 @@
 127.0.0.1 lunalabs.io
 127.0.0.1 lustre.ai
 127.0.0.1 m1.auto.itc.cn
+127.0.0.1 m1.daumcdn.net
 127.0.0.1 m1e.net
 127.0.0.1 m2.ai
 127.0.0.1 m3.auto.itc.cn
 127.0.0.1 m4.auto.itc.cn
 127.0.0.1 mabbox.bytel.fr
 127.0.0.1 macworld.go-vip.net
+127.0.0.1 mademoiselleosaki.com
 127.0.0.1 magazine-api-gl.heytapmobile.com
 127.0.0.1 magnite.com
 127.0.0.1 magzine.transacme.com
@@ -2584,6 +2606,7 @@
 127.0.0.1 my.salesforce.com
 127.0.0.1 n5t8v6w3.stackpathcdn.com
 127.0.0.1 na.albtls.t.co
+127.0.0.1 nadaring.mademoiselleosaki.com
 127.0.0.1 nagios.dreamvps.com
 127.0.0.1 na.glbtls.t.co
 127.0.0.1 nanorep.co
@@ -2847,6 +2870,7 @@
 127.0.0.1 person-stream.clearbit.com
 127.0.0.1 pes22-game.cs.konami.net
 127.0.0.1 pglstatp.com
+127.0.0.1 phala.one
 127.0.0.1 ph.bignox.com
 127.0.0.1 phone-api.realme.com
 127.0.0.1 phone.bignox.com
@@ -2859,6 +2883,7 @@
 127.0.0.1 pic.bstarstatic.com
 127.0.0.1 pic.sogou.com
 127.0.0.1 ping.baca.co.id
+127.0.0.1 pingchas.com
 127.0.0.1 ping.cloud.tencent.com
 127.0.0.1 pingdom.net
 127.0.0.1 pingfore.qq.com
@@ -2872,6 +2897,7 @@
 127.0.0.1 pipedream.wistia.com
 127.0.0.1 pippio.com
 127.0.0.1 pir.fm
+127.0.0.1 pixelfed-prod.nyc3.digitaloceanspaces.com
 127.0.0.1 pixel.wp.com
 127.0.0.1 p.jwpcdn.com
 127.0.0.1 p.kg.qq.com
@@ -2921,6 +2947,7 @@
 127.0.0.1 prd.ags.akadns.net
 127.0.0.1 prd.jwpltx.com
 127.0.0.1 preferences.clearbit.com
+127.0.0.1 premierleague.com
 127.0.0.1 pressablecdn.com
 127.0.0.1 preview-kly.akamaized.net
 127.0.0.1 p.rfihub.com
@@ -2980,6 +3007,7 @@
 127.0.0.1 pub.searchiq.co
 127.0.0.1 pubstatus.sinaapp.com
 127.0.0.1 pulselb.relap.info
+127.0.0.1 pulselive.com
 127.0.0.1 push.apple.com
 127.0.0.1 pushbrothers.com
 127.0.0.1 push.heytapmobile.com
@@ -3082,7 +3110,9 @@
 127.0.0.1 res.noxmobi.com
 127.0.0.1 resolver.msg.global.xiaomi.net
 127.0.0.1 reson8.com
+127.0.0.1 resources.careers.pulselive.com
 127.0.0.1 resources.digital-cloud-sin1.medallia.com
+127.0.0.1 resources.premierleague.com
 127.0.0.1 resource.wondershare.com
 127.0.0.1 resso.app
 127.0.0.1 resso.me
@@ -3159,6 +3189,7 @@
 127.0.0.1 s.166.net
 127.0.0.1 s16.kwai.net
 127.0.0.1 s18900.webovernet.com
+127.0.0.1 s1.daumcdn.net
 127.0.0.1 s1.hdslb.com
 127.0.0.1 s23.cnzz.com
 127.0.0.1 s2.loli.net
@@ -3215,6 +3246,7 @@
 127.0.0.1 sdk.pushmessage.samsung.com
 127.0.0.1 sdksp.wetvinfo.com
 127.0.0.1 sdk.vskit.tv
+127.0.0.1 search1.daumcdn.net
 127.0.0.1 search-api.fie.futurecdn.net
 127.0.0.1 search.eportalmobile.com
 127.0.0.1 searchiq.co
@@ -3455,8 +3487,10 @@
 127.0.0.1 static-znews.zingcdn.me
 127.0.0.1 stat.idtopnews.com
 127.0.0.1 statis.facemojikeyboard.com
+127.0.0.1 stats.cross-orbit.com
 127.0.0.1 stats.darkreader.app
 127.0.0.1 stats.wp.com
+127.0.0.1 stat.tiara.tistory.com
 127.0.0.1 stat.tpns.sgp.tencent.com
 127.0.0.1 statwup.nimo.tv
 127.0.0.1 stat.xdplt.com
@@ -3523,6 +3557,7 @@
 127.0.0.1 s.w.org
 127.0.0.1 swpsvc.com
 127.0.0.1 s.xlgmedia.com
+127.0.0.1 sync.ecal.com
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 syndication.twitter.com
@@ -3532,6 +3567,7 @@
 127.0.0.1 szmg.qq.com
 127.0.0.1 t14.market.mi-img.com
 127.0.0.1 t17.market.mi-img.com
+127.0.0.1 t1.daumcdn.net
 127.0.0.1 t1.focus-img.cn
 127.0.0.1 t2.chartboost.com
 127.0.0.1 t2.market.mi-img.com
@@ -3629,6 +3665,8 @@
 127.0.0.1 tipsf.apps.oppomobile.com
 127.0.0.1 tiqcdn.com
 127.0.0.1 tirto.id
+127.0.0.1 tistory1.daumcdn.net
+127.0.0.1 tistory.com
 127.0.0.1 tk0x1.com
 127.0.0.1 tl.bignox.com
 127.0.0.1 tm.ak.prd.aadg.akadns.net
@@ -3671,6 +3709,7 @@
 127.0.0.1 trafficmanager.net
 127.0.0.1 trailhead.salesforce.com
 127.0.0.1 transacme.com
+127.0.0.1 translations.platform.pulselive.com
 127.0.0.1 transsion.com
 127.0.0.1 transsnet.com
 127.0.0.1 travelncs.com
@@ -4126,6 +4165,7 @@
 127.0.0.1 www.pdl.id
 127.0.0.1 www.portals.mobi
 127.0.0.1 www.profitwell.com
+127.0.0.1 www.pulselive.com
 127.0.0.1 www.qq.com
 127.0.0.1 www.quickgosearch.com
 127.0.0.1 www.quiztest.me
