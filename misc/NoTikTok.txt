@@ -599,6 +599,7 @@ bytedns.net
 byted.org
 byteeffecttos-g.com
 bytegeo.akadns.net
+bytegsdk.com
 byteicdn.com
 byteimg.com
 byteimg.com.bsgslb.com
@@ -1488,6 +1489,7 @@ log.tiktokv.com
 log.tiktokv.com.edgesuite.net
 log.toutiao50.com
 logtrace.snssdk.com
+log-va.bytegsdk.com
 log-va.tiktokv.com
 log-va.tiktokv.com.edgekey.net
 log.xzcs3zlph.com
@@ -2119,6 +2121,7 @@ ppx-b.isnssdk.com
 ppx.isnssdk.com
 ppx.snssdk.com
 ppx.snssdk.com.w.kunluncan.com
+praisewindow-va.ugsdk.com
 presource.snssdk.com
 press-dyn-ali-a.snssdk.com
 press-dyn-ali-b.snssdk.com
@@ -2153,6 +2156,7 @@ p.tiktokcdn.com
 pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a5-gcp01.tiktokcdn.com
 pull-a5-sg01.tiktokcdn.com
+pull-a5-tt01.fcdn.us.tiktokv.com
 pull-a5-va01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
@@ -3169,6 +3173,7 @@ u954.v.bsgslb.com
 u9551.v.bsgslb.com
 u999.v.bsgslb.com
 ug-overseas.snssdk.com
+ugsdk.com
 ug.snssdk.com
 unauthorized.snssdk.com
 unavailable.tiktokv.com
@@ -3559,6 +3564,7 @@ vcs.snssdk.com
 vcs-va.byteoversea.com
 vcs-va.tiktokv.com
 vc-tantan.snssdk.com
+v.douyin.com
 v-edgecast.tiktokcdn.com
 v-edgecast.tiktokcdn.com.bytewlb.akadns.net
 verification16-normal-c-useast1a.tiktokv.com

@@ -1783,6 +1783,7 @@ z-m-scontent.fpku1-3.fna.fbcdn.net
 z-m-scontent-frt.xx.fbcdn.net
 z-m-scontent-gru.xx.fbcdn.net
 z-m-scontent-hkg.xx.fbcdn.net
+z-m-scontent-hkt1-1.xx.fbcdn.net
 z-m-scontent-iad.xx.fbcdn.net
 z-m-scontent-icn.xx.fbcdn.net
 z-m-scontent-kut.xx.fbcdn.net

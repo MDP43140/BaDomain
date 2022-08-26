@@ -5,10 +5,6 @@
 # Update: 1 day
 #
 
-#not sure about these domain, cuz running dig command with dns @8.8.8.8 wont return any result, btw i got this from EndermanCH (u no tht windows malware reviewer).
-#mubqjh.overloveexperience.top
-#xmfngo.meanquestiondouble.top
-
 0kczn7.l0fwny.com
 0.news20.biz
 0.ygti905ffth6.com
@@ -245,6 +241,7 @@ adtimaserver.vn
 adtima-static.zascdn.me
 ad.toutiao.com
 aduankonten.id
+aduankonten.mail.kominfo.go.id
 advertica-cdn.com
 advertising.com
 advertizer.com
@@ -591,6 +588,7 @@ asia.csoversea.mbgame.anticheatexpert.com
 asia-err-up.vivoglobal.com
 asia-ex-adlog.vivoglobal.com
 asia-exappupgrade.vivoglobal.com
+asia-exdmp.vivoglobal.com
 asia-exmagazineunlock-proxy.vivoglobal.com
 asia-expweb.vivo.com
 asia-exstsdk.vivoglobal.com
@@ -3378,6 +3376,7 @@ snapengage.com
 snapgirls.date
 snapgirls.today
 snapgirls.uno
+snaptik.app
 s-nbcnews.com
 sneaky.lordofthequietbadgers.com
 snigelweb.com

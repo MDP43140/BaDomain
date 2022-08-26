@@ -249,6 +249,7 @@
 127.0.0.1 adtima-static.zascdn.me
 127.0.0.1 ad.toutiao.com
 127.0.0.1 aduankonten.id
+127.0.0.1 aduankonten.mail.kominfo.go.id
 127.0.0.1 advertica-cdn.com
 127.0.0.1 advertising.com
 127.0.0.1 advertizer.com
@@ -595,6 +596,7 @@
 127.0.0.1 asia-err-up.vivoglobal.com
 127.0.0.1 asia-ex-adlog.vivoglobal.com
 127.0.0.1 asia-exappupgrade.vivoglobal.com
+127.0.0.1 asia-exdmp.vivoglobal.com
 127.0.0.1 asia-exmagazineunlock-proxy.vivoglobal.com
 127.0.0.1 asia-expweb.vivo.com
 127.0.0.1 asia-exstsdk.vivoglobal.com
@@ -3382,6 +3384,7 @@
 127.0.0.1 snapgirls.date
 127.0.0.1 snapgirls.today
 127.0.0.1 snapgirls.uno
+127.0.0.1 snaptik.app
 127.0.0.1 s-nbcnews.com
 127.0.0.1 sneaky.lordofthequietbadgers.com
 127.0.0.1 snigelweb.com
@@ -6168,6 +6171,7 @@
 127.0.0.1 z-m-scontent-frt.xx.fbcdn.net
 127.0.0.1 z-m-scontent-gru.xx.fbcdn.net
 127.0.0.1 z-m-scontent-hkg.xx.fbcdn.net
+127.0.0.1 z-m-scontent-hkt1-1.xx.fbcdn.net
 127.0.0.1 z-m-scontent-iad.xx.fbcdn.net
 127.0.0.1 z-m-scontent-icn.xx.fbcdn.net
 127.0.0.1 z-m-scontent-kut.xx.fbcdn.net
@@ -6994,6 +6998,7 @@
 127.0.0.1 byted.org
 127.0.0.1 byteeffecttos-g.com
 127.0.0.1 bytegeo.akadns.net
+127.0.0.1 bytegsdk.com
 127.0.0.1 byteicdn.com
 127.0.0.1 byteimg.com
 127.0.0.1 byteimg.com.bsgslb.com
@@ -7883,6 +7888,7 @@
 127.0.0.1 log.tiktokv.com.edgesuite.net
 127.0.0.1 log.toutiao50.com
 127.0.0.1 logtrace.snssdk.com
+127.0.0.1 log-va.bytegsdk.com
 127.0.0.1 log-va.tiktokv.com
 127.0.0.1 log-va.tiktokv.com.edgekey.net
 127.0.0.1 log.xzcs3zlph.com
@@ -8514,6 +8520,7 @@
 127.0.0.1 ppx.isnssdk.com
 127.0.0.1 ppx.snssdk.com
 127.0.0.1 ppx.snssdk.com.w.kunluncan.com
+127.0.0.1 praisewindow-va.ugsdk.com
 127.0.0.1 presource.snssdk.com
 127.0.0.1 press-dyn-ali-a.snssdk.com
 127.0.0.1 press-dyn-ali-b.snssdk.com
@@ -8548,6 +8555,7 @@
 127.0.0.1 pull-a16-tt01.fcdn.us.tiktokv.com
 127.0.0.1 pull-a5-gcp01.tiktokcdn.com
 127.0.0.1 pull-a5-sg01.tiktokcdn.com
+127.0.0.1 pull-a5-tt01.fcdn.us.tiktokv.com
 127.0.0.1 pull-a5-va01.tiktokcdn.com
 127.0.0.1 pull-c5-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-ab.tiktokcdn.com
@@ -9564,6 +9572,7 @@
 127.0.0.1 u9551.v.bsgslb.com
 127.0.0.1 u999.v.bsgslb.com
 127.0.0.1 ug-overseas.snssdk.com
+127.0.0.1 ugsdk.com
 127.0.0.1 ug.snssdk.com
 127.0.0.1 unauthorized.snssdk.com
 127.0.0.1 unavailable.tiktokv.com
@@ -9954,6 +9963,7 @@
 127.0.0.1 vcs-va.byteoversea.com
 127.0.0.1 vcs-va.tiktokv.com
 127.0.0.1 vc-tantan.snssdk.com
+127.0.0.1 v.douyin.com
 127.0.0.1 v-edgecast.tiktokcdn.com
 127.0.0.1 v-edgecast.tiktokcdn.com.bytewlb.akadns.net
 127.0.0.1 verification16-normal-c-useast1a.tiktokv.com

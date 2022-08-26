@@ -1784,6 +1784,7 @@
 127.0.0.1 z-m-scontent-frt.xx.fbcdn.net
 127.0.0.1 z-m-scontent-gru.xx.fbcdn.net
 127.0.0.1 z-m-scontent-hkg.xx.fbcdn.net
+127.0.0.1 z-m-scontent-hkt1-1.xx.fbcdn.net
 127.0.0.1 z-m-scontent-iad.xx.fbcdn.net
 127.0.0.1 z-m-scontent-icn.xx.fbcdn.net
 127.0.0.1 z-m-scontent-kut.xx.fbcdn.net
