@@ -595,6 +595,7 @@ bytedance.com
 bytedance.map.fastly.net
 bytedance.net
 bytedance-tmcdn.tm.com.my
+bytedapm.com
 bytedns.net
 byted.org
 byteeffecttos-g.com
@@ -616,6 +617,8 @@ bytps.snssdk.com
 c01.i07.arnic.lv3.cloudglb.com
 c1.l.bytedns.net
 calender.snssdk.com
+capcut.com
+capcut.net
 capture.byteoversea.com
 careers.tiktok.com
 careers.tiktok.com.edgesuite.net
@@ -1326,6 +1329,7 @@ lf16-tiktok-common.ibytedos.com
 lf16-tiktok-common.ibytedtos.com
 lf16-tiktok.ibytedtos.com
 lf16-tiktok-web.ttwstatic.com
+lf16-web-buz.capcut.com
 lf19-capcut.faceueditorv.com
 lf19-capcut.faceulv.com
 lf19-effectcdn.byteeffecttos-g.com
@@ -2618,6 +2622,7 @@ seller.tiktok.com
 seller.tiktokglobalshop.com
 sf16-cgfe-sg.ibytedtos.com
 sf16-cgfe-va.ibytedtos.com
+sf16-draftcdn-sg.ibytedtos.com
 sf16-eacdn-tos.pstatp.com
 sf16-fe-tos-sg.i18n-pglstatp.com
 sf16-ies-music-sg.tiktokcdn.com
@@ -2640,6 +2645,7 @@ sf16-sg-default.edgesuite.net
 sf16-sg.hypstarcdn.com
 sf16-sg.muscdn.com
 sf16-sg.tiktokcdn.com
+sf16-short-va.bytedapm.com
 sf16-static.i18n-pglstatp.com
 sf16-tk-m.tiktokcdn.com
 sf16-tk-m.tiktokcdn.com.edgesuite.net
@@ -2687,6 +2693,7 @@ sf1-webcast-ttcdn.byteimg.com
 sf1-webcast-xgcdn.byteimg.com
 sf1-xgcdn-tos.pstatp.com
 sf1-xgcdn-tos.pstatp.com.wsglb0.com
+sf21-draftcdn-sg.ibytedtos.com
 sf21-tk.tiktokcdn.com
 sf21-va.tiktokcdn.com
 sf21-webcast.hypstarcdn.com
@@ -3160,6 +3167,7 @@ ttpush-maliva.byteoversea.com
 ttv5opencdn.jomodns.com
 tt-video.hrlb.ks-cdn1.com
 tt-video.hrlb.ks-cdn.com
+ttwid-va.byteoversea.com
 ttwstatic.com
 tuchong.pstatp.com
 tuchong.pstatp.com.w.cdngslb.com
@@ -3822,6 +3830,8 @@ www.amemv.com.w.kunluncan.com
 www.bytecdn.cn
 www.bytedanceapi.com
 www.byteicdn.com
+www.capcut.com
+www.capcut.net
 www.douyin.com
 www.hypstarcdn.com
 www.ibytedtos.com

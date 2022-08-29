@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 26.08.2022
+# Version: 29.08.2022
 # Update: 1 day
 #
 
@@ -86,6 +86,7 @@
 127.0.0.1 5yme8j.xxobs5.com
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 64a9.playfabapi.com
+127.0.0.1 655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 127.0.0.1 756964-android-ds.metric.gstatic.com
 127.0.0.1 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 127.0.0.1 7efc7eb08gtearevf.rarefix.info
@@ -126,6 +127,7 @@
 127.0.0.1 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 127.0.0.1 a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 127.0.0.1 a.5fcb097b24a36d5711d4315c16ad1b0cb9b3acae90c8d66462893b57.com
+127.0.0.1 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 127.0.0.1 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 127.0.0.1 a.6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52.com
 127.0.0.1 a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
@@ -255,6 +257,7 @@
 127.0.0.1 adz.wattpad.com
 127.0.0.1 a.e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 127.0.0.1 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
+127.0.0.1 a.eb1f496297bccfe372065b770b4089c85356073772b9a425a81ec241.com
 127.0.0.1 aegis.qq.com
 127.0.0.1 a.f18597036f4034883ad83eaeb38250b39241210076555a33a60171b6.com
 127.0.0.1 a.fc4d74be804f943caa3621b864c54ff0d19c0aca87671ceb51aec5e8.com
@@ -352,6 +355,8 @@
 127.0.0.1 anon.wapsite.info
 127.0.0.1 anpoimages.com
 127.0.0.1 anticheatexpert.com
+127.0.0.1 anton.faceapp.ai
+127.0.0.1 anton.faceapp.io
 127.0.0.1 anyclip.com
 127.0.0.1 anymind360.com
 127.0.0.1 aos.go2s.co
@@ -396,6 +401,8 @@
 127.0.0.1 api.dkyweipsds.com
 127.0.0.1 api.dns.oppomobile.com
 127.0.0.1 api.ethyca.com
+127.0.0.1 api.faceapp.ai
+127.0.0.1 api.faceapp.io
 127.0.0.1 api.facemojikeyboard.com
 127.0.0.1 api.floors.dev
 127.0.0.1 api.ftpub.net
@@ -1426,6 +1433,7 @@
 127.0.0.1 easemob.com
 127.0.0.1 easymakesolution.com
 127.0.0.1 easyworldbusiness.com
+127.0.0.1 eb1f496297bccfe372065b770b4089c85356073772b9a425a81ec241.com
 127.0.0.1 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
 127.0.0.1 ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
 127.0.0.1 ec2-54-165-151-168.compute-1.amazonaws.com
@@ -1534,6 +1542,9 @@
 127.0.0.1 fast.wistia.com
 127.0.0.1 fbs.smoot.apple.com
 127.0.0.1 feabtest.prod.tvlk-data.com
+127.0.0.1 feature-api.pa1mstore.com
+127.0.0.1 feature-api.palmplaystore.com
+127.0.0.1 feature-api.palmst0re.com
 127.0.0.1 feebhax.com
 127.0.0.1 feed1.yukbacaberita.com
 127.0.0.1 feedback-gl.heytapmobi.com
@@ -1867,12 +1878,16 @@
 127.0.0.1 horneymom.today
 127.0.0.1 hostek.se
 127.0.0.1 hostmaster.hichina.com
+127.0.0.1 hosts.faceapp.ai
+127.0.0.1 hosts.faceapp.io
 127.0.0.1 hosupshunk.com
 127.0.0.1 hot-girls18.com
 127.0.0.1 hotjar.com
 127.0.0.1 hotlove.uno
 127.0.0.1 hot-teens24.online
 127.0.0.1 houseof-lust.xyz
+127.0.0.1 howard.faceapp.ai
+127.0.0.1 howard.faceapp.io
 127.0.0.1 hrtechprivacy.com
 127.0.0.1 hrworld.com
 127.0.0.1 hsadspixel.net
@@ -2304,6 +2319,8 @@
 127.0.0.1 leaderboard.api.glance.inmobi.com
 127.0.0.1 leawo.org
 127.0.0.1 lencr.org
+127.0.0.1 leonard.faceapp.ai
+127.0.0.1 leonard.faceapp.io
 127.0.0.1 letsgoconvert.com
 127.0.0.1 letusdomino.com
 127.0.0.1 lf16-geckocdn.bytegecko-i18n.com
@@ -2657,6 +2674,8 @@
 127.0.0.1 nj.cschannel.anticheatexpert.com
 127.0.0.1 nmnm.lol
 127.0.0.1 no-cache.hubspot.com
+127.0.0.1 node-01-ipv6.faceapp.ai
+127.0.0.1 node-01-ipv6.faceapp.io
 127.0.0.1 northpoleitalia.it
 127.0.0.1 noss.litatom.com
 127.0.0.1 notifa.info
@@ -3052,6 +3071,8 @@
 127.0.0.1 rainway.tv
 127.0.0.1 rainway.us
 127.0.0.1 raishiz.com
+127.0.0.1 raj.faceapp.ai
+127.0.0.1 raj.faceapp.io
 127.0.0.1 rakam.io
 127.0.0.1 rakutenmarketing.com
 127.0.0.1 rakuten.tv
@@ -3246,6 +3267,9 @@
 127.0.0.1 sdksp.wetvinfo.com
 127.0.0.1 sdk.vskit.tv
 127.0.0.1 search1.daumcdn.net
+127.0.0.1 search-api-dcdn.pa1mstore.com
+127.0.0.1 search-api-dcdn.palmplaystore.com
+127.0.0.1 search-api-dcdn.palmst0re.com
 127.0.0.1 search-api.fie.futurecdn.net
 127.0.0.1 search.eportalmobile.com
 127.0.0.1 searchiq.co
@@ -3326,6 +3350,8 @@
 127.0.0.1 sharethis.com
 127.0.0.1 sharethrough.com
 127.0.0.1 sharing-config.spotifycdn.com
+127.0.0.1 sheldon.faceapp.ai
+127.0.0.1 sheldon.faceapp.io
 127.0.0.1 shepherd.ff.avast.com
 127.0.0.1 shepherd.sb.avast.com
 127.0.0.1 shib22.pro
@@ -3520,6 +3546,8 @@
 127.0.0.1 store.outbyte.com
 127.0.0.1 streamback.ff.avast.com
 127.0.0.1 streamrail.net
+127.0.0.1 stuart.faceapp.ai
+127.0.0.1 stuart.faceapp.io
 127.0.0.1 stuck-sg.dc.oppomobile.com
 127.0.0.1 stun.ekiga.net
 127.0.0.1 stup5.appmeasurements.com

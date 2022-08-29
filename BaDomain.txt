@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 26.08.2022
+# Version: 29.08.2022
 # Update: 1 day
 #
 
@@ -86,6 +86,7 @@
 5yme8j.xxobs5.com
 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 64a9.playfabapi.com
+655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 756964-android-ds.metric.gstatic.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 7efc7eb08gtearevf.rarefix.info
@@ -126,6 +127,7 @@ a4.applovin.com
 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 a.5fcb097b24a36d5711d4315c16ad1b0cb9b3acae90c8d66462893b57.com
+a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 a.6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52.com
 a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
@@ -255,6 +257,7 @@ adzhosts.eu
 adz.wattpad.com
 a.e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
+a.eb1f496297bccfe372065b770b4089c85356073772b9a425a81ec241.com
 aegis.qq.com
 a.f18597036f4034883ad83eaeb38250b39241210076555a33a60171b6.com
 a.fc4d74be804f943caa3621b864c54ff0d19c0aca87671ceb51aec5e8.com
@@ -352,6 +355,8 @@ anon.oauth.cimpress.io
 anon.wapsite.info
 anpoimages.com
 anticheatexpert.com
+anton.faceapp.ai
+anton.faceapp.io
 anyclip.com
 anymind360.com
 aos.go2s.co
@@ -396,6 +401,8 @@ api.device.xiaomi.net
 api.dkyweipsds.com
 api.dns.oppomobile.com
 api.ethyca.com
+api.faceapp.ai
+api.faceapp.io
 api.facemojikeyboard.com
 api.floors.dev
 api.ftpub.net
@@ -1426,6 +1433,7 @@ e.alipay.com
 easemob.com
 easymakesolution.com
 easyworldbusiness.com
+eb1f496297bccfe372065b770b4089c85356073772b9a425a81ec241.com
 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
 ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
 ec2-54-165-151-168.compute-1.amazonaws.com
@@ -1534,6 +1542,9 @@ farsroid.com
 fast.wistia.com
 fbs.smoot.apple.com
 feabtest.prod.tvlk-data.com
+feature-api.pa1mstore.com
+feature-api.palmplaystore.com
+feature-api.palmst0re.com
 feebhax.com
 feed1.yukbacaberita.com
 feedback-gl.heytapmobi.com
@@ -1867,12 +1878,16 @@ horizonme.net
 horneymom.today
 hostek.se
 hostmaster.hichina.com
+hosts.faceapp.ai
+hosts.faceapp.io
 hosupshunk.com
 hot-girls18.com
 hotjar.com
 hotlove.uno
 hot-teens24.online
 houseof-lust.xyz
+howard.faceapp.ai
+howard.faceapp.io
 hrtechprivacy.com
 hrworld.com
 hsadspixel.net
@@ -2304,6 +2319,8 @@ lcdn-locator-usms11.apple.com.akadns.net
 leaderboard.api.glance.inmobi.com
 leawo.org
 lencr.org
+leonard.faceapp.ai
+leonard.faceapp.io
 letsgoconvert.com
 letusdomino.com
 lf16-geckocdn.bytegecko-i18n.com
@@ -2657,6 +2674,8 @@ nightfallinquiredune.com
 nj.cschannel.anticheatexpert.com
 nmnm.lol
 no-cache.hubspot.com
+node-01-ipv6.faceapp.ai
+node-01-ipv6.faceapp.io
 northpoleitalia.it
 noss.litatom.com
 notifa.info
@@ -3052,6 +3071,8 @@ radaris.com
 rainway.tv
 rainway.us
 raishiz.com
+raj.faceapp.ai
+raj.faceapp.io
 rakam.io
 rakutenmarketing.com
 rakuten.tv
@@ -3246,6 +3267,9 @@ sdk.pushmessage.samsung.com
 sdksp.wetvinfo.com
 sdk.vskit.tv
 search1.daumcdn.net
+search-api-dcdn.pa1mstore.com
+search-api-dcdn.palmplaystore.com
+search-api-dcdn.palmst0re.com
 search-api.fie.futurecdn.net
 search.eportalmobile.com
 searchiq.co
@@ -3326,6 +3350,8 @@ sharepointonline.com
 sharethis.com
 sharethrough.com
 sharing-config.spotifycdn.com
+sheldon.faceapp.ai
+sheldon.faceapp.io
 shepherd.ff.avast.com
 shepherd.sb.avast.com
 shib22.pro
@@ -3520,6 +3546,8 @@ storeimg.heytapimg.com
 store.outbyte.com
 streamback.ff.avast.com
 streamrail.net
+stuart.faceapp.ai
+stuart.faceapp.io
 stuck-sg.dc.oppomobile.com
 stun.ekiga.net
 stup5.appmeasurements.com
