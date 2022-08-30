@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 29.08.2022
+# Version: 30.08.2022
 # Update: 1 day
 #
 
@@ -67,6 +67,7 @@
 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
 4835415.fs1.hubspotusercontent-na1.net
 49-courier.push.apple.com
+4ae9.playfabapi.com
 4cinsights.com
 4gnetfree.top
 4g-net.top
@@ -251,6 +252,8 @@ advertnative.com
 adviva.net
 adv-sv-show.focus.cn
 adx.adsgaga.com
+ad-x.com
+ad-x.co.uk
 adx-id.ads.heytapmobile.com
 ad.youtube.com
 adzhosts.eu
@@ -334,7 +337,14 @@ analytics.rocks
 analytics-tcp.mintegral.net
 analytics-vibe.contextads.live
 anchor.fm
+androidads4-1.adcolony.com
+androidads4-2.adcolony.com
+androidads4-3.adcolony.com
+androidads4-4.adcolony.com
+androidads4-5.adcolony.com
+androidads4-6.adcolony.com
 androidads4-7.adcolony.com
+androidads4-8.adcolony.com
 android-appboot.netflix.com
 android.bignox.com
 android.crashsight.wetest.net
@@ -393,6 +403,7 @@ api.black.riseup.net
 api.blocka.net
 api.boomplaymusic.com
 api.cleanmaster.club
+api-cn.theme.heytapmobi.com
 api.coin.baca.co.id
 api.data.appsinnova.com
 api-dci.kinemasters.com
@@ -553,9 +564,12 @@ appodealstack.com
 app.overloop.com
 app.pou.me
 app.pushbrothers.com
+apps.ad-x.com
+apps.ad-x.co.uk
 app.securiti.ai
 appsflyer.com
 apps.i59400f.xyz
+apps.identrust.com
 appsinnova.com
 app-site-association.cdn-apple.com
 app-sj30.marketo.com
@@ -658,6 +672,7 @@ at.alicdn.com
 atomic.oxy.host
 atom-log.3.cn
 atrace-api.palmplaystore.com
+att-citrix.com
 attention-system-warning.com
 attitude.applinzi.com
 atwola.com
@@ -682,6 +697,7 @@ avanquest.com
 avatar.pho.to
 avcdn.net
 a.vdo.ai
+avlconf.coloros.com
 avlyun.com
 avlyun.sec.miui.com
 a.wattpad.com
@@ -802,6 +818,7 @@ brightcove.net
 britepool.com
 broadcast.biliintl.com
 browser-i-gl.heytapmobile.com
+browserplat.vivo.com.cn
 brs.api.intl.miui.com
 b.sogou.com
 bstarstatic.com
@@ -1018,6 +1035,7 @@ cloudcf.like-it.video
 cloudctrl.gcloudsdk.com
 cloudctrl.igamecj.com
 cloudflareinsights.com
+cloudflare-okta.com
 cloudfront.net
 cloudi-in.browser.oppomobile.com
 cloudinary.com
@@ -1069,6 +1087,7 @@ company-target.com
 component-ota-f.coloros.com
 concertads-configs.vox-cdn.com
 concert.io
+conf-cn.dc.heytapmobi.com
 confection.io
 confection-status.netlify.app
 config.ab.qq.com
@@ -1264,6 +1283,7 @@ d.applovin.com
 das.uadexchange.com
 data00.adlooxtracking.com
 data.ai
+data.aldagames.com
 data.appsinnova.com
 data.bilibili.tv
 data.biliintl.com
@@ -1418,6 +1438,7 @@ dum5uv7xb9d66.cloudfront.net
 duolaipk.com
 d.wattpad.com
 dxp.baidu.com
+dynamodb.us-west-2.amazonaws.com
 dzbkjh1.myoppo.com
 e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
@@ -1482,6 +1503,7 @@ epdg.epc.mnc009.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc011.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc089.mcc510.pub.3gppnetwork.org
+epoch-cn.cdo.heytapmobi.com
 epoch-id.cdo.heytapmobi.com
 eportalmobile.com
 erda158.to
@@ -1631,6 +1653,7 @@ fuseplatform.net
 futurecdn.net
 futureplc.com
 fuwu.sogou.com
+fv-st-konrad.de
 fw.dnsforwardingservice.com
 fwmrm.net
 fxgate.baidu.com
@@ -1639,7 +1662,9 @@ g0.market.mi-img.com
 g2.com
 g2crowd.com
 g4tagging.komando.com
+gabrio.it
 ga.clearbit.com
+galeona.com
 g.alicdn.com
 galleryjs.io
 gallerysearchapi.micloud.xiaomi.net
@@ -1668,6 +1693,7 @@ gateway.fe.apple-dns.net
 gateway.icloud.com
 gateway.multiplay.zepeto.run
 gauss-sauoldcostmanual-sg.allawnofs.com
+gbvm.nl
 gcmapi.like-it.video
 gcp.api.snapchat.com
 gcs.sc-cdn.net
@@ -1971,6 +1997,7 @@ id.bignox.com
 id-comet.z-dn.net
 id-connect.sms.intl.xiaomi.com
 idea5.xyz
+identrust.com
 id-fcm.sms.intl.xiaomi.com
 id.gallerysearchapi.micloud.xiaomi.net
 idg.map.fastly.net
@@ -2171,10 +2198,12 @@ iresearch.vip
 irisk-id-l.alipay.com
 irl-api.twibida.com
 ir.sogou.com
+irus.coloros.com
 isau.coloros.com
 i.scooper.news
 iseepassword.com
 isex.baby
+i-sg01a.ocloud.heytapmobi.com
 i-sg.browser.heytapmobile.com
 i.snssdk.com
 isp-map.xunyou.mobi
@@ -2285,6 +2314,7 @@ krxd.net
 ks-sgp-cdn.snackvideo.in
 ks-sgp-origin-pull.snackvideo.in
 kuaishou.com
+kucoin-sso.com
 k-ulog.kwai-pro.com
 k-ulog.kwaipros.com
 kustens.com
@@ -2428,6 +2458,7 @@ mail.blackseas.ge
 mail.bms.ge
 mail.cardboard.ge
 mailchimp.com
+mailchimp-help.com
 mail.exportinvest.ge
 mail.geclose2eu.info
 mail.growin.ge
@@ -2748,6 +2779,7 @@ onesignal.com
 onesoft.com.vn
 onetrust.com
 onezapp.com
+online.fastman92.com
 online.lenzmx.com
 onnanoko.tokyo
 opc.cloud.tencent.com
@@ -2908,6 +2940,7 @@ pingfore.qq.com
 ping.huatuo.qq.com
 ping.im-gb.com
 pingma.qq.com
+pingtest.avlsec.com
 pinguin.kredivo.com
 pinning-02.secb2b.com
 pinterest.gw-dv.net
@@ -3000,6 +3033,7 @@ pro-market.net
 propsid.b-cdn.net
 proservice.ge
 prospector.clearbit.com
+proxy.apps.oppomobile.com
 proxyf.apps.oppomobile.com
 proxy-omm.lotusflare.com
 ps4remoteplay.net
@@ -3202,7 +3236,9 @@ rubiconproject.com
 ru.bignox.com
 ruciplbrxwjscyhtapvlfskoqqgnxevw.name
 rudyvalencia.pro
+ruplay.market
 rusfsg.coloros.com
+rustore.ru
 rwt.fortumo.com
 s10.histats.com
 s160-ava-talk.zadn.vn
@@ -3376,6 +3412,7 @@ sixtest.com
 sj.bignox.com
 skimlinks.com
 skimresources.com
+slack-mailchimp.com
 sla-intl.trustlook.com
 slant-api.com
 slashdotmedia.com
@@ -3593,6 +3630,7 @@ system1.com
 sysupgrade.api.vivoglobal.com
 syszalive.uksouth.cloudapp.azure.com
 szmg.qq.com
+t0.api.kikakeyboard.com
 t14.market.mi-img.com
 t17.market.mi-img.com
 t1.daumcdn.net
@@ -3703,6 +3741,7 @@ tm.a.prd.aadg.trafficmanager.net
 tmdak.top
 tmdb.org
 tmge.alicdn.com
+t-mobile-okta.com
 tm.prd.ags.akadns.net
 tms-api.shalltry.com
 tns-counter.ru
@@ -3772,6 +3811,7 @@ tw.bignox.com
 twibida.com
 twilio-cms-prod.s3.amazonaws.com
 twilio.com
+twilio-okta.com
 twilio.org
 tx2-sgp-cdn.snackvideo.in
 tx.flv.nimo.tv
@@ -3782,6 +3822,7 @@ ty-cdn.net
 tynt.com
 typeform.com
 typekit.net
+u3.teddymobile.cn
 uadexchange.com
 u-ad.info
 ua-passport.space
@@ -3961,6 +4002,7 @@ vungle2-cdn-prod.s3.amazonaws.com
 vungle.com
 vur.fyi
 vyn.fyi
+vzwcorp.co
 w55c.net
 wa.co
 wagomu.b-cdn.net
@@ -4002,6 +4044,7 @@ website-files.com
 websocket-visitors.smartsupp.com
 webstore.ucweb.com
 webtoon-phinf.pstatic.net
+webtoons-static.pstatic.net
 web.toutiao.com
 webullfintech.com
 webview.unityads.unity3d.com
@@ -4086,6 +4129,8 @@ www.acckwmhi.com
 www.adapex.io
 www.addtoany.com
 www.adlook.me
+www.ad-x.com
+www.ad-x.co.uk
 www.agencymrbeast.com
 www.alipay.com
 www.announcekit.app
@@ -4134,6 +4179,7 @@ www.focusmedica.in
 www.ftblltrck.com
 www.g2.com
 www.g2crowd.com
+www.gabrio.it
 www.garagewestrotterdam.nl
 www.geowf.ge
 www.giphy.com

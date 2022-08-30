@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 29.08.2022
+# Version: 30.08.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -75,6 +75,7 @@
 127.0.0.1 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
 127.0.0.1 4835415.fs1.hubspotusercontent-na1.net
 127.0.0.1 49-courier.push.apple.com
+127.0.0.1 4ae9.playfabapi.com
 127.0.0.1 4cinsights.com
 127.0.0.1 4gnetfree.top
 127.0.0.1 4g-net.top
@@ -259,6 +260,8 @@
 127.0.0.1 adviva.net
 127.0.0.1 adv-sv-show.focus.cn
 127.0.0.1 adx.adsgaga.com
+127.0.0.1 ad-x.com
+127.0.0.1 ad-x.co.uk
 127.0.0.1 adx-id.ads.heytapmobile.com
 127.0.0.1 ad.youtube.com
 127.0.0.1 adzhosts.eu
@@ -342,7 +345,14 @@
 127.0.0.1 analytics-tcp.mintegral.net
 127.0.0.1 analytics-vibe.contextads.live
 127.0.0.1 anchor.fm
+127.0.0.1 androidads4-1.adcolony.com
+127.0.0.1 androidads4-2.adcolony.com
+127.0.0.1 androidads4-3.adcolony.com
+127.0.0.1 androidads4-4.adcolony.com
+127.0.0.1 androidads4-5.adcolony.com
+127.0.0.1 androidads4-6.adcolony.com
 127.0.0.1 androidads4-7.adcolony.com
+127.0.0.1 androidads4-8.adcolony.com
 127.0.0.1 android-appboot.netflix.com
 127.0.0.1 android.bignox.com
 127.0.0.1 android.crashsight.wetest.net
@@ -401,6 +411,7 @@
 127.0.0.1 api.blocka.net
 127.0.0.1 api.boomplaymusic.com
 127.0.0.1 api.cleanmaster.club
+127.0.0.1 api-cn.theme.heytapmobi.com
 127.0.0.1 api.coin.baca.co.id
 127.0.0.1 api.data.appsinnova.com
 127.0.0.1 api-dci.kinemasters.com
@@ -561,9 +572,12 @@
 127.0.0.1 app.overloop.com
 127.0.0.1 app.pou.me
 127.0.0.1 app.pushbrothers.com
+127.0.0.1 apps.ad-x.com
+127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 app.securiti.ai
 127.0.0.1 appsflyer.com
 127.0.0.1 apps.i59400f.xyz
+127.0.0.1 apps.identrust.com
 127.0.0.1 appsinnova.com
 127.0.0.1 app-site-association.cdn-apple.com
 127.0.0.1 app-sj30.marketo.com
@@ -666,6 +680,7 @@
 127.0.0.1 atomic.oxy.host
 127.0.0.1 atom-log.3.cn
 127.0.0.1 atrace-api.palmplaystore.com
+127.0.0.1 att-citrix.com
 127.0.0.1 attention-system-warning.com
 127.0.0.1 attitude.applinzi.com
 127.0.0.1 atwola.com
@@ -690,6 +705,7 @@
 127.0.0.1 avatar.pho.to
 127.0.0.1 avcdn.net
 127.0.0.1 a.vdo.ai
+127.0.0.1 avlconf.coloros.com
 127.0.0.1 avlyun.com
 127.0.0.1 avlyun.sec.miui.com
 127.0.0.1 a.wattpad.com
@@ -810,6 +826,7 @@
 127.0.0.1 britepool.com
 127.0.0.1 broadcast.biliintl.com
 127.0.0.1 browser-i-gl.heytapmobile.com
+127.0.0.1 browserplat.vivo.com.cn
 127.0.0.1 brs.api.intl.miui.com
 127.0.0.1 b.sogou.com
 127.0.0.1 bstarstatic.com
@@ -1026,6 +1043,7 @@
 127.0.0.1 cloudctrl.gcloudsdk.com
 127.0.0.1 cloudctrl.igamecj.com
 127.0.0.1 cloudflareinsights.com
+127.0.0.1 cloudflare-okta.com
 127.0.0.1 cloudfront.net
 127.0.0.1 cloudi-in.browser.oppomobile.com
 127.0.0.1 cloudinary.com
@@ -1077,6 +1095,7 @@
 127.0.0.1 component-ota-f.coloros.com
 127.0.0.1 concertads-configs.vox-cdn.com
 127.0.0.1 concert.io
+127.0.0.1 conf-cn.dc.heytapmobi.com
 127.0.0.1 confection.io
 127.0.0.1 confection-status.netlify.app
 127.0.0.1 config.ab.qq.com
@@ -1272,6 +1291,7 @@
 127.0.0.1 das.uadexchange.com
 127.0.0.1 data00.adlooxtracking.com
 127.0.0.1 data.ai
+127.0.0.1 data.aldagames.com
 127.0.0.1 data.appsinnova.com
 127.0.0.1 data.bilibili.tv
 127.0.0.1 data.biliintl.com
@@ -1426,6 +1446,7 @@
 127.0.0.1 duolaipk.com
 127.0.0.1 d.wattpad.com
 127.0.0.1 dxp.baidu.com
+127.0.0.1 dynamodb.us-west-2.amazonaws.com
 127.0.0.1 dzbkjh1.myoppo.com
 127.0.0.1 e10204.dsca.akamaiedge.net
 127.0.0.1 e10499.dsce9.akamaiedge.net
@@ -1490,6 +1511,7 @@
 127.0.0.1 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
 127.0.0.1 epdg.epc.mnc011.mcc510.pub.3gppnetwork.org
 127.0.0.1 epdg.epc.mnc089.mcc510.pub.3gppnetwork.org
+127.0.0.1 epoch-cn.cdo.heytapmobi.com
 127.0.0.1 epoch-id.cdo.heytapmobi.com
 127.0.0.1 eportalmobile.com
 127.0.0.1 erda158.to
@@ -1639,6 +1661,7 @@
 127.0.0.1 futurecdn.net
 127.0.0.1 futureplc.com
 127.0.0.1 fuwu.sogou.com
+127.0.0.1 fv-st-konrad.de
 127.0.0.1 fw.dnsforwardingservice.com
 127.0.0.1 fwmrm.net
 127.0.0.1 fxgate.baidu.com
@@ -1647,7 +1670,9 @@
 127.0.0.1 g2.com
 127.0.0.1 g2crowd.com
 127.0.0.1 g4tagging.komando.com
+127.0.0.1 gabrio.it
 127.0.0.1 ga.clearbit.com
+127.0.0.1 galeona.com
 127.0.0.1 g.alicdn.com
 127.0.0.1 galleryjs.io
 127.0.0.1 gallerysearchapi.micloud.xiaomi.net
@@ -1676,6 +1701,7 @@
 127.0.0.1 gateway.icloud.com
 127.0.0.1 gateway.multiplay.zepeto.run
 127.0.0.1 gauss-sauoldcostmanual-sg.allawnofs.com
+127.0.0.1 gbvm.nl
 127.0.0.1 gcmapi.like-it.video
 127.0.0.1 gcp.api.snapchat.com
 127.0.0.1 gcs.sc-cdn.net
@@ -1979,6 +2005,7 @@
 127.0.0.1 id-comet.z-dn.net
 127.0.0.1 id-connect.sms.intl.xiaomi.com
 127.0.0.1 idea5.xyz
+127.0.0.1 identrust.com
 127.0.0.1 id-fcm.sms.intl.xiaomi.com
 127.0.0.1 id.gallerysearchapi.micloud.xiaomi.net
 127.0.0.1 idg.map.fastly.net
@@ -2179,10 +2206,12 @@
 127.0.0.1 irisk-id-l.alipay.com
 127.0.0.1 irl-api.twibida.com
 127.0.0.1 ir.sogou.com
+127.0.0.1 irus.coloros.com
 127.0.0.1 isau.coloros.com
 127.0.0.1 i.scooper.news
 127.0.0.1 iseepassword.com
 127.0.0.1 isex.baby
+127.0.0.1 i-sg01a.ocloud.heytapmobi.com
 127.0.0.1 i-sg.browser.heytapmobile.com
 127.0.0.1 i.snssdk.com
 127.0.0.1 isp-map.xunyou.mobi
@@ -2293,6 +2322,7 @@
 127.0.0.1 ks-sgp-cdn.snackvideo.in
 127.0.0.1 ks-sgp-origin-pull.snackvideo.in
 127.0.0.1 kuaishou.com
+127.0.0.1 kucoin-sso.com
 127.0.0.1 k-ulog.kwai-pro.com
 127.0.0.1 k-ulog.kwaipros.com
 127.0.0.1 kustens.com
@@ -2436,6 +2466,7 @@
 127.0.0.1 mail.bms.ge
 127.0.0.1 mail.cardboard.ge
 127.0.0.1 mailchimp.com
+127.0.0.1 mailchimp-help.com
 127.0.0.1 mail.exportinvest.ge
 127.0.0.1 mail.geclose2eu.info
 127.0.0.1 mail.growin.ge
@@ -2756,6 +2787,7 @@
 127.0.0.1 onesoft.com.vn
 127.0.0.1 onetrust.com
 127.0.0.1 onezapp.com
+127.0.0.1 online.fastman92.com
 127.0.0.1 online.lenzmx.com
 127.0.0.1 onnanoko.tokyo
 127.0.0.1 opc.cloud.tencent.com
@@ -2916,6 +2948,7 @@
 127.0.0.1 ping.huatuo.qq.com
 127.0.0.1 ping.im-gb.com
 127.0.0.1 pingma.qq.com
+127.0.0.1 pingtest.avlsec.com
 127.0.0.1 pinguin.kredivo.com
 127.0.0.1 pinning-02.secb2b.com
 127.0.0.1 pinterest.gw-dv.net
@@ -3008,6 +3041,7 @@
 127.0.0.1 propsid.b-cdn.net
 127.0.0.1 proservice.ge
 127.0.0.1 prospector.clearbit.com
+127.0.0.1 proxy.apps.oppomobile.com
 127.0.0.1 proxyf.apps.oppomobile.com
 127.0.0.1 proxy-omm.lotusflare.com
 127.0.0.1 ps4remoteplay.net
@@ -3210,7 +3244,9 @@
 127.0.0.1 ru.bignox.com
 127.0.0.1 ruciplbrxwjscyhtapvlfskoqqgnxevw.name
 127.0.0.1 rudyvalencia.pro
+127.0.0.1 ruplay.market
 127.0.0.1 rusfsg.coloros.com
+127.0.0.1 rustore.ru
 127.0.0.1 rwt.fortumo.com
 127.0.0.1 s10.histats.com
 127.0.0.1 s160-ava-talk.zadn.vn
@@ -3384,6 +3420,7 @@
 127.0.0.1 sj.bignox.com
 127.0.0.1 skimlinks.com
 127.0.0.1 skimresources.com
+127.0.0.1 slack-mailchimp.com
 127.0.0.1 sla-intl.trustlook.com
 127.0.0.1 slant-api.com
 127.0.0.1 slashdotmedia.com
@@ -3601,6 +3638,7 @@
 127.0.0.1 sysupgrade.api.vivoglobal.com
 127.0.0.1 syszalive.uksouth.cloudapp.azure.com
 127.0.0.1 szmg.qq.com
+127.0.0.1 t0.api.kikakeyboard.com
 127.0.0.1 t14.market.mi-img.com
 127.0.0.1 t17.market.mi-img.com
 127.0.0.1 t1.daumcdn.net
@@ -3711,6 +3749,7 @@
 127.0.0.1 tmdak.top
 127.0.0.1 tmdb.org
 127.0.0.1 tmge.alicdn.com
+127.0.0.1 t-mobile-okta.com
 127.0.0.1 tm.prd.ags.akadns.net
 127.0.0.1 tms-api.shalltry.com
 127.0.0.1 tns-counter.ru
@@ -3780,6 +3819,7 @@
 127.0.0.1 twibida.com
 127.0.0.1 twilio-cms-prod.s3.amazonaws.com
 127.0.0.1 twilio.com
+127.0.0.1 twilio-okta.com
 127.0.0.1 twilio.org
 127.0.0.1 tx2-sgp-cdn.snackvideo.in
 127.0.0.1 tx.flv.nimo.tv
@@ -3790,6 +3830,7 @@
 127.0.0.1 tynt.com
 127.0.0.1 typeform.com
 127.0.0.1 typekit.net
+127.0.0.1 u3.teddymobile.cn
 127.0.0.1 uadexchange.com
 127.0.0.1 u-ad.info
 127.0.0.1 ua-passport.space
@@ -3969,6 +4010,7 @@
 127.0.0.1 vungle.com
 127.0.0.1 vur.fyi
 127.0.0.1 vyn.fyi
+127.0.0.1 vzwcorp.co
 127.0.0.1 w55c.net
 127.0.0.1 wa.co
 127.0.0.1 wagomu.b-cdn.net
@@ -4010,6 +4052,7 @@
 127.0.0.1 websocket-visitors.smartsupp.com
 127.0.0.1 webstore.ucweb.com
 127.0.0.1 webtoon-phinf.pstatic.net
+127.0.0.1 webtoons-static.pstatic.net
 127.0.0.1 web.toutiao.com
 127.0.0.1 webullfintech.com
 127.0.0.1 webview.unityads.unity3d.com
@@ -4094,6 +4137,8 @@
 127.0.0.1 www.adapex.io
 127.0.0.1 www.addtoany.com
 127.0.0.1 www.adlook.me
+127.0.0.1 www.ad-x.com
+127.0.0.1 www.ad-x.co.uk
 127.0.0.1 www.agencymrbeast.com
 127.0.0.1 www.alipay.com
 127.0.0.1 www.announcekit.app
@@ -4142,6 +4187,7 @@
 127.0.0.1 www.ftblltrck.com
 127.0.0.1 www.g2.com
 127.0.0.1 www.g2crowd.com
+127.0.0.1 www.gabrio.it
 127.0.0.1 www.garagewestrotterdam.nl
 127.0.0.1 www.geowf.ge
 127.0.0.1 www.giphy.com
