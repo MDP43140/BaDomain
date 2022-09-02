@@ -1,10 +1,11 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 31.08.2022
+# Version: 02.09.2022
 # Update: 1 day
 #
 
+127.0.0.1 0-courier.push.apple.com
 127.0.0.1 0kczn7.l0fwny.com
 127.0.0.1 0.news20.biz
 127.0.0.1 0.ygti905ffth6.com
@@ -18,68 +19,103 @@
 127.0.0.1 126.net
 127.0.0.1 12-courier.push.apple.com
 127.0.0.1 133fitness.com
+127.0.0.1 13-courier.push.apple.com
+127.0.0.1 14-courier.push.apple.com
+127.0.0.1 15-courier.push.apple.com
 127.0.0.1 163.com
 127.0.0.1 166co.com
 127.0.0.1 166.net
+127.0.0.1 16-courier.push.apple.com
+127.0.0.1 17-courier.push.apple.com
 127.0.0.1 18000.me
 127.0.0.1 18183.com
+127.0.0.1 18-courier.push.apple.com
 127.0.0.1 19-courier.push.apple.com
 127.0.0.1 1.cn.pool.ntp.org
+127.0.0.1 1-courier.push.apple.com
 127.0.0.1 1g5k5w.com
 127.0.0.1 1.ssiloc.com
 127.0.0.1 201205igp.gameloft.com
 127.0.0.1 20824721p.rfihub.com
 127.0.0.1 20ca2.playfabapi.com
+127.0.0.1 20-courier.push.apple.com
+127.0.0.1 21-courier.push.apple.com
+127.0.0.1 22-courier.push.apple.com
 127.0.0.1 232.138.196.35.bc.googleusercontent.com
+127.0.0.1 23-courier.push.apple.com
 127.0.0.1 24-courier.push.apple.com
 127.0.0.1 25-courier.push.apple.com
+127.0.0.1 26-courier.push.apple.com
 127.0.0.1 27-courier.push.apple.com
 127.0.0.1 2828691.group41.sites.hubspot.net
+127.0.0.1 28-courier.push.apple.com
+127.0.0.1 29-courier.push.apple.com
+127.0.0.1 2-courier.push.apple.com
+127.0.0.1 2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 127.0.0.1 2ktgy3.yw7nm3.com
 127.0.0.1 2tx120.1g5k5w.com
 127.0.0.1 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
 127.0.0.1 30-courier.push.apple.com
 127.0.0.1 31-courier.push.apple.com
+127.0.0.1 31f1a2c6-dnsotls-ds.metric.gstatic.com
 127.0.0.1 320volt.com
+127.0.0.1 32-courier.push.apple.com
 127.0.0.1 33across.com
 127.0.0.1 33-courier.push.apple.com
 127.0.0.1 344587-android-ds.metric.gstatic.com
+127.0.0.1 34-courier.push.apple.com
+127.0.0.1 35-courier.push.apple.com
 127.0.0.1 36-courier.push.apple.com
+127.0.0.1 37-courier.push.apple.com
+127.0.0.1 38-courier.push.apple.com
+127.0.0.1 39-courier.push.apple.com
 127.0.0.1 39d0825d09f05.cdn.sohucs.com
 127.0.0.1 3.cn
+127.0.0.1 3-courier.push.apple.com
 127.0.0.1 3lift.com
 127.0.0.1 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
 127.0.0.1 40-courier.push.apple.com
 127.0.0.1 41-courier.push.apple.com
+127.0.0.1 42-courier.push.apple.com
 127.0.0.1 42trck.com
+127.0.0.1 43-courier.push.apple.com
 127.0.0.1 448673-android-ds.metric.gstatic.com
 127.0.0.1 44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com
 127.0.0.1 44-courier.push.apple.com
 127.0.0.1 45-courier.push.apple.com
+127.0.0.1 46-courier.push.apple.com
 127.0.0.1 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
+127.0.0.1 47-courier.push.apple.com
 127.0.0.1 4835415.fs1.hubspotusercontent-na1.net
+127.0.0.1 48-courier.push.apple.com
 127.0.0.1 49-courier.push.apple.com
 127.0.0.1 4ae9.playfabapi.com
 127.0.0.1 4cinsights.com
+127.0.0.1 4-courier.push.apple.com
 127.0.0.1 4gnetfree.top
 127.0.0.1 4g-net.top
 127.0.0.1 4gnet.top
 127.0.0.1 4mads.com
+127.0.0.1 50-courier.push.apple.com
 127.0.0.1 5140.deeginews.com
 127.0.0.1 51.appmeasurements.com
 127.0.0.1 52.appmeasurements.com
+127.0.0.1 52-courier.push.apple.com
 127.0.0.1 531840-android-ds.metric.gstatic.com
 127.0.0.1 53.appmeasurements.com
 127.0.0.1 54.appmeasurements.com
 127.0.0.1 55.appmeasurements.com
 127.0.0.1 5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 127.0.0.1 5b0988e595225.cdn.sohucs.com
+127.0.0.1 5-courier.push.apple.com
 127.0.0.1 5hjdbfjfd5.monster
 127.0.0.1 5yme8j.xxobs5.com
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 64a9.playfabapi.com
+127.0.0.1 6-courier.push.apple.com
 127.0.0.1 756964-android-ds.metric.gstatic.com
 127.0.0.1 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
+127.0.0.1 7-courier.push.apple.com
 127.0.0.1 7efc7eb08gtearevf.rarefix.info
 127.0.0.1 829395.smushcdn.com
 127.0.0.1 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
@@ -87,6 +123,7 @@
 127.0.0.1 845257-android-ds.metric.gstatic.com
 127.0.0.1 8b2a.playfabapi.com
 127.0.0.1 8.bignox.com
+127.0.0.1 8-courier.push.apple.com
 127.0.0.1 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 127.0.0.1 91busgame.com
 127.0.0.1 94.110.204.35.bc.googleusercontent.com
@@ -94,6 +131,7 @@
 127.0.0.1 9C8B0AE1.dr.youme.im
 127.0.0.1 9C8B0AE1.rtc.youme.im
 127.0.0.1 9-courier.push.apple.com
+127.0.0.1 9d4c473e-dnsotls-ds.metric.gstatic.com
 127.0.0.1 a01.uadexchange.com
 127.0.0.1 a02.uadexchange.com
 127.0.0.1 a03.uadexchange.com
@@ -105,8 +143,10 @@
 127.0.0.1 a2047.dscb.akamai.net
 127.0.0.1 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 127.0.0.1 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
+127.0.0.1 a.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 127.0.0.1 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
 127.0.0.1 a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
+127.0.0.1 a.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
 127.0.0.1 a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 127.0.0.1 a4.applovin.com
 127.0.0.1 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
@@ -504,6 +544,7 @@
 127.0.0.1 ar.bignox.com
 127.0.0.1 arcai.com
 127.0.0.1 arms-retcode-sg.aliyuncs.com
+127.0.0.1 artas.biz
 127.0.0.1 artpp-vivofs.vivoglobal.com
 127.0.0.1 artsai.com
 127.0.0.1 asai-file-wlanapkcdn2.vivoglobal.com
@@ -577,6 +618,7 @@
 127.0.0.1 assets.webmoney.ru
 127.0.0.1 astivysauran.com
 127.0.0.1 astra9dlya10.com
+127.0.0.1 astratech.pro
 127.0.0.1 at.alicdn.com
 127.0.0.1 atomic.oxy.host
 127.0.0.1 atom-log.3.cn
@@ -979,6 +1021,7 @@
 127.0.0.1 crazygirls24.com
 127.0.0.1 creativecow.net
 127.0.0.1 creatives.contextads.live
+127.0.0.1 creditkarma.com
 127.0.0.1 creemo.pl
 127.0.0.1 crello.com
 127.0.0.1 cricket.hastopic.com
@@ -1010,6 +1053,7 @@
 127.0.0.1 cuminside.uno
 127.0.0.1 cursecdn.com
 127.0.0.1 curse.com
+127.0.0.1 custhelp.com
 127.0.0.1 cutegirl.my.id
 127.0.0.1 cuttlela.ucweb.com
 127.0.0.1 c.webengage.com
@@ -1785,6 +1829,7 @@
 127.0.0.1 insurads.com
 127.0.0.1 in.sv
 127.0.0.1 intellitxt.com
+127.0.0.1 intercomcdn.com
 127.0.0.1 intercom.io
 127.0.0.1 internal.faceunity.com
 127.0.0.1 internetpositif.uzone.id
@@ -2866,6 +2911,7 @@
 127.0.0.1 source.servicewebly.com
 127.0.0.1 sp-497f6f2f.honzik.avcdn.net
 127.0.0.1 sp-607ddbd2.honzik.avcdn.net
+127.0.0.1 spacex.plus
 127.0.0.1 spanishcoursesunamuno.com
 127.0.0.1 spatial.fineboost.com
 127.0.0.1 specialdate.my.id
@@ -3563,6 +3609,7 @@
 127.0.0.1 www.vidio.com
 127.0.0.1 www.voovlive.com
 127.0.0.1 www.vum.fyi
+127.0.0.1 www.vum.ngo
 127.0.0.1 www.vun.fyi
 127.0.0.1 www.vur.fyi
 127.0.0.1 www.wajibbaca.top
