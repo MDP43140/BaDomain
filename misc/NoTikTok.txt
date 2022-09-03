@@ -1739,6 +1739,7 @@ p13.ipstatp.com
 p15a.tiktokcdn.com
 p15.hypstarcdn.com
 p16-ad.byteoversea.com
+p16-adformat-sg.ibyteimg.com
 p16-ad-sg.ibyteimg.com
 p16a.hypstarcdn.com
 p16a.hypstarcdn.com.edgesuite.net

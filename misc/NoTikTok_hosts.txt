@@ -1739,6 +1739,7 @@
 127.0.0.1 p15a.tiktokcdn.com
 127.0.0.1 p15.hypstarcdn.com
 127.0.0.1 p16-ad.byteoversea.com
+127.0.0.1 p16-adformat-sg.ibyteimg.com
 127.0.0.1 p16-ad-sg.ibyteimg.com
 127.0.0.1 p16a.hypstarcdn.com
 127.0.0.1 p16a.hypstarcdn.com.edgesuite.net

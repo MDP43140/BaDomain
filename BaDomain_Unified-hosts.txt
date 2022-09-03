@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.09.2022
+# Version: 03.09.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -454,6 +454,7 @@
 127.0.0.1 api.poster.appsinnova.com
 127.0.0.1 api-project-652995075284.firebaseio.com
 127.0.0.1 api.pro.kikakeyboard.com
+127.0.0.1 api.pushycat.net
 127.0.0.1 api.qiscus.com
 127.0.0.1 api.resso.app
 127.0.0.1 api.revenuecat.com
@@ -468,6 +469,7 @@
 127.0.0.1 api.smoot.apple.com
 127.0.0.1 api-snake.oppomobile.com
 127.0.0.1 api.snake.oppomobile.com
+127.0.0.1 api.snapchat.com
 127.0.0.1 api.snapkit.com
 127.0.0.1 apisnd.heytapmobi.com
 127.0.0.1 api.sportskeeda.com
@@ -744,6 +746,7 @@
 127.0.0.1 braintreegateway.com
 127.0.0.1 branch.io
 127.0.0.1 brand-display.com
+127.0.0.1 brand.heytap.com
 127.0.0.1 braze-images.com
 127.0.0.1 brightcove.net
 127.0.0.1 britepool.com
@@ -793,6 +796,7 @@
 127.0.0.1 cardgen.uno
 127.0.0.1 carlcare.com
 127.0.0.1 carrers.pho.to
+127.0.0.1 carx-online.com
 127.0.0.1 casalemedia.com
 127.0.0.1 cashend.me
 127.0.0.1 cbs.wondershare.com
@@ -979,7 +983,14 @@
 127.0.0.1 conf-cn.dc.heytapmobi.com
 127.0.0.1 confection.io
 127.0.0.1 confection-status.netlify.app
+127.0.0.1 config-1.carx-online.com
+127.0.0.1 config-1.driftracingonline.com
+127.0.0.1 config-2.carx-online.com
+127.0.0.1 config-2.driftracingonline.com
+127.0.0.1 config-3.carx-online.com
 127.0.0.1 config.ab.qq.com
+127.0.0.1 config.carx-online.com
+127.0.0.1 config.driftracingonline.com
 127.0.0.1 config.edge.skype.com
 127.0.0.1 config.e-droid.net
 127.0.0.1 config.qms.quicinc.com
@@ -1098,10 +1109,12 @@
 127.0.0.1 d3hjue7omxs01q.cloudfront.net
 127.0.0.1 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
+127.0.0.1 d6b3852e-dnsotls-ds.metric.gstatic.com
 127.0.0.1 d6c30-6de1a.pushwoosh.com
 127.0.0.1 dable.io
 127.0.0.1 dac.contextads.live
 127.0.0.1 dadyapp.com
+127.0.0.1 daerisoft.com
 127.0.0.1 dailymotion.com
 127.0.0.1 d.alicdn.com
 127.0.0.1 dana.threatcast.guardsquare.com
@@ -1226,6 +1239,7 @@
 127.0.0.1 dragate-sg.dc.heytapmobi.com
 127.0.0.1 dragate-sg.dc.oppomobile.com
 127.0.0.1 drift.com
+127.0.0.1 driftracingonline.com
 127.0.0.1 driftt.com
 127.0.0.1 driver-image-preprocessed-production.s3.amazonaws.com
 127.0.0.1 drone-sg.xunyou.mobi
@@ -1255,6 +1269,7 @@
 127.0.0.1 e7100.g.akamaiedge.net
 127.0.0.1 e.alipay.com
 127.0.0.1 easemob.com
+127.0.0.1 easytomessage.com
 127.0.0.1 easyworldbusiness.com
 127.0.0.1 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
 127.0.0.1 ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
@@ -1655,6 +1670,7 @@
 127.0.0.1 hwcdn.net
 127.0.0.1 hwclouds-dns.com
 127.0.0.1 hw-crs-report.y5en.com
+127.0.0.1 hws-prod.carx-online.com
 127.0.0.1 hybrid.miniapp.taobao.com
 127.0.0.1 i0.hdslb.com
 127.0.0.1 i18n-api.faceueditor.com
@@ -1773,6 +1789,7 @@
 127.0.0.1 img-music.heytapimage.com
 127.0.0.1 img.onesignal.com
 127.0.0.1 img-prod-cms-rt-microsoft-com.akamaized.net
+127.0.0.1 img.pushycat.net
 127.0.0.1 img.samsungapps.com
 127.0.0.1 img.scooper.news
 127.0.0.1 imgsmail.ru
@@ -1908,6 +1925,7 @@
 127.0.0.1 jomax.net
 127.0.0.1 jp.bignox.com
 127.0.0.1 jpserver.site
+127.0.0.1 jpush.io
 127.0.0.1 jr.zingnews.vn
 127.0.0.1 js.chargebee.com
 127.0.0.1 jsc.mgid.com
@@ -2266,6 +2284,8 @@
 127.0.0.1 nativepu.sh
 127.0.0.1 nbcu.demdex.net
 127.0.0.1 ncaudienceexchange.com
+127.0.0.1 ndds001.com
+127.0.0.1 ndds002.com
 127.0.0.1 nearbysharing-pa.googleapis.com
 127.0.0.1 nea.telkomsel.com
 127.0.0.1 nekkimobile.ru
@@ -2465,6 +2485,7 @@
 127.0.0.1 person.clearbit.com
 127.0.0.1 person-stream.clearbit.com
 127.0.0.1 pes22-game.cs.konami.net
+127.0.0.1 pf.daerisoft.com
 127.0.0.1 phala.one
 127.0.0.1 ph.bignox.com
 127.0.0.1 phone-api.realme.com
@@ -2583,7 +2604,9 @@
 127.0.0.1 pushimg.com
 127.0.0.1 pushmart.net
 127.0.0.1 pushmessage.samsung.com
+127.0.0.1 pushprofit.net
 127.0.0.1 pushwoosh.com
+127.0.0.1 pushycat.net
 127.0.0.1 px1.lifesavvy.com
 127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 pxksnymto.ru
@@ -2677,6 +2700,7 @@
 127.0.0.1 reveal.clearbit.com
 127.0.0.1 revolvermaps.com
 127.0.0.1 rewards-cards.org
+127.0.0.1 rhaxpy.com
 127.0.0.1 r-id.ls.glanceapis.com
 127.0.0.1 rilds.com
 127.0.0.1 r-in.glance-cdn.com
@@ -2734,6 +2758,7 @@
 127.0.0.1 s.166.net
 127.0.0.1 s16.kwai.net
 127.0.0.1 s18900.webovernet.com
+127.0.0.1 s1cp.xyz
 127.0.0.1 s1.daumcdn.net
 127.0.0.1 s1.hdslb.com
 127.0.0.1 s23.cnzz.com
@@ -2871,6 +2896,7 @@
 127.0.0.1 simpli.fi
 127.0.0.1 sin.a.ak.prd.aadg.trafficmanager.net
 127.0.0.1 sina.cn
+127.0.0.1 sis.jpush.io
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sixtest.com
 127.0.0.1 skimlinks.com
@@ -2949,6 +2975,7 @@
 127.0.0.1 ssl.p.jwpcdn.com
 127.0.0.1 ssl.pstatic.net
 127.0.0.1 sso.y5en.com
+127.0.0.1 ssp20.pushprofit.net
 127.0.0.1 ssp-3-9f58.trnox.com
 127.0.0.1 sspapi-prd.samsungrs.com
 127.0.0.1 ssp.wp.pl
@@ -3157,6 +3184,7 @@
 127.0.0.1 tirto.id
 127.0.0.1 tistory1.daumcdn.net
 127.0.0.1 tistory.com
+127.0.0.1 titan.heytap.com
 127.0.0.1 tk0x1.com
 127.0.0.1 tl.bignox.com
 127.0.0.1 tmdb.org
@@ -3287,6 +3315,7 @@
 127.0.0.1 us-central1-gcp.api.snapchat.com
 127.0.0.1 us.contactapi.micloud.xiaomi.net
 127.0.0.1 uscreen.tv
+127.0.0.1 us-east1-aws-acc.api.snapchat.com
 127.0.0.1 us-east1-aws.api.snapchat.com
 127.0.0.1 us-east4-gcp.api.snapchat.com
 127.0.0.1 useinsider.com
@@ -3493,6 +3522,7 @@
 127.0.0.1 www.boomplay.com
 127.0.0.1 www.boomplaymusic.com
 127.0.0.1 www.braze.com
+127.0.0.1 www.carx-online.com
 127.0.0.1 www.cdnmore.com
 127.0.0.1 www.cdn.viber.com
 127.0.0.1 www.centurygames.com
@@ -3542,6 +3572,7 @@
 127.0.0.1 www.iseepassword.com
 127.0.0.1 www.istarapps.com
 127.0.0.1 www.jd.com
+127.0.0.1 www.jpush.io
 127.0.0.1 www.jwplayer.com
 127.0.0.1 www.jwshowcase.com
 127.0.0.1 www.kagaitiktok.net
@@ -7495,6 +7526,7 @@
 127.0.0.1 p15a.tiktokcdn.com
 127.0.0.1 p15.hypstarcdn.com
 127.0.0.1 p16-ad.byteoversea.com
+127.0.0.1 p16-adformat-sg.ibyteimg.com
 127.0.0.1 p16-ad-sg.ibyteimg.com
 127.0.0.1 p16a.hypstarcdn.com
 127.0.0.1 p16a.hypstarcdn.com.edgesuite.net

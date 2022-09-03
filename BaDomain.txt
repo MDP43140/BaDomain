@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.09.2022
+# Version: 03.09.2022
 # Update: 1 day
 #
 
@@ -446,6 +446,7 @@ api.pinterest.com
 api.poster.appsinnova.com
 api-project-652995075284.firebaseio.com
 api.pro.kikakeyboard.com
+api.pushycat.net
 api.qiscus.com
 api.resso.app
 api.revenuecat.com
@@ -460,6 +461,7 @@ api.shopee.co.id
 api.smoot.apple.com
 api-snake.oppomobile.com
 api.snake.oppomobile.com
+api.snapchat.com
 api.snapkit.com
 apisnd.heytapmobi.com
 api.sportskeeda.com
@@ -736,6 +738,7 @@ brainly.app.link
 braintreegateway.com
 branch.io
 brand-display.com
+brand.heytap.com
 braze-images.com
 brightcove.net
 britepool.com
@@ -785,6 +788,7 @@ cardboard.ge
 cardgen.uno
 carlcare.com
 carrers.pho.to
+carx-online.com
 casalemedia.com
 cashend.me
 cbs.wondershare.com
@@ -971,7 +975,14 @@ concert.io
 conf-cn.dc.heytapmobi.com
 confection.io
 confection-status.netlify.app
+config-1.carx-online.com
+config-1.driftracingonline.com
+config-2.carx-online.com
+config-2.driftracingonline.com
+config-3.carx-online.com
 config.ab.qq.com
+config.carx-online.com
+config.driftracingonline.com
 config.edge.skype.com
 config.e-droid.net
 config.qms.quicinc.com
@@ -1090,10 +1101,12 @@ d3hegev0j37foa.cloudfront.net
 d3hjue7omxs01q.cloudfront.net
 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
 d5nxst8fruw4z.cloudfront.net
+d6b3852e-dnsotls-ds.metric.gstatic.com
 d6c30-6de1a.pushwoosh.com
 dable.io
 dac.contextads.live
 dadyapp.com
+daerisoft.com
 dailymotion.com
 d.alicdn.com
 dana.threatcast.guardsquare.com
@@ -1218,6 +1231,7 @@ dragate.dc.oppomobile.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 drift.com
+driftracingonline.com
 driftt.com
 driver-image-preprocessed-production.s3.amazonaws.com
 drone-sg.xunyou.mobi
@@ -1247,6 +1261,7 @@ e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
 e.alipay.com
 easemob.com
+easytomessage.com
 easyworldbusiness.com
 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
 ec2-52-77-208-55.ap-southeast-1.compute.amazonaws.com
@@ -1647,6 +1662,7 @@ hubspotqa.net
 hwcdn.net
 hwclouds-dns.com
 hw-crs-report.y5en.com
+hws-prod.carx-online.com
 hybrid.miniapp.taobao.com
 i0.hdslb.com
 i18n-api.faceueditor.com
@@ -1765,6 +1781,7 @@ img.linkxw.com
 img-music.heytapimage.com
 img.onesignal.com
 img-prod-cms-rt-microsoft-com.akamaized.net
+img.pushycat.net
 img.samsungapps.com
 img.scooper.news
 imgsmail.ru
@@ -1900,6 +1917,7 @@ joinbudapp.com
 jomax.net
 jp.bignox.com
 jpserver.site
+jpush.io
 jr.zingnews.vn
 js.chargebee.com
 jsc.mgid.com
@@ -2258,6 +2276,8 @@ nathanaeldan.pro
 nativepu.sh
 nbcu.demdex.net
 ncaudienceexchange.com
+ndds001.com
+ndds002.com
 nearbysharing-pa.googleapis.com
 nea.telkomsel.com
 nekkimobile.ru
@@ -2457,6 +2477,7 @@ persona.hotstar.com
 person.clearbit.com
 person-stream.clearbit.com
 pes22-game.cs.konami.net
+pf.daerisoft.com
 phala.one
 ph.bignox.com
 phone-api.realme.com
@@ -2575,7 +2596,9 @@ push.idtopnews.com
 pushimg.com
 pushmart.net
 pushmessage.samsung.com
+pushprofit.net
 pushwoosh.com
+pushycat.net
 px1.lifesavvy.com
 px-conf.perimeterx.net
 pxksnymto.ru
@@ -2669,6 +2692,7 @@ retrogamerclassics.com
 reveal.clearbit.com
 revolvermaps.com
 rewards-cards.org
+rhaxpy.com
 r-id.ls.glanceapis.com
 rilds.com
 r-in.glance-cdn.com
@@ -2726,6 +2750,7 @@ s160-ava-talk.zadn.vn
 s.166.net
 s16.kwai.net
 s18900.webovernet.com
+s1cp.xyz
 s1.daumcdn.net
 s1.hdslb.com
 s23.cnzz.com
@@ -2863,6 +2888,7 @@ simple-get.ilyon.net
 simpli.fi
 sin.a.ak.prd.aadg.trafficmanager.net
 sina.cn
+sis.jpush.io
 siteintercept.qualtrics.com
 sixtest.com
 skimlinks.com
@@ -2941,6 +2967,7 @@ ss.litatom.com
 ssl.p.jwpcdn.com
 ssl.pstatic.net
 sso.y5en.com
+ssp20.pushprofit.net
 ssp-3-9f58.trnox.com
 sspapi-prd.samsungrs.com
 ssp.wp.pl
@@ -3149,6 +3176,7 @@ tipsf.apps.oppomobile.com
 tirto.id
 tistory1.daumcdn.net
 tistory.com
+titan.heytap.com
 tk0x1.com
 tl.bignox.com
 tmdb.org
@@ -3279,6 +3307,7 @@ us-central1-alight-creative.cloudfunctions.net
 us-central1-gcp.api.snapchat.com
 us.contactapi.micloud.xiaomi.net
 uscreen.tv
+us-east1-aws-acc.api.snapchat.com
 us-east1-aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 useinsider.com
@@ -3485,6 +3514,7 @@ www.bizrate.com
 www.boomplay.com
 www.boomplaymusic.com
 www.braze.com
+www.carx-online.com
 www.cdnmore.com
 www.cdn.viber.com
 www.centurygames.com
@@ -3534,6 +3564,7 @@ www.intuit.com
 www.iseepassword.com
 www.istarapps.com
 www.jd.com
+www.jpush.io
 www.jwplayer.com
 www.jwshowcase.com
 www.kagaitiktok.net
