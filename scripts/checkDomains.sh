@@ -6,6 +6,7 @@
 #  and used to check BaDomain lists
 #
 
+clear
 echo -e "[i] Initializing..."
 
 ## Configuration ##
@@ -14,19 +15,30 @@ INPUT_FILE="$1"
 LOG_NONE_FILE="resultNone.log"
 LOG_SERVFAIL_FILE="resultServFail.log"
 LOG_EXISTS_FILE="resultExists.log"
-DOMAIN_LISTS="google.com youtube.com ThisDomainDoesntExistAtAll.dontreturnsomethingok" # just for an example
+DOMAIN_LISTS="google.com youtube.com example.com ThisDomainDoesntExistAtAll.dontreturnsomethingok" # just for an example
 
 ## Query domain lists, remove previous log, and stuff... ##
-echo "[i] Querying $INPUT_FILE domain lists..."
-DOMAIN_LISTS="$(sed '/^#/d' $INPUT_FILE | sed -r '/^(\b25[0-5]|\b2[0-4][0-9]|\b[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/d')"
+echo "[i] Querying $([ "$INPUT_FILE" ] && echo $INPUT_FILE || echo StandardInput) domain lists..."
+DOMAIN_LISTS="$(sed '/^#/d' $INPUT_FILE | sed -r '/^(\b25[0-5]|\b2[0-4][0-9]|\b[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/d' | sort -ui)"
+
+# Count total domains
+# Sometimes, DOMAIN_LISTS might be separated by spaces and will return 1 as a count if running wc-l. in that case, rerun wc-w (this will count per space instead of per newline)
+TOTAL_DOMAINS="$(echo $DOMAIN_LISTS | wc -l)"
+[ "$TOTAL_DOMAINS" -le "1" ] && TOTAL_DOMAINS="$(echo $DOMAIN_LISTS | wc -w)"
+
+# this script is able to work with stdin (./checkDomains.sh << EOF google.com youtube.com EOF), but there might be a bit of problems afaik
+[ "$INPUT_FILE" = '' -a "$DOMAIN_LISTS" != '' ] && echo "[!] Looks like you're using stdin, please note that this might be little bit unstable"
+echo "[i] Total domains going to be scanned: $(echo $TOTAL_DOMAINS)"
 [ -f "$LOG_NONE_FILE" ] && echo "[i] Removing $LOG_NONE_FILE..." && rm "$LOG_NONE_FILE";
 [ -f "$LOG_SERVFAIL_FILE" ] && echo "[i] Removing $LOG_SERVFAIL_FILE..." && rm "$LOG_SERVFAIL_FILE";
 [ -f "$LOG_EXISTS_FILE" ] && echo "[i] Removing $LOG_EXISTS_FILE..." && rm "$LOG_EXISTS_FILE";
 echo "[i] Using $DNS_PROVIDER as DNS Resolver..."
 
 ## and check one per one ##
+PROGRESS=0
 for i in $DOMAIN_LISTS;do
-	echo -en "[i] Checking $i...\e[0K\r"
+	PROGRESS=$((PROGRESS+1))
+	echo -en "[i] ($PROGRESS/$TOTAL_DOMAINS) Checking $i...\e[0K\r"
 	result="$(dig $DNS_PROVIDER $i)"
 	result_isNone="$(echo $result | grep 'ANSWER: 0' &>/dev/null;echo $?)"
 	result_status="$(echo $result | grep ', status: ' &>/dev/null;echo $?)"

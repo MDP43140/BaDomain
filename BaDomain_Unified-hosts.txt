@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 03.09.2022
+# Version: 05.09.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -113,6 +113,7 @@
 127.0.0.1 53.appmeasurements.com
 127.0.0.1 54.appmeasurements.com
 127.0.0.1 55.appmeasurements.com
+127.0.0.1 5849f41c6798d3499f55c335df49cde9.safeframe.googlesyndication.com
 127.0.0.1 5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 127.0.0.1 5b0988e595225.cdn.sohucs.com
 127.0.0.1 5-courier.push.apple.com
@@ -507,6 +508,7 @@
 127.0.0.1 appannie.com
 127.0.0.1 app.bignox.com
 127.0.0.1 app.biliintl.com
+127.0.0.1 app.calconic.com
 127.0.0.1 appcfg.v.qq.com
 127.0.0.1 appcfg.wetvinfo.com
 127.0.0.1 app.chat.global.xiaomi.net
@@ -619,6 +621,7 @@
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.alicdn.com
 127.0.0.1 assets.applovin.com
+127.0.0.1 assets.capterra.com
 127.0.0.1 assets.duniagames.co.id
 127.0.0.1 assets-jpcust.jwpsrv.com
 127.0.0.1 assets.mintegral.com
@@ -640,11 +643,13 @@
 127.0.0.1 audid-api-sg.taobao.com
 127.0.0.1 audience.contextads.live
 127.0.0.1 auditrecording-pa.googleapis.com
+127.0.0.1 audit-tcfv2.cmp.quantcast.com
 127.0.0.1 audrte.com
 127.0.0.1 au.ff.avast.com
 127.0.0.1 au.ff.avast.sec.miui.com
 127.0.0.1 auiopt.unityads.unity3d.com
 127.0.0.1 au.mayalaze.xyz
+127.0.0.1 australianmorningnews.com
 127.0.0.1 auth-cloudfront.prod.ims.adobejanus.com
 127.0.0.1 autocomplete.clearbit.com
 127.0.0.1 auto.itc.cn
@@ -691,6 +696,7 @@
 127.0.0.1 beacons.glance.inmobi.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beacons.page
+127.0.0.1 beacon-v2.helpscout.net
 127.0.0.1 beamngdrive.net
 127.0.0.1 beautygirls.online
 127.0.0.1 beautyzone.cam
@@ -781,6 +787,7 @@
 127.0.0.1 cachefly.net
 127.0.0.1 cadmoremedia.com
 127.0.0.1 cahoots.com
+127.0.0.1 calconic.com
 127.0.0.1 calibermind.com
 127.0.0.1 c-api-bit.shopeemobile.com
 127.0.0.1 c-api.gos-gsp.io
@@ -789,6 +796,7 @@
 127.0.0.1 capitalone-udc.digital-cloud.medallia.com
 127.0.0.1 c.apple.news
 127.0.0.1 captcha.gtimg.com
+127.0.0.1 capterra.com
 127.0.0.1 captive.apple.com
 127.0.0.1 captive.g.aaplimg.com
 127.0.0.1 carbonads.com
@@ -834,6 +842,7 @@
 127.0.0.1 cdn.contentful.com
 127.0.0.1 cdn-content.optimonk.com
 127.0.0.1 cdn.cookielaw.org
+127.0.0.1 cdn.cookie-script.com
 127.0.0.1 cdn.cove.chat
 127.0.0.1 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 127.0.0.1 cdn.cxomedia.id
@@ -845,6 +854,7 @@
 127.0.0.1 cdn.gamesnacks.com
 127.0.0.1 cdn-go.cn
 127.0.0.1 cdn-graphql-v4.kumparan.com
+127.0.0.1 cdn-gw-dv.net
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdnimage2.caping.co.id
 127.0.0.1 cdn-images.mailchimp.com
@@ -879,6 +889,7 @@
 127.0.0.1 cdn-static.kwai.net
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
 127.0.0.1 cdn-theme-eu-central-1.shalltry.com
+127.0.0.1 cdn.thinkific.com
 127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn-web.jifo.co
 127.0.0.1 cdn.weglot.com
@@ -947,6 +958,7 @@
 127.0.0.1 cloud.typography.com
 127.0.0.1 cloud.wpscdn.com
 127.0.0.1 cm.bilibili.com
+127.0.0.1 cmp.quantcast.com
 127.0.0.1 cmpv2.macworld.com
 127.0.0.1 cname-china.vercel-dns.com
 127.0.0.1 cname.vercel-dns.com
@@ -968,6 +980,8 @@
 127.0.0.1 collect.alipay.com
 127.0.0.1 collector.lunalabs.io
 127.0.0.1 collector-pxikkul2rm.perimeterx.net
+127.0.0.1 collector-pxt6dy78t8.px-client.net
+127.0.0.1 collector-pxt6dy78t8.px-cloud.net
 127.0.0.1 combinatronics.io
 127.0.0.1 comm.api.vivoglobal.com
 127.0.0.1 commerce-i18n-api.faceucam.com
@@ -1023,6 +1037,7 @@
 127.0.0.1 cookiebot.com
 127.0.0.1 cookielaw.org
 127.0.0.1 cookiepro.com
+127.0.0.1 cookie-script.com
 127.0.0.1 cooooos.com
 127.0.0.1 cootekservice.com
 127.0.0.1 core-api.data.appsinnova.com
@@ -1088,6 +1103,7 @@
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d1zkz3k4cclnv6.cloudfront.net
 127.0.0.1 d-21.winudf.com
+127.0.0.1 d-22275062892773462075.ampproject.net
 127.0.0.1 d24zn61bgpeyxm.cloudfront.net
 127.0.0.1 d25l8ybundaqcq.cloudfront.net
 127.0.0.1 d26xw8rp6mlgfg.cloudfront.net
@@ -1475,6 +1491,7 @@
 127.0.0.1 geojs.io
 127.0.0.1 geolocation-db.com
 127.0.0.1 geolocation.onetrust.com
+127.0.0.1 geo.tildacdn.com
 127.0.0.1 geowf.ge
 127.0.0.1 get-bx.g.aaplimg.com
 127.0.0.1 getclicky.com
@@ -1556,6 +1573,7 @@
 127.0.0.1 group41.sites.hscoscdn40.net
 127.0.0.1 group.bignox.com
 127.0.0.1 growin.ge
+127.0.0.1 growsumo.com
 127.0.0.1 growtopia1.com
 127.0.0.1 growtopia2.com
 127.0.0.1 grsm.io
@@ -1612,6 +1630,7 @@
 127.0.0.1 heapanalytics.com
 127.0.0.1 heap.io
 127.0.0.1 hellomagazine.com
+127.0.0.1 helpscout.com
 127.0.0.1 helpscout.net
 127.0.0.1 help.sogou.com
 127.0.0.1 helpx.adobe.com
@@ -1801,6 +1820,7 @@
 127.0.0.1 immr-uhl-tvm.elasticbeanstalk.com
 127.0.0.1 impactradius-go.com
 127.0.0.1 imp.optaim.com
+127.0.0.1 import.cdn.thinkific.com
 127.0.0.1 imp.pxf.io
 127.0.0.1 imps.appia.com
 127.0.0.1 imptrk.siteplug.com
@@ -1944,6 +1964,7 @@
 127.0.0.1 js.media-lab.ai
 127.0.0.1 js.rfp.fout.jp
 127.0.0.1 js.usemessages.com
+127.0.0.1 js.wpadmngr.com
 127.0.0.1 jtracking-gate.lulusoft.com
 127.0.0.1 jump.ogtrk.net
 127.0.0.1 justin.tv
@@ -2050,6 +2071,7 @@
 127.0.0.1 livechat.containers.piwik.pro
 127.0.0.1 livechatinc.com
 127.0.0.1 live.shopee.co.id
+127.0.0.1 livetech.live.shopee.co.id
 127.0.0.1 livetech.shopee.co.id
 127.0.0.1 livoop.com
 127.0.0.1 lkqd.net
@@ -2106,6 +2128,7 @@
 127.0.0.1 mail.bms.ge
 127.0.0.1 mail.cardboard.ge
 127.0.0.1 mailchimp.com
+127.0.0.1 mailerlite.com
 127.0.0.1 mail.exportinvest.ge
 127.0.0.1 mail.geclose2eu.info
 127.0.0.1 mail.growin.ge
@@ -2262,6 +2285,7 @@
 127.0.0.1 mv.lunalabs.io
 127.0.0.1 mvm.snapchat.com
 127.0.0.1 mv-playground.lunalabs.uk
+127.0.0.1 mxpnl.com
 127.0.0.1 mxptint.net
 127.0.0.1 my.bignox.com
 127.0.0.1 myfan.monster
@@ -2317,6 +2341,7 @@
 127.0.0.1 nj.cschannel.anticheatexpert.com
 127.0.0.1 nmnm.lol
 127.0.0.1 no-cache.hubspot.com
+127.0.0.1 nocodeflow.net
 127.0.0.1 node-01-ipv6.faceapp.io
 127.0.0.1 noss.litatom.com
 127.0.0.1 notif.quizizz.com
@@ -2454,6 +2479,9 @@
 127.0.0.1 parrable.com
 127.0.0.1 parsely.com
 127.0.0.1 partiality.itunes.apple.com
+127.0.0.1 partnerlinks.io
+127.0.0.1 partnerstack.ada.support
+127.0.0.1 partnerstack.com
 127.0.0.1 partner.toutiao.com
 127.0.0.1 passport.bignox.com
 127.0.0.1 passport.biliintl.com
@@ -2506,6 +2534,7 @@
 127.0.0.1 pingma.qq.com
 127.0.0.1 pinguin.kredivo.com
 127.0.0.1 pinning-02.secb2b.com
+127.0.0.1 pinterest.gw-dv.net
 127.0.0.1 pinyin.sogou.com
 127.0.0.1 pipedream.wistia.com
 127.0.0.1 pippio.com
@@ -2623,6 +2652,7 @@
 127.0.0.1 qq.com
 127.0.0.1 qti.avanquest.com
 127.0.0.1 qualtrics.com
+127.0.0.1 quantcast.com
 127.0.0.1 quantcount.com
 127.0.0.1 quantummetric.com
 127.0.0.1 quickbooks.intuit.com
@@ -2664,6 +2694,7 @@
 127.0.0.1 relap.info
 127.0.0.1 relocationapi.micloud.xiaomi.net
 127.0.0.1 reminiandroid.oracle.bendingspoonsapps.com
+127.0.0.1 remotecompany.com
 127.0.0.1 repair-system-phone.firebaseio.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 report-ps.meettech.net
@@ -2925,6 +2956,7 @@
 127.0.0.1 snaptik.app
 127.0.0.1 sneaky.lordofthequietbadgers.com
 127.0.0.1 snigelweb.com
+127.0.0.1 snippet.growsumo.com
 127.0.0.1 snssdk.com
 127.0.0.1 socialapp.top
 127.0.0.1 sociomile.com
@@ -3004,6 +3036,7 @@
 127.0.0.1 static.hsappstatic.net
 127.0.0.1 static.intercomassets.com
 127.0.0.1 static.jpallnight.com
+127.0.0.1 static.mailerlite.com
 127.0.0.1 static.messagebird.com
 127.0.0.1 static.mob.com
 127.0.0.1 static.neptunegame.com
@@ -3014,6 +3047,7 @@
 127.0.0.1 statics-marketingsites-eus-ms-com.akamaized.net
 127.0.0.1 static-update.mobsrvapi.com
 127.0.0.1 static-webengage.s3.ap-southeast-1.amazonaws.com
+127.0.0.1 static.wetvinfo.com
 127.0.0.1 staticworld.net
 127.0.0.1 static.zdassets.com
 127.0.0.1 static-zepeto.pstatic.net
@@ -3021,10 +3055,12 @@
 127.0.0.1 static-znews.zingcdn.me
 127.0.0.1 stat.idtopnews.com
 127.0.0.1 statis.facemojikeyboard.com
+127.0.0.1 statistics-dot-calconic-app.appspot.com
 127.0.0.1 stats.cross-orbit.com
 127.0.0.1 stats.darkreader.app
 127.0.0.1 stats.wp.com
 127.0.0.1 stat.tiara.tistory.com
+127.0.0.1 stat.tildacdn.com
 127.0.0.1 stat.tpns.sgp.tencent.com
 127.0.0.1 statwup.nimo.tv
 127.0.0.1 stat.xdplt.com
@@ -3088,6 +3124,7 @@
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 syndication.twitter.com
+127.0.0.1 sysstat.tildacdn.com
 127.0.0.1 system1.com
 127.0.0.1 sysupgrade.api.vivoglobal.com
 127.0.0.1 szmg.qq.com
@@ -3146,6 +3183,7 @@
 127.0.0.1 terpopuler.uzone.id
 127.0.0.1 teslacoilapps.com
 127.0.0.1 test-bg-td.teddymobile.cn
+127.0.0.1 test.cmp.quantcast.com
 127.0.0.1 testedforyou.net
 127.0.0.1 tex.z-dn.net
 127.0.0.1 t.focus-res.cn
@@ -3161,6 +3199,7 @@
 127.0.0.1 thesaurus.com
 127.0.0.1 thespacehackers.com
 127.0.0.1 theyt786ku.cfd
+127.0.0.1 thinkific.com
 127.0.0.1 thinkingdata.cn
 127.0.0.1 thinksuggest.org
 127.0.0.1 thm.market.intl.xiaomi.com
@@ -3214,6 +3253,7 @@
 127.0.0.1 tracking.apptrackerlink.com
 127.0.0.1 tracking.g2crowd.com
 127.0.0.1 tracking.trnox.com
+127.0.0.1 track.mailerlite.com
 127.0.0.1 track-mixer.ru
 127.0.0.1 track.scooper.news
 127.0.0.1 trackwilly.com
@@ -3356,6 +3396,7 @@
 127.0.0.1 videoeditor-sg.soloop.heytapmobile.com
 127.0.0.1 video-g.usicdn.com
 127.0.0.1 videoplayerhub.com
+127.0.0.1 videoroll.net
 127.0.0.1 videos-fms.jwpsrv.com
 127.0.0.1 video.twimg.com
 127.0.0.1 vidoomy.com
@@ -3387,6 +3428,7 @@
 127.0.0.1 vs-api.wshareit.com
 127.0.0.1 v.sogou.com
 127.0.0.1 vthird-log.vskit.tv
+127.0.0.1 vtrace.wetvinfo.com
 127.0.0.1 vuclipi-a.akamaihd.net
 127.0.0.1 vulcan5.branch.io
 127.0.0.1 vum.fyi
@@ -3467,6 +3509,7 @@
 127.0.0.1 wnskg.qq.com
 127.0.0.1 wondershare.cc
 127.0.0.1 wootric.com
+127.0.0.1 wpadmngr.com
 127.0.0.1 wp.pl
 127.0.0.1 wpvip.com
 127.0.0.1 wsapi.master.live
@@ -3522,6 +3565,7 @@
 127.0.0.1 www.boomplay.com
 127.0.0.1 www.boomplaymusic.com
 127.0.0.1 www.braze.com
+127.0.0.1 www.calconic.com
 127.0.0.1 www.carx-online.com
 127.0.0.1 www.cdnmore.com
 127.0.0.1 www.cdn.viber.com
@@ -3561,6 +3605,8 @@
 127.0.0.1 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 127.0.0.1 www.h2svr.info
 127.0.0.1 www.hastopic.com
+127.0.0.1 www.helpscout.com
+127.0.0.1 www.helpscout.net
 127.0.0.1 www.higgsslotgame.com
 127.0.0.1 www.hippoobox.com
 127.0.0.1 www.hopexos.vip
@@ -3614,6 +3660,7 @@
 127.0.0.1 www.sas-autos.com
 127.0.0.1 www.servicewebly.com
 127.0.0.1 www.sfdcstatic.com
+127.0.0.1 www.shalltry.com
 127.0.0.1 www.shareaholic.com
 127.0.0.1 www.shareaholic.net
 127.0.0.1 www.sixtest.com
@@ -3661,6 +3708,7 @@
 127.0.0.1 www.womenforlove.net
 127.0.0.1 www.wp.pl
 127.0.0.1 www.wuildit.com
+127.0.0.1 www.xmlschemeformat.com
 127.0.0.1 www.xnxx.com
 127.0.0.1 www.xvideos2.com
 127.0.0.1 www.y2mate.com

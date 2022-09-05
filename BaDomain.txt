@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 03.09.2022
+# Version: 05.09.2022
 # Update: 1 day
 #
 
@@ -105,6 +105,7 @@
 53.appmeasurements.com
 54.appmeasurements.com
 55.appmeasurements.com
+5849f41c6798d3499f55c335df49cde9.safeframe.googlesyndication.com
 5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 5b0988e595225.cdn.sohucs.com
 5-courier.push.apple.com
@@ -499,6 +500,7 @@ app.advertizer.com
 appannie.com
 app.bignox.com
 app.biliintl.com
+app.calconic.com
 appcfg.v.qq.com
 appcfg.wetvinfo.com
 app.chat.global.xiaomi.net
@@ -611,6 +613,7 @@ assets9.lottiefiles.com
 assets.adobedtm.com
 assets.alicdn.com
 assets.applovin.com
+assets.capterra.com
 assets.duniagames.co.id
 assets-jpcust.jwpsrv.com
 assets.mintegral.com
@@ -632,11 +635,13 @@ auction.unityads.unity3d.com
 audid-api-sg.taobao.com
 audience.contextads.live
 auditrecording-pa.googleapis.com
+audit-tcfv2.cmp.quantcast.com
 audrte.com
 au.ff.avast.com
 au.ff.avast.sec.miui.com
 auiopt.unityads.unity3d.com
 au.mayalaze.xyz
+australianmorningnews.com
 auth-cloudfront.prod.ims.adobejanus.com
 autocomplete.clearbit.com
 auto.itc.cn
@@ -683,6 +688,7 @@ beacons.gcp.gvt2.com
 beacons.glance.inmobi.com
 beacons.gvt2.com
 beacons.page
+beacon-v2.helpscout.net
 beamngdrive.net
 beautygirls.online
 beautyzone.cam
@@ -773,6 +779,7 @@ cabinet2-sea.taximaxim.com
 cachefly.net
 cadmoremedia.com
 cahoots.com
+calconic.com
 calibermind.com
 c-api-bit.shopeemobile.com
 c-api.gos-gsp.io
@@ -781,6 +788,7 @@ capitalone-resources.digital-cloud.medallia.com
 capitalone-udc.digital-cloud.medallia.com
 c.apple.news
 captcha.gtimg.com
+capterra.com
 captive.apple.com
 captive.g.aaplimg.com
 carbonads.com
@@ -826,6 +834,7 @@ cdnconfig.aihelp.net
 cdn.contentful.com
 cdn-content.optimonk.com
 cdn.cookielaw.org
+cdn.cookie-script.com
 cdn.cove.chat
 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 cdn.cxomedia.id
@@ -837,6 +846,7 @@ cdn.foxpush.net
 cdn.gamesnacks.com
 cdn-go.cn
 cdn-graphql-v4.kumparan.com
+cdn-gw-dv.net
 cdn.heapanalytics.com
 cdnimage2.caping.co.id
 cdn-images.mailchimp.com
@@ -871,6 +881,7 @@ cdn-static.ap4r.com
 cdn-static.kwai.net
 cdn-store-icons-akamai-prd.unityads.unity3d.com
 cdn-theme-eu-central-1.shalltry.com
+cdn.thinkific.com
 cdn.unblockia.com
 cdn-web.jifo.co
 cdn.weglot.com
@@ -939,6 +950,7 @@ cloud.tencent.com
 cloud.typography.com
 cloud.wpscdn.com
 cm.bilibili.com
+cmp.quantcast.com
 cmpv2.macworld.com
 cname-china.vercel-dns.com
 cname.vercel-dns.com
@@ -960,6 +972,8 @@ colegiounamuno.es
 collect.alipay.com
 collector.lunalabs.io
 collector-pxikkul2rm.perimeterx.net
+collector-pxt6dy78t8.px-client.net
+collector-pxt6dy78t8.px-cloud.net
 combinatronics.io
 comm.api.vivoglobal.com
 commerce-i18n-api.faceucam.com
@@ -1015,6 +1029,7 @@ convertkit.com
 cookiebot.com
 cookielaw.org
 cookiepro.com
+cookie-script.com
 cooooos.com
 cootekservice.com
 core-api.data.appsinnova.com
@@ -1080,6 +1095,7 @@ d1.biz.itc.cn
 d1z2jf7jlzjs58.cloudfront.net
 d1zkz3k4cclnv6.cloudfront.net
 d-21.winudf.com
+d-22275062892773462075.ampproject.net
 d24zn61bgpeyxm.cloudfront.net
 d25l8ybundaqcq.cloudfront.net
 d26xw8rp6mlgfg.cloudfront.net
@@ -1467,6 +1483,7 @@ geoip.hotstar.com
 geojs.io
 geolocation-db.com
 geolocation.onetrust.com
+geo.tildacdn.com
 geowf.ge
 get-bx.g.aaplimg.com
 getclicky.com
@@ -1548,6 +1565,7 @@ groundtruth.com
 group41.sites.hscoscdn40.net
 group.bignox.com
 growin.ge
+growsumo.com
 growtopia1.com
 growtopia2.com
 grsm.io
@@ -1604,6 +1622,7 @@ hdcb-api.fortumo.io
 heapanalytics.com
 heap.io
 hellomagazine.com
+helpscout.com
 helpscout.net
 help.sogou.com
 helpx.adobe.com
@@ -1793,6 +1812,7 @@ i.mi.com
 immr-uhl-tvm.elasticbeanstalk.com
 impactradius-go.com
 imp.optaim.com
+import.cdn.thinkific.com
 imp.pxf.io
 imps.appia.com
 imptrk.siteplug.com
@@ -1936,6 +1956,7 @@ js.intercomcdn.com
 js.media-lab.ai
 js.rfp.fout.jp
 js.usemessages.com
+js.wpadmngr.com
 jtracking-gate.lulusoft.com
 jump.ogtrk.net
 justin.tv
@@ -2042,6 +2063,7 @@ livechat.com
 livechat.containers.piwik.pro
 livechatinc.com
 live.shopee.co.id
+livetech.live.shopee.co.id
 livetech.shopee.co.id
 livoop.com
 lkqd.net
@@ -2098,6 +2120,7 @@ mail.blackseas.ge
 mail.bms.ge
 mail.cardboard.ge
 mailchimp.com
+mailerlite.com
 mail.exportinvest.ge
 mail.geclose2eu.info
 mail.growin.ge
@@ -2254,6 +2277,7 @@ musicradio.com
 mv.lunalabs.io
 mvm.snapchat.com
 mv-playground.lunalabs.uk
+mxpnl.com
 mxptint.net
 my.bignox.com
 myfan.monster
@@ -2309,6 +2333,7 @@ nightfallinquiredune.com
 nj.cschannel.anticheatexpert.com
 nmnm.lol
 no-cache.hubspot.com
+nocodeflow.net
 node-01-ipv6.faceapp.io
 noss.litatom.com
 notif.quizizz.com
@@ -2446,6 +2471,9 @@ pardot.com
 parrable.com
 parsely.com
 partiality.itunes.apple.com
+partnerlinks.io
+partnerstack.ada.support
+partnerstack.com
 partner.toutiao.com
 passport.bignox.com
 passport.biliintl.com
@@ -2498,6 +2526,7 @@ ping.im-gb.com
 pingma.qq.com
 pinguin.kredivo.com
 pinning-02.secb2b.com
+pinterest.gw-dv.net
 pinyin.sogou.com
 pipedream.wistia.com
 pippio.com
@@ -2615,6 +2644,7 @@ qotu.bar
 qq.com
 qti.avanquest.com
 qualtrics.com
+quantcast.com
 quantcount.com
 quantummetric.com
 quickbooks.intuit.com
@@ -2656,6 +2686,7 @@ reklama.mail.ru
 relap.info
 relocationapi.micloud.xiaomi.net
 reminiandroid.oracle.bendingspoonsapps.com
+remotecompany.com
 repair-system-phone.firebaseio.com
 report.appmetrica.yandex.net
 report-ps.meettech.net
@@ -2917,6 +2948,7 @@ snapgirls.uno
 snaptik.app
 sneaky.lordofthequietbadgers.com
 snigelweb.com
+snippet.growsumo.com
 snssdk.com
 socialapp.top
 sociomile.com
@@ -2996,6 +3028,7 @@ static.hdslb.com
 static.hsappstatic.net
 static.intercomassets.com
 static.jpallnight.com
+static.mailerlite.com
 static.messagebird.com
 static.mob.com
 static.neptunegame.com
@@ -3006,6 +3039,7 @@ statics.itc.cn
 statics-marketingsites-eus-ms-com.akamaized.net
 static-update.mobsrvapi.com
 static-webengage.s3.ap-southeast-1.amazonaws.com
+static.wetvinfo.com
 staticworld.net
 static.zdassets.com
 static-zepeto.pstatic.net
@@ -3013,10 +3047,12 @@ static-znews.zadn.vn
 static-znews.zingcdn.me
 stat.idtopnews.com
 statis.facemojikeyboard.com
+statistics-dot-calconic-app.appspot.com
 stats.cross-orbit.com
 stats.darkreader.app
 stats.wp.com
 stat.tiara.tistory.com
+stat.tildacdn.com
 stat.tpns.sgp.tencent.com
 statwup.nimo.tv
 stat.xdplt.com
@@ -3080,6 +3116,7 @@ sync.ecal.com
 synchrobox.adswizz.com
 sync.search.spotxchange.com
 syndication.twitter.com
+sysstat.tildacdn.com
 system1.com
 sysupgrade.api.vivoglobal.com
 szmg.qq.com
@@ -3138,6 +3175,7 @@ termly.io
 terpopuler.uzone.id
 teslacoilapps.com
 test-bg-td.teddymobile.cn
+test.cmp.quantcast.com
 testedforyou.net
 tex.z-dn.net
 t.focus-res.cn
@@ -3153,6 +3191,7 @@ thepossssed.xyz
 thesaurus.com
 thespacehackers.com
 theyt786ku.cfd
+thinkific.com
 thinkingdata.cn
 thinksuggest.org
 thm.market.intl.xiaomi.com
@@ -3206,6 +3245,7 @@ trackersimulator.org
 tracking.apptrackerlink.com
 tracking.g2crowd.com
 tracking.trnox.com
+track.mailerlite.com
 track-mixer.ru
 track.scooper.news
 trackwilly.com
@@ -3348,6 +3388,7 @@ videodownloader.ummy.net
 videoeditor-sg.soloop.heytapmobile.com
 video-g.usicdn.com
 videoplayerhub.com
+videoroll.net
 videos-fms.jwpsrv.com
 video.twimg.com
 vidoomy.com
@@ -3379,6 +3420,7 @@ vs3.wshareit.com
 vs-api.wshareit.com
 v.sogou.com
 vthird-log.vskit.tv
+vtrace.wetvinfo.com
 vuclipi-a.akamaihd.net
 vulcan5.branch.io
 vum.fyi
@@ -3459,6 +3501,7 @@ wns.kg.qq.com
 wnskg.qq.com
 wondershare.cc
 wootric.com
+wpadmngr.com
 wp.pl
 wpvip.com
 wsapi.master.live
@@ -3514,6 +3557,7 @@ www.bizrate.com
 www.boomplay.com
 www.boomplaymusic.com
 www.braze.com
+www.calconic.com
 www.carx-online.com
 www.cdnmore.com
 www.cdn.viber.com
@@ -3553,6 +3597,8 @@ www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.h2svr.info
 www.hastopic.com
+www.helpscout.com
+www.helpscout.net
 www.higgsslotgame.com
 www.hippoobox.com
 www.hopexos.vip
@@ -3606,6 +3652,7 @@ www.robinhand.vip
 www.sas-autos.com
 www.servicewebly.com
 www.sfdcstatic.com
+www.shalltry.com
 www.shareaholic.com
 www.shareaholic.net
 www.sixtest.com
@@ -3653,6 +3700,7 @@ www.wmtransfer.com
 www.womenforlove.net
 www.wp.pl
 www.wuildit.com
+www.xmlschemeformat.com
 www.xnxx.com
 www.xvideos2.com
 www.y2mate.com
