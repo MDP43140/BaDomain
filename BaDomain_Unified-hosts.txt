@@ -1,7 +1,7 @@
 #
 # Name: BaDomain Unified
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 05.09.2022
+# Version: 06.09.2022
 # Update: 1 day
 #
 # This is one single unified hosts file based on:
@@ -296,6 +296,7 @@
 127.0.0.1 ali-sgp-pull.snackvideo.in
 127.0.0.1 alitup.bangcdn.net
 127.0.0.1 alive.vskit.tv
+127.0.0.1 aliyun.com
 127.0.0.1 aliyuncs.com
 127.0.0.1 allawntech.com
 127.0.0.1 allmipa.com
@@ -389,6 +390,8 @@
 127.0.0.1 api.ethyca.com
 127.0.0.1 api.faceapp.io
 127.0.0.1 api.facemojikeyboard.com
+127.0.0.1 api-fc.dutils.com
+127.0.0.1 api-fd.dutils.com
 127.0.0.1 api.floors.dev
 127.0.0.1 api.ftpub.net
 127.0.0.1 api.galileoab.com
@@ -426,7 +429,9 @@
 127.0.0.1 api.jetengine.be
 127.0.0.1 api.joinbudapp.com
 127.0.0.1 api.kika-backend.com
+127.0.0.1 api.kuaishouzt.com
 127.0.0.1 api.kwai.com
+127.0.0.1 api.kwaizt.com
 127.0.0.1 api-leap.nbcsports.com
 127.0.0.1 api.likee.video
 127.0.0.1 api.livechatinc.com
@@ -439,6 +444,7 @@
 127.0.0.1 api.mobula.sdk.duapps.com
 127.0.0.1 api.muc.intl.miui.com
 127.0.0.1 api.mythad.com
+127.0.0.1 api.neverbounce.com
 127.0.0.1 api-new.bignox.com
 127.0.0.1 api-notice.kinemasters.com
 127.0.0.1 api.noxinfluencer.com
@@ -457,6 +463,8 @@
 127.0.0.1 api.pro.kikakeyboard.com
 127.0.0.1 api.pushycat.net
 127.0.0.1 api.qiscus.com
+127.0.0.1 api.renren.com
+127.0.0.1 api.renren.fan
 127.0.0.1 api.resso.app
 127.0.0.1 api.revenuecat.com
 127.0.0.1 api.saasexch.com
@@ -585,6 +593,7 @@
 127.0.0.1 asia-magazineunlockstatic.vivoglobal.com
 127.0.0.1 asia-magazineunlock.vivoglobal.com
 127.0.0.1 asia-mailcli.vivoglobal.com
+127.0.0.1 asia-main-appstore.vivoglobal.com
 127.0.0.1 asia-news-abroad-backstage-interface.vivoglobal.com
 127.0.0.1 asia-news-abroad.vivo.com
 127.0.0.1 asia-os-config-appstore.vivoglobal.com
@@ -661,6 +670,7 @@
 127.0.0.1 avlconf.coloros.com
 127.0.0.1 a.wattpad.com
 127.0.0.1 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
+127.0.0.1 aws-api.kibads.com
 127.0.0.1 aws.api.snapchat.com
 127.0.0.1 aws.duplex.snapchat.com
 127.0.0.1 aws-proxy-gcp.api.snapchat.com
@@ -690,6 +700,7 @@
 127.0.0.1 bbs.bignox.com
 127.0.0.1 bc0a.com
 127.0.0.1 bdapi-id.ads.heytapmobile.com
+127.0.0.1 bdtj.infinities.com.cn
 127.0.0.1 beacon-fra2.rubiconproject.com
 127.0.0.1 beacons.ai
 127.0.0.1 beacons.gcp.gvt2.com
@@ -739,6 +750,7 @@
 127.0.0.1 bluecava.com
 127.0.0.1 bluekai.com
 127.0.0.1 bms.ge
+127.0.0.1 boards.greenhouse.io
 127.0.0.1 bokts.com
 127.0.0.1 bolt-gcdn.sc-cdn.net
 127.0.0.1 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
@@ -784,16 +796,25 @@
 127.0.0.1 c1.rfihub.net
 127.0.0.1 c4d-cdn.adcolony.com
 127.0.0.1 cabinet2-sea.taximaxim.com
+127.0.0.1 cabinet2.taximaxim.ru
+127.0.0.1 cabinet2.taxsee.ru
+127.0.0.1 cabinet-sea.taximaxim.com
+127.0.0.1 cabinet.taximaxim.com
+127.0.0.1 cabinet.taximaxim.ru
+127.0.0.1 cabinet.taxsee.ru
 127.0.0.1 cachefly.net
 127.0.0.1 cadmoremedia.com
 127.0.0.1 cahoots.com
 127.0.0.1 calconic.com
 127.0.0.1 calibermind.com
 127.0.0.1 c-api-bit.shopeemobile.com
+127.0.0.1 capi.connatix.com
 127.0.0.1 c-api.gos-gsp.io
 127.0.0.1 caping.co.id
 127.0.0.1 capitalone-resources.digital-cloud.medallia.com
 127.0.0.1 capitalone-udc.digital-cloud.medallia.com
+127.0.0.1 capi-tier-1-us-east-2.connatix.com
+127.0.0.1 capi-tier-2-us-east-2.connatix.com
 127.0.0.1 c.apple.news
 127.0.0.1 captcha.gtimg.com
 127.0.0.1 capterra.com
@@ -811,6 +832,7 @@
 127.0.0.1 cc.163.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 cda1.avanquest.com
+127.0.0.1 cd.connatix.com
 127.0.0.1 cdn0-production-images-kly.akamaized.net
 127.0.0.1 cdn130.picsart.com
 127.0.0.1 cdn-146.privacy-mgmt.com
@@ -839,6 +861,7 @@
 127.0.0.1 cdn.calibermind.com
 127.0.0.1 cdn.concert.io
 127.0.0.1 cdnconfig.aihelp.net
+127.0.0.1 cdn.connatix.com
 127.0.0.1 cdn.contentful.com
 127.0.0.1 cdn-content.optimonk.com
 127.0.0.1 cdn.cookielaw.org
@@ -871,6 +894,7 @@
 127.0.0.1 cdnm3.caping.co.id
 127.0.0.1 cdn.metarouter.io
 127.0.0.1 cdn.mxpnl.com
+127.0.0.1 cdn.neverbounce.com
 127.0.0.1 cdn.otnolatrnup.com
 127.0.0.1 cdn.outfit7.com
 127.0.0.1 cdn-prod.securiti.ai
@@ -896,6 +920,7 @@
 127.0.0.1 cdn.wetest.qq.com
 127.0.0.1 cdnwidget.com
 127.0.0.1 cds-app.y5en.com
+127.0.0.1 cds.connatix.com
 127.0.0.1 cds.d6b8y6w3.hwcdn.net
 127.0.0.1 cd.xdplt.com
 127.0.0.1 cengine.contextads.live
@@ -992,6 +1017,7 @@
 127.0.0.1 company.clearbit.com
 127.0.0.1 company-stream.clearbit.com
 127.0.0.1 component-ota-f.coloros.com
+127.0.0.1 component-ota-sg.allawnos.com
 127.0.0.1 concertads-configs.vox-cdn.com
 127.0.0.1 concert.io
 127.0.0.1 conf-cn.dc.heytapmobi.com
@@ -1019,6 +1045,7 @@
 127.0.0.1 conf-sg.dc.heytapmobi.com
 127.0.0.1 conn1.oppomobile.com
 127.0.0.1 conn2.oppomobile.com
+127.0.0.1 connatix.com
 127.0.0.1 connect.intl.rom.miui.com
 127.0.0.1 connectivitycheck.cbg-app.huawei.com
 127.0.0.1 connect-milink.g.mi.com
@@ -1453,6 +1480,7 @@
 127.0.0.1 g4tagging.komando.com
 127.0.0.1 gabrio.it
 127.0.0.1 ga.clearbit.com
+127.0.0.1 gaconnector.com
 127.0.0.1 galeona.com
 127.0.0.1 g.alicdn.com
 127.0.0.1 gallerysearchapi.micloud.xiaomi.net
@@ -1467,6 +1495,7 @@
 127.0.0.1 games.shopee.co.id
 127.0.0.1 gametool10.ml
 127.0.0.1 game.zuiqiangyingyu.net
+127.0.0.1 ga-mobile-api.loklok.tv
 127.0.0.1 g-api.ekatox.com
 127.0.0.1 g-api.kwai.com
 127.0.0.1 g-api.kwai-pro.com
@@ -1569,6 +1598,7 @@
 127.0.0.1 gray.bignox.com
 127.0.0.1 greaterfiledownload.com
 127.0.0.1 greendot.com
+127.0.0.1 greenhouse.io
 127.0.0.1 groundtruth.com
 127.0.0.1 group41.sites.hscoscdn40.net
 127.0.0.1 group.bignox.com
@@ -1797,6 +1827,7 @@
 127.0.0.1 imgcache.joox.com
 127.0.0.1 img.cdn.baca.co.id
 127.0.0.1 imgcdn.ymstatic.com
+127.0.0.1 img.connatix.com
 127.0.0.1 img.feednews.com
 127.0.0.1 img-hw.xnxx-cdn.com
 127.0.0.1 img-hw.xvideos-cdn.com
@@ -1806,6 +1837,7 @@
 127.0.0.1 img-l3.xnxx-cdn.com
 127.0.0.1 img.linkxw.com
 127.0.0.1 img-music.heytapimage.com
+127.0.0.1 img.netpop.app
 127.0.0.1 img.onesignal.com
 127.0.0.1 img-prod-cms-rt-microsoft-com.akamaized.net
 127.0.0.1 img.pushycat.net
@@ -1836,6 +1868,8 @@
 127.0.0.1 indeed.com
 127.0.0.1 i.neptunegame.com
 127.0.0.1 infinitedata-pa.googleapis.com
+127.0.0.1 infinities.cn
+127.0.0.1 infinities.com.cn
 127.0.0.1 influencer.yeshen.com
 127.0.0.1 info.3g.qq.com
 127.0.0.1 info.braze.com
@@ -1947,6 +1981,7 @@
 127.0.0.1 jpserver.site
 127.0.0.1 jpush.io
 127.0.0.1 jr.zingnews.vn
+127.0.0.1 js1.loklok.tv
 127.0.0.1 js.chargebee.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 js.cx
@@ -2102,6 +2137,8 @@
 127.0.0.1 log.wt14yf.com
 127.0.0.1 log.zingnews.vn
 127.0.0.1 loki.wattpad.com
+127.0.0.1 loklok.com
+127.0.0.1 loklok.tv
 127.0.0.1 loli.net
 127.0.0.1 lontaranews.com
 127.0.0.1 loomi.tv
@@ -2318,6 +2355,7 @@
 127.0.0.1 netdna-ssl.com
 127.0.0.1 netpayjob.com
 127.0.0.1 net.simontok.site
+127.0.0.1 neverbounce.com
 127.0.0.1 new.bestageoffers2022.com
 127.0.0.1 newdebut-av.monster
 127.0.0.1 newds01.myoppo.com
@@ -2557,6 +2595,7 @@
 127.0.0.1 play.mintegral.com
 127.0.0.1 play.wetvinfo.com
 127.0.0.1 pl.bignox.com
+127.0.0.1 pl.connatix.com
 127.0.0.1 plugin-server.wps.com
 127.0.0.1 podrbx.best
 127.0.0.1 pogoda.imgsmail.ru
@@ -2695,6 +2734,7 @@
 127.0.0.1 relocationapi.micloud.xiaomi.net
 127.0.0.1 reminiandroid.oracle.bendingspoonsapps.com
 127.0.0.1 remotecompany.com
+127.0.0.1 renren.com
 127.0.0.1 repair-system-phone.firebaseio.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 report-ps.meettech.net
@@ -2916,7 +2956,6 @@
 127.0.0.1 shopzilla.com
 127.0.0.1 shortapi.admixplay.com
 127.0.0.1 shortconn.im.qcloud.com
-127.0.0.1 shortener.secureserver.net
 127.0.0.1 short.im-gb.com
 127.0.0.1 shortintl.push.heytapmobile.com
 127.0.0.1 shortintl.push.oppomobile.com
@@ -3002,6 +3041,7 @@
 127.0.0.1 srv.sec.intl.miui.com
 127.0.0.1 srv-si-photo-upload.z-dn.net
 127.0.0.1 srv-supersonic-images.z-dn.net
+127.0.0.1 srvsynd.com
 127.0.0.1 ssl.captcha.qq.com
 127.0.0.1 ss.litatom.com
 127.0.0.1 ssl.p.jwpcdn.com
@@ -3011,6 +3051,7 @@
 127.0.0.1 ssp-3-9f58.trnox.com
 127.0.0.1 sspapi-prd.samsungrs.com
 127.0.0.1 ssp.wp.pl
+127.0.0.1 s.srvsynd.com
 127.0.0.1 st001004gj-apm.instabug.com
 127.0.0.1 st001004gj.instabug.com
 127.0.0.1 stack-sonar.com
@@ -3040,6 +3081,7 @@
 127.0.0.1 static.messagebird.com
 127.0.0.1 static.mob.com
 127.0.0.1 static.neptunegame.com
+127.0.0.1 static.netpop.app
 127.0.0.1 static.pulse.mail.ru
 127.0.0.1 statics.creativecdn.com
 127.0.0.1 static.servicewebly.com
@@ -3120,6 +3162,7 @@
 127.0.0.1 s.w.org
 127.0.0.1 swpsvc.com
 127.0.0.1 s.xlgmedia.com
+127.0.0.1 s.xnimg.cn
 127.0.0.1 sync.ecal.com
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 sync.search.spotxchange.com
@@ -3154,6 +3197,8 @@
 127.0.0.1 tappco.go2cloud.org
 127.0.0.1 t.appsflyer.com
 127.0.0.1 tarot.minozodiac.com
+127.0.0.1 taximaxim.ru
+127.0.0.1 taxsee.ru
 127.0.0.1 t.bignox.com
 127.0.0.1 tch493077.tch.quora.com
 127.0.0.1 tch.quora.com
@@ -3250,6 +3295,7 @@
 127.0.0.1 trackad.cz
 127.0.0.1 tracker.ruangguru.com
 127.0.0.1 trackersimulator.org
+127.0.0.1 track.gaconnector.com
 127.0.0.1 tracking.apptrackerlink.com
 127.0.0.1 tracking.g2crowd.com
 127.0.0.1 tracking.trnox.com
@@ -3391,6 +3437,7 @@
 127.0.0.1 vibecdn.contextads.live
 127.0.0.1 viber.com
 127.0.0.1 victim-dot-spectre-web.appspot.com
+127.0.0.1 vid.connatix.com
 127.0.0.1 videodelivery.net
 127.0.0.1 videodownloader.ummy.net
 127.0.0.1 videoeditor-sg.soloop.heytapmobile.com
@@ -3444,6 +3491,7 @@
 127.0.0.1 wannos-bj.127.net
 127.0.0.1 wannos-hz.127.net
 127.0.0.1 wannos-oversea.127.net
+127.0.0.1 wanwang.aliyun.com
 127.0.0.1 wap.sogou.com
 127.0.0.1 waridd.top
 127.0.0.1 warmthhh.online
@@ -3458,6 +3506,7 @@
 127.0.0.1 webadv.co
 127.0.0.1 webanalytic.info
 127.0.0.1 webapi-clean.ikeepapps.com
+127.0.0.1 web-api.netpop.app
 127.0.0.1 webdesignerdepot.com
 127.0.0.1 weblibrary.cdn.getgo.com
 127.0.0.1 web.money
@@ -3674,6 +3723,8 @@
 127.0.0.1 www.steveziogames.com
 127.0.0.1 www.taobao.com
 127.0.0.1 www.tap.io
+127.0.0.1 www.taximaxim.ru
+127.0.0.1 www.taxsee.ru
 127.0.0.1 www.technologyadvice.com
 127.0.0.1 www.teddymobile.cn
 127.0.0.1 www.terabox.com
@@ -3742,6 +3793,7 @@
 127.0.0.1 xlaxiata-resources.digital-cloud-sin1.medallia.com
 127.0.0.1 xlaxiata-udc.digital-cloud-sin1.medallia.com
 127.0.0.1 xlgmedia.com
+127.0.0.1 xnimg.cn
 127.0.0.1 xnxx.com
 127.0.0.1 xp.apple.com
 127.0.0.1 xplayer-42f31.web.app
@@ -9472,6 +9524,9 @@
 127.0.0.1 vod-lf.bytedanceapi.com
 127.0.0.1 vod-lf.snssdk.com
 127.0.0.1 vod-lf.snssdk.com.w.kunluncan.com
+127.0.0.1 vod-license-b.bytepluscdn.com
+127.0.0.1 vod-license-m.bytepluscdn.com
+127.0.0.1 vod-settings.byteplusvod.com
 127.0.0.1 vod.snssdk.com
 127.0.0.1 vod.us-east-1.bytedanceapi.com
 127.0.0.1 voffline.pstatp.com

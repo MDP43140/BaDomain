@@ -3637,6 +3637,9 @@
 127.0.0.1 vod-lf.bytedanceapi.com
 127.0.0.1 vod-lf.snssdk.com
 127.0.0.1 vod-lf.snssdk.com.w.kunluncan.com
+127.0.0.1 vod-license-b.bytepluscdn.com
+127.0.0.1 vod-license-m.bytepluscdn.com
+127.0.0.1 vod-settings.byteplusvod.com
 127.0.0.1 vod.snssdk.com
 127.0.0.1 vod.us-east-1.bytedanceapi.com
 127.0.0.1 voffline.pstatp.com

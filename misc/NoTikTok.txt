@@ -3637,6 +3637,9 @@ vod-hl.snssdk.com.w.kunluncan.com
 vod-lf.bytedanceapi.com
 vod-lf.snssdk.com
 vod-lf.snssdk.com.w.kunluncan.com
+vod-license-b.bytepluscdn.com
+vod-license-m.bytepluscdn.com
+vod-settings.byteplusvod.com
 vod.snssdk.com
 vod.us-east-1.bytedanceapi.com
 voffline.pstatp.com
