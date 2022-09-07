@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.09.2022
+# Version: 07.09.2022
 # Update: 1 day
 #
 
@@ -131,6 +131,7 @@
 9933gg.com
 9C8B0AE1.dr.youme.im
 9C8B0AE1.rtc.youme.im
+9ce8c6e7-dnsotls-ds.metric.gstatic.com
 9-courier.push.apple.com
 9d4c473e-dnsotls-ds.metric.gstatic.com
 a01.uadexchange.com
@@ -3144,6 +3145,7 @@ support.jwplayer.com
 support.yeshen.com
 surfing-waves.com
 survey.bignox.com
+surveys-static.survicate.com
 survey.survicate.com
 survicate.com
 svibeacon.onezapp.com
@@ -3376,6 +3378,7 @@ update.iobit.com
 update.kiwibrowser.com
 update.mysecuritystudio.com
 update.neptunegame.com
+update.whatsaero.com
 upgrade.shalltry.com
 upload-dianshi-1255598498.file.myqcloud.com
 upoint.id
@@ -3819,6 +3822,7 @@ yingxiao.baidu.com
 yixiu-abtest.alicdn.com
 ymg.teraboxcdn.com
 ynuf.aliapp.org
+yonlendir.whatsaero.com
 yotpo.com
 youme.im
 youtts.com
