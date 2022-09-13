@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 07.09.2022
+# Version: 13.09.2022
 # Update: 1 day
 #
 
@@ -486,6 +486,7 @@ apitm.toolmatrix.plus
 api.tratao.com
 api.twibida.com
 api-us.bidmachine.io
+api.ushareit.com
 api-visitor-analytics.intercom.com
 api.vungle.com
 api.wattpad.com
@@ -495,6 +496,7 @@ api.wifimap.io
 api.wlvpn.com
 api.wntyru.com
 api.wondershare.com
+api.wshareit.com
 api.wt14yf.com
 api.xintaicz.cn
 api.zhuti.intl.xiaomi.com
@@ -607,6 +609,7 @@ asia-sysupgrade-api.vivoglobal.com
 asia-theme-api.vivoglobal.com
 asia-third-appstore.vivoglobal.com
 asia-timesync.vivoglobal.com
+asia-update-appstore.vivoglobal.com
 asia-upload-appstore.vivoglobal.com
 asia-usrsys-api.vivoglobal.com
 asia-vcode-api.vivoglobal.com
@@ -661,6 +664,8 @@ avanquest.com
 avatar.pho.to
 a.vdo.ai
 avlconf.coloros.com
+avlsec.com
+avlsec.oss-cn-hangzhou.aliyuncs.com
 a.wattpad.com
 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 aws-api.kibads.com
@@ -750,6 +755,7 @@ bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 bombora.com
 boomplay.com
 boomplaymusic.com
+booster.palmpal.net
 bootstrap.smartsuppchat.com
 botsrv2.com
 box5757.temp.domains
@@ -800,6 +806,7 @@ cadmoremedia.com
 cahoots.com
 calconic.com
 calibermind.com
+camp.azgames.live
 c-api-bit.shopeemobile.com
 capi.connatix.com
 c-api.gos-gsp.io
@@ -862,6 +869,7 @@ cdn.cookie-script.com
 cdn.cove.chat
 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 cdn.cxomedia.id
+cdn.dms.eyewind.cn
 cdn.exp.xiaomi.com
 cdn.fbsbx.com
 cdn-f.heylink.me
@@ -939,6 +947,7 @@ chat4-production.golabs.io
 cheapkey.net
 checkappexec.microsoft.com
 checkip.amazonaws.com
+check-tcp.rayjump.com
 check.y5en.com
 chicoryapp.com
 chimpstatic.com
@@ -1031,6 +1040,8 @@ config.toolmatrix.plus
 config.toto.zipoapps.com
 config.unityads.unity3d.com
 configuration.ls.apple.com
+configure-tcp-android.rayjump.com
+configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
 config.y5en.com
 confirmation.gameloft.com
@@ -1239,6 +1250,7 @@ dl.xposed.info
 dmcdn.net
 dmg.digitaltarget.ru
 dm.samsungdive.com
+dms.eyewind.cn
 dn.im-gb.com
 dns11.quad9.net
 dns9.hichina.com
@@ -1265,6 +1277,7 @@ doubleclick.net
 down.anticheatexpert.com
 download0.vivo.com.cn
 download.alicdn.com
+download-api.palmplaystore.com
 download.bignox.com
 download.iobit.com
 download-sin.dtignite.com
@@ -1300,6 +1313,9 @@ e2c19.gcp.gvt2.com
 e2c30.gcp.gvt2.com
 e2c38.gcp.gvt2.com
 e2c40.gcp.gvt2.com
+e3log1.fineboost.com
+e3log2.fineboost.com
+e3log3.fineboost.com
 e673.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
@@ -1386,6 +1402,7 @@ external.appstore.vivo.com.cn
 extremetech.com
 eyeonsight.net
 eyeota.net
+eyewind.cn
 ezodn.com
 ezoic.net
 ezojs.com
@@ -1483,6 +1500,7 @@ gamecfg-mob.ubi.com
 gameguardian.b-cdn.net
 gameimg.heytapimg.com
 gameloft.com
+gameloft.helpshift.com
 gamepe.ru
 gameportal.casa
 games.shopee.co.id
@@ -1530,6 +1548,7 @@ ghbtns.com
 ghost.org
 gift.bignox.com
 giphy.com
+girlfriend.host
 github.phala.one
 gitkraken.com
 glamour.com
@@ -1558,6 +1577,7 @@ global-rank-sg.sausage.xd.com
 global-tokenserver-la.headline.uodoo.com
 g-logsdk.snackvideo.com
 go2cloud.org
+go2s.co
 go.com
 godaddy.com
 go.eportalmobile.com
@@ -1609,6 +1629,7 @@ gslb.shalltry.com
 gs-loc.apple.com
 gs-loc.ls-apple.com.akadns.net
 gs-loc-new.ls-apple.com.akadns.net
+gsmlog.cscmobicorp.com
 gsp36-ssl.ls.apple.com
 gsp64-ssl.ls.apple.com
 gsp64-ssl.ls-apple.com.akadns.net
@@ -1822,6 +1843,7 @@ img.cdn.baca.co.id
 imgcdn.ymstatic.com
 img.connatix.com
 img.feednews.com
+img.go2s.co
 img-hw.xnxx-cdn.com
 img-hw.xvideos-cdn.com
 img.imgsmail.ru
@@ -2061,6 +2083,7 @@ layuicdn.com
 laz-dorangesource.alicdn.com
 laz-g-cdn.alicdn.com
 laz-img-cdn.alicdn.com
+lazy-tcp.rayjump.com
 lbs.like.video
 lbs-zaizai.netease.im
 lcdn-locator.apple.com
@@ -2417,6 +2440,7 @@ oem.kika-backend.com
 offer.headlines.pw
 of.foldlife.net
 oficayuda.club
+o.glance-cdn.com
 olmusic.xyz
 omappapi.com
 omes-sec.heytapmobile.com
@@ -2455,6 +2479,7 @@ osano.com
 osfeature.shalltry.com
 oshola.shalltry.com
 oss-admin.cnyhyl.cn
+oss-cn-hangzhou.aliyuncs.com
 ossgw.alicdn.com
 oss-usdtt.cnyhyl.cn
 osupdate2020.shalltry.com
@@ -2499,6 +2524,7 @@ pageonenewsapp.com
 page.portals.mobi
 pages.lazada.co.id
 page.widget.zalo.me
+palmpal.net
 palmpay.com
 palmplaystore.com
 pancake.apple.com
@@ -2593,9 +2619,11 @@ plugin-server.wps.com
 podrbx.best
 pogoda.imgsmail.ru
 pointone.tech
+policy-tcp.rayjump.com
 pool.apk.aptoide.com
 pop3.bignox.com
 popcore.com
+popin-minus.com
 popular.kiwibrowser.com
 pornozot.com
 portal.mail.ru
@@ -2710,6 +2738,7 @@ rbxton.online
 rdr.mobiletime.net
 ready.whatssappa.xyz
 rebuilt.pro.ilovexclub.com
+receiver-metis.infeng.site
 recommend.pa1mstore.com
 recommend.palmplaystore.com
 recorder.iobit.com
@@ -2767,6 +2796,7 @@ rewards-cards.org
 rhaxpy.com
 r-id.ls.glanceapis.com
 rilds.com
+rindu.plus
 r-in.glance-cdn.com
 rink.hockeyapp.net
 riseup.net
@@ -2956,9 +2986,11 @@ shortvideo.qiniuapi.com
 shreeganeshlab.co.in
 sift-creatives.s3.amazonaws.com
 simple-get.ilyon.net
+simplelocalize.io
 simpli.fi
 sin.a.ak.prd.aadg.trafficmanager.net
 sina.cn
+sink.gameloft.com
 sis.jpush.io
 siteintercept.qualtrics.com
 sixtest.com
@@ -3518,6 +3550,7 @@ webtoons-static.pstatic.net
 web.toutiao.com
 webview.unityads.unity3d.com
 webvisor.com
+web.wshareit.com
 wedn.best
 weglot.com
 weibo.com
@@ -3558,6 +3591,7 @@ wp.pl
 wpvip.com
 wsapi.master.live
 ws.flv.nimo.tv
+wshareit.com
 ws.hls.nimo.tv
 wsod.com
 ws-sgp-origin-pull.snackvideo.in
@@ -3688,6 +3722,7 @@ www.mobfox.com
 www.mobvista.com
 www.narratorsvoice.com
 www.noxinfluencer.com
+www.palmpal.net
 www.palmpay.com
 www.pdl.id
 www.portals.mobi
@@ -3735,6 +3770,7 @@ www.uadexchange.com
 www.uc.cn
 www.unipin.com
 www.upoint.id
+www.ushareit.com
 www.uzone.id
 www.vdo.ai
 www.viber.com
@@ -3753,6 +3789,7 @@ www.wlvpn.com
 www.wmtransfer.com
 www.womenforlove.net
 www.wp.pl
+www.wshareit.com
 www.wuildit.com
 www.xmlschemeformat.com
 www.xnxx.com
@@ -3855,6 +3892,7 @@ zingnews.vn
 zing.vn
 zipoapps.com
 zjs.zingcdn.me
+zligaton.com
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com
 zmt.itc.cn

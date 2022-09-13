@@ -1,7 +1,7 @@
 #
 # This is the fork of llabc's TikTok Block, with MORE domains to block.
 # Use this list to totally block access to
-# any bytedance products (including TikTok, CapCut, etc...) on your network.
+# any bytedance products (including TikTok, CapCut, Pangle, etc...) on your network.
 #
 
 0pbxmo-useast2a.xzcs3zlph.com
@@ -75,6 +75,7 @@ act.toutiaocloud.com
 ad-lb-alisg.byteoversea.net
 ad-lb-maliva.byteoversea.net
 admin.bytedance.com
+ad.oceanengine.com
 adshare.toutiao.com
 ads.tiktok.com
 ads.tiktok.com.edgekey.net
@@ -392,6 +393,7 @@ api-eagle-hl.amemv.com
 api-eagle-hl.amemv.com.w.kunluncan.com
 api-eagle-lq.amemv.com
 api-eagle-lq.amemv.com.w.cdngslb.com
+api.growingio.com
 api-h2-eagle.tiktokv.com
 api-h2-eagle.tiktokv.com.edgekey.net
 api-h2.tiktokv.com
@@ -586,6 +588,7 @@ business-sg.topbuzz.com
 business.tiktok.com
 business.topbuzz.com
 bvc-tos.pstatp.com
+byteadverts.com
 bytecamp.toutiao.com
 bytecdn.cn
 bytecdn.cn.bsgslb.com
@@ -600,6 +603,7 @@ bytedns.net
 byted.org
 byteeffecttos-g.com
 bytegeo.akadns.net
+bytegoofy.com
 bytegsdk.com
 byteicdn.com
 byteimg.com
@@ -611,7 +615,10 @@ byteoversea.com.edgekey.net
 byteoversea.com.edgesuite.net
 byteoversea.com.srip.net
 byteoversea.net
+bytescm.com
+bytetcc.com
 bytetcdn.com
+bytetos.com
 bytewlb.akadns.net
 bytps.snssdk.com
 c01.i07.arnic.lv3.cloudglb.com
@@ -1000,6 +1007,7 @@ gplog-va.byteoversea.com
 gppg-sg.byteintl.com
 grafana-boe.byted.org
 grelationship-sg.snssdk.com
+growingio.com
 gsdk.sgsnssdk.com
 gsdk.snssdk.com
 gs-sin-api1.l.byteoversea.net
@@ -1089,6 +1097,7 @@ ib.snssdk.com
 ib.snssdk.com.edgekey.net
 ib.snssdk.com.w.kunluncan.com
 ib.tiktokv.com
+ibytedapm.com
 ibytedtos.com
 ibytedtos.com.edgekey.net
 ibytedtos.com.edgesuite.net
@@ -1336,6 +1345,8 @@ lf19-effectcdn.byteeffecttos-g.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
 lf1-amcdn-tos.pstatp.com.wsglb0.com
+lf1-cdn-tos.bytegoofy.com
+lf1-cdn-tos.bytescm.com
 lf1-dycdn-tos.pstatp.com
 lf1-effectcdn-tos.pstatp.com
 lf1-faceucdn-tos.pstatp.com
@@ -1355,7 +1366,11 @@ lf2-hscdn-tos.pstatp.com
 lf3-adcdn-tos.pstatp.com
 lf3-adcdn-tos.pstatp.com.w.alikunlun.com
 lf3-adcdn-tos.pstatp.com.xi.zwtianshangm.com
+lf3-ad-platform.byteadverts.com
 lf3-amcdn-tos.pstatp.com.w.cdngslb.com
+lf3-beecdn.bytetos.com
+lf3-cdn-tos.bytescm.com
+lf3-config.bytetcc.com
 lf3-eecdn-tos.pstatp.com.w.alikunlun.com
 lf3-effectcdn-tos.pstatp.com
 lf3-effectcdn-tos.pstatp.com.w.cdngslb.com
@@ -1368,9 +1383,11 @@ lf3-hscdn-tos.pstatp.com
 lf3-hscdn-tos.pstatp.com.xi.zwtianshangm.com
 lf3-ipv6.snssdk.com
 lf3-ppcdn-tos.pstatp.com
+lf3-short.ibytedapm.com
 lf3-tccdn-tos.pstatp.com
 lf3-ttcdn-tos.pstatp.com
 lf3-xgcdn-tos.pstatp.com
+lf6-cdn-tos.bytescm.com
 lf6-dycdn-tos.pstatp.com
 lf6-geckocdn-tos.pstatp.com
 lf6-hscdn-tos.pstatp.com
@@ -1381,6 +1398,7 @@ lf9-effectcdn-tos.pstatp.com
 lf9-effectcdn-tos.pstatp.com.bsgslb.com
 lf9-geckocdn-tos.pstatp.com.bsgslb.com
 lf9-tk-tos.tiktokcdn.com
+lf-c-flwb.bytetos.com
 lf-cold.snssdk.com
 lf-c.snssdk.com
 lf-c.snssdk.com.w.kunluncan.com
@@ -1528,6 +1546,7 @@ mcs.snssdk.com
 mcs-va.tiktok.com
 mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
+mcs.zijieapi.com
 media.tiktok.com
 mercury-sdk.snssdk.com
 mercury.snssdk.com
@@ -1582,6 +1601,7 @@ mon-va.tiktokv.com
 mon-va.tiktokv.com.edgesuite.net
 mon-va-useast2a.byteoversea.com
 mon-ws.snssdk.com
+mon.zijieapi.com
 moss-sg.snssdk.com
 m-p16.akamaized.net
 mpak-ainw1-up.muscdn.com
@@ -1617,6 +1637,7 @@ mr-lq.snssdk.com
 mr.snssdk.com
 mssdk16-normal-alisg.tiktokv.com
 mssdk22-normal-alisg.tiktokv.com
+mssdk.bytedance.com
 mssdk-sg-bu.byteoversea.com
 mssdk-sg.byteoversea.com
 mssdk-sg.tiktokv.com
@@ -1691,6 +1712,7 @@ ns2.s.bytetcdn.com
 ns3.bsgslb.com
 ns3.c.bytetcdn.com
 ns.s.bytetcdn.com
+oceanengine.com
 oec16-normal-alisg.tiktokv.com
 oec16-normal-gquic-useast1a.tiktokv.com
 oec16-normal-useast1a.tiktokv.com
@@ -2819,10 +2841,12 @@ srp1.snssdk.com
 srp2.snssdk.com
 srp3.snssdk.com
 srp4.snssdk.com
+ssa.bytedance.net
 s.sgpstatp.com
 ssl.cdn.tiktok.com.c.footprint.net
 ssl.ipstatp.com.edgekey.net
 ssl.tiktok.com.c.secure.footprint.net
+sso.oceanengine.com
 sso.toutiao.com
 sso.toutiao.com.w.cdngslb.com
 st1-ttcdn-tos.pstatp.com
@@ -2854,6 +2878,7 @@ support.tiktok.com
 support.tiktok.com.edgesuite.net
 sv10.byteoversea.com
 s.worldfcdn.com
+tags.growingio.com
 ta.snssdk.com
 tb.isnssdk.com
 tb.sgsnssdk.com
@@ -3170,6 +3195,7 @@ ttpush-maliva.byteoversea.com
 ttv5opencdn.jomodns.com
 tt-video.hrlb.ks-cdn1.com
 tt-video.hrlb.ks-cdn.com
+ttwid.bytedance.com
 ttwid-va.byteoversea.com
 ttwstatic.com
 tuchong.pstatp.com
@@ -3910,6 +3936,7 @@ zdmall.snssdk.com.w.kunluncan.com
 zerxygpl.mzfvozqybf.com
 zhanzhang.toutiao.com
 zhenzhen.snssdk.com
+zijieapi.com
 zjmvi.v.bsgslb.com
 z.l.bytedns.net
 zlink.toutiao.com

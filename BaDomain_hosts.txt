@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 07.09.2022
+# Version: 13.09.2022
 # Update: 1 day
 #
 
@@ -486,6 +486,7 @@
 127.0.0.1 api.tratao.com
 127.0.0.1 api.twibida.com
 127.0.0.1 api-us.bidmachine.io
+127.0.0.1 api.ushareit.com
 127.0.0.1 api-visitor-analytics.intercom.com
 127.0.0.1 api.vungle.com
 127.0.0.1 api.wattpad.com
@@ -495,6 +496,7 @@
 127.0.0.1 api.wlvpn.com
 127.0.0.1 api.wntyru.com
 127.0.0.1 api.wondershare.com
+127.0.0.1 api.wshareit.com
 127.0.0.1 api.wt14yf.com
 127.0.0.1 api.xintaicz.cn
 127.0.0.1 api.zhuti.intl.xiaomi.com
@@ -607,6 +609,7 @@
 127.0.0.1 asia-theme-api.vivoglobal.com
 127.0.0.1 asia-third-appstore.vivoglobal.com
 127.0.0.1 asia-timesync.vivoglobal.com
+127.0.0.1 asia-update-appstore.vivoglobal.com
 127.0.0.1 asia-upload-appstore.vivoglobal.com
 127.0.0.1 asia-usrsys-api.vivoglobal.com
 127.0.0.1 asia-vcode-api.vivoglobal.com
@@ -661,6 +664,8 @@
 127.0.0.1 avatar.pho.to
 127.0.0.1 a.vdo.ai
 127.0.0.1 avlconf.coloros.com
+127.0.0.1 avlsec.com
+127.0.0.1 avlsec.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 a.wattpad.com
 127.0.0.1 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 127.0.0.1 aws-api.kibads.com
@@ -750,6 +755,7 @@
 127.0.0.1 bombora.com
 127.0.0.1 boomplay.com
 127.0.0.1 boomplaymusic.com
+127.0.0.1 booster.palmpal.net
 127.0.0.1 bootstrap.smartsuppchat.com
 127.0.0.1 botsrv2.com
 127.0.0.1 box5757.temp.domains
@@ -800,6 +806,7 @@
 127.0.0.1 cahoots.com
 127.0.0.1 calconic.com
 127.0.0.1 calibermind.com
+127.0.0.1 camp.azgames.live
 127.0.0.1 c-api-bit.shopeemobile.com
 127.0.0.1 capi.connatix.com
 127.0.0.1 c-api.gos-gsp.io
@@ -862,6 +869,7 @@
 127.0.0.1 cdn.cove.chat
 127.0.0.1 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 127.0.0.1 cdn.cxomedia.id
+127.0.0.1 cdn.dms.eyewind.cn
 127.0.0.1 cdn.exp.xiaomi.com
 127.0.0.1 cdn.fbsbx.com
 127.0.0.1 cdn-f.heylink.me
@@ -939,6 +947,7 @@
 127.0.0.1 cheapkey.net
 127.0.0.1 checkappexec.microsoft.com
 127.0.0.1 checkip.amazonaws.com
+127.0.0.1 check-tcp.rayjump.com
 127.0.0.1 check.y5en.com
 127.0.0.1 chicoryapp.com
 127.0.0.1 chimpstatic.com
@@ -1031,6 +1040,8 @@
 127.0.0.1 config.toto.zipoapps.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configuration.ls.apple.com
+127.0.0.1 configure-tcp-android.rayjump.com
+127.0.0.1 configure-tcp.rayjump.com
 127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 config.y5en.com
 127.0.0.1 confirmation.gameloft.com
@@ -1239,6 +1250,7 @@
 127.0.0.1 dmcdn.net
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 dm.samsungdive.com
+127.0.0.1 dms.eyewind.cn
 127.0.0.1 dn.im-gb.com
 127.0.0.1 dns11.quad9.net
 127.0.0.1 dns9.hichina.com
@@ -1265,6 +1277,7 @@
 127.0.0.1 down.anticheatexpert.com
 127.0.0.1 download0.vivo.com.cn
 127.0.0.1 download.alicdn.com
+127.0.0.1 download-api.palmplaystore.com
 127.0.0.1 download.bignox.com
 127.0.0.1 download.iobit.com
 127.0.0.1 download-sin.dtignite.com
@@ -1300,6 +1313,9 @@
 127.0.0.1 e2c30.gcp.gvt2.com
 127.0.0.1 e2c38.gcp.gvt2.com
 127.0.0.1 e2c40.gcp.gvt2.com
+127.0.0.1 e3log1.fineboost.com
+127.0.0.1 e3log2.fineboost.com
+127.0.0.1 e3log3.fineboost.com
 127.0.0.1 e673.dsce9.akamaiedge.net
 127.0.0.1 e69896.dscapi6.akamaiedge.net
 127.0.0.1 e7100.g.akamaiedge.net
@@ -1386,6 +1402,7 @@
 127.0.0.1 extremetech.com
 127.0.0.1 eyeonsight.net
 127.0.0.1 eyeota.net
+127.0.0.1 eyewind.cn
 127.0.0.1 ezodn.com
 127.0.0.1 ezoic.net
 127.0.0.1 ezojs.com
@@ -1483,6 +1500,7 @@
 127.0.0.1 gameguardian.b-cdn.net
 127.0.0.1 gameimg.heytapimg.com
 127.0.0.1 gameloft.com
+127.0.0.1 gameloft.helpshift.com
 127.0.0.1 gamepe.ru
 127.0.0.1 gameportal.casa
 127.0.0.1 games.shopee.co.id
@@ -1530,6 +1548,7 @@
 127.0.0.1 ghost.org
 127.0.0.1 gift.bignox.com
 127.0.0.1 giphy.com
+127.0.0.1 girlfriend.host
 127.0.0.1 github.phala.one
 127.0.0.1 gitkraken.com
 127.0.0.1 glamour.com
@@ -1558,6 +1577,7 @@
 127.0.0.1 global-tokenserver-la.headline.uodoo.com
 127.0.0.1 g-logsdk.snackvideo.com
 127.0.0.1 go2cloud.org
+127.0.0.1 go2s.co
 127.0.0.1 go.com
 127.0.0.1 godaddy.com
 127.0.0.1 go.eportalmobile.com
@@ -1609,6 +1629,7 @@
 127.0.0.1 gs-loc.apple.com
 127.0.0.1 gs-loc.ls-apple.com.akadns.net
 127.0.0.1 gs-loc-new.ls-apple.com.akadns.net
+127.0.0.1 gsmlog.cscmobicorp.com
 127.0.0.1 gsp36-ssl.ls.apple.com
 127.0.0.1 gsp64-ssl.ls.apple.com
 127.0.0.1 gsp64-ssl.ls-apple.com.akadns.net
@@ -1822,6 +1843,7 @@
 127.0.0.1 imgcdn.ymstatic.com
 127.0.0.1 img.connatix.com
 127.0.0.1 img.feednews.com
+127.0.0.1 img.go2s.co
 127.0.0.1 img-hw.xnxx-cdn.com
 127.0.0.1 img-hw.xvideos-cdn.com
 127.0.0.1 img.imgsmail.ru
@@ -2061,6 +2083,7 @@
 127.0.0.1 laz-dorangesource.alicdn.com
 127.0.0.1 laz-g-cdn.alicdn.com
 127.0.0.1 laz-img-cdn.alicdn.com
+127.0.0.1 lazy-tcp.rayjump.com
 127.0.0.1 lbs.like.video
 127.0.0.1 lbs-zaizai.netease.im
 127.0.0.1 lcdn-locator.apple.com
@@ -2417,6 +2440,7 @@
 127.0.0.1 offer.headlines.pw
 127.0.0.1 of.foldlife.net
 127.0.0.1 oficayuda.club
+127.0.0.1 o.glance-cdn.com
 127.0.0.1 olmusic.xyz
 127.0.0.1 omappapi.com
 127.0.0.1 omes-sec.heytapmobile.com
@@ -2455,6 +2479,7 @@
 127.0.0.1 osfeature.shalltry.com
 127.0.0.1 oshola.shalltry.com
 127.0.0.1 oss-admin.cnyhyl.cn
+127.0.0.1 oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 ossgw.alicdn.com
 127.0.0.1 oss-usdtt.cnyhyl.cn
 127.0.0.1 osupdate2020.shalltry.com
@@ -2499,6 +2524,7 @@
 127.0.0.1 page.portals.mobi
 127.0.0.1 pages.lazada.co.id
 127.0.0.1 page.widget.zalo.me
+127.0.0.1 palmpal.net
 127.0.0.1 palmpay.com
 127.0.0.1 palmplaystore.com
 127.0.0.1 pancake.apple.com
@@ -2593,9 +2619,11 @@
 127.0.0.1 podrbx.best
 127.0.0.1 pogoda.imgsmail.ru
 127.0.0.1 pointone.tech
+127.0.0.1 policy-tcp.rayjump.com
 127.0.0.1 pool.apk.aptoide.com
 127.0.0.1 pop3.bignox.com
 127.0.0.1 popcore.com
+127.0.0.1 popin-minus.com
 127.0.0.1 popular.kiwibrowser.com
 127.0.0.1 pornozot.com
 127.0.0.1 portal.mail.ru
@@ -2710,6 +2738,7 @@
 127.0.0.1 rdr.mobiletime.net
 127.0.0.1 ready.whatssappa.xyz
 127.0.0.1 rebuilt.pro.ilovexclub.com
+127.0.0.1 receiver-metis.infeng.site
 127.0.0.1 recommend.pa1mstore.com
 127.0.0.1 recommend.palmplaystore.com
 127.0.0.1 recorder.iobit.com
@@ -2767,6 +2796,7 @@
 127.0.0.1 rhaxpy.com
 127.0.0.1 r-id.ls.glanceapis.com
 127.0.0.1 rilds.com
+127.0.0.1 rindu.plus
 127.0.0.1 r-in.glance-cdn.com
 127.0.0.1 rink.hockeyapp.net
 127.0.0.1 riseup.net
@@ -2956,9 +2986,11 @@
 127.0.0.1 shreeganeshlab.co.in
 127.0.0.1 sift-creatives.s3.amazonaws.com
 127.0.0.1 simple-get.ilyon.net
+127.0.0.1 simplelocalize.io
 127.0.0.1 simpli.fi
 127.0.0.1 sin.a.ak.prd.aadg.trafficmanager.net
 127.0.0.1 sina.cn
+127.0.0.1 sink.gameloft.com
 127.0.0.1 sis.jpush.io
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sixtest.com
@@ -3518,6 +3550,7 @@
 127.0.0.1 web.toutiao.com
 127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 webvisor.com
+127.0.0.1 web.wshareit.com
 127.0.0.1 wedn.best
 127.0.0.1 weglot.com
 127.0.0.1 weibo.com
@@ -3558,6 +3591,7 @@
 127.0.0.1 wpvip.com
 127.0.0.1 wsapi.master.live
 127.0.0.1 ws.flv.nimo.tv
+127.0.0.1 wshareit.com
 127.0.0.1 ws.hls.nimo.tv
 127.0.0.1 wsod.com
 127.0.0.1 ws-sgp-origin-pull.snackvideo.in
@@ -3688,6 +3722,7 @@
 127.0.0.1 www.mobvista.com
 127.0.0.1 www.narratorsvoice.com
 127.0.0.1 www.noxinfluencer.com
+127.0.0.1 www.palmpal.net
 127.0.0.1 www.palmpay.com
 127.0.0.1 www.pdl.id
 127.0.0.1 www.portals.mobi
@@ -3735,6 +3770,7 @@
 127.0.0.1 www.uc.cn
 127.0.0.1 www.unipin.com
 127.0.0.1 www.upoint.id
+127.0.0.1 www.ushareit.com
 127.0.0.1 www.uzone.id
 127.0.0.1 www.vdo.ai
 127.0.0.1 www.viber.com
@@ -3753,6 +3789,7 @@
 127.0.0.1 www.wmtransfer.com
 127.0.0.1 www.womenforlove.net
 127.0.0.1 www.wp.pl
+127.0.0.1 www.wshareit.com
 127.0.0.1 www.wuildit.com
 127.0.0.1 www.xmlschemeformat.com
 127.0.0.1 www.xnxx.com
@@ -3855,6 +3892,7 @@
 127.0.0.1 zing.vn
 127.0.0.1 zipoapps.com
 127.0.0.1 zjs.zingcdn.me
+127.0.0.1 zligaton.com
 127.0.0.1 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zmt.itc.cn

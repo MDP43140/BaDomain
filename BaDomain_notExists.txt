@@ -85,6 +85,7 @@ api.faceapp.ai
 api.like-it.video
 api.meditation.oneboost.me
 api.mobilesearchers.com
+api.zligaton.com
 app.bt-cfm.io
 appconf.heytapdownload.com
 applilink.jp
@@ -104,6 +105,7 @@ avcdn.net
 avlyun.com
 avlyun.sec.miui.com
 ay-quiz.tk
+azgames.live
 azureedge.net
 baby-girls.id
 baby-girls.my.id
@@ -141,6 +143,7 @@ cdnhwc1.com
 cdnmore.com
 cdn.tstatic.net
 cdn.viber.com
+cdn.zligaton.com
 ceap-log-sg.allawnos.com
 cfg.oneboost.me
 cfs2.u-zone.id
@@ -176,6 +179,7 @@ copyrightform-helpcenter.tk
 crownpeak.net
 crsspxl.com
 cr.y5en.com
+cscmobicorp.com
 csf.uzone.id
 csp1.zte.com.cn
 ctfassets.net
@@ -325,9 +329,11 @@ ilovexclub.net
 images.sc-cdn.net
 img.baca.co.id
 img-l.usicdn.com
+img.zligaton.com
 imrworldwide.com
 ind65.notesbook.in
 indexww.com
+infeng.site
 info.bignox.com
 ingest.sentry.io
 intellimize.co
@@ -704,6 +710,7 @@ www.x-tags.net
 www.ykxipfcg.com
 www.yomani.vip
 www.zdn.vn
+www.zligaton.com
 x18like.uno
 x2drop.com
 x8zs.cok
