@@ -39,6 +39,7 @@ acircle.vip
 acs.maribacaberita.com
 activedating-24.online
 ad4.flurry.com
+a.ddc9cb23b6a722f25e78d6979e128d4967e9dfed1506971405cc4845.com
 addthisedge.com
 adform.net
 admin.justin.tv
@@ -192,6 +193,7 @@ dat.gen.in
 daumcdn.net
 dcintl2.push.heytapmobile.com
 dcintl3.push.heytapmobile.com
+ddc9cb23b6a722f25e78d6979e128d4967e9dfed1506971405cc4845.com
 deal24.lv
 demdex.net
 demo.mipunet.cn
@@ -224,6 +226,7 @@ epdg.epc.mnc011.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc089.mcc510.pub.3gppnetwork.org
 erda158.to
 esnoptdkkiirzewlpgmccbwuynvxjumf.name
+everestop.io
 everyday.cf
 evgnet.com
 execute-api.eu-west-1.amazonaws.com

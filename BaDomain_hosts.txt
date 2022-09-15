@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 13.09.2022
+# Version: 15.09.2022
 # Update: 1 day
 #
 
@@ -140,6 +140,7 @@
 127.0.0.1 a1377.w7.akamai.net
 127.0.0.1 a169.w7.akamai.net
 127.0.0.1 a1818.dscg2.akamai.net
+127.0.0.1 a1865.d.akamai.net
 127.0.0.1 a1a4c40e556f413ef.awsglobalaccelerator.com
 127.0.0.1 a1-sgp.easemob.com
 127.0.0.1 a2047.dscb.akamai.net
@@ -256,6 +257,7 @@
 127.0.0.1 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
 127.0.0.1 ae9b110-dnsotls-ds.metric.gstatic.com
 127.0.0.1 aegis.qq.com
+127.0.0.1 a.everestop.io
 127.0.0.1 affilight.com
 127.0.0.1 affilight.network
 127.0.0.1 affinity.com
@@ -377,6 +379,7 @@
 127.0.0.1 api.data.appsinnova.com
 127.0.0.1 api-dci.kinemasters.com
 127.0.0.1 api.dcp.vpdcp.com
+127.0.0.1 api.deathwing.me
 127.0.0.1 api.device.xiaomi.net
 127.0.0.1 api.dkyweipsds.com
 127.0.0.1 api.dns.oppomobile.com
@@ -690,6 +693,7 @@
 127.0.0.1 b.alipay.com
 127.0.0.1 ballou.se
 127.0.0.1 bam-cell.nr-data.net
+127.0.0.1 bam.nr-data.net
 127.0.0.1 bannerflow.com
 127.0.0.1 bannersnack.com
 127.0.0.1 bar.love.mail.ru
@@ -718,6 +722,7 @@
 127.0.0.1 bestcards.online
 127.0.0.1 bestdate.top
 127.0.0.1 betowy.i45x0w.com
+127.0.0.1 b.everestop.io
 127.0.0.1 bf19405wzd.bf.dynatrace.com
 127.0.0.1 bf54607cnw.bf.dynatrace.com
 127.0.0.1 b.hatena.ne.jp
@@ -888,6 +893,8 @@
 127.0.0.1 cdn.joinbudapp.com
 127.0.0.1 cdn.jwplayer.com
 127.0.0.1 cdn.kidozplayer.com
+127.0.0.1 cdn.klimg.com
+127.0.0.1 cdn.klimg.com.akamaized.net
 127.0.0.1 cdn.liftoff-creatives.io
 127.0.0.1 cdn.link4app.com
 127.0.0.1 cdn.livechatinc.com
@@ -907,6 +914,7 @@
 127.0.0.1 cdn-sdk.aihelp.net
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdn.shalltry.com
+127.0.0.1 cdns.klimg.com
 127.0.0.1 cdn.slidesharecdn.com
 127.0.0.1 cdn.snigelweb.com
 127.0.0.1 cdn.sohucs.com
@@ -1202,6 +1210,7 @@
 127.0.0.1 dcmdaa.y5en.com
 127.0.0.1 dcmdae.y5en.com
 127.0.0.1 dc.y5en.com
+127.0.0.1 deathwing.me
 127.0.0.1 de.bignox.com
 127.0.0.1 degoo-instabridge.adsbynimbus.com
 127.0.0.1 delivery.contextads.live
@@ -1219,6 +1228,7 @@
 127.0.0.1 developer.huaweiuniversity.com
 127.0.0.1 developers.google.cn
 127.0.0.1 developers.pho.to
+127.0.0.1 d.everestop.io
 127.0.0.1 deviceintegritytokens-pa.googleapis.com
 127.0.0.1 dew-omm.lotusflare.com
 127.0.0.1 dexeqbeb7giwr.cloudfront.net
@@ -1430,6 +1440,7 @@
 127.0.0.1 feed-test.bignox.com
 127.0.0.1 feelingtouch.helpshift.com
 127.0.0.1 fennec-catalog-cdn.prod.mozaws.net
+127.0.0.1 f.everestop.io
 127.0.0.1 fg8vvsvnieiv3ej16jby.litix.io
 127.0.0.1 fid.agkn.com
 127.0.0.1 file.market.xiaomi.com
@@ -2299,6 +2310,7 @@
 127.0.0.1 momentive.ai
 127.0.0.1 momgen.best
 127.0.0.1 monetizer.com
+127.0.0.1 monkeyibrowstudios.com
 127.0.0.1 montok.wapsite.info
 127.0.0.1 mopinion.com
 127.0.0.1 m.optout.ziffdavis.com
@@ -2944,6 +2956,7 @@
 127.0.0.1 services.prod.ims.adobejanus.com
 127.0.0.1 settings.kiwibrowser.com
 127.0.0.1 settings.picsart.com
+127.0.0.1 s.everestop.io
 127.0.0.1 sexoporno.uno
 127.0.0.1 sexposition.uno
 127.0.0.1 sexxdating.site
@@ -3256,6 +3269,7 @@
 127.0.0.1 test-bg-td.teddymobile.cn
 127.0.0.1 test.cmp.quantcast.com
 127.0.0.1 testedforyou.net
+127.0.0.1 t.everestop.io
 127.0.0.1 tex.z-dn.net
 127.0.0.1 t.focus-res.cn
 127.0.0.1 th.bignox.com
@@ -3565,6 +3579,7 @@
 127.0.0.1 westeurope2.caroda.io
 127.0.0.1 wetest.net
 127.0.0.1 wetv.vip
+127.0.0.1 w.everestop.io
 127.0.0.1 whatismyip.akamai.com
 127.0.0.1 whatssappa.xyz
 127.0.0.1 whippedfreezerbegun.com
@@ -3720,6 +3735,7 @@
 127.0.0.1 www.mob.com
 127.0.0.1 www.mobfox.com
 127.0.0.1 www.mobvista.com
+127.0.0.1 www.monkeyibrowstudios.com
 127.0.0.1 www.narratorsvoice.com
 127.0.0.1 www.noxinfluencer.com
 127.0.0.1 www.palmpal.net
@@ -3815,6 +3831,7 @@
 127.0.0.1 xdg-1c20f-intl.xd.com
 127.0.0.1 xdg-2fc4a-intl.xd.com
 127.0.0.1 xdg-3da8a-intl.xd.com
+127.0.0.1 x.everestop.io
 127.0.0.1 x.glance-cdn.com
 127.0.0.1 x.glance-cdn.net
 127.0.0.1 x-id.ls.glanceapis.com

@@ -1338,6 +1338,7 @@
 127.0.0.1 lf16-tiktok-common.ibytedtos.com
 127.0.0.1 lf16-tiktok.ibytedtos.com
 127.0.0.1 lf16-tiktok-web.ttwstatic.com
+127.0.0.1 lf16-tos-files.tiktokcdn.com
 127.0.0.1 lf16-web-buz.capcut.com
 127.0.0.1 lf19-capcut.faceueditorv.com
 127.0.0.1 lf19-capcut.faceulv.com

@@ -1338,6 +1338,7 @@ lf16-tiktok-common.ibytedos.com
 lf16-tiktok-common.ibytedtos.com
 lf16-tiktok.ibytedtos.com
 lf16-tiktok-web.ttwstatic.com
+lf16-tos-files.tiktokcdn.com
 lf16-web-buz.capcut.com
 lf19-capcut.faceueditorv.com
 lf19-capcut.faceulv.com

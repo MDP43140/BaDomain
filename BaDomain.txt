@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 13.09.2022
+# Version: 15.09.2022
 # Update: 1 day
 #
 
@@ -140,6 +140,7 @@ a03.uadexchange.com
 a1377.w7.akamai.net
 a169.w7.akamai.net
 a1818.dscg2.akamai.net
+a1865.d.akamai.net
 a1a4c40e556f413ef.awsglobalaccelerator.com
 a1-sgp.easemob.com
 a2047.dscb.akamai.net
@@ -256,6 +257,7 @@ adz.wattpad.com
 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
 ae9b110-dnsotls-ds.metric.gstatic.com
 aegis.qq.com
+a.everestop.io
 affilight.com
 affilight.network
 affinity.com
@@ -377,6 +379,7 @@ api.coin.baca.co.id
 api.data.appsinnova.com
 api-dci.kinemasters.com
 api.dcp.vpdcp.com
+api.deathwing.me
 api.device.xiaomi.net
 api.dkyweipsds.com
 api.dns.oppomobile.com
@@ -690,6 +693,7 @@ baike.sogou.com
 b.alipay.com
 ballou.se
 bam-cell.nr-data.net
+bam.nr-data.net
 bannerflow.com
 bannersnack.com
 bar.love.mail.ru
@@ -718,6 +722,7 @@ besmeargleor.com
 bestcards.online
 bestdate.top
 betowy.i45x0w.com
+b.everestop.io
 bf19405wzd.bf.dynatrace.com
 bf54607cnw.bf.dynatrace.com
 b.hatena.ne.jp
@@ -888,6 +893,8 @@ cdn.jifo.co
 cdn.joinbudapp.com
 cdn.jwplayer.com
 cdn.kidozplayer.com
+cdn.klimg.com
+cdn.klimg.com.akamaized.net
 cdn.liftoff-creatives.io
 cdn.link4app.com
 cdn.livechatinc.com
@@ -907,6 +914,7 @@ cdn.scooper.news
 cdn-sdk.aihelp.net
 cdn.segment.com
 cdn.shalltry.com
+cdns.klimg.com
 cdn.slidesharecdn.com
 cdn.snigelweb.com
 cdn.sohucs.com
@@ -1202,6 +1210,7 @@ dc.kika-backend.com
 dcmdaa.y5en.com
 dcmdae.y5en.com
 dc.y5en.com
+deathwing.me
 de.bignox.com
 degoo-instabridge.adsbynimbus.com
 delivery.contextads.live
@@ -1219,6 +1228,7 @@ dev.bignox.com
 developer.huaweiuniversity.com
 developers.google.cn
 developers.pho.to
+d.everestop.io
 deviceintegritytokens-pa.googleapis.com
 dew-omm.lotusflare.com
 dexeqbeb7giwr.cloudfront.net
@@ -1430,6 +1440,7 @@ feed-static.y5en.com
 feed-test.bignox.com
 feelingtouch.helpshift.com
 fennec-catalog-cdn.prod.mozaws.net
+f.everestop.io
 fg8vvsvnieiv3ej16jby.litix.io
 fid.agkn.com
 file.market.xiaomi.com
@@ -2299,6 +2310,7 @@ moengage.com
 momentive.ai
 momgen.best
 monetizer.com
+monkeyibrowstudios.com
 montok.wapsite.info
 mopinion.com
 m.optout.ziffdavis.com
@@ -2944,6 +2956,7 @@ service.force.com
 services.prod.ims.adobejanus.com
 settings.kiwibrowser.com
 settings.picsart.com
+s.everestop.io
 sexoporno.uno
 sexposition.uno
 sexxdating.site
@@ -3256,6 +3269,7 @@ teslacoilapps.com
 test-bg-td.teddymobile.cn
 test.cmp.quantcast.com
 testedforyou.net
+t.everestop.io
 tex.z-dn.net
 t.focus-res.cn
 th.bignox.com
@@ -3565,6 +3579,7 @@ wesingapp.tsmusic.kg.qq.com
 westeurope2.caroda.io
 wetest.net
 wetv.vip
+w.everestop.io
 whatismyip.akamai.com
 whatssappa.xyz
 whippedfreezerbegun.com
@@ -3720,6 +3735,7 @@ www.minozodiac.com
 www.mob.com
 www.mobfox.com
 www.mobvista.com
+www.monkeyibrowstudios.com
 www.narratorsvoice.com
 www.noxinfluencer.com
 www.palmpal.net
@@ -3815,6 +3831,7 @@ x-delivery.icu
 xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com
 xdg-3da8a-intl.xd.com
+x.everestop.io
 x.glance-cdn.com
 x.glance-cdn.net
 x-id.ls.glanceapis.com
