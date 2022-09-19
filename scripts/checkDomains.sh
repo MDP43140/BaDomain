@@ -38,18 +38,18 @@ echo "[i] Using $DNS_PROVIDER as DNS Resolver..."
 PROGRESS=0
 for i in $DOMAIN_LISTS;do
 	PROGRESS=$((PROGRESS+1))
-	echo -en "[i] ($PROGRESS/$TOTAL_DOMAINS) Checking $i...\e[0K\r"
+	echo -en "\r[i] ($PROGRESS/$TOTAL_DOMAINS) Checking \e[1m$i\e[0;2;5m...\e[0m\e[0K"
 	result="$(dig $DNS_PROVIDER $i)"
 	result_isNone="$(echo $result | grep 'ANSWER: 0' &>/dev/null;echo $?)"
 	result_status="$(echo $result | grep ', status: ' &>/dev/null;echo $?)"
 	if [ "$result_isNone" != "0" ];then
-		echo -e "[+] $i exists\e[0K\r"
+		echo -e "\r[+] $i exists\e[0K"
 		echo $i >> "$LOG_EXISTS_FILE"
 	elif echo $result_status | grep ', status: SERVFAIL' &>/dev/null;then
-		echo -e "[!] DNS Resolver is out-of-time to query $i\e[0K\r"
+		echo -e "\r[!] DNS Resolver is out-of-time to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 	else
-		echo -e "[-] $i not exist\e[0K\r"
+		echo -e "\r[-] $i not exist\e[0K"
 		echo $i >> "$LOG_NONE_FILE"
 	fi
 done

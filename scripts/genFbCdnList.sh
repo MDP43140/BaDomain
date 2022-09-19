@@ -29,7 +29,7 @@ SFB_REGIONCODE=(
 #	"bdj"
 #	"bek"
 #	"bth"
-	"cgk"
+#	"cgk"
 #	"evn"
 #	"hyd"
 #	"kix"
@@ -37,7 +37,7 @@ SFB_REGIONCODE=(
 #	"nag"
 #	"ngo"
 #	"pen"
-	"pku"
+#	"pku"
 #	"sin"
 )
 SFB_MAINDOMAIN=(

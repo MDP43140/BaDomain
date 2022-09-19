@@ -1324,6 +1324,7 @@
 127.0.0.1 lf16-effectcdn.byteeffecttos-g.com
 127.0.0.1 lf16-effectcdn-sg.ibytedtos.com
 127.0.0.1 lf16-effectcdn-sg.tiktokcdn.com
+127.0.0.1 lf16-geckocdn.bytegecko-i18n.com
 127.0.0.1 lf16-geckocdn-sg.ibytedtos.com
 127.0.0.1 lf16-geckocdn-sg.ibytedtos.com.edgesuite.net
 127.0.0.1 lf16-geckocdn-sg.tiktokcdn.com
@@ -1343,6 +1344,7 @@
 127.0.0.1 lf19-capcut.faceueditorv.com
 127.0.0.1 lf19-capcut.faceulv.com
 127.0.0.1 lf19-effectcdn.byteeffecttos-g.com
+127.0.0.1 lf19-geckocdn.bytegecko-i18n.com
 127.0.0.1 lf19-geckocdn-sg.ibytedtos.com
 127.0.0.1 lf19-geckocdn-sg.tiktokcdn.com
 127.0.0.1 lf1-amcdn-tos.pstatp.com.wsglb0.com

@@ -1324,6 +1324,7 @@ lf16-capcut.ibytedtos.com
 lf16-effectcdn.byteeffecttos-g.com
 lf16-effectcdn-sg.ibytedtos.com
 lf16-effectcdn-sg.tiktokcdn.com
+lf16-geckocdn.bytegecko-i18n.com
 lf16-geckocdn-sg.ibytedtos.com
 lf16-geckocdn-sg.ibytedtos.com.edgesuite.net
 lf16-geckocdn-sg.tiktokcdn.com
@@ -1343,6 +1344,7 @@ lf16-web-buz.capcut.com
 lf19-capcut.faceueditorv.com
 lf19-capcut.faceulv.com
 lf19-effectcdn.byteeffecttos-g.com
+lf19-geckocdn.bytegecko-i18n.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
 lf1-amcdn-tos.pstatp.com.wsglb0.com

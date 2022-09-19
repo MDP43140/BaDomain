@@ -1,5 +1,5 @@
 #
-#  BaDomain Uncensored (Version: 26.08.2022)
+#  BaDomain Uncensored (Version: 19.09.2022)
 #  This hosts file tries to unblock big websites from goverment censorshit
 #  (mostly blocked from Indonesia)
 #
