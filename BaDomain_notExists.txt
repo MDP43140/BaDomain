@@ -468,7 +468,6 @@ p02.notifa.info
 p03.notifa.info
 p04.notifa.info
 p05.notifa.info
-p36-acsgateway.icloud.com
 pagead.googlesyndication.com
 pamelarioss.uno
 pangle-b.io
