@@ -2187,6 +2187,7 @@ pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a5-gcp01.tiktokcdn.com
 pull-a5-sg01.tiktokcdn.com
 pull-a5-tt01.fcdn.us.tiktokv.com
+pull-a5-tt02-infra.fcdn.us.tiktokv.com
 pull-a5-va01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
@@ -3848,6 +3849,7 @@ webcast-useast2a.musical.ly.edgekey.net
 webcast-useast2a.tiktokv.com
 webcast-va.tiktokv.com
 webcast-va.tiktokv.com.edgekey.net
+web-i18n.tiktok.com
 web.toutiao.com
 weiliicimg1.pstatp.com
 welcome.toutiao.com

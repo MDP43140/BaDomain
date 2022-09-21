@@ -2187,6 +2187,7 @@
 127.0.0.1 pull-a5-gcp01.tiktokcdn.com
 127.0.0.1 pull-a5-sg01.tiktokcdn.com
 127.0.0.1 pull-a5-tt01.fcdn.us.tiktokv.com
+127.0.0.1 pull-a5-tt02-infra.fcdn.us.tiktokv.com
 127.0.0.1 pull-a5-va01.tiktokcdn.com
 127.0.0.1 pull-c5-va01.tiktokcdn.com
 127.0.0.1 pull-cmaf-f16-ab.tiktokcdn.com
@@ -3848,6 +3849,7 @@
 127.0.0.1 webcast-useast2a.tiktokv.com
 127.0.0.1 webcast-va.tiktokv.com
 127.0.0.1 webcast-va.tiktokv.com.edgekey.net
+127.0.0.1 web-i18n.tiktok.com
 127.0.0.1 web.toutiao.com
 127.0.0.1 weiliicimg1.pstatp.com
 127.0.0.1 welcome.toutiao.com

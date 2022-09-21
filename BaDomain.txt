@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.09.2022
+# Version: 21.09.2022
 # Update: 1 day
 #
 
@@ -168,11 +168,13 @@ aboutads.net
 abroad.apilocate.amap.com
 abruptlyinstitution.com
 abtesting.ai
+abtest.mistat.xiaomi.com
 abubadu.com
 a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 access1.tpns.sgp.tencent.com
 access.line.me
 access-pre.ucweb.com
+account.preview.n.xiaomi.net
 account.xiaomi.com
 accuweather-com.videoplayerhub.com
 acc.wetvinfo.com
@@ -206,6 +208,7 @@ adlog.flurry.com
 adlook.me
 ad.lsosdoc.com
 ad.mail.ru
+ad.mi.com
 admin-3.oss-cn-hongkong.aliyuncs.com
 admin.qidian.qq.com
 admixplay.com
@@ -250,11 +253,14 @@ advertising.com
 advertizer.com
 advertnative.com
 adviva.net
+adv.sec.intl.miui.com
+adv.sec.miui.com
 adv-sv-show.focus.cn
 adx.adsgaga.com
 ad-x.com
 ad-x.co.uk
 adx-id.ads.heytapmobile.com
+adx-in.ads.heytapmobile.com
 adz.wattpad.com
 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
 ae9b110-dnsotls-ds.metric.gstatic.com
@@ -278,6 +284,7 @@ aka.stream.kg.qq.com
 aka.tsmusic.kg.qq.com
 akimg.icocofun.com
 ak.itlatiaser.com
+ak.mangatoon.akamaized.net
 aktup.bangcdn.net
 album-sg01a.ocloud.heytapmobi.com
 alexmods.com
@@ -366,10 +373,13 @@ api31.resso.app
 api3.boomplaymusic.com
 api40-normal-alisg.helo-api.com
 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
+api.accelerator.intl.miui.com
+api.account.preview.n.xiaomi.net
 api.account.xiaomi.com
 api.adapty.io
 api.ad.intl.xiaomi.com
 api.ads.yahoo.com
+api.ad.xiaomi.com
 api.ahagamecenter.com
 api.airtable.com
 api.anythinktech.com
@@ -388,13 +398,18 @@ api.blocka.net
 api.boomplaymusic.com
 api-cn.theme.heytapmobi.com
 api.coin.baca.co.id
+api.comm.miui.com
+api.cupid.ptqy.gitv.tv
 api.data.appsinnova.com
 api-dci.kinemasters.com
 api.dcp.vpdcp.com
 api.deathwing.me
+api.developer.xiaomi.com
 api.device.xiaomi.net
+apidevicexiaominet-1824452031.ap-south-1.elb.amazonaws.com
 api.dkyweipsds.com
 api.dns.oppomobile.com
+api.d.xiaomi.com
 api.ethyca.com
 api.faceapp.io
 api.facemojikeyboard.com
@@ -412,6 +427,7 @@ api-gl.cdo.heytapmobi.com
 api-gl.cdo.heytapmobile.com
 api-gl.store.heytapmobi.com
 api-gl.theme.heytapmobile.com
+api.g.micloud.xiaomi.net
 api.gotinder.com
 api.gotube.pro
 api.gras.samsungdm.com
@@ -420,6 +436,7 @@ apigw-pre.shalltry.com
 api.hisavana.com
 api.hotstar.com
 api.howlapm.com
+api.hybrid.xiaomi.com
 api-iam.intercom.io
 api-id.cdo.heytapmobile.com
 api-id.game.heytapmobi.com
@@ -431,6 +448,7 @@ api.igofun.mobi
 api.input.intl.miui.com
 api.instabridge.com
 api.intellimize.co
+api.io.mi.com
 api.ipify.org
 api.iq.com
 api.isharingapp.com
@@ -449,6 +467,8 @@ ap.ime.cootek.com
 api.micloud.xiaomi.net
 api.mintbrs.intl.miui.com
 api.mintkeyboard.com
+api.miui.security.xiaomi.com
+api.miwifi.com
 api.mobula.sdk.duapps.com
 api.muc.intl.miui.com
 api.mythad.com
@@ -479,7 +499,10 @@ api.saasexch.com
 api.samsungcloud.com
 api.scooper.news
 api-sdk.datadome.co
+api.sec.intl.miui.com
+api.sec.miui.com
 api.segment.io
+api.setting.intl.miui.com
 api.sg.mangatoon.mobi
 api.shareitgames.com
 api.shopee.co.id
@@ -502,6 +525,7 @@ api.tratao.com
 api.twibida.com
 api-us.bidmachine.io
 api.ushareit.com
+api.vip.miui.com
 api-visitor-analytics.intercom.com
 api.vungle.com
 api.wattpad.com
@@ -514,7 +538,9 @@ api.wondershare.com
 api.wshareit.com
 api.wt14yf.com
 api.xintaicz.cn
+api.xmpush.xiaomi.com
 api.zhuti.intl.xiaomi.com
+api.zhuti.xiaomi.com
 api.zingnews.vn
 apkeditorfree.com
 aplhabet.applinzi.com
@@ -530,6 +556,7 @@ app.calconic.com
 appcfg.v.qq.com
 appcfg.wetvinfo.com
 app.chat.global.xiaomi.net
+app.chat.xiaomi.net
 appcloud.mcafee.com
 appconf-ocs-sgp.heytapdl.com
 appconf-sgp.heytapdl.com
@@ -543,8 +570,10 @@ apple-finance.query.yahoo.com
 app.link
 applink.jp
 applinzi.com
+app.market.xiaomi.com
 app-measurement.com
 app-mgr.noxgroup.com
+app.migc.xiaomi.com
 app.monetizer.com
 appnext.com
 appodeal.com
@@ -563,9 +592,12 @@ app.snapchat.com
 apps.outfit7.com
 appspot.com
 app.static.bignox.com
+appstore.cdn.pandora.xiaomi.com
+appstore.pandora.xiaomi.com
 app.test.bignox.com
 app.toutiao.com
 app.transacme.com
+app.xiaomi.com
 app.y5en.com
 ap-southeast-1.alidns.com
 aptoide.com
@@ -657,6 +689,8 @@ assets-share.dspunion.com
 assets.tower.sybo.net
 assets.ubembed.com
 assets.webmoney.ru
+assistant.pandora.xiaomi.com
+a.stat.xiaomi.com
 astivysauran.com
 astra9dlya10.com
 astratech.pro
@@ -678,6 +712,8 @@ au.ff.avast.sec.miui.com
 auiopt.unityads.unity3d.com
 au.mayalaze.xyz
 australianmorningnews.com
+authbe.sec.intl.miui.com
+auth.be.sec.miui.com
 auth-cloudfront.prod.ims.adobejanus.com
 autocomplete.clearbit.com
 auto.itc.cn
@@ -697,6 +733,7 @@ aws.duplex.snapchat.com
 aws-proxy-gcp.api.snapchat.com
 aws-sgp-cdn.snackvideo.in
 aws-static.snackvideo.in
+awsusor0-cdn.fds-ssl.api.xiaomi.com
 awxcdn.com
 axiata-lk-43c53a330e9-he.fortumo.io
 b1.nel.goog
@@ -720,6 +757,7 @@ bar.love.mail.ru
 barrons.com
 bazaarvoice.com
 bbs.bignox.com
+bbs.game.xiaomi.com
 bc0a.com
 bdapi-id.ads.heytapmobile.com
 bdtj.infinities.com.cn
@@ -745,6 +783,7 @@ betowy.i45x0w.com
 b.everestop.io
 bf19405wzd.bf.dynatrace.com
 bf54607cnw.bf.dynatrace.com
+bgp.fe01.c3.xiaomi.com
 b.hatena.ne.jp
 bibblio.org
 bidmachine.io
@@ -797,6 +836,7 @@ browser-i-gl.heytapmobile.com
 browserplat.vivo.com.cn
 brs.api.intl.miui.com
 b.sogou.com
+bss.pandora.xiaomi.com
 b.st-hatena.com
 bstream.hzmklvdieo.com
 btloader.com
@@ -857,7 +897,13 @@ casalemedia.com
 cashend.me
 cbs.wondershare.com
 cc.163.com
+cc2.sys.intl.xiaomi.com
+cc2.sys.miui.com
+ccc.sys.intl.xiaomi.com
+ccc.sys.miui.com
 c.cnzz.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
 cda0.avanquest.com
 cda1.avanquest.com
 cda2.avanquest.com
@@ -903,11 +949,13 @@ cdn8.editmysite.com
 cdn8.uzone.id
 cdn9.editmysite.com
 cdn.adswizz.com
+cdn.ad.xiaomi.com
 cdn.aihelp.net
 cdn.alsgp0.fds.api.mi-img.com
 cdn-asset.optimonk.com
 cdn-asset.zepeto.me
 cdn.avanquest.com
+cdn.awsde0-fusion.fds.api.mi-img.com
 cdn.bizible.com
 cdn.calibermind.com
 cdn.concert.io
@@ -923,6 +971,7 @@ cdn.cxomedia.id
 cdn.dms.eyewind.cn
 cdn.exp.xiaomi.com
 cdn.fbsbx.com
+cdn.fds-ssl.api.xiaomi.com
 cdn-f.heylink.me
 cdn.firstpromoter.com
 cdn.foxpush.net
@@ -1013,6 +1062,7 @@ check.y5en.com
 chicoryapp.com
 chimpstatic.com
 churnzero.net
+c.id.mi.com
 ci.line-apps.com
 cix.line-apps.com
 ckg.hk
@@ -1054,7 +1104,9 @@ cmp.quantcast.com
 cmpv2.macworld.com
 cname-china.vercel-dns.com
 cname.vercel-dns.com
+cn.app.chat.xiaomi.net
 cn.bignox.com
+cn.e.pic.ak.mangatoon.akamaized.net
 cn-e-pic-aliyun.mangatoon.mobi
 cn-e-pic.mangatoon.mobi
 cn.e.pic.mangatoon.mobi
@@ -1075,6 +1127,7 @@ collector.lunalabs.io
 collector-pxikkul2rm.perimeterx.net
 collector-pxt6dy78t8.px-client.net
 collector-pxt6dy78t8.px-cloud.net
+coloros.com
 combinatronics.io
 comm.api.vivoglobal.com
 commerce-i18n-api.faceucam.com
@@ -1091,6 +1144,7 @@ concert.io
 conf-cn.dc.heytapmobi.com
 confection.io
 confection-status.netlify.app
+conff.dc.oppomobile.com
 config-1.carx-online.com
 config-1.driftracingonline.com
 config-2.carx-online.com
@@ -1101,6 +1155,7 @@ config.carx-online.com
 config.driftracingonline.com
 config.edge.skype.com
 config.e-droid.net
+config.kuyun.com
 config.qms.quicinc.com
 config.toolmatrix.plus
 config.toto.zipoapps.com
@@ -1110,10 +1165,13 @@ configure-tcp-android.rayjump.com
 configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
 config.y5en.com
+conf-in.dc.heytapmobi.com
 confirmation.gameloft.com
 conf-sg-dc.heytapdl.com
 conf-sg.dc.heytapmobi.com
+conn1.coloros.com
 conn1.oppomobile.com
+conn2.coloros.com
 conn2.oppomobile.com
 connatix.com
 connect.intl.rom.miui.com
@@ -1126,6 +1184,7 @@ conn-service-us-03.allawnos.com
 conn-service-us-04.allawnos.com
 conn-service-us-05.allawnos.com
 constellix.com
+contactapi.micloud.xiaomi.net
 content-fgw.zepeto.io
 contentful.com
 content.webengage.com
@@ -1253,8 +1312,14 @@ data.biliintl.com
 datadoghq.com
 datadome.co
 data.flurry.com
+data.game.xiaomi.com
 datamation.com
+data.mistat.india.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
 data-rep.livetech.shopee.co.id
+data.sec.miui.com
 datasink.analysis.mangatoon.mobi
 datting.click
 datting.link
@@ -1289,19 +1354,24 @@ demand.supply
 demo34.ckg.hk
 demo.ckg.hk
 deo.shopeemobile.com
+de.pandora.xiaomi.com
 derk.bar
 desktop.televzr.com
 de.slideshare.net
 devanture.com.sg
+dev.api.zhuti.n.xiaomi.com
 dev.bignox.com
 developer.huaweiuniversity.com
 developers.google.cn
 developers.pho.to
 d.everestop.io
 deviceintegritytokens-pa.googleapis.com
+dev.market.n.xiaomi.com
+dev.staging.api.developer.n.xiaomi.com
 dew-omm.lotusflare.com
 dexeqbeb7giwr.cloudfront.net
 df.infra.sz.shopee.co.id
+d.g.mi.com
 dhfs-id.heytapimage.com
 dhfs-in.heytapimage.com
 dhfs-my.heytapimage.com
@@ -1364,13 +1434,16 @@ downloads.intercomcdn.com
 downloads.mailchimp.com
 dpdwnl.my-free.website
 dragate.dc.oppomobile.com
+dragate-in-dc.heytapmobile.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 drift.com
 driftracingonline.com
 driftt.com
 driver-image-preprocessed-production.s3.amazonaws.com
+drm.market.xiaomi.com
 drone-sg.xunyou.mobi
+drone.xunyou.mobi
 druglike.com
 dr.youme.im
 ds2.shalltry.com
@@ -1382,7 +1455,9 @@ ds-test.shalltry.com
 dsu-a.shalltry.com
 dum5uv7xb9d66.cloudfront.net
 duolaipk.com
+dvb.pandora.xiaomi.com
 d.wattpad.com
+d.xiaomi.com
 dxp.baidu.com
 dynamodb.us-west-2.amazonaws.com
 dzbkjh1.myoppo.com
@@ -1398,6 +1473,7 @@ e3log3.fineboost.com
 e673.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
+e.ad.xiaomi.com
 e.alipay.com
 easemob.com
 easytomessage.com
@@ -1441,7 +1517,9 @@ en.yeahmobi.com
 epcfg.fineboost.com
 epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
 epdg.epc.mnc009.mcc510.pub.3gppnetwork.org
+e.pic.ak.mangatoon.akamaized.net
 epoch-cn.cdo.heytapmobi.com
+epoch-gl.cdo.heytapmobi.com
 epoch-id.cdo.heytapmobi.com
 eportalmobile.com
 es.bignox.com
@@ -1455,6 +1533,7 @@ etsy.com
 etzndtcvqvyxajpcgwkzsoweaubilflh.com
 eu1.clevertap-prod.com
 eu1-spiky.clevertap-prod.com
+eu.api.miwifi.com
 eu-kaf.samsungknox.com
 eve.gameloft.com
 event.inner-active.mobi
@@ -1486,6 +1565,7 @@ ezodn.com
 ezoic.net
 ezojs.com
 f001.backblazeb2.com
+f1.g.mi.com
 fafa.bar
 fankui.help.sogou.com
 fans.sports.qq.com
@@ -1493,6 +1573,8 @@ farmcityer.com
 farsroid.com
 fast.wistia.com
 fbs.smoot.apple.com
+fcanr.tracking.miui.com
+fe02.lg.xiaomi.com
 feabtest.prod.tvlk-data.com
 feature-api.pa1mstore.com
 feature-api.palmplaystore.com
@@ -1500,6 +1582,7 @@ feature-api.palmst0re.com
 feebhax.com
 feedback-gl.heytapmobi.com
 feedback.intl.miui.com
+feedback.miui.com
 feedback.uc.cn
 feed.bignox.com
 feed.chimukappa.com
@@ -1516,8 +1599,10 @@ file.market.xiaomi.com
 files.webmoney.ru
 filmmogzivota.rs
 find.api.micloud.xiaomi.net
+findapi.micloud.xiaomi.net
 firehose.eu-west-1.amazonaws.com
 firstpromoter.com
+flash.sec.intl.miui.com
 flashtalking.com
 flbk.izooto.com
 flix.bar
@@ -1539,6 +1624,10 @@ fout.jp
 foxpush.net
 fpstool.com
 f.push.oppomobile.com
+fr.app.chat.global.xiaomi.net
+fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 fr.bignox.com
 frd.shopee.co.id
 free-burning-software.com
@@ -1573,6 +1662,8 @@ ga.clearbit.com
 gaconnector.com
 galeona.com
 g.alicdn.com
+gallery.cdn.pandora.xiaomi.com
+gallery.pandora.xiaomi.com
 gallerysearchapi.micloud.xiaomi.net
 gamea.clashofclans.com
 gameanalytics.com
@@ -1585,6 +1676,7 @@ gamepe.ru
 gameportal.casa
 games.shopee.co.id
 gametool10.ml
+game.xiaomi.com
 game.zuiqiangyingyu.net
 ga-mobile-api.loklok.tv
 g-api.ekatox.com
@@ -1606,6 +1698,7 @@ gdfp.kwai-pro.com
 geclose2eu.info
 g.ekatox.com
 geo.cnbc.com
+geofence.sys.miui.com
 geoip-db.com
 geoip.hotstar.com
 geojs.io
@@ -1636,6 +1729,7 @@ glanceseg.blob.core.windows.net
 glassbox.com
 glcs.listdl.com
 gllto2.glpals.com
+globalapi.ad.xiaomi.com
 globalapi.facemojikeyboard.com
 global.apis.naver.com
 global-apm.as.r.appspot.com
@@ -1654,6 +1748,7 @@ globalmsg.facemojikeyboard.com
 globalnileapi.market.xiaomi.com
 global.rakuten.com
 global-rank-sg.sausage.xd.com
+global.search.xiaomi.net
 global-tokenserver-la.headline.uodoo.com
 g-logsdk.snackvideo.com
 go2cloud.org
@@ -1710,6 +1805,7 @@ gs-loc.apple.com
 gs-loc.ls-apple.com.akadns.net
 gs-loc-new.ls-apple.com.akadns.net
 gsmlog.cscmobicorp.com
+gsp10-ssl.ls.apple.com
 gsp36-ssl.ls.apple.com
 gsp64-ssl.ls.apple.com
 gsp64-ssl.ls-apple.com.akadns.net
@@ -1728,6 +1824,7 @@ guid.tpns.sgp.tencent.com
 gumgum.com
 gumroad.com
 guzzoni.apple.com
+gvod.aiseejapp.atianqi.com
 gw.alipayobjects.com
 gw-dana.ebuckler.com
 gw-napi.zepeto.io
@@ -1761,6 +1858,9 @@ help.sogou.com
 helpx.adobe.com
 hermes-fs.wshareit.com
 heylink.me
+heytapdownload.com
+heytapmobi.com
+heyue.xiaomi.com
 hhhh.uno
 hicloud.com
 hidester.postaffiliatepro.com
@@ -1771,6 +1871,7 @@ histats.com
 history.google.com
 hk.api.unipay.qq.com
 hk.app.joox.com
+hk.mibi.xiaomi.com
 hk.slb.mob.com
 hkspeed.igamecj.com
 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
@@ -1811,6 +1912,8 @@ hubspot.com
 hubspot-forms-static-embed.s3.amazonaws.com
 hubspot.net
 hubspotqa.net
+huodong.xiaomi.com
+huosai.xiaomi.com
 hwcdn.net
 hwclouds-dns.com
 hw-crs-report.y5en.com
@@ -1823,6 +1926,7 @@ i18n-gcp-everphoto.faceueditor.com
 i18n.mvconf.50union.com
 i18n-passport-api.faceueditor.com
 i1.hdslb.com
+i2.api.io.mi.com
 i2.hdslb.com
 i2.weather.oppomobile.com
 i3.hdslb.com
@@ -1861,6 +1965,8 @@ id-info-appstore.vivoglobal.com
 id-live.slatic.net
 id-main-appstore.vivoglobal.com
 id.maps.taxsee.com
+idmb.app.chat.global.xiaomi.net
+idmb.register.xmpush.global.xiaomi.com
 idm.iot.mi.com
 idola.net.id
 id.push.oppomobile.com
@@ -1931,6 +2037,7 @@ imgcdn.ymstatic.com
 img.connatix.com
 img.feednews.com
 img.go2s.co
+imgg.traffic-media.co
 img-hw.xnxx-cdn.com
 img-hw.xvideos-cdn.com
 img.imgsmail.ru
@@ -1969,6 +2076,7 @@ increaserev.com
 increasinglycockroachpolicy.com
 indeed.com
 i.neptunegame.com
+in.find.api.micloud.xiaomi.net
 infinitedata-pa.googleapis.com
 infinities.cn
 infinities.com.cn
@@ -2021,9 +2129,11 @@ intlapi.cdo.oppomobile.com
 intl-api.iq.com
 intl.iqiyi.com
 intuit.com
+in.tv.global.mi.com
 invitereferrals.com
 iobit.com
 ios.crashsight.wetest.net
+iosdl.game.xiaomi.com
 iota.cooooos.com
 ip-api.com
 ipcdn.apple.com
@@ -2071,11 +2181,13 @@ ivideosmart.com
 i.vimeocdn.com
 iweather.oppomobile.com
 ixiaochuan.cn
+i.xiaomi.com
 ixigua.com
 izatcloud.net
 izooto.com
 j19544519.pr46m.vps.myjino.ru
 jd.com
+jellyfish.pandora.xiaomi.com
 jetengine.it
 jfapiprod.optimonk.com
 jifo.co
@@ -2113,6 +2225,7 @@ js.usemessages.com
 js.wpadmngr.com
 jtracking-gate.lulusoft.com
 jump.ogtrk.net
+jupiter.intl.sys.miui.com
 justin.tv
 jwplayer.com
 jwpsrv.com
@@ -2152,6 +2265,7 @@ komoona.com
 kompascybermedia-d.openx.net
 kr.bignox.com
 krisp.ai
+ksmobile.net
 ks-sgp-cdn.snackvideo.in
 kuaishou.com
 k-ulog.kwai-pro.com
@@ -2182,6 +2296,7 @@ laz-g-cdn.alicdn.com
 laz-img-cdn.alicdn.com
 lazy-tcp.rayjump.com
 lbs.like.video
+lbs.pandora.xiaomi.com
 lbs-zaizai.netease.im
 lcdn-locator.apple.com
 lcdn-locator-usms11.apple.com.akadns.net
@@ -2230,21 +2345,25 @@ locate.measurementlab.net
 location.apps.oppomobile.com
 lockersatelic.cam
 loc.map.baidu.com
+log.ad.xiaomi.com
 log-api.mintkeyboard.com
 logging.baca.co.id
 log.goodnovel.com
+login.game.xiaomi.com
 login.im.qcloud.com
 login.sc.funminigame.com
 login.tim.qq.com
 login.wmtransfer.com
 log.kzvepo.com
 logo.clearbit.com
+logonext.tv.kuyun.com
 logos.kiwibrowser.com
 log.reyun.com
 logs.im-gb.com
 logs.papertrailapp.com
 log.tpns.hk.tencent.com
 log.tpns.sgp.tencent.com
+logupdate.avlyun.sec.miui.com
 log.wt14yf.com
 log.zingnews.vn
 loki.wattpad.com
@@ -2289,6 +2408,7 @@ mail.ru
 main.qcloudimg.com
 makeup.pho.to
 mall.shopee.co.id
+mangatoon.akamaized.net
 manifest.tower.sybo.net
 mapi.langitmusik.co.id
 marchex.io
@@ -2302,8 +2422,11 @@ mask-api.icloud.com
 mathtag.com
 ma.wattpad.com
 mayalaze.xyz
+mazu.sec.miui.com
 m.baidu.com
+m.bss.pandora.xiaomi.com
 m.caping.co.id
+mcc.intl.inf.miui.com
 mcds.wshareit.com
 mc-nat-t.cloudapp.net
 mcpecraft.ru
@@ -2349,12 +2472,17 @@ mesu.apple.com
 mesu-cdn.origin-apple.com.akadns.net
 metarouter.io
 meteor.shalltry.com
+metok.sys.miui.com
 mgid.com
 mgl.lobby.igamecj.com
 m.harbourfunny.com
 mhy.link
+mibi.api.xiaomi.com
+mibi.xiaomi.com
+micardapi.micloud.xiaomi.net
 microservices.wifimap.io
 midas-api.hellay.net
+milink.pandora.xiaomi.com
 milvarusso.com
 m.imdb.com
 mindworks-creative.com
@@ -2374,7 +2502,11 @@ mirabelle.uno
 mis.bignox.com
 misc-pili-qos-report.qiniuapi.com
 miservice.comm.miui.com
+mishop.cdn.pandora.xiaomi.com
+mishop.pandora.xiaomi.com
+mis.migc.xiaomi.com
 miui.com
+miui.net
 mix.aff-track.net
 mixerbabki.ru
 mixerparanas.ru
@@ -2459,6 +2591,7 @@ myim3banner.kloc.co
 myjino.ru
 mypic.icu
 myqcloud.com
+m.zhuti.xiaomi.com
 n5t8v6w3.stackpathcdn.com
 na.albtls.t.co
 nadaring.mademoiselleosaki.com
@@ -2517,6 +2650,7 @@ node-68-ipv6.faceapp.io
 node-86-ipv4.faceapp.io
 node-87-ipv6.faceapp.io
 noss.litatom.com
+notice.game.xiaomi.com
 notif.quizizz.com
 notix.io
 novac.gameloft.com
@@ -2614,11 +2748,14 @@ nurd.com
 nxtck.com
 n.zing.vn
 o1069899.ingest.sentry.io
+o108552.ingest.sentry.io
 o13824.ingest.sentry.io
 o209266.ingest.sentry.io
+o2o.api.xiaomi.com
 o446669.ingest.sentry.io
 o64315.ingest.sentry.io
 o937343.ingest.sentry.io
+o984659.ingest.sentry.io
 o.alicdn.com
 observe.metarouter.io
 obus-dc20123-sg.heytapmobile.com
@@ -2659,6 +2796,7 @@ openfpcdn.io
 openlog.tap.io
 openwifi.ucweb.com
 opex-service-sg.allawnos.com
+oppomobile.com
 oppo-oem.avira-update.com
 oppo.wifi.teddymobile.cn
 opswat.info
@@ -2680,10 +2818,14 @@ oss-usdtt.cnyhyl.cn
 osupdate2020.shalltry.com
 otakudesu.org
 ota.lokalise.co
+ota-manual-sg.allawnofs.com
 oth.eve.mdt.qq.com
 othstr.beacon.qq.com
 oth.str.mdt.qq.com
+ot.io.mi.com
 otnolatrnup.com
+ots.io.mi.com
+ott.io.mi.com
 outbrain.com
 outbyte.com
 outcome-ssp.supersonicads.com
@@ -2801,6 +2943,7 @@ pbssrv-centralevents.com
 p.bstarstatic.com
 pbs.twimg.com
 pcoptimizerpro.com
+pdc.micloud.xiaomi.net
 pedulilindungi.com
 pepepush.net
 perf.hsforms.com
@@ -2814,11 +2957,13 @@ phala.one
 ph.bignox.com
 phone-api.realme.com
 phone.bignox.com
+phonecallapi.micloud.xiaomi.net
 phonedeviceverification-pa.googleapis.com
 phonograph2.voxmedia.com
 pho.to
 photolab.me
 photolabsocialapi.pho.to
+pic.ak.mangatoon.akamaized.net
 pic-bstarstatic.akamaized.net
 pic.bstarstatic.com
 pic.sogou.com
@@ -2918,6 +3063,7 @@ psegment.netcoresmartech.com
 ps.eyeota.net
 pt.bignox.com
 ptlinknettbk.my.salesforce.com
+ptmi.gitv.pandora.xiaomi.com
 pt.slideshare.net
 public1.114dns.com
 public2.114dns.com
@@ -2957,6 +3103,7 @@ qcloudimg.tencent-cloud.cn
 qcloudimg.tencentcs.cn
 qcloudimg.tencentcs.com
 qidian.qq.com
+qiye.xiaomi.com
 qotu.bar
 qq.com
 qti.avanquest.com
@@ -2982,6 +3129,7 @@ r.apkpure.net
 rarefix.info
 ravenjs.com
 rayjump.com
+r.browser.miui.com
 rbux88.com
 rbxton.online
 rdr.mobiletime.net
@@ -2999,6 +3147,7 @@ referralrock.com
 refersion.com
 refokus.com
 register.xmpush.global.xiaomi.com
+register.xmpush.xiaomi.com
 reign.appmeasurements.com
 reklama.mail.ru
 relap.info
@@ -3029,7 +3178,9 @@ res.feednews.com
 res-global-sg-master.sausage.xd.com
 res-global-sg-slave.sausage.xd.com
 res.noxmobi.com
+resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
+resolver.msg.xiaomi.net
 reson8.com
 resources.careers.pulselive.com
 resources.digital-cloud-sin1.medallia.com
@@ -3086,12 +3237,14 @@ rrx68giz-eef2476f4f0b908dfa65666540c2971306a2771c-mob.d.aa.online-metrix.net
 rrx68giz-f6049de95c38948bba342122ba2f346c3341eb56-mob.d.aa.online-metrix.net
 rsb.net
 rs.easemob.com
+r.sg.sec.miui.com
 rs.mail.ru
 rta.etm.tech
 rt.applovin.com
 rtc.youme.im
 rt.foldlife.net
 rtlog.resso.app
+ruac.account.xiaomi.com
 ruangguruhelp.zendesk.com
 rubiconproject.com
 ru.bignox.com
@@ -3142,6 +3295,7 @@ samba.tv
 samehadaku.tv
 samsappsbn.vo.llnwd.net
 samsung-callerprofile.edge.hiyaapi.com
+sandbox.xmpush.xiaomi.com
 sapi.taptap.com
 sas-autos.com
 saserver.search.oppomobile.com
@@ -3165,6 +3319,9 @@ sdk-android.ad.smaato.net
 sdk-api.kidoz.net
 sdkapi.wifimap.io
 sdk.bignox.com
+sdkconfig.ad.india.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.xiaomi.com
 sdk-exchange.startappservice.com
 sdk.iad-04.braze.com
 sdk.iad-05.braze.com
@@ -3186,6 +3343,8 @@ search.kuwo.cn
 searchlite-pa.googleapis.com
 search-operate.cdn.bcebos.com
 search.ws.pho.to
+sec-cdn.static.xiaomi.net
+secode2.hd.xiaomi.com
 secret20.com
 secreto.site
 secure.greendot.com
@@ -3217,6 +3376,7 @@ service.force.com
 services.prod.ims.adobejanus.com
 settings.kiwibrowser.com
 settings.picsart.com
+setup.icloud.com
 s.everestop.io
 sexoporno.uno
 sexposition.uno
@@ -3227,6 +3387,7 @@ seznam.cz
 sfdict.com
 sf.ezoiccdn.com
 sf.napi.ucweb.com
+sfsapi.micloud.xiaomi.net
 sf-syn.com
 sg-account.wps.com
 sg-dm.pageonenewsapp.com
@@ -3240,6 +3401,7 @@ sg.omlet.me
 sgpac.account.xiaomi.com
 sgp-img-c.heytapimg.com
 sg.tdatamaster.com
+sg-urc.io.mi.com
 shake-body.com
 shalltry.com
 shareaholic.com
@@ -3251,6 +3413,7 @@ sharing-config.spotifycdn.com
 sheldon.faceapp.io
 shepherd.ff.avast.com
 shepherd.sb.avast.com
+shoes.app-xae.xiaomi.com
 shopzilla.com
 shortapi.admixplay.com
 shortconn.im.qcloud.com
@@ -3357,8 +3520,12 @@ st001004gj-apm.instabug.com
 st001004gj.instabug.com
 stack-sonar.com
 stagepopkek.com
+staging.ai.api.xiaomi.com
+staging.api.zhuti.n.xiaomi.com
+staging.appapi.n.xiaomi.com
 stagingapps.xyz
 stags.bluekai.com
+starfish.pandora.xiaomi.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
 statcounter.com
@@ -3376,6 +3543,7 @@ static.api.baca.co.id
 static-cms.aa-cdn.net
 static.dable.io
 static-doubleclick-net.l.google.com
+static.game.xiaomi.com
 static.gc.apple.com
 static.hdslb.com
 static.hsappstatic.net
@@ -3403,14 +3571,17 @@ static-zepeto.pstatic.net
 static-znews.zadn.vn
 static-znews.zingcdn.me
 stat.idtopnews.com
+stat-in.dc.oppomobile.com
 statis.facemojikeyboard.com
 statistics-dot-calconic-app.appspot.com
+stat.pandora.xiaomi.com
 stats.cross-orbit.com
 stats.darkreader.app
 stats.wp.com
 stat.tiara.tistory.com
 stat.tildacdn.com
 stat.tpns.sgp.tencent.com
+statusapi.micloud.xiaomi.net
 statwup.nimo.tv
 stat.xdplt.com
 stc-sp.zadn.vn
@@ -3431,6 +3602,7 @@ stocks-edge.apple.com
 stocks-sparkline.apple.com
 storage.billy.bendingspoons.com
 storage.ws.pho.to
+storeconfig.mistat.intl.xiaomi.com
 storedl1f.nearme.cn
 storedl2f.nearme.cn
 storedl3f.nearme.com.cn
@@ -3527,6 +3699,7 @@ t19.market.xiaomi.com
 t19.market.xiaomi.com.w.cdngslb.com
 t1.daumcdn.net
 t1.focus-img.cn
+t1.g.mi.com
 t1.market.mi-img.com
 t1.market.xiaomi.com
 t1.market.xiaomi.com.w.cdngslb.com
@@ -3620,9 +3793,12 @@ terbaru.uzone.id
 termly.io
 terpopuler.uzone.id
 teslacoilapps.com
+test.ad.xiaomi.com
 test-bg-td.teddymobile.cn
 test.cmp.quantcast.com
+test.e.ad.xiaomi.com
 testedforyou.net
+test.log.ad.xiaomi.com
 t.everestop.io
 tex.z-dn.net
 t.focus-res.cn
@@ -3642,6 +3818,7 @@ thinkific.com
 thinkingdata.cn
 thinksuggest.org
 thm.market.intl.xiaomi.com
+thm.market.xiaomi.com
 threadloom.com
 thrtle.com
 ti9pl5.i6e7aabybyc.co.com
@@ -3696,6 +3873,9 @@ trackersimulator.org
 track.gaconnector.com
 tracking.apptrackerlink.com
 tracking.g2crowd.com
+tracking.india.miui.com
+tracking.intl.miui.com
+tracking.miui.com
 tracking.trnox.com
 track.mailerlite.com
 track-mixer.ru
@@ -3710,6 +3890,7 @@ travel.rakuten.com
 tr.bignox.com
 trclips.com
 tria.ge
+trial.api.huangye.miui.com
 tribalfusion.com
 tribl.io
 trk.mail.ru
@@ -3724,6 +3905,7 @@ tuplogpublic.bangcdn.net
 turbobit.net
 turbotax.com
 turbotax.intuit.com
+tv.app.migc.xiaomi.com
 tv.bignox.com
 tv.jwplayer.com
 tvpixel.com
@@ -3777,19 +3959,23 @@ upapi.net
 upclick.com
 update.aida64.com
 updateapis.kiwibrowser.com
+update.avlyun.sec.miui.com
 update.bosbosupdate.com
 update.bosbosupdate.net
 update.estrongs.com
 update.intl.miui.com
 update.iobit.com
 update.kiwibrowser.com
+update.miui.com
 update.mysecuritystudio.com
 update.neptunegame.com
 update.whatsaero.com
+upgrade.mishop.pandora.xiaomi.com
 upgrade.shalltry.com
 upload-dianshi-1255598498.file.myqcloud.com
 upoint.id
 upos-bstar1-mirrorakam.akamaized.net
+ups.ksmobile.net
 ur.alipay.com
 ureca.samsungapps.com
 url-fwax40fx1.com
@@ -3798,6 +3984,8 @@ usa.ime.cdn.cootekservice.com
 us.api.fc.mob.com
 us.api.fd.mob.com
 us-api.mcsvc.samsung.com
+us.api.micloud.xiaomi.net
+us-api-micloud-xiaomi-net-5630734.us-west-2.elb.amazonaws.com
 us.api.share.mob.com
 us-central1-alight-creative.cloudfunctions.net
 us-central1-gcp.api.snapchat.com
@@ -3809,6 +3997,7 @@ us-east1-gcp.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 useinsider.com
 user-api.ucweb.com
+userid.xiaomi.com
 useroperation.wondershare.com
 us.find.api.micloud.xiaomi.net
 us.galleryapi.micloud.xiaomi.net
@@ -3841,6 +4030,7 @@ vibecdn.contextads.live
 viber.com
 victim-dot-spectre-web.appspot.com
 vid.connatix.com
+videoclipf.apps.coloros.com
 videodelivery.net
 videodownloader.ummy.net
 videoeditor-sg.soloop.heytapmobile.com
@@ -3865,6 +4055,7 @@ vivo.com.cn
 v.lsttnews.com
 vn.bignox.com
 vnclip.net
+voip.game.xiaomi.com
 voip-news.com
 vom.in.net
 vom.lol
@@ -3900,11 +4091,14 @@ vur.fyi
 wa.co
 wagomu.b-cdn.net
 wagomu.id
+wallpaper.cdn.pandora.xiaomi.com
+wallpaper.pandora.xiaomi.com
 wa.net
 wannos-bj.127.net
 wannos-hz.127.net
 wannos-oversea.127.net
 wanwang.aliyun.com
+wap.game.xiaomi.com
 wap.sogou.com
 waridd.top
 warmthhh.online
@@ -3915,6 +4109,7 @@ wd.adcolony.com
 weatherapi.intl.xiaomi.com
 weatherapi.market.xiaomi.com
 weather-data.apple.com
+weather.pandora.xiaomi.com
 weather-server-sg.allawnos.com
 webadv.co
 webanalytic.info
@@ -3961,6 +4156,7 @@ widget.intercom.io
 widgets.outbrain.com
 widget.surveymonkey.com
 widget-v2.smartsuppcdn.com
+wifiapi.micloud.xiaomi.net
 wifimap.zendesk.com
 wifi.teddymobile.cn
 wifi.vivo.com.cn
@@ -3977,6 +4173,7 @@ wpadmngr.com
 wp.pl
 wpvip.com
 wsapi.master.live
+wsds.cn
 ws.flv.nimo.tv
 wshareit.com
 ws.hls.nimo.tv
@@ -4278,6 +4475,7 @@ www.womenforlove.net
 www.wp.pl
 www.wshareit.com
 www.wuildit.com
+www.xiaomi.com
 www.xmlschemeformat.com
 www.xnxx.com
 www.xvideos2.com
@@ -4305,6 +4503,9 @@ xdg-3da8a-intl.xd.com
 x.everestop.io
 x.glance-cdn.com
 x.glance-cdn.net
+xiaomi.com
+xiaomi.net
+xiazai.xiaomi.com
 x-id.ls.glanceapis.com
 x-in.glance-cdn.com
 x-in.glance-cdn.net
@@ -4378,7 +4579,9 @@ zdbb.net
 zdn.vn
 zeevpn-fca47.firebaseio.com
 zepeto.me
+zeus.ad.xiaomi.com
 zhihu.sogou.com
+zhuti.xiaomi.com
 ziffdavis.com
 zingcdn.me
 zingload.com
