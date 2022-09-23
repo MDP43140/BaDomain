@@ -4,6 +4,7 @@ VERSION="$(date +%d.%m.%Y)"
 UPDATE_FREQ="1 day"
 HOSTSFILE_TYPES=(
 	"BaDomain"
+	"misc/NoApple"
 	"misc/NoFB"
 	"misc/NoFreeFire"
 	"misc/NoMLBB"

@@ -1,106 +1,59 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 21.09.2022
+# Version: 23.09.2022
 # Update: 1 day
 #
 
-127.0.0.1 0-courier.push.apple.com
 127.0.0.1 0kczn7.l0fwny.com
 127.0.0.1 0.news20.biz
 127.0.0.1 0.ygti905ffth6.com
 127.0.0.1 101.249.211.130.bc.googleusercontent.com
-127.0.0.1 10-courier.push.apple.com
 127.0.0.1 1111210941.rsc.cdn77.org
 127.0.0.1 114dns.com
-127.0.0.1 11-courier.push.apple.com
 127.0.0.1 12377.cn
 127.0.0.1 123.sogou.com
 127.0.0.1 126.net
-127.0.0.1 12-courier.push.apple.com
 127.0.0.1 133fitness.com
-127.0.0.1 13-courier.push.apple.com
-127.0.0.1 14-courier.push.apple.com
-127.0.0.1 15-courier.push.apple.com
 127.0.0.1 163.com
 127.0.0.1 166co.com
 127.0.0.1 166.net
-127.0.0.1 16-courier.push.apple.com
-127.0.0.1 17-courier.push.apple.com
 127.0.0.1 18000.me
 127.0.0.1 18183.com
-127.0.0.1 18-courier.push.apple.com
-127.0.0.1 19-courier.push.apple.com
 127.0.0.1 1.cn.pool.ntp.org
-127.0.0.1 1-courier.push.apple.com
 127.0.0.1 1g5k5w.com
 127.0.0.1 1.ssiloc.com
 127.0.0.1 201205igp.gameloft.com
 127.0.0.1 20824721p.rfihub.com
 127.0.0.1 20ca2.playfabapi.com
-127.0.0.1 20-courier.push.apple.com
-127.0.0.1 21-courier.push.apple.com
-127.0.0.1 22-courier.push.apple.com
 127.0.0.1 232.138.196.35.bc.googleusercontent.com
-127.0.0.1 23-courier.push.apple.com
-127.0.0.1 24-courier.push.apple.com
-127.0.0.1 25-courier.push.apple.com
-127.0.0.1 26-courier.push.apple.com
-127.0.0.1 27-courier.push.apple.com
 127.0.0.1 2828691.group41.sites.hubspot.net
-127.0.0.1 28-courier.push.apple.com
-127.0.0.1 29-courier.push.apple.com
-127.0.0.1 2-courier.push.apple.com
 127.0.0.1 2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 127.0.0.1 2ktgy3.yw7nm3.com
 127.0.0.1 2tx120.1g5k5w.com
 127.0.0.1 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
-127.0.0.1 30-courier.push.apple.com
-127.0.0.1 31-courier.push.apple.com
 127.0.0.1 31f1a2c6-dnsotls-ds.metric.gstatic.com
 127.0.0.1 320volt.com
-127.0.0.1 32-courier.push.apple.com
 127.0.0.1 33across.com
-127.0.0.1 33-courier.push.apple.com
 127.0.0.1 344587-android-ds.metric.gstatic.com
-127.0.0.1 34-courier.push.apple.com
-127.0.0.1 35-courier.push.apple.com
-127.0.0.1 36-courier.push.apple.com
-127.0.0.1 37-courier.push.apple.com
-127.0.0.1 38-courier.push.apple.com
-127.0.0.1 39-courier.push.apple.com
 127.0.0.1 39d0825d09f05.cdn.sohucs.com
 127.0.0.1 3.cn
-127.0.0.1 3-courier.push.apple.com
 127.0.0.1 3lift.com
 127.0.0.1 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
-127.0.0.1 40-courier.push.apple.com
-127.0.0.1 41-courier.push.apple.com
-127.0.0.1 42-courier.push.apple.com
 127.0.0.1 42trck.com
-127.0.0.1 43-courier.push.apple.com
 127.0.0.1 448673-android-ds.metric.gstatic.com
 127.0.0.1 44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com
-127.0.0.1 44-courier.push.apple.com
-127.0.0.1 45-courier.push.apple.com
-127.0.0.1 46-courier.push.apple.com
 127.0.0.1 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
-127.0.0.1 47-courier.push.apple.com
 127.0.0.1 4835415.fs1.hubspotusercontent-na1.net
-127.0.0.1 48-courier.push.apple.com
-127.0.0.1 49-courier.push.apple.com
 127.0.0.1 4ae9.playfabapi.com
 127.0.0.1 4cinsights.com
-127.0.0.1 4-courier.push.apple.com
 127.0.0.1 4gnetfree.top
 127.0.0.1 4g-net.top
 127.0.0.1 4gnet.top
 127.0.0.1 4mads.com
-127.0.0.1 50-courier.push.apple.com
 127.0.0.1 5140.deeginews.com
 127.0.0.1 51.appmeasurements.com
 127.0.0.1 52.appmeasurements.com
-127.0.0.1 52-courier.push.apple.com
 127.0.0.1 531840-android-ds.metric.gstatic.com
 127.0.0.1 53.appmeasurements.com
 127.0.0.1 54.appmeasurements.com
@@ -108,15 +61,12 @@
 127.0.0.1 5849f41c6798d3499f55c335df49cde9.safeframe.googlesyndication.com
 127.0.0.1 5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 127.0.0.1 5b0988e595225.cdn.sohucs.com
-127.0.0.1 5-courier.push.apple.com
 127.0.0.1 5hjdbfjfd5.monster
 127.0.0.1 5yme8j.xxobs5.com
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 64a9.playfabapi.com
-127.0.0.1 6-courier.push.apple.com
 127.0.0.1 756964-android-ds.metric.gstatic.com
 127.0.0.1 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
-127.0.0.1 7-courier.push.apple.com
 127.0.0.1 7efc7eb08gtearevf.rarefix.info
 127.0.0.1 829395.smushcdn.com
 127.0.0.1 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
@@ -124,7 +74,6 @@
 127.0.0.1 845257-android-ds.metric.gstatic.com
 127.0.0.1 8b2a.playfabapi.com
 127.0.0.1 8.bignox.com
-127.0.0.1 8-courier.push.apple.com
 127.0.0.1 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 127.0.0.1 91busgame.com
 127.0.0.1 94.110.204.35.bc.googleusercontent.com
@@ -132,7 +81,6 @@
 127.0.0.1 9C8B0AE1.dr.youme.im
 127.0.0.1 9C8B0AE1.rtc.youme.im
 127.0.0.1 9ce8c6e7-dnsotls-ds.metric.gstatic.com
-127.0.0.1 9-courier.push.apple.com
 127.0.0.1 9d4c473e-dnsotls-ds.metric.gstatic.com
 127.0.0.1 9y9qxfox.tweb.sched.ovscdns.com
 127.0.0.1 a01.uadexchange.com
@@ -506,7 +454,6 @@
 127.0.0.1 api.sg.mangatoon.mobi
 127.0.0.1 api.shareitgames.com
 127.0.0.1 api.shopee.co.id
-127.0.0.1 api.smoot.apple.com
 127.0.0.1 api-snake.oppomobile.com
 127.0.0.1 api.snake.oppomobile.com
 127.0.0.1 api.snapchat.com
@@ -539,6 +486,7 @@
 127.0.0.1 api.wt14yf.com
 127.0.0.1 api.xintaicz.cn
 127.0.0.1 api.xmpush.xiaomi.com
+127.0.0.1 api.xshareapp.com
 127.0.0.1 api.zhuti.intl.xiaomi.com
 127.0.0.1 api.zhuti.xiaomi.com
 127.0.0.1 api.zingnews.vn
@@ -585,7 +533,6 @@
 127.0.0.1 appsflyer.com
 127.0.0.1 apps.identrust.com
 127.0.0.1 appsinnova.com
-127.0.0.1 app-site-association.cdn-apple.com
 127.0.0.1 app-sj30.marketo.com
 127.0.0.1 app.slickstream.com
 127.0.0.1 app.snapchat.com
@@ -742,7 +689,6 @@
 127.0.0.1 baca.co.id
 127.0.0.1 backjawtanoa.com
 127.0.0.1 bae.appmeasurements.com
-127.0.0.1 bag.itunes.apple.com
 127.0.0.1 bag-smoot.v.aaplimg.com
 127.0.0.1 baidu.com
 127.0.0.1 baidustatic.com
@@ -850,7 +796,6 @@
 127.0.0.1 buildit-api.zepeto.me
 127.0.0.1 bunnygirlss.site
 127.0.0.1 buxadder.club
-127.0.0.1 buy.itunes-apple.com.akadns.net
 127.0.0.1 buy.qcloudimg.com
 127.0.0.1 buysellads.com
 127.0.0.1 by3pcor001-com.be.1drv.com
@@ -885,7 +830,6 @@
 127.0.0.1 c.apple.news
 127.0.0.1 captcha.gtimg.com
 127.0.0.1 capterra.com
-127.0.0.1 captive.apple.com
 127.0.0.1 captive.g.aaplimg.com
 127.0.0.1 carbonads.com
 127.0.0.1 cardboard.ge
@@ -1032,7 +976,6 @@
 127.0.0.1 centre.baby
 127.0.0.1 centurygames.com
 127.0.0.1 cfg.ws.pho.to
-127.0.0.1 cf.iadsdk.apple.com
 127.0.0.1 cfs2.uadexchange.com
 127.0.0.1 cf.shopee.co.id
 127.0.0.1 cf-st.sc-cdn.net
@@ -1066,13 +1009,6 @@
 127.0.0.1 ci.line-apps.com
 127.0.0.1 cix.line-apps.com
 127.0.0.1 ckg.hk
-127.0.0.1 cl1.apple.com
-127.0.0.1 cl2.apple.com
-127.0.0.1 cl2.apple.com.c.footprint.net
-127.0.0.1 cl3.apple.com
-127.0.0.1 cl4.apple.com
-127.0.0.1 cl4.apple.com.c.footprint.net
-127.0.0.1 cl5.apple.com
 127.0.0.1 clarity.ms
 127.0.0.1 classify.apps.coloros.com
 127.0.0.1 c.lazada.co.id
@@ -1131,10 +1067,9 @@
 127.0.0.1 combinatronics.io
 127.0.0.1 comm.api.vivoglobal.com
 127.0.0.1 commerce-i18n-api.faceucam.com
-127.0.0.1 commnat-cohort-gc.ess.apple.com
-127.0.0.1 commnat-main-gc.ess.apple.com
 127.0.0.1 common-api.smart-sense.org
 127.0.0.1 common.duapps.com
+127.0.0.1 common.xshareapp.com
 127.0.0.1 company.clearbit.com
 127.0.0.1 company-stream.clearbit.com
 127.0.0.1 component-ota-f.coloros.com
@@ -1160,7 +1095,6 @@
 127.0.0.1 config.toolmatrix.plus
 127.0.0.1 config.toto.zipoapps.com
 127.0.0.1 config.unityads.unity3d.com
-127.0.0.1 configuration.ls.apple.com
 127.0.0.1 configure-tcp-android.rayjump.com
 127.0.0.1 configure-tcp.rayjump.com
 127.0.0.1 configv2.unityads.unity3d.com
@@ -1200,7 +1134,6 @@
 127.0.0.1 corp.sogou.com
 127.0.0.1 counter.top.ge
 127.0.0.1 counter.yadro.ru
-127.0.0.1 courier2.push.apple.com
 127.0.0.1 cove-cdn.ams3.cdn.digitaloceanspaces.com
 127.0.0.1 cove.chat
 127.0.0.1 cpahero.com
@@ -1265,6 +1198,7 @@
 127.0.0.1 d178bchpnfmat.cloudfront.net
 127.0.0.1 d18c2vb2nmzsjs.cloudfront.net
 127.0.0.1 d1.biz.itc.cn
+127.0.0.1 d1lxhc4jvstzrp.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d1zkz3k4cclnv6.cloudfront.net
 127.0.0.1 d-21.winudf.com
@@ -1282,6 +1216,7 @@
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d33wubrfki0l68.cloudfront.net
 127.0.0.1 d34chcsvb7ug62.cloudfront.net
+127.0.0.1 d38psrni17bvxu.cloudfront.net
 127.0.0.1 d3amn7ayexbwsr.cloudfront.net
 127.0.0.1 d3d6s0qsgup76t.cloudfront.net
 127.0.0.1 d3e54v103j8qbb.cloudfront.net
@@ -1410,7 +1345,6 @@
 127.0.0.1 dob5.com
 127.0.0.1 doge43tothemoon.us
 127.0.0.1 dogecointothemoon43.us
-127.0.0.1 doh.dns.apple.com
 127.0.0.1 doh.iq.com
 127.0.0.1 dojo.cc
 127.0.0.1 dokl7xqu9svnv.cloudfront.net
@@ -1557,6 +1491,7 @@
 127.0.0.1 exponential.com
 127.0.0.1 exportinvest.ge
 127.0.0.1 external.appstore.vivo.com.cn
+127.0.0.1 extranet.ap-southeast-1.miui-l7-sec.rnfliwmiif.elb.xiaomi.com
 127.0.0.1 extremetech.com
 127.0.0.1 eyeonsight.net
 127.0.0.1 eyeota.net
@@ -1572,7 +1507,6 @@
 127.0.0.1 farmcityer.com
 127.0.0.1 farsroid.com
 127.0.0.1 fast.wistia.com
-127.0.0.1 fbs.smoot.apple.com
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 fe02.lg.xiaomi.com
 127.0.0.1 feabtest.prod.tvlk-data.com
@@ -1687,7 +1621,6 @@
 127.0.0.1 garusoft.com
 127.0.0.1 gate.upclick.com
 127.0.0.1 gateway.fe.apple-dns.net
-127.0.0.1 gateway.icloud.com
 127.0.0.1 gateway.multiplay.zepeto.run
 127.0.0.1 gauss-sauoldcostmanual-sg.allawnofs.com
 127.0.0.1 gcp.api.snapchat.com
@@ -1801,20 +1734,7 @@
 127.0.0.1 gslb.secb2b.com
 127.0.0.1 gslb.sgw.shopeemobile.com
 127.0.0.1 gslb.shalltry.com
-127.0.0.1 gs-loc.apple.com
-127.0.0.1 gs-loc.ls-apple.com.akadns.net
-127.0.0.1 gs-loc-new.ls-apple.com.akadns.net
 127.0.0.1 gsmlog.cscmobicorp.com
-127.0.0.1 gsp10-ssl.ls.apple.com
-127.0.0.1 gsp36-ssl.ls.apple.com
-127.0.0.1 gsp64-ssl.ls.apple.com
-127.0.0.1 gsp64-ssl.ls-apple.com.akadns.net
-127.0.0.1 gsp85-ssl.ls.apple.com
-127.0.0.1 gspe19-ssl.ls.apple.com
-127.0.0.1 gspe35-ssl.ls.apple.com
-127.0.0.1 gspe79-ssl.ls.apple.com
-127.0.0.1 gsp-ssl.ls.apple.com
-127.0.0.1 gsp-ssl.ls-apple.com.akadns.net
 127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gtimg.cn
 127.0.0.1 gtq3.sct.sc-prod.net
@@ -1823,7 +1743,6 @@
 127.0.0.1 guid.tpns.sgp.tencent.com
 127.0.0.1 gumgum.com
 127.0.0.1 gumroad.com
-127.0.0.1 guzzoni.apple.com
 127.0.0.1 gvod.aiseejapp.atianqi.com
 127.0.0.1 gw.alipayobjects.com
 127.0.0.1 gw-dana.ebuckler.com
@@ -1869,6 +1788,7 @@
 127.0.0.1 hips.hearstapps.com
 127.0.0.1 histats.com
 127.0.0.1 history.google.com
+127.0.0.1 hitlog.viva.co.id
 127.0.0.1 hk.api.unipay.qq.com
 127.0.0.1 hk.app.joox.com
 127.0.0.1 hk.mibi.xiaomi.com
@@ -1945,7 +1865,6 @@
 127.0.0.1 i-by3p-cor001.api.p001.1drv.com
 127.0.0.1 ichef.bbci.co.uk
 127.0.0.1 iclickcdn.com
-127.0.0.1 icloud.com
 127.0.0.1 icms-image.slatic.net
 127.0.0.1 icosa-service-sg.allawnos.com
 127.0.0.1 icosa-sg.coloros.com
@@ -2068,8 +1987,6 @@
 127.0.0.1 impulse.contextads.live
 127.0.0.1 impulse.forkcdn.com
 127.0.0.1 in-adreq.vivoglobal.com
-127.0.0.1 inappcheck.itunes.apple.com
-127.0.0.1 inappcheck-lb.itunes-apple.com.akadns.net
 127.0.0.1 in.bignox.com
 127.0.0.1 inbox.clashofclans.com
 127.0.0.1 increaserev.com
@@ -2088,12 +2005,6 @@
 127.0.0.1 infohub.azureedge.net
 127.0.0.1 infohubnews.app
 127.0.0.1 in-gaap.snackvideo.in
-127.0.0.1 init-cdn.itunes-apple.com.akadns.net
-127.0.0.1 init.ess.apple.com
-127.0.0.1 init.gc.apple.com
-127.0.0.1 init.itunes.apple.com
-127.0.0.1 init.push.apple.com
-127.0.0.1 init.push-apple.com.akadns.net
 127.0.0.1 init.supersonicads.com
 127.0.0.1 init.y5en.com
 127.0.0.1 injapp.com
@@ -2136,8 +2047,6 @@
 127.0.0.1 iosdl.game.xiaomi.com
 127.0.0.1 iota.cooooos.com
 127.0.0.1 ip-api.com
-127.0.0.1 ipcdn.apple.com
-127.0.0.1 iphone-ld.apple.com
 127.0.0.1 ipify.org
 127.0.0.1 ipinfo.io
 127.0.0.1 i.pinimg.com
@@ -2169,7 +2078,6 @@
 127.0.0.1 itoon.org
 127.0.0.1 it.pingchas.com
 127.0.0.1 itsecurity.com
-127.0.0.1 itunes.apple.com
 127.0.0.1 ituserver.xyz
 127.0.0.1 ituvipwd.com
 127.0.0.1 iubenda.com
@@ -2242,7 +2150,6 @@
 127.0.0.1 kepler.51y5.net
 127.0.0.1 kepler.y5en.com
 127.0.0.1 keybag.id.mi.com
-127.0.0.1 keyvalueservice.icloud.com
 127.0.0.1 kgsports-apk.acircle.vip
 127.0.0.1 kidozplayer.com
 127.0.0.1 killerbeanforever.com
@@ -2298,8 +2205,6 @@
 127.0.0.1 lbs.like.video
 127.0.0.1 lbs.pandora.xiaomi.com
 127.0.0.1 lbs-zaizai.netease.im
-127.0.0.1 lcdn-locator.apple.com
-127.0.0.1 lcdn-locator-usms11.apple.com.akadns.net
 127.0.0.1 leaderboard.api.glance.inmobi.com
 127.0.0.1 leawo.org
 127.0.0.1 lencr.org
@@ -2418,7 +2323,6 @@
 127.0.0.1 market.superkickoff.net
 127.0.0.1 market.xiaomi.com
 127.0.0.1 mars.gamegamb.com
-127.0.0.1 mask-api.icloud.com
 127.0.0.1 mathtag.com
 127.0.0.1 ma.wattpad.com
 127.0.0.1 mayalaze.xyz
@@ -2468,8 +2372,6 @@
 127.0.0.1 mercusuar.uzone.id
 127.0.0.1 messagebird.com
 127.0.0.1 messaging.messagebird.com
-127.0.0.1 mesu.apple.com
-127.0.0.1 mesu-cdn.origin-apple.com.akadns.net
 127.0.0.1 metarouter.io
 127.0.0.1 meteor.shalltry.com
 127.0.0.1 metok.sys.miui.com
@@ -2612,7 +2514,6 @@
 127.0.0.1 nea.telkomsel.com
 127.0.0.1 nekkimobile.ru
 127.0.0.1 nestledmph.com
-127.0.0.1 netcts.cdn-apple.com
 127.0.0.1 netdna-ssl.com
 127.0.0.1 netpayjob.com
 127.0.0.1 net.simontok.site
@@ -2762,8 +2663,6 @@
 127.0.0.1 obus-dc2-sg.heytapmobile.com
 127.0.0.1 obus-dctech-sg.heytapmobile.com
 127.0.0.1 obus-sg.dc.heytapmobile.com
-127.0.0.1 ocsp2.apple.com
-127.0.0.1 ocsp2-lb.apple.com.akadns.net
 127.0.0.1 ocw.messagebird.com
 127.0.0.1 oemapi.kika-backend.com
 127.0.0.1 oem-api.palmplaystore.com
@@ -2772,6 +2671,7 @@
 127.0.0.1 of.foldlife.net
 127.0.0.1 oficayuda.club
 127.0.0.1 o.glance-cdn.com
+127.0.0.1 ohaveblueen.space
 127.0.0.1 olmusic.xyz
 127.0.0.1 omappapi.com
 127.0.0.1 omes-sec.heytapmobile.com
@@ -2871,18 +2771,15 @@
 127.0.0.1 p29.zdassets.com
 127.0.0.1 p2.itc.cn
 127.0.0.1 p2.itc.cn.w.cdngslb.com
-127.0.0.1 p36-contacts.icloud.com
 127.0.0.1 p3.itc.cn
 127.0.0.1 p3.itc.cn.w.cdngslb.com
 127.0.0.1 p3.zdassets.com
 127.0.0.1 p4.itc.cn
 127.0.0.1 p4.itc.cn.w.cdngslb.com
 127.0.0.1 p4.zdassets.com
-127.0.0.1 p55-keyvalueservice.icloud.com
 127.0.0.1 p5.itc.cn
 127.0.0.1 p5.itc.cn.w.cdngslb.com
 127.0.0.1 p5.zdassets.com
-127.0.0.1 p66-keyvalueservice.icloud.com
 127.0.0.1 p6.itc.cn
 127.0.0.1 p6.itc.cn.w.cdngslb.com
 127.0.0.1 p6.zdassets.com
@@ -2904,7 +2801,6 @@
 127.0.0.1 palmpal.net
 127.0.0.1 palmpay.com
 127.0.0.1 palmplaystore.com
-127.0.0.1 pancake.apple.com
 127.0.0.1 pan-el.com
 127.0.0.1 pangolin16.sgsnssdk.com
 127.0.0.1 pantip.com
@@ -2912,7 +2808,6 @@
 127.0.0.1 pardot.com
 127.0.0.1 parrable.com
 127.0.0.1 parsely.com
-127.0.0.1 partiality.itunes.apple.com
 127.0.0.1 partnerlinks.io
 127.0.0.1 partnerstack.ada.support
 127.0.0.1 partnerstack.com
@@ -3049,7 +2944,6 @@
 127.0.0.1 prod-tp.sumo.mozit.cloud
 127.0.0.1 product.instiengage.com
 127.0.0.1 production.kolbapps.com
-127.0.0.1 profile.gc.apple.com
 127.0.0.1 profitwell.com
 127.0.0.1 propsid.b-cdn.net
 127.0.0.1 proservice.ge
@@ -3376,7 +3270,6 @@
 127.0.0.1 services.prod.ims.adobejanus.com
 127.0.0.1 settings.kiwibrowser.com
 127.0.0.1 settings.picsart.com
-127.0.0.1 setup.icloud.com
 127.0.0.1 s.everestop.io
 127.0.0.1 sexoporno.uno
 127.0.0.1 sexposition.uno
@@ -3448,7 +3341,6 @@
 127.0.0.1 sm.ms
 127.0.0.1 s.mobsrvapi.com
 127.0.0.1 smokey.lordofthequietbadgers.com
-127.0.0.1 smp-device-content.apple.com
 127.0.0.1 sms.webadv.co
 127.0.0.1 snackvideo.com
 127.0.0.1 snapchat.com
@@ -3544,7 +3436,6 @@
 127.0.0.1 static.dable.io
 127.0.0.1 static-doubleclick-net.l.google.com
 127.0.0.1 static.game.xiaomi.com
-127.0.0.1 static.gc.apple.com
 127.0.0.1 static.hdslb.com
 127.0.0.1 static.hsappstatic.net
 127.0.0.1 static.intercomassets.com
@@ -3597,9 +3488,6 @@
 127.0.0.1 st-hatena.com
 127.0.0.1 stickerf.apps.oppomobile.com
 127.0.0.1 stickyadstv.com
-127.0.0.1 stocks-data-service.apple.com
-127.0.0.1 stocks-edge.apple.com
-127.0.0.1 stocks-sparkline.apple.com
 127.0.0.1 storage.billy.bendingspoons.com
 127.0.0.1 storage.ws.pho.to
 127.0.0.1 storeconfig.mistat.intl.xiaomi.com
@@ -3826,7 +3714,6 @@
 127.0.0.1 time1.cloud.tencent.com
 127.0.0.1 time2.cloud.tencent.com
 127.0.0.1 time3.cloud.tencent.com
-127.0.0.1 time.apple.com
 127.0.0.1 time.gpsonextra.net
 127.0.0.1 time.izatcloud.net
 127.0.0.1 time-osx.g.aaplimg.com
@@ -3848,7 +3735,6 @@
 127.0.0.1 tmge.alicdn.com
 127.0.0.1 tms-api.shalltry.com
 127.0.0.1 tns-counter.ru
-127.0.0.1 token.safebrowsing.apple
 127.0.0.1 tokens.playmakerservices.com
 127.0.0.1 tongdun.net
 127.0.0.1 tonrino.info
@@ -4108,7 +3994,6 @@
 127.0.0.1 wd.adcolony.com
 127.0.0.1 weatherapi.intl.xiaomi.com
 127.0.0.1 weatherapi.market.xiaomi.com
-127.0.0.1 weather-data.apple.com
 127.0.0.1 weather.pandora.xiaomi.com
 127.0.0.1 weather-server-sg.allawnos.com
 127.0.0.1 webadv.co
@@ -4372,7 +4257,6 @@
 127.0.0.1 www.hippoobox.com
 127.0.0.1 www.hopexos.vip
 127.0.0.1 www.hwclouds-dns.com
-127.0.0.1 www.icloud.com
 127.0.0.1 www.iconsdb.com
 127.0.0.1 www.ilyon.net
 127.0.0.1 www.intuit.com
@@ -4516,7 +4400,6 @@
 127.0.0.1 xlgmedia.com
 127.0.0.1 xnimg.cn
 127.0.0.1 xnxx.com
-127.0.0.1 xp.apple.com
 127.0.0.1 xplayer-42f31.web.app
 127.0.0.1 xray.mail.ru
 127.0.0.1 xserver.jp

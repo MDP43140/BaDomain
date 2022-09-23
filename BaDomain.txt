@@ -1,106 +1,59 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 21.09.2022
+# Version: 23.09.2022
 # Update: 1 day
 #
 
-0-courier.push.apple.com
 0kczn7.l0fwny.com
 0.news20.biz
 0.ygti905ffth6.com
 101.249.211.130.bc.googleusercontent.com
-10-courier.push.apple.com
 1111210941.rsc.cdn77.org
 114dns.com
-11-courier.push.apple.com
 12377.cn
 123.sogou.com
 126.net
-12-courier.push.apple.com
 133fitness.com
-13-courier.push.apple.com
-14-courier.push.apple.com
-15-courier.push.apple.com
 163.com
 166co.com
 166.net
-16-courier.push.apple.com
-17-courier.push.apple.com
 18000.me
 18183.com
-18-courier.push.apple.com
-19-courier.push.apple.com
 1.cn.pool.ntp.org
-1-courier.push.apple.com
 1g5k5w.com
 1.ssiloc.com
 201205igp.gameloft.com
 20824721p.rfihub.com
 20ca2.playfabapi.com
-20-courier.push.apple.com
-21-courier.push.apple.com
-22-courier.push.apple.com
 232.138.196.35.bc.googleusercontent.com
-23-courier.push.apple.com
-24-courier.push.apple.com
-25-courier.push.apple.com
-26-courier.push.apple.com
-27-courier.push.apple.com
 2828691.group41.sites.hubspot.net
-28-courier.push.apple.com
-29-courier.push.apple.com
-2-courier.push.apple.com
 2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 2ktgy3.yw7nm3.com
 2tx120.1g5k5w.com
 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
-30-courier.push.apple.com
-31-courier.push.apple.com
 31f1a2c6-dnsotls-ds.metric.gstatic.com
 320volt.com
-32-courier.push.apple.com
 33across.com
-33-courier.push.apple.com
 344587-android-ds.metric.gstatic.com
-34-courier.push.apple.com
-35-courier.push.apple.com
-36-courier.push.apple.com
-37-courier.push.apple.com
-38-courier.push.apple.com
-39-courier.push.apple.com
 39d0825d09f05.cdn.sohucs.com
 3.cn
-3-courier.push.apple.com
 3lift.com
 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
-40-courier.push.apple.com
-41-courier.push.apple.com
-42-courier.push.apple.com
 42trck.com
-43-courier.push.apple.com
 448673-android-ds.metric.gstatic.com
 44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com
-44-courier.push.apple.com
-45-courier.push.apple.com
-46-courier.push.apple.com
 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
-47-courier.push.apple.com
 4835415.fs1.hubspotusercontent-na1.net
-48-courier.push.apple.com
-49-courier.push.apple.com
 4ae9.playfabapi.com
 4cinsights.com
-4-courier.push.apple.com
 4gnetfree.top
 4g-net.top
 4gnet.top
 4mads.com
-50-courier.push.apple.com
 5140.deeginews.com
 51.appmeasurements.com
 52.appmeasurements.com
-52-courier.push.apple.com
 531840-android-ds.metric.gstatic.com
 53.appmeasurements.com
 54.appmeasurements.com
@@ -108,15 +61,12 @@
 5849f41c6798d3499f55c335df49cde9.safeframe.googlesyndication.com
 5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 5b0988e595225.cdn.sohucs.com
-5-courier.push.apple.com
 5hjdbfjfd5.monster
 5yme8j.xxobs5.com
 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 64a9.playfabapi.com
-6-courier.push.apple.com
 756964-android-ds.metric.gstatic.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
-7-courier.push.apple.com
 7efc7eb08gtearevf.rarefix.info
 829395.smushcdn.com
 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
@@ -124,7 +74,6 @@
 845257-android-ds.metric.gstatic.com
 8b2a.playfabapi.com
 8.bignox.com
-8-courier.push.apple.com
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 91busgame.com
 94.110.204.35.bc.googleusercontent.com
@@ -132,7 +81,6 @@
 9C8B0AE1.dr.youme.im
 9C8B0AE1.rtc.youme.im
 9ce8c6e7-dnsotls-ds.metric.gstatic.com
-9-courier.push.apple.com
 9d4c473e-dnsotls-ds.metric.gstatic.com
 9y9qxfox.tweb.sched.ovscdns.com
 a01.uadexchange.com
@@ -506,7 +454,6 @@ api.setting.intl.miui.com
 api.sg.mangatoon.mobi
 api.shareitgames.com
 api.shopee.co.id
-api.smoot.apple.com
 api-snake.oppomobile.com
 api.snake.oppomobile.com
 api.snapchat.com
@@ -539,6 +486,7 @@ api.wshareit.com
 api.wt14yf.com
 api.xintaicz.cn
 api.xmpush.xiaomi.com
+api.xshareapp.com
 api.zhuti.intl.xiaomi.com
 api.zhuti.xiaomi.com
 api.zingnews.vn
@@ -585,7 +533,6 @@ app.securiti.ai
 appsflyer.com
 apps.identrust.com
 appsinnova.com
-app-site-association.cdn-apple.com
 app-sj30.marketo.com
 app.slickstream.com
 app.snapchat.com
@@ -742,7 +689,6 @@ babyzee.uno
 baca.co.id
 backjawtanoa.com
 bae.appmeasurements.com
-bag.itunes.apple.com
 bag-smoot.v.aaplimg.com
 baidu.com
 baidustatic.com
@@ -850,7 +796,6 @@ buhatfjrk9dje10eme.com
 buildit-api.zepeto.me
 bunnygirlss.site
 buxadder.club
-buy.itunes-apple.com.akadns.net
 buy.qcloudimg.com
 buysellads.com
 by3pcor001-com.be.1drv.com
@@ -885,7 +830,6 @@ capi-tier-2-us-east-2.connatix.com
 c.apple.news
 captcha.gtimg.com
 capterra.com
-captive.apple.com
 captive.g.aaplimg.com
 carbonads.com
 cardboard.ge
@@ -1032,7 +976,6 @@ cengine.contextads.live
 centre.baby
 centurygames.com
 cfg.ws.pho.to
-cf.iadsdk.apple.com
 cfs2.uadexchange.com
 cf.shopee.co.id
 cf-st.sc-cdn.net
@@ -1066,13 +1009,6 @@ c.id.mi.com
 ci.line-apps.com
 cix.line-apps.com
 ckg.hk
-cl1.apple.com
-cl2.apple.com
-cl2.apple.com.c.footprint.net
-cl3.apple.com
-cl4.apple.com
-cl4.apple.com.c.footprint.net
-cl5.apple.com
 clarity.ms
 classify.apps.coloros.com
 c.lazada.co.id
@@ -1131,10 +1067,9 @@ coloros.com
 combinatronics.io
 comm.api.vivoglobal.com
 commerce-i18n-api.faceucam.com
-commnat-cohort-gc.ess.apple.com
-commnat-main-gc.ess.apple.com
 common-api.smart-sense.org
 common.duapps.com
+common.xshareapp.com
 company.clearbit.com
 company-stream.clearbit.com
 component-ota-f.coloros.com
@@ -1160,7 +1095,6 @@ config.qms.quicinc.com
 config.toolmatrix.plus
 config.toto.zipoapps.com
 config.unityads.unity3d.com
-configuration.ls.apple.com
 configure-tcp-android.rayjump.com
 configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
@@ -1200,7 +1134,6 @@ core-api.data.appsinnova.com
 corp.sogou.com
 counter.top.ge
 counter.yadro.ru
-courier2.push.apple.com
 cove-cdn.ams3.cdn.digitaloceanspaces.com
 cove.chat
 cpahero.com
@@ -1265,6 +1198,7 @@ d11yp7khhhspcr.cloudfront.net
 d178bchpnfmat.cloudfront.net
 d18c2vb2nmzsjs.cloudfront.net
 d1.biz.itc.cn
+d1lxhc4jvstzrp.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zkz3k4cclnv6.cloudfront.net
 d-21.winudf.com
@@ -1282,6 +1216,7 @@ d31jprfuqiuu14.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d33wubrfki0l68.cloudfront.net
 d34chcsvb7ug62.cloudfront.net
+d38psrni17bvxu.cloudfront.net
 d3amn7ayexbwsr.cloudfront.net
 d3d6s0qsgup76t.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
@@ -1410,7 +1345,6 @@ do7nu6l5erzu3.cloudfront.net
 dob5.com
 doge43tothemoon.us
 dogecointothemoon43.us
-doh.dns.apple.com
 doh.iq.com
 dojo.cc
 dokl7xqu9svnv.cloudfront.net
@@ -1557,6 +1491,7 @@ exploitbyte.net
 exponential.com
 exportinvest.ge
 external.appstore.vivo.com.cn
+extranet.ap-southeast-1.miui-l7-sec.rnfliwmiif.elb.xiaomi.com
 extremetech.com
 eyeonsight.net
 eyeota.net
@@ -1572,7 +1507,6 @@ fans.sports.qq.com
 farmcityer.com
 farsroid.com
 fast.wistia.com
-fbs.smoot.apple.com
 fcanr.tracking.miui.com
 fe02.lg.xiaomi.com
 feabtest.prod.tvlk-data.com
@@ -1687,7 +1621,6 @@ garud.jp
 garusoft.com
 gate.upclick.com
 gateway.fe.apple-dns.net
-gateway.icloud.com
 gateway.multiplay.zepeto.run
 gauss-sauoldcostmanual-sg.allawnofs.com
 gcp.api.snapchat.com
@@ -1801,20 +1734,7 @@ gslb-gl.cdo.heytapmobi.com
 gslb.secb2b.com
 gslb.sgw.shopeemobile.com
 gslb.shalltry.com
-gs-loc.apple.com
-gs-loc.ls-apple.com.akadns.net
-gs-loc-new.ls-apple.com.akadns.net
 gsmlog.cscmobicorp.com
-gsp10-ssl.ls.apple.com
-gsp36-ssl.ls.apple.com
-gsp64-ssl.ls.apple.com
-gsp64-ssl.ls-apple.com.akadns.net
-gsp85-ssl.ls.apple.com
-gspe19-ssl.ls.apple.com
-gspe35-ssl.ls.apple.com
-gspe79-ssl.ls.apple.com
-gsp-ssl.ls.apple.com
-gsp-ssl.ls-apple.com.akadns.net
 gstaticadssl.l.google.com
 gtimg.cn
 gtq3.sct.sc-prod.net
@@ -1823,7 +1743,6 @@ guid.tpns.hk.tencent.com
 guid.tpns.sgp.tencent.com
 gumgum.com
 gumroad.com
-guzzoni.apple.com
 gvod.aiseejapp.atianqi.com
 gw.alipayobjects.com
 gw-dana.ebuckler.com
@@ -1869,6 +1788,7 @@ hippy.stream.kg.qq.com
 hips.hearstapps.com
 histats.com
 history.google.com
+hitlog.viva.co.id
 hk.api.unipay.qq.com
 hk.app.joox.com
 hk.mibi.xiaomi.com
@@ -1945,7 +1865,6 @@ i.bosboslink.net
 i-by3p-cor001.api.p001.1drv.com
 ichef.bbci.co.uk
 iclickcdn.com
-icloud.com
 icms-image.slatic.net
 icosa-service-sg.allawnos.com
 icosa-sg.coloros.com
@@ -2068,8 +1987,6 @@ imptrk.siteplug.com
 impulse.contextads.live
 impulse.forkcdn.com
 in-adreq.vivoglobal.com
-inappcheck.itunes.apple.com
-inappcheck-lb.itunes-apple.com.akadns.net
 in.bignox.com
 inbox.clashofclans.com
 increaserev.com
@@ -2088,12 +2005,6 @@ infogram.com
 infohub.azureedge.net
 infohubnews.app
 in-gaap.snackvideo.in
-init-cdn.itunes-apple.com.akadns.net
-init.ess.apple.com
-init.gc.apple.com
-init.itunes.apple.com
-init.push.apple.com
-init.push-apple.com.akadns.net
 init.supersonicads.com
 init.y5en.com
 injapp.com
@@ -2136,8 +2047,6 @@ ios.crashsight.wetest.net
 iosdl.game.xiaomi.com
 iota.cooooos.com
 ip-api.com
-ipcdn.apple.com
-iphone-ld.apple.com
 ipify.org
 ipinfo.io
 i.pinimg.com
@@ -2169,7 +2078,6 @@ itc.cn
 itoon.org
 it.pingchas.com
 itsecurity.com
-itunes.apple.com
 ituserver.xyz
 ituvipwd.com
 iubenda.com
@@ -2242,7 +2150,6 @@ kayumanis.detik.com
 kepler.51y5.net
 kepler.y5en.com
 keybag.id.mi.com
-keyvalueservice.icloud.com
 kgsports-apk.acircle.vip
 kidozplayer.com
 killerbeanforever.com
@@ -2298,8 +2205,6 @@ lazy-tcp.rayjump.com
 lbs.like.video
 lbs.pandora.xiaomi.com
 lbs-zaizai.netease.im
-lcdn-locator.apple.com
-lcdn-locator-usms11.apple.com.akadns.net
 leaderboard.api.glance.inmobi.com
 leawo.org
 lencr.org
@@ -2418,7 +2323,6 @@ marketplace.editmysite.com
 market.superkickoff.net
 market.xiaomi.com
 mars.gamegamb.com
-mask-api.icloud.com
 mathtag.com
 ma.wattpad.com
 mayalaze.xyz
@@ -2468,8 +2372,6 @@ memex-pa.googleapis.com
 mercusuar.uzone.id
 messagebird.com
 messaging.messagebird.com
-mesu.apple.com
-mesu-cdn.origin-apple.com.akadns.net
 metarouter.io
 meteor.shalltry.com
 metok.sys.miui.com
@@ -2612,7 +2514,6 @@ nearbysharing-pa.googleapis.com
 nea.telkomsel.com
 nekkimobile.ru
 nestledmph.com
-netcts.cdn-apple.com
 netdna-ssl.com
 netpayjob.com
 net.simontok.site
@@ -2762,8 +2663,6 @@ obus-dc20123-sg.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
 obus-sg.dc.heytapmobile.com
-ocsp2.apple.com
-ocsp2-lb.apple.com.akadns.net
 ocw.messagebird.com
 oemapi.kika-backend.com
 oem-api.palmplaystore.com
@@ -2772,6 +2671,7 @@ offer.headlines.pw
 of.foldlife.net
 oficayuda.club
 o.glance-cdn.com
+ohaveblueen.space
 olmusic.xyz
 omappapi.com
 omes-sec.heytapmobile.com
@@ -2871,18 +2771,15 @@ p28.zdassets.com
 p29.zdassets.com
 p2.itc.cn
 p2.itc.cn.w.cdngslb.com
-p36-contacts.icloud.com
 p3.itc.cn
 p3.itc.cn.w.cdngslb.com
 p3.zdassets.com
 p4.itc.cn
 p4.itc.cn.w.cdngslb.com
 p4.zdassets.com
-p55-keyvalueservice.icloud.com
 p5.itc.cn
 p5.itc.cn.w.cdngslb.com
 p5.zdassets.com
-p66-keyvalueservice.icloud.com
 p6.itc.cn
 p6.itc.cn.w.cdngslb.com
 p6.zdassets.com
@@ -2904,7 +2801,6 @@ page.widget.zalo.me
 palmpal.net
 palmpay.com
 palmplaystore.com
-pancake.apple.com
 pan-el.com
 pangolin16.sgsnssdk.com
 pantip.com
@@ -2912,7 +2808,6 @@ paopaozy.com
 pardot.com
 parrable.com
 parsely.com
-partiality.itunes.apple.com
 partnerlinks.io
 partnerstack.ada.support
 partnerstack.com
@@ -3049,7 +2944,6 @@ prod.detectportal.prod.cloudops.mozgcp.net
 prod-tp.sumo.mozit.cloud
 product.instiengage.com
 production.kolbapps.com
-profile.gc.apple.com
 profitwell.com
 propsid.b-cdn.net
 proservice.ge
@@ -3376,7 +3270,6 @@ service.force.com
 services.prod.ims.adobejanus.com
 settings.kiwibrowser.com
 settings.picsart.com
-setup.icloud.com
 s.everestop.io
 sexoporno.uno
 sexposition.uno
@@ -3448,7 +3341,6 @@ sm.bdimg.com
 sm.ms
 s.mobsrvapi.com
 smokey.lordofthequietbadgers.com
-smp-device-content.apple.com
 sms.webadv.co
 snackvideo.com
 snapchat.com
@@ -3544,7 +3436,6 @@ static-cms.aa-cdn.net
 static.dable.io
 static-doubleclick-net.l.google.com
 static.game.xiaomi.com
-static.gc.apple.com
 static.hdslb.com
 static.hsappstatic.net
 static.intercomassets.com
@@ -3597,9 +3488,6 @@ stg-data-id.ads.heytapmobile.com
 st-hatena.com
 stickerf.apps.oppomobile.com
 stickyadstv.com
-stocks-data-service.apple.com
-stocks-edge.apple.com
-stocks-sparkline.apple.com
 storage.billy.bendingspoons.com
 storage.ws.pho.to
 storeconfig.mistat.intl.xiaomi.com
@@ -3826,7 +3714,6 @@ ti9pl5.ti9pl5.i6e7aabybyc.co.com
 time1.cloud.tencent.com
 time2.cloud.tencent.com
 time3.cloud.tencent.com
-time.apple.com
 time.gpsonextra.net
 time.izatcloud.net
 time-osx.g.aaplimg.com
@@ -3848,7 +3735,6 @@ tmdb.org
 tmge.alicdn.com
 tms-api.shalltry.com
 tns-counter.ru
-token.safebrowsing.apple
 tokens.playmakerservices.com
 tongdun.net
 tonrino.info
@@ -4108,7 +3994,6 @@ waust.at
 wd.adcolony.com
 weatherapi.intl.xiaomi.com
 weatherapi.market.xiaomi.com
-weather-data.apple.com
 weather.pandora.xiaomi.com
 weather-server-sg.allawnos.com
 webadv.co
@@ -4372,7 +4257,6 @@ www.higgsslotgame.com
 www.hippoobox.com
 www.hopexos.vip
 www.hwclouds-dns.com
-www.icloud.com
 www.iconsdb.com
 www.ilyon.net
 www.intuit.com
@@ -4516,7 +4400,6 @@ xlaxiata-udc.digital-cloud-sin1.medallia.com
 xlgmedia.com
 xnimg.cn
 xnxx.com
-xp.apple.com
 xplayer-42f31.web.app
 xray.mail.ru
 xserver.jp
