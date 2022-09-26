@@ -7,46 +7,71 @@
 
 ## Configuration ##
 #
-# Already checked and added to NoFB combinations:
-# + external.fcgkX-X.fna.fbcdn.net  ("external.f",  "cgk", "fna.fbcdn.net")
-# + instagram.fcgkX-X.fna.fbcdn.net ("instagram.f", "cgk", "fna.fbcdn.net")
-# + scontent.fcgkX-X.fna.fbcdn.net  ("scontent.f",  "cgk", "fna.fbcdn.net")
-# + external.fpkuX-X.fna.fbcdn.net  ("external.f",  "pku", "fna.fbcdn.net")
-# + instagram.fpkuX-X.fna.fbcdn.net ("instagram.f", "pku", "fna.fbcdn.net")
-# + scontent.fpkuX-X.fna.fbcdn.net  ("scontent.f",  "pku", "fna.fbcdn.net")
+# Combinations (+ = Added, - Not added yet):
+# + ("external.f",  "ALL", "fna.fbcdn.net")
+# + ("instagram.f", "ALL", "fna.fbcdn.net")
+# + ("scontent.f",  "ALL", "fna.fbcdn.net")
+# + ("media.f",			"ALL", "fna.whatsapp.net")
+# - ("scontent-",		"ALL", "fna.fbcdn.net")
+# - ("scontent-",		"ALL", "xx.fbcdn.net")
+# - ("scontent-",		"ALL", "cdninstagram.com")
+# - ("sonar6-",			"ALL", "fna.fbcdn.net")
+# - ("sonar6-",			"ALL", "xx.fbcdn.net")
+# - ("video-",			"ALL", "fna.fbcdn.net")
+# - ("video-",			"ALL", "xx.fbcdn.net")
 #
 # Also, if you know any other possible combination,
 # dont be hesitant to make a new GitHub issue:
 # https://github.com/mdp43140/BaDomains/issues
 #
+# And if you want to help (and you do use Linux),
+# you can run `./genFbCdnList.sh | ./checkDomains.sh`
+# Copy all the results from generated `resultExists.log` output file
+# to NoFB.txt, then run `./Make.sh -b` (that will 'build' the hosts file automatically),
+# and make a pull request
+# https://github.com/mdp43140/BaDomains/pulls
+#
+#clear # disabled by default because it caused some output weirdness when piped to other commands
 SFB_TYPES=(
-	"external.f"
-	"instagram.f"
-	"scontent.f"
+#	"external.f" # MainDomain1
+#	"instagram.f" # MainDomain1
+#	"scontent.f" # MainDomain1
+#	"media.f" # MainDomain2
+	"sonar6-" # MainDomain3
+	"video-" # MainDomain3
+	"scontent-" # MainDomain3
+#	"scontent-a-" # MainDomain3
+#	"scontent-b-" # MainDomain3
+#	"scontent-c-" # MainDomain3
+#	"scontent-d-" # MainDomain3
+#	"scontent-e-" # MainDomain3
 )
 SFB_REGIONCODE=(
-#	"adl"
-#	"bdj"
-#	"bek"
-#	"bth"
-#	"cgk"
-#	"evn"
-#	"hyd"
-#	"kix"
-#	"kul"
-#	"nag"
-#	"ngo"
-#	"pen"
-#	"pku"
-#	"sin"
+	"adl"
+	"bdj"
+	"bek"
+	"bth"
+	"cgk"
+	"evn"
+	"hyd"
+	"kix"
+	"kul"
+	"nag"
+	"ngo"
+	"pen"
+	"pku"
+	"sea"
+	"sin"
 )
 SFB_MAINDOMAIN=(
-	"fna.fbcdn.net"
-#	"xx.fbcdn.net"
+#	"fna.fbcdn.net"
+#	"fna.whatsapp.net"
+	"xx.fbcdn.net"
+	"cdninstagram.com"
 )
-# this will generate "0 1 2 3 ... 28 29 30"
-SFB_BRUTEFORCERANGE_1="$(echo {0..30})"
-SFB_BRUTEFORCERANGE_2="$(echo {0..6})"
+# this will generate "1 2 3 ... 28 29 30"
+SFB_BRUTEFORCERANGE_1="$(echo {1..30})"
+SFB_BRUTEFORCERANGE_2="$(echo {1..6})"
 
 
 ## Main script ##
@@ -56,16 +81,15 @@ SFB_TYPES="${SFB_TYPES[@]}"
 SFB_REGIONCODE="${SFB_REGIONCODE[@]}"
 SFB_MAINDOMAIN="${SFB_MAINDOMAIN[@]}"
 
-clear
 for type in $SFB_TYPES;do
 	for region in $SFB_REGIONCODE;do
 		for domain in $SFB_MAINDOMAIN;do
 			for n1 in $SFB_BRUTEFORCERANGE_1;do
 				for n2 in $SFB_BRUTEFORCERANGE_2;do
-				#output example: scontent.fcgk4-4.fna.fbcdn.net
-					echo $type$region$n1-$n2.$domain
+					echo $type$region$n1-$n2.$domain # output example: scontent.fcgk4-4.fna.fbcdn.net
 				done
 			done
+		#	echo $type$region.$domain # output example: scontent-cgk.xx.fbcdn.net
 		done
 	done
 done

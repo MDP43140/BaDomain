@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.09.2022
+# Version: 26.09.2022
 # Update: 1 day
 #
 
@@ -233,6 +233,7 @@
 127.0.0.1 akimg.icocofun.com
 127.0.0.1 ak.itlatiaser.com
 127.0.0.1 ak.mangatoon.akamaized.net
+127.0.0.1 aksconsulting.us
 127.0.0.1 aktup.bangcdn.net
 127.0.0.1 album-sg01a.ocloud.heytapmobi.com
 127.0.0.1 alexmods.com
@@ -437,6 +438,7 @@
 127.0.0.1 api.poster.appsinnova.com
 127.0.0.1 api-project-652995075284.firebaseio.com
 127.0.0.1 api.pro.kikakeyboard.com
+127.0.0.1 api.pubnative.net
 127.0.0.1 api.pushycat.net
 127.0.0.1 api.qiscus.com
 127.0.0.1 api.renren.com
@@ -577,6 +579,7 @@
 127.0.0.1 asia-expweb.vivo.com
 127.0.0.1 asia-exstsdk.vivoglobal.com
 127.0.0.1 asia-f-up.vivoglobal.com
+127.0.0.1 asia-gamecenter-vivofs.vivoglobal.com
 127.0.0.1 asia-gamecenter.vivoglobal.com
 127.0.0.1 asia-gsearch.vivoglobal.com
 127.0.0.1 asia-img-appstore.vivoglobal.com
@@ -1241,6 +1244,7 @@
 127.0.0.1 data00.adlooxtracking.com
 127.0.0.1 data.ai
 127.0.0.1 data.aldagames.com
+127.0.0.1 data-api.geniex.com
 127.0.0.1 data.appsinnova.com
 127.0.0.1 data.bilibili.tv
 127.0.0.1 data.biliintl.com
@@ -1256,6 +1260,7 @@
 127.0.0.1 data-rep.livetech.shopee.co.id
 127.0.0.1 data.sec.miui.com
 127.0.0.1 datasink.analysis.mangatoon.mobi
+127.0.0.1 dataupdate.survivorio.com
 127.0.0.1 datting.click
 127.0.0.1 datting.link
 127.0.0.1 datting.online
@@ -1326,6 +1331,7 @@
 127.0.0.1 dl111.dlmate26.xyz
 127.0.0.1 dl111.fbefcafbeedc.xyz
 127.0.0.1 dl.hw.freefiremobile.com
+127.0.0.1 dl.listdl.com
 127.0.0.1 dls.di.atlas.samsung.com
 127.0.0.1 dlvr.it
 127.0.0.1 dlvrit.com
@@ -1343,6 +1349,7 @@
 127.0.0.1 dns-tunnel-check.googlezip.net
 127.0.0.1 do7nu6l5erzu3.cloudfront.net
 127.0.0.1 dob5.com
+127.0.0.1 dobestapposs.uqualities.com
 127.0.0.1 doge43tothemoon.us
 127.0.0.1 dogecointothemoon43.us
 127.0.0.1 doh.iq.com
@@ -1387,6 +1394,7 @@
 127.0.0.1 ds.shalltry.com
 127.0.0.1 ds-test.shalltry.com
 127.0.0.1 dsu-a.shalltry.com
+127.0.0.1 duelbits.com
 127.0.0.1 dum5uv7xb9d66.cloudfront.net
 127.0.0.1 duolaipk.com
 127.0.0.1 dvb.pandora.xiaomi.com
@@ -1521,6 +1529,7 @@
 127.0.0.1 feed.bignox.com
 127.0.0.1 feed.chimukappa.com
 127.0.0.1 feed.rhino-news.com
+127.0.0.1 feedsonbudget.com
 127.0.0.1 feeds.shalltry.com
 127.0.0.1 feed-static.y5en.com
 127.0.0.1 feed-test.bignox.com
@@ -1532,6 +1541,7 @@
 127.0.0.1 file.market.xiaomi.com
 127.0.0.1 files.webmoney.ru
 127.0.0.1 filmmogzivota.rs
+127.0.0.1 financialtrending.com
 127.0.0.1 find.api.micloud.xiaomi.net
 127.0.0.1 findapi.micloud.xiaomi.net
 127.0.0.1 firehose.eu-west-1.amazonaws.com
@@ -1657,6 +1667,7 @@
 127.0.0.1 girlfriend.host
 127.0.0.1 github.phala.one
 127.0.0.1 gitkraken.com
+127.0.0.1 glamorousfeeds.com
 127.0.0.1 glamour.com
 127.0.0.1 glanceseg.blob.core.windows.net
 127.0.0.1 glassbox.com
@@ -1750,6 +1761,7 @@
 127.0.0.1 gw.ruangguru.com
 127.0.0.1 gws.line.naver.jp
 127.0.0.1 gwx.line.naver.jp
+127.0.0.1 gx-api.geniex.com
 127.0.0.1 gxycoj.com
 127.0.0.1 g-zgroup.pstatic.net
 127.0.0.1 g-zt.uvfuns.com
@@ -1759,6 +1771,7 @@
 127.0.0.1 hammergamer.com
 127.0.0.1 hanyu.sogou.com
 127.0.0.1 haokan.mobi
+127.0.0.1 hardwarecloseout.com
 127.0.0.1 hastopic.com
 127.0.0.1 hatena.ne.jp
 127.0.0.1 havasedge.com
@@ -2310,9 +2323,12 @@
 127.0.0.1 mail.kantora.ge
 127.0.0.1 mail.pazu.ge
 127.0.0.1 mail.ru
+127.0.0.1 mail.survivorio.com
+127.0.0.1 mainlytrendy.com
 127.0.0.1 main.qcloudimg.com
 127.0.0.1 makeup.pho.to
 127.0.0.1 mall.shopee.co.id
+127.0.0.1 manbrandsonline.com
 127.0.0.1 mangatoon.akamaized.net
 127.0.0.1 manifest.tower.sybo.net
 127.0.0.1 mapi.langitmusik.co.id
@@ -2483,6 +2499,7 @@
 127.0.0.1 musicradio.com
 127.0.0.1 mv.lunalabs.io
 127.0.0.1 mvm.snapchat.com
+127.0.0.1 mvpconsultant.us
 127.0.0.1 mv-playground.lunalabs.uk
 127.0.0.1 mxpnl.com
 127.0.0.1 mxptint.net
@@ -2494,6 +2511,7 @@
 127.0.0.1 mypic.icu
 127.0.0.1 myqcloud.com
 127.0.0.1 m.zhuti.xiaomi.com
+127.0.0.1 n430bc9de.app-ads-txt.com
 127.0.0.1 n5t8v6w3.stackpathcdn.com
 127.0.0.1 na.albtls.t.co
 127.0.0.1 nadaring.mademoiselleosaki.com
@@ -2526,9 +2544,11 @@
 127.0.0.1 new.qq.com
 127.0.0.1 newrelic.com
 127.0.0.1 news-abroad.vivo.com
+127.0.0.1 newsagent.quest
 127.0.0.1 newsaggreg.shalltry.com
 127.0.0.1 newscloud.or.kr
 127.0.0.1 newsfeed.api.intl.miui.com
+127.0.0.1 newsforward.quest
 127.0.0.1 news.hastopic.com
 127.0.0.1 newsmaticaapp.com
 127.0.0.1 news-muxeta.cc
@@ -2904,6 +2924,7 @@
 127.0.0.1 pogoda.imgsmail.ru
 127.0.0.1 pointone.tech
 127.0.0.1 policy-tcp.rayjump.com
+127.0.0.1 polussuo.com
 127.0.0.1 pool.apk.aptoide.com
 127.0.0.1 pop3.bignox.com
 127.0.0.1 popcore.com
@@ -2941,6 +2962,7 @@
 127.0.0.1 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 127.0.0.1 prod.cloud.rockstargames.com
 127.0.0.1 prod.detectportal.prod.cloudops.mozgcp.net
+127.0.0.1 prod-game.survivorio.com
 127.0.0.1 prod-tp.sumo.mozit.cloud
 127.0.0.1 product.instiengage.com
 127.0.0.1 production.kolbapps.com
@@ -2970,6 +2992,7 @@
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 publisher-event.unityads.unity3d.com
 127.0.0.1 pubmatic.com
+127.0.0.1 pubmatic.mainroll.com
 127.0.0.1 pub.neasenldz.com
 127.0.0.1 pubs.contextads.live
 127.0.0.1 pub.searchiq.co
@@ -3029,6 +3052,7 @@
 127.0.0.1 rdr.mobiletime.net
 127.0.0.1 ready.whatssappa.xyz
 127.0.0.1 rebuilt.pro.ilovexclub.com
+127.0.0.1 receiver.habby.mobi
 127.0.0.1 receiver-metis.infeng.site
 127.0.0.1 recommend.pa1mstore.com
 127.0.0.1 recommend.palmplaystore.com
@@ -3106,7 +3130,9 @@
 127.0.0.1 robwu.nl
 127.0.0.1 robyoc.online
 127.0.0.1 rokev.extremescoffee.com
+127.0.0.1 rollbit.com
 127.0.0.1 romanhackers.com
+127.0.0.1 roobet.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 ro.up.vivoglobal.com
 127.0.0.1 router.miwifi.com
@@ -3302,6 +3328,7 @@
 127.0.0.1 sharepointonline.com
 127.0.0.1 sharethis.com
 127.0.0.1 sharethrough.com
+127.0.0.1 share.wedobest.com.cn
 127.0.0.1 sharing-config.spotifycdn.com
 127.0.0.1 sheldon.faceapp.io
 127.0.0.1 shepherd.ff.avast.com
@@ -3417,6 +3444,7 @@
 127.0.0.1 staging.appapi.n.xiaomi.com
 127.0.0.1 stagingapps.xyz
 127.0.0.1 stags.bluekai.com
+127.0.0.1 stake.com
 127.0.0.1 starfish.pandora.xiaomi.com
 127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
@@ -3648,6 +3676,7 @@
 127.0.0.1 tap.io
 127.0.0.1 tappco.go2cloud.org
 127.0.0.1 t.appsflyer.com
+127.0.0.1 tappx.com
 127.0.0.1 tarot.minozodiac.com
 127.0.0.1 taximaxim.ru
 127.0.0.1 taxsee.ru
@@ -4194,9 +4223,11 @@
 127.0.0.1 www.adlook.me
 127.0.0.1 www.ad-x.com
 127.0.0.1 www.ad-x.co.uk
+127.0.0.1 www.aksconsulting.us
 127.0.0.1 www.alipay.com
 127.0.0.1 www.announcekit.app
 127.0.0.1 www.apkeditorfree.com
+127.0.0.1 www.app-ads-txt.com
 127.0.0.1 www.appjustable.com
 127.0.0.1 www.applilink.jp
 127.0.0.1 www.attention-system-warning.com
@@ -4228,13 +4259,16 @@
 127.0.0.1 www.datamation.com
 127.0.0.1 www.digiads.co.id
 127.0.0.1 www.dob5.com
+127.0.0.1 www.duelbits.com
 127.0.0.1 www.duolaipk.com
 127.0.0.1 www.eep.io
 127.0.0.1 www.escolhatecnologia.com.br
 127.0.0.1 www.etsy.com
 127.0.0.1 www.evgnet.com
 127.0.0.1 www.exonhack.com
+127.0.0.1 www.feedsonbudget.com
 127.0.0.1 www.filmmogzivota.rs
+127.0.0.1 www.financialtrending.com
 127.0.0.1 www.focusmedica.in
 127.0.0.1 www.g2.com
 127.0.0.1 www.g2crowd.com
@@ -4250,6 +4284,7 @@
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 127.0.0.1 www.h2svr.info
+127.0.0.1 www.hardwarecloseout.com
 127.0.0.1 www.hastopic.com
 127.0.0.1 www.helpscout.com
 127.0.0.1 www.helpscout.net
@@ -4277,6 +4312,7 @@
 127.0.0.1 www.livechat.com
 127.0.0.1 www.lovelybabestu.com
 127.0.0.1 www.magnite.com
+127.0.0.1 www.manbrandsonline.com
 127.0.0.1 www.marketo.com
 127.0.0.1 www.maskolis.com
 127.0.0.1 www.meongers.com
@@ -4288,11 +4324,15 @@
 127.0.0.1 www.mobfox.com
 127.0.0.1 www.mobvista.com
 127.0.0.1 www.monkeyibrowstudios.com
+127.0.0.1 www.mvpconsultant.us
 127.0.0.1 www.narratorsvoice.com
+127.0.0.1 www.newsagent.quest
+127.0.0.1 www.newsforward.quest
 127.0.0.1 www.noxinfluencer.com
 127.0.0.1 www.palmpal.net
 127.0.0.1 www.palmpay.com
 127.0.0.1 www.pdl.id
+127.0.0.1 www.polussuo.com
 127.0.0.1 www.portals.mobi
 127.0.0.1 www.profitwell.com
 127.0.0.1 www.pulselive.com
@@ -4304,6 +4344,8 @@
 127.0.0.1 www.requesteasy.com
 127.0.0.1 www.rewards-cards.org
 127.0.0.1 www.robinhand.vip
+127.0.0.1 www.rollbit.com
+127.0.0.1 www.roobet.com
 127.0.0.1 www.sas-autos.com
 127.0.0.1 www.servicewebly.com
 127.0.0.1 www.sfdcstatic.com
@@ -4318,9 +4360,11 @@
 127.0.0.1 www.soundiradio.com
 127.0.0.1 www.spanishcoursesunamuno.com
 127.0.0.1 www.stagingapps.xyz
+127.0.0.1 www.stake.com
 127.0.0.1 www.steveziogames.com
 127.0.0.1 www.taobao.com
 127.0.0.1 www.tap.io
+127.0.0.1 www.tappx.com
 127.0.0.1 www.taximaxim.ru
 127.0.0.1 www.taxsee.ru
 127.0.0.1 www.technologyadvice.com
@@ -4371,6 +4415,7 @@
 127.0.0.1 www.zadn.vn
 127.0.0.1 www.zalo.me
 127.0.0.1 www.zascdn.me
+127.0.0.1 www.zegostudio.com
 127.0.0.1 www.zingcdn.me
 127.0.0.1 www.zingload.com
 127.0.0.1 www.zingnews.vn
@@ -4461,6 +4506,7 @@
 127.0.0.1 zdbb.net
 127.0.0.1 zdn.vn
 127.0.0.1 zeevpn-fca47.firebaseio.com
+127.0.0.1 zegostudio.com
 127.0.0.1 zepeto.me
 127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 zhihu.sogou.com

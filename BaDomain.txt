@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.09.2022
+# Version: 26.09.2022
 # Update: 1 day
 #
 
@@ -233,6 +233,7 @@ aka.tsmusic.kg.qq.com
 akimg.icocofun.com
 ak.itlatiaser.com
 ak.mangatoon.akamaized.net
+aksconsulting.us
 aktup.bangcdn.net
 album-sg01a.ocloud.heytapmobi.com
 alexmods.com
@@ -437,6 +438,7 @@ api.pinterest.com
 api.poster.appsinnova.com
 api-project-652995075284.firebaseio.com
 api.pro.kikakeyboard.com
+api.pubnative.net
 api.pushycat.net
 api.qiscus.com
 api.renren.com
@@ -577,6 +579,7 @@ asia-exmagazineunlock-proxy.vivoglobal.com
 asia-expweb.vivo.com
 asia-exstsdk.vivoglobal.com
 asia-f-up.vivoglobal.com
+asia-gamecenter-vivofs.vivoglobal.com
 asia-gamecenter.vivoglobal.com
 asia-gsearch.vivoglobal.com
 asia-img-appstore.vivoglobal.com
@@ -1241,6 +1244,7 @@ das.uadexchange.com
 data00.adlooxtracking.com
 data.ai
 data.aldagames.com
+data-api.geniex.com
 data.appsinnova.com
 data.bilibili.tv
 data.biliintl.com
@@ -1256,6 +1260,7 @@ data.mistat.xiaomi.com
 data-rep.livetech.shopee.co.id
 data.sec.miui.com
 datasink.analysis.mangatoon.mobi
+dataupdate.survivorio.com
 datting.click
 datting.link
 datting.online
@@ -1326,6 +1331,7 @@ diva.bond
 dl111.dlmate26.xyz
 dl111.fbefcafbeedc.xyz
 dl.hw.freefiremobile.com
+dl.listdl.com
 dls.di.atlas.samsung.com
 dlvr.it
 dlvrit.com
@@ -1343,6 +1349,7 @@ dns.sb
 dns-tunnel-check.googlezip.net
 do7nu6l5erzu3.cloudfront.net
 dob5.com
+dobestapposs.uqualities.com
 doge43tothemoon.us
 dogecointothemoon43.us
 doh.iq.com
@@ -1387,6 +1394,7 @@ dsp.baidu.com
 ds.shalltry.com
 ds-test.shalltry.com
 dsu-a.shalltry.com
+duelbits.com
 dum5uv7xb9d66.cloudfront.net
 duolaipk.com
 dvb.pandora.xiaomi.com
@@ -1521,6 +1529,7 @@ feedback.uc.cn
 feed.bignox.com
 feed.chimukappa.com
 feed.rhino-news.com
+feedsonbudget.com
 feeds.shalltry.com
 feed-static.y5en.com
 feed-test.bignox.com
@@ -1532,6 +1541,7 @@ fid.agkn.com
 file.market.xiaomi.com
 files.webmoney.ru
 filmmogzivota.rs
+financialtrending.com
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 firehose.eu-west-1.amazonaws.com
@@ -1657,6 +1667,7 @@ giphy.com
 girlfriend.host
 github.phala.one
 gitkraken.com
+glamorousfeeds.com
 glamour.com
 glanceseg.blob.core.windows.net
 glassbox.com
@@ -1750,6 +1761,7 @@ gw-napi.zepeto.io
 gw.ruangguru.com
 gws.line.naver.jp
 gwx.line.naver.jp
+gx-api.geniex.com
 gxycoj.com
 g-zgroup.pstatic.net
 g-zt.uvfuns.com
@@ -1759,6 +1771,7 @@ h5.y5en.com
 hammergamer.com
 hanyu.sogou.com
 haokan.mobi
+hardwarecloseout.com
 hastopic.com
 hatena.ne.jp
 havasedge.com
@@ -2310,9 +2323,12 @@ mailing.educba.com
 mail.kantora.ge
 mail.pazu.ge
 mail.ru
+mail.survivorio.com
+mainlytrendy.com
 main.qcloudimg.com
 makeup.pho.to
 mall.shopee.co.id
+manbrandsonline.com
 mangatoon.akamaized.net
 manifest.tower.sybo.net
 mapi.langitmusik.co.id
@@ -2483,6 +2499,7 @@ mu.se
 musicradio.com
 mv.lunalabs.io
 mvm.snapchat.com
+mvpconsultant.us
 mv-playground.lunalabs.uk
 mxpnl.com
 mxptint.net
@@ -2494,6 +2511,7 @@ myjino.ru
 mypic.icu
 myqcloud.com
 m.zhuti.xiaomi.com
+n430bc9de.app-ads-txt.com
 n5t8v6w3.stackpathcdn.com
 na.albtls.t.co
 nadaring.mademoiselleosaki.com
@@ -2526,9 +2544,11 @@ newpic.wetvinfo.com
 new.qq.com
 newrelic.com
 news-abroad.vivo.com
+newsagent.quest
 newsaggreg.shalltry.com
 newscloud.or.kr
 newsfeed.api.intl.miui.com
+newsforward.quest
 news.hastopic.com
 newsmaticaapp.com
 news-muxeta.cc
@@ -2904,6 +2924,7 @@ podrbx.best
 pogoda.imgsmail.ru
 pointone.tech
 policy-tcp.rayjump.com
+polussuo.com
 pool.apk.aptoide.com
 pop3.bignox.com
 popcore.com
@@ -2941,6 +2962,7 @@ probe.twitter.com
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 prod.cloud.rockstargames.com
 prod.detectportal.prod.cloudops.mozgcp.net
+prod-game.survivorio.com
 prod-tp.sumo.mozit.cloud
 product.instiengage.com
 production.kolbapps.com
@@ -2970,6 +2992,7 @@ publisher.caroda.io
 publisher-config.unityads.unity3d.com
 publisher-event.unityads.unity3d.com
 pubmatic.com
+pubmatic.mainroll.com
 pub.neasenldz.com
 pubs.contextads.live
 pub.searchiq.co
@@ -3029,6 +3052,7 @@ rbxton.online
 rdr.mobiletime.net
 ready.whatssappa.xyz
 rebuilt.pro.ilovexclub.com
+receiver.habby.mobi
 receiver-metis.infeng.site
 recommend.pa1mstore.com
 recommend.palmplaystore.com
@@ -3106,7 +3130,9 @@ robuxweb.pro
 robwu.nl
 robyoc.online
 rokev.extremescoffee.com
+rollbit.com
 romanhackers.com
+roobet.com
 rosenberg.appmetrica.yandex.net
 ro.up.vivoglobal.com
 router.miwifi.com
@@ -3302,6 +3328,7 @@ shareaholic.net
 sharepointonline.com
 sharethis.com
 sharethrough.com
+share.wedobest.com.cn
 sharing-config.spotifycdn.com
 sheldon.faceapp.io
 shepherd.ff.avast.com
@@ -3417,6 +3444,7 @@ staging.api.zhuti.n.xiaomi.com
 staging.appapi.n.xiaomi.com
 stagingapps.xyz
 stags.bluekai.com
+stake.com
 starfish.pandora.xiaomi.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
@@ -3648,6 +3676,7 @@ t.api.kikakeyboard.com
 tap.io
 tappco.go2cloud.org
 t.appsflyer.com
+tappx.com
 tarot.minozodiac.com
 taximaxim.ru
 taxsee.ru
@@ -4194,9 +4223,11 @@ www.addtoany.com
 www.adlook.me
 www.ad-x.com
 www.ad-x.co.uk
+www.aksconsulting.us
 www.alipay.com
 www.announcekit.app
 www.apkeditorfree.com
+www.app-ads-txt.com
 www.appjustable.com
 www.applilink.jp
 www.attention-system-warning.com
@@ -4228,13 +4259,16 @@ www.data.ai
 www.datamation.com
 www.digiads.co.id
 www.dob5.com
+www.duelbits.com
 www.duolaipk.com
 www.eep.io
 www.escolhatecnologia.com.br
 www.etsy.com
 www.evgnet.com
 www.exonhack.com
+www.feedsonbudget.com
 www.filmmogzivota.rs
+www.financialtrending.com
 www.focusmedica.in
 www.g2.com
 www.g2crowd.com
@@ -4250,6 +4284,7 @@ www.google.ru
 www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.h2svr.info
+www.hardwarecloseout.com
 www.hastopic.com
 www.helpscout.com
 www.helpscout.net
@@ -4277,6 +4312,7 @@ www.litix.io
 www.livechat.com
 www.lovelybabestu.com
 www.magnite.com
+www.manbrandsonline.com
 www.marketo.com
 www.maskolis.com
 www.meongers.com
@@ -4288,11 +4324,15 @@ www.mob.com
 www.mobfox.com
 www.mobvista.com
 www.monkeyibrowstudios.com
+www.mvpconsultant.us
 www.narratorsvoice.com
+www.newsagent.quest
+www.newsforward.quest
 www.noxinfluencer.com
 www.palmpal.net
 www.palmpay.com
 www.pdl.id
+www.polussuo.com
 www.portals.mobi
 www.profitwell.com
 www.pulselive.com
@@ -4304,6 +4344,8 @@ www.refokus.com
 www.requesteasy.com
 www.rewards-cards.org
 www.robinhand.vip
+www.rollbit.com
+www.roobet.com
 www.sas-autos.com
 www.servicewebly.com
 www.sfdcstatic.com
@@ -4318,9 +4360,11 @@ www.sohu.com
 www.soundiradio.com
 www.spanishcoursesunamuno.com
 www.stagingapps.xyz
+www.stake.com
 www.steveziogames.com
 www.taobao.com
 www.tap.io
+www.tappx.com
 www.taximaxim.ru
 www.taxsee.ru
 www.technologyadvice.com
@@ -4371,6 +4415,7 @@ www.youtts.com
 www.zadn.vn
 www.zalo.me
 www.zascdn.me
+www.zegostudio.com
 www.zingcdn.me
 www.zingload.com
 www.zingnews.vn
@@ -4461,6 +4506,7 @@ zconfig.alibabausercontent.com
 zdbb.net
 zdn.vn
 zeevpn-fca47.firebaseio.com
+zegostudio.com
 zepeto.me
 zeus.ad.xiaomi.com
 zhihu.sogou.com

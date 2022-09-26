@@ -66,6 +66,9 @@ cl5.apple.com
 cma.itunes.apple.com
 commnat-cohort-gc.ess.apple.com
 commnat-main-gc.ess.apple.com
+configuration.apple.com
+configuration.apple.com.akadns.net
+configuration.apple.com.edgekey.net
 configuration.ls.apple.com
 courier2.push.apple.com
 doh.dns.apple.com

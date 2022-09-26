@@ -1765,6 +1765,7 @@
 127.0.0.1 p15.hypstarcdn.com
 127.0.0.1 p16-ad.byteoversea.com
 127.0.0.1 p16-adformat-sg.ibyteimg.com
+127.0.0.1 p16-adformat-sg.ibyteimg.com.edgesuite.net
 127.0.0.1 p16-ad-sg.ibyteimg.com
 127.0.0.1 p16a.hypstarcdn.com
 127.0.0.1 p16a.hypstarcdn.com.edgesuite.net
@@ -1775,6 +1776,9 @@
 127.0.0.1 p16b.tiktokcdn.com
 127.0.0.1 p16b.tiktokcdn.com.edgesuite.net
 127.0.0.1 p16-capcut-sg.ibyteimg.com
+127.0.0.1 p16-capcut-sg.ibyteimg.com.edgesuite.net
+127.0.0.1 p16-capcut-va.ibyteimg.com
+127.0.0.1 p16-capcut-va.ibyteimg.com.edgesuite.net
 127.0.0.1 p16-cg-gaudit.ibyteimg.com
 127.0.0.1 p16hypstarcdn-a.akamaihd.net
 127.0.0.1 p16hypstarcdn-a.akamaihd.net.edgesuite.net
@@ -1783,6 +1787,7 @@
 127.0.0.1 p16-mt-sg-a.ibyteimg.com
 127.0.0.1 p16-mt-sg-b.ibyteimg.com
 127.0.0.1 p16-mt-sg.ibyteimg.com
+127.0.0.1 p16-mt-sg.ibyteimg.com.edgesuite.net
 127.0.0.1 p16-mt-va-b.ibyteimg.com
 127.0.0.1 p16-mt-va.ibyteimg.com
 127.0.0.1 p16-mt-va.ibyteimg.com.edgesuite.net
@@ -1794,6 +1799,9 @@
 127.0.0.1 p16-musical-va.ibyteimg.com
 127.0.0.1 p16-musical-va.ibyteimg.com.edgesuite.net
 127.0.0.1 p16-oec-sg.ibyteimg.com
+127.0.0.1 p16-oec-sg.ibyteimg.com.edgesuite.net
+127.0.0.1 p16-oec-va.ibyteimg.com
+127.0.0.1 p16-oec-va.ibyteimg.com.edgesuite.net
 127.0.0.1 p16.pstatp.com
 127.0.0.1 p16.pstatp.com.edgekey.net
 127.0.0.1 p16.pstatp.com.w.alikunlun.com
@@ -1816,7 +1824,10 @@
 127.0.0.1 p16-tcscdn.byteoversea.com
 127.0.0.1 p16-tcscdn.byteoversea.com.edgekey.net
 127.0.0.1 p16-test.hypstarcdn.com
+127.0.0.1 p16-test-sg.ibyteimg.com.edgesuite.net
 127.0.0.1 p16-test.tiktokcdn.com
+127.0.0.1 p16-test-va.ibyteimg.com
+127.0.0.1 p16-test-va.ibyteimg.com.edgesuite.net
 127.0.0.1 p16.tiktokcdn.com
 127.0.0.1 p16-tiktokcdn-com.akamaized.net
 127.0.0.1 p16.tiktokcdn.com.edgesuite.net
@@ -1835,7 +1846,11 @@
 127.0.0.1 p16-tiktok-va-h2.ibyteimg.com.akamaized.net
 127.0.0.1 p16-tiktok-va.ibyteimg.com
 127.0.0.1 p16-tiktok-va.ibyteimg.com.edgesuite.net
+127.0.0.1 p16-tiktokyoyo-sg.ibyteimg.com
+127.0.0.1 p16-tiktokyoyo-sg.ibyteimg.com.edgesuite.net
 127.0.0.1 p-16-tiktokyoyo-va.ibyteimg.com
+127.0.0.1 p16-tiktokyoyo-va.ibyteimg.com
+127.0.0.1 p16-tiktokyoyo-va.ibyteimg.com.edgesuite.net
 127.0.0.1 p16-tk-m.tiktokcdn.com
 127.0.0.1 p16-tk-m.tiktokcdn.com.edgesuite.net
 127.0.0.1 p16-tk.tiktokcdn.com
@@ -1860,9 +1875,18 @@
 127.0.0.1 p16-webcast-useast2a.muscdn.com.edgesuite.net
 127.0.0.1 p16.xzcs3zlph.com
 127.0.0.1 p16.xzcs3zlph.com.akamaized.net
+127.0.0.1 p19-adformat-sg.ibyteimg.com
 127.0.0.1 p19-capcut-sg.ibyteimg.com
+127.0.0.1 p19-capcut-va.ibyteimg.com
 127.0.0.1 p19.hypstarcdn.com
 127.0.0.1 p-19-oec-sg.ibyteimg.com
+127.0.0.1 p19-oec-sg.ibyteimg.com
+127.0.0.1 p19-oec-sg.ibyteimg.com.edgesuite.net
+127.0.0.1 p19-oec-va.ibyteimg.com
+127.0.0.1 p19-oec-va.ibyteimg.com.edgesuite.net
+127.0.0.1 p19-security-sg.ibyteimg.com
+127.0.0.1 p19-security-va.ibyteimg.com
+127.0.0.1 p19-sign-sg.tiktokcdn.com
 127.0.0.1 p19-sign.tiktokcdn-us.com
 127.0.0.1 p19-webcast.hypstarcdn.com
 127.0.0.1 p19-webcast.muscdn.com

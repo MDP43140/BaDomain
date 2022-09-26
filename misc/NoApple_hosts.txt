@@ -66,6 +66,9 @@
 127.0.0.1 cma.itunes.apple.com
 127.0.0.1 commnat-cohort-gc.ess.apple.com
 127.0.0.1 commnat-main-gc.ess.apple.com
+127.0.0.1 configuration.apple.com
+127.0.0.1 configuration.apple.com.akadns.net
+127.0.0.1 configuration.apple.com.edgekey.net
 127.0.0.1 configuration.ls.apple.com
 127.0.0.1 courier2.push.apple.com
 127.0.0.1 doh.dns.apple.com
