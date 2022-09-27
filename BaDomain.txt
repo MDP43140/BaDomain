@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 26.09.2022
+# Version: 27.09.2022
 # Update: 1 day
 #
 
@@ -345,6 +345,8 @@ api.biliintl.com
 api.black.riseup.net
 api.blocka.net
 api.boomplaymusic.com
+api.buzzoola.com
+api.castle.io
 api-cn.theme.heytapmobi.com
 api.coin.baca.co.id
 api.comm.miui.com
@@ -411,6 +413,7 @@ api-leap.nbcsports.com
 api.likee.video
 api.livechatinc.com
 api.map.baidu.com
+api-maps.yandex.ru
 ap.ime.cdn.cootekservice.com
 ap.ime.cootek.com
 api.micloud.xiaomi.net
@@ -489,6 +492,7 @@ api.wt14yf.com
 api.xintaicz.cn
 api.xmpush.xiaomi.com
 api.xshareapp.com
+api.yandex.ru
 api.zhuti.intl.xiaomi.com
 api.zhuti.xiaomi.com
 api.zingnews.vn
@@ -722,6 +726,8 @@ beautygirls.online
 beautyzone.cam
 beautyzone.com
 bed.fyi
+beeline.ru
+begun-sync.rutarget.ru
 beian.miit.gov.cn
 bendingspoonsapps.com
 bendingspoons.com
@@ -757,6 +763,7 @@ blockmeter.unblockia.com
 blockpage.xl.co.id
 block.uzone.id
 blogblog.com
+blog.castle.io
 blog.pho.to
 bluecava.com
 bluekai.com
@@ -1114,6 +1121,7 @@ connatix.com
 connect.intl.rom.miui.com
 connectivitycheck.cbg-app.huawei.com
 connect-milink.g.mi.com
+connect.ok.ru
 connect.rom.miui.com
 connect.tapjoy.com
 conn-service-gl-01.allawntech.com
@@ -1140,6 +1148,7 @@ counter.yadro.ru
 cove-cdn.ams3.cdn.digitaloceanspaces.com
 cove.chat
 cpahero.com
+cp.betweendigital.com
 cpmstar.com
 cpn.netcoresmartech.com
 cpx.to
@@ -1163,6 +1172,7 @@ crunchify.com
 crwdcntrl.net
 cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
+cs14.livetex.ru
 cs491.wac.edgecastcdn.net
 cs8.wac.phicdn.net
 cs9.wac.phicdn.net
@@ -1319,6 +1329,7 @@ dhisex.uno
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 dictionary.map.fastly.net
+diffuser-cdn.app-us1.com
 digiads.co.id
 digiads.id
 digilife.uzone.id
@@ -1350,6 +1361,7 @@ dns-tunnel-check.googlezip.net
 do7nu6l5erzu3.cloudfront.net
 dob5.com
 dobestapposs.uqualities.com
+docs.castle.io
 doge43tothemoon.us
 dogecointothemoon43.us
 doh.iq.com
@@ -1515,6 +1527,7 @@ fans.sports.qq.com
 farmcityer.com
 farsroid.com
 fast.wistia.com
+favicon.yandex.net
 fcanr.tracking.miui.com
 fe02.lg.xiaomi.com
 feabtest.prod.tvlk-data.com
@@ -1834,6 +1847,7 @@ hs-marketing.imgix.net
 htms.heytapmobile.com
 h.trace.qq.com
 htrace.wetvinfo.com
+http-check-headers.yandex.ru
 httpdns.ocloud.heytapmobi.com
 httpdns.ocloud.oppomobile.com
 httpdns-push.heytapmobile.com
@@ -1968,6 +1982,7 @@ img.cdn.baca.co.id
 imgcdn.ymstatic.com
 img.connatix.com
 img.feednews.com
+img-fotki.yandex.ru
 img.go2s.co
 imgg.traffic-media.co
 img-hw.xnxx-cdn.com
@@ -2113,6 +2128,7 @@ jetengine.it
 jfapiprod.optimonk.com
 jifo.co
 jixie.io
+jktmike.livejournal.com
 jkt-milink.market.xiaomi.com
 jmacs-m.lazada.co.id
 joinbudapp.com
@@ -2203,6 +2219,7 @@ lamida.id
 lan3rd.line.me
 lang-f.coloros.com
 languagef.coloros.com
+l-api.livejournal.com
 la-ucc-upaas.ucweb.com
 laucenter.ucweb.com
 launcher-us.yeshen.com
@@ -2217,6 +2234,10 @@ laz-img-cdn.alicdn.com
 lazy-tcp.rayjump.com
 lbs.like.video
 lbs.pandora.xiaomi.com
+lbs-ru1.ads.betweendigital.com
+lbs-ru2.ads.betweendigital.com
+lbs-ru3.ads.betweendigital.com
+lbs-ru4.ads.betweendigital.com
 lbs-zaizai.netease.im
 leaderboard.api.glance.inmobi.com
 leawo.org
@@ -2224,6 +2245,7 @@ lencr.org
 leonard.faceapp.io
 letsgoconvert.com
 letusdomino.com
+l-files.livejournal.net
 l.getsitecontrol.com
 l.gotube.pro
 libra-sg.resso.app
@@ -2232,6 +2254,7 @@ license.vod2.myqcloud.com
 lifymk.tistory.com
 lijit.com
 likemore-go.imgsmail.ru
+likes.services.livejournal.com
 lilistarfire.tumblr.com
 liliy9aydje10.com
 limg.imgsmail.ru
@@ -2249,6 +2272,7 @@ live.chartboost.com
 livechat.com
 livechat.containers.piwik.pro
 livechatinc.com
+livejournal.naydex.net
 live.shopee.co.id
 livetech.live.shopee.co.id
 livetech.shopee.co.id
@@ -2296,6 +2320,7 @@ lovelybabestu.com
 loveme.uno
 lulusoft.com
 lunalabs.io
+l-userpic.livejournal.com
 lustre.ai
 m1.auto.itc.cn
 m1.daumcdn.net
@@ -2523,7 +2548,9 @@ narratorsvoice.com
 nat02.feelingtouch.com
 nat.cn.bucuowan.com
 nathanaeldan.pro
+nativehub.com
 nativepu.sh
+naydex.net
 nbcu.demdex.net
 ncaudienceexchange.com
 ndds001.com
@@ -2559,6 +2586,7 @@ nexus-websocket-a.intercom.io
 nflxvideo.net
 nightfallinquiredune.com
 nj.cschannel.anticheatexpert.com
+njs.services.livejournal.com
 nmnm.lol
 no-cache.hubspot.com
 nocodeflow.net
@@ -2671,6 +2699,7 @@ n.zing.vn
 o1069899.ingest.sentry.io
 o108552.ingest.sentry.io
 o13824.ingest.sentry.io
+o13855.ingest.sentry.io
 o209266.ingest.sentry.io
 o2o.api.xiaomi.com
 o446669.ingest.sentry.io
@@ -2743,6 +2772,7 @@ oth.eve.mdt.qq.com
 othstr.beacon.qq.com
 oth.str.mdt.qq.com
 ot.io.mi.com
+otm-r.com
 otnolatrnup.com
 ots.io.mi.com
 ott.io.mi.com
@@ -3008,6 +3038,7 @@ pushprofit.net
 pushwoosh.com
 pushycat.net
 px1.lifesavvy.com
+px.adhigh.net
 px-conf.perimeterx.net
 pxksnymto.ru
 px.za.zalo.me
@@ -3042,6 +3073,8 @@ raj.faceapp.io
 rakam.io
 rakutenmarketing.com
 rakuten.tv
+rambler.ru
+rambler-sync.rutarget.ru
 r.apkpure.net
 rarefix.info
 ravenjs.com
@@ -3049,6 +3082,7 @@ rayjump.com
 r.browser.miui.com
 rbux88.com
 rbxton.online
+rcmjs.rambler.ru
 rdr.mobiletime.net
 ready.whatssappa.xyz
 rebuilt.pro.ilovexclub.com
@@ -3061,6 +3095,7 @@ recostream.go.mail.ru
 rec.smartlook.com
 redirectingat.com
 redirect.networkbench.com
+reference.castle.io
 referralrock.com
 refersion.com
 refokus.com
@@ -3124,6 +3159,7 @@ rink.hockeyapp.net
 riseup.net
 risk.clearbit.com
 rkdms.com
+rmb.ops.beeline.ru
 r.mradx.net
 robinhand.vip
 robuxweb.pro
@@ -3215,6 +3251,7 @@ samba.tv
 samehadaku.tv
 samsappsbn.vo.llnwd.net
 samsung-callerprofile.edge.hiyaapi.com
+sandbox.ssp.rambler.ru
 sandbox.xmpush.xiaomi.com
 sapi.taptap.com
 sas-autos.com
@@ -3277,6 +3314,7 @@ securiti.ai
 securitiai.widget.insent.ai
 security.intuit.com
 security.noxgroup.org
+seedr.com
 segment.com
 self.events.data.microsoft.com
 selfishsnake.com
@@ -3341,6 +3379,7 @@ short.im-gb.com
 shortintl.push.heytapmobile.com
 shortintl.push.oppomobile.com
 shortvideo.qiniuapi.com
+shrcnt.livejournal.net
 shreeganeshlab.co.in
 sift-creatives.s3.amazonaws.com
 simple-get.ilyon.net
@@ -3471,6 +3510,7 @@ static.jpallnight.com
 static.mailerlite.com
 static.messagebird.com
 static.mob.com
+static-mon.yandex.net
 static.neptunegame.com
 static.netpop.app
 static.pulse.mail.ru
@@ -3496,11 +3536,13 @@ statistics-dot-calconic-app.appspot.com
 stat.pandora.xiaomi.com
 stats.cross-orbit.com
 stats.darkreader.app
+stats.seedr.com
 stats.wp.com
 stat.tiara.tistory.com
 stat.tildacdn.com
 stat.tpns.sgp.tencent.com
 statusapi.micloud.xiaomi.net
+status.castle.io
 statwup.nimo.tv
 stat.xdplt.com
 stc-sp.zadn.vn
@@ -3536,6 +3578,7 @@ streamrail.net
 stuart.faceapp.io
 stuck-sg.dc.oppomobile.com
 stun.ekiga.net
+stun.ssp.rambler.ru
 stup5.appmeasurements.com
 sub2unlock.com
 subscribers.com
@@ -3567,6 +3610,7 @@ s.w.org
 swpsvc.com
 s.xlgmedia.com
 s.xnimg.cn
+sync.dmp.otm-r.com
 sync.ecal.com
 synchrobox.adswizz.com
 sync.search.spotxchange.com
@@ -3771,6 +3815,7 @@ toolbox.com
 tools.refokus.com
 tooncoin.com
 toonme-com-cdn.ws.pho.to
+top100.ru
 top-fwz1.mail.ru
 top.ge
 topgirls.uno
@@ -3826,6 +3871,7 @@ tv.jwplayer.com
 tvpixel.com
 t.wattpad.com
 tw.bignox.com
+twemoji.maxcdn.com
 twibida.com
 twilio-cms-prod.s3.amazonaws.com
 twilio.com
@@ -3891,6 +3937,7 @@ upload-dianshi-1255598498.file.myqcloud.com
 upoint.id
 upos-bstar1-mirrorakam.akamaized.net
 ups.ksmobile.net
+uptime-info.yandex.ru
 ur.alipay.com
 ureca.samsungapps.com
 url-fwax40fx1.com
@@ -3950,6 +3997,7 @@ videodelivery.net
 videodownloader.ummy.net
 videoeditor-sg.soloop.heytapmobile.com
 video-g.usicdn.com
+videomin.ru
 videoplayerhub.com
 videoroll.net
 videos-fms.jwpsrv.com
@@ -3967,6 +4015,7 @@ visitsme.uno
 visteme.mx
 visualwebsiteoptimizer.com
 vivo.com.cn
+vk.com
 v.lsttnews.com
 vn.bignox.com
 vnclip.net
@@ -3978,6 +4027,7 @@ vom.today
 von.lol
 vor.lol
 v.pinimg.com
+vp.rambler.ru
 vps-v4.u.avcdn.net
 v.qq.com
 vs0.wshareit.com
@@ -4244,6 +4294,7 @@ www.boomplaymusic.com
 www.braze.com
 www.calconic.com
 www.carx-online.com
+www.castle.io
 www.cdnmore.com
 www.cdn.viber.com
 www.centurygames.com
@@ -4310,6 +4361,7 @@ www.linkedin.com
 www.litatom.com
 www.litix.io
 www.livechat.com
+www.livejournal.com
 www.lovelybabestu.com
 www.magnite.com
 www.manbrandsonline.com
@@ -4425,6 +4477,7 @@ x1.i.lencr.org
 x8sb.com
 x8speeder.com
 xad.com
+xc3.services.livejournal.com
 x-delivery.icu
 xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com

@@ -384,6 +384,7 @@ api-bee.amemv.com
 api-bee-hl.amemv.com
 api-c.amemv.com
 api-c.amemv.com.w.kunluncan.com
+api-core.tiktokv.com
 api-core-va.tiktokv.com
 api-core-va.tiktokv.com.edgesuite.net
 api-dev.musical.ly
@@ -412,6 +413,7 @@ api-lq.amemv.com.w.cdngslb.com
 api-mo.snssdk.com
 api-m.tiktok.com
 api.musical.ly
+api-normal.tiktokv.com
 api-s1-h2.musical.ly
 api-s1-h2.tiktokv.com
 api-s1-quic.musical.ly
@@ -2280,6 +2282,7 @@ pull-flv-f11.tiktokcdn.liveplay.myqcloud.com
 pull-flv-f11-va01.tiktokcdn.com
 pull-flv-f1-ab.tiktokcdn.com
 pull-flv-f1-ab.tiktokcdn.com.wsdvs.com
+pull-flv-f1-gcp01.tiktokcdn.com
 pull-flv-f1-sg01.tiktokcdn.com
 pull-flv-f1.tiktokcdn.com
 pull-flv-f1.tiktokcdn.com.wsdvs.com
@@ -2641,6 +2644,8 @@ search16-normal-c-useast1a.tiktokv.com
 search16-normal-c-useast1a.tiktokv.com.edgekey.net
 search16-normal-c-useast2a.tiktokv.com
 search16-normal-c-useast2a.tiktokv.com.edgekey.net
+search19-normal-c-useast1a.tiktokv.com
+search19-normal-c-useast2a.tiktokv.com
 search21-normal-c-alisg.tiktokv.com
 search22-normal-c-alisg.tiktokv.com
 search22-normal-c-useast1a.tiktokv.com
@@ -2879,6 +2884,7 @@ sso.toutiao.com
 sso.toutiao.com.w.cdngslb.com
 st1-ttcdn-tos.pstatp.com
 staging-openapi-boe.byted.org
+starling-i18n.tiktokv.com
 starling-oversea.byteoversea.com
 starling-oversea.byteoversea.com.edgekey.net
 starling-oversea-useast2a.byteoversea.com

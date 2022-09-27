@@ -384,6 +384,7 @@
 127.0.0.1 api-bee-hl.amemv.com
 127.0.0.1 api-c.amemv.com
 127.0.0.1 api-c.amemv.com.w.kunluncan.com
+127.0.0.1 api-core.tiktokv.com
 127.0.0.1 api-core-va.tiktokv.com
 127.0.0.1 api-core-va.tiktokv.com.edgesuite.net
 127.0.0.1 api-dev.musical.ly
@@ -412,6 +413,7 @@
 127.0.0.1 api-mo.snssdk.com
 127.0.0.1 api-m.tiktok.com
 127.0.0.1 api.musical.ly
+127.0.0.1 api-normal.tiktokv.com
 127.0.0.1 api-s1-h2.musical.ly
 127.0.0.1 api-s1-h2.tiktokv.com
 127.0.0.1 api-s1-quic.musical.ly
@@ -2280,6 +2282,7 @@
 127.0.0.1 pull-flv-f11-va01.tiktokcdn.com
 127.0.0.1 pull-flv-f1-ab.tiktokcdn.com
 127.0.0.1 pull-flv-f1-ab.tiktokcdn.com.wsdvs.com
+127.0.0.1 pull-flv-f1-gcp01.tiktokcdn.com
 127.0.0.1 pull-flv-f1-sg01.tiktokcdn.com
 127.0.0.1 pull-flv-f1.tiktokcdn.com
 127.0.0.1 pull-flv-f1.tiktokcdn.com.wsdvs.com
@@ -2641,6 +2644,8 @@
 127.0.0.1 search16-normal-c-useast1a.tiktokv.com.edgekey.net
 127.0.0.1 search16-normal-c-useast2a.tiktokv.com
 127.0.0.1 search16-normal-c-useast2a.tiktokv.com.edgekey.net
+127.0.0.1 search19-normal-c-useast1a.tiktokv.com
+127.0.0.1 search19-normal-c-useast2a.tiktokv.com
 127.0.0.1 search21-normal-c-alisg.tiktokv.com
 127.0.0.1 search22-normal-c-alisg.tiktokv.com
 127.0.0.1 search22-normal-c-useast1a.tiktokv.com
@@ -2879,6 +2884,7 @@
 127.0.0.1 sso.toutiao.com.w.cdngslb.com
 127.0.0.1 st1-ttcdn-tos.pstatp.com
 127.0.0.1 staging-openapi-boe.byted.org
+127.0.0.1 starling-i18n.tiktokv.com
 127.0.0.1 starling-oversea.byteoversea.com
 127.0.0.1 starling-oversea.byteoversea.com.edgekey.net
 127.0.0.1 starling-oversea-useast2a.byteoversea.com

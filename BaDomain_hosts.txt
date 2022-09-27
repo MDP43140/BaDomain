@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 26.09.2022
+# Version: 27.09.2022
 # Update: 1 day
 #
 
@@ -345,6 +345,8 @@
 127.0.0.1 api.black.riseup.net
 127.0.0.1 api.blocka.net
 127.0.0.1 api.boomplaymusic.com
+127.0.0.1 api.buzzoola.com
+127.0.0.1 api.castle.io
 127.0.0.1 api-cn.theme.heytapmobi.com
 127.0.0.1 api.coin.baca.co.id
 127.0.0.1 api.comm.miui.com
@@ -411,6 +413,7 @@
 127.0.0.1 api.likee.video
 127.0.0.1 api.livechatinc.com
 127.0.0.1 api.map.baidu.com
+127.0.0.1 api-maps.yandex.ru
 127.0.0.1 ap.ime.cdn.cootekservice.com
 127.0.0.1 ap.ime.cootek.com
 127.0.0.1 api.micloud.xiaomi.net
@@ -489,6 +492,7 @@
 127.0.0.1 api.xintaicz.cn
 127.0.0.1 api.xmpush.xiaomi.com
 127.0.0.1 api.xshareapp.com
+127.0.0.1 api.yandex.ru
 127.0.0.1 api.zhuti.intl.xiaomi.com
 127.0.0.1 api.zhuti.xiaomi.com
 127.0.0.1 api.zingnews.vn
@@ -722,6 +726,8 @@
 127.0.0.1 beautyzone.cam
 127.0.0.1 beautyzone.com
 127.0.0.1 bed.fyi
+127.0.0.1 beeline.ru
+127.0.0.1 begun-sync.rutarget.ru
 127.0.0.1 beian.miit.gov.cn
 127.0.0.1 bendingspoonsapps.com
 127.0.0.1 bendingspoons.com
@@ -757,6 +763,7 @@
 127.0.0.1 blockpage.xl.co.id
 127.0.0.1 block.uzone.id
 127.0.0.1 blogblog.com
+127.0.0.1 blog.castle.io
 127.0.0.1 blog.pho.to
 127.0.0.1 bluecava.com
 127.0.0.1 bluekai.com
@@ -1114,6 +1121,7 @@
 127.0.0.1 connect.intl.rom.miui.com
 127.0.0.1 connectivitycheck.cbg-app.huawei.com
 127.0.0.1 connect-milink.g.mi.com
+127.0.0.1 connect.ok.ru
 127.0.0.1 connect.rom.miui.com
 127.0.0.1 connect.tapjoy.com
 127.0.0.1 conn-service-gl-01.allawntech.com
@@ -1140,6 +1148,7 @@
 127.0.0.1 cove-cdn.ams3.cdn.digitaloceanspaces.com
 127.0.0.1 cove.chat
 127.0.0.1 cpahero.com
+127.0.0.1 cp.betweendigital.com
 127.0.0.1 cpmstar.com
 127.0.0.1 cpn.netcoresmartech.com
 127.0.0.1 cpx.to
@@ -1163,6 +1172,7 @@
 127.0.0.1 crwdcntrl.net
 127.0.0.1 cryptauthdevicesync.googleapis.com
 127.0.0.1 cryptauthenrollment.googleapis.com
+127.0.0.1 cs14.livetex.ru
 127.0.0.1 cs491.wac.edgecastcdn.net
 127.0.0.1 cs8.wac.phicdn.net
 127.0.0.1 cs9.wac.phicdn.net
@@ -1319,6 +1329,7 @@
 127.0.0.1 diagmon-policy.samsungdm.com
 127.0.0.1 diagmon-serviceapi.samsungdm.com
 127.0.0.1 dictionary.map.fastly.net
+127.0.0.1 diffuser-cdn.app-us1.com
 127.0.0.1 digiads.co.id
 127.0.0.1 digiads.id
 127.0.0.1 digilife.uzone.id
@@ -1350,6 +1361,7 @@
 127.0.0.1 do7nu6l5erzu3.cloudfront.net
 127.0.0.1 dob5.com
 127.0.0.1 dobestapposs.uqualities.com
+127.0.0.1 docs.castle.io
 127.0.0.1 doge43tothemoon.us
 127.0.0.1 dogecointothemoon43.us
 127.0.0.1 doh.iq.com
@@ -1515,6 +1527,7 @@
 127.0.0.1 farmcityer.com
 127.0.0.1 farsroid.com
 127.0.0.1 fast.wistia.com
+127.0.0.1 favicon.yandex.net
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 fe02.lg.xiaomi.com
 127.0.0.1 feabtest.prod.tvlk-data.com
@@ -1834,6 +1847,7 @@
 127.0.0.1 htms.heytapmobile.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 htrace.wetvinfo.com
+127.0.0.1 http-check-headers.yandex.ru
 127.0.0.1 httpdns.ocloud.heytapmobi.com
 127.0.0.1 httpdns.ocloud.oppomobile.com
 127.0.0.1 httpdns-push.heytapmobile.com
@@ -1968,6 +1982,7 @@
 127.0.0.1 imgcdn.ymstatic.com
 127.0.0.1 img.connatix.com
 127.0.0.1 img.feednews.com
+127.0.0.1 img-fotki.yandex.ru
 127.0.0.1 img.go2s.co
 127.0.0.1 imgg.traffic-media.co
 127.0.0.1 img-hw.xnxx-cdn.com
@@ -2113,6 +2128,7 @@
 127.0.0.1 jfapiprod.optimonk.com
 127.0.0.1 jifo.co
 127.0.0.1 jixie.io
+127.0.0.1 jktmike.livejournal.com
 127.0.0.1 jkt-milink.market.xiaomi.com
 127.0.0.1 jmacs-m.lazada.co.id
 127.0.0.1 joinbudapp.com
@@ -2203,6 +2219,7 @@
 127.0.0.1 lan3rd.line.me
 127.0.0.1 lang-f.coloros.com
 127.0.0.1 languagef.coloros.com
+127.0.0.1 l-api.livejournal.com
 127.0.0.1 la-ucc-upaas.ucweb.com
 127.0.0.1 laucenter.ucweb.com
 127.0.0.1 launcher-us.yeshen.com
@@ -2217,6 +2234,10 @@
 127.0.0.1 lazy-tcp.rayjump.com
 127.0.0.1 lbs.like.video
 127.0.0.1 lbs.pandora.xiaomi.com
+127.0.0.1 lbs-ru1.ads.betweendigital.com
+127.0.0.1 lbs-ru2.ads.betweendigital.com
+127.0.0.1 lbs-ru3.ads.betweendigital.com
+127.0.0.1 lbs-ru4.ads.betweendigital.com
 127.0.0.1 lbs-zaizai.netease.im
 127.0.0.1 leaderboard.api.glance.inmobi.com
 127.0.0.1 leawo.org
@@ -2224,6 +2245,7 @@
 127.0.0.1 leonard.faceapp.io
 127.0.0.1 letsgoconvert.com
 127.0.0.1 letusdomino.com
+127.0.0.1 l-files.livejournal.net
 127.0.0.1 l.getsitecontrol.com
 127.0.0.1 l.gotube.pro
 127.0.0.1 libra-sg.resso.app
@@ -2232,6 +2254,7 @@
 127.0.0.1 lifymk.tistory.com
 127.0.0.1 lijit.com
 127.0.0.1 likemore-go.imgsmail.ru
+127.0.0.1 likes.services.livejournal.com
 127.0.0.1 lilistarfire.tumblr.com
 127.0.0.1 liliy9aydje10.com
 127.0.0.1 limg.imgsmail.ru
@@ -2249,6 +2272,7 @@
 127.0.0.1 livechat.com
 127.0.0.1 livechat.containers.piwik.pro
 127.0.0.1 livechatinc.com
+127.0.0.1 livejournal.naydex.net
 127.0.0.1 live.shopee.co.id
 127.0.0.1 livetech.live.shopee.co.id
 127.0.0.1 livetech.shopee.co.id
@@ -2296,6 +2320,7 @@
 127.0.0.1 loveme.uno
 127.0.0.1 lulusoft.com
 127.0.0.1 lunalabs.io
+127.0.0.1 l-userpic.livejournal.com
 127.0.0.1 lustre.ai
 127.0.0.1 m1.auto.itc.cn
 127.0.0.1 m1.daumcdn.net
@@ -2523,7 +2548,9 @@
 127.0.0.1 nat02.feelingtouch.com
 127.0.0.1 nat.cn.bucuowan.com
 127.0.0.1 nathanaeldan.pro
+127.0.0.1 nativehub.com
 127.0.0.1 nativepu.sh
+127.0.0.1 naydex.net
 127.0.0.1 nbcu.demdex.net
 127.0.0.1 ncaudienceexchange.com
 127.0.0.1 ndds001.com
@@ -2559,6 +2586,7 @@
 127.0.0.1 nflxvideo.net
 127.0.0.1 nightfallinquiredune.com
 127.0.0.1 nj.cschannel.anticheatexpert.com
+127.0.0.1 njs.services.livejournal.com
 127.0.0.1 nmnm.lol
 127.0.0.1 no-cache.hubspot.com
 127.0.0.1 nocodeflow.net
@@ -2671,6 +2699,7 @@
 127.0.0.1 o1069899.ingest.sentry.io
 127.0.0.1 o108552.ingest.sentry.io
 127.0.0.1 o13824.ingest.sentry.io
+127.0.0.1 o13855.ingest.sentry.io
 127.0.0.1 o209266.ingest.sentry.io
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 o446669.ingest.sentry.io
@@ -2743,6 +2772,7 @@
 127.0.0.1 othstr.beacon.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 ot.io.mi.com
+127.0.0.1 otm-r.com
 127.0.0.1 otnolatrnup.com
 127.0.0.1 ots.io.mi.com
 127.0.0.1 ott.io.mi.com
@@ -3008,6 +3038,7 @@
 127.0.0.1 pushwoosh.com
 127.0.0.1 pushycat.net
 127.0.0.1 px1.lifesavvy.com
+127.0.0.1 px.adhigh.net
 127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 pxksnymto.ru
 127.0.0.1 px.za.zalo.me
@@ -3042,6 +3073,8 @@
 127.0.0.1 rakam.io
 127.0.0.1 rakutenmarketing.com
 127.0.0.1 rakuten.tv
+127.0.0.1 rambler.ru
+127.0.0.1 rambler-sync.rutarget.ru
 127.0.0.1 r.apkpure.net
 127.0.0.1 rarefix.info
 127.0.0.1 ravenjs.com
@@ -3049,6 +3082,7 @@
 127.0.0.1 r.browser.miui.com
 127.0.0.1 rbux88.com
 127.0.0.1 rbxton.online
+127.0.0.1 rcmjs.rambler.ru
 127.0.0.1 rdr.mobiletime.net
 127.0.0.1 ready.whatssappa.xyz
 127.0.0.1 rebuilt.pro.ilovexclub.com
@@ -3061,6 +3095,7 @@
 127.0.0.1 rec.smartlook.com
 127.0.0.1 redirectingat.com
 127.0.0.1 redirect.networkbench.com
+127.0.0.1 reference.castle.io
 127.0.0.1 referralrock.com
 127.0.0.1 refersion.com
 127.0.0.1 refokus.com
@@ -3124,6 +3159,7 @@
 127.0.0.1 riseup.net
 127.0.0.1 risk.clearbit.com
 127.0.0.1 rkdms.com
+127.0.0.1 rmb.ops.beeline.ru
 127.0.0.1 r.mradx.net
 127.0.0.1 robinhand.vip
 127.0.0.1 robuxweb.pro
@@ -3215,6 +3251,7 @@
 127.0.0.1 samehadaku.tv
 127.0.0.1 samsappsbn.vo.llnwd.net
 127.0.0.1 samsung-callerprofile.edge.hiyaapi.com
+127.0.0.1 sandbox.ssp.rambler.ru
 127.0.0.1 sandbox.xmpush.xiaomi.com
 127.0.0.1 sapi.taptap.com
 127.0.0.1 sas-autos.com
@@ -3277,6 +3314,7 @@
 127.0.0.1 securitiai.widget.insent.ai
 127.0.0.1 security.intuit.com
 127.0.0.1 security.noxgroup.org
+127.0.0.1 seedr.com
 127.0.0.1 segment.com
 127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 selfishsnake.com
@@ -3341,6 +3379,7 @@
 127.0.0.1 shortintl.push.heytapmobile.com
 127.0.0.1 shortintl.push.oppomobile.com
 127.0.0.1 shortvideo.qiniuapi.com
+127.0.0.1 shrcnt.livejournal.net
 127.0.0.1 shreeganeshlab.co.in
 127.0.0.1 sift-creatives.s3.amazonaws.com
 127.0.0.1 simple-get.ilyon.net
@@ -3471,6 +3510,7 @@
 127.0.0.1 static.mailerlite.com
 127.0.0.1 static.messagebird.com
 127.0.0.1 static.mob.com
+127.0.0.1 static-mon.yandex.net
 127.0.0.1 static.neptunegame.com
 127.0.0.1 static.netpop.app
 127.0.0.1 static.pulse.mail.ru
@@ -3496,11 +3536,13 @@
 127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 stats.cross-orbit.com
 127.0.0.1 stats.darkreader.app
+127.0.0.1 stats.seedr.com
 127.0.0.1 stats.wp.com
 127.0.0.1 stat.tiara.tistory.com
 127.0.0.1 stat.tildacdn.com
 127.0.0.1 stat.tpns.sgp.tencent.com
 127.0.0.1 statusapi.micloud.xiaomi.net
+127.0.0.1 status.castle.io
 127.0.0.1 statwup.nimo.tv
 127.0.0.1 stat.xdplt.com
 127.0.0.1 stc-sp.zadn.vn
@@ -3536,6 +3578,7 @@
 127.0.0.1 stuart.faceapp.io
 127.0.0.1 stuck-sg.dc.oppomobile.com
 127.0.0.1 stun.ekiga.net
+127.0.0.1 stun.ssp.rambler.ru
 127.0.0.1 stup5.appmeasurements.com
 127.0.0.1 sub2unlock.com
 127.0.0.1 subscribers.com
@@ -3567,6 +3610,7 @@
 127.0.0.1 swpsvc.com
 127.0.0.1 s.xlgmedia.com
 127.0.0.1 s.xnimg.cn
+127.0.0.1 sync.dmp.otm-r.com
 127.0.0.1 sync.ecal.com
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 sync.search.spotxchange.com
@@ -3771,6 +3815,7 @@
 127.0.0.1 tools.refokus.com
 127.0.0.1 tooncoin.com
 127.0.0.1 toonme-com-cdn.ws.pho.to
+127.0.0.1 top100.ru
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 top.ge
 127.0.0.1 topgirls.uno
@@ -3826,6 +3871,7 @@
 127.0.0.1 tvpixel.com
 127.0.0.1 t.wattpad.com
 127.0.0.1 tw.bignox.com
+127.0.0.1 twemoji.maxcdn.com
 127.0.0.1 twibida.com
 127.0.0.1 twilio-cms-prod.s3.amazonaws.com
 127.0.0.1 twilio.com
@@ -3891,6 +3937,7 @@
 127.0.0.1 upoint.id
 127.0.0.1 upos-bstar1-mirrorakam.akamaized.net
 127.0.0.1 ups.ksmobile.net
+127.0.0.1 uptime-info.yandex.ru
 127.0.0.1 ur.alipay.com
 127.0.0.1 ureca.samsungapps.com
 127.0.0.1 url-fwax40fx1.com
@@ -3950,6 +3997,7 @@
 127.0.0.1 videodownloader.ummy.net
 127.0.0.1 videoeditor-sg.soloop.heytapmobile.com
 127.0.0.1 video-g.usicdn.com
+127.0.0.1 videomin.ru
 127.0.0.1 videoplayerhub.com
 127.0.0.1 videoroll.net
 127.0.0.1 videos-fms.jwpsrv.com
@@ -3967,6 +4015,7 @@
 127.0.0.1 visteme.mx
 127.0.0.1 visualwebsiteoptimizer.com
 127.0.0.1 vivo.com.cn
+127.0.0.1 vk.com
 127.0.0.1 v.lsttnews.com
 127.0.0.1 vn.bignox.com
 127.0.0.1 vnclip.net
@@ -3978,6 +4027,7 @@
 127.0.0.1 von.lol
 127.0.0.1 vor.lol
 127.0.0.1 v.pinimg.com
+127.0.0.1 vp.rambler.ru
 127.0.0.1 vps-v4.u.avcdn.net
 127.0.0.1 v.qq.com
 127.0.0.1 vs0.wshareit.com
@@ -4244,6 +4294,7 @@
 127.0.0.1 www.braze.com
 127.0.0.1 www.calconic.com
 127.0.0.1 www.carx-online.com
+127.0.0.1 www.castle.io
 127.0.0.1 www.cdnmore.com
 127.0.0.1 www.cdn.viber.com
 127.0.0.1 www.centurygames.com
@@ -4310,6 +4361,7 @@
 127.0.0.1 www.litatom.com
 127.0.0.1 www.litix.io
 127.0.0.1 www.livechat.com
+127.0.0.1 www.livejournal.com
 127.0.0.1 www.lovelybabestu.com
 127.0.0.1 www.magnite.com
 127.0.0.1 www.manbrandsonline.com
@@ -4425,6 +4477,7 @@
 127.0.0.1 x8sb.com
 127.0.0.1 x8speeder.com
 127.0.0.1 xad.com
+127.0.0.1 xc3.services.livejournal.com
 127.0.0.1 x-delivery.icu
 127.0.0.1 xdg-1c20f-intl.xd.com
 127.0.0.1 xdg-2fc4a-intl.xd.com
