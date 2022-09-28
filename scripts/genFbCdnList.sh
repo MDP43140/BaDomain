@@ -55,6 +55,7 @@ SFB_REGIONCODE=(
 	"evn"
 	"hyd"
 	"kix"
+	"kno"
 	"kul"
 	"nag"
 	"ngo"

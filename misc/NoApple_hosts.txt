@@ -29,10 +29,12 @@
 127.0.0.1 35-courier.push.apple.com
 127.0.0.1 36-courier.push.apple.com
 127.0.0.1 37-courier.push.apple.com
+127.0.0.1 37.courier-push-apple.com.akadns.net
 127.0.0.1 38-courier.push.apple.com
 127.0.0.1 39-courier.push.apple.com
 127.0.0.1 3-courier.push.apple.com
 127.0.0.1 40-courier.push.apple.com
+127.0.0.1 40.courier-push-apple.com.akadns.net
 127.0.0.1 41-courier.push.apple.com
 127.0.0.1 42-courier.push.apple.com
 127.0.0.1 43-courier.push.apple.com
@@ -43,6 +45,7 @@
 127.0.0.1 48-courier.push.apple.com
 127.0.0.1 49-courier.push.apple.com
 127.0.0.1 4-courier.push.apple.com
+127.0.0.1 4.courier-push-apple.com.akadns.net
 127.0.0.1 50-courier.push.apple.com
 127.0.0.1 52-courier.push.apple.com
 127.0.0.1 5-courier.push.apple.com
@@ -50,10 +53,12 @@
 127.0.0.1 7-courier.push.apple.com
 127.0.0.1 8-courier.push.apple.com
 127.0.0.1 9-courier.push.apple.com
+127.0.0.1 apac-asia-courier-4.push-apple.com.akadns.net
 127.0.0.1 api.smoot.apple.com
 127.0.0.1 app-site-association.cdn-apple.com
 127.0.0.1 bag.itunes.apple.com
 127.0.0.1 buy.itunes-apple.com.akadns.net
+127.0.0.1 caldav.fe.apple-dns.net
 127.0.0.1 captive.apple.com
 127.0.0.1 cf.iadsdk.apple.com
 127.0.0.1 cl1.apple.com
@@ -81,6 +86,7 @@
 127.0.0.1 gs-loc.ls-apple.com.akadns.net
 127.0.0.1 gs-loc-new.ls-apple.com.akadns.net
 127.0.0.1 gsp10-ssl.ls.apple.com
+127.0.0.1 gsp10-ssl.ls-apple.com.akadns.net
 127.0.0.1 gsp11-ssl.ls.apple.com
 127.0.0.1 gsp12-ssl.ls.apple.com
 127.0.0.1 gsp18-ssl.ls.apple.com
@@ -112,6 +118,7 @@
 127.0.0.1 gsp76-ssl.ls.apple.com
 127.0.0.1 gsp79-ssl.ls.apple.com
 127.0.0.1 gsp80-ssl.ls.apple.com
+127.0.0.1 gsp85-ssl.ls2-apple.com.akadns.net
 127.0.0.1 gsp85-ssl.ls.apple.com
 127.0.0.1 gsp99-ssl.ls.apple.com
 127.0.0.1 gsp9-ssl.ls.apple.com
@@ -141,8 +148,10 @@
 127.0.0.1 init.push.apple.com
 127.0.0.1 init.push-apple.com.akadns.net
 127.0.0.1 ipcdn.apple.com
+127.0.0.1 ipcdn-lb.apple.com.akadns.net
 127.0.0.1 iphone-ld.apple.com
 127.0.0.1 itunes.apple.com
+127.0.0.1 itunes.com
 127.0.0.1 keyvalueservice.icloud.com
 127.0.0.1 lcdn-locator.apple.com
 127.0.0.1 lcdn-locator-usms11.apple.com.akadns.net
@@ -229,6 +238,7 @@
 127.0.0.1 p46-caldav.icloud.com
 127.0.0.1 p46-escrowproxy.icloud.com
 127.0.0.1 p47-caldav.icloud.com
+127.0.0.1 p47-contacts.icloud.com
 127.0.0.1 p47-escrowproxy.icloud.com
 127.0.0.1 p48-caldav.icloud.com
 127.0.0.1 p48-escrowproxy.icloud.com
@@ -291,6 +301,7 @@
 127.0.0.1 profile.gc.apple.com
 127.0.0.1 proxy.safebrowsing.apple
 127.0.0.1 se2.itunes.apple.com
+127.0.0.1 setup.fe.apple-dns.net
 127.0.0.1 setup.icloud.com
 127.0.0.1 smp-device-content.apple.com
 127.0.0.1 static.gc.apple.com
@@ -301,5 +312,6 @@
 127.0.0.1 token.safebrowsing.apple
 127.0.0.1 weather-data.apple.com
 127.0.0.1 weather-edge.apple.com
+127.0.0.1 weather-edge.news.apple-dns.net
 127.0.0.1 www.icloud.com
 127.0.0.1 xp.apple.com

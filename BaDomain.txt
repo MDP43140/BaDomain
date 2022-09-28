@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.09.2022
+# Version: 28.09.2022
 # Update: 1 day
 #
 
@@ -108,6 +108,7 @@ a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 aa-cdn.net
 aadg.trafficmanager.net
+aaplimg.com
 a.applovin.com
 abesu.org
 aboutads.com
@@ -690,6 +691,7 @@ aws-static.snackvideo.in
 awsusor0-cdn.fds-ssl.api.xiaomi.com
 awxcdn.com
 axiata-lk-43c53a330e9-he.fortumo.io
+az.appstore.vivo.com.cn
 b1.nel.goog
 b2.mail.ru
 babyzee.uno
@@ -809,6 +811,7 @@ buxadder.club
 buy.qcloudimg.com
 buysellads.com
 by3pcor001-com.be.1drv.com
+bytel.fr
 bytemeta.vip
 c02b-wss.app.slickstream.com
 c02f.app.slickstream.com
@@ -1019,6 +1022,8 @@ c.id.mi.com
 ci.line-apps.com
 cix.line-apps.com
 ckg.hk
+cl2.g.aaplimg.com
+cl4.g.aaplimg.com
 clarity.ms
 classify.apps.coloros.com
 c.lazada.co.id
@@ -1438,6 +1443,7 @@ ec2-54-165-151-168.compute-1.amazonaws.com
 ec2-54-169-233-104.ap-southeast-1.compute.amazonaws.com
 ecal.com
 ec-api.akulaku.com
+echo-tcp-org.y5en.com
 ecommerce.iap.unity3d.com
 edgecastcdn.net
 edialog24.com
@@ -1614,6 +1620,7 @@ g0.market.mi-img.com
 g2.com
 g2crowd.com
 g4tagging.komando.com
+g.aaplimg.com
 gabrio.it
 ga.clearbit.com
 gaconnector.com
@@ -1698,6 +1705,7 @@ globalcolor-service-sg.allawnos.com
 global-data-info-sg.sausage.xd.com
 global.developer.xiaomi.com
 global-game-sg.sausage.xd.com
+global.glbtls.t.co
 globalhop.net
 global.ilovexclub.net
 global.market.xiaomi.com
@@ -2075,6 +2083,7 @@ ios.crashsight.wetest.net
 iosdl.game.xiaomi.com
 iota.cooooos.com
 ip-api.com
+ipcdn.g.aaplimg.com
 ipify.org
 ipinfo.io
 i.pinimg.com
@@ -2329,6 +2338,7 @@ m2.ai
 m2.auto.itc.cn
 m3.auto.itc.cn
 m4.auto.itc.cn
+mabbox.bytel.fr
 macworld.go-vip.net
 mademoiselleosaki.com
 magazine-api-gl.heytapmobile.com
@@ -2413,6 +2423,7 @@ memex-pa.googleapis.com
 mercusuar.uzone.id
 messagebird.com
 messaging.messagebird.com
+mesu.g.aaplimg.com
 metarouter.io
 meteor.shalltry.com
 metok.sys.miui.com
@@ -2712,6 +2723,7 @@ obus-dc20123-sg.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
 obus-sg.dc.heytapmobile.com
+ocsp2.g.aaplimg.com
 ocw.messagebird.com
 oemapi.kika-backend.com
 oem-api.palmplaystore.com
