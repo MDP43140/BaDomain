@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 28.09.2022
+# Version: 30.09.2022
 # Update: 1 day
 #
 
@@ -128,6 +128,7 @@
 127.0.0.1 accuweather-com.videoplayerhub.com
 127.0.0.1 acc.wetvinfo.com
 127.0.0.1 acegen.uno
+127.0.0.1 a-competition.api.intl.miui.com
 127.0.0.1 acs-m.lazada.co.id
 127.0.0.1 acs-m.lazada.sg
 127.0.0.1 actimg.heytapimg.com
@@ -267,6 +268,7 @@
 127.0.0.1 analytics.163.com
 127.0.0.1 analytics.churnzero.net
 127.0.0.1 analytics.nodecraft.com
+127.0.0.1 analytics.panzoid.com
 127.0.0.1 analytics.quizizz.com
 127.0.0.1 analytics.rocks
 127.0.0.1 analytics-tcp.mintegral.net
@@ -1527,6 +1529,7 @@
 127.0.0.1 ezojs.com
 127.0.0.1 f001.backblazeb2.com
 127.0.0.1 f1.g.mi.com
+127.0.0.1 factors.sofire.baidu.com
 127.0.0.1 fafa.bar
 127.0.0.1 fankui.help.sogou.com
 127.0.0.1 fans.sports.qq.com
@@ -1835,6 +1838,7 @@
 127.0.0.1 hm.e.shifen.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 hockeyapp.net
+127.0.0.1 homecash1.com
 127.0.0.1 homepage.vivo.com
 127.0.0.1 hopexos.vip
 127.0.0.1 horizonme.net
@@ -2025,6 +2029,7 @@
 127.0.0.1 in-adreq.vivoglobal.com
 127.0.0.1 in.bignox.com
 127.0.0.1 inbox.clashofclans.com
+127.0.0.1 incdopic.heytapimg.com
 127.0.0.1 increaserev.com
 127.0.0.1 increasinglycockroachpolicy.com
 127.0.0.1 indeed.com
@@ -2718,6 +2723,7 @@
 127.0.0.1 o937343.ingest.sentry.io
 127.0.0.1 o984659.ingest.sentry.io
 127.0.0.1 o.alicdn.com
+127.0.0.1 oauth.vk.com
 127.0.0.1 observe.metarouter.io
 127.0.0.1 obus-dc20123-sg.heytapmobile.com
 127.0.0.1 obus-dc2-sg.heytapmobile.com
@@ -2745,6 +2751,7 @@
 127.0.0.1 onesoft.com.vn
 127.0.0.1 onetrust.com
 127.0.0.1 onezapp.com
+127.0.0.1 onlinecash1.com
 127.0.0.1 online.fastman92.com
 127.0.0.1 online.lenzmx.com
 127.0.0.1 opc.cloud.tencent.com
@@ -3163,6 +3170,7 @@
 127.0.0.1 revolvermaps.com
 127.0.0.1 rewards-cards.org
 127.0.0.1 rhaxpy.com
+127.0.0.1 richapp1.com
 127.0.0.1 r-id.ls.glanceapis.com
 127.0.0.1 rilds.com
 127.0.0.1 rindu.plus
@@ -4145,6 +4153,7 @@
 127.0.0.1 wnskg.qq.com
 127.0.0.1 wondershare.cc
 127.0.0.1 wootric.com
+127.0.0.1 workonline1.com
 127.0.0.1 wpadmngr.com
 127.0.0.1 wp.pl
 127.0.0.1 wpvip.com
@@ -4353,6 +4362,7 @@
 127.0.0.1 www.helpscout.net
 127.0.0.1 www.higgsslotgame.com
 127.0.0.1 www.hippoobox.com
+127.0.0.1 www.homecash1.com
 127.0.0.1 www.hopexos.vip
 127.0.0.1 www.hwclouds-dns.com
 127.0.0.1 www.iconsdb.com
@@ -4393,6 +4403,7 @@
 127.0.0.1 www.newsagent.quest
 127.0.0.1 www.newsforward.quest
 127.0.0.1 www.noxinfluencer.com
+127.0.0.1 www.onlinecash1.com
 127.0.0.1 www.palmpal.net
 127.0.0.1 www.palmpay.com
 127.0.0.1 www.pdl.id
@@ -4407,6 +4418,7 @@
 127.0.0.1 www.refokus.com
 127.0.0.1 www.requesteasy.com
 127.0.0.1 www.rewards-cards.org
+127.0.0.1 www.richapp1.com
 127.0.0.1 www.robinhand.vip
 127.0.0.1 www.rollbit.com
 127.0.0.1 www.roobet.com
@@ -4464,6 +4476,7 @@
 127.0.0.1 www.wlvpn.com
 127.0.0.1 www.wmtransfer.com
 127.0.0.1 www.womenforlove.net
+127.0.0.1 www.workonline1.com
 127.0.0.1 www.wp.pl
 127.0.0.1 www.wshareit.com
 127.0.0.1 www.wuildit.com

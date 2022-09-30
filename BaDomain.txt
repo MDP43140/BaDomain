@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 28.09.2022
+# Version: 30.09.2022
 # Update: 1 day
 #
 
@@ -128,6 +128,7 @@ account.xiaomi.com
 accuweather-com.videoplayerhub.com
 acc.wetvinfo.com
 acegen.uno
+a-competition.api.intl.miui.com
 acs-m.lazada.co.id
 acs-m.lazada.sg
 actimg.heytapimg.com
@@ -267,6 +268,7 @@ amplitude.com
 analytics.163.com
 analytics.churnzero.net
 analytics.nodecraft.com
+analytics.panzoid.com
 analytics.quizizz.com
 analytics.rocks
 analytics-tcp.mintegral.net
@@ -1527,6 +1529,7 @@ ezoic.net
 ezojs.com
 f001.backblazeb2.com
 f1.g.mi.com
+factors.sofire.baidu.com
 fafa.bar
 fankui.help.sogou.com
 fans.sports.qq.com
@@ -1835,6 +1838,7 @@ hm.baidu.com
 hm.e.shifen.com
 hmma.baidu.com
 hockeyapp.net
+homecash1.com
 homepage.vivo.com
 hopexos.vip
 horizonme.net
@@ -2025,6 +2029,7 @@ impulse.forkcdn.com
 in-adreq.vivoglobal.com
 in.bignox.com
 inbox.clashofclans.com
+incdopic.heytapimg.com
 increaserev.com
 increasinglycockroachpolicy.com
 indeed.com
@@ -2718,6 +2723,7 @@ o64315.ingest.sentry.io
 o937343.ingest.sentry.io
 o984659.ingest.sentry.io
 o.alicdn.com
+oauth.vk.com
 observe.metarouter.io
 obus-dc20123-sg.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
@@ -2745,6 +2751,7 @@ onesignal.com
 onesoft.com.vn
 onetrust.com
 onezapp.com
+onlinecash1.com
 online.fastman92.com
 online.lenzmx.com
 opc.cloud.tencent.com
@@ -3163,6 +3170,7 @@ reveal.clearbit.com
 revolvermaps.com
 rewards-cards.org
 rhaxpy.com
+richapp1.com
 r-id.ls.glanceapis.com
 rilds.com
 rindu.plus
@@ -4145,6 +4153,7 @@ wns.kg.qq.com
 wnskg.qq.com
 wondershare.cc
 wootric.com
+workonline1.com
 wpadmngr.com
 wp.pl
 wpvip.com
@@ -4353,6 +4362,7 @@ www.helpscout.com
 www.helpscout.net
 www.higgsslotgame.com
 www.hippoobox.com
+www.homecash1.com
 www.hopexos.vip
 www.hwclouds-dns.com
 www.iconsdb.com
@@ -4393,6 +4403,7 @@ www.narratorsvoice.com
 www.newsagent.quest
 www.newsforward.quest
 www.noxinfluencer.com
+www.onlinecash1.com
 www.palmpal.net
 www.palmpay.com
 www.pdl.id
@@ -4407,6 +4418,7 @@ www.rayjump.com
 www.refokus.com
 www.requesteasy.com
 www.rewards-cards.org
+www.richapp1.com
 www.robinhand.vip
 www.rollbit.com
 www.roobet.com
@@ -4464,6 +4476,7 @@ www.webovernet.com
 www.wlvpn.com
 www.wmtransfer.com
 www.womenforlove.net
+www.workonline1.com
 www.wp.pl
 www.wshareit.com
 www.wuildit.com
