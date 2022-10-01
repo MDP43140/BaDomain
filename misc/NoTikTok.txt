@@ -1010,8 +1010,11 @@ gppg-sg.byteintl.com
 grafana-boe.byted.org
 grelationship-sg.snssdk.com
 growingio.com
+gsdk19-va.bytegsdk.com
+gsdk-quic-gcp-va.bytegsdk.com
 gsdk.sgsnssdk.com
 gsdk.snssdk.com
+gsdk-va.bytegsdk.com
 gs-sin-api1.l.byteoversea.net
 gss-us1.bytetcdn.com
 gtfac.byteoversea.com

@@ -1010,8 +1010,11 @@
 127.0.0.1 grafana-boe.byted.org
 127.0.0.1 grelationship-sg.snssdk.com
 127.0.0.1 growingio.com
+127.0.0.1 gsdk19-va.bytegsdk.com
+127.0.0.1 gsdk-quic-gcp-va.bytegsdk.com
 127.0.0.1 gsdk.sgsnssdk.com
 127.0.0.1 gsdk.snssdk.com
+127.0.0.1 gsdk-va.bytegsdk.com
 127.0.0.1 gs-sin-api1.l.byteoversea.net
 127.0.0.1 gss-us1.bytetcdn.com
 127.0.0.1 gtfac.byteoversea.com

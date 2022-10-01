@@ -39,7 +39,6 @@ a.c93eb87839c6be3faf4eec1c4863e043791e3b4c9c40a159812fbc6a.com
 acckwmhi.com
 acircle.vip
 acs.maribacaberita.com
-activedating-24.online
 ad1.xiaomi.com
 ad4.flurry.com
 a.ddc9cb23b6a722f25e78d6979e128d4967e9dfed1506971405cc4845.com
@@ -92,7 +91,6 @@ api.aurogon.intl.miui.com
 api.chat.xiaomi.net
 api.cleanmaster.club
 api.faceapp.ai
-api.like-it.video
 api.meditation.oneboost.me
 api.mobilesearchers.com
 api-setting-intl-miui-com-59771552.ap-south-1.elb.amazonaws.com
@@ -115,7 +113,6 @@ a-techsolutions.us
 att-citrix.com
 atwola.com
 au.umeng.com
-ava-cdn.like-it.video
 avcdn.net
 avlyun.com
 avlyun.sec.miui.com
@@ -128,7 +125,6 @@ basket2.xyz
 bdapi-f.ads.heytapmobi.com
 bdapi-f.ads.heytapmobile.com
 bdysite.com
-be01.hh.xiaomi.com
 beacon-fra1.rubiconproject.com
 beacon.page
 beian.gov.cn
@@ -178,7 +174,6 @@ cipro.ms
 ckmvkzurnd.com
 cleanmaster.club
 clock.ad.xiaomi.com
-cloudcf.like-it.video
 cloudflare-okta.com
 cloudfront.net
 cloudops.mozgcp.net
@@ -189,7 +184,6 @@ cnnx.io
 cnyhyl.cn
 cognitivlabs.com
 coin.baca.co.id
-coinbasesj.vip
 collector-playground.lunalabs.uk
 company-target.com
 comsecurityessentials.support
@@ -239,7 +233,6 @@ dot.iq.com
 download.get-report.site
 dspunion.com
 dt2lb.madfingergames.com
-dts.like-it.video
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 easymakesolution.com
 eb1f496297bccfe372065b770b4089c85356073772b9a425a81ec241.com
@@ -248,6 +241,7 @@ ecs-110-238-109-184.compute.hwclouds-dns.com
 embedcdn.com
 emebo.io
 engine.fyber.com
+englory.net
 epdg.epc.mnc001.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
 epdg.epc.mnc011.mcc510.pub.3gppnetwork.org
@@ -275,12 +269,6 @@ focus-img.cn
 focus-res.cn
 foddylearn.com
 food.uzone.id
-foreprojects.webedge.com.ng
-forex-digitalcurrencies.com
-forgecdn.net
-forkcdn.com
-fortumo.io
-fpcs-prod-wf.centurygames.com
 franchise.minecraft-services.net
 fraudjs.io
 from.pandora.xiaomi.com
@@ -295,10 +283,7 @@ fuseplatform.net
 fyber-static.com
 galleryjs.io
 game.bignox.com
-garagewestrotterdam.nl
 gate.hockeyapp.net
-gbvm.nl
-gcmapi.like-it.video
 gd.xjke.xyz
 germs-love.store
 getduckduckgo.com
@@ -313,7 +298,6 @@ gmnovietnam.vn
 go2speed.org
 go-mpulse.net
 googleclubstore.com
-google.com.onion
 googletagservices.com
 gov.cn
 gpoint.com.gr
@@ -390,6 +374,7 @@ ipv4.koula.testdebit.info
 iqzgqivb.com
 iresearch.vip
 ir.sogou.com
+isdspeed.qq.com
 isprog.com
 iteldrive.com
 i.ua-passport.space
@@ -408,13 +393,11 @@ kompasads.com
 krxd.net
 ks-sgp-origin-pull.snackvideo.in
 kucoin-sso.com
-lapaksebelahh.com
 leonard.faceapp.ai
 lg-bgp.pandora.xiaomi.com
 liadm.com
 licdn.com
 likeitlite.com
-like-it.video
 line-scdn.net
 linksynergy.com
 listdl.com
@@ -427,10 +410,8 @@ lmiutil.com
 localdate.monster
 log.bignox.com
 logicbuy.com
-lordofthequietbadgers.com
 lr-ingest.io
 ls.glanceapis.com
-l-shrcnt.livejournal.net
 mabbox.bytel.fr
 mail.bignox.com
 mailchimp-help.com
@@ -456,7 +437,6 @@ m.mobilesearchers.com
 mobile.bignox.com
 mobiletime.net
 mobile.webvisor.com
-mookie1.com
 morungato.space
 mozaws.net
 mozgcp.net
@@ -481,7 +461,7 @@ newsmag.danielolayinkas.com
 news.uzone.id
 next.get-report.site
 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
-nitrokod-inc-google-translate-desktop.en.uptodown.com
+nian9.win
 node-01-ipv6.faceapp.ai
 northpoleitalia.it
 notifa.info
@@ -497,13 +477,11 @@ nvidiacenter.com
 oca.nflxvideo.net
 office.net
 ogtrk.net
-omnithrottle.com
 omtrdc.net
 ondigitalocean.app
 oneboost.me
 onebox.api.zhuti.n.xiaomi.com
 onebox.market.n.xiaomi.com
-onnanoko.tokyo
 open.bignox.com
 open-vip.bmob.cn
 openx.net
@@ -511,12 +489,10 @@ oppo-kz.custhelp.com
 order.music.xiaomi.com
 orxhacks.com
 os-code.shalltry.com
-oslab.shalltry.com
 os-notice.shalltry.com
 ostrichesica.com
 osupdate.shalltry.com
 owneriq.net
-ozap.bar
 p01.notifa.info
 p02.notifa.info
 p03.notifa.info
@@ -554,7 +530,6 @@ pressablecdn.com
 printertechnicahelp.com
 privacy-center.org
 privacy-mgmt.com
-private-da8bd3-funapi6.apiary-mock.com
 prod.cloudops.mozgcp.net
 prod.mozaws.net
 pro.ilovexclub.com
@@ -568,6 +543,7 @@ push.heytapmobile.com
 pushpromjs.messagebird.com
 pxf.io
 qbox.me
+qhimg.com
 qiniuapi.com
 qms.quicinc.com
 quantserve.com
@@ -582,7 +558,6 @@ rbxr.monster
 rebuilt.pro.ilovexclub.net
 redventures.io
 reikoo.uno
-relation.like-it.video
 report.yukbacaberita.com
 res12.bignox.com
 resso.me
@@ -645,13 +620,10 @@ ssp.ad.xiaomi.com
 stackpathcdn.com
 staging.market.n.xiaomi.com
 static.baca.co.id
-static.like-it.video
 static.mibi.xiaomi.com
 stat.xiaomi.com
 st.bignox.com
-st.like-it.video
 stuart.faceapp.ai
-subscription.omnithrottle.com
 sumo.mozit.cloud
 svc-cf.samsungdm.com
 sweet-girls18.com
@@ -659,6 +631,7 @@ swiftkey-android.iris.touchtype-fluency.com
 swiftypecdn.com
 syszalive.uksouth.cloudapp.azure.com
 tads.mobadvent.com
+tajs.qq.com
 tc.hd.xiaomi.com
 tdsjsext3.com
 tel.fe01.hh.xiaomi.com
@@ -698,7 +671,6 @@ ua-passport.space
 ubembed.com
 ugo.com
 uksouth.cloudapp.azure.com
-u.like-it.video
 unauthorized.bignox.com
 update.bokts.com
 usearch.co.id
@@ -733,10 +705,8 @@ vor.monster
 vpdcp.com
 vps.myjino.ru
 vpsvc.com
-vs-api.like-it.video
 vskitcdn.com
 vskit.tv
-vyn.fyi
 vzwcorp.co
 w55c.net
 waisstore.com
@@ -745,7 +715,6 @@ wcmbqxzeuopnvyfmhkstaretfciywdrl.name
 wdfl.co
 weatherapi.market.xiaomi.coma.stat.xiaomi.com
 web.likeitlite.com
-web.like-it.video
 website-files.com
 webullfintech.com
 wells-fargo-support-online-information.com
@@ -772,7 +741,6 @@ www.everyavenuetravel.site
 www.foddylearn.com
 www.ftblltrck.com
 www.furnitureshopone.us
-www.garagewestrotterdam.nl
 www.glamorousfeeds.com
 www.globalnews.cloud
 www.intuitcdn.net
@@ -796,7 +764,6 @@ www.tissat.us
 www.u-ad.info
 www.usearch.co.id
 www.vob.fyi
-www.vyn.fyi
 www.website-files.com
 www.wuueqejuratzdz.com
 www.xapoapp.com
@@ -823,7 +790,6 @@ xuicy.me
 xx18like.uno
 yaka.stream.kg.qq.com
 ykxipfcg.com
-ylx-aff.advertica-cdn.com
 yomani.vip
 younggirls.today
 youngunt.online
