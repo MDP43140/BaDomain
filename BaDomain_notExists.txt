@@ -3,7 +3,7 @@
 # Already scanned with scripts/checkDomains.sh
 # That did'nt found any results
 # They might be still there. If you spot any of these domains
-# having actual IP attached, please make a new issue
+# having actual IP attached, please make a new issue (or pr?)
 #
 
 18cams.xyz
@@ -288,6 +288,7 @@ gd.xjke.xyz
 germs-love.store
 getduckduckgo.com
 get-report.site
+ggsupport.com
 glanceapis.com
 glass3.xyz
 glb.samsung-gamelauncher.com
@@ -363,6 +364,7 @@ ind65.notesbook.in
 indexww.com
 infeng.site
 info.bignox.com
+info.malidili.com
 ingest.sentry.io
 intellimize.co
 intercomassets.com
@@ -415,6 +417,7 @@ ls.glanceapis.com
 mabbox.bytel.fr
 mail.bignox.com
 mailchimp-help.com
+malidili.com
 mamsolutions.us
 mamsolution.us
 mapi.langitmusik.com
@@ -429,6 +432,7 @@ metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
 metric.gstatic.com
 micloud.xiaomi.net
+microsoftfile.ml
 midasplayer.com
 mi-img.com
 miit.gov.cn
@@ -749,6 +753,7 @@ www.livechat.comwww.livechat.com
 www.mainlytrendy.com
 www.mamsolutions.us
 www.mamsolution.us
+www.microsoftfile.ml
 www.nathanaeldan.pro
 www.netsecurity-essential.com
 www.notifa.info

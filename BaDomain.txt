@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 01.10.2022
+# Version: 04.10.2022
 # Update: 1 day
 #
 
@@ -983,6 +983,7 @@ cdn.scooper.news
 cdn-sdk.aihelp.net
 cdn.segment.com
 cdn.shalltry.com
+cdn.shareaholic.net
 cdns.klimg.com
 cdn.slidesharecdn.com
 cdn.snigelweb.com
@@ -1468,6 +1469,7 @@ ecal.com
 ec-api.akulaku.com
 echo-tcp-org.y5en.com
 ecommerce.iap.unity3d.com
+ecommerce.nanosystems.it
 edgecastcdn.net
 edialog24.com
 editmysite.com
@@ -2609,6 +2611,7 @@ nadaring.mademoiselleosaki.com
 nagios.dreamvps.com
 na.glbtls.t.co
 nanorep.co
+nanosystems.it
 narrativ.com
 narratorsvoice.com
 nat02.feelingtouch.com
@@ -3692,6 +3695,8 @@ support.bignox.com
 support.jwplayer.com
 support.weixin.qq.com
 support.yeshen.com
+supremocontrol.com
+supremofree.com
 surfing-waves.com
 survey.bignox.com
 surveys-static.survicate.com
@@ -4527,6 +4532,8 @@ www.spanishcoursesunamuno.com
 www.stagingapps.xyz
 www.stake.com
 www.steveziogames.com
+www.supremocontrol.com
+www.supremofree.com
 www.taobao.com
 www.tap.io
 www.tappx.com

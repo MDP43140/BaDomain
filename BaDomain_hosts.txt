@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 01.10.2022
+# Version: 04.10.2022
 # Update: 1 day
 #
 
@@ -983,6 +983,7 @@
 127.0.0.1 cdn-sdk.aihelp.net
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdn.shalltry.com
+127.0.0.1 cdn.shareaholic.net
 127.0.0.1 cdns.klimg.com
 127.0.0.1 cdn.slidesharecdn.com
 127.0.0.1 cdn.snigelweb.com
@@ -1468,6 +1469,7 @@
 127.0.0.1 ec-api.akulaku.com
 127.0.0.1 echo-tcp-org.y5en.com
 127.0.0.1 ecommerce.iap.unity3d.com
+127.0.0.1 ecommerce.nanosystems.it
 127.0.0.1 edgecastcdn.net
 127.0.0.1 edialog24.com
 127.0.0.1 editmysite.com
@@ -2609,6 +2611,7 @@
 127.0.0.1 nagios.dreamvps.com
 127.0.0.1 na.glbtls.t.co
 127.0.0.1 nanorep.co
+127.0.0.1 nanosystems.it
 127.0.0.1 narrativ.com
 127.0.0.1 narratorsvoice.com
 127.0.0.1 nat02.feelingtouch.com
@@ -3692,6 +3695,8 @@
 127.0.0.1 support.jwplayer.com
 127.0.0.1 support.weixin.qq.com
 127.0.0.1 support.yeshen.com
+127.0.0.1 supremocontrol.com
+127.0.0.1 supremofree.com
 127.0.0.1 surfing-waves.com
 127.0.0.1 survey.bignox.com
 127.0.0.1 surveys-static.survicate.com
@@ -4527,6 +4532,8 @@
 127.0.0.1 www.stagingapps.xyz
 127.0.0.1 www.stake.com
 127.0.0.1 www.steveziogames.com
+127.0.0.1 www.supremocontrol.com
+127.0.0.1 www.supremofree.com
 127.0.0.1 www.taobao.com
 127.0.0.1 www.tap.io
 127.0.0.1 www.tappx.com

@@ -1556,6 +1556,7 @@ mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mcs.zijieapi.com
 media.tiktok.com
+mediation.pangle.io
 mercury-sdk.snssdk.com
 mercury.snssdk.com
 mercury-vivo.snssdk.com

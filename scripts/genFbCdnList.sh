@@ -7,11 +7,11 @@
 
 ## Configuration ##
 #
-# Combinations (+ = Added, - Not added yet):
-# + ("external.f",  "ALL", "fna.fbcdn.net")
-# + ("instagram.f", "ALL", "fna.fbcdn.net")
-# + ("scontent.f",  "ALL", "fna.fbcdn.net")
-# + ("media.f",			"ALL", "fna.whatsapp.net")
+# Combinations (+ = Added, - Not added yet, !ALL = not all is scanned/outdated):
+# + ("external.f",  "!ALL", "fna.fbcdn.net")
+# + ("instagram.f", "!ALL", "fna.fbcdn.net")
+# + ("scontent.f",  "!ALL", "fna.fbcdn.net")
+# + ("media.f",			"!ALL", "fna.whatsapp.net")
 # - ("scontent-",		"ALL", "fna.fbcdn.net")
 # - ("scontent-",		"ALL", "xx.fbcdn.net")
 # - ("scontent-",		"ALL", "cdninstagram.com")
@@ -61,6 +61,7 @@ SFB_REGIONCODE=(
 	"ngo"
 	"pen"
 	"pku"
+	"plm"
 	"sea"
 	"sin"
 )

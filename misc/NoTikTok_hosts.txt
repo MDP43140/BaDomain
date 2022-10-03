@@ -1556,6 +1556,7 @@
 127.0.0.1 mcs-va-useast2a.tiktokv.com
 127.0.0.1 mcs.zijieapi.com
 127.0.0.1 media.tiktok.com
+127.0.0.1 mediation.pangle.io
 127.0.0.1 mercury-sdk.snssdk.com
 127.0.0.1 mercury.snssdk.com
 127.0.0.1 mercury-vivo.snssdk.com

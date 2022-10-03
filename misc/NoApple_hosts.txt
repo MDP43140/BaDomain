@@ -240,6 +240,7 @@
 127.0.0.1 p47-caldav.icloud.com
 127.0.0.1 p47-contacts.icloud.com
 127.0.0.1 p47-escrowproxy.icloud.com
+127.0.0.1 p47-fmfmobile.icloud.com
 127.0.0.1 p48-caldav.icloud.com
 127.0.0.1 p48-escrowproxy.icloud.com
 127.0.0.1 p49-caldav.icloud.com
