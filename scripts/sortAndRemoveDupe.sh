@@ -4,7 +4,7 @@
 #  this script filters comments, sorting and removing dupes, and puts the comment back, and optionally update the version date (optimized for hosts file)
 #
 
-if [ -f $1.txt ] && [ ! -f $1.txt.old ];then
+if [ -f $1.txt -a ! -f $1.txt.old ];then
 	echo -en "\r[i] Appending all comments to $1.tx2 before continuing...\e[0K"
 	cat $1.txt | grep "^ *#" | sed -r 's/^ *# Version: [0-9]{2}\.[0-9]{2}\.[0-9]{2,4}/# Version: '$(date +%d.%m.%Y)'/i' > $1.tx2
 	echo -en "\r[i] Removing dupes...\e[0K"

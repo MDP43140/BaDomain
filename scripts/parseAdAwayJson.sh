@@ -4,7 +4,7 @@
 #  Extracts blocked domain lists from AdAway exported JSON file
 #
 
-clear
+clear;
 cat $1 \
  | sed -r 's/^[ \t]+|[ \t]+$//g' \
  | sed -r '/\"(enabled|allow|redirect)\"\: (true|false)/d' \
