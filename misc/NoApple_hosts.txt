@@ -1,3 +1,4 @@
+
 127.0.0.1 0-courier.push.apple.com
 127.0.0.1 10-courier.push.apple.com
 127.0.0.1 11-courier.push.apple.com
@@ -18,6 +19,7 @@
 127.0.0.1 25-courier.push.apple.com
 127.0.0.1 26-courier.push.apple.com
 127.0.0.1 27-courier.push.apple.com
+127.0.0.1 27.courier-push-apple.com.akadns.net
 127.0.0.1 28-courier.push.apple.com
 127.0.0.1 29-courier.push.apple.com
 127.0.0.1 2-courier.push.apple.com
@@ -55,6 +57,7 @@
 127.0.0.1 9-courier.push.apple.com
 127.0.0.1 apac-asia-courier-4.push-apple.com.akadns.net
 127.0.0.1 api.smoot.apple.com
+127.0.0.1 apple.com.v.aaplimg.com
 127.0.0.1 app-site-association.cdn-apple.com
 127.0.0.1 bag.itunes.apple.com
 127.0.0.1 buy.itunes-apple.com.akadns.net
@@ -76,7 +79,9 @@
 127.0.0.1 configuration.apple.com.edgekey.net
 127.0.0.1 configuration.ls.apple.com
 127.0.0.1 courier2.push.apple.com
+127.0.0.1 dns.apple.com.v.aaplimg.com
 127.0.0.1 doh.dns.apple.com
+127.0.0.1 doh.dns.apple.com.v.aaplimg.com
 127.0.0.1 fbs.smoot.apple.com
 127.0.0.1 fides-pol.apple.com
 127.0.0.1 gateway.icloud.com
@@ -298,6 +303,7 @@
 127.0.0.1 p98-caldav.icloud.com
 127.0.0.1 p98-escrowproxy.icloud.com
 127.0.0.1 pancake.apple.com
+127.0.0.1 pancake.cdn-apple.com.akadns.net
 127.0.0.1 partiality.itunes.apple.com
 127.0.0.1 profile.gc.apple.com
 127.0.0.1 proxy.safebrowsing.apple

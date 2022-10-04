@@ -18,6 +18,7 @@
 25-courier.push.apple.com
 26-courier.push.apple.com
 27-courier.push.apple.com
+27.courier-push-apple.com.akadns.net
 28-courier.push.apple.com
 29-courier.push.apple.com
 2-courier.push.apple.com
@@ -55,6 +56,7 @@
 9-courier.push.apple.com
 apac-asia-courier-4.push-apple.com.akadns.net
 api.smoot.apple.com
+apple.com.v.aaplimg.com
 app-site-association.cdn-apple.com
 bag.itunes.apple.com
 buy.itunes-apple.com.akadns.net
@@ -76,7 +78,9 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration.ls.apple.com
 courier2.push.apple.com
+dns.apple.com.v.aaplimg.com
 doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
 fbs.smoot.apple.com
 fides-pol.apple.com
 gateway.icloud.com
@@ -298,6 +302,7 @@ p97-escrowproxy.icloud.com
 p98-caldav.icloud.com
 p98-escrowproxy.icloud.com
 pancake.apple.com
+pancake.cdn-apple.com.akadns.net
 partiality.itunes.apple.com
 profile.gc.apple.com
 proxy.safebrowsing.apple

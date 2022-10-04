@@ -28,6 +28,7 @@ a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
 a.9838c153324104ebd01be4ed325f374f9845449f97a9998d179005fe.com
 aadg.akadns.net
 a.ak.prd.aadg.trafficmanager.net
+aaplimg.com
 aaxads.com
 a.b21239b48c28b76ab0fadd9390384ca24cfcd6a986907259ad0b9967.com
 abcsport3.com
@@ -178,6 +179,8 @@ cloudflare-okta.com
 cloudfront.net
 cloudops.mozgcp.net
 cmh01.justin.tv
+cnam3.com
+cnbj3-fusion.fds.api.xiaomi.com
 cnc.fe01.lg.xiaomi.com
 cnevids.com
 cnnx.io
@@ -220,6 +223,7 @@ demo.mipunet.cn
 detectportal.prod.cloudops.mozgcp.net
 dev.driftt.com
 developers.google.com.hk
+dirtbox.host
 dkyweipsds.com
 dlg.io.mi.com
 dlmate18.xyz
@@ -231,6 +235,7 @@ dns.jomax.net
 dns.oppomobile.com
 dot.iq.com
 download.get-report.site
+download-portal.net
 dspunion.com
 dt2lb.madfingergames.com
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
@@ -431,6 +436,7 @@ mercusuar.u-zone.id
 metok-ccc.intl.xiaomi.com
 metok.intl.xiaomi.com
 metric.gstatic.com
+mfcewkrob.com
 micloud.xiaomi.net
 microsoftfile.ml
 midasplayer.com
@@ -497,6 +503,7 @@ os-notice.shalltry.com
 ostrichesica.com
 osupdate.shalltry.com
 owneriq.net
+ozwvd.com
 p01.notifa.info
 p02.notifa.info
 p03.notifa.info
@@ -542,6 +549,7 @@ pro.kikakeyboard.com
 pro-market.net
 pubmine.com
 pub.network
+puscomosca.com
 push.apple.com
 push.heytapmobile.com
 pushpromjs.messagebird.com
@@ -618,6 +626,7 @@ spacex.plus
 splash.unity.com
 sp-prod.net
 ssacdn.com
+ssl-cdn.static.browser.mi-img.com
 ssl-images-amazon.com
 ssp-39f58.trnox.com
 ssp.ad.xiaomi.com
@@ -685,6 +694,7 @@ usicdn.com
 u-zone.id
 v3.mercusuar.u-zone.id
 v3.mercusuar.uzone.id
+v.aaplimg.com
 vagenor.space
 vaw.fy
 vaw.fyi
