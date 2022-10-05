@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 04.10.2022
+# Version: 05.10.2022
 # Update: 1 day
 #
 
@@ -407,6 +407,7 @@ api.iq.com
 api.isharingapp.com
 api.jetengine.be
 api.joinbudapp.com
+api.kastking.top
 api.kika-backend.com
 api.kuaishouzt.com
 api.kwai.com
@@ -427,6 +428,7 @@ api-new.bignox.com
 api-notice.kinemasters.com
 api.noxinfluencer.com
 api.olmusic.xyz
+api.optimumlines.com
 api.os.mob.com
 api.owxd.xyz
 api.pa1mstore.com
@@ -824,12 +826,14 @@ captive.g.aaplimg.com
 carbonads.com
 cardboard.ge
 cardgen.uno
+caren.live
 carlcare.com
 carrers.pho.to
 car.weixin.qq.com
 carx-online.com
 casalemedia.com
 cashend.me
+catbox.moe
 cbs.wondershare.com
 cc.163.com
 c.cnzz.com
@@ -1523,6 +1527,7 @@ fid.agkn.com
 filehelper.weixin.qq.com
 filehostpro.xyz
 filelink.ru
+files.catbox.moe
 files.webmoney.ru
 filmmogzivota.rs
 financialtrending.com
@@ -1957,6 +1962,7 @@ img-hw.xvideos-cdn.com
 img.imgsmail.ru
 img-intl-push.heytapimg.com
 imgix.net
+img.kastking.top
 img-l3.xnxx-cdn.com
 img.linkxw.com
 img-music.heytapimage.com
@@ -2139,6 +2145,7 @@ kantora.ge
 k-api.kwai-pro.com
 k-api.kwaipros.com
 kargo.com
+kastking.top
 kayumanis.detik.com
 kepler.51y5.net
 kepler.y5en.com
@@ -2187,6 +2194,7 @@ lang-f.coloros.com
 languagef.coloros.com
 lapaksebelahh.com
 l-api.livejournal.com
+lar83.s3.amazonaws.com
 la-ucc-upaas.ucweb.com
 laucenter.ucweb.com
 launcher-us.yeshen.com
@@ -2725,6 +2733,7 @@ optad360.io
 optaim.com
 optimizationguide-pa.googleapis.com
 optimonk.com
+optimumlines.com
 orangeclickmedia.com
 orange-dc.lazada.com
 os-aibox.shalltry.com
@@ -4180,8 +4189,10 @@ www.boomplay.com
 www.boomplaymusic.com
 www.braze.com
 www.calconic.com
+www.caren.live
 www.carx-online.com
 www.castle.io
+www.catbox.moe
 www.cdnmore.com
 www.cdn.viber.com
 www.centurygames.com
@@ -4242,6 +4253,7 @@ www.jpush.io
 www.jwplayer.com
 www.jwshowcase.com
 www.kagaitiktok.net
+www.kastking.top
 www.king.com
 www.kustens.com
 www.letucook.com
@@ -4271,6 +4283,7 @@ www.newsagent.quest
 www.newsforward.quest
 www.noxinfluencer.com
 www.onlinecash1.com
+www.optimumlines.com
 www.palmpal.net
 www.palmpay.com
 www.pdl.id
