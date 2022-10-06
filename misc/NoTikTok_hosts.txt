@@ -1783,6 +1783,7 @@
 0.0.0.0 p16b.tiktokcdn.com.edgesuite.net
 0.0.0.0 p16-capcut-sg.ibyteimg.com
 0.0.0.0 p16-capcut-sg.ibyteimg.com.edgesuite.net
+0.0.0.0 p16-capcut-sign-sg.ibyteimg.com
 0.0.0.0 p16-capcut-va.ibyteimg.com
 0.0.0.0 p16-capcut-va.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-cg-gaudit.ibyteimg.com
@@ -2295,6 +2296,7 @@
 0.0.0.0 pull-flv-f6-xg.bytecdn.cn
 0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
 0.0.0.0 pull-flv-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-tt02.fcdn.us.tiktokv.com
 0.0.0.0 pull-flv-f77-va01.tiktokcdn.com
 0.0.0.0 pull-flv-l10-gcp01.tiktokcdn.com
 0.0.0.0 pull-flv-l10-sg01.tiktokcdn.com
@@ -2421,6 +2423,7 @@
 0.0.0.0 pull-rtmp-f1-xg.bytecdn.cn
 0.0.0.0 pull-rtmp-f6-hs.pstatp.com
 0.0.0.0 pull-rtmp-f6-xg.bytecdn.cn
+0.0.0.0 pull-rtmp-l10-gcp01.tiktokcdn.com
 0.0.0.0 pull-rtmp-l10-sg01.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11-gcp01.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11-gcp01.ttlivecdn.com
@@ -2429,6 +2432,8 @@
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11-va01.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11-va01.ttlivecdn.com
+0.0.0.0 pull-rtmp-l16-gcp01.tiktokcdn.com
+0.0.0.0 pull-rtmp-l16-tt01.tiktokcdn-us.com
 0.0.0.0 pull-rtmp-l16-va01.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1-gcp01.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1-gcp01.ttlivecdn.com
@@ -2442,6 +2447,7 @@
 0.0.0.0 pull-rtmp-l1-va01.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1-va01.ttlivecdn.com
 0.0.0.0 pull-rtmp-l1-xg.bytecdn.cn
+0.0.0.0 pull-rtmp-l6-act.pstatp.com
 0.0.0.0 pull-rtmp-l6-hs.pstatp.com
 0.0.0.0 pull-rtmp-l6-xg.bytecdn.cn
 0.0.0.0 pull-source-cmaf-f5.hypstarcdn.com
@@ -2452,6 +2458,10 @@
 0.0.0.0 pull-w5-va01.tiktokcdn.com
 0.0.0.0 push-fcdn-base-oversea.s.worldfcdn.com
 0.0.0.0 push-fcdn.bytecdn.cn
+0.0.0.0 push-fcdn-self-oversea.s.bytetcdn.com
+0.0.0.0 push-flv-f11.tiktokcdn.liveplay.myqcloud.com
+0.0.0.0 push-hls-f11.tiktokcdn.liveplay.myqcloud.com
+0.0.0.0 push-rtmp-f11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 push-rtmp-f5-ab.tiktokcdn.com
 0.0.0.0 push-rtmp-f5-gcp01.tiktokcdn.com
 0.0.0.0 push-rtmp-f5-gcp01.ttlivecdn.com
@@ -2482,6 +2492,7 @@
 0.0.0.0 push-rtmp-l1-gcp01.ttlivecdn.com
 0.0.0.0 push-rtmp-l1-hs.pstatp.com
 0.0.0.0 push-rtmp-l1.hypstarcdn.com
+0.0.0.0 push-rtmp-l1-mus.pstatp.com
 0.0.0.0 push-rtmp-l1-sg01.tiktokcdn.com
 0.0.0.0 push-rtmp-l1-sg01.ttlivecdn.com
 0.0.0.0 push-rtmp-l1.tiktokcdn.com

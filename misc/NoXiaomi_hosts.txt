@@ -25,6 +25,7 @@
 0.0.0.0 api.input.intl.miui.com
 0.0.0.0 api.io.mi.com
 0.0.0.0 api.micloud.xiaomi.net
+0.0.0.0 api.mi-img.com
 0.0.0.0 api.mintbrs.intl.miui.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.miwifi.com
@@ -65,6 +66,7 @@
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.alsgp0.fds.api.mi-img.com
 0.0.0.0 cdn.awsde0-fusion.fds.api.mi-img.com
+0.0.0.0 cdn.awsind0-fusion.fds.api.mi-img.com
 0.0.0.0 cdn.cnbj1.fds.api.mi-img.com
 0.0.0.0 cdn.exp.xiaomi.com
 0.0.0.0 cdn.fds-ssl.api.xiaomi.com

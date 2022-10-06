@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 05.10.2022
+# Version: 06.10.2022
 # Update: 1 day
 #
 
@@ -275,7 +275,9 @@
 0.0.0.0 amdc.lazada.com
 0.0.0.0 am.olx.biz.id
 0.0.0.0 amp.analytics-debugger.com
+0.0.0.0 ampcid.google.com
 0.0.0.0 amplitude.com
+0.0.0.0 analytic.detik.com
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.churnzero.net
 0.0.0.0 analytics-debugger.com
@@ -430,6 +432,7 @@
 0.0.0.0 api.olmusic.xyz
 0.0.0.0 api.optimumlines.com
 0.0.0.0 api.os.mob.com
+0.0.0.0 api.otidapi.com
 0.0.0.0 api.owxd.xyz
 0.0.0.0 api.pa1mstore.com
 0.0.0.0 api.palmplaystore.com
@@ -480,6 +483,7 @@
 0.0.0.0 api.weathercn.com
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 api.wifimap.io
+0.0.0.0 api.wildspike.com
 0.0.0.0 api.wlvpn.com
 0.0.0.0 api.wntyru.com
 0.0.0.0 api.wondershare.com
@@ -507,6 +511,7 @@
 0.0.0.0 appconf-sgp.heytapdl.com
 0.0.0.0 app.cove.chat
 0.0.0.0 app.driftt.com
+0.0.0.0 appevent.cookappsgames.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 apph.wpsmail.net
 0.0.0.0 appia.com
@@ -550,6 +555,7 @@
 0.0.0.0 artpp-vivofs.vivoglobal.com
 0.0.0.0 artsai.com
 0.0.0.0 asai-file-wlanapkcdn2.vivoglobal.com
+0.0.0.0 asaux1.contivio.com
 0.0.0.0 asia-album-api.vivoglobal.com
 0.0.0.0 asia-assistant-sports.vivoglobal.com
 0.0.0.0 asia-browserplat.vivoglobal.com
@@ -623,6 +629,7 @@
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.capterra.com
 0.0.0.0 assets.duniagames.co.id
+0.0.0.0 assets.flex.twilio.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.mintegral.com
 0.0.0.0 assets-share.dspunion.com
@@ -657,6 +664,7 @@
 0.0.0.0 ava-cdn.like-it.video
 0.0.0.0 avanquest.com
 0.0.0.0 avatar.pho.to
+0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 a.vdo.ai
 0.0.0.0 avlconf.coloros.com
 0.0.0.0 avlsec.com
@@ -703,6 +711,7 @@
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.page
 0.0.0.0 beacon-v2.helpscout.net
+0.0.0.0 beagles.cookappsgames.com
 0.0.0.0 beamngdrive.net
 0.0.0.0 beautygirls.online
 0.0.0.0 beautyzone.cam
@@ -848,6 +857,7 @@
 0.0.0.0 cda8.avanquest.com
 0.0.0.0 cda9.avanquest.com
 0.0.0.0 cd.connatix.com
+0.0.0.0 cdn0.docdoc.com
 0.0.0.0 cdn0.editmysite.com
 0.0.0.0 cdn0-production-images-kly.akamaized.net
 0.0.0.0 cdn130.picsart.com
@@ -1099,6 +1109,7 @@
 0.0.0.0 conn2.coloros.com
 0.0.0.0 conn2.oppomobile.com
 0.0.0.0 connatix.com
+0.0.0.0 connect.detik.com
 0.0.0.0 connectivitycheck.cbg-app.huawei.com
 0.0.0.0 connect.ok.ru
 0.0.0.0 connect.tapjoy.com
@@ -1111,7 +1122,9 @@
 0.0.0.0 contentful.com
 0.0.0.0 content.webengage.com
 0.0.0.0 contextweb.com
+0.0.0.0 contivio.com
 0.0.0.0 convertkit.com
+0.0.0.0 cookappsgames.com
 0.0.0.0 cookiebot.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiepro.com
@@ -1160,6 +1173,7 @@
 0.0.0.0 cse.avlyun.com
 0.0.0.0 cshort.org
 0.0.0.0 c.slickstream.com
+0.0.0.0 csm.sg1.as.criteo.net
 0.0.0.0 csoversea.mbgame.anticheatexpert.com
 0.0.0.0 csp0.zte.com
 0.0.0.0 csp1.zte.com
@@ -1332,6 +1346,7 @@
 0.0.0.0 do7nu6l5erzu3.cloudfront.net
 0.0.0.0 dob5.com
 0.0.0.0 dobestapposs.uqualities.com
+0.0.0.0 docdoc.com
 0.0.0.0 docs.castle.io
 0.0.0.0 doge43tothemoon.us
 0.0.0.0 dogecointothemoon43.us
@@ -1353,6 +1368,7 @@
 0.0.0.0 download.bignox.com
 0.0.0.0 downloadfilearea.com
 0.0.0.0 download.iobit.com
+0.0.0.0 downloadlagu321z.net
 0.0.0.0 download.muslimpro.com
 0.0.0.0 download-sin.dtignite.com
 0.0.0.0 downloads.intercomcdn.com
@@ -1388,10 +1404,6 @@
 0.0.0.0 e10204.dsca.akamaiedge.net
 0.0.0.0 e10499.dsce9.akamaiedge.net
 0.0.0.0 e12919.dscd.akamaiedge.net
-0.0.0.0 e2c19.gcp.gvt2.com
-0.0.0.0 e2c30.gcp.gvt2.com
-0.0.0.0 e2c38.gcp.gvt2.com
-0.0.0.0 e2c40.gcp.gvt2.com
 0.0.0.0 e3log1.fineboost.com
 0.0.0.0 e3log2.fineboost.com
 0.0.0.0 e3log3.fineboost.com
@@ -1533,6 +1545,7 @@
 0.0.0.0 financialtrending.com
 0.0.0.0 firehose.eu-west-1.amazonaws.com
 0.0.0.0 firstpromoter.com
+0.0.0.0 fk-new-cdn-eu-central-1a-hb.rayjump.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flbk.izooto.com
 0.0.0.0 flix.bar
@@ -2064,6 +2077,7 @@
 0.0.0.0 irisk-id-l.alipay.com
 0.0.0.0 irl-api.twibida.com
 0.0.0.0 irus.coloros.com
+0.0.0.0 i.rus.foreign.coloros.com
 0.0.0.0 isau.coloros.com
 0.0.0.0 i.scooper.news
 0.0.0.0 iseepassword.com
@@ -2133,6 +2147,7 @@
 0.0.0.0 js.wpadmngr.com
 0.0.0.0 jtracking-gate.lulusoft.com
 0.0.0.0 jump.ogtrk.net
+0.0.0.0 junglefrog.com
 0.0.0.0 justin.tv
 0.0.0.0 jwplayer.com
 0.0.0.0 jwpsrv.com
@@ -2290,6 +2305,7 @@
 0.0.0.0 loomi.tv
 0.0.0.0 loptelink.pro
 0.0.0.0 lordofthequietbadgers.com
+0.0.0.0 l.otidapi.com
 0.0.0.0 lottiefiles.com
 0.0.0.0 lovelybabestu.com
 0.0.0.0 loveme.uno
@@ -2392,6 +2408,7 @@
 0.0.0.0 mesu.g.aaplimg.com
 0.0.0.0 metarouter.io
 0.0.0.0 meteor.shalltry.com
+0.0.0.0 metrics-twoplayers.junglefrog.com
 0.0.0.0 mgen.fast-dl.xyz
 0.0.0.0 mgenfast-dlxyz.imageshack.host
 0.0.0.0 mgid.com
@@ -2542,6 +2559,7 @@
 0.0.0.0 newds01.myoppo.com
 0.0.0.0 newds02.myoppo.com
 0.0.0.0 newpic.wetvinfo.com
+0.0.0.0 newplayable.mintegral.com
 0.0.0.0 new.qq.com
 0.0.0.0 newrelic.com
 0.0.0.0 news-abroad.vivo.com
@@ -2554,6 +2572,7 @@
 0.0.0.0 news-muxeta.cc
 0.0.0.0 news.zing.vn
 0.0.0.0 nexage.com
+0.0.0.0 nextgen.docdoc.com
 0.0.0.0 nextsoft.icu
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 nflxvideo.net
@@ -2728,6 +2747,7 @@
 0.0.0.0 oppomobile.com
 0.0.0.0 oppo-oem.avira-update.com
 0.0.0.0 oppo.wifi.teddymobile.cn
+0.0.0.0 opr.adx.opera.com
 0.0.0.0 opswat.info
 0.0.0.0 optad360.io
 0.0.0.0 optaim.com
@@ -2925,6 +2945,7 @@
 0.0.0.0 pkh7.my.id
 0.0.0.0 pkh8.my.id
 0.0.0.0 pl17772840.profitablegatetocontent.com
+0.0.0.0 placements.tapjoy.com
 0.0.0.0 plassets.ws.pho.to
 0.0.0.0 plat-api.bignox.com
 0.0.0.0 platform-lookaside.fbsbx.com
@@ -2938,6 +2959,7 @@
 0.0.0.0 players.brightcove.net
 0.0.0.0 play.mintegral.com
 0.0.0.0 play.wetvinfo.com
+0.0.0.0 play-ws.vod.shopee.com
 0.0.0.0 pl.bignox.com
 0.0.0.0 pl.connatix.com
 0.0.0.0 plugin-server.wps.com
@@ -3115,6 +3137,7 @@
 0.0.0.0 res1.applovin.com
 0.0.0.0 res2.applovin.com
 0.0.0.0 res3.applovin.com
+0.0.0.0 res.adx.opera.com
 0.0.0.0 res.bignox.com
 0.0.0.0 res.cloudinary.com
 0.0.0.0 res.feednews.com
@@ -3187,6 +3210,7 @@
 0.0.0.0 rs.mail.ru
 0.0.0.0 rta.etm.tech
 0.0.0.0 rt.applovin.com
+0.0.0.0 rtb-apac.rtbserve.io
 0.0.0.0 rtc.youme.im
 0.0.0.0 rt.foldlife.net
 0.0.0.0 rtlog.resso.app
@@ -3271,6 +3295,7 @@
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sdk.pushmessage.samsung.com
 0.0.0.0 sdksp.wetvinfo.com
+0.0.0.0 sdk.twilio.com
 0.0.0.0 sdk.vskit.tv
 0.0.0.0 search1.daumcdn.net
 0.0.0.0 search2.daumcdn.net
@@ -3307,6 +3332,7 @@
 0.0.0.0 sendbird.com
 0.0.0.0 sendgrid.com
 0.0.0.0 se-new-cdn-ap-northeast-2a-hb.rayjump.com
+0.0.0.0 se-new-cdn-ap-northeast-2c-hb.rayjump.com
 0.0.0.0 sensors.cloud.tencent.com
 0.0.0.0 sentry.boomplaymusic.com
 0.0.0.0 sentry.io
@@ -3847,6 +3873,7 @@
 0.0.0.0 us.api.fd.mob.com
 0.0.0.0 us-api.mcsvc.samsung.com
 0.0.0.0 us.api.share.mob.com
+0.0.0.0 usaux11.contivio.com
 0.0.0.0 us-central1-alight-creative.cloudfunctions.net
 0.0.0.0 us-central1-gcp.api.snapchat.com
 0.0.0.0 us-central1-muslim-pro-app.cloudfunctions.net
@@ -4015,6 +4042,7 @@
 0.0.0.0 wifimap.zendesk.com
 0.0.0.0 wifi.teddymobile.cn
 0.0.0.0 wifi.vivo.com.cn
+0.0.0.0 wildspike.com
 0.0.0.0 winluckychance.com
 0.0.0.0 wins.isprog.com
 0.0.0.0 wistia.com
@@ -4208,6 +4236,7 @@
 0.0.0.0 www.datamation.com
 0.0.0.0 www.digiads.co.id
 0.0.0.0 www.dob5.com
+0.0.0.0 www.docdoc.com
 0.0.0.0 www.duelbits.com
 0.0.0.0 www.duolaipk.com
 0.0.0.0 www.eep.io
@@ -4357,6 +4386,7 @@
 0.0.0.0 www.wattpad.com
 0.0.0.0 www.webengage.com
 0.0.0.0 www.webovernet.com
+0.0.0.0 www.wildspike.com
 0.0.0.0 www.wlvpn.com
 0.0.0.0 www.wmtransfer.com
 0.0.0.0 www.womenforlove.net

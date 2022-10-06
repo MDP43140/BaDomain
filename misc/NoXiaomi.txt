@@ -25,6 +25,7 @@ api.hybrid.xiaomi.com
 api.input.intl.miui.com
 api.io.mi.com
 api.micloud.xiaomi.net
+api.mi-img.com
 api.mintbrs.intl.miui.com
 api.miui.security.xiaomi.com
 api.miwifi.com
@@ -65,6 +66,7 @@ cc.sys.miui.com
 cdn.ad.xiaomi.com
 cdn.alsgp0.fds.api.mi-img.com
 cdn.awsde0-fusion.fds.api.mi-img.com
+cdn.awsind0-fusion.fds.api.mi-img.com
 cdn.cnbj1.fds.api.mi-img.com
 cdn.exp.xiaomi.com
 cdn.fds-ssl.api.xiaomi.com

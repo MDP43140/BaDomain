@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 05.10.2022
+# Version: 06.10.2022
 # Update: 1 day
 #
 
@@ -275,7 +275,9 @@ alphonso.tv
 amdc.lazada.com
 am.olx.biz.id
 amp.analytics-debugger.com
+ampcid.google.com
 amplitude.com
+analytic.detik.com
 analytics.163.com
 analytics.churnzero.net
 analytics-debugger.com
@@ -430,6 +432,7 @@ api.noxinfluencer.com
 api.olmusic.xyz
 api.optimumlines.com
 api.os.mob.com
+api.otidapi.com
 api.owxd.xyz
 api.pa1mstore.com
 api.palmplaystore.com
@@ -480,6 +483,7 @@ api.wattpad.com
 api.weathercn.com
 api.widget.zalo.me
 api.wifimap.io
+api.wildspike.com
 api.wlvpn.com
 api.wntyru.com
 api.wondershare.com
@@ -507,6 +511,7 @@ appconf-ocs-sgp.heytapdl.com
 appconf-sgp.heytapdl.com
 app.cove.chat
 app.driftt.com
+appevent.cookappsgames.com
 app.hubspot.com
 apph.wpsmail.net
 appia.com
@@ -550,6 +555,7 @@ artas.biz
 artpp-vivofs.vivoglobal.com
 artsai.com
 asai-file-wlanapkcdn2.vivoglobal.com
+asaux1.contivio.com
 asia-album-api.vivoglobal.com
 asia-assistant-sports.vivoglobal.com
 asia-browserplat.vivoglobal.com
@@ -623,6 +629,7 @@ assets.alicdn.com
 assets.applovin.com
 assets.capterra.com
 assets.duniagames.co.id
+assets.flex.twilio.com
 assets-jpcust.jwpsrv.com
 assets.mintegral.com
 assets-share.dspunion.com
@@ -657,6 +664,7 @@ autopush.prod.mozaws.net
 ava-cdn.like-it.video
 avanquest.com
 avatar.pho.to
+avatars.mds.yandex.net
 a.vdo.ai
 avlconf.coloros.com
 avlsec.com
@@ -703,6 +711,7 @@ beacons.glance.inmobi.com
 beacons.gvt2.com
 beacons.page
 beacon-v2.helpscout.net
+beagles.cookappsgames.com
 beamngdrive.net
 beautygirls.online
 beautyzone.cam
@@ -848,6 +857,7 @@ cda7.avanquest.com
 cda8.avanquest.com
 cda9.avanquest.com
 cd.connatix.com
+cdn0.docdoc.com
 cdn0.editmysite.com
 cdn0-production-images-kly.akamaized.net
 cdn130.picsart.com
@@ -1099,6 +1109,7 @@ conn1.oppomobile.com
 conn2.coloros.com
 conn2.oppomobile.com
 connatix.com
+connect.detik.com
 connectivitycheck.cbg-app.huawei.com
 connect.ok.ru
 connect.tapjoy.com
@@ -1111,7 +1122,9 @@ content-fgw.zepeto.io
 contentful.com
 content.webengage.com
 contextweb.com
+contivio.com
 convertkit.com
+cookappsgames.com
 cookiebot.com
 cookielaw.org
 cookiepro.com
@@ -1160,6 +1173,7 @@ cs-center.uc.cn
 cse.avlyun.com
 cshort.org
 c.slickstream.com
+csm.sg1.as.criteo.net
 csoversea.mbgame.anticheatexpert.com
 csp0.zte.com
 csp1.zte.com
@@ -1332,6 +1346,7 @@ dns-tunnel-check.googlezip.net
 do7nu6l5erzu3.cloudfront.net
 dob5.com
 dobestapposs.uqualities.com
+docdoc.com
 docs.castle.io
 doge43tothemoon.us
 dogecointothemoon43.us
@@ -1353,6 +1368,7 @@ download-api.palmplaystore.com
 download.bignox.com
 downloadfilearea.com
 download.iobit.com
+downloadlagu321z.net
 download.muslimpro.com
 download-sin.dtignite.com
 downloads.intercomcdn.com
@@ -1388,10 +1404,6 @@ dzbkjh1.myoppo.com
 e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e12919.dscd.akamaiedge.net
-e2c19.gcp.gvt2.com
-e2c30.gcp.gvt2.com
-e2c38.gcp.gvt2.com
-e2c40.gcp.gvt2.com
 e3log1.fineboost.com
 e3log2.fineboost.com
 e3log3.fineboost.com
@@ -1533,6 +1545,7 @@ filmmogzivota.rs
 financialtrending.com
 firehose.eu-west-1.amazonaws.com
 firstpromoter.com
+fk-new-cdn-eu-central-1a-hb.rayjump.com
 flashtalking.com
 flbk.izooto.com
 flix.bar
@@ -2064,6 +2077,7 @@ ire-oneid.shalltry.com
 irisk-id-l.alipay.com
 irl-api.twibida.com
 irus.coloros.com
+i.rus.foreign.coloros.com
 isau.coloros.com
 i.scooper.news
 iseepassword.com
@@ -2133,6 +2147,7 @@ js.users.51.la
 js.wpadmngr.com
 jtracking-gate.lulusoft.com
 jump.ogtrk.net
+junglefrog.com
 justin.tv
 jwplayer.com
 jwpsrv.com
@@ -2290,6 +2305,7 @@ lontaranews.com
 loomi.tv
 loptelink.pro
 lordofthequietbadgers.com
+l.otidapi.com
 lottiefiles.com
 lovelybabestu.com
 loveme.uno
@@ -2392,6 +2408,7 @@ messaging.messagebird.com
 mesu.g.aaplimg.com
 metarouter.io
 meteor.shalltry.com
+metrics-twoplayers.junglefrog.com
 mgen.fast-dl.xyz
 mgenfast-dlxyz.imageshack.host
 mgid.com
@@ -2542,6 +2559,7 @@ newdebut-av.monster
 newds01.myoppo.com
 newds02.myoppo.com
 newpic.wetvinfo.com
+newplayable.mintegral.com
 new.qq.com
 newrelic.com
 news-abroad.vivo.com
@@ -2554,6 +2572,7 @@ newsmaticaapp.com
 news-muxeta.cc
 news.zing.vn
 nexage.com
+nextgen.docdoc.com
 nextsoft.icu
 nexus-websocket-a.intercom.io
 nflxvideo.net
@@ -2728,6 +2747,7 @@ opex-service-sg.allawnos.com
 oppomobile.com
 oppo-oem.avira-update.com
 oppo.wifi.teddymobile.cn
+opr.adx.opera.com
 opswat.info
 optad360.io
 optaim.com
@@ -2925,6 +2945,7 @@ pkh6.my.id
 pkh7.my.id
 pkh8.my.id
 pl17772840.profitablegatetocontent.com
+placements.tapjoy.com
 plassets.ws.pho.to
 plat-api.bignox.com
 platform-lookaside.fbsbx.com
@@ -2938,6 +2959,7 @@ player-ivideosmart-com.cdn.ampproject.org
 players.brightcove.net
 play.mintegral.com
 play.wetvinfo.com
+play-ws.vod.shopee.com
 pl.bignox.com
 pl.connatix.com
 plugin-server.wps.com
@@ -3115,6 +3137,7 @@ res.17roco.qq.com
 res1.applovin.com
 res2.applovin.com
 res3.applovin.com
+res.adx.opera.com
 res.bignox.com
 res.cloudinary.com
 res.feednews.com
@@ -3187,6 +3210,7 @@ rs.easemob.com
 rs.mail.ru
 rta.etm.tech
 rt.applovin.com
+rtb-apac.rtbserve.io
 rtc.youme.im
 rt.foldlife.net
 rtlog.resso.app
@@ -3271,6 +3295,7 @@ sdk.iad-05.braze.com
 sdk.privacy-center.org
 sdk.pushmessage.samsung.com
 sdksp.wetvinfo.com
+sdk.twilio.com
 sdk.vskit.tv
 search1.daumcdn.net
 search2.daumcdn.net
@@ -3307,6 +3332,7 @@ sellwild.com
 sendbird.com
 sendgrid.com
 se-new-cdn-ap-northeast-2a-hb.rayjump.com
+se-new-cdn-ap-northeast-2c-hb.rayjump.com
 sensors.cloud.tencent.com
 sentry.boomplaymusic.com
 sentry.io
@@ -3847,6 +3873,7 @@ us.api.fc.mob.com
 us.api.fd.mob.com
 us-api.mcsvc.samsung.com
 us.api.share.mob.com
+usaux11.contivio.com
 us-central1-alight-creative.cloudfunctions.net
 us-central1-gcp.api.snapchat.com
 us-central1-muslim-pro-app.cloudfunctions.net
@@ -4015,6 +4042,7 @@ widget-v2.smartsuppcdn.com
 wifimap.zendesk.com
 wifi.teddymobile.cn
 wifi.vivo.com.cn
+wildspike.com
 winluckychance.com
 wins.isprog.com
 wistia.com
@@ -4208,6 +4236,7 @@ www.data.ai
 www.datamation.com
 www.digiads.co.id
 www.dob5.com
+www.docdoc.com
 www.duelbits.com
 www.duolaipk.com
 www.eep.io
@@ -4357,6 +4386,7 @@ www.waridd.top
 www.wattpad.com
 www.webengage.com
 www.webovernet.com
+www.wildspike.com
 www.wlvpn.com
 www.wmtransfer.com
 www.womenforlove.net
