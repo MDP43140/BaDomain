@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.10.2022
+# Version: 07.10.2022
 # Update: 1 day
 #
 
@@ -12,6 +12,7 @@
 0smfoo0924y8.puscomosca.com
 0.ygti905ffth6.com
 101.249.211.130.bc.googleusercontent.com
+101help.xyz
 1111210941.rsc.cdn77.org
 114dns.com
 12377.cn
@@ -83,6 +84,7 @@
 8b2a.playfabapi.com
 8.bignox.com
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
+9199.us
 91busgame.com
 94.110.204.35.bc.googleusercontent.com
 9933gg.com
@@ -116,6 +118,7 @@ a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 a5cf870526ee8046d26235be996b36b9.safeframe.googlesyndication.com
 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
+a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 aa-cdn.net
 aadg.trafficmanager.net
@@ -267,11 +270,15 @@ allawntech.com
 all.cnzz.com
 all.cnzz.com.danuoyi.tbcache.com
 allmipa.com
+allsupport.me
 alms.demo.ckg.hk
+alogin01.to
 alog.umeng.com
 aloha46.viber.com
 aloofvest.com
 alphonso.tv
+amazonfraudprotection.com
+amazonfraudprotection.ukit.me
 amdc.lazada.com
 am.olx.biz.id
 amp.analytics-debugger.com
@@ -318,6 +325,7 @@ anticheatexpert.com
 anton.faceapp.ai
 anton.faceapp.io
 anyclip.com
+anydesk.com
 anymind360.com
 aos.go2s.co
 ap-alps.y5en.com
@@ -960,6 +968,7 @@ cdn-store-icons-akamai-prd.unityads.unity3d.com
 cdn-theme-eu-central-1.shalltry.com
 cdn.thinkific.com
 cdn.unblockia.com
+cdn.walkme.com
 cdn-web.jifo.co
 cdn.weglot.com
 cdn.wetest.qq.com
@@ -1031,6 +1040,7 @@ cloudinary.com
 cloudi-sg.browser.heytapmobile.com
 cloudi-sg.browser.oppomobile.com
 cloudsaze.com
+cloud.screenconnect.com
 cloud.tencent.com
 cloud.typography.com
 cloud.wpscdn.com
@@ -1113,6 +1123,7 @@ connect.detik.com
 connectivitycheck.cbg-app.huawei.com
 connect.ok.ru
 connect.tapjoy.com
+connectwise.com
 conn-service-gl-01.allawntech.com
 conn-service-us-03.allawnos.com
 conn-service-us-04.allawnos.com
@@ -1123,6 +1134,7 @@ contentful.com
 content.webengage.com
 contextweb.com
 contivio.com
+control.connectwise.com
 convertkit.com
 cookappsgames.com
 cookiebot.com
@@ -1326,6 +1338,7 @@ distillery.wistia.com
 diva.bond
 dl111.dlmate26.xyz
 dl111.fbefcafbeedc.xyz
+dl2.ultraviewer.net
 dl.hw.freefiremobile.com
 dl.listdl.com
 dls.di.atlas.samsung.com
@@ -1364,6 +1377,7 @@ doubleclick.net
 down.anticheatexpert.com
 download0.vivo.com.cn
 download.alicdn.com
+download.anydesk.com
 download-api.palmplaystore.com
 download.bignox.com
 downloadfilearea.com
@@ -1459,6 +1473,7 @@ epcfg.fineboost.com
 epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
 epdg.epc.mnc009.mcc510.pub.3gppnetwork.org
 e.pic.ak.mangatoon.akamaized.net
+episerver.net
 epoch-cn.cdo.heytapmobi.com
 epoch-gl.cdo.heytapmobi.com
 epoch-id.cdo.heytapmobi.com
@@ -1757,6 +1772,7 @@ guid.tpns.hk.tencent.com
 guid.tpns.sgp.tencent.com
 gumgum.com
 gumroad.com
+gurume.screenconnect.com
 gvod.aiseejapp.atianqi.com
 gw.alipayobjects.com
 gw-dana.ebuckler.com
@@ -1788,6 +1804,7 @@ hdcb-api.fortumo.io
 heapanalytics.com
 heap.io
 hellomagazine.com
+helponline123.com
 helpscout.com
 helpscout.net
 help.sogou.com
@@ -1842,6 +1859,7 @@ http-check-headers.yandex.ru
 httpdns.ocloud.heytapmobi.com
 httpdns.ocloud.oppomobile.com
 httpdns-push.heytapmobile.com
+httpdns.y5en.com
 httpdns.yunxindns.com
 https-api.bigolive.tv
 https-api.like.video
@@ -2415,6 +2433,7 @@ mgid.com
 mgl.lobby.igamecj.com
 m.harbourfunny.com
 mhy.link
+microremoteassist.com
 microservices.wifimap.io
 midas-api.hellay.net
 milvarusso.com
@@ -2474,6 +2493,7 @@ mp-comm-db-3.firebaseio.com
 mps.nbcuni.com
 mp.toutiao.com
 mp.weixin.qq.com
+ms1800.com
 ms4.applovin.com
 ms.bignox.com
 m.scoopernews.com
@@ -2522,6 +2542,7 @@ mxptint.net
 my.bignox.com
 myfan.monster
 myfreecams.com
+myhelpdesk.me
 myim3banner.kloc.co
 myjino.ru
 mypic.icu
@@ -2591,6 +2612,7 @@ node-66-ipv6.faceapp.io
 node-68-ipv6.faceapp.io
 node-86-ipv4.faceapp.io
 node-87-ipv6.faceapp.io
+norton67.webnode.page
 noss.litatom.com
 notif.quizizz.com
 notix.io
@@ -2731,6 +2753,7 @@ onezapp.com
 onlinecash1.com
 online.fastman92.com
 online.lenzmx.com
+onlogin01.xyz
 onnanoko.tokyo
 opc.cloud.tencent.com
 op-data.zuiqiangyingyu.net
@@ -2965,6 +2988,7 @@ pl.connatix.com
 plugin-server.wps.com
 podrbx.best
 pogoda.imgsmail.ru
+point-of-entry.com
 pointone.tech
 policy-tcp.rayjump.com
 polussuo.com
@@ -3280,6 +3304,7 @@ scooper.news
 scoopernews.com
 scorecardresearch.com
 scout-cdn.salesloft.com
+screenconnect.com
 screensteps.com
 scripts.jixie.media
 scroll.com
@@ -3608,6 +3633,7 @@ survey.bignox.com
 surveys-static.survicate.com
 survey.survicate.com
 survicate.com
+s.usea01.idio.episerver.net
 svibeacon.onezapp.com
 s.viiert.com
 s.viioxx.com
@@ -3751,6 +3777,7 @@ top.ge
 topgirls.uno
 topic-sticker-vending.snapchat.com
 toptradeguru.com
+toshiba6415.zendesk.com
 toto.zipoapps.com
 toutiao.com
 tpai.caping.co.id
@@ -3829,9 +3856,11 @@ u-id.browser.oppomobile.com
 u-id.cpc.heytapmobile.com
 ui.ff.avast.com
 u-in.cpc.heytapmobile.com
+ukit.me
 u.like-it.video
 ulog.kwai.com
 ultimatecustomnightgame.net
+ultraviewer.net
 umc-cdn.secb2b.com
 umlazada.alibaba.com
 ummydownloader.com
@@ -3974,6 +4003,7 @@ vyn.fyi
 wa.co
 wagomu.b-cdn.net
 wagomu.id
+walkme.com
 wa.net
 wannos-bj.127.net
 wannos-hz.127.net
@@ -4200,6 +4230,7 @@ www.ad-x.co.uk
 www.aksconsulting.us
 www.alipay.com
 www.announcekit.app
+www.anydesk.com
 www.apkeditorfree.com
 www.app-ads-txt.com
 www.appjustable.com
@@ -4265,6 +4296,7 @@ www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.h2svr.info
 www.hardwarecloseout.com
 www.hastopic.com
+www.helponline123.com
 www.helpscout.com
 www.helpscout.net
 www.higgsslotgame.com
@@ -4332,6 +4364,7 @@ www.robinhand.vip
 www.rollbit.com
 www.roobet.com
 www.sas-autos.com
+www.screenconnect.com
 www.servicewebly.com
 www.sfdcstatic.com
 www.shalltry.com
@@ -4368,6 +4401,7 @@ www.twilio.com
 www.twilio.org
 www.uadexchange.com
 www.uc.cn
+www.ultraviewer.net
 www.unipin.com
 www.upoint.id
 www.ushareit.com

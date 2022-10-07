@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 06.10.2022
+# Version: 07.10.2022
 # Update: 1 day
 #
 
@@ -12,6 +12,7 @@
 0.0.0.0 0smfoo0924y8.puscomosca.com
 0.0.0.0 0.ygti905ffth6.com
 0.0.0.0 101.249.211.130.bc.googleusercontent.com
+0.0.0.0 101help.xyz
 0.0.0.0 1111210941.rsc.cdn77.org
 0.0.0.0 114dns.com
 0.0.0.0 12377.cn
@@ -83,6 +84,7 @@
 0.0.0.0 8b2a.playfabapi.com
 0.0.0.0 8.bignox.com
 0.0.0.0 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
+0.0.0.0 9199.us
 0.0.0.0 91busgame.com
 0.0.0.0 94.110.204.35.bc.googleusercontent.com
 0.0.0.0 9933gg.com
@@ -116,6 +118,7 @@
 0.0.0.0 a5cf870526ee8046d26235be996b36b9.safeframe.googlesyndication.com
 0.0.0.0 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 0.0.0.0 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
+0.0.0.0 a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 0.0.0.0 aa-cdn.net
 0.0.0.0 aadg.trafficmanager.net
@@ -267,11 +270,15 @@
 0.0.0.0 all.cnzz.com
 0.0.0.0 all.cnzz.com.danuoyi.tbcache.com
 0.0.0.0 allmipa.com
+0.0.0.0 allsupport.me
 0.0.0.0 alms.demo.ckg.hk
+0.0.0.0 alogin01.to
 0.0.0.0 alog.umeng.com
 0.0.0.0 aloha46.viber.com
 0.0.0.0 aloofvest.com
 0.0.0.0 alphonso.tv
+0.0.0.0 amazonfraudprotection.com
+0.0.0.0 amazonfraudprotection.ukit.me
 0.0.0.0 amdc.lazada.com
 0.0.0.0 am.olx.biz.id
 0.0.0.0 amp.analytics-debugger.com
@@ -318,6 +325,7 @@
 0.0.0.0 anton.faceapp.ai
 0.0.0.0 anton.faceapp.io
 0.0.0.0 anyclip.com
+0.0.0.0 anydesk.com
 0.0.0.0 anymind360.com
 0.0.0.0 aos.go2s.co
 0.0.0.0 ap-alps.y5en.com
@@ -960,6 +968,7 @@
 0.0.0.0 cdn-theme-eu-central-1.shalltry.com
 0.0.0.0 cdn.thinkific.com
 0.0.0.0 cdn.unblockia.com
+0.0.0.0 cdn.walkme.com
 0.0.0.0 cdn-web.jifo.co
 0.0.0.0 cdn.weglot.com
 0.0.0.0 cdn.wetest.qq.com
@@ -1031,6 +1040,7 @@
 0.0.0.0 cloudi-sg.browser.heytapmobile.com
 0.0.0.0 cloudi-sg.browser.oppomobile.com
 0.0.0.0 cloudsaze.com
+0.0.0.0 cloud.screenconnect.com
 0.0.0.0 cloud.tencent.com
 0.0.0.0 cloud.typography.com
 0.0.0.0 cloud.wpscdn.com
@@ -1113,6 +1123,7 @@
 0.0.0.0 connectivitycheck.cbg-app.huawei.com
 0.0.0.0 connect.ok.ru
 0.0.0.0 connect.tapjoy.com
+0.0.0.0 connectwise.com
 0.0.0.0 conn-service-gl-01.allawntech.com
 0.0.0.0 conn-service-us-03.allawnos.com
 0.0.0.0 conn-service-us-04.allawnos.com
@@ -1123,6 +1134,7 @@
 0.0.0.0 content.webengage.com
 0.0.0.0 contextweb.com
 0.0.0.0 contivio.com
+0.0.0.0 control.connectwise.com
 0.0.0.0 convertkit.com
 0.0.0.0 cookappsgames.com
 0.0.0.0 cookiebot.com
@@ -1326,6 +1338,7 @@
 0.0.0.0 diva.bond
 0.0.0.0 dl111.dlmate26.xyz
 0.0.0.0 dl111.fbefcafbeedc.xyz
+0.0.0.0 dl2.ultraviewer.net
 0.0.0.0 dl.hw.freefiremobile.com
 0.0.0.0 dl.listdl.com
 0.0.0.0 dls.di.atlas.samsung.com
@@ -1364,6 +1377,7 @@
 0.0.0.0 down.anticheatexpert.com
 0.0.0.0 download0.vivo.com.cn
 0.0.0.0 download.alicdn.com
+0.0.0.0 download.anydesk.com
 0.0.0.0 download-api.palmplaystore.com
 0.0.0.0 download.bignox.com
 0.0.0.0 downloadfilearea.com
@@ -1459,6 +1473,7 @@
 0.0.0.0 epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
 0.0.0.0 epdg.epc.mnc009.mcc510.pub.3gppnetwork.org
 0.0.0.0 e.pic.ak.mangatoon.akamaized.net
+0.0.0.0 episerver.net
 0.0.0.0 epoch-cn.cdo.heytapmobi.com
 0.0.0.0 epoch-gl.cdo.heytapmobi.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
@@ -1757,6 +1772,7 @@
 0.0.0.0 guid.tpns.sgp.tencent.com
 0.0.0.0 gumgum.com
 0.0.0.0 gumroad.com
+0.0.0.0 gurume.screenconnect.com
 0.0.0.0 gvod.aiseejapp.atianqi.com
 0.0.0.0 gw.alipayobjects.com
 0.0.0.0 gw-dana.ebuckler.com
@@ -1788,6 +1804,7 @@
 0.0.0.0 heapanalytics.com
 0.0.0.0 heap.io
 0.0.0.0 hellomagazine.com
+0.0.0.0 helponline123.com
 0.0.0.0 helpscout.com
 0.0.0.0 helpscout.net
 0.0.0.0 help.sogou.com
@@ -1842,6 +1859,7 @@
 0.0.0.0 httpdns.ocloud.heytapmobi.com
 0.0.0.0 httpdns.ocloud.oppomobile.com
 0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 httpdns.y5en.com
 0.0.0.0 httpdns.yunxindns.com
 0.0.0.0 https-api.bigolive.tv
 0.0.0.0 https-api.like.video
@@ -2415,6 +2433,7 @@
 0.0.0.0 mgl.lobby.igamecj.com
 0.0.0.0 m.harbourfunny.com
 0.0.0.0 mhy.link
+0.0.0.0 microremoteassist.com
 0.0.0.0 microservices.wifimap.io
 0.0.0.0 midas-api.hellay.net
 0.0.0.0 milvarusso.com
@@ -2474,6 +2493,7 @@
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 mp.toutiao.com
 0.0.0.0 mp.weixin.qq.com
+0.0.0.0 ms1800.com
 0.0.0.0 ms4.applovin.com
 0.0.0.0 ms.bignox.com
 0.0.0.0 m.scoopernews.com
@@ -2522,6 +2542,7 @@
 0.0.0.0 my.bignox.com
 0.0.0.0 myfan.monster
 0.0.0.0 myfreecams.com
+0.0.0.0 myhelpdesk.me
 0.0.0.0 myim3banner.kloc.co
 0.0.0.0 myjino.ru
 0.0.0.0 mypic.icu
@@ -2591,6 +2612,7 @@
 0.0.0.0 node-68-ipv6.faceapp.io
 0.0.0.0 node-86-ipv4.faceapp.io
 0.0.0.0 node-87-ipv6.faceapp.io
+0.0.0.0 norton67.webnode.page
 0.0.0.0 noss.litatom.com
 0.0.0.0 notif.quizizz.com
 0.0.0.0 notix.io
@@ -2731,6 +2753,7 @@
 0.0.0.0 onlinecash1.com
 0.0.0.0 online.fastman92.com
 0.0.0.0 online.lenzmx.com
+0.0.0.0 onlogin01.xyz
 0.0.0.0 onnanoko.tokyo
 0.0.0.0 opc.cloud.tencent.com
 0.0.0.0 op-data.zuiqiangyingyu.net
@@ -2965,6 +2988,7 @@
 0.0.0.0 plugin-server.wps.com
 0.0.0.0 podrbx.best
 0.0.0.0 pogoda.imgsmail.ru
+0.0.0.0 point-of-entry.com
 0.0.0.0 pointone.tech
 0.0.0.0 policy-tcp.rayjump.com
 0.0.0.0 polussuo.com
@@ -3280,6 +3304,7 @@
 0.0.0.0 scoopernews.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scout-cdn.salesloft.com
+0.0.0.0 screenconnect.com
 0.0.0.0 screensteps.com
 0.0.0.0 scripts.jixie.media
 0.0.0.0 scroll.com
@@ -3608,6 +3633,7 @@
 0.0.0.0 surveys-static.survicate.com
 0.0.0.0 survey.survicate.com
 0.0.0.0 survicate.com
+0.0.0.0 s.usea01.idio.episerver.net
 0.0.0.0 svibeacon.onezapp.com
 0.0.0.0 s.viiert.com
 0.0.0.0 s.viioxx.com
@@ -3751,6 +3777,7 @@
 0.0.0.0 topgirls.uno
 0.0.0.0 topic-sticker-vending.snapchat.com
 0.0.0.0 toptradeguru.com
+0.0.0.0 toshiba6415.zendesk.com
 0.0.0.0 toto.zipoapps.com
 0.0.0.0 toutiao.com
 0.0.0.0 tpai.caping.co.id
@@ -3829,9 +3856,11 @@
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 ui.ff.avast.com
 0.0.0.0 u-in.cpc.heytapmobile.com
+0.0.0.0 ukit.me
 0.0.0.0 u.like-it.video
 0.0.0.0 ulog.kwai.com
 0.0.0.0 ultimatecustomnightgame.net
+0.0.0.0 ultraviewer.net
 0.0.0.0 umc-cdn.secb2b.com
 0.0.0.0 umlazada.alibaba.com
 0.0.0.0 ummydownloader.com
@@ -3974,6 +4003,7 @@
 0.0.0.0 wa.co
 0.0.0.0 wagomu.b-cdn.net
 0.0.0.0 wagomu.id
+0.0.0.0 walkme.com
 0.0.0.0 wa.net
 0.0.0.0 wannos-bj.127.net
 0.0.0.0 wannos-hz.127.net
@@ -4200,6 +4230,7 @@
 0.0.0.0 www.aksconsulting.us
 0.0.0.0 www.alipay.com
 0.0.0.0 www.announcekit.app
+0.0.0.0 www.anydesk.com
 0.0.0.0 www.apkeditorfree.com
 0.0.0.0 www.app-ads-txt.com
 0.0.0.0 www.appjustable.com
@@ -4265,6 +4296,7 @@
 0.0.0.0 www.h2svr.info
 0.0.0.0 www.hardwarecloseout.com
 0.0.0.0 www.hastopic.com
+0.0.0.0 www.helponline123.com
 0.0.0.0 www.helpscout.com
 0.0.0.0 www.helpscout.net
 0.0.0.0 www.higgsslotgame.com
@@ -4332,6 +4364,7 @@
 0.0.0.0 www.rollbit.com
 0.0.0.0 www.roobet.com
 0.0.0.0 www.sas-autos.com
+0.0.0.0 www.screenconnect.com
 0.0.0.0 www.servicewebly.com
 0.0.0.0 www.sfdcstatic.com
 0.0.0.0 www.shalltry.com
@@ -4368,6 +4401,7 @@
 0.0.0.0 www.twilio.org
 0.0.0.0 www.uadexchange.com
 0.0.0.0 www.uc.cn
+0.0.0.0 www.ultraviewer.net
 0.0.0.0 www.unipin.com
 0.0.0.0 www.upoint.id
 0.0.0.0 www.ushareit.com

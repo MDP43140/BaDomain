@@ -19,6 +19,7 @@
 95-217-35-153.serverhub.ru
 a04.uadexchange.com
 a05.uadexchange.com
+a.137e82938ec8f951d71b03180c47c2e726cf8857dae8716d8d47613a.com
 a1.applovin.com
 a2.applovin.com
 a3.applovin.com
@@ -317,6 +318,7 @@ hdslb.com
 hd.xiaomi.com
 hearstapps.com
 hellay.net
+helping365.us
 herningrideklub.net
 heytapdl.com
 heytapmobile.com
@@ -443,6 +445,7 @@ midasplayer.com
 mi-img.com
 miit.gov.cn
 mitunes.game.xiaomi.com
+miver.xyz
 m.mobilesearchers.com
 mobile.bignox.com
 mobiletime.net
@@ -638,6 +641,7 @@ stat.xiaomi.com
 st.bignox.com
 stuart.faceapp.ai
 sumo.mozit.cloud
+supportclient.cc
 svc-cf.samsungdm.com
 sweet-girls18.com
 swiftkey-android.iris.touchtype-fluency.com
@@ -757,6 +761,7 @@ www.ftblltrck.com
 www.furnitureshopone.us
 www.glamorousfeeds.com
 www.globalnews.cloud
+www.helping365.us
 www.intuitcdn.net
 www.iqzgqivb.com
 www.livechat.comwww.livechat.com
@@ -764,6 +769,7 @@ www.mainlytrendy.com
 www.mamsolutions.us
 www.mamsolution.us
 www.microsoftfile.ml
+www.miver.xyz
 www.nathanaeldan.pro
 www.netsecurity-essential.com
 www.notifa.info
