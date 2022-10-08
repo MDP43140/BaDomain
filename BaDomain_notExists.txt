@@ -244,6 +244,8 @@ easymakesolution.com
 eb1f496297bccfe372065b770b4089c85356073772b9a425a81ec241.com
 echo-tcp-org.y5en.com
 ecs-110-238-109-184.compute.hwclouds-dns.com
+elb-babe-934876860.ap-southeast-1.elb.amazonaws.com
+elb-for-cdn-1922253052.ap-southeast-1.elb.amazonaws.com
 embedcdn.com
 emebo.io
 engine.fyber.com
@@ -462,6 +464,7 @@ mutinycdn.com
 mxpnl.com
 myappsget.com
 my.salesforce.com
+mzfvozqybf.com
 ndt-mlab2-sin01.mlab-oti.measurementlab.net
 neptunegame.com
 netdna-cdn.com
@@ -558,6 +561,7 @@ push.heytapmobile.com
 pushpromjs.messagebird.com
 pxf.io
 qbox.me
+qfyf1toi.com
 qhimg.com
 qiniuapi.com
 qms.quicinc.com
@@ -607,6 +611,7 @@ sf19-fe-tos-sg.pglstatp.com
 sfdcstatic.com
 sg-dm.newsmaticaapp.com
 sgp.tencent.com
+share-1070666956.ap-northeast-1.elb.amazonaws.com
 sheldon.faceapp.ai
 shenghuo.xiaomi.com
 shib22.pro
@@ -649,6 +654,7 @@ swiftypecdn.com
 syszalive.uksouth.cloudapp.azure.com
 tads.mobadvent.com
 tajs.qq.com
+taobao.net
 tc.hd.xiaomi.com
 tdsjsext3.com
 tel.fe01.hh.xiaomi.com
@@ -790,6 +796,7 @@ www.wuueqejuratzdz.com
 www.xapoapp.com
 www.xjke.xyz
 www.x-tags.net
+www.xzcs3zlph.com
 www.ykxipfcg.com
 www.yomani.vip
 www.zdn.vn
@@ -809,6 +816,7 @@ xshare.api.xiaomi.com
 x-tags.net
 xuicy.me
 xx18like.uno
+xzcs3zlph.com
 yaka.stream.kg.qq.com
 ykxipfcg.com
 yomani.vip

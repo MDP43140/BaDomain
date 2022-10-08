@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 07.10.2022
+# Version: 09.10.2022
 # Update: 1 day
 #
 
@@ -25,12 +25,14 @@
 0.0.0.0 17roco.qq.com
 0.0.0.0 18000.me
 0.0.0.0 18183.com
+0.0.0.0 189.cn
 0.0.0.0 1.cn.pool.ntp.org
 0.0.0.0 1g5k5w.com
 0.0.0.0 1.ssiloc.com
 0.0.0.0 201205igp.gameloft.com
 0.0.0.0 20824721p.rfihub.com
 0.0.0.0 20ca2.playfabapi.com
+0.0.0.0 21cn.com
 0.0.0.0 232.138.196.35.bc.googleusercontent.com
 0.0.0.0 2828691.group41.sites.hubspot.net
 0.0.0.0 2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
@@ -277,9 +279,11 @@
 0.0.0.0 aloha46.viber.com
 0.0.0.0 aloofvest.com
 0.0.0.0 alphonso.tv
+0.0.0.0 amap.com
 0.0.0.0 amazonfraudprotection.com
 0.0.0.0 amazonfraudprotection.ukit.me
 0.0.0.0 amdc.lazada.com
+0.0.0.0 amemv.com
 0.0.0.0 am.olx.biz.id
 0.0.0.0 amp.analytics-debugger.com
 0.0.0.0 ampcid.google.com
@@ -422,6 +426,7 @@
 0.0.0.0 api.kuaishouzt.com
 0.0.0.0 api.kwai.com
 0.0.0.0 api.kwaizt.com
+0.0.0.0 api.lanzouo.com
 0.0.0.0 api-leap.nbcsports.com
 0.0.0.0 api.likee.video
 0.0.0.0 api.like-it.video
@@ -789,6 +794,7 @@
 0.0.0.0 broadcast.biliintl.com
 0.0.0.0 browser-i-gl.heytapmobile.com
 0.0.0.0 browserplat.vivo.com.cn
+0.0.0.0 b.sf-syn.com
 0.0.0.0 b.sogou.com
 0.0.0.0 b.st-hatena.com
 0.0.0.0 bstream.hzmklvdieo.com
@@ -1045,6 +1051,8 @@
 0.0.0.0 cloud.typography.com
 0.0.0.0 cloud.wpscdn.com
 0.0.0.0 clupekfv.tweb.sched.ovscdns.com
+0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
+0.0.0.0 cmbchina.com
 0.0.0.0 cm.bilibili.com
 0.0.0.0 cmp.quantcast.com
 0.0.0.0 cmpv2.macworld.com
@@ -1070,6 +1078,7 @@
 0.0.0.0 coinbasesj.vip
 0.0.0.0 colegiounamuno.es
 0.0.0.0 collect.alipay.com
+0.0.0.0 collect-elb-1844102569.us-east-1.elb.amazonaws.com
 0.0.0.0 collector.lunalabs.io
 0.0.0.0 collector-pxikkul2rm.perimeterx.net
 0.0.0.0 collector-pxt6dy78t8.px-client.net
@@ -2104,6 +2113,7 @@
 0.0.0.0 i-sg.browser.heytapmobile.com
 0.0.0.0 i.snssdk.com
 0.0.0.0 isp-map.xunyou.mobi
+0.0.0.0 is.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 istarapps.com
 0.0.0.0 it.bignox.com
 0.0.0.0 itc.cn
@@ -2150,11 +2160,13 @@
 0.0.0.0 js.digiads.co.id
 0.0.0.0 js.driftt.com
 0.0.0.0 js.getlasso.co
+0.0.0.0 js.hsadspixel.net
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hsforms.net
 0.0.0.0 js.hsleadflows.net
+0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.hubspotfeedback.com
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 js.media-lab.ai
@@ -2225,6 +2237,8 @@
 0.0.0.0 lan3rd.line.me
 0.0.0.0 lang-f.coloros.com
 0.0.0.0 languagef.coloros.com
+0.0.0.0 lanzou.com
+0.0.0.0 lanzouo.com
 0.0.0.0 lapaksebelahh.com
 0.0.0.0 l-api.livejournal.com
 0.0.0.0 lar83.s3.amazonaws.com
@@ -3280,6 +3294,7 @@
 0.0.0.0 s7s.af.outfit7.com
 0.0.0.0 s8900.webovernet.com
 0.0.0.0 s8s.af.outfit7.com
+0.0.0.0 s95.cnzz.com
 0.0.0.0 s9.cnzz.com
 0.0.0.0 saasexch.com
 0.0.0.0 salesforce.com
@@ -3455,6 +3470,7 @@
 0.0.0.0 sociomile.com
 0.0.0.0 socks.like.video
 0.0.0.0 socks-omm-1.lotusflare.com
+0.0.0.0 sodiumcupboard.com
 0.0.0.0 softland.icu
 0.0.0.0 sogou.com
 0.0.0.0 sohu.com
@@ -3587,6 +3603,7 @@
 0.0.0.0 stickyadstv.com
 0.0.0.0 st.like-it.video
 0.0.0.0 storage.billy.bendingspoons.com
+0.0.0.0 storage.pardot.com
 0.0.0.0 storage.ws.pho.to
 0.0.0.0 storedl1f.nearme.cn
 0.0.0.0 storedl2f.nearme.cn
@@ -3686,6 +3703,7 @@
 0.0.0.0 taz.mfcewkrob.com
 0.0.0.0 tbcache.com
 0.0.0.0 t.bignox.com
+0.0.0.0 tbsandbox.com
 0.0.0.0 tch493077.tch.quora.com
 0.0.0.0 tch.quora.com
 0.0.0.0 tdcv3.talkingdata.net
@@ -3779,6 +3797,7 @@
 0.0.0.0 toptradeguru.com
 0.0.0.0 toshiba6415.zendesk.com
 0.0.0.0 toto.zipoapps.com
+0.0.0.0 toutiao50.com
 0.0.0.0 toutiao.com
 0.0.0.0 tpai.caping.co.id
 0.0.0.0 tpns.sgp.tencent.com
@@ -3921,6 +3940,13 @@
 0.0.0.0 v16.resso.app
 0.0.0.0 v16.resso.me
 0.0.0.0 v57.genieesspv.jp
+0.0.0.0 v9-default.ixigua.com.bsgslb.com
+0.0.0.0 v9-dy-x.ixigua.com.bsgslb.com
+0.0.0.0 v9-dy-y.ixigua.com.bsgslb.com
+0.0.0.0 v9-dy-z.ixigua.com.bsgslb.com
+0.0.0.0 v9-hs.ixigua.com.bsgslb.com
+0.0.0.0 v9-tt.ixigua.com.bsgslb.com
+0.0.0.0 v9-tt.ixiguavideo.com.bsgslb.com
 0.0.0.0 vaexposed.weishu.me
 0.0.0.0 vas.samsungapps.com
 0.0.0.0 vast-events.inner-active.mobi
@@ -4093,6 +4119,7 @@
 0.0.0.0 wsds.cn
 0.0.0.0 ws.flv.nimo.tv
 0.0.0.0 wshareit.com
+0.0.0.0 wshifen.com
 0.0.0.0 ws.hls.nimo.tv
 0.0.0.0 wsod.com
 0.0.0.0 ws-sgp-origin-pull.snackvideo.in
@@ -4112,6 +4139,7 @@
 0.0.0.0 ww25.sas-autos.com
 0.0.0.0 ww38.h2svr.info
 0.0.0.0 ww82.lontaranews.com
+0.0.0.0 wwi.lanzouo.com
 0.0.0.0 www0.nathanaeldan.pro
 0.0.0.0 www100.nathanaeldan.pro
 0.0.0.0 www101.nathanaeldan.pro
@@ -4317,6 +4345,8 @@
 0.0.0.0 www.kastking.top
 0.0.0.0 www.king.com
 0.0.0.0 www.kustens.com
+0.0.0.0 www.lanzou.com
+0.0.0.0 www.lanzouo.com
 0.0.0.0 www.letucook.com
 0.0.0.0 www.letusdomino.com
 0.0.0.0 www.linkedin.com

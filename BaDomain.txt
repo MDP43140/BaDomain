@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 07.10.2022
+# Version: 09.10.2022
 # Update: 1 day
 #
 
@@ -25,12 +25,14 @@
 17roco.qq.com
 18000.me
 18183.com
+189.cn
 1.cn.pool.ntp.org
 1g5k5w.com
 1.ssiloc.com
 201205igp.gameloft.com
 20824721p.rfihub.com
 20ca2.playfabapi.com
+21cn.com
 232.138.196.35.bc.googleusercontent.com
 2828691.group41.sites.hubspot.net
 2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
@@ -277,9 +279,11 @@ alog.umeng.com
 aloha46.viber.com
 aloofvest.com
 alphonso.tv
+amap.com
 amazonfraudprotection.com
 amazonfraudprotection.ukit.me
 amdc.lazada.com
+amemv.com
 am.olx.biz.id
 amp.analytics-debugger.com
 ampcid.google.com
@@ -422,6 +426,7 @@ api.kika-backend.com
 api.kuaishouzt.com
 api.kwai.com
 api.kwaizt.com
+api.lanzouo.com
 api-leap.nbcsports.com
 api.likee.video
 api.like-it.video
@@ -789,6 +794,7 @@ britepool.com
 broadcast.biliintl.com
 browser-i-gl.heytapmobile.com
 browserplat.vivo.com.cn
+b.sf-syn.com
 b.sogou.com
 b.st-hatena.com
 bstream.hzmklvdieo.com
@@ -1045,6 +1051,8 @@ cloud.tencent.com
 cloud.typography.com
 cloud.wpscdn.com
 clupekfv.tweb.sched.ovscdns.com
+cmaf-source-fcdn-frankfurt.s.worldfcdn.com
+cmbchina.com
 cm.bilibili.com
 cmp.quantcast.com
 cmpv2.macworld.com
@@ -1070,6 +1078,7 @@ cognito-identity.us-west-1.amazonaws.com
 coinbasesj.vip
 colegiounamuno.es
 collect.alipay.com
+collect-elb-1844102569.us-east-1.elb.amazonaws.com
 collector.lunalabs.io
 collector-pxikkul2rm.perimeterx.net
 collector-pxt6dy78t8.px-client.net
@@ -2104,6 +2113,7 @@ i-sg01a.ocloud.heytapmobi.com
 i-sg.browser.heytapmobile.com
 i.snssdk.com
 isp-map.xunyou.mobi
+is.snssdk.com.xi.zwtianshangm.com
 istarapps.com
 it.bignox.com
 itc.cn
@@ -2150,11 +2160,13 @@ js.datadome.co
 js.digiads.co.id
 js.driftt.com
 js.getlasso.co
+js.hsadspixel.net
 js.hs-analytics.net
 js.hs-banner.com
 js.hscollectedforms.net
 js.hsforms.net
 js.hsleadflows.net
+js.hs-scripts.com
 js.hubspotfeedback.com
 js.intercomcdn.com
 js.media-lab.ai
@@ -2225,6 +2237,8 @@ lamida.id
 lan3rd.line.me
 lang-f.coloros.com
 languagef.coloros.com
+lanzou.com
+lanzouo.com
 lapaksebelahh.com
 l-api.livejournal.com
 lar83.s3.amazonaws.com
@@ -3280,6 +3294,7 @@ s6s.af.outfit7.com
 s7s.af.outfit7.com
 s8900.webovernet.com
 s8s.af.outfit7.com
+s95.cnzz.com
 s9.cnzz.com
 saasexch.com
 salesforce.com
@@ -3455,6 +3470,7 @@ socialapp.top
 sociomile.com
 socks.like.video
 socks-omm-1.lotusflare.com
+sodiumcupboard.com
 softland.icu
 sogou.com
 sohu.com
@@ -3587,6 +3603,7 @@ sticker.weixin.qq.com
 stickyadstv.com
 st.like-it.video
 storage.billy.bendingspoons.com
+storage.pardot.com
 storage.ws.pho.to
 storedl1f.nearme.cn
 storedl2f.nearme.cn
@@ -3686,6 +3703,7 @@ taxsee.ru
 taz.mfcewkrob.com
 tbcache.com
 t.bignox.com
+tbsandbox.com
 tch493077.tch.quora.com
 tch.quora.com
 tdcv3.talkingdata.net
@@ -3779,6 +3797,7 @@ topic-sticker-vending.snapchat.com
 toptradeguru.com
 toshiba6415.zendesk.com
 toto.zipoapps.com
+toutiao50.com
 toutiao.com
 tpai.caping.co.id
 tpns.sgp.tencent.com
@@ -3921,6 +3940,13 @@ uzone.id
 v16.resso.app
 v16.resso.me
 v57.genieesspv.jp
+v9-default.ixigua.com.bsgslb.com
+v9-dy-x.ixigua.com.bsgslb.com
+v9-dy-y.ixigua.com.bsgslb.com
+v9-dy-z.ixigua.com.bsgslb.com
+v9-hs.ixigua.com.bsgslb.com
+v9-tt.ixigua.com.bsgslb.com
+v9-tt.ixiguavideo.com.bsgslb.com
 vaexposed.weishu.me
 vas.samsungapps.com
 vast-events.inner-active.mobi
@@ -4093,6 +4119,7 @@ wsapi.master.live
 wsds.cn
 ws.flv.nimo.tv
 wshareit.com
+wshifen.com
 ws.hls.nimo.tv
 wsod.com
 ws-sgp-origin-pull.snackvideo.in
@@ -4112,6 +4139,7 @@ ww25.dogecointothemoon43.us
 ww25.sas-autos.com
 ww38.h2svr.info
 ww82.lontaranews.com
+wwi.lanzouo.com
 www0.nathanaeldan.pro
 www100.nathanaeldan.pro
 www101.nathanaeldan.pro
@@ -4317,6 +4345,8 @@ www.kagaitiktok.net
 www.kastking.top
 www.king.com
 www.kustens.com
+www.lanzou.com
+www.lanzouo.com
 www.letucook.com
 www.letusdomino.com
 www.linkedin.com

@@ -16,14 +16,16 @@
 
 clear;
 cat $1 \
- | sed -r 's/^[ \t]+|[ \t]+$//g' \
- | sed -r '/\"(enabled|allow|redirect)\"\: (true|false)/d' \
- | sed -r '/\"(url|label|redirect)\"\: \".+\"/d' \
- | sed -r 's/\"host\"\: \"//g' \
- | sed -r 's/['\''\"]//g' \
- | sed -r 's/,$//g' \
+ | sed -r \
+		-e 's/^[ \t]+|[ \t]+$//g' \
+		-e '/\"(enabled|allow|redirect)\"\: (true|false)/d' \
+		-e '/\"(url|label|redirect)\"\: \".+\"/d' \
+ 		-e 's/\"host\"\: \"//g' \
+ 		-e 's/['\''\"]//g' \
+ 		-e 's/,$//g' \
  | grep 'allowed: \[' --before-context=999999 \
  | grep 'blocked: \[' --after-context=999999 \
- | sed -r 's/^(allow|block)ed\:\ \[//g' \
- | sed -r '/\{|\]|\}/d' \
+ | sed -r \
+ 		-e 's/^(allow|block)ed\:\ \[//g' \
+ 		-e '/\{|\]|\}/d' \
  | sort -ui;

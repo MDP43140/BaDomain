@@ -210,16 +210,19 @@ api19.toutiao50.com
 api19-va.tiktokv.com
 api2-16-h2-eagle.musical.ly
 api2-16-h2-eagle.musical.ly.edgekey.net
+api2-16-h2-eagle.musical.ly.lan
 api2-16-h2-eagle-useast1a.musical.ly
 api2-16-h2-eagle-useast1a.musical.ly.edgekey.net
 api2-16-h2-eagle-useast2a.musical.ly
 api2-16-h2-eagle-useast2a.musical.ly.edgekey.net
+api2-16-h2-eagle-useast2a.musical.ly.lan
 api2-16-h2.musical.ly
 api2-16-h2.musical.ly.edgekey.net
 api2-16-h2-useast1a.musical.ly
 api2-16-h2-useast1a.musical.ly.edgekey.net
 api2-16-h2-useast2a.musical.ly
 api2-16-h2-useast2a.musical.ly.edgekey.net
+api2-16-h2-useast2a.musical.ly.lan
 api2-16.musical.ly
 api2-16.musical.ly.edgesuite.net
 api2-16-quic.musical.ly
@@ -1676,7 +1679,9 @@ musically-alternate.app.link
 musically.app.link
 musical.ly.edgekey.net
 musical.ly.edgesuite.net
+musically.ly
 musically.muscdn.com
+musica.ly
 musician.tiktok.com
 music.muscdn.com
 music.musical.ly
@@ -2960,6 +2965,7 @@ third-api.amemv.com.w.cdngslb.com
 thrift-doc.byted.org
 ticast1.toutiao50.com
 tiktokcdn.com
+tiktokcdn-com.akamaized.net
 tiktokcdn.com.akamaized.net
 tiktokcdn.com.baishan-cloud.net
 tiktokcdn.com.bytewlb.akadns.net
@@ -2977,9 +2983,12 @@ tiktok.com.edgekey.net
 tiktok.com.edgesuite.net
 tiktok-core-lb-maliva.byteoversea.net
 tiktok-core-lb-maliva-useast2a.byteoversea.net
+tiktokforbusinesseurope.com
 tiktokglobalshop.com
 tiktok-lb-alisg.byteoversea.net
 tiktok-lb-maliva.byteoversea.net
+tiktok.net
+tiktok.org
 tiktok-shops.com
 tiktokv.com
 tiktokv.com.cdn.cloudflare.net
@@ -3427,6 +3436,7 @@ v36.tiktokcdn.com
 v37.tiktokcdn.com
 v38.tiktokcdn.com
 v39-ca.gts.byteoversea.net
+v39-eu.tiktokcdn.com
 v39-id.tiktokcdn.com
 v39.muscdn.com
 v39.tiktokcdn.com
@@ -3724,6 +3734,7 @@ v.sgpstatp.com
 vs.snssdk.com
 v.tiktokcdn.com
 v.tiktok.com
+v.tiktok.net
 v.tiktokv.com
 vt.tiktok.com
 vt.tiktok.com.edgesuite.net
@@ -3931,6 +3942,7 @@ www.snssdk.com
 www.tiktokcdn.com
 www.tiktok.com
 www.tiktok.com.edgesuite.net
+www.tiktokforbusinesseurope.com
 www.tiktokv.com
 www.tiktokv.com.edgesuite.net
 www.toutiao.com

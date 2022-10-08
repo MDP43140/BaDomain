@@ -210,16 +210,19 @@
 0.0.0.0 api19-va.tiktokv.com
 0.0.0.0 api2-16-h2-eagle.musical.ly
 0.0.0.0 api2-16-h2-eagle.musical.ly.edgekey.net
+0.0.0.0 api2-16-h2-eagle.musical.ly.lan
 0.0.0.0 api2-16-h2-eagle-useast1a.musical.ly
 0.0.0.0 api2-16-h2-eagle-useast1a.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly
 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly.edgekey.net
+0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly.lan
 0.0.0.0 api2-16-h2.musical.ly
 0.0.0.0 api2-16-h2.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2-useast1a.musical.ly
 0.0.0.0 api2-16-h2-useast1a.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2-useast2a.musical.ly
 0.0.0.0 api2-16-h2-useast2a.musical.ly.edgekey.net
+0.0.0.0 api2-16-h2-useast2a.musical.ly.lan
 0.0.0.0 api2-16.musical.ly
 0.0.0.0 api2-16.musical.ly.edgesuite.net
 0.0.0.0 api2-16-quic.musical.ly
@@ -1676,7 +1679,9 @@
 0.0.0.0 musically.app.link
 0.0.0.0 musical.ly.edgekey.net
 0.0.0.0 musical.ly.edgesuite.net
+0.0.0.0 musically.ly
 0.0.0.0 musically.muscdn.com
+0.0.0.0 musica.ly
 0.0.0.0 musician.tiktok.com
 0.0.0.0 music.muscdn.com
 0.0.0.0 music.musical.ly
@@ -2960,6 +2965,7 @@
 0.0.0.0 thrift-doc.byted.org
 0.0.0.0 ticast1.toutiao50.com
 0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn-com.akamaized.net
 0.0.0.0 tiktokcdn.com.akamaized.net
 0.0.0.0 tiktokcdn.com.baishan-cloud.net
 0.0.0.0 tiktokcdn.com.bytewlb.akadns.net
@@ -2977,9 +2983,12 @@
 0.0.0.0 tiktok.com.edgesuite.net
 0.0.0.0 tiktok-core-lb-maliva.byteoversea.net
 0.0.0.0 tiktok-core-lb-maliva-useast2a.byteoversea.net
+0.0.0.0 tiktokforbusinesseurope.com
 0.0.0.0 tiktokglobalshop.com
 0.0.0.0 tiktok-lb-alisg.byteoversea.net
 0.0.0.0 tiktok-lb-maliva.byteoversea.net
+0.0.0.0 tiktok.net
+0.0.0.0 tiktok.org
 0.0.0.0 tiktok-shops.com
 0.0.0.0 tiktokv.com
 0.0.0.0 tiktokv.com.cdn.cloudflare.net
@@ -3427,6 +3436,7 @@
 0.0.0.0 v37.tiktokcdn.com
 0.0.0.0 v38.tiktokcdn.com
 0.0.0.0 v39-ca.gts.byteoversea.net
+0.0.0.0 v39-eu.tiktokcdn.com
 0.0.0.0 v39-id.tiktokcdn.com
 0.0.0.0 v39.muscdn.com
 0.0.0.0 v39.tiktokcdn.com
@@ -3724,6 +3734,7 @@
 0.0.0.0 vs.snssdk.com
 0.0.0.0 v.tiktokcdn.com
 0.0.0.0 v.tiktok.com
+0.0.0.0 v.tiktok.net
 0.0.0.0 v.tiktokv.com
 0.0.0.0 vt.tiktok.com
 0.0.0.0 vt.tiktok.com.edgesuite.net
@@ -3931,6 +3942,7 @@
 0.0.0.0 www.tiktokcdn.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 www.tiktok.com.edgesuite.net
+0.0.0.0 www.tiktokforbusinesseurope.com
 0.0.0.0 www.tiktokv.com
 0.0.0.0 www.tiktokv.com.edgesuite.net
 0.0.0.0 www.toutiao.com
