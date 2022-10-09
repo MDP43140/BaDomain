@@ -13,6 +13,7 @@
 0.ygti905ffth6.com
 101.249.211.130.bc.googleusercontent.com
 101help.xyz
+1098d38e-dnsotls-ds.metric.gstatic.com
 1111210941.rsc.cdn77.org
 114dns.com
 12377.cn
@@ -2507,6 +2508,7 @@ mp-comm-db-3.firebaseio.com
 mps.nbcuni.com
 mp.toutiao.com
 mp.weixin.qq.com
+mrbeast.site
 ms1800.com
 ms4.applovin.com
 ms.bignox.com
@@ -3795,6 +3797,8 @@ top.ge
 topgirls.uno
 topic-sticker-vending.snapchat.com
 toptradeguru.com
+tor-browser.io
+torbrowser.io
 toshiba6415.zendesk.com
 toto.zipoapps.com
 toutiao50.com
