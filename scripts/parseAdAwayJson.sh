@@ -14,7 +14,6 @@
 #  + get the list in allowed/disallowed range (those will be blocked domains)
 #  + and sort it
 
-clear;
 cat $1 \
  | sed -r \
 		-e 's/^[ \t]+|[ \t]+$//g' \
