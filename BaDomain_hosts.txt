@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.10.2022
+# Version: 11.10.2022
 # Update: 1 day
 #
 
@@ -360,6 +360,7 @@
 0.0.0.0 api.airtable.com
 0.0.0.0 api.anythinktech.com
 0.0.0.0 api-apac.bidmachine.io
+0.0.0.0 api.appbazaar.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api-assetstore.kinemasters.com
 0.0.0.0 api-auth.kinemasters.com
@@ -456,6 +457,7 @@
 0.0.0.0 api.picsart.com
 0.0.0.0 api.pinterest.com
 0.0.0.0 api.poster.appsinnova.com
+0.0.0.0 api-prod.chikiigame.com
 0.0.0.0 api-project-652995075284.firebaseio.com
 0.0.0.0 api.pro.kikakeyboard.com
 0.0.0.0 api.pubnative.net
@@ -467,6 +469,7 @@
 0.0.0.0 api.revenuecat.com
 0.0.0.0 api.saasexch.com
 0.0.0.0 api.samsungcloud.com
+0.0.0.0 api.sape.ru
 0.0.0.0 api.scooper.news
 0.0.0.0 api-sdk.datadome.co
 0.0.0.0 api.segment.io
@@ -515,6 +518,7 @@
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.advertizer.com
 0.0.0.0 appannie.com
+0.0.0.0 appbazaar.com
 0.0.0.0 app.bignox.com
 0.0.0.0 app.biliintl.com
 0.0.0.0 app.calconic.com
@@ -934,6 +938,7 @@
 0.0.0.0 cdn-graphql-v4.kumparan.com
 0.0.0.0 cdn-gw-dv.net
 0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 cdn-icloud-content.g.aaplimg.com
 0.0.0.0 cdnimage2.caping.co.id
 0.0.0.0 cdn-images.mailchimp.com
 0.0.0.0 cdn.innity.net
@@ -960,6 +965,7 @@
 0.0.0.0 cdn.pushmart.net
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdn.rortoscdn.com
+0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdn.scooper.news
 0.0.0.0 cdn-sdk.aihelp.net
 0.0.0.0 cdn.segment.com
@@ -987,6 +993,7 @@
 0.0.0.0 cengine.contextads.live
 0.0.0.0 centre.baby
 0.0.0.0 centurygames.com
+0.0.0.0 c.erotic-massagenn.com
 0.0.0.0 cfg.ws.pho.to
 0.0.0.0 cfs2.uadexchange.com
 0.0.0.0 cf.shopee.co.id
@@ -1488,6 +1495,7 @@
 0.0.0.0 epoch-gl.cdo.heytapmobi.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
 0.0.0.0 eportalmobile.com
+0.0.0.0 erotic-massagenn.com
 0.0.0.0 es.bignox.com
 0.0.0.0 escolhatecnologia.com
 0.0.0.0 escolhatecnologia.com.br
@@ -1577,6 +1585,7 @@
 0.0.0.0 fluidplayer.com
 0.0.0.0 fluxmud.quest
 0.0.0.0 fmdata.imgsmail.ru
+0.0.0.0 fnaim.ru
 0.0.0.0 focus.cn
 0.0.0.0 focusmedica.in
 0.0.0.0 fo.iemiq.com
@@ -2200,6 +2209,7 @@
 0.0.0.0 kidozplayer.com
 0.0.0.0 kids.weixin.qq.com
 0.0.0.0 killerbeanforever.com
+0.0.0.0 kinesis.ap-south-1.amazonaws.com
 0.0.0.0 king.com
 0.0.0.0 kinja.com
 0.0.0.0 kinja-com.videoplayerhub.com
@@ -2245,6 +2255,7 @@
 0.0.0.0 lar83.s3.amazonaws.com
 0.0.0.0 la-ucc-upaas.ucweb.com
 0.0.0.0 laucenter.ucweb.com
+0.0.0.0 laugoust.com
 0.0.0.0 launcher-us.yeshen.com
 0.0.0.0 launcher.us.yeshen.com
 0.0.0.0 lavasoft.com
@@ -2739,6 +2750,7 @@
 0.0.0.0 oauth.vk.com
 0.0.0.0 observe.metarouter.io
 0.0.0.0 obus-dc20123-sg.heytapmobile.com
+0.0.0.0 obus-dc20305-sg.heytapmobile.com
 0.0.0.0 obus-dc2-sg.heytapmobile.com
 0.0.0.0 obus-dctech-sg.heytapmobile.com
 0.0.0.0 obus-sg.dc.heytapmobile.com
@@ -3301,11 +3313,13 @@
 0.0.0.0 saasexch.com
 0.0.0.0 salesforce.com
 0.0.0.0 salesloft.com
+0.0.0.0 sam-api.appbazaar.com
 0.0.0.0 samba.tv
 0.0.0.0 samehadaku.tv
 0.0.0.0 samsappsbn.vo.llnwd.net
 0.0.0.0 samsung-callerprofile.edge.hiyaapi.com
 0.0.0.0 sandbox.ssp.rambler.ru
+0.0.0.0 sape.ru
 0.0.0.0 sapi.taptap.com
 0.0.0.0 sas-autos.com
 0.0.0.0 saserver.search.oppomobile.com
@@ -3443,6 +3457,7 @@
 0.0.0.0 sixtest.com
 0.0.0.0 skimlinks.com
 0.0.0.0 skimresources.com
+0.0.0.0 sk.ru
 0.0.0.0 sla-intl.trustlook.com
 0.0.0.0 slant-api.com
 0.0.0.0 slashdotmedia.com
@@ -3603,6 +3618,7 @@
 0.0.0.0 stickerf.apps.oppomobile.com
 0.0.0.0 sticker.weixin.qq.com
 0.0.0.0 stickyadstv.com
+0.0.0.0 stilfb.com
 0.0.0.0 st.like-it.video
 0.0.0.0 storage.billy.bendingspoons.com
 0.0.0.0 storage.pardot.com
@@ -4265,6 +4281,7 @@
 0.0.0.0 www.anydesk.com
 0.0.0.0 www.apkeditorfree.com
 0.0.0.0 www.app-ads-txt.com
+0.0.0.0 www.appbazaar.com
 0.0.0.0 www.appjustable.com
 0.0.0.0 www.applilink.jp
 0.0.0.0 www.attention-system-warning.com
@@ -4310,6 +4327,7 @@
 0.0.0.0 www.feedsonbudget.com
 0.0.0.0 www.filmmogzivota.rs
 0.0.0.0 www.financialtrending.com
+0.0.0.0 www.fnaim.ru
 0.0.0.0 www.focusmedica.in
 0.0.0.0 www.g2.com
 0.0.0.0 www.g2crowd.com
@@ -4397,6 +4415,7 @@
 0.0.0.0 www.robinhand.vip
 0.0.0.0 www.rollbit.com
 0.0.0.0 www.roobet.com
+0.0.0.0 www.sape.ru
 0.0.0.0 www.sas-autos.com
 0.0.0.0 www.screenconnect.com
 0.0.0.0 www.servicewebly.com
@@ -4405,6 +4424,7 @@
 0.0.0.0 www.shareaholic.com
 0.0.0.0 www.shareaholic.net
 0.0.0.0 www.sixtest.com
+0.0.0.0 www.sk.ru
 0.0.0.0 www.slickstream.com
 0.0.0.0 www.slideshare.net
 0.0.0.0 www.smartsuppchat.com

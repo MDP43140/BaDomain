@@ -6,6 +6,7 @@
 # having actual IP attached, please make a new issue (or pr?)
 #
 
+0523da02.api.splkmobile.com
 18cams.xyz
 18like.uno
 1.oca.nflxvideo.net
@@ -32,6 +33,7 @@ a.ak.prd.aadg.trafficmanager.net
 aaplimg.com
 aaxads.com
 a.b21239b48c28b76ab0fadd9390384ca24cfcd6a986907259ad0b9967.com
+a.b597b82f9a19736674ea8574aa00f02aaa4e69e585241d73502068b3.com
 abcsport3.com
 abcsport8.com
 about2.xyz
@@ -677,6 +679,7 @@ tm.a.prd.aadg.trafficmanager.net
 tmdak.top
 t-mobile-okta.com
 tm.prd.ags.akadns.net
+ton.twimg.com
 toprbx.best
 track.analytics.rocks
 tracking.g2.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.10.2022
+# Version: 11.10.2022
 # Update: 1 day
 #
 
@@ -360,6 +360,7 @@ api.ahagamecenter.com
 api.airtable.com
 api.anythinktech.com
 api-apac.bidmachine.io
+api.appbazaar.com
 api.appsflyer.com
 api-assetstore.kinemasters.com
 api-auth.kinemasters.com
@@ -456,6 +457,7 @@ api.pico.bendingspoonsapps.com
 api.picsart.com
 api.pinterest.com
 api.poster.appsinnova.com
+api-prod.chikiigame.com
 api-project-652995075284.firebaseio.com
 api.pro.kikakeyboard.com
 api.pubnative.net
@@ -467,6 +469,7 @@ api.resso.app
 api.revenuecat.com
 api.saasexch.com
 api.samsungcloud.com
+api.sape.ru
 api.scooper.news
 api-sdk.datadome.co
 api.segment.io
@@ -515,6 +518,7 @@ app.adjust.com
 app.adjust.net.in
 app.advertizer.com
 appannie.com
+appbazaar.com
 app.bignox.com
 app.biliintl.com
 app.calconic.com
@@ -934,6 +938,7 @@ cdn-go.cn
 cdn-graphql-v4.kumparan.com
 cdn-gw-dv.net
 cdn.heapanalytics.com
+cdn-icloud-content.g.aaplimg.com
 cdnimage2.caping.co.id
 cdn-images.mailchimp.com
 cdn.innity.net
@@ -960,6 +965,7 @@ cdn-production-assets-kly.akamaized.net
 cdn.pushmart.net
 cdn.ravenjs.com
 cdn.rortoscdn.com
+cdn-rtb.sape.ru
 cdn.scooper.news
 cdn-sdk.aihelp.net
 cdn.segment.com
@@ -987,6 +993,7 @@ cd.xdplt.com
 cengine.contextads.live
 centre.baby
 centurygames.com
+c.erotic-massagenn.com
 cfg.ws.pho.to
 cfs2.uadexchange.com
 cf.shopee.co.id
@@ -1488,6 +1495,7 @@ epoch-cn.cdo.heytapmobi.com
 epoch-gl.cdo.heytapmobi.com
 epoch-id.cdo.heytapmobi.com
 eportalmobile.com
+erotic-massagenn.com
 es.bignox.com
 escolhatecnologia.com
 escolhatecnologia.com.br
@@ -1577,6 +1585,7 @@ flix.bar
 fluidplayer.com
 fluxmud.quest
 fmdata.imgsmail.ru
+fnaim.ru
 focus.cn
 focusmedica.in
 fo.iemiq.com
@@ -2200,6 +2209,7 @@ kgsports-apk.acircle.vip
 kidozplayer.com
 kids.weixin.qq.com
 killerbeanforever.com
+kinesis.ap-south-1.amazonaws.com
 king.com
 kinja.com
 kinja-com.videoplayerhub.com
@@ -2245,6 +2255,7 @@ l-api.livejournal.com
 lar83.s3.amazonaws.com
 la-ucc-upaas.ucweb.com
 laucenter.ucweb.com
+laugoust.com
 launcher-us.yeshen.com
 launcher.us.yeshen.com
 lavasoft.com
@@ -2739,6 +2750,7 @@ o.alicdn.com
 oauth.vk.com
 observe.metarouter.io
 obus-dc20123-sg.heytapmobile.com
+obus-dc20305-sg.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
 obus-sg.dc.heytapmobile.com
@@ -3301,11 +3313,13 @@ s9.cnzz.com
 saasexch.com
 salesforce.com
 salesloft.com
+sam-api.appbazaar.com
 samba.tv
 samehadaku.tv
 samsappsbn.vo.llnwd.net
 samsung-callerprofile.edge.hiyaapi.com
 sandbox.ssp.rambler.ru
+sape.ru
 sapi.taptap.com
 sas-autos.com
 saserver.search.oppomobile.com
@@ -3443,6 +3457,7 @@ siteintercept.qualtrics.com
 sixtest.com
 skimlinks.com
 skimresources.com
+sk.ru
 sla-intl.trustlook.com
 slant-api.com
 slashdotmedia.com
@@ -3603,6 +3618,7 @@ st-hatena.com
 stickerf.apps.oppomobile.com
 sticker.weixin.qq.com
 stickyadstv.com
+stilfb.com
 st.like-it.video
 storage.billy.bendingspoons.com
 storage.pardot.com
@@ -4265,6 +4281,7 @@ www.announcekit.app
 www.anydesk.com
 www.apkeditorfree.com
 www.app-ads-txt.com
+www.appbazaar.com
 www.appjustable.com
 www.applilink.jp
 www.attention-system-warning.com
@@ -4310,6 +4327,7 @@ www.exonhack.com
 www.feedsonbudget.com
 www.filmmogzivota.rs
 www.financialtrending.com
+www.fnaim.ru
 www.focusmedica.in
 www.g2.com
 www.g2crowd.com
@@ -4397,6 +4415,7 @@ www.richapp1.com
 www.robinhand.vip
 www.rollbit.com
 www.roobet.com
+www.sape.ru
 www.sas-autos.com
 www.screenconnect.com
 www.servicewebly.com
@@ -4405,6 +4424,7 @@ www.shalltry.com
 www.shareaholic.com
 www.shareaholic.net
 www.sixtest.com
+www.sk.ru
 www.slickstream.com
 www.slideshare.net
 www.smartsuppchat.com
