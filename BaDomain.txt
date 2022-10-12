@@ -1,11 +1,12 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 11.10.2022
+# Version: 12.10.2022
 # Update: 1 day
 #
 
 016qfim5my3lh.puscomosca.com
+05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
 05efspdbawfc.puscomosca.com
 0kczn7.l0fwny.com
 0.news20.biz
@@ -134,6 +135,7 @@ aboutads.net
 abroad.apilocate.amap.com
 abruptlyinstitution.com
 abtesting.ai
+abtest.tmtreader.com
 abubadu.com
 a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 access1.tpns.sgp.tencent.com
@@ -344,6 +346,8 @@ api19.resso.app
 api1.boomplaymusic.com
 api21.resso.app
 api22-normal-alisg.helo-api.com
+api22-normal-quic-alisg.tmtreader.com
+api22-normal-quic-useast1a.tmtreader.com
 api22.resso.app
 api2.boomplaymusic.com
 api2.muslimpro.com
@@ -490,10 +494,12 @@ api.teslacoilapps.com
 api.themoviedb.org
 api.tmdak.top
 apitm.toolmatrix.plus
+api.tmtreader.com
 api.tratao.com
 api.twibida.com
 api-us.bidmachine.io
 api.ushareit.com
+api-va.tmtreader.com
 api-visitor-analytics.intercom.com
 api.vungle.com
 api.wattpad.com
@@ -1313,6 +1319,7 @@ dcmdae.y5en.com
 dc.y5en.com
 deathwing.me
 de.bignox.com
+deepublishstore.com
 degoo-instabridge.adsbynimbus.com
 delivery.contextads.live
 delivery.r2b2.io
@@ -1981,6 +1988,7 @@ ilovexclub.com
 ilyon.net
 image.bignox.com
 image-cdn.joinbudapp.com
+image.mathpresso.io
 image.mndsrv.com
 images.51.la
 images.anime-pictures.net
@@ -2055,6 +2063,7 @@ infogram.com
 infohub.azureedge.net
 infohubnews.app
 in-gaap.snackvideo.in
+ingaa.xyz
 init.supersonicads.com
 init.y5en.com
 injapp.com
@@ -2337,6 +2346,7 @@ logos.kiwibrowser.com
 log.reyun.com
 logs.im-gb.com
 logs.papertrailapp.com
+log.tmtreader.com
 log.tpns.hk.tencent.com
 log.tpns.sgp.tencent.com
 log.wt14yf.com
@@ -2417,6 +2427,7 @@ mdp-appconf-kh.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
 mdp-appconf-us.heytapdl.com
+me.apple-dns.net
 medallia.com
 medals.bizrate.com
 med.dtblt.com
@@ -2922,6 +2933,7 @@ partnerstack.com
 partner.toutiao.com
 passport.bignox.com
 passport.biliintl.com
+passport.tmtreader.com
 passport-us.bignox.com
 passport.yeshen.com
 pasta.esfile.duapps.com
@@ -3071,6 +3083,7 @@ proxyf.apps.oppomobile.com
 proxy-omm.lotusflare.com
 pr.prchecker.info
 ps4remoteplay.net
+p.scooper.news
 psegment.netcoresmartech.com
 ps.eyeota.net
 pt.bignox.com
@@ -3427,6 +3440,7 @@ shalltry.com
 shareaholic.com
 shareaholic.net
 sharepointonline.com
+share-sg.isnssdk.com
 sharethis.com
 sharethrough.com
 share.wedobest.com.cn
@@ -3517,6 +3531,7 @@ splash.unity.cn
 sportskeeda.com
 sports.qq.com
 sprtsecureassets.akamaized.net
+s.pubmine.com
 sp.zalo.me
 s.relap.mail.ru
 srv1.bilikfilm.xyz
@@ -3733,6 +3748,7 @@ technopawns.com
 techrights.org
 tecno.servicewebly.com
 teddymobile.cn
+telemetry.canva.com
 telemetry-pingv1.eyeo.com
 tenantlinet22.com
 tencent-cloud.cn
@@ -3773,6 +3789,7 @@ thinkingdata.cn
 thinksuggest.org
 threadloom.com
 thrtle.com
+thumb.viva.co.id
 ti9pl5.i6e7aabybyc.co.com
 ti9pl5.ti9pl5.i6e7aabybyc.co.com
 time1.cloud.tencent.com
@@ -3949,6 +3966,7 @@ uscreen.tv
 us-east1-aws-acc.api.snapchat.com
 us-east1-aws.api.snapchat.com
 us-east1-gcp.api.snapchat.com
+us-east-1.ingaa.xyz
 us-east4-gcp.api.snapchat.com
 useinsider.com
 user-api.ucweb.com
@@ -4356,6 +4374,7 @@ www.hopexos.vip
 www.hwclouds-dns.com
 www.iconsdb.com
 www.ilyon.net
+www.ingaa.xyz
 www.intuit.com
 www.iseepassword.com
 www.istarapps.com

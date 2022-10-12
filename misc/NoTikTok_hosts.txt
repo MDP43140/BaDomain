@@ -1407,6 +1407,7 @@
 0.0.0.0 lf9-amcdn-tos.pstatp.com.bsgslb.com
 0.0.0.0 lf9-effectcdn-tos.pstatp.com
 0.0.0.0 lf9-effectcdn-tos.pstatp.com.bsgslb.com
+0.0.0.0 lf9-geckocdn.tiktokcdn.com
 0.0.0.0 lf9-geckocdn-tos.pstatp.com.bsgslb.com
 0.0.0.0 lf9-tk-tos.tiktokcdn.com
 0.0.0.0 lf-c-flwb.bytetos.com
@@ -3910,6 +3911,7 @@
 0.0.0.0 weiliicimg1.pstatp.com
 0.0.0.0 welcome.toutiao.com
 0.0.0.0 wenda.toutiao.com
+0.0.0.0 widget-i18n.tiktokv.com
 0.0.0.0 wildcard.musical.ly.edgekey.net
 0.0.0.0 wj.byteoversea.com
 0.0.0.0 wj.byteoversea.com.edgesuite.net

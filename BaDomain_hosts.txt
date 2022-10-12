@@ -1,11 +1,12 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 11.10.2022
+# Version: 12.10.2022
 # Update: 1 day
 #
 
 0.0.0.0 016qfim5my3lh.puscomosca.com
+0.0.0.0 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
 0.0.0.0 05efspdbawfc.puscomosca.com
 0.0.0.0 0kczn7.l0fwny.com
 0.0.0.0 0.news20.biz
@@ -134,6 +135,7 @@
 0.0.0.0 abroad.apilocate.amap.com
 0.0.0.0 abruptlyinstitution.com
 0.0.0.0 abtesting.ai
+0.0.0.0 abtest.tmtreader.com
 0.0.0.0 abubadu.com
 0.0.0.0 a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 0.0.0.0 access1.tpns.sgp.tencent.com
@@ -344,6 +346,8 @@
 0.0.0.0 api1.boomplaymusic.com
 0.0.0.0 api21.resso.app
 0.0.0.0 api22-normal-alisg.helo-api.com
+0.0.0.0 api22-normal-quic-alisg.tmtreader.com
+0.0.0.0 api22-normal-quic-useast1a.tmtreader.com
 0.0.0.0 api22.resso.app
 0.0.0.0 api2.boomplaymusic.com
 0.0.0.0 api2.muslimpro.com
@@ -490,10 +494,12 @@
 0.0.0.0 api.themoviedb.org
 0.0.0.0 api.tmdak.top
 0.0.0.0 apitm.toolmatrix.plus
+0.0.0.0 api.tmtreader.com
 0.0.0.0 api.tratao.com
 0.0.0.0 api.twibida.com
 0.0.0.0 api-us.bidmachine.io
 0.0.0.0 api.ushareit.com
+0.0.0.0 api-va.tmtreader.com
 0.0.0.0 api-visitor-analytics.intercom.com
 0.0.0.0 api.vungle.com
 0.0.0.0 api.wattpad.com
@@ -1313,6 +1319,7 @@
 0.0.0.0 dc.y5en.com
 0.0.0.0 deathwing.me
 0.0.0.0 de.bignox.com
+0.0.0.0 deepublishstore.com
 0.0.0.0 degoo-instabridge.adsbynimbus.com
 0.0.0.0 delivery.contextads.live
 0.0.0.0 delivery.r2b2.io
@@ -1981,6 +1988,7 @@
 0.0.0.0 ilyon.net
 0.0.0.0 image.bignox.com
 0.0.0.0 image-cdn.joinbudapp.com
+0.0.0.0 image.mathpresso.io
 0.0.0.0 image.mndsrv.com
 0.0.0.0 images.51.la
 0.0.0.0 images.anime-pictures.net
@@ -2055,6 +2063,7 @@
 0.0.0.0 infohub.azureedge.net
 0.0.0.0 infohubnews.app
 0.0.0.0 in-gaap.snackvideo.in
+0.0.0.0 ingaa.xyz
 0.0.0.0 init.supersonicads.com
 0.0.0.0 init.y5en.com
 0.0.0.0 injapp.com
@@ -2337,6 +2346,7 @@
 0.0.0.0 log.reyun.com
 0.0.0.0 logs.im-gb.com
 0.0.0.0 logs.papertrailapp.com
+0.0.0.0 log.tmtreader.com
 0.0.0.0 log.tpns.hk.tencent.com
 0.0.0.0 log.tpns.sgp.tencent.com
 0.0.0.0 log.wt14yf.com
@@ -2417,6 +2427,7 @@
 0.0.0.0 mdp-appconf-mm.heytapdl.com
 0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 mdp-appconf-us.heytapdl.com
+0.0.0.0 me.apple-dns.net
 0.0.0.0 medallia.com
 0.0.0.0 medals.bizrate.com
 0.0.0.0 med.dtblt.com
@@ -2922,6 +2933,7 @@
 0.0.0.0 partner.toutiao.com
 0.0.0.0 passport.bignox.com
 0.0.0.0 passport.biliintl.com
+0.0.0.0 passport.tmtreader.com
 0.0.0.0 passport-us.bignox.com
 0.0.0.0 passport.yeshen.com
 0.0.0.0 pasta.esfile.duapps.com
@@ -3071,6 +3083,7 @@
 0.0.0.0 proxy-omm.lotusflare.com
 0.0.0.0 pr.prchecker.info
 0.0.0.0 ps4remoteplay.net
+0.0.0.0 p.scooper.news
 0.0.0.0 psegment.netcoresmartech.com
 0.0.0.0 ps.eyeota.net
 0.0.0.0 pt.bignox.com
@@ -3427,6 +3440,7 @@
 0.0.0.0 shareaholic.com
 0.0.0.0 shareaholic.net
 0.0.0.0 sharepointonline.com
+0.0.0.0 share-sg.isnssdk.com
 0.0.0.0 sharethis.com
 0.0.0.0 sharethrough.com
 0.0.0.0 share.wedobest.com.cn
@@ -3517,6 +3531,7 @@
 0.0.0.0 sportskeeda.com
 0.0.0.0 sports.qq.com
 0.0.0.0 sprtsecureassets.akamaized.net
+0.0.0.0 s.pubmine.com
 0.0.0.0 sp.zalo.me
 0.0.0.0 s.relap.mail.ru
 0.0.0.0 srv1.bilikfilm.xyz
@@ -3733,6 +3748,7 @@
 0.0.0.0 techrights.org
 0.0.0.0 tecno.servicewebly.com
 0.0.0.0 teddymobile.cn
+0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry-pingv1.eyeo.com
 0.0.0.0 tenantlinet22.com
 0.0.0.0 tencent-cloud.cn
@@ -3773,6 +3789,7 @@
 0.0.0.0 thinksuggest.org
 0.0.0.0 threadloom.com
 0.0.0.0 thrtle.com
+0.0.0.0 thumb.viva.co.id
 0.0.0.0 ti9pl5.i6e7aabybyc.co.com
 0.0.0.0 ti9pl5.ti9pl5.i6e7aabybyc.co.com
 0.0.0.0 time1.cloud.tencent.com
@@ -3949,6 +3966,7 @@
 0.0.0.0 us-east1-aws-acc.api.snapchat.com
 0.0.0.0 us-east1-aws.api.snapchat.com
 0.0.0.0 us-east1-gcp.api.snapchat.com
+0.0.0.0 us-east-1.ingaa.xyz
 0.0.0.0 us-east4-gcp.api.snapchat.com
 0.0.0.0 useinsider.com
 0.0.0.0 user-api.ucweb.com
@@ -4356,6 +4374,7 @@
 0.0.0.0 www.hwclouds-dns.com
 0.0.0.0 www.iconsdb.com
 0.0.0.0 www.ilyon.net
+0.0.0.0 www.ingaa.xyz
 0.0.0.0 www.intuit.com
 0.0.0.0 www.iseepassword.com
 0.0.0.0 www.istarapps.com
