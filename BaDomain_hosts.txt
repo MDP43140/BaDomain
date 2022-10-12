@@ -1319,7 +1319,6 @@
 0.0.0.0 dc.y5en.com
 0.0.0.0 deathwing.me
 0.0.0.0 de.bignox.com
-0.0.0.0 deepublishstore.com
 0.0.0.0 degoo-instabridge.adsbynimbus.com
 0.0.0.0 delivery.contextads.live
 0.0.0.0 delivery.r2b2.io
