@@ -1,30 +1,11 @@
 ## BaDomain (Bad Domains)
-this is a hosts file that blocks anything bad.
+this is a addon hosts file that blocks more bad things.
 this hosts file was only meant to improve blocking of your existing hosts list.
-Facebook, TikTok, Free Fire, Mobile Legends domains are also included (as misc)
-Sources (mostly from my own domain scraping and old not updated hosts):
-
-BaDomain:
-- My own domain scraping.
-
-BaDomain_Facebook:
-- My own domain scraping.
-- random sources from random domain i did'nt remember.
-
-BaDomain_TikTok:
-- My own domain scraping.
-- [llacb47/mischosts](https://github.com/llacb47/mischosts/blob/master/social/tiktok-block?raw=true)
-
-BaDomain_MLBB:
-- My own domain scraping.
-- random sources from random domain i did'nt remember.
-
-BaDomain_FreeFire:
-- My own domain scraping.
+Facebook, TikTok, Xiaomi, Free Fire, Mobile Legends, Roblox, Apple domains are also included (as misc)
 
 ## Contributing
 You can help this project by
-- adding your list of bad domains 
+- adding your list of bad domains
 - or issue some whitelist domain
 - add an issue or create pull request
 
@@ -33,6 +14,7 @@ I'm scraping the domains by deploying a free hotspot (at public places).
 with adblocking, using AdAway, with these hosts lists:
 - AdAway
 - [GoodByeAds](https://github.com/jerryn70/GoodBye-Ads)
+- [DanHorton's TikTok Blocklist](https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt)
 - StevenBlack
 
 then i use AdAway's DNS Activity tab to monitor DNS Activity than scrap any:
