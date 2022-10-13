@@ -70,6 +70,7 @@
 0.0.0.0 cl3.apple.com
 0.0.0.0 cl4.apple.com
 0.0.0.0 cl4.apple.com.c.footprint.net
+0.0.0.0 cl4-cdn.origin-apple.com.akadns.net
 0.0.0.0 cl5.apple.com
 0.0.0.0 cma.itunes.apple.com
 0.0.0.0 commnat-cohort-gc.ess.apple.com
@@ -150,6 +151,7 @@
 0.0.0.0 init.ess.apple.com
 0.0.0.0 init.gc.apple.com
 0.0.0.0 init.itunes.apple.com
+0.0.0.0 init-p01md.apple.com
 0.0.0.0 init.push.apple.com
 0.0.0.0 init.push-apple.com.akadns.net
 0.0.0.0 ipcdn.apple.com
@@ -307,6 +309,7 @@
 0.0.0.0 partiality.itunes.apple.com
 0.0.0.0 profile.gc.apple.com
 0.0.0.0 proxy.safebrowsing.apple
+0.0.0.0 query.ess.apple.com
 0.0.0.0 se2.itunes.apple.com
 0.0.0.0 setup.fe.apple-dns.net
 0.0.0.0 setup.icloud.com

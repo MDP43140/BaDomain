@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.10.2022
+# Version: 14.10.2022
 # Update: 1 day
 #
 
@@ -319,6 +319,7 @@ androiden.duapp.com
 android.pa1mstore.com
 android.palmplaystore.com
 android.palmst0re.com
+androidweb.wps.com
 animeindo.asia
 animeindo.to
 animeindo.video
@@ -685,6 +686,7 @@ autocomplete.clearbit.com
 auto.itc.cn
 autopilothq.com
 autopush.prod.mozaws.net
+av2wg.rt14v.com
 ava-cdn.like-it.video
 avanquest.com
 avatar.pho.to
@@ -975,6 +977,8 @@ cdn-rtb.sape.ru
 cdn.scooper.news
 cdn-sdk.aihelp.net
 cdn.segment.com
+cdns.eu1.gigya.com
+cdns.gigya.com
 cdn.shalltry.com
 cdn.shareaholic.net
 cdns.klimg.com
@@ -992,6 +996,7 @@ cdn-web.jifo.co
 cdn.weglot.com
 cdn.wetest.qq.com
 cdnwidget.com
+cdn.yousefalbasha.com
 cds-app.y5en.com
 cds.connatix.com
 cds.d6b8y6w3.hwcdn.net
@@ -1161,6 +1166,7 @@ control.connectwise.com
 convertkit.com
 cookappsgames.com
 cookiebot.com
+cookie-cdn.cookiepro.com
 cookielaw.org
 cookiepro.com
 cookie-script.com
@@ -1441,6 +1447,8 @@ dzbkjh1.myoppo.com
 e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e12919.dscd.akamaiedge.net
+e2c18.gcp.gvt2.com
+e2cs04.gcp.gvt2.com
 e3log1.fineboost.com
 e3log2.fineboost.com
 e3log3.fineboost.com
@@ -1476,6 +1484,7 @@ eleed.online
 elements.oxy.host
 elo.io
 eloism.net
+email.manutd.com
 embed-cdn.com
 embed-fastly.wistia.com
 embedwistia-a.akamaihd.net
@@ -1639,6 +1648,7 @@ fv-st-konrad.de
 fw.dnsforwardingservice.com
 fwmrm.net
 fxgate.baidu.com
+g1790.rt14v.com
 g2.com
 g2crowd.com
 g4tagging.komando.com
@@ -1706,6 +1716,7 @@ g-gdfp.uvfuns.com
 ghbtns.com
 ghost.org
 gift.bignox.com
+gigya.com
 gimmehost.org
 giphy.com
 girlfriend.host
@@ -1795,6 +1806,7 @@ gtq3.sct.sc-prod.net
 gtq6.sct.sc-prod.net
 guid.tpns.hk.tencent.com
 guid.tpns.sgp.tencent.com
+guif.coloros.com
 gumgum.com
 gumroad.com
 gurume.screenconnect.com
@@ -1987,6 +1999,7 @@ ilovexclub.com
 ilyon.net
 image.bignox.com
 image-cdn.joinbudapp.com
+image.email.manutd.com
 image.mathpresso.io
 image.mndsrv.com
 images.51.la
@@ -2101,6 +2114,7 @@ intuit.com
 invitereferrals.com
 iobit.com
 ios.crashsight.wetest.net
+i.ota.coloros.com
 iota.cooooos.com
 iot.weixin.qq.com
 ip-api.com
@@ -2163,6 +2177,7 @@ jmacs-m.lazada.co.id
 joinbudapp.com
 jomax.net
 jp.bignox.com
+jp-col-tcp.nelo.linecorp.com
 jpserver.site
 jpush.io
 jr.zingnews.vn
@@ -2769,6 +2784,7 @@ ocw.messagebird.com
 oemapi.kika-backend.com
 oem-api.palmplaystore.com
 oem.kika-backend.com
+ofa-sub.osp.opera.software
 offer.headlines.pw
 of.foldlife.net
 oficayuda.club
@@ -2804,6 +2820,7 @@ openfpcdn.io
 openlog.tap.io
 open.weixin.qq.com
 openwifi.ucweb.com
+opera.software
 opex-service-sg.allawnos.com
 oppomobile.com
 oppo-oem.avira-update.com
@@ -3629,6 +3646,7 @@ steveziogames.com
 st-exbrowser.vivoglobal.com
 stg-data-id.ads.heytapmobile.com
 st-hatena.com
+stickdix.com
 stickerf.apps.oppomobile.com
 sticker.weixin.qq.com
 stickyadstv.com
@@ -3824,6 +3842,7 @@ tools.refokus.com
 tooncoin.com
 toonme-com-cdn.ws.pho.to
 top100.ru
+topbos.com
 top-fwz1.mail.ru
 top.ge
 topgirls.uno
@@ -4079,6 +4098,7 @@ watchadsfree.com
 wa.tenor.co
 waterfox.net
 waust.at
+wa.zcnewy.com
 wd.adcolony.com
 weather-server-sg.allawnos.com
 web2.17roco.qq.com
@@ -4096,6 +4116,7 @@ weborama.com
 webovernet.com
 webpulse.imgsmail.ru
 webpushr.com
+web-sdk.urbanairship.com
 websocket-visitors.smartsupp.com
 webstore.ucweb.com
 webtoon-phinf.pstatic.net
@@ -4130,6 +4151,7 @@ whoami.akamai.net
 whx66.veve.com
 widget.intercom.io
 widgets.outbrain.com
+widgets.pinterest.com
 widget.surveymonkey.com
 widget-v2.smartsuppcdn.com
 wifimap.zendesk.com
@@ -4169,13 +4191,24 @@ wuildit.com
 wuji.wetvinfo.com
 wv.inner-active.mobi
 wvzb9b.xjwi5.com
+ww10.affinity.net
 ww16.doge43tothemoon.us
 ww1.bigosext1.com
 ww25.apkeditorfree.com
 ww25.dogecointothemoon43.us
 ww25.sas-autos.com
+ww2.affinity.net
 ww38.h2svr.info
+ww44.affinity.net
+ww4.affinity.net
+ww55.affinity.net
+ww5.affinity.net
+ww6.affinity.net
 ww82.lontaranews.com
+ww88.affinity.net
+ww8.affinity.net
+ww99.affinity.net
+ww9.affinity.net
 wwi.lanzouo.com
 www0.nathanaeldan.pro
 www100.nathanaeldan.pro
@@ -4292,6 +4325,7 @@ www.addtoany.com
 www.adlook.me
 www.ad-x.com
 www.ad-x.co.uk
+www.affinity.net
 www.aksconsulting.us
 www.alipay.com
 www.announcekit.app
@@ -4327,6 +4361,7 @@ www.cleverpush.com
 www.codashop.com
 www.coinbasesj.vip
 www.colegiounamuno.es
+www.cookiepro.com
 www.creditkarma.com
 www.creemo.pl
 www.data.ai
@@ -4465,6 +4500,8 @@ www.teddymobile.cn
 www.terabox.com
 www.thrifter.com
 www.tns-counter.ru
+www.topbos.com
+www.toptoppartner.com
 www.toutiao.com
 www.transsnet.com
 www.turbotax.com
