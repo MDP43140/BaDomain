@@ -12,12 +12,11 @@ You can help this project by
 ## Note:
 I'm scraping the domains by deploying a free hotspot (at public places).
 with adblocking, using AdAway, with these hosts lists:
-- AdAway
-- [GoodByeAds](https://github.com/jerryn70/GoodBye-Ads)
+- [GoodByeAds + GoodbyeAds YouTube](https://github.com/jerryn70/GoodBye-Ads)
 - [DanHorton's TikTok Blocklist](https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt)
 - StevenBlack
 
-then i use AdAway's DNS Activity tab to monitor DNS Activity than scrap any:
+then i use AdAway's DNS Activity tab to monitor DNS Activity then scrap any:
 - Unknown domains.
 - Chinese domains (eg. *.cn, tiktok.com).
 - Tracking domains (eg. adx.com).

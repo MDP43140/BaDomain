@@ -3,7 +3,7 @@
 # Use this list to totally block access to
 # any bytedance products (including TikTok, CapCut, Pangle, etc...) on your network.
 #
-# I recommend using this with DanHorton's TikTok blocker:
+# I recommend using this with DanHorton's TikTok blocklist:
 # https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt
 #
 
