@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 14.10.2022
+# Version: 15.10.2022
 # Update: 1 day
 #
 
@@ -141,6 +141,7 @@
 0.0.0.0 access1.tpns.sgp.tencent.com
 0.0.0.0 access.line.me
 0.0.0.0 access-pre.ucweb.com
+0.0.0.0 accounts.ea.com
 0.0.0.0 accuweather-com.videoplayerhub.com
 0.0.0.0 acc.wetvinfo.com
 0.0.0.0 acegen.uno
@@ -310,6 +311,7 @@
 0.0.0.0 androidads4-6.adcolony.com
 0.0.0.0 androidads4-7.adcolony.com
 0.0.0.0 androidads4-8.adcolony.com
+0.0.0.0 androidapp.baidu.com
 0.0.0.0 android-appboot.netflix.com
 0.0.0.0 android.crashsight.wetest.net
 0.0.0.0 android-dcdn.pa1mstore.com
@@ -360,6 +362,7 @@
 0.0.0.0 api40-normal-alisg.helo-api.com
 0.0.0.0 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
 0.0.0.0 api.adapty.io
+0.0.0.0 api.adclound.com
 0.0.0.0 api.ads.yahoo.com
 0.0.0.0 api.ahagamecenter.com
 0.0.0.0 api.airtable.com
@@ -428,6 +431,7 @@
 0.0.0.0 api.isharingapp.com
 0.0.0.0 api.jetengine.be
 0.0.0.0 api.joinbudapp.com
+0.0.0.0 api-js-log.trustarc.com
 0.0.0.0 api.kastking.top
 0.0.0.0 api.kika-backend.com
 0.0.0.0 api.kuaishouzt.com
@@ -435,6 +439,7 @@
 0.0.0.0 api.kwaizt.com
 0.0.0.0 api.lanzouo.com
 0.0.0.0 api-leap.nbcsports.com
+0.0.0.0 api.leatonm.net
 0.0.0.0 api.likee.video
 0.0.0.0 api.like-it.video
 0.0.0.0 api.livechatinc.com
@@ -516,6 +521,7 @@
 0.0.0.0 api.xintaicz.cn
 0.0.0.0 api.xshareapp.com
 0.0.0.0 api.yandex.ru
+0.0.0.0 api.yunclound.com
 0.0.0.0 api.zingnews.vn
 0.0.0.0 apkeditorfree.com
 0.0.0.0 aplhabet.applinzi.com
@@ -657,6 +663,7 @@
 0.0.0.0 assets.flex.twilio.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.mintegral.com
+0.0.0.0 assets.promediateknologi.com
 0.0.0.0 assets-share.dspunion.com
 0.0.0.0 assets.tower.sybo.net
 0.0.0.0 assets.ubembed.com
@@ -739,6 +746,7 @@
 0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beagles.cookappsgames.com
 0.0.0.0 beamngdrive.net
+0.0.0.0 beast.cash
 0.0.0.0 beautygirls.online
 0.0.0.0 beautyzone.cam
 0.0.0.0 beautyzone.com
@@ -918,6 +926,7 @@
 0.0.0.0 cdn7.uzone.id
 0.0.0.0 cdn8.editmysite.com
 0.0.0.0 cdn8.uzone.id
+0.0.0.0 cdn925.com
 0.0.0.0 cdn9.editmysite.com
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.aihelp.net
@@ -1051,6 +1060,7 @@
 0.0.0.0 clearbitscripts.com
 0.0.0.0 cleverpush.com
 0.0.0.0 clickagy.com
+0.0.0.0 clicken.us
 0.0.0.0 clientapi-sin.dtignite.com
 0.0.0.0 client-registry.mutinycdn.com
 0.0.0.0 client-uc.heytapmobi.com
@@ -1156,6 +1166,7 @@
 0.0.0.0 conn-service-us-03.allawnos.com
 0.0.0.0 conn-service-us-04.allawnos.com
 0.0.0.0 conn-service-us-05.allawnos.com
+0.0.0.0 consent.trustarc.com
 0.0.0.0 constellix.com
 0.0.0.0 content-fgw.zepeto.io
 0.0.0.0 contentful.com
@@ -1421,6 +1432,7 @@
 0.0.0.0 dragate-in-dc.heytapmobile.com
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
+0.0.0.0 draper.popcap.com
 0.0.0.0 drift.com
 0.0.0.0 driftracingonline.com
 0.0.0.0 driftt.com
@@ -1453,6 +1465,7 @@
 0.0.0.0 e3log2.fineboost.com
 0.0.0.0 e3log3.fineboost.com
 0.0.0.0 e673.dsce9.akamaiedge.net
+0.0.0.0 e6987.dsce9.akamaiedge.net
 0.0.0.0 e69896.dscapi6.akamaiedge.net
 0.0.0.0 e7100.g.akamaiedge.net
 0.0.0.0 e.alipay.com
@@ -1682,6 +1695,7 @@
 0.0.0.0 garud.jp
 0.0.0.0 garusoft.com
 0.0.0.0 gate.upclick.com
+0.0.0.0 gateway.ea.com
 0.0.0.0 gateway.fe.apple-dns.net
 0.0.0.0 gateway.multiplay.zepeto.run
 0.0.0.0 gateway.upush.englory.net
@@ -1841,6 +1855,8 @@
 0.0.0.0 heapanalytics.com
 0.0.0.0 heap.io
 0.0.0.0 hellomagazine.com
+0.0.0.0 helpcmsecurity0.ksmobile.com
+0.0.0.0 helpcmsecurity1.ksmobile.com
 0.0.0.0 helponline123.com
 0.0.0.0 helpscout.com
 0.0.0.0 helpscout.net
@@ -1954,6 +1970,7 @@
 0.0.0.0 id-live.slatic.net
 0.0.0.0 id-main-appstore.vivoglobal.com
 0.0.0.0 id.maps.taxsee.com
+0.0.0.0 idm-pub-img.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 idola.net.id
 0.0.0.0 id.push.oppomobile.com
 0.0.0.0 id-search-appstore.vivoglobal.com
@@ -2045,6 +2062,7 @@
 0.0.0.0 imgsmail.ru
 0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 img.teddymobile.cn
+0.0.0.0 img.tysondata.com
 0.0.0.0 img.wattpad.com
 0.0.0.0 imgx.gridoto.com
 0.0.0.0 immr-uhl-tvm.elasticbeanstalk.com
@@ -2250,6 +2268,7 @@
 0.0.0.0 kol.yeshen.com
 0.0.0.0 komoona.com
 0.0.0.0 kompascybermedia-d.openx.net
+0.0.0.0 kpgfrevlebuzgoazsdgamt1zg7j8bi4bg.akamaized.net
 0.0.0.0 kr.bignox.com
 0.0.0.0 krisp.ai
 0.0.0.0 ksmobile.net
@@ -2296,6 +2315,7 @@
 0.0.0.0 lbs-ru4.ads.betweendigital.com
 0.0.0.0 lbs-zaizai.netease.im
 0.0.0.0 leaderboard.api.glance.inmobi.com
+0.0.0.0 leatonm.net
 0.0.0.0 leawo.org
 0.0.0.0 lencr.org
 0.0.0.0 leonard.faceapp.io
@@ -2456,6 +2476,7 @@
 0.0.0.0 media6degrees.com
 0.0.0.0 mediacategory.com
 0.0.0.0 media-cldnry.s-nbcnews.com
+0.0.0.0 media.contentapi.ea.com
 0.0.0.0 media-contentful.zepeto.io
 0.0.0.0 mediaforge.com
 0.0.0.0 media.go2speed.org
@@ -2561,6 +2582,7 @@
 0.0.0.0 msr-public-ubiservices.ubi.com
 0.0.0.0 ms.shalltry.com
 0.0.0.0 msync-im1-sgp.easemob.com
+0.0.0.0 msync-im1-sgp-lit.easemob.com
 0.0.0.0 mt3-v2-apple.amanotes.io
 0.0.0.0 mta-0.mailing.educba.com
 0.0.0.0 mta-1.mailing.educba.com
@@ -2619,6 +2641,7 @@
 0.0.0.0 ncaudienceexchange.com
 0.0.0.0 ndds001.com
 0.0.0.0 ndds002.com
+0.0.0.0 nds-network-nav.ea.com
 0.0.0.0 nearbysharing-pa.googleapis.com
 0.0.0.0 nea.telkomsel.com
 0.0.0.0 nekkimobile.ru
@@ -2653,6 +2676,7 @@
 0.0.0.0 nitrokod-inc-google-translate-desktop.en.uptodown.com
 0.0.0.0 nj.cschannel.anticheatexpert.com
 0.0.0.0 njs.services.livejournal.com
+0.0.0.0 n.m.ksmobile.com
 0.0.0.0 nmnm.lol
 0.0.0.0 no-cache.hubspot.com
 0.0.0.0 nocodeflow.net
@@ -2773,6 +2797,7 @@
 0.0.0.0 o984659.ingest.sentry.io
 0.0.0.0 o.alicdn.com
 0.0.0.0 oauth.vk.com
+0.0.0.0 obr-sim.bounty-rush.com
 0.0.0.0 observe.metarouter.io
 0.0.0.0 obus-dc20123-sg.heytapmobile.com
 0.0.0.0 obus-dc20305-sg.heytapmobile.com
@@ -2999,6 +3024,7 @@
 0.0.0.0 pic-bstarstatic.akamaized.net
 0.0.0.0 pic.bstarstatic.com
 0.0.0.0 pic.sogou.com
+0.0.0.0 ping1.tnt-ea.com
 0.0.0.0 ping.cloud.tencent.com
 0.0.0.0 pingdom.net
 0.0.0.0 pingfore.qq.com
@@ -3041,6 +3067,7 @@
 0.0.0.0 play-ws.vod.shopee.com
 0.0.0.0 pl.bignox.com
 0.0.0.0 pl.connatix.com
+0.0.0.0 pl.ea.com
 0.0.0.0 plugin-server.wps.com
 0.0.0.0 podrbx.best
 0.0.0.0 pogoda.imgsmail.ru
@@ -3089,6 +3116,7 @@
 0.0.0.0 prod-tp.sumo.mozit.cloud
 0.0.0.0 product.instiengage.com
 0.0.0.0 production.kolbapps.com
+0.0.0.0 product.sn.eamobile.com
 0.0.0.0 profitablegatetocontent.com
 0.0.0.0 profitwell.com
 0.0.0.0 propsid.b-cdn.net
@@ -3131,6 +3159,8 @@
 0.0.0.0 pushprofit.net
 0.0.0.0 pushwoosh.com
 0.0.0.0 pushycat.net
+0.0.0.0 pvz2-live.ecs.popcap.com
+0.0.0.0 pvz2-prd.popcap.com
 0.0.0.0 px1.lifesavvy.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px-conf.perimeterx.net
@@ -3252,6 +3282,7 @@
 0.0.0.0 rink.hockeyapp.net
 0.0.0.0 riseup.net
 0.0.0.0 risk.clearbit.com
+0.0.0.0 river-mobile.data.ea.com
 0.0.0.0 riversnails.club
 0.0.0.0 rkdms.com
 0.0.0.0 rmb.ops.beeline.ru
@@ -3715,6 +3746,7 @@
 0.0.0.0 synchrobox.adswizz.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 syn-dir.sn.eamobile.com
 0.0.0.0 sysstat.tildacdn.com
 0.0.0.0 system1.com
 0.0.0.0 sysupgrade.api.vivoglobal.com
@@ -4043,6 +4075,7 @@
 0.0.0.0 visteme.mx
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vivo.com.cn
+0.0.0.0 vjs.zencdn.net
 0.0.0.0 vk.com
 0.0.0.0 v.lsttnews.com
 0.0.0.0 vn.bignox.com
@@ -4198,6 +4231,7 @@
 0.0.0.0 ww25.dogecointothemoon43.us
 0.0.0.0 ww25.sas-autos.com
 0.0.0.0 ww2.affinity.net
+0.0.0.0 ww2.leatonm.net
 0.0.0.0 ww38.h2svr.info
 0.0.0.0 ww44.affinity.net
 0.0.0.0 ww4.affinity.net
@@ -4321,6 +4355,7 @@
 0.0.0.0 www99.nathanaeldan.pro
 0.0.0.0 www9.nathanaeldan.pro
 0.0.0.0 www.adapex.io
+0.0.0.0 www.adclound.com
 0.0.0.0 www.addtoany.com
 0.0.0.0 www.adlook.me
 0.0.0.0 www.ad-x.com
@@ -4352,12 +4387,14 @@
 0.0.0.0 www.carx-online.com
 0.0.0.0 www.castle.io
 0.0.0.0 www.catbox.moe
+0.0.0.0 www.cdn925.com
 0.0.0.0 www.cdnmore.com
 0.0.0.0 www.cdn.viber.com
 0.0.0.0 www.centurygames.com
 0.0.0.0 www.chandashi.com
 0.0.0.0 www.ckg.hk
 0.0.0.0 www.cleverpush.com
+0.0.0.0 www.clicken.us
 0.0.0.0 www.codashop.com
 0.0.0.0 www.coinbasesj.vip
 0.0.0.0 www.colegiounamuno.es
@@ -4371,6 +4408,7 @@
 0.0.0.0 www.docdoc.com
 0.0.0.0 www.duelbits.com
 0.0.0.0 www.duolaipk.com
+0.0.0.0 www.ea.com
 0.0.0.0 www.eep.io
 0.0.0.0 www.escolhatecnologia.com.br
 0.0.0.0 www.etsy.com
@@ -4422,6 +4460,7 @@
 0.0.0.0 www.kustens.com
 0.0.0.0 www.lanzou.com
 0.0.0.0 www.lanzouo.com
+0.0.0.0 www.leatonm.net
 0.0.0.0 www.letucook.com
 0.0.0.0 www.letusdomino.com
 0.0.0.0 www.linkedin.com
@@ -4454,6 +4493,7 @@
 0.0.0.0 www.palmpay.com
 0.0.0.0 www.pdl.id
 0.0.0.0 www.polussuo.com
+0.0.0.0 www.popcap.com
 0.0.0.0 www.portals.mobi
 0.0.0.0 www.profitwell.com
 0.0.0.0 www.pulselive.com
@@ -4464,6 +4504,7 @@
 0.0.0.0 www.refokus.com
 0.0.0.0 www.requesteasy.com
 0.0.0.0 www.rewards-cards.org
+0.0.0.0 www.rhino-news.com
 0.0.0.0 www.richapp1.com
 0.0.0.0 www.robinhand.vip
 0.0.0.0 www.rollbit.com
@@ -4546,6 +4587,7 @@
 0.0.0.0 www.yeshen.com.w.kunlungr.com
 0.0.0.0 www.youtts.com
 0.0.0.0 www.yueguo99.com
+0.0.0.0 www.yunclound.com
 0.0.0.0 www.zadn.vn
 0.0.0.0 www.zalo.me
 0.0.0.0 www.zascdn.me

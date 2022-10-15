@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 14.10.2022
+# Version: 15.10.2022
 # Update: 1 day
 #
 
@@ -141,6 +141,7 @@ a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 access1.tpns.sgp.tencent.com
 access.line.me
 access-pre.ucweb.com
+accounts.ea.com
 accuweather-com.videoplayerhub.com
 acc.wetvinfo.com
 acegen.uno
@@ -310,6 +311,7 @@ androidads4-5.adcolony.com
 androidads4-6.adcolony.com
 androidads4-7.adcolony.com
 androidads4-8.adcolony.com
+androidapp.baidu.com
 android-appboot.netflix.com
 android.crashsight.wetest.net
 android-dcdn.pa1mstore.com
@@ -360,6 +362,7 @@ api3.boomplaymusic.com
 api40-normal-alisg.helo-api.com
 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
 api.adapty.io
+api.adclound.com
 api.ads.yahoo.com
 api.ahagamecenter.com
 api.airtable.com
@@ -428,6 +431,7 @@ api.iq.com
 api.isharingapp.com
 api.jetengine.be
 api.joinbudapp.com
+api-js-log.trustarc.com
 api.kastking.top
 api.kika-backend.com
 api.kuaishouzt.com
@@ -435,6 +439,7 @@ api.kwai.com
 api.kwaizt.com
 api.lanzouo.com
 api-leap.nbcsports.com
+api.leatonm.net
 api.likee.video
 api.like-it.video
 api.livechatinc.com
@@ -516,6 +521,7 @@ api.wt14yf.com
 api.xintaicz.cn
 api.xshareapp.com
 api.yandex.ru
+api.yunclound.com
 api.zingnews.vn
 apkeditorfree.com
 aplhabet.applinzi.com
@@ -657,6 +663,7 @@ assets.duniagames.co.id
 assets.flex.twilio.com
 assets-jpcust.jwpsrv.com
 assets.mintegral.com
+assets.promediateknologi.com
 assets-share.dspunion.com
 assets.tower.sybo.net
 assets.ubembed.com
@@ -739,6 +746,7 @@ beacons.page
 beacon-v2.helpscout.net
 beagles.cookappsgames.com
 beamngdrive.net
+beast.cash
 beautygirls.online
 beautyzone.cam
 beautyzone.com
@@ -918,6 +926,7 @@ cdn-7.tstatic.net
 cdn7.uzone.id
 cdn8.editmysite.com
 cdn8.uzone.id
+cdn925.com
 cdn9.editmysite.com
 cdn.adswizz.com
 cdn.aihelp.net
@@ -1051,6 +1060,7 @@ clearbitjs.com
 clearbitscripts.com
 cleverpush.com
 clickagy.com
+clicken.us
 clientapi-sin.dtignite.com
 client-registry.mutinycdn.com
 client-uc.heytapmobi.com
@@ -1156,6 +1166,7 @@ conn-service-gl-01.allawntech.com
 conn-service-us-03.allawnos.com
 conn-service-us-04.allawnos.com
 conn-service-us-05.allawnos.com
+consent.trustarc.com
 constellix.com
 content-fgw.zepeto.io
 contentful.com
@@ -1421,6 +1432,7 @@ dragate.dc.oppomobile.com
 dragate-in-dc.heytapmobile.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
+draper.popcap.com
 drift.com
 driftracingonline.com
 driftt.com
@@ -1453,6 +1465,7 @@ e3log1.fineboost.com
 e3log2.fineboost.com
 e3log3.fineboost.com
 e673.dsce9.akamaiedge.net
+e6987.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
 e.alipay.com
@@ -1682,6 +1695,7 @@ garagewestrotterdam.nl
 garud.jp
 garusoft.com
 gate.upclick.com
+gateway.ea.com
 gateway.fe.apple-dns.net
 gateway.multiplay.zepeto.run
 gateway.upush.englory.net
@@ -1841,6 +1855,8 @@ hdcb-api.fortumo.io
 heapanalytics.com
 heap.io
 hellomagazine.com
+helpcmsecurity0.ksmobile.com
+helpcmsecurity1.ksmobile.com
 helponline123.com
 helpscout.com
 helpscout.net
@@ -1954,6 +1970,7 @@ id-info-appstore.vivoglobal.com
 id-live.slatic.net
 id-main-appstore.vivoglobal.com
 id.maps.taxsee.com
+idm-pub-img.s3.ap-southeast-1.amazonaws.com
 idola.net.id
 id.push.oppomobile.com
 id-search-appstore.vivoglobal.com
@@ -2045,6 +2062,7 @@ img.scooper.news
 imgsmail.ru
 img-s-msn-com.akamaized.net
 img.teddymobile.cn
+img.tysondata.com
 img.wattpad.com
 imgx.gridoto.com
 immr-uhl-tvm.elasticbeanstalk.com
@@ -2250,6 +2268,7 @@ kolbapps.com
 kol.yeshen.com
 komoona.com
 kompascybermedia-d.openx.net
+kpgfrevlebuzgoazsdgamt1zg7j8bi4bg.akamaized.net
 kr.bignox.com
 krisp.ai
 ksmobile.net
@@ -2296,6 +2315,7 @@ lbs-ru3.ads.betweendigital.com
 lbs-ru4.ads.betweendigital.com
 lbs-zaizai.netease.im
 leaderboard.api.glance.inmobi.com
+leatonm.net
 leawo.org
 lencr.org
 leonard.faceapp.io
@@ -2456,6 +2476,7 @@ media4.s-nbcnews.com
 media6degrees.com
 mediacategory.com
 media-cldnry.s-nbcnews.com
+media.contentapi.ea.com
 media-contentful.zepeto.io
 mediaforge.com
 media.go2speed.org
@@ -2561,6 +2582,7 @@ m.sohu.com
 msr-public-ubiservices.ubi.com
 ms.shalltry.com
 msync-im1-sgp.easemob.com
+msync-im1-sgp-lit.easemob.com
 mt3-v2-apple.amanotes.io
 mta-0.mailing.educba.com
 mta-1.mailing.educba.com
@@ -2619,6 +2641,7 @@ nbcu.demdex.net
 ncaudienceexchange.com
 ndds001.com
 ndds002.com
+nds-network-nav.ea.com
 nearbysharing-pa.googleapis.com
 nea.telkomsel.com
 nekkimobile.ru
@@ -2653,6 +2676,7 @@ nightfallinquiredune.com
 nitrokod-inc-google-translate-desktop.en.uptodown.com
 nj.cschannel.anticheatexpert.com
 njs.services.livejournal.com
+n.m.ksmobile.com
 nmnm.lol
 no-cache.hubspot.com
 nocodeflow.net
@@ -2773,6 +2797,7 @@ o937343.ingest.sentry.io
 o984659.ingest.sentry.io
 o.alicdn.com
 oauth.vk.com
+obr-sim.bounty-rush.com
 observe.metarouter.io
 obus-dc20123-sg.heytapmobile.com
 obus-dc20305-sg.heytapmobile.com
@@ -2999,6 +3024,7 @@ pic.ak.mangatoon.akamaized.net
 pic-bstarstatic.akamaized.net
 pic.bstarstatic.com
 pic.sogou.com
+ping1.tnt-ea.com
 ping.cloud.tencent.com
 pingdom.net
 pingfore.qq.com
@@ -3041,6 +3067,7 @@ play.wetvinfo.com
 play-ws.vod.shopee.com
 pl.bignox.com
 pl.connatix.com
+pl.ea.com
 plugin-server.wps.com
 podrbx.best
 pogoda.imgsmail.ru
@@ -3089,6 +3116,7 @@ prod-game.survivorio.com
 prod-tp.sumo.mozit.cloud
 product.instiengage.com
 production.kolbapps.com
+product.sn.eamobile.com
 profitablegatetocontent.com
 profitwell.com
 propsid.b-cdn.net
@@ -3131,6 +3159,8 @@ pushmessage.samsung.com
 pushprofit.net
 pushwoosh.com
 pushycat.net
+pvz2-live.ecs.popcap.com
+pvz2-prd.popcap.com
 px1.lifesavvy.com
 px.adhigh.net
 px-conf.perimeterx.net
@@ -3252,6 +3282,7 @@ r-in.glance-cdn.com
 rink.hockeyapp.net
 riseup.net
 risk.clearbit.com
+river-mobile.data.ea.com
 riversnails.club
 rkdms.com
 rmb.ops.beeline.ru
@@ -3715,6 +3746,7 @@ sync.ecal.com
 synchrobox.adswizz.com
 sync.search.spotxchange.com
 syndication.twitter.com
+syn-dir.sn.eamobile.com
 sysstat.tildacdn.com
 system1.com
 sysupgrade.api.vivoglobal.com
@@ -4043,6 +4075,7 @@ visitsme.uno
 visteme.mx
 visualwebsiteoptimizer.com
 vivo.com.cn
+vjs.zencdn.net
 vk.com
 v.lsttnews.com
 vn.bignox.com
@@ -4198,6 +4231,7 @@ ww25.apkeditorfree.com
 ww25.dogecointothemoon43.us
 ww25.sas-autos.com
 ww2.affinity.net
+ww2.leatonm.net
 ww38.h2svr.info
 ww44.affinity.net
 ww4.affinity.net
@@ -4321,6 +4355,7 @@ www98.nathanaeldan.pro
 www99.nathanaeldan.pro
 www9.nathanaeldan.pro
 www.adapex.io
+www.adclound.com
 www.addtoany.com
 www.adlook.me
 www.ad-x.com
@@ -4352,12 +4387,14 @@ www.caren.live
 www.carx-online.com
 www.castle.io
 www.catbox.moe
+www.cdn925.com
 www.cdnmore.com
 www.cdn.viber.com
 www.centurygames.com
 www.chandashi.com
 www.ckg.hk
 www.cleverpush.com
+www.clicken.us
 www.codashop.com
 www.coinbasesj.vip
 www.colegiounamuno.es
@@ -4371,6 +4408,7 @@ www.dob5.com
 www.docdoc.com
 www.duelbits.com
 www.duolaipk.com
+www.ea.com
 www.eep.io
 www.escolhatecnologia.com.br
 www.etsy.com
@@ -4422,6 +4460,7 @@ www.king.com
 www.kustens.com
 www.lanzou.com
 www.lanzouo.com
+www.leatonm.net
 www.letucook.com
 www.letusdomino.com
 www.linkedin.com
@@ -4454,6 +4493,7 @@ www.palmpal.net
 www.palmpay.com
 www.pdl.id
 www.polussuo.com
+www.popcap.com
 www.portals.mobi
 www.profitwell.com
 www.pulselive.com
@@ -4464,6 +4504,7 @@ www.rayjump.com
 www.refokus.com
 www.requesteasy.com
 www.rewards-cards.org
+www.rhino-news.com
 www.richapp1.com
 www.robinhand.vip
 www.rollbit.com
@@ -4546,6 +4587,7 @@ www.yeshen.com
 www.yeshen.com.w.kunlungr.com
 www.youtts.com
 www.yueguo99.com
+www.yunclound.com
 www.zadn.vn
 www.zalo.me
 www.zascdn.me

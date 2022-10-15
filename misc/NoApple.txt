@@ -34,6 +34,7 @@
 38-courier.push.apple.com
 39-courier.push.apple.com
 3-courier.push.apple.com
+3.courier-push-apple.com.akadns.net
 40-courier.push.apple.com
 40.courier-push-apple.com.akadns.net
 41-courier.push.apple.com
@@ -84,6 +85,7 @@ doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 fbs.smoot.apple.com
 fides-pol.apple.com
+gateway.fe.apple-dns.net
 gateway.icloud.com
 gsa.apple.com
 gsas.apple.com
@@ -162,6 +164,7 @@ keyvalueservice.icloud.com
 lcdn-locator.apple.com
 lcdn-locator-usms11.apple.com.akadns.net
 mask-api.icloud.com
+me.apple-dns.net
 mesu.apple.com
 mesu-cdn.origin-apple.com.akadns.net
 musicstatus.itunes.apple.com
@@ -313,6 +316,7 @@ se2.itunes.apple.com
 setup.fe.apple-dns.net
 setup.icloud.com
 smp-device-content.apple.com
+static.ess.apple.com
 static.gc.apple.com
 stocks-data-service.apple.com
 stocks-edge.apple.com

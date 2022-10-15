@@ -12,6 +12,7 @@ aws-us-west-2a-lms.rbx.com
 bom1-128-116-104-4.roblox.com
 c0ak.rbxcdn.com
 c0cfly.rbxcdn.com
+c0hw.rbxcdn.com
 c0.rbxcdn.com
 c1.rbxcdn.com
 c2.rbxcdn.com

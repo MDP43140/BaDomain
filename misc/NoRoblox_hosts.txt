@@ -13,6 +13,7 @@
 0.0.0.0 bom1-128-116-104-4.roblox.com
 0.0.0.0 c0ak.rbxcdn.com
 0.0.0.0 c0cfly.rbxcdn.com
+0.0.0.0 c0hw.rbxcdn.com
 0.0.0.0 c0.rbxcdn.com
 0.0.0.0 c1.rbxcdn.com
 0.0.0.0 c2.rbxcdn.com

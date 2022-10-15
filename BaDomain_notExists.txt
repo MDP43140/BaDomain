@@ -7,6 +7,7 @@
 #
 
 0523da02.api.splkmobile.com
+1000-beasts.com
 18cams.xyz
 18like.uno
 1.oca.nflxvideo.net
@@ -181,6 +182,7 @@ clock.ad.xiaomi.com
 cloudflare-okta.com
 cloudfront.net
 cloudops.mozgcp.net
+cmdts.ksmobile.com
 cmh01.justin.tv
 cnam3.com
 cnbj3-fusion.fds.api.xiaomi.com
@@ -701,7 +703,9 @@ ubembed.com
 ugo.com
 uksouth.cloudapp.azure.com
 unauthorized.bignox.com
+universalconsiousness.net
 update.bokts.com
+update.mobileassist.baidu.com
 usearch.co.id
 usemessages.com
 user.bignox.com
@@ -744,6 +748,7 @@ wap.bignox.com
 wcmbqxzeuopnvyfmhkstaretfciywdrl.name
 wdfl.co
 weatherapi.market.xiaomi.coma.stat.xiaomi.com
+weather.ksmobile.net
 web.likeitlite.com
 website-files.com
 webullfintech.com

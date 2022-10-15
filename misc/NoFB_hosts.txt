@@ -1343,6 +1343,8 @@
 0.0.0.0 mahindra.m.facebook.com
 0.0.0.0 maps.instagram.com
 0.0.0.0 mbasic.facebook.com
+0.0.0.0 media-cgk1-1.cdn.whatsapp.net
+0.0.0.0 media-cgk1-2.cdn.whatsapp.net
 0.0.0.0 media.fadl3-1.fna.whatsapp.net
 0.0.0.0 media.fadl4-1.fna.whatsapp.net
 0.0.0.0 media.fadl5-1.fna.whatsapp.net
@@ -1554,7 +1556,13 @@
 0.0.0.0 media.fsin6-1.fna.whatsapp.net
 0.0.0.0 media.fsin7-1.fna.whatsapp.net
 0.0.0.0 media.fsub2-1.fna.whatsapp.net
+0.0.0.0 media-sea1-1.cdn.whatsapp.net
+0.0.0.0 media-sin6-1.cdn.whatsapp.net
+0.0.0.0 media-sin6-2.cdn.whatsapp.net
 0.0.0.0 media-sin6-3.cdn.whatsapp.net
+0.0.0.0 media-sin6-4.cdn.whatsapp.net
+0.0.0.0 media-xsp1-1.cdn.whatsapp.net
+0.0.0.0 media-xsp1-2.cdn.whatsapp.net
 0.0.0.0 media-xsp1-3.cdn.whatsapp.net
 0.0.0.0 meli.m.facebook.com
 0.0.0.0 m.facebook.com

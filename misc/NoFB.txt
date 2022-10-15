@@ -1342,6 +1342,8 @@ lv-lv.facebook.com
 mahindra.m.facebook.com
 maps.instagram.com
 mbasic.facebook.com
+media-cgk1-1.cdn.whatsapp.net
+media-cgk1-2.cdn.whatsapp.net
 media.fadl3-1.fna.whatsapp.net
 media.fadl4-1.fna.whatsapp.net
 media.fadl5-1.fna.whatsapp.net
@@ -1553,7 +1555,13 @@ media.fsin4-1.fna.whatsapp.net
 media.fsin6-1.fna.whatsapp.net
 media.fsin7-1.fna.whatsapp.net
 media.fsub2-1.fna.whatsapp.net
+media-sea1-1.cdn.whatsapp.net
+media-sin6-1.cdn.whatsapp.net
+media-sin6-2.cdn.whatsapp.net
 media-sin6-3.cdn.whatsapp.net
+media-sin6-4.cdn.whatsapp.net
+media-xsp1-1.cdn.whatsapp.net
+media-xsp1-2.cdn.whatsapp.net
 media-xsp1-3.cdn.whatsapp.net
 meli.m.facebook.com
 m.facebook.com
