@@ -12,6 +12,7 @@
 # + ("instagram.f", "!ALL", "fna.fbcdn.net")
 # + ("scontent.f",  "!ALL", "fna.fbcdn.net")
 # + ("media.f",			"!ALL", "fna.whatsapp.net")
+# + ("media-",			"ALL", "cdn.whatsapp.net")
 # - ("scontent-",		"ALL", "fna.fbcdn.net")
 # - ("scontent-",		"ALL", "xx.fbcdn.net")
 # - ("scontent-",		"ALL", "cdninstagram.com")
@@ -37,6 +38,7 @@ SFB_TYPES=(
 #	"instagram.f" # MainDomain1
 #	"scontent.f" # MainDomain1
 #	"media.f" # MainDomain2
+#	"media-" # MainDomain2
 	"sonar6-" # MainDomain3
 	"video-" # MainDomain3
 	"scontent-" # MainDomain3
@@ -64,10 +66,12 @@ SFB_REGIONCODE=(
 	"plm"
 	"sea"
 	"sin"
+	"xsp"
 )
 SFB_MAINDOMAIN=(
 #	"fna.fbcdn.net"
 #	"fna.whatsapp.net"
+#	"cdn.whatsapp.net"
 	"xx.fbcdn.net"
 	"cdninstagram.com"
 )
