@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 15.10.2022
+# Version: 17.10.2022
 # Update: 1 day
 #
 
@@ -398,6 +398,7 @@ api.facemojikeyboard.com
 api-fc.dutils.com
 api-fd.dutils.com
 api.floors.dev
+api.flx-vpn.com
 api.ftpub.net
 api.galileoab.com
 api.gameanalytics.com
@@ -1373,6 +1374,7 @@ digilife.uzone.id
 digitalriver.com
 digitaltarget.ru
 d.infeed.id
+dirtytinder1s.com
 discovery.clearbit.com
 distillery.wistia.com
 diva.bond
@@ -1612,6 +1614,7 @@ flbk.izooto.com
 flix.bar
 fluidplayer.com
 fluxmud.quest
+flx-vpn.com
 fmdata.imgsmail.ru
 fnaim.ru
 focus.cn
@@ -3387,6 +3390,7 @@ satismeter.com
 sausage-global-cdn.sausage.xd.com
 sau-server-sg.allawnos.com
 saya.ucweb.com
+sba.yandex.net
 sc386.com
 scaleway.testdebit.info
 schemas.casa
@@ -3625,6 +3629,7 @@ static.api.baca.co.id
 static-cms.aa-cdn.net
 static.dable.io
 static-doubleclick-net.l.google.com
+static.flx-vpn.com
 static.hdslb.com
 static.hsappstatic.net
 static.intercomassets.com
@@ -3853,6 +3858,7 @@ timer-api.palmst0re.com
 time-server.nekkimobile.ru
 time.xtracloud.net
 tinder.com
+tinder-hot.xyz
 tinders.club
 tipsf.apps.oppomobile.com
 tirto.id
@@ -4417,6 +4423,7 @@ www.exonhack.com
 www.feedsonbudget.com
 www.filmmogzivota.rs
 www.financialtrending.com
+www.flx-vpn.com
 www.fnaim.ru
 www.focusmedica.in
 www.g2.com
@@ -4540,6 +4547,7 @@ www.technologyadvice.com
 www.teddymobile.cn
 www.terabox.com
 www.thrifter.com
+www.tinder-hot.xyz
 www.tns-counter.ru
 www.topbos.com
 www.toptoppartner.com

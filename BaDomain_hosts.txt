@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 15.10.2022
+# Version: 17.10.2022
 # Update: 1 day
 #
 
@@ -398,6 +398,7 @@
 0.0.0.0 api-fc.dutils.com
 0.0.0.0 api-fd.dutils.com
 0.0.0.0 api.floors.dev
+0.0.0.0 api.flx-vpn.com
 0.0.0.0 api.ftpub.net
 0.0.0.0 api.galileoab.com
 0.0.0.0 api.gameanalytics.com
@@ -1373,6 +1374,7 @@
 0.0.0.0 digitalriver.com
 0.0.0.0 digitaltarget.ru
 0.0.0.0 d.infeed.id
+0.0.0.0 dirtytinder1s.com
 0.0.0.0 discovery.clearbit.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 diva.bond
@@ -1612,6 +1614,7 @@
 0.0.0.0 flix.bar
 0.0.0.0 fluidplayer.com
 0.0.0.0 fluxmud.quest
+0.0.0.0 flx-vpn.com
 0.0.0.0 fmdata.imgsmail.ru
 0.0.0.0 fnaim.ru
 0.0.0.0 focus.cn
@@ -3387,6 +3390,7 @@
 0.0.0.0 sausage-global-cdn.sausage.xd.com
 0.0.0.0 sau-server-sg.allawnos.com
 0.0.0.0 saya.ucweb.com
+0.0.0.0 sba.yandex.net
 0.0.0.0 sc386.com
 0.0.0.0 scaleway.testdebit.info
 0.0.0.0 schemas.casa
@@ -3625,6 +3629,7 @@
 0.0.0.0 static-cms.aa-cdn.net
 0.0.0.0 static.dable.io
 0.0.0.0 static-doubleclick-net.l.google.com
+0.0.0.0 static.flx-vpn.com
 0.0.0.0 static.hdslb.com
 0.0.0.0 static.hsappstatic.net
 0.0.0.0 static.intercomassets.com
@@ -3853,6 +3858,7 @@
 0.0.0.0 time-server.nekkimobile.ru
 0.0.0.0 time.xtracloud.net
 0.0.0.0 tinder.com
+0.0.0.0 tinder-hot.xyz
 0.0.0.0 tinders.club
 0.0.0.0 tipsf.apps.oppomobile.com
 0.0.0.0 tirto.id
@@ -4417,6 +4423,7 @@
 0.0.0.0 www.feedsonbudget.com
 0.0.0.0 www.filmmogzivota.rs
 0.0.0.0 www.financialtrending.com
+0.0.0.0 www.flx-vpn.com
 0.0.0.0 www.fnaim.ru
 0.0.0.0 www.focusmedica.in
 0.0.0.0 www.g2.com
@@ -4540,6 +4547,7 @@
 0.0.0.0 www.teddymobile.cn
 0.0.0.0 www.terabox.com
 0.0.0.0 www.thrifter.com
+0.0.0.0 www.tinder-hot.xyz
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.topbos.com
 0.0.0.0 www.toptoppartner.com
