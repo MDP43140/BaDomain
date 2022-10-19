@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.10.2022
+# Version: 19.10.2022
 # Update: 1 day
 #
 
@@ -49,6 +49,7 @@
 344587-android-ds.metric.gstatic.com
 39d0825d09f05.cdn.sohucs.com
 3.cn
+3dsintegrator.com
 3lift.com
 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
 42trck.com
@@ -109,7 +110,6 @@ a1931.dscgi3.akamai.net
 a1a4c40e556f413ef.awsglobalaccelerator.com
 a1-sgp.easemob.com
 a2047.dscb.akamai.net
-a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 a.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
@@ -215,6 +215,7 @@ adtilt.com
 adtima-static.zascdn.me
 ad.toutiao.com
 aduankonten.id
+adventureacademy.com
 adver.qq.com
 advertica-cdn.com
 advertising.com
@@ -359,6 +360,7 @@ api2.resso.app
 api31-normal-alisg.helo-api.com
 api31.resso.app
 api3.boomplaymusic.com
+api.3dsintegrator.com
 api40-normal-alisg.helo-api.com
 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
 api.adapty.io
@@ -390,6 +392,7 @@ api.data.appsinnova.com
 api-dci.kinemasters.com
 api.dcp.vpdcp.com
 api.deathwing.me
+api.decisionnowlive.com
 api.dkyweipsds.com
 api.dns.oppomobile.com
 api.ethyca.com
@@ -799,6 +802,7 @@ bokts.com
 bolt-gcdn.sc-cdn.net
 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 bombora.com
+bonusshunter.com
 boomplay.com
 boomplaymusic.com
 booster.palmpal.net
@@ -910,6 +914,7 @@ cdn2.hubspot.net
 cdn2.palmplaystore.com
 cdn-2.tstatic.net
 cdn2.uzone.id
+cdn.3dsintegrator.com
 cdn3.editmysite.com
 cdn3.mndsrv.com
 cdn-3.tstatic.net
@@ -1063,6 +1068,7 @@ cleverpush.com
 clickagy.com
 clicken.us
 clientapi-sin.dtignite.com
+client.perimeterx.net
 client-registry.mutinycdn.com
 client-uc.heytapmobi.com
 cloudcache.tencent-cloud.com
@@ -1202,6 +1208,7 @@ crazygirls24.com
 creativecow.net
 creatives.contextads.live
 creditkarma.com
+creditverify.ca
 creemo.pl
 crello.com
 cricket.hastopic.com
@@ -1337,6 +1344,7 @@ dcmdae.y5en.com
 dc.y5en.com
 deathwing.me
 de.bignox.com
+decisionnowlive.com
 degoo-instabridge.adsbynimbus.com
 delivery.contextads.live
 delivery.r2b2.io
@@ -1375,9 +1383,11 @@ digitalriver.com
 digitaltarget.ru
 d.infeed.id
 dirtytinder1s.com
+discovercadeals.com
 discovery.clearbit.com
 distillery.wistia.com
 diva.bond
+djnl.decisionnowlive.com
 dl111.dlmate26.xyz
 dl111.fbefcafbeedc.xyz
 dl2.ultraviewer.net
@@ -1402,6 +1412,7 @@ do7nu6l5erzu3.cloudfront.net
 dob5.com
 dobestapposs.uqualities.com
 docdoc.com
+docs.3dsintegrator.com
 docs.castle.io
 doge43tothemoon.us
 dogecointothemoon43.us
@@ -1580,6 +1591,7 @@ farsroid.com
 fast-dl.xyz
 fast.wistia.com
 favicon.yandex.net
+f.cstpersl.com
 feabtest.prod.tvlk-data.com
 feature-api.pa1mstore.com
 feature-api.palmplaystore.com
@@ -1720,6 +1732,7 @@ geolocation-db.com
 geolocation.onetrust.com
 geo.tildacdn.com
 geowf.ge
+getarealcareer.com
 get-bx.g.aaplimg.com
 getclicky.com
 getgo.com
@@ -2188,6 +2201,7 @@ ixigua.com
 izatcloud.net
 izooto.com
 j19544519.pr46m.vps.myjino.ru
+javwall.net
 jd.com
 jetengine.it
 jfapiprod.optimonk.com
@@ -2195,6 +2209,7 @@ jifo.co
 jixie.io
 jktmike.livejournal.com
 jmacs-m.lazada.co.id
+jobicorn.com
 joinbudapp.com
 jomax.net
 jp.bignox.com
@@ -2331,6 +2346,8 @@ libra-sg.resso.app
 licensebuttons.net
 license.vod2.myqcloud.com
 lifymk.tistory.com
+lightboxapi.azurewebsites.net
+lightboxcdn.com
 lijit.com
 like-it.video
 likemore-go.imgsmail.ru
@@ -2493,6 +2510,7 @@ mediavine.com
 mediavoice.com
 megaphone.fm
 member.lazada.co.id
+members.pfmverify.ca
 memex-pa.googleapis.com
 mendress.icu
 mercusuar.uzone.id
@@ -2522,6 +2540,7 @@ minonav.com
 minoplay.com
 minoregimen.com
 minozodiac.com
+mintexoticshift.com
 mint.intuit.com
 mintkeyboard.com
 mi-pre.shalltry.com
@@ -2797,6 +2816,7 @@ o209266.ingest.sentry.io
 o446669.ingest.sentry.io
 o64315.ingest.sentry.io
 o937343.ingest.sentry.io
+o968153.ingest.sentry.io
 o984659.ingest.sentry.io
 o.alicdn.com
 oauth.vk.com
@@ -3014,6 +3034,7 @@ person.clearbit.com
 person-stream.clearbit.com
 pes22-game.cs.konami.net
 pf.daerisoft.com
+pfmverify.ca
 phala.one
 ph.bignox.com
 phone-api.realme.com
@@ -3122,6 +3143,7 @@ production.kolbapps.com
 product.sn.eamobile.com
 profitablegatetocontent.com
 profitwell.com
+pro.ip-api.com
 propsid.b-cdn.net
 proservice.ge
 prospector.clearbit.com
@@ -3276,6 +3298,7 @@ retrogamerclassics.com
 reveal.clearbit.com
 revolvermaps.com
 rewards-cards.org
+rewardsgiantca.com
 rhaxpy.com
 richapp1.com
 r-id.ls.glanceapis.com
@@ -3382,6 +3405,7 @@ samehadaku.tv
 samsappsbn.vo.llnwd.net
 samsung-callerprofile.edge.hiyaapi.com
 sandbox.ssp.rambler.ru
+sap4clk.com
 sape.ru
 sapi.taptap.com
 sas-autos.com
@@ -3577,6 +3601,7 @@ specificmedia.com
 speedcurve.com
 speed.y5en.com
 spidersense.bendingspoons.com
+spinaway.com
 s.pinimg.com
 splash.unity.cn
 sportskeeda.com
@@ -3741,6 +3766,7 @@ svibeacon.onezapp.com
 s.viiert.com
 s.viioxx.com
 sv.shopee.co.id
+swagcash.info
 sweety-girls.online
 s.w.org
 swpsvc.com
@@ -4364,6 +4390,7 @@ www.adapex.io
 www.adclound.com
 www.addtoany.com
 www.adlook.me
+www.adventureacademy.com
 www.ad-x.com
 www.ad-x.co.uk
 www.affinity.net
@@ -4406,9 +4433,11 @@ www.coinbasesj.vip
 www.colegiounamuno.es
 www.cookiepro.com
 www.creditkarma.com
+www.creditverify.ca
 www.creemo.pl
 www.data.ai
 www.datamation.com
+www.decisionnowlive.com
 www.digiads.co.id
 www.dob5.com
 www.docdoc.com
@@ -4457,6 +4486,7 @@ www.ingaa.xyz
 www.intuit.com
 www.iseepassword.com
 www.istarapps.com
+www.javwall.net
 www.jd.com
 www.jpush.io
 www.jwplayer.com
@@ -4470,6 +4500,7 @@ www.lanzouo.com
 www.leatonm.net
 www.letucook.com
 www.letusdomino.com
+www.lightboxcdn.com
 www.linkedin.com
 www.litatom.com
 www.litix.io
@@ -4485,6 +4516,7 @@ www.minonav.com
 www.minoplay.com
 www.minoregimen.com
 www.minozodiac.com
+www.mintexoticshift.com
 www.mob.com
 www.mobfox.com
 www.mobvista.com
@@ -4499,6 +4531,7 @@ www.optimumlines.com
 www.palmpal.net
 www.palmpay.com
 www.pdl.id
+www.pfmverify.ca
 www.polussuo.com
 www.popcap.com
 www.portals.mobi
@@ -4533,6 +4566,7 @@ www.sogou.com
 www.sohu.com
 www.soundiradio.com
 www.spanishcoursesunamuno.com
+www.spinaway.com
 www.stagingapps.xyz
 www.stake.com
 www.steveziogames.com

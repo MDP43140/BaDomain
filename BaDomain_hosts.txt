@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.10.2022
+# Version: 19.10.2022
 # Update: 1 day
 #
 
@@ -49,6 +49,7 @@
 0.0.0.0 344587-android-ds.metric.gstatic.com
 0.0.0.0 39d0825d09f05.cdn.sohucs.com
 0.0.0.0 3.cn
+0.0.0.0 3dsintegrator.com
 0.0.0.0 3lift.com
 0.0.0.0 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 42trck.com
@@ -109,7 +110,6 @@
 0.0.0.0 a1a4c40e556f413ef.awsglobalaccelerator.com
 0.0.0.0 a1-sgp.easemob.com
 0.0.0.0 a2047.dscb.akamai.net
-0.0.0.0 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 0.0.0.0 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 0.0.0.0 a.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 0.0.0.0 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
@@ -215,6 +215,7 @@
 0.0.0.0 adtima-static.zascdn.me
 0.0.0.0 ad.toutiao.com
 0.0.0.0 aduankonten.id
+0.0.0.0 adventureacademy.com
 0.0.0.0 adver.qq.com
 0.0.0.0 advertica-cdn.com
 0.0.0.0 advertising.com
@@ -359,6 +360,7 @@
 0.0.0.0 api31-normal-alisg.helo-api.com
 0.0.0.0 api31.resso.app
 0.0.0.0 api3.boomplaymusic.com
+0.0.0.0 api.3dsintegrator.com
 0.0.0.0 api40-normal-alisg.helo-api.com
 0.0.0.0 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
 0.0.0.0 api.adapty.io
@@ -390,6 +392,7 @@
 0.0.0.0 api-dci.kinemasters.com
 0.0.0.0 api.dcp.vpdcp.com
 0.0.0.0 api.deathwing.me
+0.0.0.0 api.decisionnowlive.com
 0.0.0.0 api.dkyweipsds.com
 0.0.0.0 api.dns.oppomobile.com
 0.0.0.0 api.ethyca.com
@@ -799,6 +802,7 @@
 0.0.0.0 bolt-gcdn.sc-cdn.net
 0.0.0.0 bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 bombora.com
+0.0.0.0 bonusshunter.com
 0.0.0.0 boomplay.com
 0.0.0.0 boomplaymusic.com
 0.0.0.0 booster.palmpal.net
@@ -910,6 +914,7 @@
 0.0.0.0 cdn2.palmplaystore.com
 0.0.0.0 cdn-2.tstatic.net
 0.0.0.0 cdn2.uzone.id
+0.0.0.0 cdn.3dsintegrator.com
 0.0.0.0 cdn3.editmysite.com
 0.0.0.0 cdn3.mndsrv.com
 0.0.0.0 cdn-3.tstatic.net
@@ -1063,6 +1068,7 @@
 0.0.0.0 clickagy.com
 0.0.0.0 clicken.us
 0.0.0.0 clientapi-sin.dtignite.com
+0.0.0.0 client.perimeterx.net
 0.0.0.0 client-registry.mutinycdn.com
 0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 cloudcache.tencent-cloud.com
@@ -1202,6 +1208,7 @@
 0.0.0.0 creativecow.net
 0.0.0.0 creatives.contextads.live
 0.0.0.0 creditkarma.com
+0.0.0.0 creditverify.ca
 0.0.0.0 creemo.pl
 0.0.0.0 crello.com
 0.0.0.0 cricket.hastopic.com
@@ -1337,6 +1344,7 @@
 0.0.0.0 dc.y5en.com
 0.0.0.0 deathwing.me
 0.0.0.0 de.bignox.com
+0.0.0.0 decisionnowlive.com
 0.0.0.0 degoo-instabridge.adsbynimbus.com
 0.0.0.0 delivery.contextads.live
 0.0.0.0 delivery.r2b2.io
@@ -1375,9 +1383,11 @@
 0.0.0.0 digitaltarget.ru
 0.0.0.0 d.infeed.id
 0.0.0.0 dirtytinder1s.com
+0.0.0.0 discovercadeals.com
 0.0.0.0 discovery.clearbit.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 diva.bond
+0.0.0.0 djnl.decisionnowlive.com
 0.0.0.0 dl111.dlmate26.xyz
 0.0.0.0 dl111.fbefcafbeedc.xyz
 0.0.0.0 dl2.ultraviewer.net
@@ -1402,6 +1412,7 @@
 0.0.0.0 dob5.com
 0.0.0.0 dobestapposs.uqualities.com
 0.0.0.0 docdoc.com
+0.0.0.0 docs.3dsintegrator.com
 0.0.0.0 docs.castle.io
 0.0.0.0 doge43tothemoon.us
 0.0.0.0 dogecointothemoon43.us
@@ -1580,6 +1591,7 @@
 0.0.0.0 fast-dl.xyz
 0.0.0.0 fast.wistia.com
 0.0.0.0 favicon.yandex.net
+0.0.0.0 f.cstpersl.com
 0.0.0.0 feabtest.prod.tvlk-data.com
 0.0.0.0 feature-api.pa1mstore.com
 0.0.0.0 feature-api.palmplaystore.com
@@ -1720,6 +1732,7 @@
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geo.tildacdn.com
 0.0.0.0 geowf.ge
+0.0.0.0 getarealcareer.com
 0.0.0.0 get-bx.g.aaplimg.com
 0.0.0.0 getclicky.com
 0.0.0.0 getgo.com
@@ -2188,6 +2201,7 @@
 0.0.0.0 izatcloud.net
 0.0.0.0 izooto.com
 0.0.0.0 j19544519.pr46m.vps.myjino.ru
+0.0.0.0 javwall.net
 0.0.0.0 jd.com
 0.0.0.0 jetengine.it
 0.0.0.0 jfapiprod.optimonk.com
@@ -2195,6 +2209,7 @@
 0.0.0.0 jixie.io
 0.0.0.0 jktmike.livejournal.com
 0.0.0.0 jmacs-m.lazada.co.id
+0.0.0.0 jobicorn.com
 0.0.0.0 joinbudapp.com
 0.0.0.0 jomax.net
 0.0.0.0 jp.bignox.com
@@ -2331,6 +2346,8 @@
 0.0.0.0 licensebuttons.net
 0.0.0.0 license.vod2.myqcloud.com
 0.0.0.0 lifymk.tistory.com
+0.0.0.0 lightboxapi.azurewebsites.net
+0.0.0.0 lightboxcdn.com
 0.0.0.0 lijit.com
 0.0.0.0 like-it.video
 0.0.0.0 likemore-go.imgsmail.ru
@@ -2493,6 +2510,7 @@
 0.0.0.0 mediavoice.com
 0.0.0.0 megaphone.fm
 0.0.0.0 member.lazada.co.id
+0.0.0.0 members.pfmverify.ca
 0.0.0.0 memex-pa.googleapis.com
 0.0.0.0 mendress.icu
 0.0.0.0 mercusuar.uzone.id
@@ -2522,6 +2540,7 @@
 0.0.0.0 minoplay.com
 0.0.0.0 minoregimen.com
 0.0.0.0 minozodiac.com
+0.0.0.0 mintexoticshift.com
 0.0.0.0 mint.intuit.com
 0.0.0.0 mintkeyboard.com
 0.0.0.0 mi-pre.shalltry.com
@@ -2797,6 +2816,7 @@
 0.0.0.0 o446669.ingest.sentry.io
 0.0.0.0 o64315.ingest.sentry.io
 0.0.0.0 o937343.ingest.sentry.io
+0.0.0.0 o968153.ingest.sentry.io
 0.0.0.0 o984659.ingest.sentry.io
 0.0.0.0 o.alicdn.com
 0.0.0.0 oauth.vk.com
@@ -3014,6 +3034,7 @@
 0.0.0.0 person-stream.clearbit.com
 0.0.0.0 pes22-game.cs.konami.net
 0.0.0.0 pf.daerisoft.com
+0.0.0.0 pfmverify.ca
 0.0.0.0 phala.one
 0.0.0.0 ph.bignox.com
 0.0.0.0 phone-api.realme.com
@@ -3122,6 +3143,7 @@
 0.0.0.0 product.sn.eamobile.com
 0.0.0.0 profitablegatetocontent.com
 0.0.0.0 profitwell.com
+0.0.0.0 pro.ip-api.com
 0.0.0.0 propsid.b-cdn.net
 0.0.0.0 proservice.ge
 0.0.0.0 prospector.clearbit.com
@@ -3276,6 +3298,7 @@
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 revolvermaps.com
 0.0.0.0 rewards-cards.org
+0.0.0.0 rewardsgiantca.com
 0.0.0.0 rhaxpy.com
 0.0.0.0 richapp1.com
 0.0.0.0 r-id.ls.glanceapis.com
@@ -3382,6 +3405,7 @@
 0.0.0.0 samsappsbn.vo.llnwd.net
 0.0.0.0 samsung-callerprofile.edge.hiyaapi.com
 0.0.0.0 sandbox.ssp.rambler.ru
+0.0.0.0 sap4clk.com
 0.0.0.0 sape.ru
 0.0.0.0 sapi.taptap.com
 0.0.0.0 sas-autos.com
@@ -3577,6 +3601,7 @@
 0.0.0.0 speedcurve.com
 0.0.0.0 speed.y5en.com
 0.0.0.0 spidersense.bendingspoons.com
+0.0.0.0 spinaway.com
 0.0.0.0 s.pinimg.com
 0.0.0.0 splash.unity.cn
 0.0.0.0 sportskeeda.com
@@ -3741,6 +3766,7 @@
 0.0.0.0 s.viiert.com
 0.0.0.0 s.viioxx.com
 0.0.0.0 sv.shopee.co.id
+0.0.0.0 swagcash.info
 0.0.0.0 sweety-girls.online
 0.0.0.0 s.w.org
 0.0.0.0 swpsvc.com
@@ -4364,6 +4390,7 @@
 0.0.0.0 www.adclound.com
 0.0.0.0 www.addtoany.com
 0.0.0.0 www.adlook.me
+0.0.0.0 www.adventureacademy.com
 0.0.0.0 www.ad-x.com
 0.0.0.0 www.ad-x.co.uk
 0.0.0.0 www.affinity.net
@@ -4406,9 +4433,11 @@
 0.0.0.0 www.colegiounamuno.es
 0.0.0.0 www.cookiepro.com
 0.0.0.0 www.creditkarma.com
+0.0.0.0 www.creditverify.ca
 0.0.0.0 www.creemo.pl
 0.0.0.0 www.data.ai
 0.0.0.0 www.datamation.com
+0.0.0.0 www.decisionnowlive.com
 0.0.0.0 www.digiads.co.id
 0.0.0.0 www.dob5.com
 0.0.0.0 www.docdoc.com
@@ -4457,6 +4486,7 @@
 0.0.0.0 www.intuit.com
 0.0.0.0 www.iseepassword.com
 0.0.0.0 www.istarapps.com
+0.0.0.0 www.javwall.net
 0.0.0.0 www.jd.com
 0.0.0.0 www.jpush.io
 0.0.0.0 www.jwplayer.com
@@ -4470,6 +4500,7 @@
 0.0.0.0 www.leatonm.net
 0.0.0.0 www.letucook.com
 0.0.0.0 www.letusdomino.com
+0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.linkedin.com
 0.0.0.0 www.litatom.com
 0.0.0.0 www.litix.io
@@ -4485,6 +4516,7 @@
 0.0.0.0 www.minoplay.com
 0.0.0.0 www.minoregimen.com
 0.0.0.0 www.minozodiac.com
+0.0.0.0 www.mintexoticshift.com
 0.0.0.0 www.mob.com
 0.0.0.0 www.mobfox.com
 0.0.0.0 www.mobvista.com
@@ -4499,6 +4531,7 @@
 0.0.0.0 www.palmpal.net
 0.0.0.0 www.palmpay.com
 0.0.0.0 www.pdl.id
+0.0.0.0 www.pfmverify.ca
 0.0.0.0 www.polussuo.com
 0.0.0.0 www.popcap.com
 0.0.0.0 www.portals.mobi
@@ -4533,6 +4566,7 @@
 0.0.0.0 www.sohu.com
 0.0.0.0 www.soundiradio.com
 0.0.0.0 www.spanishcoursesunamuno.com
+0.0.0.0 www.spinaway.com
 0.0.0.0 www.stagingapps.xyz
 0.0.0.0 www.stake.com
 0.0.0.0 www.steveziogames.com
