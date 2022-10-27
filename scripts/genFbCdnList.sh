@@ -8,9 +8,9 @@
 ## Configuration ##
 #
 # Combinations (+ = Added, - Not added yet, !ALL = not all is scanned/outdated):
-# + ("external.f",  "!ALL", "fna.fbcdn.net")
-# + ("instagram.f", "!ALL", "fna.fbcdn.net")
-# + ("scontent.f",  "!ALL", "fna.fbcdn.net")
+# + ("external.f",  "ALL", "fna.fbcdn.net")
+# + ("instagram.f", "ALL", "fna.fbcdn.net")
+# + ("scontent.f",  "ALL", "fna.fbcdn.net")
 # + ("media.f",			"!ALL", "fna.whatsapp.net")
 # + ("media-",			"ALL", "cdn.whatsapp.net")
 # - ("scontent-",		"ALL", "fna.fbcdn.net")
@@ -34,9 +34,14 @@
 #
 #clear # disabled by default because it caused some output weirdness when piped to other commands
 SFB_TYPES=(
+	# PS: these 3 queries below returns same response if the server exists
+	# eg: `external.fmof1-1.fna.fbcdn.net` & `FUCKTHEZUCK.fmof1-1.fna.fbcdn.net` exist if `fmof1-1.fna.fbcdn.net` exist (it doesn't exist if you JUST query `fmof1-1.fna.fbcdn.net` --
+	# it needs to have a subdomain (can be anything): `WHATEVERSUBDOMAINHEREBTWZUCKISMORONIST.fmof1-1.fna.fbcdn.net`)
+	# When done querying, the existing result then should be duplicated 3 times and replace each duplicated "external" to "instagram","scontent",etc respectively.
 #	"external.f" # MainDomain1
-#	"instagram.f" # MainDomain1
-#	"scontent.f" # MainDomain1
+#	"instagram.f" # MainDomain1 (not recommended, replaced by external.f)
+#	"scontent.f" # MainDomain1 (not recommended, replaced by external.f)
+
 #	"media.f" # MainDomain2
 #	"media-" # MainDomain2
 	"sonar6-" # MainDomain3
@@ -59,6 +64,7 @@ SFB_REGIONCODE=(
 	"kix"
 	"kno"
 	"kul"
+	"mof"
 	"nag"
 	"ngo"
 	"pen"

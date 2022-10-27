@@ -900,6 +900,7 @@
 0.0.0.0 external.fmaa1-1.fna.fbcdn.net
 0.0.0.0 external.fmex5-1.fna.fbcdn.net
 0.0.0.0 external.fmnl10-1.fna.fbcdn.net
+0.0.0.0 external.fmof1-1.fna.fbcdn.net
 0.0.0.0 external.fnag10-1.fna.fbcdn.net
 0.0.0.0 external.fnag11-1.fna.fbcdn.net
 0.0.0.0 external.fnag1-1.fna.fbcdn.net
@@ -1197,6 +1198,7 @@
 0.0.0.0 instagram.fkul7-1.fna.fbcdn.net
 0.0.0.0 instagram.fkul7-2.fna.fbcdn.net
 0.0.0.0 instagram.fkul8-1.fna.fbcdn.net
+0.0.0.0 instagram.fmof1-1.fna.fbcdn.net
 0.0.0.0 instagram.fnag10-1.fna.fbcdn.net
 0.0.0.0 instagram.fnag11-1.fna.fbcdn.net
 0.0.0.0 instagram.fnag1-1.fna.fbcdn.net
@@ -2014,6 +2016,7 @@
 0.0.0.0 scontent.fmnl11-1.fna.fbcdn.net
 0.0.0.0 scontent.fmnl4-4.fna.fbcdn.net
 0.0.0.0 scontent.fmnl6-1.fna.fbcdn.net
+0.0.0.0 scontent.fmof1-1.fna.fbcdn.net
 0.0.0.0 scontent.fnag10-1.fna.fbcdn.net
 0.0.0.0 scontent.fnag11-1.fna.fbcdn.net
 0.0.0.0 scontent.fnag1-1.fna.fbcdn.net

@@ -1351,6 +1351,8 @@ lf16-tiktok-common.ibytedtos.com
 lf16-tiktok.ibytedtos.com
 lf16-tiktok-web.ttwstatic.com
 lf16-tos-files.tiktokcdn.com
+lf16-tos-sg.capcutstatic.com
+lf16-tos-sg.capcutstatic.com.edgesuite.net
 lf16-web-buz.capcut.com
 lf19-capcut.faceueditorv.com
 lf19-capcut.faceulv.com
@@ -3350,6 +3352,8 @@ v16-up.tiktokv.com
 v16-up.tiktokv.com.edgesuite.net
 v16-vcheckout.muscdn.com
 v16-vcheckout.muscdn.com.edgesuite.net
+v16-vod.capcutvod.com
+v16-vod.capcutvod.com.edgesuite.net
 v16-web-newkey.tiktokcdn.com
 v16-web.tiktokcdn.com
 v16.xzcs3zlph.com

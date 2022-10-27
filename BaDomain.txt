@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.10.2022
+# Version: 27.10.2022
 # Update: 1 day
 #
 
@@ -550,6 +550,7 @@ appevent.cookappsgames.com
 app.hubspot.com
 apph.wpsmail.net
 appia.com
+appinfo-s3.eagllwin.com
 appjustable.com
 apple-finance.query.yahoo.com
 app.link
@@ -1206,6 +1207,7 @@ craft.pe
 crashsight.wetest.net
 crazygirls24.com
 creativecow.net
+creative.eagllwin.com
 creatives.contextads.live
 creditkarma.com
 creditverify.ca
@@ -1217,6 +1219,7 @@ crisp.im
 criteo.com
 criteo.net
 cross-orbit.com
+crosspromo-api.tocaboca.com
 crotdidalemnikmatbet.com
 crs.popcore.com
 crtv.wboptim.online
@@ -2345,6 +2348,8 @@ l.gotube.pro
 libra-sg.resso.app
 licensebuttons.net
 license.vod2.myqcloud.com
+lifemix.tocaboca.com
+lifeserver.tocaboca.com
 lifymk.tistory.com
 lightboxapi.azurewebsites.net
 lightboxcdn.com
