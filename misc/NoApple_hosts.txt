@@ -88,6 +88,7 @@
 0.0.0.0 fides-pol.apple.com
 0.0.0.0 gateway.fe.apple-dns.net
 0.0.0.0 gateway.icloud.com
+0.0.0.0 gdmf.apple.com
 0.0.0.0 gsa.apple.com
 0.0.0.0 gsas.apple.com
 0.0.0.0 gs-loc.apple.com

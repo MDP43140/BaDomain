@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.10.2022
+# Version: 02.11.2022
 # Update: 1 day
 #
 
@@ -93,6 +93,7 @@
 91busgame.com
 94.110.204.35.bc.googleusercontent.com
 9933gg.com
+9apps.com
 9C8B0AE1.dr.youme.im
 9C8B0AE1.rtc.youme.im
 9ce8c6e7-dnsotls-ds.metric.gstatic.com
@@ -164,6 +165,7 @@ adcolony.com
 adcs-ue.myappsget.com
 addthis.com
 addtoany.com
+adexchanger.com
 adf.ly
 adgoal.com
 adgoal.de
@@ -363,6 +365,7 @@ api3.boomplaymusic.com
 api.3dsintegrator.com
 api40-normal-alisg.helo-api.com
 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
+api.9apps.com
 api.adapty.io
 api.adclound.com
 api.ads.yahoo.com
@@ -370,6 +373,7 @@ api.ahagamecenter.com
 api.airtable.com
 api.anythinktech.com
 api-apac.bidmachine.io
+api.apk.vidmate.net
 api.appbazaar.com
 api.appsflyer.com
 api-assetstore.kinemasters.com
@@ -446,6 +450,7 @@ api-leap.nbcsports.com
 api.leatonm.net
 api.likee.video
 api.like-it.video
+api.like-video.com
 api.livechatinc.com
 api.map.baidu.com
 api-maps.yandex.ru
@@ -511,6 +516,7 @@ api-us.bidmachine.io
 api.ushareit.com
 api-va.tmtreader.com
 api-visitor-analytics.intercom.com
+api.v-mate.mobi
 api.vungle.com
 api.wattpad.com
 api.weathercn.com
@@ -828,6 +834,7 @@ bstream.hzmklvdieo.com
 btloader.com
 btrace.wetvinfo.com
 bubadu.com
+bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com
 bucket-img.y5en.com
 budcreate.xyz
 buddy-app-bucket.s3-accelerate.amazonaws.com
@@ -1134,6 +1141,7 @@ component-ota-sg.allawnos.com
 concertads-configs.vox-cdn.com
 concert.io
 conf-cn.dc.heytapmobi.com
+conf.dc.oppomobile.com
 confection.io
 confection-status.netlify.app
 conff.dc.oppomobile.com
@@ -1181,6 +1189,7 @@ contentful.com
 content.webengage.com
 contextweb.com
 contivio.com
+control.aps.amap.com
 control.connectwise.com
 convertkit.com
 cookappsgames.com
@@ -1750,6 +1759,7 @@ ghbtns.com
 ghost.org
 gift.bignox.com
 gigya.com
+giipm.org
 gimmehost.org
 giphy.com
 girlfriend.host
@@ -1779,6 +1789,7 @@ global.ilovexclub.net
 globalmsg.facemojikeyboard.com
 global.rakuten.com
 global-rank-sg.sausage.xd.com
+global-receiver-ta.thinkingdata.cn
 global-tokenserver-la.headline.uodoo.com
 g-logsdk.snackvideo.com
 go2cloud.org
@@ -2003,6 +2014,7 @@ id-test-11.slatic.net
 id-three.rcs.telephony.goog
 id-timer-appstore.vivoglobal.com
 id-update-appstore.vivoglobal.com
+id-upload-appstore.vivoglobal.com
 id-ws-edge001.itoon.org
 id-ws-edge002.itoon.org
 id-xl.rcs.telephony.goog
@@ -2033,6 +2045,7 @@ i.jpallnight.com
 ilockcardf.apps.coloros.com
 ilovexclub.com
 ilyon.net
+image-act.like-video.com
 image.bignox.com
 image-cdn.joinbudapp.com
 image.email.manutd.com
@@ -2045,6 +2058,7 @@ images.ctfassets.net
 images.hellomagazine.com
 images.idtopnews.com
 image.slidesharecdn.com
+image.thinkingdata.cn
 image.tmdb.org
 image.useinsider.com
 image.winudf.com
@@ -2070,6 +2084,7 @@ img-intl-push.heytapimg.com
 imgix.net
 img.kastking.top
 img-l3.xnxx-cdn.com
+img.like.video
 img.linkxw.com
 img-music.heytapimage.com
 img.netpop.app
@@ -2354,9 +2369,13 @@ lifymk.tistory.com
 lightboxapi.azurewebsites.net
 lightboxcdn.com
 lijit.com
+likee.com
+likee.video
 like-it.video
 likemore-go.imgsmail.ru
 likes.services.livejournal.com
+like.video
+like-video.com
 lilistarfire.tumblr.com
 liliy9aydje10.com
 limg.imgsmail.ru
@@ -2391,6 +2410,7 @@ locate.measurementlab.net
 location.apps.oppomobile.com
 lockersatelic.cam
 loc.map.baidu.com
+loc.samsungdive.com
 log-api.mintkeyboard.com
 logging.baca.co.id
 log.goodnovel.com
@@ -2403,6 +2423,7 @@ logo.clearbit.com
 logonext.tv.kuyun.com
 logos.kiwibrowser.com
 log.reyun.com
+log.sharemusic5.com
 logs.im-gb.com
 logs.papertrailapp.com
 log.tmtreader.com
@@ -2569,6 +2590,7 @@ mobadvent.com
 mob.com
 mobfox.com
 mobileassets.gopaylater.findaya.co.id
+mobile.like.video
 mobilesearchers.com
 mobile.useinsider.com
 mobile.yandex.net
@@ -3237,11 +3259,13 @@ rayjump.com
 rbux88.com
 rbxton.online
 rcmjs.rambler.ru
+rc.samsungweather.com
 rdr.mobiletime.net
 ready.whatssappa.xyz
 rebuilt.pro.ilovexclub.com
 receiver.habby.mobi
 receiver-metis.infeng.site
+receiver.ta.thinkingdata.cn
 recommend.pa1mstore.com
 recommend.palmplaystore.com
 recorder.iobit.com
@@ -3278,6 +3302,7 @@ res.17roco.qq.com
 res1.applovin.com
 res2.applovin.com
 res3.applovin.com
+res.9appsinstall.com
 res.adx.opera.com
 res.bignox.com
 res.cloudinary.com
@@ -3409,6 +3434,7 @@ samba.tv
 samehadaku.tv
 samsappsbn.vo.llnwd.net
 samsung-callerprofile.edge.hiyaapi.com
+samsungnewsapi.picks.my
 sandbox.ssp.rambler.ru
 sap4clk.com
 sape.ru
@@ -3505,6 +3531,7 @@ sfdict.com
 sf.ezoiccdn.com
 sf.napi.ucweb.com
 sf-syn.com
+sg01-cdn.rayjump.com
 sg-account.wps.com
 sg-dm.pageonenewsapp.com
 sg-drive.wps.com
@@ -3514,11 +3541,14 @@ sg-live-21.slatic.net
 sg.mangatoon.mobi
 sg.omlet.me
 sgp-img-c.heytapimg.com
+sg-res.9appsdownloading.com
+sg-res.9appsinstall.com
 sg.tdatamaster.com
 shake-body.com
 shalltry.com
 shareaholic.com
 shareaholic.net
+sharemusic5.com
 sharepointonline.com
 share-sg.isnssdk.com
 sharethis.com
@@ -3651,6 +3681,7 @@ static0.cbrimages.com
 static1.cbrimages.com
 static2.cbrimages.com
 static3.cbrimages.com
+static-act.like-video.com
 static.addtoany.com
 static.ads-twitter.com
 static.ahagamecenter.com
@@ -3681,6 +3712,7 @@ static-webengage.s3.ap-southeast-1.amazonaws.com
 static-webengage.s3.ap-southeast-2.amazonaws.com
 static-webengage.s3.ap-southeast-3.amazonaws.com
 static-webengage.s3.ap-southeast-4.amazonaws.com
+static-web.likee.com
 static.wetvinfo.com
 staticworld.net
 static.zdassets.com
@@ -3755,6 +3787,7 @@ superpowered.com
 supersonicads.com
 supl.qxwz.com
 support.bignox.com
+support-json.like.video
 support.jwplayer.com
 support.muslimpro.com
 support.weixin.qq.com
@@ -4098,7 +4131,9 @@ videomin.ru
 videoplayerhub.com
 videoroll.net
 videos-fms.jwpsrv.com
+videosnap.like.video
 video.twimg.com
+vidmateapp.com
 vidoomy.com
 vidyard.com
 viglink.com
@@ -4390,10 +4425,12 @@ www96.nathanaeldan.pro
 www97.nathanaeldan.pro
 www98.nathanaeldan.pro
 www99.nathanaeldan.pro
+www.9apps.com
 www9.nathanaeldan.pro
 www.adapex.io
 www.adclound.com
 www.addtoany.com
+www.adexchanger.com
 www.adlook.me
 www.adventureacademy.com
 www.ad-x.com
@@ -4585,6 +4622,7 @@ www.taxsee.ru
 www.technologyadvice.com
 www.teddymobile.cn
 www.terabox.com
+www.thinkingdata.cn
 www.thrifter.com
 www.tinder-hot.xyz
 www.tns-counter.ru
@@ -4606,6 +4644,7 @@ www.uzone.id
 www.vdo.ai
 www.viber.com
 www.vidio.com
+www.vidmateapp.com
 www.voovlive.com
 www.vum.fyi
 www.vum.ngo

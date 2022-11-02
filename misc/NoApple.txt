@@ -87,6 +87,7 @@ fbs.smoot.apple.com
 fides-pol.apple.com
 gateway.fe.apple-dns.net
 gateway.icloud.com
+gdmf.apple.com
 gsa.apple.com
 gsas.apple.com
 gs-loc.apple.com

@@ -284,6 +284,7 @@
 0.0.0.0 alpha.vvv.facebook.com
 0.0.0.0 an.facebook.com
 0.0.0.0 a.ns.facebook.com
+0.0.0.0 a.ns.whatsapp.net
 0.0.0.0 a.ns.xx.fbcdn.net
 0.0.0.0 api.ak.facebook.com
 0.0.0.0 api.connect.facebook.com
@@ -342,6 +343,7 @@
 0.0.0.0 blog.facebook.com
 0.0.0.0 b-m.facebook.com
 0.0.0.0 b.ns.facebook.com
+0.0.0.0 b.ns.whatsapp.net
 0.0.0.0 boostcom.m.facebook.com
 0.0.0.0 bs-ba.facebook.com
 0.0.0.0 b.static.ak.facebook.com
@@ -367,6 +369,7 @@
 0.0.0.0 check4.facebook.com
 0.0.0.0 check6.facebook.com
 0.0.0.0 clubmed.m.facebook.com
+0.0.0.0 c.ns.whatsapp.net
 0.0.0.0 code.facebook.com
 0.0.0.0 com0.facebook.com
 0.0.0.0 comfytrade.m.facebook.com
@@ -389,6 +392,7 @@
 0.0.0.0 dixonscarphone.m.facebook.com
 0.0.0.0 dm.m.facebook.com
 0.0.0.0 dns.facebook.com
+0.0.0.0 d.ns.whatsapp.net
 0.0.0.0 d.vvv.facebook.com
 0.0.0.0 ed.facebook.com
 0.0.0.0 edge-atlas-proxyprotocol-shv-01-ash5.facebook.com
@@ -1020,6 +1024,7 @@
 0.0.0.0 graph.instagram.com
 0.0.0.0 graphql.instagram.com
 0.0.0.0 graph-video.facebook.com
+0.0.0.0 graph.whatsapp.com
 0.0.0.0 graph.whatsapp.net
 0.0.0.0 grupoboticario.m.facebook.com
 0.0.0.0 h.beta.facebook.com

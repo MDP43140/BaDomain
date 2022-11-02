@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.10.2022
+# Version: 02.11.2022
 # Update: 1 day
 #
 
@@ -93,6 +93,7 @@
 0.0.0.0 91busgame.com
 0.0.0.0 94.110.204.35.bc.googleusercontent.com
 0.0.0.0 9933gg.com
+0.0.0.0 9apps.com
 0.0.0.0 9C8B0AE1.dr.youme.im
 0.0.0.0 9C8B0AE1.rtc.youme.im
 0.0.0.0 9ce8c6e7-dnsotls-ds.metric.gstatic.com
@@ -164,6 +165,7 @@
 0.0.0.0 adcs-ue.myappsget.com
 0.0.0.0 addthis.com
 0.0.0.0 addtoany.com
+0.0.0.0 adexchanger.com
 0.0.0.0 adf.ly
 0.0.0.0 adgoal.com
 0.0.0.0 adgoal.de
@@ -363,6 +365,7 @@
 0.0.0.0 api.3dsintegrator.com
 0.0.0.0 api40-normal-alisg.helo-api.com
 0.0.0.0 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
+0.0.0.0 api.9apps.com
 0.0.0.0 api.adapty.io
 0.0.0.0 api.adclound.com
 0.0.0.0 api.ads.yahoo.com
@@ -370,6 +373,7 @@
 0.0.0.0 api.airtable.com
 0.0.0.0 api.anythinktech.com
 0.0.0.0 api-apac.bidmachine.io
+0.0.0.0 api.apk.vidmate.net
 0.0.0.0 api.appbazaar.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api-assetstore.kinemasters.com
@@ -446,6 +450,7 @@
 0.0.0.0 api.leatonm.net
 0.0.0.0 api.likee.video
 0.0.0.0 api.like-it.video
+0.0.0.0 api.like-video.com
 0.0.0.0 api.livechatinc.com
 0.0.0.0 api.map.baidu.com
 0.0.0.0 api-maps.yandex.ru
@@ -511,6 +516,7 @@
 0.0.0.0 api.ushareit.com
 0.0.0.0 api-va.tmtreader.com
 0.0.0.0 api-visitor-analytics.intercom.com
+0.0.0.0 api.v-mate.mobi
 0.0.0.0 api.vungle.com
 0.0.0.0 api.wattpad.com
 0.0.0.0 api.weathercn.com
@@ -828,6 +834,7 @@
 0.0.0.0 btloader.com
 0.0.0.0 btrace.wetvinfo.com
 0.0.0.0 bubadu.com
+0.0.0.0 bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com
 0.0.0.0 bucket-img.y5en.com
 0.0.0.0 budcreate.xyz
 0.0.0.0 buddy-app-bucket.s3-accelerate.amazonaws.com
@@ -1134,6 +1141,7 @@
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 concert.io
 0.0.0.0 conf-cn.dc.heytapmobi.com
+0.0.0.0 conf.dc.oppomobile.com
 0.0.0.0 confection.io
 0.0.0.0 confection-status.netlify.app
 0.0.0.0 conff.dc.oppomobile.com
@@ -1181,6 +1189,7 @@
 0.0.0.0 content.webengage.com
 0.0.0.0 contextweb.com
 0.0.0.0 contivio.com
+0.0.0.0 control.aps.amap.com
 0.0.0.0 control.connectwise.com
 0.0.0.0 convertkit.com
 0.0.0.0 cookappsgames.com
@@ -1750,6 +1759,7 @@
 0.0.0.0 ghost.org
 0.0.0.0 gift.bignox.com
 0.0.0.0 gigya.com
+0.0.0.0 giipm.org
 0.0.0.0 gimmehost.org
 0.0.0.0 giphy.com
 0.0.0.0 girlfriend.host
@@ -1779,6 +1789,7 @@
 0.0.0.0 globalmsg.facemojikeyboard.com
 0.0.0.0 global.rakuten.com
 0.0.0.0 global-rank-sg.sausage.xd.com
+0.0.0.0 global-receiver-ta.thinkingdata.cn
 0.0.0.0 global-tokenserver-la.headline.uodoo.com
 0.0.0.0 g-logsdk.snackvideo.com
 0.0.0.0 go2cloud.org
@@ -2003,6 +2014,7 @@
 0.0.0.0 id-three.rcs.telephony.goog
 0.0.0.0 id-timer-appstore.vivoglobal.com
 0.0.0.0 id-update-appstore.vivoglobal.com
+0.0.0.0 id-upload-appstore.vivoglobal.com
 0.0.0.0 id-ws-edge001.itoon.org
 0.0.0.0 id-ws-edge002.itoon.org
 0.0.0.0 id-xl.rcs.telephony.goog
@@ -2033,6 +2045,7 @@
 0.0.0.0 ilockcardf.apps.coloros.com
 0.0.0.0 ilovexclub.com
 0.0.0.0 ilyon.net
+0.0.0.0 image-act.like-video.com
 0.0.0.0 image.bignox.com
 0.0.0.0 image-cdn.joinbudapp.com
 0.0.0.0 image.email.manutd.com
@@ -2045,6 +2058,7 @@
 0.0.0.0 images.hellomagazine.com
 0.0.0.0 images.idtopnews.com
 0.0.0.0 image.slidesharecdn.com
+0.0.0.0 image.thinkingdata.cn
 0.0.0.0 image.tmdb.org
 0.0.0.0 image.useinsider.com
 0.0.0.0 image.winudf.com
@@ -2070,6 +2084,7 @@
 0.0.0.0 imgix.net
 0.0.0.0 img.kastking.top
 0.0.0.0 img-l3.xnxx-cdn.com
+0.0.0.0 img.like.video
 0.0.0.0 img.linkxw.com
 0.0.0.0 img-music.heytapimage.com
 0.0.0.0 img.netpop.app
@@ -2354,9 +2369,13 @@
 0.0.0.0 lightboxapi.azurewebsites.net
 0.0.0.0 lightboxcdn.com
 0.0.0.0 lijit.com
+0.0.0.0 likee.com
+0.0.0.0 likee.video
 0.0.0.0 like-it.video
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 likes.services.livejournal.com
+0.0.0.0 like.video
+0.0.0.0 like-video.com
 0.0.0.0 lilistarfire.tumblr.com
 0.0.0.0 liliy9aydje10.com
 0.0.0.0 limg.imgsmail.ru
@@ -2391,6 +2410,7 @@
 0.0.0.0 location.apps.oppomobile.com
 0.0.0.0 lockersatelic.cam
 0.0.0.0 loc.map.baidu.com
+0.0.0.0 loc.samsungdive.com
 0.0.0.0 log-api.mintkeyboard.com
 0.0.0.0 logging.baca.co.id
 0.0.0.0 log.goodnovel.com
@@ -2403,6 +2423,7 @@
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 logos.kiwibrowser.com
 0.0.0.0 log.reyun.com
+0.0.0.0 log.sharemusic5.com
 0.0.0.0 logs.im-gb.com
 0.0.0.0 logs.papertrailapp.com
 0.0.0.0 log.tmtreader.com
@@ -2569,6 +2590,7 @@
 0.0.0.0 mob.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobileassets.gopaylater.findaya.co.id
+0.0.0.0 mobile.like.video
 0.0.0.0 mobilesearchers.com
 0.0.0.0 mobile.useinsider.com
 0.0.0.0 mobile.yandex.net
@@ -3237,11 +3259,13 @@
 0.0.0.0 rbux88.com
 0.0.0.0 rbxton.online
 0.0.0.0 rcmjs.rambler.ru
+0.0.0.0 rc.samsungweather.com
 0.0.0.0 rdr.mobiletime.net
 0.0.0.0 ready.whatssappa.xyz
 0.0.0.0 rebuilt.pro.ilovexclub.com
 0.0.0.0 receiver.habby.mobi
 0.0.0.0 receiver-metis.infeng.site
+0.0.0.0 receiver.ta.thinkingdata.cn
 0.0.0.0 recommend.pa1mstore.com
 0.0.0.0 recommend.palmplaystore.com
 0.0.0.0 recorder.iobit.com
@@ -3278,6 +3302,7 @@
 0.0.0.0 res1.applovin.com
 0.0.0.0 res2.applovin.com
 0.0.0.0 res3.applovin.com
+0.0.0.0 res.9appsinstall.com
 0.0.0.0 res.adx.opera.com
 0.0.0.0 res.bignox.com
 0.0.0.0 res.cloudinary.com
@@ -3409,6 +3434,7 @@
 0.0.0.0 samehadaku.tv
 0.0.0.0 samsappsbn.vo.llnwd.net
 0.0.0.0 samsung-callerprofile.edge.hiyaapi.com
+0.0.0.0 samsungnewsapi.picks.my
 0.0.0.0 sandbox.ssp.rambler.ru
 0.0.0.0 sap4clk.com
 0.0.0.0 sape.ru
@@ -3505,6 +3531,7 @@
 0.0.0.0 sf.ezoiccdn.com
 0.0.0.0 sf.napi.ucweb.com
 0.0.0.0 sf-syn.com
+0.0.0.0 sg01-cdn.rayjump.com
 0.0.0.0 sg-account.wps.com
 0.0.0.0 sg-dm.pageonenewsapp.com
 0.0.0.0 sg-drive.wps.com
@@ -3514,11 +3541,14 @@
 0.0.0.0 sg.mangatoon.mobi
 0.0.0.0 sg.omlet.me
 0.0.0.0 sgp-img-c.heytapimg.com
+0.0.0.0 sg-res.9appsdownloading.com
+0.0.0.0 sg-res.9appsinstall.com
 0.0.0.0 sg.tdatamaster.com
 0.0.0.0 shake-body.com
 0.0.0.0 shalltry.com
 0.0.0.0 shareaholic.com
 0.0.0.0 shareaholic.net
+0.0.0.0 sharemusic5.com
 0.0.0.0 sharepointonline.com
 0.0.0.0 share-sg.isnssdk.com
 0.0.0.0 sharethis.com
@@ -3651,6 +3681,7 @@
 0.0.0.0 static1.cbrimages.com
 0.0.0.0 static2.cbrimages.com
 0.0.0.0 static3.cbrimages.com
+0.0.0.0 static-act.like-video.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.ahagamecenter.com
@@ -3681,6 +3712,7 @@
 0.0.0.0 static-webengage.s3.ap-southeast-2.amazonaws.com
 0.0.0.0 static-webengage.s3.ap-southeast-3.amazonaws.com
 0.0.0.0 static-webengage.s3.ap-southeast-4.amazonaws.com
+0.0.0.0 static-web.likee.com
 0.0.0.0 static.wetvinfo.com
 0.0.0.0 staticworld.net
 0.0.0.0 static.zdassets.com
@@ -3755,6 +3787,7 @@
 0.0.0.0 supersonicads.com
 0.0.0.0 supl.qxwz.com
 0.0.0.0 support.bignox.com
+0.0.0.0 support-json.like.video
 0.0.0.0 support.jwplayer.com
 0.0.0.0 support.muslimpro.com
 0.0.0.0 support.weixin.qq.com
@@ -4098,7 +4131,9 @@
 0.0.0.0 videoplayerhub.com
 0.0.0.0 videoroll.net
 0.0.0.0 videos-fms.jwpsrv.com
+0.0.0.0 videosnap.like.video
 0.0.0.0 video.twimg.com
+0.0.0.0 vidmateapp.com
 0.0.0.0 vidoomy.com
 0.0.0.0 vidyard.com
 0.0.0.0 viglink.com
@@ -4390,10 +4425,12 @@
 0.0.0.0 www97.nathanaeldan.pro
 0.0.0.0 www98.nathanaeldan.pro
 0.0.0.0 www99.nathanaeldan.pro
+0.0.0.0 www.9apps.com
 0.0.0.0 www9.nathanaeldan.pro
 0.0.0.0 www.adapex.io
 0.0.0.0 www.adclound.com
 0.0.0.0 www.addtoany.com
+0.0.0.0 www.adexchanger.com
 0.0.0.0 www.adlook.me
 0.0.0.0 www.adventureacademy.com
 0.0.0.0 www.ad-x.com
@@ -4585,6 +4622,7 @@
 0.0.0.0 www.technologyadvice.com
 0.0.0.0 www.teddymobile.cn
 0.0.0.0 www.terabox.com
+0.0.0.0 www.thinkingdata.cn
 0.0.0.0 www.thrifter.com
 0.0.0.0 www.tinder-hot.xyz
 0.0.0.0 www.tns-counter.ru
@@ -4606,6 +4644,7 @@
 0.0.0.0 www.vdo.ai
 0.0.0.0 www.viber.com
 0.0.0.0 www.vidio.com
+0.0.0.0 www.vidmateapp.com
 0.0.0.0 www.voovlive.com
 0.0.0.0 www.vum.fyi
 0.0.0.0 www.vum.ngo
