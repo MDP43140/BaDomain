@@ -475,6 +475,7 @@
 0.0.0.0 api.pico.bendingspoonsapps.com
 0.0.0.0 api.picsart.com
 0.0.0.0 api.pinterest.com
+0.0.0.0 api.plg.dev
 0.0.0.0 api.poster.appsinnova.com
 0.0.0.0 api-prod.chikiigame.com
 0.0.0.0 api-project-652995075284.firebaseio.com
@@ -4708,6 +4709,7 @@
 0.0.0.0 xnimg.cn
 0.0.0.0 xnxx.com
 0.0.0.0 xplayer-42f31.web.app
+0.0.0.0 xpromo-api.plg.dev
 0.0.0.0 xray.mail.ru
 0.0.0.0 xserver.jp
 0.0.0.0 xs.vskitcdn.com

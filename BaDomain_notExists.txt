@@ -32,6 +32,7 @@ a3.applovin.com
 a.5fcb097b24a36d5711d4315c16ad1b0cb9b3acae90c8d66462893b57.com
 a.6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52.com
 a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
+a.74cd18cfa2fb55598ac80eaec537a956b6d536d8b031d4409b97f169.com
 a.9838c153324104ebd01be4ed325f374f9845449f97a9998d179005fe.com
 aadg.akadns.net
 a.ak.prd.aadg.trafficmanager.net
@@ -547,6 +548,7 @@ placements.tapjoyads.com
 platform.hicloud.com
 player.bignox.com
 playmakerservices.com
+plg.dev
 pmall.migc.xiaomi.com
 pn.api.micloud.mi.com
 p-n.io
@@ -802,6 +804,7 @@ www.nathanaeldan.pro
 www.netsecurity-essential.com
 www.notifa.info
 www.pdfcylsmo.com
+www.plg.dev
 www.printertechnicahelp.com
 www.quickbooktechnicalsupport.org
 www.ralijqugghwqil.com

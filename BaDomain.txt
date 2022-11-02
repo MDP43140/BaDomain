@@ -475,6 +475,7 @@ api.pho.to
 api.pico.bendingspoonsapps.com
 api.picsart.com
 api.pinterest.com
+api.plg.dev
 api.poster.appsinnova.com
 api-prod.chikiigame.com
 api-project-652995075284.firebaseio.com
@@ -4708,6 +4709,7 @@ xlgmedia.com
 xnimg.cn
 xnxx.com
 xplayer-42f31.web.app
+xpromo-api.plg.dev
 xray.mail.ru
 xserver.jp
 xs.vskitcdn.com
