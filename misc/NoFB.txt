@@ -900,6 +900,8 @@ external.fkul6-3.fna.fbcdn.net
 external.fkul7-1.fna.fbcdn.net
 external.fkul7-2.fna.fbcdn.net
 external.fkul8-1.fna.fbcdn.net
+external.fkut1-1.fna.fbcdn.net
+external.fkut1-1.fna.whatsapp.net
 external.fmaa1-1.fna.fbcdn.net
 external.fmex5-1.fna.fbcdn.net
 external.fmnl10-1.fna.fbcdn.net
@@ -1019,6 +1021,7 @@ govtech.m.facebook.com
 govtrequests.facebook.com
 graph.facebook.com
 graph-fallback.facebook.com
+graph.fb.gg
 graph.fbpigeon.com
 graph.instagram.com
 graphql.instagram.com
@@ -1202,6 +1205,8 @@ instagram.fkul6-3.fna.fbcdn.net
 instagram.fkul7-1.fna.fbcdn.net
 instagram.fkul7-2.fna.fbcdn.net
 instagram.fkul8-1.fna.fbcdn.net
+instagram.fkut1-1.fna.fbcdn.net
+instagram.fkut1-1.fna.whatsapp.net
 instagram.fmof1-1.fna.fbcdn.net
 instagram.fnag10-1.fna.fbcdn.net
 instagram.fnag11-1.fna.fbcdn.net
@@ -1578,7 +1583,6 @@ mietra-de.m.facebook.com
 miroglio.m.facebook.com
 mmg-fallback.whatsapp.net
 mm.m.facebook.com
-mmx-ds.cdn.whatsapp.net
 mobile.beta.facebook.com
 mobile.facebook.com
 moelven.m.facebook.com
@@ -1990,6 +1994,8 @@ scontent.fkul6-3.fna.fbcdn.net
 scontent.fkul7-1.fna.fbcdn.net
 scontent.fkul7-2.fna.fbcdn.net
 scontent.fkul8-1.fna.fbcdn.net
+scontent.fkut1-1.fna.fbcdn.net
+scontent.fkut1-1.fna.whatsapp.net
 scontent.fkwi10-1.fna.fbcdn.net
 scontent.flim10-1.fna.fbcdn.net
 scontent.flim1-2.fna.fbcdn.net
@@ -2214,6 +2220,8 @@ sonar-hel3-1.xx.fbcdn.net
 sonar-hkg4-2.xx.fbcdn.net
 sonar-hkt1-2.xx.fbcdn.net
 sonar-iad.xx.fbcdn.net
+sonar-kut2-1.xx.fbcdn.net
+sonar-kut2-2.xx.fbcdn.net
 sonar-lcy1-2.xx.fbcdn.net
 sonar-mct1-1.xx.fbcdn.net
 sonar-muc2-1.xx.fbcdn.net

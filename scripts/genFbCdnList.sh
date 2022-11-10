@@ -8,9 +8,9 @@
 ## Configuration ##
 #
 # Combinations (+ = Added, - Not added yet, !ALL = not all is scanned/outdated):
-# + ("external.f",  "!ALL", "fna.fbcdn.net")
-# + ("instagram.f", "!ALL", "fna.fbcdn.net")
-# + ("scontent.f",  "!ALL", "fna.fbcdn.net")
+# + ("external.f",  "ALL", "fna.fbcdn.net")
+# + ("instagram.f", "ALL", "fna.fbcdn.net")
+# + ("scontent.f",  "ALL", "fna.fbcdn.net")
 # + ("media.f",			"!ALL", "fna.whatsapp.net")
 # + ("media-",			"!ALL", "cdn.whatsapp.net")
 # - ("scontent-",		"!ALL", "fna.fbcdn.net")

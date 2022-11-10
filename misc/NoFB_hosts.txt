@@ -901,6 +901,8 @@
 0.0.0.0 external.fkul7-1.fna.fbcdn.net
 0.0.0.0 external.fkul7-2.fna.fbcdn.net
 0.0.0.0 external.fkul8-1.fna.fbcdn.net
+0.0.0.0 external.fkut1-1.fna.fbcdn.net
+0.0.0.0 external.fkut1-1.fna.whatsapp.net
 0.0.0.0 external.fmaa1-1.fna.fbcdn.net
 0.0.0.0 external.fmex5-1.fna.fbcdn.net
 0.0.0.0 external.fmnl10-1.fna.fbcdn.net
@@ -1020,6 +1022,7 @@
 0.0.0.0 govtrequests.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 graph.fb.gg
 0.0.0.0 graph.fbpigeon.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graphql.instagram.com
@@ -1203,6 +1206,8 @@
 0.0.0.0 instagram.fkul7-1.fna.fbcdn.net
 0.0.0.0 instagram.fkul7-2.fna.fbcdn.net
 0.0.0.0 instagram.fkul8-1.fna.fbcdn.net
+0.0.0.0 instagram.fkut1-1.fna.fbcdn.net
+0.0.0.0 instagram.fkut1-1.fna.whatsapp.net
 0.0.0.0 instagram.fmof1-1.fna.fbcdn.net
 0.0.0.0 instagram.fnag10-1.fna.fbcdn.net
 0.0.0.0 instagram.fnag11-1.fna.fbcdn.net
@@ -1579,7 +1584,6 @@
 0.0.0.0 miroglio.m.facebook.com
 0.0.0.0 mmg-fallback.whatsapp.net
 0.0.0.0 mm.m.facebook.com
-0.0.0.0 mmx-ds.cdn.whatsapp.net
 0.0.0.0 mobile.beta.facebook.com
 0.0.0.0 mobile.facebook.com
 0.0.0.0 moelven.m.facebook.com
@@ -2000,6 +2004,8 @@
 0.0.0.0 scontent.fkul7-1.fna.fbcdn.net
 0.0.0.0 scontent.fkul7-2.fna.fbcdn.net
 0.0.0.0 scontent.fkul8-1.fna.fbcdn.net
+0.0.0.0 scontent.fkut1-1.fna.fbcdn.net
+0.0.0.0 scontent.fkut1-1.fna.whatsapp.net
 0.0.0.0 scontent.fkwi10-1.fna.fbcdn.net
 0.0.0.0 scontent.flim10-1.fna.fbcdn.net
 0.0.0.0 scontent.flim1-2.fna.fbcdn.net
@@ -2224,6 +2230,8 @@
 0.0.0.0 sonar-hkg4-2.xx.fbcdn.net
 0.0.0.0 sonar-hkt1-2.xx.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
+0.0.0.0 sonar-kut2-1.xx.fbcdn.net
+0.0.0.0 sonar-kut2-2.xx.fbcdn.net
 0.0.0.0 sonar-lcy1-2.xx.fbcdn.net
 0.0.0.0 sonar-mct1-1.xx.fbcdn.net
 0.0.0.0 sonar-muc2-1.xx.fbcdn.net
