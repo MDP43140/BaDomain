@@ -8,18 +8,18 @@
 ## Configuration ##
 #
 # Combinations (+ = Added, - Not added yet, !ALL = not all is scanned/outdated):
-# + ("external.f",  "ALL", "fna.fbcdn.net")
-# + ("instagram.f", "ALL", "fna.fbcdn.net")
-# + ("scontent.f",  "ALL", "fna.fbcdn.net")
+# + ("external.f",  "!ALL", "fna.fbcdn.net")
+# + ("instagram.f", "!ALL", "fna.fbcdn.net")
+# + ("scontent.f",  "!ALL", "fna.fbcdn.net")
 # + ("media.f",			"!ALL", "fna.whatsapp.net")
-# + ("media-",			"ALL", "cdn.whatsapp.net")
-# - ("scontent-",		"ALL", "fna.fbcdn.net")
-# - ("scontent-",		"ALL", "xx.fbcdn.net")
-# - ("scontent-",		"ALL", "cdninstagram.com")
-# - ("sonar6-",			"ALL", "fna.fbcdn.net")
-# - ("sonar6-",			"ALL", "xx.fbcdn.net")
-# - ("video-",			"ALL", "fna.fbcdn.net")
-# - ("video-",			"ALL", "xx.fbcdn.net")
+# + ("media-",			"!ALL", "cdn.whatsapp.net")
+# - ("scontent-",		"!ALL", "fna.fbcdn.net")
+# - ("scontent-",		"!ALL", "xx.fbcdn.net")
+# - ("scontent-",		"!ALL", "cdninstagram.com")
+# - ("sonar6-",			"!ALL", "fna.fbcdn.net")
+# - ("sonar6-",			"!ALL", "xx.fbcdn.net")
+# - ("video-",			"!ALL", "fna.fbcdn.net")
+# - ("video-",			"!ALL", "xx.fbcdn.net")
 #
 # Also, if you know any other possible combination,
 # dont be hesitant to make a new GitHub issue:
@@ -45,6 +45,7 @@ SFB_TYPES=(
 #	"media.f" # MainDomain2
 #	"media-" # MainDomain2
 	"sonar6-" # MainDomain3
+	"sonar-" # MainDomain3
 	"video-" # MainDomain3
 	"scontent-" # MainDomain3
 #	"scontent-a-" # MainDomain3
@@ -64,6 +65,7 @@ SFB_REGIONCODE=(
 	"kix"
 	"kno"
 	"kul"
+	"kut"
 	"mof"
 	"nag"
 	"ngo"
