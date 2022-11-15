@@ -29,6 +29,7 @@ a.137e82938ec8f951d71b03180c47c2e726cf8857dae8716d8d47613a.com
 a1.applovin.com
 a2.applovin.com
 a3.applovin.com
+a.50b9cca5b5e0d6448525d89442cbf7643efb5d52f8d8584ab5a4bc32.com
 a.5fcb097b24a36d5711d4315c16ad1b0cb9b3acae90c8d66462893b57.com
 a.6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52.com
 a.6f73461aad9ea746094008eb064c6563c81c84ac2da78a312883334b.com
@@ -159,6 +160,7 @@ candycrushsaga.king.com
 carrentalcrew.com
 ccgateway.net
 cd.exp.xiaomi.com
+cdn1.tstatic.net
 cdn1.uzone.id
 cdn3.uzone.id
 cdn5.uzone.id
@@ -411,11 +413,13 @@ keep2.xyz
 kendedes.uzone.id
 kika-backend.com
 kikakeyboard.com
+kirkshire.world
 kl-youniverse.com
 kompasads.com
 krxd.net
 ks-sgp-origin-pull.snackvideo.in
 kucoin-sso.com
+laptops.offers247.online
 leonard.faceapp.ai
 lg-bgp.pandora.xiaomi.com
 liadm.com
@@ -505,6 +509,7 @@ nude.snapgirls.today
 nude.younggirls.today
 nvidiacenter.com
 oca.nflxvideo.net
+offers247.online
 office.net
 ogtrk.net
 omtrdc.net

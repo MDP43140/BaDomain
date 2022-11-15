@@ -1320,6 +1320,7 @@ instagramstatic-a.akamaihd.net
 instagramstatic-a.akamaihd.net.edgesuite.net
 interncache-atn.fbcdn.net
 interncache-ldc.fbcdn.net
+interncache-ncg.fbcdn.net
 interncache-rva.fbcdn.net
 interncache-vll.fbcdn.net
 intern.facebook.com

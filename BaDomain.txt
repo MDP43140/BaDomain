@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 10.11.2022
+# Version: 15.11.2022
 # Update: 1 day
 #
 
@@ -123,6 +123,7 @@ a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 a4.applovin.com
 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+a.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 a5cf870526ee8046d26235be996b36b9.safeframe.googlesyndication.com
 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
@@ -413,6 +414,7 @@ api-fd.dutils.com
 api.floors.dev
 api.flx-vpn.com
 api.ftpub.net
+api.fview.cn
 api.galileoab.com
 api.gameanalytics.com
 api.gamesystem.zepeto.run
@@ -677,6 +679,7 @@ assets.adobedtm.com
 assets.alicdn.com
 assets.applovin.com
 assets.capterra.com
+assets.cpcdn.com
 assets.duniagames.co.id
 assets.flex.twilio.com
 assets-jpcust.jwpsrv.com
@@ -754,6 +757,7 @@ bbckdl.mfcewkrob.com
 bbs.bignox.com
 bc0a.com
 bdapi-id.ads.heytapmobile.com
+bdimg.share.baidu.com
 bdtj.infinities.com.cn
 beacon-fra2.rubiconproject.com
 beacons.ai
@@ -1701,6 +1705,7 @@ futurecdn.net
 futureplc.com
 fuwu.sogou.com
 fuwu.weixin.qq.com
+fview.cn
 fv-st-konrad.de
 fw.dnsforwardingservice.com
 fwmrm.net
@@ -1896,6 +1901,7 @@ hatena.ne.jp
 havanese.top
 havasedge.com
 hb-af.outfit7.com
+hb.jixie.io
 hb.kg.qq.com
 hbmtours.com
 hbs.ph.affinity.com
@@ -2084,6 +2090,9 @@ image.useinsider.com
 image.winudf.com
 imasdk.googleapis.com
 imdb.com
+img001.fview.cn
+img002.fview.cn
+img003.fview.cn
 img-1000010.ad-score.com
 img-1000557.ad-score.com
 img-1000736.ad-score.com
@@ -2098,6 +2107,8 @@ imgcdn.ymstatic.com
 img.connatix.com
 img.feednews.com
 img-fotki.yandex.ru
+img.fview.cn
+img.fview.cn.m.alikunlun.net
 img.go2s.co
 imgg.traffic-media.co
 img-hw.xnxx-cdn.com
@@ -2305,6 +2316,7 @@ kastking.top
 kayumanis.detik.com
 kepler.51y5.net
 kepler.y5en.com
+kfmark.com
 kf.qq.com
 kgsports-apk.acircle.vip
 kidozplayer.com
@@ -2809,6 +2821,7 @@ ns36.domaincontrol.com
 ns37.domaincontrol.com
 ns38.domaincontrol.com
 ns39.domaincontrol.com
+ns3.alikunlun.net
 ns40.domaincontrol.com
 ns41.domaincontrol.com
 ns42.domaincontrol.com
@@ -2819,6 +2832,7 @@ ns46.domaincontrol.com
 ns47.domaincontrol.com
 ns48.domaincontrol.com
 ns49.domaincontrol.com
+ns4.alikunlun.net
 ns50.domaincontrol.com
 ns51.domaincontrol.com
 ns52.domaincontrol.com
@@ -2829,6 +2843,7 @@ ns56.domaincontrol.com
 ns57.domaincontrol.com
 ns58.domaincontrol.com
 ns59.domaincontrol.com
+ns5.alikunlun.net
 ns60.domaincontrol.com
 ns61.domaincontrol.com
 ns62.domaincontrol.com
@@ -2872,6 +2887,7 @@ o64315.ingest.sentry.io
 o937343.ingest.sentry.io
 o968153.ingest.sentry.io
 o984659.ingest.sentry.io
+o993586.ingest.sentry.io
 o.alicdn.com
 oauth.vk.com
 obr-sim.bounty-rush.com
@@ -3083,6 +3099,7 @@ pc.weixin.qq.com
 pedulilindungi.com
 pentatonic.cyou
 pepepush.net
+perf-events.cloud.unity3d.com
 perf.hsforms.com
 persona.franchise.minecraft-services.net
 persona.hotstar.com
@@ -4556,6 +4573,7 @@ www.financialtrending.com
 www.flx-vpn.com
 www.fnaim.ru
 www.focusmedica.in
+www.fview.cn
 www.g2.com
 www.g2crowd.com
 www.gabrio.it
@@ -4679,6 +4697,7 @@ www.spinaway.com
 www.stagingapps.xyz
 www.stake.com
 www.steveziogames.com
+www.stormcleanerapp.com
 www.supremocontrol.com
 www.supremofree.com
 www.taobao.com

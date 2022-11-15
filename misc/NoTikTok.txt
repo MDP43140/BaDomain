@@ -1012,6 +1012,7 @@ gms-ns.byteoversea.com
 gplog-sg.byteoversea.com
 gplog.snssdk.com
 gplog-va.byteoversea.com
+gpm-mon-va.bytegsdk.com
 gppg-sg.byteintl.com
 grafana-boe.byted.org
 grelationship-sg.snssdk.com

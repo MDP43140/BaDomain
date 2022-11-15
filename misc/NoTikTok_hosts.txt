@@ -1012,6 +1012,7 @@
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog.snssdk.com
 0.0.0.0 gplog-va.byteoversea.com
+0.0.0.0 gpm-mon-va.bytegsdk.com
 0.0.0.0 gppg-sg.byteintl.com
 0.0.0.0 grafana-boe.byted.org
 0.0.0.0 grelationship-sg.snssdk.com
