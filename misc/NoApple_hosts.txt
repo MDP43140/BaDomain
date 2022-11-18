@@ -80,6 +80,7 @@
 0.0.0.0 configuration.apple.com.akadns.net
 0.0.0.0 configuration.apple.com.edgekey.net
 0.0.0.0 configuration.ls.apple.com
+0.0.0.0 contacts.fe.apple-dns.net
 0.0.0.0 courier2.push.apple.com
 0.0.0.0 dns.apple.com.v.aaplimg.com
 0.0.0.0 doh.dns.apple.com
@@ -325,6 +326,9 @@
 0.0.0.0 stocks-sparkline.apple.com
 0.0.0.0 time.apple.com
 0.0.0.0 token.safebrowsing.apple
+0.0.0.0 updates.cdn-apple.com
+0.0.0.0 updates.cdn-apple.com.akadns.net
+0.0.0.0 updates.g.aaplimg.com
 0.0.0.0 weather-data.apple.com
 0.0.0.0 weather-edge.apple.com
 0.0.0.0 weather-edge.news.apple-dns.net

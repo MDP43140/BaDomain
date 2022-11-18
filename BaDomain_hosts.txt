@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 15.11.2022
+# Version: 18.11.2022
 # Update: 1 day
 #
 
@@ -21,6 +21,7 @@
 0.0.0.0 123.sogou.com
 0.0.0.0 126.net
 0.0.0.0 133fitness.com
+0.0.0.0 1558334541.rsc.cdn77.org
 0.0.0.0 163.com
 0.0.0.0 166co.com
 0.0.0.0 166.net
@@ -186,6 +187,7 @@
 0.0.0.0 admin-3.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 admin.qidian.qq.com
 0.0.0.0 admixplay.com
+0.0.0.0 a.doodoo.love
 0.0.0.0 adop.cc
 0.0.0.0 ad.plus
 0.0.0.0 adpushup.com
@@ -313,6 +315,7 @@
 0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 analytics-vibe.contextads.live
 0.0.0.0 anchor.fm
+0.0.0.0 androgamer.org
 0.0.0.0 androidads4-1.adcolony.com
 0.0.0.0 androidads4-2.adcolony.com
 0.0.0.0 androidads4-3.adcolony.com
@@ -522,6 +525,7 @@
 0.0.0.0 api.tratao.com
 0.0.0.0 api.twibida.com
 0.0.0.0 api-us.bidmachine.io
+0.0.0.0 api.useinsider.com
 0.0.0.0 api.ushareit.com
 0.0.0.0 api-va.tmtreader.com
 0.0.0.0 api-visitor-analytics.intercom.com
@@ -565,6 +569,7 @@
 0.0.0.0 app.hubspot.com
 0.0.0.0 apph.wpsmail.net
 0.0.0.0 appia.com
+0.0.0.0 app-info-cdn.ezjojoy.com
 0.0.0.0 appinfo-s3.eagllwin.com
 0.0.0.0 appjustable.com
 0.0.0.0 apple-finance.query.yahoo.com
@@ -973,6 +978,7 @@
 0.0.0.0 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 0.0.0.0 cdn.cxomedia.id
 0.0.0.0 cdn.dms.eyewind.cn
+0.0.0.0 cdn.ezjojoy.com
 0.0.0.0 cdn.fbsbx.com
 0.0.0.0 cdn-f.heylink.me
 0.0.0.0 cdn.firstpromoter.com
@@ -1026,6 +1032,7 @@
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-theme-eu-central-1.shalltry.com
 0.0.0.0 cdn.thinkific.com
+0.0.0.0 cdn.topmongo.com
 0.0.0.0 cdn.unblockia.com
 0.0.0.0 cdn.walkme.com
 0.0.0.0 cdn-web.jifo.co
@@ -1414,6 +1421,7 @@
 0.0.0.0 discovery.clearbit.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 diva.bond
+0.0.0.0 djlgexjqjjk.com
 0.0.0.0 djnl.decisionnowlive.com
 0.0.0.0 dl111.dlmate26.xyz
 0.0.0.0 dl111.fbefcafbeedc.xyz
@@ -1451,6 +1459,7 @@
 0.0.0.0 domain.trialogger.com
 0.0.0.0 domain.zongg.top
 0.0.0.0 do-not-tracker.org
+0.0.0.0 doodoo.love
 0.0.0.0 dosgen.monster
 0.0.0.0 dotmetrics.net
 0.0.0.0 doubleclick.net
@@ -1576,6 +1585,7 @@
 0.0.0.0 es.slideshare.net
 0.0.0.0 estrongs.com
 0.0.0.0 e.tapdb.net
+0.0.0.0 etpweb.doodoo.love
 0.0.0.0 etsy.com
 0.0.0.0 etzndtcvqvyxajpcgwkzsoweaubilflh.com
 0.0.0.0 eu1.clevertap-prod.com
@@ -1609,6 +1619,7 @@
 0.0.0.0 eyeota.net
 0.0.0.0 eyewind.cn
 0.0.0.0 ezadblocker.com
+0.0.0.0 ezjojoy.com
 0.0.0.0 ezodn.com
 0.0.0.0 ezoic.net
 0.0.0.0 ezojs.com
@@ -1654,6 +1665,7 @@
 0.0.0.0 firstpromoter.com
 0.0.0.0 fk-new-cdn-eu-central-1a-hb.rayjump.com
 0.0.0.0 flashtalking.com
+0.0.0.0 flbk2.izooto.com
 0.0.0.0 flbk.izooto.com
 0.0.0.0 flix.bar
 0.0.0.0 fluidplayer.com
@@ -1895,6 +1907,7 @@
 0.0.0.0 hammergamer.com
 0.0.0.0 hanyu.sogou.com
 0.0.0.0 haokan.mobi
+0.0.0.0 happymod.io
 0.0.0.0 hardwarecloseout.com
 0.0.0.0 hastopic.com
 0.0.0.0 hatena.ne.jp
@@ -2264,6 +2277,8 @@
 0.0.0.0 jmacs-m.lazada.co.id
 0.0.0.0 jobicorn.com
 0.0.0.0 joinbudapp.com
+0.0.0.0 jojoy-app-files.ezjojoy.com
+0.0.0.0 jojoy.io
 0.0.0.0 jomax.net
 0.0.0.0 jp.bignox.com
 0.0.0.0 jp-col-tcp.nelo.linecorp.com
@@ -2634,6 +2649,7 @@
 0.0.0.0 mobile.yandex.net
 0.0.0.0 mobredirect.net
 0.0.0.0 mobvista.com
+0.0.0.0 moddroid.co
 0.0.0.0 modgen.uno
 0.0.0.0 moengage.com
 0.0.0.0 momentive.ai
@@ -2909,6 +2925,7 @@
 0.0.0.0 oficayuda.club
 0.0.0.0 o.glance-cdn.com
 0.0.0.0 ohaveblueen.space
+0.0.0.0 o-id-mob.glance-cdn.com
 0.0.0.0 olmusic.xyz
 0.0.0.0 omappapi.com
 0.0.0.0 omes-sec.heytapmobile.com
@@ -3170,6 +3187,7 @@
 0.0.0.0 pogoda.imgsmail.ru
 0.0.0.0 point-of-entry.com
 0.0.0.0 pointone.tech
+0.0.0.0 pokigame.io
 0.0.0.0 policy-tcp.rayjump.com
 0.0.0.0 polussuo.com
 0.0.0.0 pool.apk.aptoide.com
@@ -3404,6 +3422,7 @@
 0.0.0.0 romanhackers.com
 0.0.0.0 roobet.com
 0.0.0.0 rosenberg.appmetrica.yandex.net
+0.0.0.0 roumucee.com
 0.0.0.0 ro.up.vivoglobal.com
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rpe.xdplt.com
@@ -3569,6 +3588,7 @@
 0.0.0.0 serverhub.ru
 0.0.0.0 service.carlcare.com
 0.0.0.0 service.force.com
+0.0.0.0 service.pokigame.io
 0.0.0.0 services.prod.ims.adobejanus.com
 0.0.0.0 settings.kiwibrowser.com
 0.0.0.0 settings.picsart.com
@@ -3949,6 +3969,7 @@
 0.0.0.0 th.bignox.com
 0.0.0.0 thedogvisitor.com
 0.0.0.0 themarfa.name
+0.0.0.0 themeimg.heytapimg.com
 0.0.0.0 theme-magazine-gl-01.heytapimg.com
 0.0.0.0 theme.shalltry.com
 0.0.0.0 theme.zdassets.com
@@ -4005,6 +4026,7 @@
 0.0.0.0 top.ge
 0.0.0.0 topgirls.uno
 0.0.0.0 topic-sticker-vending.snapchat.com
+0.0.0.0 topmongo.com
 0.0.0.0 toptradeguru.com
 0.0.0.0 tor-browser.io
 0.0.0.0 torbrowser.io
@@ -4167,6 +4189,7 @@
 0.0.0.0 vast-events.inner-active.mobi
 0.0.0.0 vast.vokepedia.com
 0.0.0.0 vasundharaapps.com
+0.0.0.0 vaugroar.com
 0.0.0.0 vay.rent
 0.0.0.0 vbucks22.com
 0.0.0.0 vbw.vivoglobal.com
@@ -4184,6 +4207,7 @@
 0.0.0.0 videodownloader.ummy.net
 0.0.0.0 videoeditor-sg.soloop.heytapmobile.com
 0.0.0.0 video-g.usicdn.com
+0.0.0.0 video.kompas.com
 0.0.0.0 videomin.ru
 0.0.0.0 videoplayerhub.com
 0.0.0.0 videoroll.net
@@ -4277,6 +4301,7 @@
 0.0.0.0 webadv.co
 0.0.0.0 webanalytic.info
 0.0.0.0 webapi-clean.ikeepapps.com
+0.0.0.0 web-api.moddroid.co
 0.0.0.0 web-api.netpop.app
 0.0.0.0 webdesignerdepot.com
 0.0.0.0 weblibrary.cdn.getgo.com
@@ -4324,6 +4349,7 @@
 0.0.0.0 whoami.akamai.net
 0.0.0.0 whx66.veve.com
 0.0.0.0 widget.intercom.io
+0.0.0.0 widget.kompas.com
 0.0.0.0 widget-mediator.zopim.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
@@ -4514,6 +4540,7 @@
 0.0.0.0 www.affinity.net
 0.0.0.0 www.aksconsulting.us
 0.0.0.0 www.alipay.com
+0.0.0.0 www.androgamer.org
 0.0.0.0 www.announcekit.app
 0.0.0.0 www.anydesk.com
 0.0.0.0 www.apkeditorfree.com
@@ -4607,6 +4634,7 @@
 0.0.0.0 www.istarapps.com
 0.0.0.0 www.javwall.net
 0.0.0.0 www.jd.com
+0.0.0.0 www.jojoy.io
 0.0.0.0 www.jpush.io
 0.0.0.0 www.jwplayer.com
 0.0.0.0 www.jwshowcase.com

@@ -132,6 +132,7 @@
 0.0.0.0 idmb.app.chat.global.xiaomi.net
 0.0.0.0 idmb.register.xmpush.global.xiaomi.com
 0.0.0.0 idm.iot.mi.com
+0.0.0.0 id-miuilog.sms.intl.xiaomi.com
 0.0.0.0 id.video.intl.xiaomi.com
 0.0.0.0 i.mi.com
 0.0.0.0 in.find.api.micloud.xiaomi.net

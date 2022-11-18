@@ -132,6 +132,7 @@ id-fcm.sms.intl.xiaomi.com
 idmb.app.chat.global.xiaomi.net
 idmb.register.xmpush.global.xiaomi.com
 idm.iot.mi.com
+id-miuilog.sms.intl.xiaomi.com
 id.video.intl.xiaomi.com
 i.mi.com
 in.find.api.micloud.xiaomi.net

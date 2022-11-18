@@ -218,6 +218,7 @@ csp1.zte.com.cn
 ctc.fe01.c3.xiaomi.com
 ctc.fe02.c3.xiaomi.com
 ctfassets.net
+cthulhu-world.com
 d01.notifa.info
 d1zcggttmijv1z.cloudfront.net
 dable.ioscript

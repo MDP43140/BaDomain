@@ -79,6 +79,7 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration.ls.apple.com
+contacts.fe.apple-dns.net
 courier2.push.apple.com
 dns.apple.com.v.aaplimg.com
 doh.dns.apple.com
@@ -324,6 +325,9 @@ stocks-edge.apple.com
 stocks-sparkline.apple.com
 time.apple.com
 token.safebrowsing.apple
+updates.cdn-apple.com
+updates.cdn-apple.com.akadns.net
+updates.g.aaplimg.com
 weather-data.apple.com
 weather-edge.apple.com
 weather-edge.news.apple-dns.net

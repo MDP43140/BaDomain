@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 15.11.2022
+# Version: 18.11.2022
 # Update: 1 day
 #
 
@@ -21,6 +21,7 @@
 123.sogou.com
 126.net
 133fitness.com
+1558334541.rsc.cdn77.org
 163.com
 166co.com
 166.net
@@ -186,6 +187,7 @@ ad.mail.ru
 admin-3.oss-cn-hongkong.aliyuncs.com
 admin.qidian.qq.com
 admixplay.com
+a.doodoo.love
 adop.cc
 ad.plus
 adpushup.com
@@ -313,6 +315,7 @@ analytics.rocks
 analytics-tcp.mintegral.net
 analytics-vibe.contextads.live
 anchor.fm
+androgamer.org
 androidads4-1.adcolony.com
 androidads4-2.adcolony.com
 androidads4-3.adcolony.com
@@ -522,6 +525,7 @@ api.tmtreader.com
 api.tratao.com
 api.twibida.com
 api-us.bidmachine.io
+api.useinsider.com
 api.ushareit.com
 api-va.tmtreader.com
 api-visitor-analytics.intercom.com
@@ -565,6 +569,7 @@ appevent.cookappsgames.com
 app.hubspot.com
 apph.wpsmail.net
 appia.com
+app-info-cdn.ezjojoy.com
 appinfo-s3.eagllwin.com
 appjustable.com
 apple-finance.query.yahoo.com
@@ -973,6 +978,7 @@ cdn.cove.chat
 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 cdn.cxomedia.id
 cdn.dms.eyewind.cn
+cdn.ezjojoy.com
 cdn.fbsbx.com
 cdn-f.heylink.me
 cdn.firstpromoter.com
@@ -1026,6 +1032,7 @@ cdn-static.kwai.net
 cdn-store-icons-akamai-prd.unityads.unity3d.com
 cdn-theme-eu-central-1.shalltry.com
 cdn.thinkific.com
+cdn.topmongo.com
 cdn.unblockia.com
 cdn.walkme.com
 cdn-web.jifo.co
@@ -1414,6 +1421,7 @@ discovercadeals.com
 discovery.clearbit.com
 distillery.wistia.com
 diva.bond
+djlgexjqjjk.com
 djnl.decisionnowlive.com
 dl111.dlmate26.xyz
 dl111.fbefcafbeedc.xyz
@@ -1451,6 +1459,7 @@ domaincfg.vivoglobal.com
 domain.trialogger.com
 domain.zongg.top
 do-not-tracker.org
+doodoo.love
 dosgen.monster
 dotmetrics.net
 doubleclick.net
@@ -1576,6 +1585,7 @@ es.rakuten.tv
 es.slideshare.net
 estrongs.com
 e.tapdb.net
+etpweb.doodoo.love
 etsy.com
 etzndtcvqvyxajpcgwkzsoweaubilflh.com
 eu1.clevertap-prod.com
@@ -1609,6 +1619,7 @@ eyeonsight.net
 eyeota.net
 eyewind.cn
 ezadblocker.com
+ezjojoy.com
 ezodn.com
 ezoic.net
 ezojs.com
@@ -1654,6 +1665,7 @@ firehose.eu-west-1.amazonaws.com
 firstpromoter.com
 fk-new-cdn-eu-central-1a-hb.rayjump.com
 flashtalking.com
+flbk2.izooto.com
 flbk.izooto.com
 flix.bar
 fluidplayer.com
@@ -1895,6 +1907,7 @@ h5.y5en.com
 hammergamer.com
 hanyu.sogou.com
 haokan.mobi
+happymod.io
 hardwarecloseout.com
 hastopic.com
 hatena.ne.jp
@@ -2264,6 +2277,8 @@ jktmike.livejournal.com
 jmacs-m.lazada.co.id
 jobicorn.com
 joinbudapp.com
+jojoy-app-files.ezjojoy.com
+jojoy.io
 jomax.net
 jp.bignox.com
 jp-col-tcp.nelo.linecorp.com
@@ -2634,6 +2649,7 @@ mobile.useinsider.com
 mobile.yandex.net
 mobredirect.net
 mobvista.com
+moddroid.co
 modgen.uno
 moengage.com
 momentive.ai
@@ -2909,6 +2925,7 @@ of.foldlife.net
 oficayuda.club
 o.glance-cdn.com
 ohaveblueen.space
+o-id-mob.glance-cdn.com
 olmusic.xyz
 omappapi.com
 omes-sec.heytapmobile.com
@@ -3170,6 +3187,7 @@ podrbx.best
 pogoda.imgsmail.ru
 point-of-entry.com
 pointone.tech
+pokigame.io
 policy-tcp.rayjump.com
 polussuo.com
 pool.apk.aptoide.com
@@ -3404,6 +3422,7 @@ rollbit.com
 romanhackers.com
 roobet.com
 rosenberg.appmetrica.yandex.net
+roumucee.com
 ro.up.vivoglobal.com
 rpc.tapjoy.com
 rpe.xdplt.com
@@ -3569,6 +3588,7 @@ servebom.com
 serverhub.ru
 service.carlcare.com
 service.force.com
+service.pokigame.io
 services.prod.ims.adobejanus.com
 settings.kiwibrowser.com
 settings.picsart.com
@@ -3949,6 +3969,7 @@ t.focus-res.cn
 th.bignox.com
 thedogvisitor.com
 themarfa.name
+themeimg.heytapimg.com
 theme-magazine-gl-01.heytapimg.com
 theme.shalltry.com
 theme.zdassets.com
@@ -4005,6 +4026,7 @@ top-fwz1.mail.ru
 top.ge
 topgirls.uno
 topic-sticker-vending.snapchat.com
+topmongo.com
 toptradeguru.com
 tor-browser.io
 torbrowser.io
@@ -4167,6 +4189,7 @@ vas.samsungapps.com
 vast-events.inner-active.mobi
 vast.vokepedia.com
 vasundharaapps.com
+vaugroar.com
 vay.rent
 vbucks22.com
 vbw.vivoglobal.com
@@ -4184,6 +4207,7 @@ videodelivery.net
 videodownloader.ummy.net
 videoeditor-sg.soloop.heytapmobile.com
 video-g.usicdn.com
+video.kompas.com
 videomin.ru
 videoplayerhub.com
 videoroll.net
@@ -4277,6 +4301,7 @@ web2.17roco.qq.com
 webadv.co
 webanalytic.info
 webapi-clean.ikeepapps.com
+web-api.moddroid.co
 web-api.netpop.app
 webdesignerdepot.com
 weblibrary.cdn.getgo.com
@@ -4324,6 +4349,7 @@ whiteclawreport.com
 whoami.akamai.net
 whx66.veve.com
 widget.intercom.io
+widget.kompas.com
 widget-mediator.zopim.com
 widgets.outbrain.com
 widgets.pinterest.com
@@ -4514,6 +4540,7 @@ www.ad-x.co.uk
 www.affinity.net
 www.aksconsulting.us
 www.alipay.com
+www.androgamer.org
 www.announcekit.app
 www.anydesk.com
 www.apkeditorfree.com
@@ -4607,6 +4634,7 @@ www.iseepassword.com
 www.istarapps.com
 www.javwall.net
 www.jd.com
+www.jojoy.io
 www.jpush.io
 www.jwplayer.com
 www.jwshowcase.com
