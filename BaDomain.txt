@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 18.11.2022
+# Version: 23.11.2022
 # Update: 1 day
 #
 
@@ -211,6 +211,7 @@ adsimg.kompas.com
 ads.indosatooredoo.com
 ads-interfaces.sc-cdn.net
 ads.net.id
+ads.playground.xyz
 adsrvr.org
 ads.telkomsel.com
 ads.vidoomy.com
@@ -445,6 +446,7 @@ api-id.theme.heytapmobile.com
 api.igofun.mobi
 api.instabridge.com
 api.intellimize.co
+api.ipdata.co
 api.ipify.org
 api.iq.com
 api.isharingapp.com
@@ -688,6 +690,7 @@ assets.cpcdn.com
 assets.duniagames.co.id
 assets.flex.twilio.com
 assets-jpcust.jwpsrv.com
+assets-marketing-site.calendly.com
 assets.mintegral.com
 assets.promediateknologi.com
 assets-share.dspunion.com
@@ -911,6 +914,7 @@ cashend.me
 catbox.moe
 cbs.wondershare.com
 cc.163.com
+ccms.shopee.io
 c.cnzz.com
 cda0.avanquest.com
 cda1.avanquest.com
@@ -965,6 +969,7 @@ cdn.aihelp.net
 cdn-asset.optimonk.com
 cdn-asset.zepeto.me
 cdn.avanquest.com
+cdn.bc0a.com
 cdn.bizible.com
 cdn.calibermind.com
 cdn.concert.io
@@ -1131,6 +1136,7 @@ cn-e-pic-tencent.mangatoon.mobi
 cn-e-pic-ws.mangatoon.mobi
 c.neptunegame.com
 cn.pool.ntp.org
+cn.s.50union.com
 cnzz.com
 cnzz.com.danuoyi.tbcache.com
 co.com
@@ -1416,6 +1422,8 @@ digilife.uzone.id
 digitalriver.com
 digitaltarget.ru
 d.infeed.id
+direct.lc.chat
+direct.lc.chat.edgekey.net
 dirtytinder1s.com
 discovercadeals.com
 discovery.clearbit.com
@@ -2218,6 +2226,7 @@ iota.cooooos.com
 iot.weixin.qq.com
 ip-api.com
 ipcdn.g.aaplimg.com
+ipdata.co
 ipify.org
 ipinfo.io
 i.pinimg.com
@@ -2401,6 +2410,7 @@ lbs-ru2.ads.betweendigital.com
 lbs-ru3.ads.betweendigital.com
 lbs-ru4.ads.betweendigital.com
 lbs-zaizai.netease.im
+lc.chat
 l.dfydaily.com
 leaderboard.api.glance.inmobi.com
 leatonm.net
@@ -2496,6 +2506,7 @@ l.otidapi.com
 lottiefiles.com
 lovelybabestu.com
 loveme.uno
+lr-ingest.io
 l-shrcnt.livejournal.net
 lulusoft.com
 lunalabs.io
@@ -2606,6 +2617,7 @@ mgl.lobby.igamecj.com
 m.harbourfunny.com
 mhy.link
 microremoteassist.com
+micro.rubiconproject.com
 microservices.wifimap.io
 midas-api.hellay.net
 milvarusso.com
@@ -3248,6 +3260,7 @@ ps4remoteplay.net
 p.scooper.news
 psegment.netcoresmartech.com
 ps.eyeota.net
+pshmetrk.com
 pt.bignox.com
 ptlinknettbk.my.salesforce.com
 pt.slideshare.net

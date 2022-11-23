@@ -2413,6 +2413,7 @@
 0.0.0.0 vupload.facebook.com
 0.0.0.0 w1527b17e1-gm3dcnrzguzdimru.snr.whatsapp.net
 0.0.0.0 w414333631-gi3dknzzgyzdcoa.snr.whatsapp.net
+0.0.0.0 w490d9fe31-g44tqnbugq4dqob.snr.whatsapp.net
 0.0.0.0 web.beta.facebook.com
 0.0.0.0 webdav.facebook.com
 0.0.0.0 web.facebook.com

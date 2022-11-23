@@ -170,6 +170,8 @@
 0.0.0.0 api16-core.tiktokv.com
 0.0.0.0 api16-core-va.tiktokv.com
 0.0.0.0 api16-core-va.tiktokv.com.edgekey.net
+0.0.0.0 api16-event-sg.pangle.io
+0.0.0.0 api16-event-sg.pangle.io.edgekey.net
 0.0.0.0 api16-log-sg.pangle.io
 0.0.0.0 api16-normal-alisg.helo-api.com
 0.0.0.0 api16-normal-c-alisg.tiktokv.com
@@ -1050,6 +1052,7 @@
 0.0.0.0 homed-lq.snssdk.com
 0.0.0.0 homed.snssdk.com
 0.0.0.0 homed.snssdk.com.w.kunluncan.com
+0.0.0.0 hostmaster.pangle.io
 0.0.0.0 hotapi16-normal-useast2a.tiktokv.com
 0.0.0.0 hotapi22-normal-alisg.tiktokv.com
 0.0.0.0 hotapi22-normal-useast2a.tiktokv.com

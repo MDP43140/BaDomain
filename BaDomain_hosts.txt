@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 18.11.2022
+# Version: 23.11.2022
 # Update: 1 day
 #
 
@@ -211,6 +211,7 @@
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads.net.id
+0.0.0.0 ads.playground.xyz
 0.0.0.0 adsrvr.org
 0.0.0.0 ads.telkomsel.com
 0.0.0.0 ads.vidoomy.com
@@ -445,6 +446,7 @@
 0.0.0.0 api.igofun.mobi
 0.0.0.0 api.instabridge.com
 0.0.0.0 api.intellimize.co
+0.0.0.0 api.ipdata.co
 0.0.0.0 api.ipify.org
 0.0.0.0 api.iq.com
 0.0.0.0 api.isharingapp.com
@@ -688,6 +690,7 @@
 0.0.0.0 assets.duniagames.co.id
 0.0.0.0 assets.flex.twilio.com
 0.0.0.0 assets-jpcust.jwpsrv.com
+0.0.0.0 assets-marketing-site.calendly.com
 0.0.0.0 assets.mintegral.com
 0.0.0.0 assets.promediateknologi.com
 0.0.0.0 assets-share.dspunion.com
@@ -911,6 +914,7 @@
 0.0.0.0 catbox.moe
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cc.163.com
+0.0.0.0 ccms.shopee.io
 0.0.0.0 c.cnzz.com
 0.0.0.0 cda0.avanquest.com
 0.0.0.0 cda1.avanquest.com
@@ -965,6 +969,7 @@
 0.0.0.0 cdn-asset.optimonk.com
 0.0.0.0 cdn-asset.zepeto.me
 0.0.0.0 cdn.avanquest.com
+0.0.0.0 cdn.bc0a.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.calibermind.com
 0.0.0.0 cdn.concert.io
@@ -1131,6 +1136,7 @@
 0.0.0.0 cn-e-pic-ws.mangatoon.mobi
 0.0.0.0 c.neptunegame.com
 0.0.0.0 cn.pool.ntp.org
+0.0.0.0 cn.s.50union.com
 0.0.0.0 cnzz.com
 0.0.0.0 cnzz.com.danuoyi.tbcache.com
 0.0.0.0 co.com
@@ -1416,6 +1422,8 @@
 0.0.0.0 digitalriver.com
 0.0.0.0 digitaltarget.ru
 0.0.0.0 d.infeed.id
+0.0.0.0 direct.lc.chat
+0.0.0.0 direct.lc.chat.edgekey.net
 0.0.0.0 dirtytinder1s.com
 0.0.0.0 discovercadeals.com
 0.0.0.0 discovery.clearbit.com
@@ -2218,6 +2226,7 @@
 0.0.0.0 iot.weixin.qq.com
 0.0.0.0 ip-api.com
 0.0.0.0 ipcdn.g.aaplimg.com
+0.0.0.0 ipdata.co
 0.0.0.0 ipify.org
 0.0.0.0 ipinfo.io
 0.0.0.0 i.pinimg.com
@@ -2401,6 +2410,7 @@
 0.0.0.0 lbs-ru3.ads.betweendigital.com
 0.0.0.0 lbs-ru4.ads.betweendigital.com
 0.0.0.0 lbs-zaizai.netease.im
+0.0.0.0 lc.chat
 0.0.0.0 l.dfydaily.com
 0.0.0.0 leaderboard.api.glance.inmobi.com
 0.0.0.0 leatonm.net
@@ -2496,6 +2506,7 @@
 0.0.0.0 lottiefiles.com
 0.0.0.0 lovelybabestu.com
 0.0.0.0 loveme.uno
+0.0.0.0 lr-ingest.io
 0.0.0.0 l-shrcnt.livejournal.net
 0.0.0.0 lulusoft.com
 0.0.0.0 lunalabs.io
@@ -2606,6 +2617,7 @@
 0.0.0.0 m.harbourfunny.com
 0.0.0.0 mhy.link
 0.0.0.0 microremoteassist.com
+0.0.0.0 micro.rubiconproject.com
 0.0.0.0 microservices.wifimap.io
 0.0.0.0 midas-api.hellay.net
 0.0.0.0 milvarusso.com
@@ -3248,6 +3260,7 @@
 0.0.0.0 p.scooper.news
 0.0.0.0 psegment.netcoresmartech.com
 0.0.0.0 ps.eyeota.net
+0.0.0.0 pshmetrk.com
 0.0.0.0 pt.bignox.com
 0.0.0.0 ptlinknettbk.my.salesforce.com
 0.0.0.0 pt.slideshare.net
