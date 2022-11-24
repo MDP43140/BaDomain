@@ -995,6 +995,7 @@
 0.0.0.0 fb.m.facebook.com
 0.0.0.0 fbpigeon.com
 0.0.0.0 fbsbx.com
+0.0.0.0 fb.watch
 0.0.0.0 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 0.0.0.0 fi-fi.facebook.com
 0.0.0.0 flex.m.facebook.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.11.2022
+# Version: 24.11.2022
 # Update: 1 day
 #
 
@@ -54,6 +54,7 @@
 3dsintegrator.com
 3lift.com
 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
+426d5aa4.cubetecn.com
 42trck.com
 448673-android-ds.metric.gstatic.com
 44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com
@@ -355,6 +356,7 @@ aos.go2s.co
 ap-alps.y5en.com
 aparthotelmx.ge
 apbacuq.ozwvd.com
+ape-androids.isappcloud.com
 apester.com
 aphmes.xjwi5.com
 api15.resso.app
@@ -474,6 +476,7 @@ api.mobula.sdk.duapps.com
 api.mythad.com
 api.neverbounce.com
 api-new.bignox.com
+api.nikitop.com
 api-notice.kinemasters.com
 api.noxinfluencer.com
 api.olmusic.xyz
@@ -600,6 +603,7 @@ app.static.bignox.com
 app.test.bignox.com
 app.toutiao.com
 app.transacme.com
+app.wpsmail.net
 app.y5en.com
 ap-southeast-1.alidns.com
 aptoide.com
@@ -802,7 +806,10 @@ bigasschubby.com
 bigbooty.online
 bighop.com
 bignox.com
+bigolive.tv
 bigosext1.com
+bigo.sg
+bigo.tv
 bilibili.com
 bilibili.tv
 biliintl.com
@@ -851,6 +858,7 @@ b.sf-syn.com
 b.sogou.com
 b.st-hatena.com
 bstream.hzmklvdieo.com
+bstream.sgmbocast.com
 btloader.com
 btrace.wetvinfo.com
 bubadu.com
@@ -1178,6 +1186,7 @@ config-2.carx-online.com
 config-2.driftracingonline.com
 config-3.carx-online.com
 config.ab.qq.com
+config-api.internet.apps.samsung.com
 config.carx-online.com
 config.driftracingonline.com
 config.edge.skype.com
@@ -1213,11 +1222,13 @@ consent.trustarc.com
 constellix.com
 content-fgw.zepeto.io
 contentful.com
+contentsblock.samqaicongen.com
 content.webengage.com
 contextweb.com
 contivio.com
 control.aps.amap.com
 control.connectwise.com
+conversions.appsflyersdk.com
 convertkit.com
 cookappsgames.com
 cookiebot.com
@@ -1287,6 +1298,7 @@ cstaticdun.126.net
 cta-redirect.hubspot.com
 cta-service-cms2.hubspot.com
 c.tenor.com
+cubetecn.com
 cuminside.uno
 cursecdn.com
 curse.com
@@ -1464,6 +1476,7 @@ dojo.cc
 dokl7xqu9svnv.cloudfront.net
 dollarbrite.com
 domaincfg.vivoglobal.com
+domaintechniacal.aihelp.net
 domain.trialogger.com
 domain.zongg.top
 do-not-tracker.org
@@ -1592,6 +1605,9 @@ esinenmer.ml
 es.rakuten.tv
 es.slideshare.net
 estrongs.com
+esx2.bigo.sg
+esx.bigolive.tv
+esx.bigo.sg
 e.tapdb.net
 etpweb.doodoo.love
 etsy.com
@@ -1632,6 +1648,7 @@ ezodn.com
 ezoic.net
 ezojs.com
 f001.backblazeb2.com
+f2ecdn.com
 factors.sofire.baidu.com
 fafa.bar
 fallstring.website
@@ -1672,6 +1689,7 @@ financialtrending.com
 firehose.eu-west-1.amazonaws.com
 firstpromoter.com
 fk-new-cdn-eu-central-1a-hb.rayjump.com
+flag.bigo.sg
 flashtalking.com
 flbk2.izooto.com
 flbk.izooto.com
@@ -1715,7 +1733,10 @@ freyr.futurecdn.net
 friend20.mycleverpush.com
 frontend-monitoring.z-dn.net
 front.optimonk.com
+front-perf.like-video.com
+front-perf.ukyuh.tech
 fr.slideshare.net
+fs.calldev.bigo.sg
 fsdn.com
 ftblltrck.com
 ftp.lysator.liu.se
@@ -1776,6 +1797,7 @@ gcs.sc-cdn.net
 gcsu.ucweb.com
 gdanstum.net
 gdfp.kwai-pro.com
+gdl.bigo.sg
 geclose2eu.info
 g.ekatox.com
 geo.cnbc.com
@@ -1802,6 +1824,9 @@ g-gdfp.uvfuns.com
 ghbtns.com
 ghost.org
 gift.bignox.com
+giftesx2.bigo.sg
+giftesx.bigolive.tv
+giftesx.bigo.sg
 gigya.com
 giipm.org
 gimmehost.org
@@ -1931,6 +1956,7 @@ hdcb-api.fortumo.io
 heapanalytics.com
 heap.io
 hellomagazine.com
+helloyo.sg
 helpcmsecurity0.ksmobile.com
 helpcmsecurity1.ksmobile.com
 helponline123.com
@@ -1973,6 +1999,7 @@ hosupshunk.com
 hot-girls18.com
 hotjar.com
 hotlove.uno
+hotroom.live.bigo.sg
 hot-teens24.online
 houseof-lust.xyz
 howard.faceapp.io
@@ -2002,6 +2029,7 @@ hwclouds-dns.com
 hw-crs-report.y5en.com
 hws-prod.carx-online.com
 hybrid.miniapp.taobao.com
+hzmk.site
 i0.hdslb.com
 i0.wp.com
 i18n-api.faceueditor.com
@@ -2023,6 +2051,7 @@ iap.etm.tech
 iap.gameloft.com
 iap-mob.ubi.com
 ibikini.cyou
+ib.isappcloud.com
 ibispaint.com
 ibnads.xl.co.id
 i.bosboslink.net
@@ -2150,6 +2179,7 @@ img.samsungapps.com
 img.scooper.news
 imgsmail.ru
 img-s-msn-com.akamaized.net
+imgsnap.bigo.sg
 img.teddymobile.cn
 img.tysondata.com
 img.wattpad.com
@@ -2164,6 +2194,7 @@ imptrk.siteplug.com
 impulse.contextads.live
 impulse.forkcdn.com
 in-adreq.vivoglobal.com
+inapps.appsflyersdk.com
 in.bignox.com
 inbox.clashofclans.com
 incdopic.heytapimg.com
@@ -2396,6 +2427,7 @@ laucenter.ucweb.com
 laugoust.com
 launcher-us.yeshen.com
 launcher.us.yeshen.com
+launches.appsflyersdk.com
 lavasoft.com
 layarindo21.pw
 layarkaca21.vip
@@ -2454,11 +2486,13 @@ litemsg.ekatox.com
 litemsg.facemojikeyboard.com
 litestatis.facemojikeyboard.com
 litmobile.us
+live-apm.shopee.co.id
 live.chartboost.com
 livechat.com
 livechat.containers.piwik.pro
 livechatinc.com
 livejournal.naydex.net
+livelbs.ukyuh.tech
 live.shopee.co.id
 livetech.live.shopee.co.id
 livetech.shopee.co.id
@@ -2545,6 +2579,7 @@ mainlytrendy.com
 main.qcloudimg.com
 makeup.pho.to
 mall.shopee.co.id
+manage-www.bigo.sg
 manbrandsonline.com
 mangatoon.akamaized.net
 manifest.tower.sybo.net
@@ -2596,6 +2631,7 @@ media.neliti.com
 media.net
 media.tenor.co
 media.tenor.com
+mediation-services.pubapp.network
 mediavine.com
 mediavoice.com
 megaphone.fm
@@ -2770,6 +2806,7 @@ new.bestageoffers2022.com
 newdebut-av.monster
 newds01.myoppo.com
 newds02.myoppo.com
+newlbs.live.bigo.sg
 newpic.wetvinfo.com
 newplayable.mintegral.com
 new.qq.com
@@ -2941,6 +2978,7 @@ o-id-mob.glance-cdn.com
 olmusic.xyz
 omappapi.com
 omes-sec.heytapmobile.com
+ome.tv
 omgid.qq.com
 omlet.me
 omnithrottle.com
@@ -3267,6 +3305,12 @@ pt.slideshare.net
 public1.114dns.com
 public2.114dns.com
 public.bnbstatic.com
+public-prakerja.oss-ap-southeast-1.aliyuncs.com
+public-prakerja.oss-ap-southeast-2.aliyuncs.com
+public-prakerja.oss-ap-southeast-3.aliyuncs.com
+public-prakerja.oss-ap-southeast-5.aliyuncs.com
+public-prakerja.oss-ap-southeast-6.aliyuncs.com
+public-prakerja.oss-ap-southeast-7.aliyuncs.com
 public.profitwell.com
 public.shtranssion.com
 public.slidesharecdn.com
@@ -3359,6 +3403,7 @@ reference.castle.io
 referralrock.com
 refersion.com
 refokus.com
+register.appsflyersdk.com
 reign.appmeasurements.com
 reklama.mail.ru
 relap.info
@@ -3402,6 +3447,7 @@ resso.app
 restapi.amap.com
 restart-api.palmplaystore.com
 res.toolmatrix.plus
+rest-sg-feedback.heytapmobile.com
 res.wx.qq.com
 retargetly.com
 retcode.alicdn.com
@@ -3435,6 +3481,7 @@ rollbit.com
 romanhackers.com
 roobet.com
 rosenberg.appmetrica.yandex.net
+roulette.apps-host.com
 roumucee.com
 ro.up.vivoglobal.com
 rpc.tapjoy.com
@@ -3494,8 +3541,10 @@ s2.hdslb.com
 s2.loli.net
 s2s-af.outfit7.com
 s2s.af.outfit7.com
+s2s.t13.io
 s2.teraboxcdn.com
 s3.amazonaws.com
+s3-hanilink-com.s3.ap-southeast-1.amazonaws.com
 s3.hdslb.com
 s3s.af.outfit7.com
 s3-v2.cdngtc.com
@@ -3571,8 +3620,10 @@ searchlite-pa.googleapis.com
 search-operate.cdn.bcebos.com
 search.weixin.qq.com
 search.ws.pho.to
+sec.bigo.sg
 secret20.com
 secreto.site
+secureapi.samqaicongen.com
 secure.greendot.com
 securegw.paytm.in
 secure-lc.livechatinc.com
@@ -3587,6 +3638,7 @@ seedr.com
 segment.com
 self.events.data.microsoft.com
 selfishsnake.com
+seller.shopee.sg
 sellwild.com
 sendbird.com
 sendgrid.com
@@ -3598,6 +3650,7 @@ sentry.io
 sentry.kumparan.com
 sentry.prod.mozaws.net
 servebom.com
+serve.pubapp.network
 serverhub.ru
 service.carlcare.com
 service.force.com
@@ -3655,6 +3708,7 @@ shortintl.push.oppomobile.com
 shortvideo.qiniuapi.com
 shrcnt.livejournal.net
 shreeganeshlab.co.in
+sia.internet.apps.samsung.com
 sift-creatives.s3.amazonaws.com
 simple-get.ilyon.net
 simplelocalize.io
@@ -3696,6 +3750,7 @@ snssdk.com
 socialapp.top
 sociomile.com
 socks.like.video
+socks.live.bigo.sg
 socks-omm-1.lotusflare.com
 sodiumcupboard.com
 softland.icu
@@ -3778,6 +3833,8 @@ static.api.baca.co.id
 static-cms.aa-cdn.net
 static.dable.io
 static-doubleclick-net.l.google.com
+static.f2ecdn.com
+static-fed.bigolive.tv
 static.flx-vpn.com
 static.hdslb.com
 static.hsappstatic.net
@@ -3796,11 +3853,14 @@ static.servicewebly.com
 statics.itc.cn
 statics-marketingsites-eus-ms-com.akamaized.net
 static-update.mobsrvapi.com
+static-web.bigolive.tv
 static-webengage.s3.ap-southeast-1.amazonaws.com
 static-webengage.s3.ap-southeast-2.amazonaws.com
 static-webengage.s3.ap-southeast-3.amazonaws.com
 static-webengage.s3.ap-southeast-4.amazonaws.com
+static-web.hzmk.site
 static-web.likee.com
+static-web.likeevideo.com
 static.wetvinfo.com
 staticworld.net
 static.zdassets.com
@@ -3874,8 +3934,10 @@ supercell.helpshift.com
 superpowered.com
 supersonicads.com
 supl.qxwz.com
+support1.like.video
 support.bignox.com
 support-json.like.video
+support-json.ukyuh.tech
 support.jwplayer.com
 support.muslimpro.com
 support.weixin.qq.com
@@ -3888,6 +3950,7 @@ surveys-static.survicate.com
 survey.survicate.com
 survicate.com
 s.usea01.idio.episerver.net
+s-v6exp1-ds.metric.gstatic.com
 svibeacon.onezapp.com
 s.viiert.com
 s.viioxx.com
@@ -3919,6 +3982,8 @@ t4.chartboost.com
 t4.focus-img.cn
 t5.chartboost.com
 t7.a.market.c.mgslb.com
+ta.bigolive.tv
+ta.bigo.tv
 tablequantity.com
 taboola.com
 tag.clearbitscripts.com
@@ -3937,6 +4002,7 @@ tappco.go2cloud.org
 t.appsflyer.com
 tappx.com
 tarot.minozodiac.com
+ta.sharemasala.com
 taximaxim.ru
 taxsee.ru
 taz.mfcewkrob.com
@@ -4225,6 +4291,7 @@ videomin.ru
 videoplayerhub.com
 videoroll.net
 videos-fms.jwpsrv.com
+videosnap.esx.bigo.sg
 videosnap.like.video
 video.twimg.com
 vidmateapp.com
@@ -4329,6 +4396,7 @@ webpushr.com
 websales-api.tryemanagecrm.com
 web-sdk.urbanairship.com
 websocket-visitors.smartsupp.com
+webstore.samqaicongen.com
 webstore.ucweb.com
 webtoon-phinf.pstatic.net
 webtoons-static.pstatic.net
@@ -4389,12 +4457,16 @@ wpadmngr.com
 wp.pl
 wpvip.com
 wsapi.master.live
+wscdn.hanilink.com
 wsds.cn
 ws.flv.nimo.tv
 wshareit.com
 wshifen.com
 ws.hls.nimo.tv
 wsod.com
+wss3.hanilink.com
+wss3.nikitop.com
+wss.bigolive.tv
 ws-sea.taximaxim.com
 ws-sgp-origin-pull.snackvideo.in
 ws-sgp-pic.snackvideo.in
@@ -4567,6 +4639,7 @@ www.baca.co.id
 www.baidu.com
 www.beacons.ai
 www.bignox.com
+www.bigo.tv
 www.bilibili.com
 www.bilibili.tv
 www.bizrate.com

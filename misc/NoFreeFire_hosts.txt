@@ -21,6 +21,7 @@
 0.0.0.0 dl.gcp.freefiremobile.com
 0.0.0.0 dl.wsu.freefiremobile.com
 0.0.0.0 event.freefiremobile.com
+0.0.0.0 ff.garena.com
 0.0.0.0 ffguide.garena.com
 0.0.0.0 ff.rtc.grtc.garenanow.com
 0.0.0.0 freefiremobile-a.akamaihd.net
@@ -36,6 +37,7 @@
 0.0.0.0 network.freefiremobile.com
 0.0.0.0 networkselftest.ff.garena.com
 0.0.0.0 poisontail.sea.freefiremobile.com
+0.0.0.0 reward.ff.garena.com
 0.0.0.0 sdk.garena.com
 0.0.0.0 sea.freefiremobile.com
 0.0.0.0 testconnect.garena.com

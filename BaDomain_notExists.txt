@@ -111,6 +111,7 @@ api.zligaton.com
 app.bt-cfm.io
 app.chat.us.xiaomi.net
 appconf.heytapdownload.com
+app.kmail.com
 applilink.jp
 appmetrica.yandex.net
 app.mibi.xiaomi.com
