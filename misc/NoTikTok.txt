@@ -149,6 +149,7 @@ api15-h2-eagle.tiktokv.com
 api15-h2.tiktokv.com
 api15-normal-probe-useast2a.tiktokv.com
 api15-normal-useast2a.tiktokv.com
+api16-access-gcp.pangle-b.io
 api16-access-gcp.pangle.io
 api16-access-sg.pangle.io
 api16-core-c4-alisg.tiktokv.com
@@ -1091,6 +1092,10 @@ i16-core.sgsnssdk.com
 i16-tb.isnssdk.com
 i16-tb.isnssdk.com.edgekey.net
 i16-tb.sgsnssdk.com
+i18n-api.faceueditor.com
+i18n-feed-api.faceueditor.com
+i18n-gcp-everphoto.faceueditor.com
+i18n-passport-api.faceueditor.com
 i18n-pglstatp.com
 i1.isnssdk.com
 i1.isnssdk.com.edgekey.net
@@ -1878,6 +1883,7 @@ p16-tk-m.tiktokcdn.com.edgesuite.net
 p16-tk.tiktokcdn.com
 p16-tk.tiktokcdn.com.edgesuite.net
 p16.toutiao50.com
+p16-ttam-va.ibyteimg.com
 p16-ulike-sg.ibyteimg.com
 p16-va-default.akamaized.net
 p16-va-default.edgesuite.net
@@ -3940,6 +3946,7 @@ www.byteicdn.com
 www.capcut.com
 www.capcut.net
 www.douyin.com
+www.faceueditor.com
 www.hypstarcdn.com
 www.ibytedtos.com
 www.iesdouyin.com

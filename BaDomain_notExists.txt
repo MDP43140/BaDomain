@@ -19,6 +19,7 @@
 55bie1v.50zo.com
 61kx.uk-insolvencydirect.com
 655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+87f2b771-b56e-407e-bc49-30d521c09b95.is-doh.help.every1dns.net
 95-217-35-153.serverhub.ru
 9appsdownloading.com
 9appsinstall.com
@@ -69,6 +70,7 @@ aduankonten.mail.kominfo.go.id
 ad.xiaomi.com
 ad.youtube.com
 adzhosts.eu
+a.e2864a8e02fbe66969e6689343f0bd21cd43cdca2a8ec5f825e35fad.com
 a.e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 a.eb1f496297bccfe372065b770b4089c85356073772b9a425a81ec241.com
 a.f18597036f4034883ad83eaeb38250b39241210076555a33a60171b6.com
@@ -434,6 +436,7 @@ listdl.com
 litix.io
 live.messagebird.com
 livetech.live.shopee.co.id
+liveupdate01.asus.com
 ljhmcithwuigm.xyz
 lmhorse.se
 lmiutil.com
@@ -622,6 +625,7 @@ sdk-config.fyber.com
 sdk.iad-07.braze.com
 sdk.iad-09.braze.com
 sdk.open.inc2.igexin.com
+searchblox.site
 sec.miui.com
 securebiz.org
 semasio.net
@@ -686,6 +690,7 @@ teraboxcdn.com
 tesladoge.pro
 testapi.amap.com
 test.bignox.com
+testmkt.asus.com
 test.new.api.ad.xiaomi.com
 test.xiaomi.com
 test.zeus.ad.xiaomi.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 24.11.2022
+# Version: 30.11.2022
 # Update: 1 day
 #
 
@@ -49,6 +49,7 @@
 0.0.0.0 33across.com
 0.0.0.0 344587-android-ds.metric.gstatic.com
 0.0.0.0 35cce65a-dnsotls-ds.metric.gstatic.com
+0.0.0.0 360.cn
 0.0.0.0 39d0825d09f05.cdn.sohucs.com
 0.0.0.0 3.cn
 0.0.0.0 3dsintegrator.com
@@ -127,6 +128,7 @@
 0.0.0.0 a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 0.0.0.0 a.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 0.0.0.0 a5cf870526ee8046d26235be996b36b9.safeframe.googlesyndication.com
+0.0.0.0 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 0.0.0.0 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 0.0.0.0 a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
@@ -251,6 +253,8 @@
 0.0.0.0 affilight.network
 0.0.0.0 affinity.com
 0.0.0.0 affpub.com
+0.0.0.0 afirstsoft.cn
+0.0.0.0 afirstsoft.com
 0.0.0.0 af-rsa.shalltry.com
 0.0.0.0 af.shalltry.com
 0.0.0.0 afterpay.com
@@ -297,11 +301,13 @@
 0.0.0.0 aloha46.viber.com
 0.0.0.0 aloofvest.com
 0.0.0.0 alphonso.tv
+0.0.0.0 amaicdn.com
 0.0.0.0 amap.com
 0.0.0.0 amazonfraudprotection.com
 0.0.0.0 amazonfraudprotection.ukit.me
 0.0.0.0 amdc.lazada.com
 0.0.0.0 amemv.com
+0.0.0.0 amiotalio.com
 0.0.0.0 am.olx.biz.id
 0.0.0.0 amp.analytics-debugger.com
 0.0.0.0 ampcid.google.com
@@ -357,6 +363,7 @@
 0.0.0.0 aparthotelmx.ge
 0.0.0.0 apbacuq.ozwvd.com
 0.0.0.0 ape-androids.isappcloud.com
+0.0.0.0 ape-asus-android.isappcloud.com
 0.0.0.0 apester.com
 0.0.0.0 aphmes.xjwi5.com
 0.0.0.0 api15.resso.app
@@ -436,6 +443,7 @@
 0.0.0.0 api.gw.airpay.co.id
 0.0.0.0 apigw-pre.shalltry.com
 0.0.0.0 api.hisavana.com
+0.0.0.0 api.honeybadger.io
 0.0.0.0 api.hotstar.com
 0.0.0.0 api.howlapm.com
 0.0.0.0 api-iam.intercom.io
@@ -503,6 +511,7 @@
 0.0.0.0 api.renren.fan
 0.0.0.0 api.resso.app
 0.0.0.0 api.revenuecat.com
+0.0.0.0 api.rvere.com
 0.0.0.0 api.saasexch.com
 0.0.0.0 api.samsungcloud.com
 0.0.0.0 api.sape.ru
@@ -517,6 +526,7 @@
 0.0.0.0 api.snapchat.com
 0.0.0.0 api.snapkit.com
 0.0.0.0 apisnd.heytapmobi.com
+0.0.0.0 apis.pdnob.com
 0.0.0.0 api.sportskeeda.com
 0.0.0.0 apissug-sf.ucweb.com
 0.0.0.0 api.staging.livechatinc.com
@@ -550,6 +560,7 @@
 0.0.0.0 api.xshareapp.com
 0.0.0.0 api.yandex.ru
 0.0.0.0 api.yunclound.com
+0.0.0.0 api.zigpoll.com
 0.0.0.0 api.zingnews.vn
 0.0.0.0 apkeditorfree.com
 0.0.0.0 aplhabet.applinzi.com
@@ -597,6 +608,7 @@
 0.0.0.0 app-sj30.marketo.com
 0.0.0.0 app.slickstream.com
 0.0.0.0 app.snapchat.com
+0.0.0.0 apps.omegatheme.com
 0.0.0.0 apps.outfit7.com
 0.0.0.0 appspot.com
 0.0.0.0 app.static.bignox.com
@@ -687,6 +699,7 @@
 0.0.0.0 assets8.lottiefiles.com
 0.0.0.0 assets9.lottiefiles.com
 0.0.0.0 assets.adobedtm.com
+0.0.0.0 assets.afirstsoft.com
 0.0.0.0 assets.alicdn.com
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.capterra.com
@@ -710,6 +723,7 @@
 0.0.0.0 atrace-api.palmplaystore.com
 0.0.0.0 attention-system-warning.com
 0.0.0.0 attitude.applinzi.com
+0.0.0.0 atu-server.herokuapp.com
 0.0.0.0 auction-banner.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audid-api-sg.taobao.com
@@ -770,6 +784,7 @@
 0.0.0.0 bc0a.com
 0.0.0.0 bdapi-id.ads.heytapmobile.com
 0.0.0.0 bdimg.share.baidu.com
+0.0.0.0 bdstatic.com
 0.0.0.0 bdtj.infinities.com.cn
 0.0.0.0 beacon-fra2.rubiconproject.com
 0.0.0.0 beacons.ai
@@ -815,6 +830,7 @@
 0.0.0.0 biliintl.com
 0.0.0.0 bilikfilm.xyz
 0.0.0.0 billigrefinansiering.com
+0.0.0.0 bimages.gamescdn.top
 0.0.0.0 bi.yeshen.com
 0.0.0.0 bizconfig.palmplaystore.com
 0.0.0.0 bizible.com
@@ -987,6 +1003,7 @@
 0.0.0.0 cdn-content.optimonk.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cookie-script.com
+0.0.0.0 cdn-cookieyes.com
 0.0.0.0 cdn.cove.chat
 0.0.0.0 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 0.0.0.0 cdn.cxomedia.id
@@ -1001,7 +1018,6 @@
 0.0.0.0 cdn-graphql-v4.kumparan.com
 0.0.0.0 cdn-gw-dv.net
 0.0.0.0 cdn.heapanalytics.com
-0.0.0.0 cdn-icloud-content.g.aaplimg.com
 0.0.0.0 cdnimage2.caping.co.id
 0.0.0.0 cdn-images.mailchimp.com
 0.0.0.0 cdn.innity.net
@@ -1053,6 +1069,7 @@
 0.0.0.0 cdn.wetest.qq.com
 0.0.0.0 cdnwidget.com
 0.0.0.0 cdn.yousefalbasha.com
+0.0.0.0 cdn.zigpoll.com
 0.0.0.0 cds-app.y5en.com
 0.0.0.0 cds.connatix.com
 0.0.0.0 cds.d6b8y6w3.hwcdn.net
@@ -1154,6 +1171,7 @@
 0.0.0.0 cognito-identity.us-east-1.amazonaws.com
 0.0.0.0 cognito-identity.us-west-1.amazonaws.com
 0.0.0.0 coinbasesj.vip
+0.0.0.0 coins-api.palmplaystore.com
 0.0.0.0 colegiounamuno.es
 0.0.0.0 collect.alipay.com
 0.0.0.0 collect-elb-1844102569.us-east-1.elb.amazonaws.com
@@ -1236,12 +1254,14 @@
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiepro.com
 0.0.0.0 cookie-script.com
+0.0.0.0 cookieyes.com
 0.0.0.0 cooooos.com
 0.0.0.0 cootekservice.com
 0.0.0.0 core-api.data.appsinnova.com
 0.0.0.0 corp.sogou.com
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.yadro.ru
+0.0.0.0 country-blocker.zend-apps.com
 0.0.0.0 cove-cdn.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 cove.chat
 0.0.0.0 cover.weixin.qq.com
@@ -1415,6 +1435,7 @@
 0.0.0.0 developers.pho.to
 0.0.0.0 developers.weixin.qq.com
 0.0.0.0 d.everestop.io
+0.0.0.0 device-api.palmplaystore.com
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 dew-omm.lotusflare.com
 0.0.0.0 dexeqbeb7giwr.cloudfront.net
@@ -1436,6 +1457,7 @@
 0.0.0.0 d.infeed.id
 0.0.0.0 direct.lc.chat
 0.0.0.0 direct.lc.chat.edgekey.net
+0.0.0.0 directory.cookieyes.com
 0.0.0.0 dirtytinder1s.com
 0.0.0.0 discovercadeals.com
 0.0.0.0 discovery.clearbit.com
@@ -1552,6 +1574,8 @@
 0.0.0.0 echo-tcp-org.y5en.com
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 ecommerce.nanosystems.it
+0.0.0.0 ecommplugins-scripts.trustpilot.com
+0.0.0.0 edge-api.meiqia.com
 0.0.0.0 edgecastcdn.net
 0.0.0.0 edialog24.com
 0.0.0.0 editmysite.com
@@ -1569,6 +1593,7 @@
 0.0.0.0 eleed.cloud
 0.0.0.0 eleed.online
 0.0.0.0 elements.oxy.host
+0.0.0.0 elfsight.com
 0.0.0.0 elo.io
 0.0.0.0 eloism.net
 0.0.0.0 email.manutd.com
@@ -1604,6 +1629,7 @@
 0.0.0.0 esinenmer.ml
 0.0.0.0 es.rakuten.tv
 0.0.0.0 es.slideshare.net
+0.0.0.0 establishedtitles.com
 0.0.0.0 estrongs.com
 0.0.0.0 esx2.bigo.sg
 0.0.0.0 esx.bigolive.tv
@@ -1683,6 +1709,7 @@
 0.0.0.0 filehostpro.xyz
 0.0.0.0 filelink.ru
 0.0.0.0 files.catbox.moe
+0.0.0.0 files.elfsight.com
 0.0.0.0 files.webmoney.ru
 0.0.0.0 filmmogzivota.rs
 0.0.0.0 financialtrending.com
@@ -1742,6 +1769,7 @@
 0.0.0.0 ftp.lysator.liu.se
 0.0.0.0 fullstory.com
 0.0.0.0 funny.pho.to
+0.0.0.0 fun.touchpal.com
 0.0.0.0 futurecdn.net
 0.0.0.0 futureplc.com
 0.0.0.0 fuwu.sogou.com
@@ -1791,6 +1819,7 @@
 0.0.0.0 gateway.upush.englory.net
 0.0.0.0 gauss-sauoldcostmanual-sg.allawnofs.com
 0.0.0.0 gbvm.nl
+0.0.0.0 gcb-app.herokuapp.com
 0.0.0.0 gcmapi.like-it.video
 0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 gcs.sc-cdn.net
@@ -1940,6 +1969,7 @@
 0.0.0.0 hammergamer.com
 0.0.0.0 hanyu.sogou.com
 0.0.0.0 haokan.mobi
+0.0.0.0 happierleads.com
 0.0.0.0 happymod.io
 0.0.0.0 hardwarecloseout.com
 0.0.0.0 hastopic.com
@@ -1990,6 +2020,7 @@
 0.0.0.0 hockeyapp.net
 0.0.0.0 homecash1.com
 0.0.0.0 homepage.vivo.com
+0.0.0.0 honeybadger.io
 0.0.0.0 hopexos.vip
 0.0.0.0 horizonme.net
 0.0.0.0 horneymom.today
@@ -2032,11 +2063,7 @@
 0.0.0.0 hzmk.site
 0.0.0.0 i0.hdslb.com
 0.0.0.0 i0.wp.com
-0.0.0.0 i18n-api.faceueditor.com
-0.0.0.0 i18n-feed-api.faceueditor.com
-0.0.0.0 i18n-gcp-everphoto.faceueditor.com
 0.0.0.0 i18n.mvconf.50union.com
-0.0.0.0 i18n-passport-api.faceueditor.com
 0.0.0.0 i1.hdslb.com
 0.0.0.0 i2.hdslb.com
 0.0.0.0 i2.weather.oppomobile.com
@@ -2097,6 +2124,7 @@
 0.0.0.0 ieee.org
 0.0.0.0 iemiq.com
 0.0.0.0 ie.sogou.com
+0.0.0.0 i.establishedtitles.com
 0.0.0.0 if4a3802.app-ads-txt.com
 0.0.0.0 iface2.iqiyi.com
 0.0.0.0 iface4.iqiyi.com
@@ -2134,6 +2162,8 @@
 0.0.0.0 images.hellomagazine.com
 0.0.0.0 images.idtopnews.com
 0.0.0.0 image.slidesharecdn.com
+0.0.0.0 images.pdnob.com
+0.0.0.0 images.tenorshare.com
 0.0.0.0 image.thinkingdata.cn
 0.0.0.0 image.tmdb.org
 0.0.0.0 image.useinsider.com
@@ -2221,6 +2251,7 @@
 0.0.0.0 inneractive-assets.s3-eu-west-2.amazonaws.com
 0.0.0.0 inneractive-assets.s3-eu-west-3.amazonaws.com
 0.0.0.0 inner-active.mobi
+0.0.0.0 in-news-abroad-backstage-interface.vivoglobal.com
 0.0.0.0 innews.infohubnews.app
 0.0.0.0 innity.net
 0.0.0.0 innovads-server.poster.appsinnova.com
@@ -2254,7 +2285,9 @@
 0.0.0.0 ios.crashsight.wetest.net
 0.0.0.0 i.ota.coloros.com
 0.0.0.0 iota.cooooos.com
+0.0.0.0 i.ota.foreign.coloros.com
 0.0.0.0 iot.weixin.qq.com
+0.0.0.0 ipapi.co
 0.0.0.0 ip-api.com
 0.0.0.0 ipcdn.g.aaplimg.com
 0.0.0.0 ipdata.co
@@ -2278,6 +2311,7 @@
 0.0.0.0 irus.coloros.com
 0.0.0.0 i.rus.foreign.coloros.com
 0.0.0.0 isau.coloros.com
+0.0.0.0 i.sau.foreign.coloros.com
 0.0.0.0 i.scooper.news
 0.0.0.0 iseepassword.com
 0.0.0.0 isex.baby
@@ -2337,6 +2371,7 @@
 0.0.0.0 js.digiads.co.id
 0.0.0.0 js.driftt.com
 0.0.0.0 js.getlasso.co
+0.0.0.0 js.honeybadger.io
 0.0.0.0 js.hsadspixel.net
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hs-banner.com
@@ -2478,6 +2513,7 @@
 0.0.0.0 linkedin.com
 0.0.0.0 linkvertise.com
 0.0.0.0 linkvertize.com
+0.0.0.0 lirik.live
 0.0.0.0 list-manage.com
 0.0.0.0 listoffreeware.com
 0.0.0.0 litatom.com
@@ -2585,6 +2621,7 @@
 0.0.0.0 manifest.tower.sybo.net
 0.0.0.0 mapi.langitmusik.co.id
 0.0.0.0 marchex.io
+0.0.0.0 marketinguiproduction.gatsbyjs.io
 0.0.0.0 marketo.com
 0.0.0.0 marketo.net
 0.0.0.0 marketplace.editmysite.com
@@ -2601,6 +2638,7 @@
 0.0.0.0 mcpecraft.ru
 0.0.0.0 mc.us18.list-manage.com
 0.0.0.0 mc.yandex.ru
+0.0.0.0 mdm.asus.com
 0.0.0.0 mdp-appconf-id.heytapdl.com
 0.0.0.0 mdp-appconf-kh.heytapdl.com
 0.0.0.0 mdp-appconf-mm.heytapdl.com
@@ -2658,6 +2696,7 @@
 0.0.0.0 midas-api.hellay.net
 0.0.0.0 milvarusso.com
 0.0.0.0 m.imdb.com
+0.0.0.0 mindmap.pdnob.com
 0.0.0.0 mindworks-creative.com
 0.0.0.0 minecrafttweaker.net
 0.0.0.0 mingyi.sogou.com
@@ -2802,6 +2841,7 @@
 0.0.0.0 netpayjob.com
 0.0.0.0 net.simontok.site
 0.0.0.0 neverbounce.com
+0.0.0.0 new-api.meiqia.com
 0.0.0.0 new.bestageoffers2022.com
 0.0.0.0 newdebut-av.monster
 0.0.0.0 newds01.myoppo.com
@@ -2841,6 +2881,7 @@
 0.0.0.0 node-68-ipv6.faceapp.io
 0.0.0.0 node-86-ipv4.faceapp.io
 0.0.0.0 node-87-ipv6.faceapp.io
+0.0.0.0 northbeam.io
 0.0.0.0 norton67.webnode.page
 0.0.0.0 noss.litatom.com
 0.0.0.0 notif.quizizz.com
@@ -2948,6 +2989,7 @@
 0.0.0.0 o13855.ingest.sentry.io
 0.0.0.0 o209266.ingest.sentry.io
 0.0.0.0 o446669.ingest.sentry.io
+0.0.0.0 o519366.ingest.sentry.io
 0.0.0.0 o64315.ingest.sentry.io
 0.0.0.0 o937343.ingest.sentry.io
 0.0.0.0 o968153.ingest.sentry.io
@@ -2977,6 +3019,7 @@
 0.0.0.0 o-id-mob.glance-cdn.com
 0.0.0.0 olmusic.xyz
 0.0.0.0 omappapi.com
+0.0.0.0 omegatheme.com
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 ome.tv
 0.0.0.0 omgid.qq.com
@@ -3021,6 +3064,7 @@
 0.0.0.0 orangeclickmedia.com
 0.0.0.0 orange-dc.lazada.com
 0.0.0.0 ordereffuel.co
+0.0.0.0 orders.establishedtitles.com
 0.0.0.0 os-aibox.shalltry.com
 0.0.0.0 osano.com
 0.0.0.0 osfeature.shalltry.com
@@ -3053,6 +3097,7 @@
 0.0.0.0 ovv.video.qq.com
 0.0.0.0 ovz1.j19544519.pr46m.vps.myjino.ru
 0.0.0.0 owap.bar
+0.0.0.0 owssupport.zendesk.com
 0.0.0.0 oxy.host
 0.0.0.0 ozap.bar
 0.0.0.0 p0.itc.cn
@@ -3134,6 +3179,7 @@
 0.0.0.0 partnerstack.ada.support
 0.0.0.0 partnerstack.com
 0.0.0.0 partner.toutiao.com
+0.0.0.0 passfab.com
 0.0.0.0 passport.bignox.com
 0.0.0.0 passport.biliintl.com
 0.0.0.0 passport.tmtreader.com
@@ -3163,6 +3209,7 @@
 0.0.0.0 pbs.twimg.com
 0.0.0.0 pcoptimizerpro.com
 0.0.0.0 pc.weixin.qq.com
+0.0.0.0 pdnob.com
 0.0.0.0 pedulilindungi.com
 0.0.0.0 pentatonic.cyou
 0.0.0.0 pepepush.net
@@ -3197,6 +3244,7 @@
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pinguin.kredivo.com
+0.0.0.0 pinimg.com
 0.0.0.0 pinning-02.secb2b.com
 0.0.0.0 pinterest.gw-dv.net
 0.0.0.0 pinyin.sogou.com
@@ -3444,8 +3492,10 @@
 0.0.0.0 resources.premierleague.com
 0.0.0.0 resource.wondershare.com
 0.0.0.0 resso.app
+0.0.0.0 rest-admin.happierleads.com
 0.0.0.0 restapi.amap.com
 0.0.0.0 restart-api.palmplaystore.com
+0.0.0.0 rest.happierleads.com
 0.0.0.0 res.toolmatrix.plus
 0.0.0.0 rest-sg-feedback.heytapmobile.com
 0.0.0.0 res.wx.qq.com
@@ -3464,6 +3514,7 @@
 0.0.0.0 rindu.plus
 0.0.0.0 r-in.glance-cdn.com
 0.0.0.0 rink.hockeyapp.net
+0.0.0.0 rise-ai.com
 0.0.0.0 riseup.net
 0.0.0.0 risk.clearbit.com
 0.0.0.0 river-mobile.data.ea.com
@@ -3480,6 +3531,7 @@
 0.0.0.0 rollbit.com
 0.0.0.0 romanhackers.com
 0.0.0.0 roobet.com
+0.0.0.0 room-thirtythree.honeybadger.io
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 roulette.apps-host.com
 0.0.0.0 roumucee.com
@@ -3519,6 +3571,7 @@
 0.0.0.0 ruplay.market
 0.0.0.0 rusfsg.coloros.com
 0.0.0.0 rustore.ru
+0.0.0.0 rvere.com
 0.0.0.0 rwt.fortumo.com
 0.0.0.0 s0s.af.outfit7.com
 0.0.0.0 s0.teraboxcdn.com
@@ -3644,6 +3697,7 @@
 0.0.0.0 sendgrid.com
 0.0.0.0 se-new-cdn-ap-northeast-2a-hb.rayjump.com
 0.0.0.0 se-new-cdn-ap-northeast-2c-hb.rayjump.com
+0.0.0.0 senin.live
 0.0.0.0 sensors.cloud.tencent.com
 0.0.0.0 sentry.boomplaymusic.com
 0.0.0.0 sentry.io
@@ -3708,6 +3762,7 @@
 0.0.0.0 shortvideo.qiniuapi.com
 0.0.0.0 shrcnt.livejournal.net
 0.0.0.0 shreeganeshlab.co.in
+0.0.0.0 shy.elfsight.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 sift-creatives.s3.amazonaws.com
 0.0.0.0 simple-get.ilyon.net
@@ -3718,7 +3773,9 @@
 0.0.0.0 sink.gameloft.com
 0.0.0.0 sis.jpush.io
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 sitejabber.com
 0.0.0.0 sixtest.com
+0.0.0.0 skadsdkless.appsflyersdk.com
 0.0.0.0 skimlinks.com
 0.0.0.0 skimresources.com
 0.0.0.0 sk.ru
@@ -3771,6 +3828,7 @@
 0.0.0.0 spacex.plus
 0.0.0.0 spanishcoursesunamuno.com
 0.0.0.0 spatial.fineboost.com
+0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 specialdate.my.id
 0.0.0.0 specificclick.net
 0.0.0.0 specificmedia.com
@@ -3812,6 +3870,7 @@
 0.0.0.0 stack-sonar.com
 0.0.0.0 stagepopkek.com
 0.0.0.0 stagingapps.xyz
+0.0.0.0 staging.pasangiklan.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 stake.com
 0.0.0.0 startechnews.com
@@ -3833,6 +3892,7 @@
 0.0.0.0 static-cms.aa-cdn.net
 0.0.0.0 static.dable.io
 0.0.0.0 static-doubleclick-net.l.google.com
+0.0.0.0 static.elfsight.com
 0.0.0.0 static.f2ecdn.com
 0.0.0.0 static-fed.bigolive.tv
 0.0.0.0 static.flx-vpn.com
@@ -3840,17 +3900,21 @@
 0.0.0.0 static.hsappstatic.net
 0.0.0.0 static.intercomassets.com
 0.0.0.0 static.jpallnight.com
+0.0.0.0 static.klaviyo.com
 0.0.0.0 static.like-it.video
 0.0.0.0 static.mailerlite.com
+0.0.0.0 static.meiqia.com
 0.0.0.0 static.messagebird.com
 0.0.0.0 static.mob.com
 0.0.0.0 static-mon.yandex.net
 0.0.0.0 static.neptunegame.com
 0.0.0.0 static.netpop.app
+0.0.0.0 static.pasangiklan.com
 0.0.0.0 static.pulse.mail.ru
 0.0.0.0 statics.creativecdn.com
 0.0.0.0 static.servicewebly.com
 0.0.0.0 statics.itc.cn
+0.0.0.0 static.sitejabber.com
 0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 static-update.mobsrvapi.com
 0.0.0.0 static-web.bigolive.tv
@@ -3915,6 +3979,8 @@
 0.0.0.0 store.outbyte.com
 0.0.0.0 streamback.ff.avast.com
 0.0.0.0 streamrail.net
+0.0.0.0 strn.rise-ai.com
+0.0.0.0 str.rise-ai.com
 0.0.0.0 stuart.faceapp.io
 0.0.0.0 stuck-sg.dc.oppomobile.com
 0.0.0.0 stun.ekiga.net
@@ -3949,6 +4015,7 @@
 0.0.0.0 surveys-static.survicate.com
 0.0.0.0 survey.survicate.com
 0.0.0.0 survicate.com
+0.0.0.0 s-usc1f-nss-2505.firebaseio.com
 0.0.0.0 s.usea01.idio.episerver.net
 0.0.0.0 s-v6exp1-ds.metric.gstatic.com
 0.0.0.0 svibeacon.onezapp.com
@@ -3988,6 +4055,7 @@
 0.0.0.0 taboola.com
 0.0.0.0 tag.clearbitscripts.com
 0.0.0.0 tag.researchnow.com
+0.0.0.0 tags.rvere.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 taichi.y5en.com
 0.0.0.0 t.alipayobjects.com
@@ -4033,6 +4101,8 @@
 0.0.0.0 tenor.co
 0.0.0.0 tenor.com
 0.0.0.0 tenor.googleapis.com
+0.0.0.0 tenorshare.cn
+0.0.0.0 tenorshare.com
 0.0.0.0 tentaculos.net
 0.0.0.0 terabox.com
 0.0.0.0 terbaru.uzone.id
@@ -4075,6 +4145,9 @@
 0.0.0.0 timer-api.pa1mstore.com
 0.0.0.0 timer-api.palmplaystore.com
 0.0.0.0 timer-api.palmst0re.com
+0.0.0.0 timer-feature-api.pa1mstore.com
+0.0.0.0 timer-feature-api.palmplaystore.com
+0.0.0.0 timer-feature-api.palmst0re.com
 0.0.0.0 time-server.nekkimobile.ru
 0.0.0.0 time.xtracloud.net
 0.0.0.0 tinder.com
@@ -4111,6 +4184,7 @@
 0.0.0.0 torbrowser.io
 0.0.0.0 toshiba6415.zendesk.com
 0.0.0.0 toto.zipoapps.com
+0.0.0.0 touchpal.com
 0.0.0.0 toutiao50.com
 0.0.0.0 toutiao.com
 0.0.0.0 tpai.caping.co.id
@@ -4241,6 +4315,7 @@
 0.0.0.0 us-central1-gcp.api.snapchat.com
 0.0.0.0 us-central1-muslim-pro-app.cloudfunctions.net
 0.0.0.0 uscreen.tv
+0.0.0.0 use1.fptls.com
 0.0.0.0 us-east1-aws-acc.api.snapchat.com
 0.0.0.0 us-east1-aws.api.snapchat.com
 0.0.0.0 us-east1-gcp.api.snapchat.com
@@ -4323,6 +4398,7 @@
 0.0.0.0 v.lsttnews.com
 0.0.0.0 vn.bignox.com
 0.0.0.0 vnclip.net
+0.0.0.0 vnotestatic.vivoglobal.com
 0.0.0.0 voip-news.com
 0.0.0.0 vom.in.net
 0.0.0.0 vom.lol
@@ -4431,10 +4507,12 @@
 0.0.0.0 whx66.veve.com
 0.0.0.0 widget.intercom.io
 0.0.0.0 widget.kompas.com
+0.0.0.0 widget.kumparan.com
 0.0.0.0 widget-mediator.zopim.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 widget.surveymonkey.com
+0.0.0.0 widget.trustpilot.com
 0.0.0.0 widget-v2.smartsuppcdn.com
 0.0.0.0 wifimap.zendesk.com
 0.0.0.0 wifi.teddymobile.cn
@@ -4450,6 +4528,7 @@
 0.0.0.0 wnskg.qq.com
 0.0.0.0 wnt1.rdtk.io
 0.0.0.0 wondershare.cc
+0.0.0.0 woopra.com
 0.0.0.0 wootric.com
 0.0.0.0 workonline1.com
 0.0.0.0 work.weixin.qq.com
@@ -4623,8 +4702,12 @@
 0.0.0.0 www.ad-x.com
 0.0.0.0 www.ad-x.co.uk
 0.0.0.0 www.affinity.net
+0.0.0.0 www.afirstsoft.cn
+0.0.0.0 www.afirstsoft.com
 0.0.0.0 www.aksconsulting.us
+0.0.0.0 www.alibaba.com
 0.0.0.0 www.alipay.com
+0.0.0.0 www.amiotalio.com
 0.0.0.0 www.androgamer.org
 0.0.0.0 www.announcekit.app
 0.0.0.0 www.anydesk.com
@@ -4663,6 +4746,7 @@
 0.0.0.0 www.coinbasesj.vip
 0.0.0.0 www.colegiounamuno.es
 0.0.0.0 www.cookiepro.com
+0.0.0.0 www.cookieyes.com
 0.0.0.0 www.creditkarma.com
 0.0.0.0 www.creditverify.ca
 0.0.0.0 www.creemo.pl
@@ -4677,6 +4761,7 @@
 0.0.0.0 www.ea.com
 0.0.0.0 www.eep.io
 0.0.0.0 www.escolhatecnologia.com.br
+0.0.0.0 www.establishedtitles.com
 0.0.0.0 www.etsy.com
 0.0.0.0 www.evgnet.com
 0.0.0.0 www.exonhack.com
@@ -4710,6 +4795,7 @@
 0.0.0.0 www.higgsslotgame.com
 0.0.0.0 www.hippoobox.com
 0.0.0.0 www.homecash1.com
+0.0.0.0 www.honeybadger.io
 0.0.0.0 www.hopexos.vip
 0.0.0.0 www.hwclouds-dns.com
 0.0.0.0 www.iconsdb.com
@@ -4735,6 +4821,7 @@
 0.0.0.0 www.letusdomino.com
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.linkedin.com
+0.0.0.0 www.lirik.live
 0.0.0.0 www.litatom.com
 0.0.0.0 www.litix.io
 0.0.0.0 www.litmobile.us
@@ -4766,6 +4853,7 @@
 0.0.0.0 www.ordereffuel.co
 0.0.0.0 www.palmpal.net
 0.0.0.0 www.palmpay.com
+0.0.0.0 www.pasangiklan.com
 0.0.0.0 www.pdl.id
 0.0.0.0 www.pfmverify.ca
 0.0.0.0 www.polussuo.com
@@ -4793,6 +4881,7 @@
 0.0.0.0 www.sape.ru
 0.0.0.0 www.sas-autos.com
 0.0.0.0 www.screenconnect.com
+0.0.0.0 www.senin.live
 0.0.0.0 www.servicewebly.com
 0.0.0.0 www.sfdcstatic.com
 0.0.0.0 www.shalltry.com
@@ -4821,6 +4910,8 @@
 0.0.0.0 www.taxsee.ru
 0.0.0.0 www.technologyadvice.com
 0.0.0.0 www.teddymobile.cn
+0.0.0.0 www.tenorshare.cn
+0.0.0.0 www.tenorshare.com
 0.0.0.0 www.terabox.com
 0.0.0.0 www.thinkingdata.cn
 0.0.0.0 www.thrifter.com
@@ -4828,6 +4919,7 @@
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.topbos.com
 0.0.0.0 www.toptoppartner.com
+0.0.0.0 www.touchpal.com
 0.0.0.0 www.toutiao.com
 0.0.0.0 www.transsnet.com
 0.0.0.0 www.turbotax.com
@@ -4889,6 +4981,16 @@
 0.0.0.0 x8sb.com
 0.0.0.0 x8speeder.com
 0.0.0.0 xad.com
+0.0.0.0 x-apac.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
+0.0.0.0 x-apac.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
+0.0.0.0 x-apac.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
+0.0.0.0 x-apac.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
+0.0.0.0 x-apac.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+0.0.0.0 x-apac.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+0.0.0.0 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
+0.0.0.0 x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+0.0.0.0 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+0.0.0.0 x-apac.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 0.0.0.0 xc3.services.livejournal.com
 0.0.0.0 x-delivery.icu
 0.0.0.0 xdg-1c20f-intl.xd.com
@@ -4975,11 +5077,13 @@
 0.0.0.0 zdn.vn
 0.0.0.0 zeevpn-fca47.firebaseio.com
 0.0.0.0 zegostudio.com
+0.0.0.0 zend-apps.com
 0.0.0.0 zendesk.com
 0.0.0.0 zepeto.me
 0.0.0.0 zhihu.sogou.com
 0.0.0.0 zhspay.com
 0.0.0.0 ziffdavis.com
+0.0.0.0 zigpoll.com
 0.0.0.0 zingcdn.me
 0.0.0.0 zingload.com
 0.0.0.0 zingnews.vn

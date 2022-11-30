@@ -1,10 +1,12 @@
 0-courier.push.apple.com
 10-courier.push.apple.com
 11-courier.push.apple.com
+11.courier-push-apple.com.akadns.net
 12-courier.push.apple.com
 13-courier.push.apple.com
 14-courier.push.apple.com
 15-courier.push.apple.com
+15.courier-push-apple.com.akadns.net
 16-courier.push.apple.com
 17-courier.push.apple.com
 18-courier.push.apple.com
@@ -29,6 +31,7 @@
 34-courier.push.apple.com
 35-courier.push.apple.com
 36-courier.push.apple.com
+36.courier-push-apple.com.akadns.net
 37-courier.push.apple.com
 37.courier-push-apple.com.akadns.net
 38-courier.push.apple.com
@@ -51,6 +54,7 @@
 50-courier.push.apple.com
 52-courier.push.apple.com
 5-courier.push.apple.com
+5.courier-push-apple.com.akadns.net
 6-courier.push.apple.com
 7-courier.push.apple.com
 8-courier.push.apple.com
@@ -63,6 +67,7 @@ bag.itunes.apple.com
 buy.itunes-apple.com.akadns.net
 caldav.fe.apple-dns.net
 captive.apple.com
+cdn-icloud-content.g.aaplimg.com
 cf.iadsdk.apple.com
 cl1.apple.com
 cl2.apple.com
@@ -71,6 +76,7 @@ cl3.apple.com
 cl4.apple.com
 cl4.apple.com.c.footprint.net
 cl4-cdn.origin-apple.com.akadns.net
+cl4-cdn-us.origin-apple.com.akadns.net
 cl5.apple.com
 cma.itunes.apple.com
 commnat-cohort-gc.ess.apple.com
@@ -141,6 +147,7 @@ gspe48-ssl.ls.apple.com
 gspe72-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com
+gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
 gspe92-ssl.ls.apple.com
 gsp-ssl-commute.ls.apple.com
@@ -160,6 +167,7 @@ init.push-apple.com.akadns.net
 ipcdn.apple.com
 ipcdn-lb.apple.com.akadns.net
 iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
 itunes.apple.com
 itunes.com
 keyvalueservice.icloud.com
@@ -252,6 +260,7 @@ p47-caldav.icloud.com
 p47-contacts.icloud.com
 p47-escrowproxy.icloud.com
 p47-fmfmobile.icloud.com
+p47-quota.icloud.com
 p48-caldav.icloud.com
 p48-escrowproxy.icloud.com
 p49-caldav.icloud.com
@@ -322,7 +331,9 @@ static.ess.apple.com
 static.gc.apple.com
 stocks-data-service.apple.com
 stocks-edge.apple.com
+stocks-edge.news.apple-dns.net
 stocks-sparkline.apple.com
+su.itunes.apple.com
 time.apple.com
 token.safebrowsing.apple
 updates.cdn-apple.com

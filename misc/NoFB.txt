@@ -282,6 +282,7 @@ alpha-shv-04-prn2.facebook.com
 alpha-shv-09-frc1.facebook.com
 alpha.vvv.facebook.com
 an.facebook.com
+a.ns.c10r.facebook.com
 a.ns.facebook.com
 a.ns.whatsapp.net
 a.ns.xx.fbcdn.net
@@ -341,6 +342,7 @@ b.i.instagram.com
 black.ish.instagram.com
 blog.facebook.com
 b-m.facebook.com
+b.ns.c10r.facebook.com
 b.ns.facebook.com
 b.ns.whatsapp.net
 boostcom.m.facebook.com
@@ -368,6 +370,7 @@ chat-e2ee-mini.facebook.com
 check4.facebook.com
 check6.facebook.com
 clubmed.m.facebook.com
+c.ns.c10r.facebook.com
 c.ns.whatsapp.net
 code.facebook.com
 com0.facebook.com
@@ -390,6 +393,7 @@ dev.vvv.facebook.com
 d.facebook.com
 dixonscarphone.m.facebook.com
 dm.m.facebook.com
+d.ns.c10r.facebook.com
 dns.facebook.com
 d.ns.whatsapp.net
 d.vvv.facebook.com
@@ -718,6 +722,7 @@ el-gr.facebook.com
 elkjopnordic.m.facebook.com
 en-gb.facebook.com
 en-gb.th-th.fbjs.facebook.com
+engineering.fb.com
 ent-a.xx.fbcdn.net
 ent-b.xx.fbcdn.net
 ent-c.xx.fbcdn.net
@@ -2103,6 +2108,16 @@ scontent.fsin7-1.fna.fbcdn.net
 scontent.fsjc1-2.fna.fbcdn.net
 scontent.fsjo1-1.fna.fbcdn.net
 scontent.fsnc1-1.fna.fbcdn.net
+scontent.fsrg1-1.fna.fbcdn.net
+scontent.fsrg2-1.fna.fbcdn.net
+scontent.fsrg3-1.fna.fbcdn.net
+scontent.fsrg4-1.fna.fbcdn.net
+scontent.fsrg5-1.fna.fbcdn.net
+scontent.fsrg5-2.fna.fbcdn.net
+scontent.fsrg6-1.fna.fbcdn.net
+scontent.fsrg7-1.fna.fbcdn.net
+scontent.fsrg8-1.fna.fbcdn.net
+scontent.fsrg9-1.fna.fbcdn.net
 scontent.fssa10-1.fna.fbcdn.net
 scontent.fssa11-1.fna.fbcdn.net
 scontent.fssa1-1.fna.fbcdn.net
@@ -2604,7 +2619,9 @@ z-m-scontent-mxp.xx.fbcdn.net
 z-m-scontent-nrt.xx.fbcdn.net
 z-m-scontent-ort.xx.fbcdn.net
 z-m-scontent-scl.xx.fbcdn.net
+z-m-scontent-sin6-1.xx.fbcdn.net
 z-m-scontent-sin6-2.xx.fbcdn.net
+z-m-scontent-sin6-3.xx.fbcdn.net
 z-m-scontent-sin6-4.xx.fbcdn.net
 z-m-scontent-sin.xx.fbcdn.net
 z-m-scontent-sit.xx.fbcdn.net

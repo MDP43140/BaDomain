@@ -2,10 +2,12 @@
 0.0.0.0 0-courier.push.apple.com
 0.0.0.0 10-courier.push.apple.com
 0.0.0.0 11-courier.push.apple.com
+0.0.0.0 11.courier-push-apple.com.akadns.net
 0.0.0.0 12-courier.push.apple.com
 0.0.0.0 13-courier.push.apple.com
 0.0.0.0 14-courier.push.apple.com
 0.0.0.0 15-courier.push.apple.com
+0.0.0.0 15.courier-push-apple.com.akadns.net
 0.0.0.0 16-courier.push.apple.com
 0.0.0.0 17-courier.push.apple.com
 0.0.0.0 18-courier.push.apple.com
@@ -30,6 +32,7 @@
 0.0.0.0 34-courier.push.apple.com
 0.0.0.0 35-courier.push.apple.com
 0.0.0.0 36-courier.push.apple.com
+0.0.0.0 36.courier-push-apple.com.akadns.net
 0.0.0.0 37-courier.push.apple.com
 0.0.0.0 37.courier-push-apple.com.akadns.net
 0.0.0.0 38-courier.push.apple.com
@@ -52,6 +55,7 @@
 0.0.0.0 50-courier.push.apple.com
 0.0.0.0 52-courier.push.apple.com
 0.0.0.0 5-courier.push.apple.com
+0.0.0.0 5.courier-push-apple.com.akadns.net
 0.0.0.0 6-courier.push.apple.com
 0.0.0.0 7-courier.push.apple.com
 0.0.0.0 8-courier.push.apple.com
@@ -64,6 +68,7 @@
 0.0.0.0 buy.itunes-apple.com.akadns.net
 0.0.0.0 caldav.fe.apple-dns.net
 0.0.0.0 captive.apple.com
+0.0.0.0 cdn-icloud-content.g.aaplimg.com
 0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cl1.apple.com
 0.0.0.0 cl2.apple.com
@@ -72,6 +77,7 @@
 0.0.0.0 cl4.apple.com
 0.0.0.0 cl4.apple.com.c.footprint.net
 0.0.0.0 cl4-cdn.origin-apple.com.akadns.net
+0.0.0.0 cl4-cdn-us.origin-apple.com.akadns.net
 0.0.0.0 cl5.apple.com
 0.0.0.0 cma.itunes.apple.com
 0.0.0.0 commnat-cohort-gc.ess.apple.com
@@ -142,6 +148,7 @@
 0.0.0.0 gspe72-ssl.ls.apple.com
 0.0.0.0 gspe76-ssl.ls.apple.com
 0.0.0.0 gspe79-ssl.ls.apple.com
+0.0.0.0 gspe79-ssl.ls.apple.com.edgesuite.net
 0.0.0.0 gspe85-ssl.ls.apple.com
 0.0.0.0 gspe92-ssl.ls.apple.com
 0.0.0.0 gsp-ssl-commute.ls.apple.com
@@ -161,6 +168,7 @@
 0.0.0.0 ipcdn.apple.com
 0.0.0.0 ipcdn-lb.apple.com.akadns.net
 0.0.0.0 iphone-ld.apple.com
+0.0.0.0 iphone-ld.origin-apple.com.akadns.net
 0.0.0.0 itunes.apple.com
 0.0.0.0 itunes.com
 0.0.0.0 keyvalueservice.icloud.com
@@ -253,6 +261,7 @@
 0.0.0.0 p47-contacts.icloud.com
 0.0.0.0 p47-escrowproxy.icloud.com
 0.0.0.0 p47-fmfmobile.icloud.com
+0.0.0.0 p47-quota.icloud.com
 0.0.0.0 p48-caldav.icloud.com
 0.0.0.0 p48-escrowproxy.icloud.com
 0.0.0.0 p49-caldav.icloud.com
@@ -323,7 +332,9 @@
 0.0.0.0 static.gc.apple.com
 0.0.0.0 stocks-data-service.apple.com
 0.0.0.0 stocks-edge.apple.com
+0.0.0.0 stocks-edge.news.apple-dns.net
 0.0.0.0 stocks-sparkline.apple.com
+0.0.0.0 su.itunes.apple.com
 0.0.0.0 time.apple.com
 0.0.0.0 token.safebrowsing.apple
 0.0.0.0 updates.cdn-apple.com
