@@ -101,6 +101,7 @@
 0.0.0.0 gs-loc.apple.com
 0.0.0.0 gs-loc.ls-apple.com.akadns.net
 0.0.0.0 gs-loc-new.ls-apple.com.akadns.net
+0.0.0.0 gsp10-ssl.apple.com
 0.0.0.0 gsp10-ssl.ls.apple.com
 0.0.0.0 gsp10-ssl.ls-apple.com.akadns.net
 0.0.0.0 gsp11-ssl.ls.apple.com
@@ -328,6 +329,7 @@
 0.0.0.0 setup.fe.apple-dns.net
 0.0.0.0 setup.icloud.com
 0.0.0.0 smp-device-content.apple.com
+0.0.0.0 smp-device-content.g.aaplimg.com
 0.0.0.0 static.ess.apple.com
 0.0.0.0 static.gc.apple.com
 0.0.0.0 stocks-data-service.apple.com

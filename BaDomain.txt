@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 30.11.2022
+# Version: 02.12.2022
 # Update: 1 day
 #
 
@@ -239,6 +239,7 @@ adviva.net
 adv-sv-show.focus.cn
 ad.weixin.qq.com
 adx.adsgaga.com
+adx.ads.vungle.com
 ad-x.com
 ad-x.co.uk
 adx-id.ads.heytapmobile.com
@@ -1468,6 +1469,7 @@ djnl.decisionnowlive.com
 dl111.dlmate26.xyz
 dl111.fbefcafbeedc.xyz
 dl2.ultraviewer.net
+dlcdnamax.asus.com
 dl.hw.freefiremobile.com
 dl.listdl.com
 dls.di.atlas.samsung.com
@@ -1711,6 +1713,7 @@ filelink.ru
 files.catbox.moe
 files.elfsight.com
 files.webmoney.ru
+file.update.miui.com
 filmmogzivota.rs
 financialtrending.com
 firehose.eu-west-1.amazonaws.com
@@ -2083,6 +2086,7 @@ ibispaint.com
 ibnads.xl.co.id
 i.bosboslink.net
 i-by3p-cor001.api.p001.1drv.com
+icanhazip.com
 ichef.bbci.co.uk
 iclickcdn.com
 icms-image.slatic.net
@@ -2640,6 +2644,7 @@ mc.us18.list-manage.com
 mc.yandex.ru
 mdm.asus.com
 mdp-appconf-id.heytapdl.com
+mdp-appconf-in.heytapdl.com
 mdp-appconf-kh.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
@@ -5019,6 +5024,7 @@ xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com
 xdg-3da8a-intl.xd.com
 x.everestop.io
+xgapromomanager-pa.googleapis.com
 x.glance-cdn.com
 x.glance-cdn.net
 x-id.ls.glanceapis.com

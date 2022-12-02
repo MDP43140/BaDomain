@@ -1282,6 +1282,7 @@ jmj.toutiao.com
 job.toutiao.com
 jsb16-normal-c-useast2a.tiktokv.com
 jsb16-normal-useast2a.tiktokv.com
+jsb22-normal-useast2a.tiktokv.com
 jsb-hl.snssdk.com
 jsb-lf.snssdk.com
 jsb-lq.snssdk.com
@@ -1366,6 +1367,7 @@ lf16-web-buz.capcut.com
 lf19-capcut.faceueditorv.com
 lf19-capcut.faceulv.com
 lf19-effectcdn.byteeffecttos-g.com
+lf19-effectcdn-sg.tiktokcdn.com
 lf19-geckocdn.bytegecko-i18n.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
@@ -1608,6 +1610,7 @@ mon-cold.snssdk.com
 mongoosev.byted.org
 mon-hl.snssdk.com
 mon-hl.snssdk.com.w.kunluncan.com
+mon-i18n.tiktokv.com
 mon-ipv6.snssdk.com
 mon.isnssdk.com
 monitor.isnssdk.com
@@ -3455,6 +3458,10 @@ v36.tiktokcdn.com
 v37.tiktokcdn.com
 v38.tiktokcdn.com
 v39-ca.gts.byteoversea.net
+v39-dynamic-cgk1.tiktokcdn.com
+v39-dynamic-cgk2.tiktokcdn.com
+v39-dynamic-cgk3.tiktokcdn.com
+v39-dynamic-cgk4.tiktokcdn.com
 v39-eu.tiktokcdn.com
 v39-id.tiktokcdn.com
 v39.muscdn.com
@@ -3817,6 +3824,7 @@ webcast21.tiktokv.com
 webcast21-useast1a.musical.ly
 webcast21-useast2a.musical.ly
 webcast21-va.tiktokv.com
+webcast22-normal-c-alisg.tiktokv.com
 webcast22-normal-c-useast2a.tiktokv.com
 webcast22-open-useast2a.tiktokv.com
 webcast22-ws-useast2a.tiktokv.com

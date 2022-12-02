@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 30.11.2022
+# Version: 02.12.2022
 # Update: 1 day
 #
 
@@ -239,6 +239,7 @@
 0.0.0.0 adv-sv-show.focus.cn
 0.0.0.0 ad.weixin.qq.com
 0.0.0.0 adx.adsgaga.com
+0.0.0.0 adx.ads.vungle.com
 0.0.0.0 ad-x.com
 0.0.0.0 ad-x.co.uk
 0.0.0.0 adx-id.ads.heytapmobile.com
@@ -1468,6 +1469,7 @@
 0.0.0.0 dl111.dlmate26.xyz
 0.0.0.0 dl111.fbefcafbeedc.xyz
 0.0.0.0 dl2.ultraviewer.net
+0.0.0.0 dlcdnamax.asus.com
 0.0.0.0 dl.hw.freefiremobile.com
 0.0.0.0 dl.listdl.com
 0.0.0.0 dls.di.atlas.samsung.com
@@ -1711,6 +1713,7 @@
 0.0.0.0 files.catbox.moe
 0.0.0.0 files.elfsight.com
 0.0.0.0 files.webmoney.ru
+0.0.0.0 file.update.miui.com
 0.0.0.0 filmmogzivota.rs
 0.0.0.0 financialtrending.com
 0.0.0.0 firehose.eu-west-1.amazonaws.com
@@ -2083,6 +2086,7 @@
 0.0.0.0 ibnads.xl.co.id
 0.0.0.0 i.bosboslink.net
 0.0.0.0 i-by3p-cor001.api.p001.1drv.com
+0.0.0.0 icanhazip.com
 0.0.0.0 ichef.bbci.co.uk
 0.0.0.0 iclickcdn.com
 0.0.0.0 icms-image.slatic.net
@@ -2640,6 +2644,7 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mdm.asus.com
 0.0.0.0 mdp-appconf-id.heytapdl.com
+0.0.0.0 mdp-appconf-in.heytapdl.com
 0.0.0.0 mdp-appconf-kh.heytapdl.com
 0.0.0.0 mdp-appconf-mm.heytapdl.com
 0.0.0.0 mdp-appconf-sg.heytapdl.com
@@ -5019,6 +5024,7 @@
 0.0.0.0 xdg-2fc4a-intl.xd.com
 0.0.0.0 xdg-3da8a-intl.xd.com
 0.0.0.0 x.everestop.io
+0.0.0.0 xgapromomanager-pa.googleapis.com
 0.0.0.0 x.glance-cdn.com
 0.0.0.0 x.glance-cdn.net
 0.0.0.0 x-id.ls.glanceapis.com

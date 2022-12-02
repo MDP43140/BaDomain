@@ -1282,6 +1282,7 @@
 0.0.0.0 job.toutiao.com
 0.0.0.0 jsb16-normal-c-useast2a.tiktokv.com
 0.0.0.0 jsb16-normal-useast2a.tiktokv.com
+0.0.0.0 jsb22-normal-useast2a.tiktokv.com
 0.0.0.0 jsb-hl.snssdk.com
 0.0.0.0 jsb-lf.snssdk.com
 0.0.0.0 jsb-lq.snssdk.com
@@ -1366,6 +1367,7 @@
 0.0.0.0 lf19-capcut.faceueditorv.com
 0.0.0.0 lf19-capcut.faceulv.com
 0.0.0.0 lf19-effectcdn.byteeffecttos-g.com
+0.0.0.0 lf19-effectcdn-sg.tiktokcdn.com
 0.0.0.0 lf19-geckocdn.bytegecko-i18n.com
 0.0.0.0 lf19-geckocdn-sg.ibytedtos.com
 0.0.0.0 lf19-geckocdn-sg.tiktokcdn.com
@@ -1608,6 +1610,7 @@
 0.0.0.0 mongoosev.byted.org
 0.0.0.0 mon-hl.snssdk.com
 0.0.0.0 mon-hl.snssdk.com.w.kunluncan.com
+0.0.0.0 mon-i18n.tiktokv.com
 0.0.0.0 mon-ipv6.snssdk.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 monitor.isnssdk.com
@@ -3455,6 +3458,10 @@
 0.0.0.0 v37.tiktokcdn.com
 0.0.0.0 v38.tiktokcdn.com
 0.0.0.0 v39-ca.gts.byteoversea.net
+0.0.0.0 v39-dynamic-cgk1.tiktokcdn.com
+0.0.0.0 v39-dynamic-cgk2.tiktokcdn.com
+0.0.0.0 v39-dynamic-cgk3.tiktokcdn.com
+0.0.0.0 v39-dynamic-cgk4.tiktokcdn.com
 0.0.0.0 v39-eu.tiktokcdn.com
 0.0.0.0 v39-id.tiktokcdn.com
 0.0.0.0 v39.muscdn.com
@@ -3817,6 +3824,7 @@
 0.0.0.0 webcast21-useast1a.musical.ly
 0.0.0.0 webcast21-useast2a.musical.ly
 0.0.0.0 webcast21-va.tiktokv.com
+0.0.0.0 webcast22-normal-c-alisg.tiktokv.com
 0.0.0.0 webcast22-normal-c-useast2a.tiktokv.com
 0.0.0.0 webcast22-open-useast2a.tiktokv.com
 0.0.0.0 webcast22-ws-useast2a.tiktokv.com
