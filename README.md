@@ -1,5 +1,5 @@
 ## BaDomain (Bad Domains)
-this is a addon hosts file that blocks more bad things.
+this is an addon hosts file that blocks more bad things.
 this hosts file was only meant to improve blocking of your existing hosts list.
 Facebook, TikTok, Xiaomi, Free Fire, Mobile Legends, Roblox, Apple domains are also included (as misc)
 
