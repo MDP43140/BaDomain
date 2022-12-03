@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.12.2022
+# Version: 03.12.2022
 # Update: 1 day
 #
 
@@ -84,6 +84,7 @@
 5yme8j.xxobs5.com
 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 64a9.playfabapi.com
+65c6.playfabapi.com
 756964-android-ds.metric.gstatic.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 7efc7eb08gtearevf.rarefix.info
@@ -135,6 +136,7 @@ a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 aa-cdn.net
 aadg.trafficmanager.net
+a.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 aaplimg.com
 a.applovin.com
 abesu.org
@@ -274,6 +276,7 @@ akimg.icocofun.com
 ak.itlatiaser.com
 ak.mangatoon.akamaized.net
 aksconsulting.us
+ak-sgp-pic.snackvideo.in
 aktup.bangcdn.net
 album-sg01a.ocloud.heytapmobi.com
 alexmods.com
@@ -757,6 +760,7 @@ aws.api.snapchat.com
 aws.duplex.snapchat.com
 aws-proxy-gcp.api.snapchat.com
 aws-sgp-cdn.snackvideo.in
+aws-sgp-pic.snackvideo.in
 aws-static.snackvideo.in
 awxcdn.com
 axiata-lk-43c53a330e9-he.fortumo.io
@@ -844,6 +848,8 @@ block.uzone.id
 blogblog.com
 blog.castle.io
 blog.pho.to
+blog.tenjin.com
+blog.tenjin.io
 bluecava.com
 bluekai.com
 bms.ge
@@ -1053,6 +1059,7 @@ cdns.eu1.gigya.com
 cdns.gigya.com
 cdn.shalltry.com
 cdn.shareaholic.net
+cdn.signalfx.com
 cdns.klimg.com
 cdn.slidesharecdn.com
 cdn.snigelweb.com
@@ -1079,6 +1086,7 @@ cengine.contextads.live
 centre.baby
 centurygames.com
 c.erotic-massagenn.com
+cfg.cml.ksmobile.com
 cfg.ws.pho.to
 cfs2.uadexchange.com
 cf.shopee.co.id
@@ -1493,6 +1501,8 @@ dobestapposs.uqualities.com
 docdoc.com
 docs.3dsintegrator.com
 docs.castle.io
+docs.tenjin.com
+docs.tenjin.io
 doge43tothemoon.us
 dogecointothemoon43.us
 doh.iq.com
@@ -1785,6 +1795,7 @@ fxgate.baidu.com
 g1790.rt14v.com
 g2.com
 g2crowd.com
+g3-sgp-cdn.snackvideo.in
 g4tagging.komando.com
 g.aaplimg.com
 gabrio.it
@@ -1812,6 +1823,7 @@ g-api.facemojikeyboard.com
 g-api.kwai.com
 g-api.kwai-pro.com
 g-api.kwaipros.com
+g-api.snackvideo.com
 garagewestrotterdam.nl
 garud.jp
 garusoft.com
@@ -1924,6 +1936,7 @@ gpapi.zepeto.io
 gpvjyx.ssptp4.com
 graph.microsoft.com
 graphql.api.dailymotion.com
+graphql.contentful.com
 graphql.kumparan.com
 graphql-v4.kumparan.com
 gray.bignox.com
@@ -2041,6 +2054,7 @@ hrtechprivacy.com
 hr.tencent.com
 hrworld.com
 hsappstatic.net
+hshh.org
 hs-marketing.imgix.net
 htms.heytapmobile.com
 h.trace.qq.com
@@ -2536,6 +2550,7 @@ livelbs.ukyuh.tech
 live.shopee.co.id
 livetech.live.shopee.co.id
 livetech.shopee.co.id
+liveupdate01.asus.com
 livoop.com
 lkqd.net
 lngtd.com
@@ -2843,6 +2858,7 @@ nea.telkomsel.com
 nekkimobile.ru
 nestledmph.com
 netdna-ssl.com
+netflix-widget.metranet.co.id
 netpayjob.com
 net.simontok.site
 neverbounce.com
@@ -3461,6 +3477,7 @@ reign.appmeasurements.com
 reklama.mail.ru
 relap.info
 relation.like-it.video
+reload.kwai.net
 reminiandroid.oracle.bendingspoonsapps.com
 remotecompany.com
 renren.com
@@ -3573,6 +3590,7 @@ ruangguruhelp.zendesk.com
 rubiconproject.com
 ru.bignox.com
 rudyvalencia.pro
+rum-ingest.us1.signalfx.com
 ruplay.market
 rusfsg.coloros.com
 rustore.ru
@@ -3781,6 +3799,8 @@ shreeganeshlab.co.in
 shy.elfsight.com
 sia.internet.apps.samsung.com
 sift-creatives.s3.amazonaws.com
+signalfx.com
+sign-static.dreamriverclub.com
 simple-get.ilyon.net
 simplelocalize.io
 simpli.fi
@@ -3812,6 +3832,7 @@ smokey.lordofthequietbadgers.com
 sms.webadv.co
 snackvideo.com
 snapchat.com
+snap.com
 snapengage.com
 snapgirls.date
 snapgirls.uno
@@ -4031,6 +4052,7 @@ survey.bignox.com
 surveys-static.survicate.com
 survey.survicate.com
 survicate.com
+s-usc1f-nss-2504.firebaseio.com
 s-usc1f-nss-2505.firebaseio.com
 s.usea01.idio.episerver.net
 s-v6exp1-ds.metric.gstatic.com
@@ -4114,6 +4136,8 @@ tencent.com
 tencentcs.cn
 tencentcs.com
 tengame.net
+tenjin.com
+tenjin.io
 tenor.co
 tenor.com
 tenor.googleapis.com
@@ -4123,6 +4147,8 @@ tentaculos.net
 terabox.com
 terbaru.uzone.id
 termly.io
+terms.aliyun.com
+terms.aliyun.com.danuoyi.alicdn.com
 terpopuler.uzone.id
 teslacoilapps.com
 test-bg-td.teddymobile.cn
@@ -4217,6 +4243,8 @@ tracking.trnox.com
 track.mailerlite.com
 track-mixer.ru
 track.scooper.news
+track.tenjin.com
+track.tenjin.io
 trackwilly.com
 trafsafetrack.com
 trailhead.salesforce.com
@@ -4320,6 +4348,7 @@ upush.englory.net
 ur.alipay.com
 ureca.samsungapps.com
 url-fwax40fx1.com
+urmyromance.com
 us18.list-manage.com
 usa.ime.cdn.cootekservice.com
 us.api.fc.mob.com
@@ -4342,6 +4371,7 @@ user-api.ucweb.com
 useroperation.wondershare.com
 u.startup.mobile.webvisor.com
 us.tk0x1.com
+us.urmyromance.com
 us.ynuf.aliapp.org
 uzone.id
 v16.resso.app
@@ -4781,6 +4811,7 @@ www.establishedtitles.com
 www.etsy.com
 www.evgnet.com
 www.exonhack.com
+www.faceplay.cc
 www.feedsonbudget.com
 www.filmmogzivota.rs
 www.financialtrending.com
@@ -4919,11 +4950,13 @@ www.sk.ru
 www.slickstream.com
 www.slideshare.net
 www.smartsuppchat.com
+www.snapchat.com
 www.sogou.com
 www.sohu.com
 www.soundiradio.com
 www.spanishcoursesunamuno.com
 www.spinaway.com
+www.splunk.com
 www.stagingapps.xyz
 www.stake.com
 www.steveziogames.com
@@ -4937,6 +4970,7 @@ www.taximaxim.ru
 www.taxsee.ru
 www.technologyadvice.com
 www.teddymobile.cn
+www.tenjin.com
 www.tenorshare.cn
 www.tenorshare.com
 www.terabox.com
@@ -4958,6 +4992,7 @@ www.uc.cn
 www.ultraviewer.net
 www.unipin.com
 www.upoint.id
+www.urmyromance.com
 www.ushareit.com
 www.uzone.id
 www.vdo.ai
@@ -5004,6 +5039,7 @@ www.zingnews.vn
 www.zing.vn
 www.zuiqiangyingyu.net
 wx.qq.com
+w-zt.kwaipros.com
 x1.i.lencr.org
 x8sb.com
 x8speeder.com
@@ -5017,12 +5053,24 @@ x-apac.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+x-apac.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 x-apac.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 xc3.services.livejournal.com
 x-delivery.icu
 xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com
 xdg-3da8a-intl.xd.com
+x-eu.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
+x-eu.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
+x-eu.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
+x-eu.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
+x-eu.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+x-eu.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
+x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+x-eu.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
+x-eu.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 x.everestop.io
 xgapromomanager-pa.googleapis.com
 x.glance-cdn.com

@@ -53,6 +53,7 @@ auth.be.sec.miui.com
 awsusor0-cdn.fds-ssl.api.xiaomi.com
 bbs.game.xiaomi.com
 be01.hh.xiaomi.com
+bg0.market.xiaomi.com
 bgp.fe01.c3.xiaomi.com
 browser.cdn.intl.miui.com
 brs.api.intl.miui.com

@@ -1883,6 +1883,7 @@
 0.0.0.0 scontent.fdpa1-1.fna.fbcdn.net
 0.0.0.0 scontent.fdps5-1.fna.fbcdn.net
 0.0.0.0 scontent.fdsa1-1.fna.fbcdn.net
+0.0.0.0 scontent.fdtb1-1.fna.fbcdn.net
 0.0.0.0 scontent.fdxb1-1.fna.fbcdn.net
 0.0.0.0 scontent.febb1-1.fna.fbcdn.net
 0.0.0.0 scontent.feoh1-1.fna.fbcdn.net
@@ -1914,6 +1915,10 @@
 0.0.0.0 scontent.ffru1-1.fna.fbcdn.net
 0.0.0.0 scontent.fgdl5-1.fna.fbcdn.net
 0.0.0.0 scontent.fgua1-1.fna.fbcdn.net
+0.0.0.0 scontent.fhdy1-1.fna.fbcdn.net
+0.0.0.0 scontent.fhdy2-1.fna.fbcdn.net
+0.0.0.0 scontent.fhdy3-1.fna.fbcdn.net
+0.0.0.0 scontent.fhdy4-1.fna.fbcdn.net
 0.0.0.0 scontent.fhel1-1.fna.fbcdn.net
 0.0.0.0 scontent.fhel2-1.fna.fbcdn.net
 0.0.0.0 scontent.fhel5-1.fna.fbcdn.net

@@ -240,6 +240,7 @@ demo.mipunet.cn
 detectportal.prod.cloudops.mozgcp.net
 dev.driftt.com
 developers.google.com.hk
+diagnosis.ad.intl.xiaomi.com
 dirtbox.host
 dkyweipsds.com
 dlg.io.mi.com
@@ -847,6 +848,7 @@ x.acme.com
 xapoapp.com
 xbritclone.net
 xdplt.com
+x-eu.71d4bb3c2df5563d0a9771d8a44d6426806c11ecdb41bd614f9dc28c.com
 xitong.xiaomi.com
 xjke.xyz
 xlmc.sec.miui.com

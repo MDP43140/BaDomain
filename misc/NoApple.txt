@@ -19,6 +19,7 @@
 24-courier.push.apple.com
 25-courier.push.apple.com
 26-courier.push.apple.com
+26.courier-push-apple.com.akadns.net
 27-courier.push.apple.com
 27.courier-push-apple.com.akadns.net
 28-courier.push.apple.com
@@ -43,8 +44,10 @@
 41-courier.push.apple.com
 42-courier.push.apple.com
 43-courier.push.apple.com
+43.courier-push-apple.com.akadns.net
 44-courier.push.apple.com
 45-courier.push.apple.com
+45.courier-push-apple.com.akadns.net
 46-courier.push.apple.com
 47-courier.push.apple.com
 48-courier.push.apple.com
@@ -57,6 +60,7 @@
 5.courier-push-apple.com.akadns.net
 6-courier.push.apple.com
 7-courier.push.apple.com
+7.courier-push-apple.com.akadns.net
 8-courier.push.apple.com
 9-courier.push.apple.com
 apac-asia-courier-4.push-apple.com.akadns.net
@@ -73,6 +77,7 @@ cl1.apple.com
 cl2.apple.com
 cl2.apple.com.c.footprint.net
 cl3.apple.com
+cl3-cdn.origin-apple.com.akadns.net
 cl4.apple.com
 cl4.apple.com.c.footprint.net
 cl4-cdn.origin-apple.com.akadns.net
@@ -92,10 +97,12 @@ doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 fbs.smoot.apple.com
 fides-pol.apple.com
+fmfmobile.fe.apple-dns.net
 gateway.fe.apple-dns.net
 gateway.icloud.com
 gdmf.apple.com
 gsa.apple.com
+gsa.idms-apple.com.akadns.net
 gsas.apple.com
 gs-loc.apple.com
 gs-loc.ls-apple.com.akadns.net
@@ -324,6 +331,7 @@ partiality.itunes.apple.com
 profile.gc.apple.com
 proxy.safebrowsing.apple
 query.ess.apple.com
+query.ess-apple.com.akadns.net
 se2.itunes.apple.com
 setup.fe.apple-dns.net
 setup.icloud.com

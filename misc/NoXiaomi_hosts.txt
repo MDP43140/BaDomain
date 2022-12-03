@@ -53,6 +53,7 @@
 0.0.0.0 awsusor0-cdn.fds-ssl.api.xiaomi.com
 0.0.0.0 bbs.game.xiaomi.com
 0.0.0.0 be01.hh.xiaomi.com
+0.0.0.0 bg0.market.xiaomi.com
 0.0.0.0 bgp.fe01.c3.xiaomi.com
 0.0.0.0 browser.cdn.intl.miui.com
 0.0.0.0 brs.api.intl.miui.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.12.2022
+# Version: 03.12.2022
 # Update: 1 day
 #
 
@@ -84,6 +84,7 @@
 0.0.0.0 5yme8j.xxobs5.com
 0.0.0.0 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 0.0.0.0 64a9.playfabapi.com
+0.0.0.0 65c6.playfabapi.com
 0.0.0.0 756964-android-ds.metric.gstatic.com
 0.0.0.0 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 0.0.0.0 7efc7eb08gtearevf.rarefix.info
@@ -135,6 +136,7 @@
 0.0.0.0 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 0.0.0.0 aa-cdn.net
 0.0.0.0 aadg.trafficmanager.net
+0.0.0.0 a.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 0.0.0.0 aaplimg.com
 0.0.0.0 a.applovin.com
 0.0.0.0 abesu.org
@@ -274,6 +276,7 @@
 0.0.0.0 ak.itlatiaser.com
 0.0.0.0 ak.mangatoon.akamaized.net
 0.0.0.0 aksconsulting.us
+0.0.0.0 ak-sgp-pic.snackvideo.in
 0.0.0.0 aktup.bangcdn.net
 0.0.0.0 album-sg01a.ocloud.heytapmobi.com
 0.0.0.0 alexmods.com
@@ -757,6 +760,7 @@
 0.0.0.0 aws.duplex.snapchat.com
 0.0.0.0 aws-proxy-gcp.api.snapchat.com
 0.0.0.0 aws-sgp-cdn.snackvideo.in
+0.0.0.0 aws-sgp-pic.snackvideo.in
 0.0.0.0 aws-static.snackvideo.in
 0.0.0.0 awxcdn.com
 0.0.0.0 axiata-lk-43c53a330e9-he.fortumo.io
@@ -844,6 +848,8 @@
 0.0.0.0 blogblog.com
 0.0.0.0 blog.castle.io
 0.0.0.0 blog.pho.to
+0.0.0.0 blog.tenjin.com
+0.0.0.0 blog.tenjin.io
 0.0.0.0 bluecava.com
 0.0.0.0 bluekai.com
 0.0.0.0 bms.ge
@@ -1053,6 +1059,7 @@
 0.0.0.0 cdns.gigya.com
 0.0.0.0 cdn.shalltry.com
 0.0.0.0 cdn.shareaholic.net
+0.0.0.0 cdn.signalfx.com
 0.0.0.0 cdns.klimg.com
 0.0.0.0 cdn.slidesharecdn.com
 0.0.0.0 cdn.snigelweb.com
@@ -1079,6 +1086,7 @@
 0.0.0.0 centre.baby
 0.0.0.0 centurygames.com
 0.0.0.0 c.erotic-massagenn.com
+0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfg.ws.pho.to
 0.0.0.0 cfs2.uadexchange.com
 0.0.0.0 cf.shopee.co.id
@@ -1493,6 +1501,8 @@
 0.0.0.0 docdoc.com
 0.0.0.0 docs.3dsintegrator.com
 0.0.0.0 docs.castle.io
+0.0.0.0 docs.tenjin.com
+0.0.0.0 docs.tenjin.io
 0.0.0.0 doge43tothemoon.us
 0.0.0.0 dogecointothemoon43.us
 0.0.0.0 doh.iq.com
@@ -1785,6 +1795,7 @@
 0.0.0.0 g1790.rt14v.com
 0.0.0.0 g2.com
 0.0.0.0 g2crowd.com
+0.0.0.0 g3-sgp-cdn.snackvideo.in
 0.0.0.0 g4tagging.komando.com
 0.0.0.0 g.aaplimg.com
 0.0.0.0 gabrio.it
@@ -1812,6 +1823,7 @@
 0.0.0.0 g-api.kwai.com
 0.0.0.0 g-api.kwai-pro.com
 0.0.0.0 g-api.kwaipros.com
+0.0.0.0 g-api.snackvideo.com
 0.0.0.0 garagewestrotterdam.nl
 0.0.0.0 garud.jp
 0.0.0.0 garusoft.com
@@ -1924,6 +1936,7 @@
 0.0.0.0 gpvjyx.ssptp4.com
 0.0.0.0 graph.microsoft.com
 0.0.0.0 graphql.api.dailymotion.com
+0.0.0.0 graphql.contentful.com
 0.0.0.0 graphql.kumparan.com
 0.0.0.0 graphql-v4.kumparan.com
 0.0.0.0 gray.bignox.com
@@ -2041,6 +2054,7 @@
 0.0.0.0 hr.tencent.com
 0.0.0.0 hrworld.com
 0.0.0.0 hsappstatic.net
+0.0.0.0 hshh.org
 0.0.0.0 hs-marketing.imgix.net
 0.0.0.0 htms.heytapmobile.com
 0.0.0.0 h.trace.qq.com
@@ -2536,6 +2550,7 @@
 0.0.0.0 live.shopee.co.id
 0.0.0.0 livetech.live.shopee.co.id
 0.0.0.0 livetech.shopee.co.id
+0.0.0.0 liveupdate01.asus.com
 0.0.0.0 livoop.com
 0.0.0.0 lkqd.net
 0.0.0.0 lngtd.com
@@ -2843,6 +2858,7 @@
 0.0.0.0 nekkimobile.ru
 0.0.0.0 nestledmph.com
 0.0.0.0 netdna-ssl.com
+0.0.0.0 netflix-widget.metranet.co.id
 0.0.0.0 netpayjob.com
 0.0.0.0 net.simontok.site
 0.0.0.0 neverbounce.com
@@ -3461,6 +3477,7 @@
 0.0.0.0 reklama.mail.ru
 0.0.0.0 relap.info
 0.0.0.0 relation.like-it.video
+0.0.0.0 reload.kwai.net
 0.0.0.0 reminiandroid.oracle.bendingspoonsapps.com
 0.0.0.0 remotecompany.com
 0.0.0.0 renren.com
@@ -3573,6 +3590,7 @@
 0.0.0.0 rubiconproject.com
 0.0.0.0 ru.bignox.com
 0.0.0.0 rudyvalencia.pro
+0.0.0.0 rum-ingest.us1.signalfx.com
 0.0.0.0 ruplay.market
 0.0.0.0 rusfsg.coloros.com
 0.0.0.0 rustore.ru
@@ -3781,6 +3799,8 @@
 0.0.0.0 shy.elfsight.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 sift-creatives.s3.amazonaws.com
+0.0.0.0 signalfx.com
+0.0.0.0 sign-static.dreamriverclub.com
 0.0.0.0 simple-get.ilyon.net
 0.0.0.0 simplelocalize.io
 0.0.0.0 simpli.fi
@@ -3812,6 +3832,7 @@
 0.0.0.0 sms.webadv.co
 0.0.0.0 snackvideo.com
 0.0.0.0 snapchat.com
+0.0.0.0 snap.com
 0.0.0.0 snapengage.com
 0.0.0.0 snapgirls.date
 0.0.0.0 snapgirls.uno
@@ -4031,6 +4052,7 @@
 0.0.0.0 surveys-static.survicate.com
 0.0.0.0 survey.survicate.com
 0.0.0.0 survicate.com
+0.0.0.0 s-usc1f-nss-2504.firebaseio.com
 0.0.0.0 s-usc1f-nss-2505.firebaseio.com
 0.0.0.0 s.usea01.idio.episerver.net
 0.0.0.0 s-v6exp1-ds.metric.gstatic.com
@@ -4114,6 +4136,8 @@
 0.0.0.0 tencentcs.cn
 0.0.0.0 tencentcs.com
 0.0.0.0 tengame.net
+0.0.0.0 tenjin.com
+0.0.0.0 tenjin.io
 0.0.0.0 tenor.co
 0.0.0.0 tenor.com
 0.0.0.0 tenor.googleapis.com
@@ -4123,6 +4147,8 @@
 0.0.0.0 terabox.com
 0.0.0.0 terbaru.uzone.id
 0.0.0.0 termly.io
+0.0.0.0 terms.aliyun.com
+0.0.0.0 terms.aliyun.com.danuoyi.alicdn.com
 0.0.0.0 terpopuler.uzone.id
 0.0.0.0 teslacoilapps.com
 0.0.0.0 test-bg-td.teddymobile.cn
@@ -4217,6 +4243,8 @@
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track-mixer.ru
 0.0.0.0 track.scooper.news
+0.0.0.0 track.tenjin.com
+0.0.0.0 track.tenjin.io
 0.0.0.0 trackwilly.com
 0.0.0.0 trafsafetrack.com
 0.0.0.0 trailhead.salesforce.com
@@ -4320,6 +4348,7 @@
 0.0.0.0 ur.alipay.com
 0.0.0.0 ureca.samsungapps.com
 0.0.0.0 url-fwax40fx1.com
+0.0.0.0 urmyromance.com
 0.0.0.0 us18.list-manage.com
 0.0.0.0 usa.ime.cdn.cootekservice.com
 0.0.0.0 us.api.fc.mob.com
@@ -4342,6 +4371,7 @@
 0.0.0.0 useroperation.wondershare.com
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 us.tk0x1.com
+0.0.0.0 us.urmyromance.com
 0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 uzone.id
 0.0.0.0 v16.resso.app
@@ -4781,6 +4811,7 @@
 0.0.0.0 www.etsy.com
 0.0.0.0 www.evgnet.com
 0.0.0.0 www.exonhack.com
+0.0.0.0 www.faceplay.cc
 0.0.0.0 www.feedsonbudget.com
 0.0.0.0 www.filmmogzivota.rs
 0.0.0.0 www.financialtrending.com
@@ -4919,11 +4950,13 @@
 0.0.0.0 www.slickstream.com
 0.0.0.0 www.slideshare.net
 0.0.0.0 www.smartsuppchat.com
+0.0.0.0 www.snapchat.com
 0.0.0.0 www.sogou.com
 0.0.0.0 www.sohu.com
 0.0.0.0 www.soundiradio.com
 0.0.0.0 www.spanishcoursesunamuno.com
 0.0.0.0 www.spinaway.com
+0.0.0.0 www.splunk.com
 0.0.0.0 www.stagingapps.xyz
 0.0.0.0 www.stake.com
 0.0.0.0 www.steveziogames.com
@@ -4937,6 +4970,7 @@
 0.0.0.0 www.taxsee.ru
 0.0.0.0 www.technologyadvice.com
 0.0.0.0 www.teddymobile.cn
+0.0.0.0 www.tenjin.com
 0.0.0.0 www.tenorshare.cn
 0.0.0.0 www.tenorshare.com
 0.0.0.0 www.terabox.com
@@ -4958,6 +4992,7 @@
 0.0.0.0 www.ultraviewer.net
 0.0.0.0 www.unipin.com
 0.0.0.0 www.upoint.id
+0.0.0.0 www.urmyromance.com
 0.0.0.0 www.ushareit.com
 0.0.0.0 www.uzone.id
 0.0.0.0 www.vdo.ai
@@ -5004,6 +5039,7 @@
 0.0.0.0 www.zing.vn
 0.0.0.0 www.zuiqiangyingyu.net
 0.0.0.0 wx.qq.com
+0.0.0.0 w-zt.kwaipros.com
 0.0.0.0 x1.i.lencr.org
 0.0.0.0 x8sb.com
 0.0.0.0 x8speeder.com
@@ -5017,12 +5053,24 @@
 0.0.0.0 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 0.0.0.0 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+0.0.0.0 x-apac.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 0.0.0.0 x-apac.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 0.0.0.0 xc3.services.livejournal.com
 0.0.0.0 x-delivery.icu
 0.0.0.0 xdg-1c20f-intl.xd.com
 0.0.0.0 xdg-2fc4a-intl.xd.com
 0.0.0.0 xdg-3da8a-intl.xd.com
+0.0.0.0 x-eu.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
+0.0.0.0 x-eu.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
+0.0.0.0 x-eu.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
+0.0.0.0 x-eu.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
+0.0.0.0 x-eu.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+0.0.0.0 x-eu.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+0.0.0.0 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
+0.0.0.0 x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+0.0.0.0 x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+0.0.0.0 x-eu.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
+0.0.0.0 x-eu.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 0.0.0.0 x.everestop.io
 0.0.0.0 xgapromomanager-pa.googleapis.com
 0.0.0.0 x.glance-cdn.com
