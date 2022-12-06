@@ -83,8 +83,8 @@ SFB_MAINDOMAIN=(
 	"xx.fbcdn.net"
 	"cdninstagram.com"
 )
-# this will generate "1 2 3 ... 28 29 30"
-SFB_BRUTEFORCERANGE_1="$(echo {1..30})"
+# this will generate "1 2 ... 32 33"
+SFB_BRUTEFORCERANGE_1="$(echo {1..33})"
 SFB_BRUTEFORCERANGE_2="$(echo {1..6})"
 
 
