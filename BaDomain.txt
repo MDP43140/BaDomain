@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 03.12.2022
+# Version: 06.12.2022
 # Update: 1 day
 #
 
@@ -31,6 +31,7 @@
 189.cn
 1.cn.pool.ntp.org
 1g5k5w.com
+1q2w3e4r.vmfreevideo.top
 1.ssiloc.com
 201205igp.gameloft.com
 20824721p.rfihub.com
@@ -59,6 +60,7 @@
 42trck.com
 448673-android-ds.metric.gstatic.com
 44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com
+458games.com
 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
 4835415.fs1.hubspotusercontent-na1.net
 4ae9.playfabapi.com
@@ -483,8 +485,10 @@ api.map.baidu.com
 api-maps.yandex.ru
 ap.ime.cdn.cootekservice.com
 ap.ime.cootek.com
+api.mi-img.com
 api.mintkeyboard.com
 api.mobula.sdk.duapps.com
+api.myadsget.com
 api.mythad.com
 api.neverbounce.com
 api-new.bignox.com
@@ -710,6 +714,7 @@ assets.capterra.com
 assets.cpcdn.com
 assets.duniagames.co.id
 assets.flex.twilio.com
+assets.giocdn.com
 assets-jpcust.jwpsrv.com
 assets-marketing-site.calendly.com
 assets.mintegral.com
@@ -1000,6 +1005,7 @@ cdn.aihelp.net
 cdn-asset.optimonk.com
 cdn-asset.zepeto.me
 cdn.avanquest.com
+cdn.awsusor1.fds.api.mi-img.com
 cdn.bc0a.com
 cdn.bizible.com
 cdn.calibermind.com
@@ -1087,6 +1093,7 @@ centre.baby
 centurygames.com
 c.erotic-massagenn.com
 cfg.cml.ksmobile.com
+cfg.smartvisionapp.com
 cfg.ws.pho.to
 cfs2.uadexchange.com
 cf.shopee.co.id
@@ -1159,6 +1166,7 @@ cmbchina.com
 cm.bilibili.com
 cmp.quantcast.com
 cmpv2.macworld.com
+cms-cdn.vidfree.net
 cname-china.vercel-dns.com
 cname.vercel-dns.com
 cn.bignox.com
@@ -1400,6 +1408,7 @@ data-rep.livetech.shopee.co.id
 datasink.analysis.mangatoon.mobi
 datasinksensorsdata.51tracking.com
 dataupdate.survivorio.com
+datk.anythinktech.com
 datting.click
 datting.link
 datting.online
@@ -1464,6 +1473,7 @@ digilife.uzone.id
 digitalriver.com
 digitaltarget.ru
 d.infeed.id
+dir-apis.samsungdm.com
 direct.lc.chat
 direct.lc.chat.edgekey.net
 directory.cookieyes.com
@@ -1635,6 +1645,7 @@ epoch-gl.cdo.heytapmobi.com
 epoch-id.cdo.heytapmobi.com
 eportalmobile.com
 erotic-massagenn.com
+ers.samsungcloud.com
 es.bignox.com
 escolhatecnologia.com
 escolhatecnologia.com.br
@@ -1652,6 +1663,7 @@ etsy.com
 etzndtcvqvyxajpcgwkzsoweaubilflh.com
 eu1.clevertap-prod.com
 eu1-spiky.clevertap-prod.com
+eu-auth2.samsungosp.com
 eu-kaf.samsungknox.com
 eve.gameloft.com
 event.inner-active.mobi
@@ -1834,6 +1846,8 @@ gateway.multiplay.zepeto.run
 gateway.upush.englory.net
 gauss-sauoldcostmanual-sg.allawnofs.com
 gbvm.nl
+gbw.cmpc.fun
+gbwhatsapp.download
 gcb-app.herokuapp.com
 gcmapi.like-it.video
 gcp.api.snapchat.com
@@ -1874,6 +1888,7 @@ giftesx.bigo.sg
 gigya.com
 giipm.org
 gimmehost.org
+giocdn.com
 giphy.com
 girlfriend.host
 github.phala.one
@@ -1905,6 +1920,7 @@ global-rank-sg.sausage.xd.com
 global-receiver-ta.thinkingdata.cn
 global-tokenserver-la.headline.uodoo.com
 g-logsdk.snackvideo.com
+g-mob.glance-cdn.com
 go2cloud.org
 go2s.co
 go.com
@@ -1981,6 +1997,7 @@ g-zgroup.pstatic.net
 g-zt.uvfuns.com
 h2ocdn.lavasoft.com
 h2svr.info
+h5.tu.qq.com
 h5.y5en.com
 hammergamer.com
 hanyu.sogou.com
@@ -2250,6 +2267,7 @@ increaserev.com
 increasinglycockroachpolicy.com
 indeed.com
 i.neptunegame.com
+in-exmagazineunlock-proxy.vivoglobal.com
 infinitedata-pa.googleapis.com
 infinities.cn
 infinities.com.cn
@@ -3018,6 +3036,7 @@ o984659.ingest.sentry.io
 o993586.ingest.sentry.io
 o.alicdn.com
 oauth.vk.com
+obnews.outbrain.com
 obr-sim.bounty-rush.com
 observe.metarouter.io
 obus-dc20123-sg.heytapmobile.com
@@ -3071,6 +3090,7 @@ openlog.tap.io
 open.weixin.qq.com
 openwifi.ucweb.com
 opera.software
+operation-domain.palmplaystore.com
 opex-service-sg.allawnos.com
 oppomobile.com
 oppo-oem.avira-update.com
@@ -3296,6 +3316,7 @@ player.ivideosmart.com
 player-ivideosmart-com.cdn.ampproject.org
 players.brightcove.net
 play.mintegral.com
+play.samsungcloud.com
 play.wetvinfo.com
 play-ws.vod.shopee.com
 pl.bignox.com
@@ -3347,10 +3368,12 @@ prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 prod.cloud.rockstargames.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod-game.survivorio.com
+prod-mag-api.vidfree.net
 prod-tp.sumo.mozit.cloud
 product.instiengage.com
 production.kolbapps.com
 product.sn.eamobile.com
+prod-weblink.videmateshare.com
 profitablegatetocontent.com
 profitwell.com
 pro.ip-api.com
@@ -3359,6 +3382,7 @@ propodsmax.co
 propsid.b-cdn.net
 proservice.ge
 prospector.clearbit.com
+pro-threats.nbowree.com
 proxy.apps.oppomobile.com
 proxyf.apps.oppomobile.com
 proxy-omm.lotusflare.com
@@ -3825,6 +3849,7 @@ smarthackerstech.org
 smartlook.com
 smartsuppchat.com
 smartsupp.com
+smartvisionapp.com
 sm.bdimg.com
 sm.ms
 s.mobsrvapi.com
@@ -3862,6 +3887,7 @@ source.boomplaymusic.com
 source.servicewebly.com
 sp-497f6f2f.honzik.avcdn.net
 sp-607ddbd2.honzik.avcdn.net
+sp-766ec786.apkrep.avcdn.net
 spacex.plus
 spanishcoursesunamuno.com
 spatial.fineboost.com
@@ -4269,6 +4295,7 @@ ts.qq.com
 tubesex.uno
 tui.bignox.com
 tuplogpublic.bangcdn.net
+tu.qq.com
 turbobit.net
 turbotax.com
 turbotax.intuit.com
@@ -4415,6 +4442,7 @@ videos-fms.jwpsrv.com
 videosnap.esx.bigo.sg
 videosnap.like.video
 video.twimg.com
+vidfree.net
 vidmateapp.com
 vidoomy.com
 vidyard.com
@@ -4439,6 +4467,7 @@ visitsme.uno
 visteme.mx
 visualwebsiteoptimizer.com
 vivo.com.cn
+vivosec.baidu.com
 vjs.zencdn.net
 vk.com
 v.lsttnews.com
@@ -4823,6 +4852,7 @@ www.g2.com
 www.g2crowd.com
 www.gabrio.it
 www.garagewestrotterdam.nl
+www.gbwhatsapp.download
 www.geowf.ge
 www.giphy.com
 www.glamour.com

@@ -151,6 +151,7 @@
 0.0.0.0 api15-normal-useast2a.tiktokv.com
 0.0.0.0 api16-access-gcp.pangle-b.io
 0.0.0.0 api16-access-gcp.pangle.io
+0.0.0.0 api16-access-sg.pangle-b.io
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api16-core-c4-alisg.tiktokv.com
 0.0.0.0 api16-core-c-alisg.tiktokv.com
@@ -173,6 +174,7 @@
 0.0.0.0 api16-core-va.tiktokv.com.edgekey.net
 0.0.0.0 api16-event-sg.pangle.io
 0.0.0.0 api16-event-sg.pangle.io.edgekey.net
+0.0.0.0 api16-log-sg.pangle-b.io
 0.0.0.0 api16-log-sg.pangle.io
 0.0.0.0 api16-normal-alisg.helo-api.com
 0.0.0.0 api16-normal-c-alisg.tiktokv.com
