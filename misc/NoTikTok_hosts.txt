@@ -927,6 +927,7 @@
 0.0.0.0 fcdn.us.tiktokv.com
 0.0.0.0 f-charge-fee.snssdk.com
 0.0.0.0 fddfafhadd.temp.p23.tc.cdntip.com
+0.0.0.0 feed-api-sg.capcut.com
 0.0.0.0 feedback-va.byteoversea.com
 0.0.0.0 feelgood-api.tiktok.com
 0.0.0.0 feishu-tos.pstatp.com
@@ -1360,6 +1361,7 @@
 0.0.0.0 lf16-tcs.tiktokcdn.com
 0.0.0.0 lf16-tiktok-common.ibytedos.com
 0.0.0.0 lf16-tiktok-common.ibytedtos.com
+0.0.0.0 lf16-tiktok-common.ttwstatic.com
 0.0.0.0 lf16-tiktok.ibytedtos.com
 0.0.0.0 lf16-tiktok-web.ttwstatic.com
 0.0.0.0 lf16-tos-files.tiktokcdn.com
@@ -1373,6 +1375,7 @@
 0.0.0.0 lf19-geckocdn.bytegecko-i18n.com
 0.0.0.0 lf19-geckocdn-sg.ibytedtos.com
 0.0.0.0 lf19-geckocdn-sg.tiktokcdn.com
+0.0.0.0 lf19-gecko-source.tiktokcdn.com
 0.0.0.0 lf1-amcdn-tos.pstatp.com.wsglb0.com
 0.0.0.0 lf1-cdn-tos.bytegoofy.com
 0.0.0.0 lf1-cdn-tos.bytescm.com

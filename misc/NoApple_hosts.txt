@@ -15,6 +15,7 @@
 0.0.0.0 1-courier.push.apple.com
 0.0.0.0 20-courier.push.apple.com
 0.0.0.0 21-courier.push.apple.com
+0.0.0.0 21.courier-push-apple.com.akadns.net
 0.0.0.0 22-courier.push.apple.com
 0.0.0.0 23-courier.push.apple.com
 0.0.0.0 24-courier.push.apple.com
@@ -329,6 +330,7 @@
 0.0.0.0 pancake.apple.com
 0.0.0.0 pancake.cdn-apple.com.akadns.net
 0.0.0.0 partiality.itunes.apple.com
+0.0.0.0 partiality.itunes-apple.com.akadns.net
 0.0.0.0 profile.gc.apple.com
 0.0.0.0 proxy.safebrowsing.apple
 0.0.0.0 query.ess.apple.com

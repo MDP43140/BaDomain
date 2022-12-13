@@ -927,6 +927,7 @@ fcdnns2.compass.byteoversea.net
 fcdn.us.tiktokv.com
 f-charge-fee.snssdk.com
 fddfafhadd.temp.p23.tc.cdntip.com
+feed-api-sg.capcut.com
 feedback-va.byteoversea.com
 feelgood-api.tiktok.com
 feishu-tos.pstatp.com
@@ -1360,6 +1361,7 @@ lf16-muse-va.ibytedtos.com.edgekey.net
 lf16-tcs.tiktokcdn.com
 lf16-tiktok-common.ibytedos.com
 lf16-tiktok-common.ibytedtos.com
+lf16-tiktok-common.ttwstatic.com
 lf16-tiktok.ibytedtos.com
 lf16-tiktok-web.ttwstatic.com
 lf16-tos-files.tiktokcdn.com
@@ -1373,6 +1375,7 @@ lf19-effectcdn-sg.tiktokcdn.com
 lf19-geckocdn.bytegecko-i18n.com
 lf19-geckocdn-sg.ibytedtos.com
 lf19-geckocdn-sg.tiktokcdn.com
+lf19-gecko-source.tiktokcdn.com
 lf1-amcdn-tos.pstatp.com.wsglb0.com
 lf1-cdn-tos.bytegoofy.com
 lf1-cdn-tos.bytescm.com
