@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 14.12.2022
+# Version: 19.12.2022
 # Update: 1 day
 #
 
@@ -550,6 +550,12 @@ api.sportskeeda.com
 apissug-sf.ucweb.com
 api.staging.livechatinc.com
 api-stream.twitter.com
+api.superbig77.co
+api.superbig77.com
+api.superbig77.net
+api.superbig77.online
+api.superbig77.org
+api.superbig77.xyz
 api.taken.guru
 api.tenor.com
 api.teslacoilapps.com
@@ -732,6 +738,7 @@ assets.duniagames.co.id
 assets.flex.twilio.com
 assets.giocdn.com
 assets-jpcust.jwpsrv.com
+assets.ludokingapi.com
 assets-marketing-site.calendly.com
 assets.mintegral.com
 assets.promediateknologi.com
@@ -841,6 +848,7 @@ b.everestop.io
 bf19405wzd.bf.dynatrace.com
 bf54607cnw.bf.dynatrace.com
 b.hatena.ne.jp
+bhelps.info
 bibblio.org
 bidmachine.io
 bigappboi.com
@@ -1996,6 +2004,7 @@ googleweblight.com
 go-pardot.adcolony.com
 go.redirectingat.com
 gos-api.gos-gsp.io
+gosupportnow.com
 gotube.pro
 go-vip.net
 gpapi.zepeto.io
@@ -2477,6 +2486,7 @@ js.hs-scripts.com
 js.hubspotfeedback.com
 js.intercomcdn.com
 js.media-lab.ai
+json.ludokingapi.com
 js.qualified.com
 js.rfp.fout.jp
 jstrack1.club
@@ -2521,6 +2531,7 @@ klaviyo.com
 klimg.com
 klink.snackvideo.com
 knd32k.com
+knet.cn
 knorex.com
 kokotrokot.com
 kolbapps.com
@@ -2573,6 +2584,7 @@ lbs-ru1.ads.betweendigital.com
 lbs-ru2.ads.betweendigital.com
 lbs-ru3.ads.betweendigital.com
 lbs-ru4.ads.betweendigital.com
+lbstatic.superdominator88.vip
 lbs-zaizai.netease.im
 lc.chat
 l.dfydaily.com
@@ -2675,6 +2687,8 @@ loomi.tv
 loptelink.pro
 lordofthequietbadgers.com
 l.otidapi.com
+lotteryfoapi.superdominator88.vip
+lotteryfos.superdominator88.vip
 lottiefiles.com
 lovejojoy.com
 lovelybabestu.com
@@ -2696,6 +2710,7 @@ mabbox.bytel.fr
 mac.weixin.qq.com
 macworld.go-vip.net
 mademoiselleosaki.com
+mafiacash.co
 magazine-api-gl.heytapmobile.com
 magnite.com
 magzine.transacme.com
@@ -2819,6 +2834,7 @@ mipunet.cn
 mirabelle.uno
 mis.bignox.com
 misc-pili-qos-report.qiniuapi.com
+misc-services.ludokingapi.com
 mix.aff-track.net
 mixerbabki.ru
 mixerparanas.ru
@@ -3348,6 +3364,7 @@ pf.daerisoft.com
 pfmverify.ca
 phala.one
 ph.bignox.com
+phelp.pro
 phone-api.realme.com
 phone.bignox.com
 phonedeviceverification-pa.googleapis.com
@@ -3406,6 +3423,7 @@ play-ws.vod.shopee.com
 pl.bignox.com
 pl.connatix.com
 pl.ea.com
+pls.prd.mz.internal.unity3d.com
 plugin-server.wps.com
 podrbx.best
 pogoda.imgsmail.ru
@@ -3705,6 +3723,7 @@ rtb-apac.rtbserve.io
 rtc.youme.im
 rt.foldlife.net
 rtlog.resso.app
+rtpsuperbig.com
 rtrack.degreematcher.org
 rtsyx.higgsyx.com
 ruangguruhelp.zendesk.com
@@ -4080,6 +4099,7 @@ static.mob.com
 static-mon.yandex.net
 static.neptunegame.com
 static.netpop.app
+static.nukeasset.com
 static.pasangiklan.com
 static.pulse.mail.ru
 statics.creativecdn.com
@@ -4169,6 +4189,12 @@ suggests.go.mail.ru
 sumo.com
 sun.mv
 supapush.net
+superbig77.co
+superbig77.com
+superbig77.net
+superbig77.online
+superbig77.org
+superbig77.xyz
 supercell.helpshift.com
 superpowered.com
 supersonicads.com
@@ -4301,6 +4327,7 @@ t.focus-res.cn
 th.bignox.com
 thedogvisitor.com
 thehotgames.com
+thejobsbee.com
 themarfa.name
 themeimg.heytapimg.com
 theme-magazine-gl-01.heytapimg.com
@@ -4308,6 +4335,7 @@ theme.shalltry.com
 theme.zdassets.com
 themoneytizer.com
 themoviedb.org
+theperfectjobs.com
 thepossssed.xyz
 thesaurus.com
 thespacehackers.com
@@ -4350,6 +4378,7 @@ tmp.cnam3.com
 tms-api.shalltry.com
 tns-counter.ru
 tokens.playmakerservices.com
+tokentax.co
 tongdun.net
 tonrino.info
 toolbox.com
@@ -4471,6 +4500,7 @@ uniconsent.com
 uniid.lol
 union.bignox.com
 unipin.com
+unite.ai
 universehackworld.org
 u.nu
 upapi.net
@@ -4481,6 +4511,7 @@ update.bosbosstatic.com
 update.bosbosupdate.com
 update.bosbosupdate.net
 update.estrongs.com
+update.fouadmods.com
 update.iobit.com
 update.kiwibrowser.com
 update.mysecuritystudio.com
@@ -4936,6 +4967,7 @@ www.aws.iobit.com
 www.baca.co.id
 www.baidu.com
 www.beacons.ai
+www.bhelps.info
 www.bignox.com
 www.bigo.tv
 www.bilibili.com
@@ -5010,7 +5042,9 @@ www.google.cn
 www.google.ru
 www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+www.gosupportnow.com
 www.h2svr.info
+www.haasonline.com
 www.haasscripts.com
 www.hardwarecloseout.com
 www.hastopic.com
@@ -5084,6 +5118,7 @@ www.palmpay.com
 www.pasangiklan.com
 www.pdl.id
 www.pfmverify.ca
+www.phelp.pro
 www.polussuo.com
 www.popcap.com
 www.portals.mobi
@@ -5150,6 +5185,12 @@ www.stagingapps.xyz
 www.stake.com
 www.steveziogames.com
 www.stormcleanerapp.com
+www.superbig77.co
+www.superbig77.com
+www.superbig77.net
+www.superbig77.online
+www.superbig77.org
+www.superbig77.xyz
 www.supremocontrol.com
 www.supremofree.com
 www.taken.guru
@@ -5164,6 +5205,8 @@ www.tenjin.com
 www.tenorshare.cn
 www.tenorshare.com
 www.terabox.com
+www.thejobsbee.com
+www.theperfectjobs.com
 www.thinkingdata.cn
 www.thrifter.com
 www.tinder-hot.xyz
@@ -5182,6 +5225,7 @@ www.uadexchange.com
 www.uc.cn
 www.ultraviewer.net
 www.unipin.com
+www.unite.ai
 www.upoint.id
 www.urmyromance.com
 www.ushareit.com

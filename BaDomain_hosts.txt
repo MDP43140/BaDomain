@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 14.12.2022
+# Version: 19.12.2022
 # Update: 1 day
 #
 
@@ -550,6 +550,12 @@
 0.0.0.0 apissug-sf.ucweb.com
 0.0.0.0 api.staging.livechatinc.com
 0.0.0.0 api-stream.twitter.com
+0.0.0.0 api.superbig77.co
+0.0.0.0 api.superbig77.com
+0.0.0.0 api.superbig77.net
+0.0.0.0 api.superbig77.online
+0.0.0.0 api.superbig77.org
+0.0.0.0 api.superbig77.xyz
 0.0.0.0 api.taken.guru
 0.0.0.0 api.tenor.com
 0.0.0.0 api.teslacoilapps.com
@@ -732,6 +738,7 @@
 0.0.0.0 assets.flex.twilio.com
 0.0.0.0 assets.giocdn.com
 0.0.0.0 assets-jpcust.jwpsrv.com
+0.0.0.0 assets.ludokingapi.com
 0.0.0.0 assets-marketing-site.calendly.com
 0.0.0.0 assets.mintegral.com
 0.0.0.0 assets.promediateknologi.com
@@ -841,6 +848,7 @@
 0.0.0.0 bf19405wzd.bf.dynatrace.com
 0.0.0.0 bf54607cnw.bf.dynatrace.com
 0.0.0.0 b.hatena.ne.jp
+0.0.0.0 bhelps.info
 0.0.0.0 bibblio.org
 0.0.0.0 bidmachine.io
 0.0.0.0 bigappboi.com
@@ -1996,6 +2004,7 @@
 0.0.0.0 go-pardot.adcolony.com
 0.0.0.0 go.redirectingat.com
 0.0.0.0 gos-api.gos-gsp.io
+0.0.0.0 gosupportnow.com
 0.0.0.0 gotube.pro
 0.0.0.0 go-vip.net
 0.0.0.0 gpapi.zepeto.io
@@ -2477,6 +2486,7 @@
 0.0.0.0 js.hubspotfeedback.com
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 js.media-lab.ai
+0.0.0.0 json.ludokingapi.com
 0.0.0.0 js.qualified.com
 0.0.0.0 js.rfp.fout.jp
 0.0.0.0 jstrack1.club
@@ -2521,6 +2531,7 @@
 0.0.0.0 klimg.com
 0.0.0.0 klink.snackvideo.com
 0.0.0.0 knd32k.com
+0.0.0.0 knet.cn
 0.0.0.0 knorex.com
 0.0.0.0 kokotrokot.com
 0.0.0.0 kolbapps.com
@@ -2573,6 +2584,7 @@
 0.0.0.0 lbs-ru2.ads.betweendigital.com
 0.0.0.0 lbs-ru3.ads.betweendigital.com
 0.0.0.0 lbs-ru4.ads.betweendigital.com
+0.0.0.0 lbstatic.superdominator88.vip
 0.0.0.0 lbs-zaizai.netease.im
 0.0.0.0 lc.chat
 0.0.0.0 l.dfydaily.com
@@ -2675,6 +2687,8 @@
 0.0.0.0 loptelink.pro
 0.0.0.0 lordofthequietbadgers.com
 0.0.0.0 l.otidapi.com
+0.0.0.0 lotteryfoapi.superdominator88.vip
+0.0.0.0 lotteryfos.superdominator88.vip
 0.0.0.0 lottiefiles.com
 0.0.0.0 lovejojoy.com
 0.0.0.0 lovelybabestu.com
@@ -2696,6 +2710,7 @@
 0.0.0.0 mac.weixin.qq.com
 0.0.0.0 macworld.go-vip.net
 0.0.0.0 mademoiselleosaki.com
+0.0.0.0 mafiacash.co
 0.0.0.0 magazine-api-gl.heytapmobile.com
 0.0.0.0 magnite.com
 0.0.0.0 magzine.transacme.com
@@ -2819,6 +2834,7 @@
 0.0.0.0 mirabelle.uno
 0.0.0.0 mis.bignox.com
 0.0.0.0 misc-pili-qos-report.qiniuapi.com
+0.0.0.0 misc-services.ludokingapi.com
 0.0.0.0 mix.aff-track.net
 0.0.0.0 mixerbabki.ru
 0.0.0.0 mixerparanas.ru
@@ -3348,6 +3364,7 @@
 0.0.0.0 pfmverify.ca
 0.0.0.0 phala.one
 0.0.0.0 ph.bignox.com
+0.0.0.0 phelp.pro
 0.0.0.0 phone-api.realme.com
 0.0.0.0 phone.bignox.com
 0.0.0.0 phonedeviceverification-pa.googleapis.com
@@ -3406,6 +3423,7 @@
 0.0.0.0 pl.bignox.com
 0.0.0.0 pl.connatix.com
 0.0.0.0 pl.ea.com
+0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 plugin-server.wps.com
 0.0.0.0 podrbx.best
 0.0.0.0 pogoda.imgsmail.ru
@@ -3705,6 +3723,7 @@
 0.0.0.0 rtc.youme.im
 0.0.0.0 rt.foldlife.net
 0.0.0.0 rtlog.resso.app
+0.0.0.0 rtpsuperbig.com
 0.0.0.0 rtrack.degreematcher.org
 0.0.0.0 rtsyx.higgsyx.com
 0.0.0.0 ruangguruhelp.zendesk.com
@@ -4080,6 +4099,7 @@
 0.0.0.0 static-mon.yandex.net
 0.0.0.0 static.neptunegame.com
 0.0.0.0 static.netpop.app
+0.0.0.0 static.nukeasset.com
 0.0.0.0 static.pasangiklan.com
 0.0.0.0 static.pulse.mail.ru
 0.0.0.0 statics.creativecdn.com
@@ -4169,6 +4189,12 @@
 0.0.0.0 sumo.com
 0.0.0.0 sun.mv
 0.0.0.0 supapush.net
+0.0.0.0 superbig77.co
+0.0.0.0 superbig77.com
+0.0.0.0 superbig77.net
+0.0.0.0 superbig77.online
+0.0.0.0 superbig77.org
+0.0.0.0 superbig77.xyz
 0.0.0.0 supercell.helpshift.com
 0.0.0.0 superpowered.com
 0.0.0.0 supersonicads.com
@@ -4301,6 +4327,7 @@
 0.0.0.0 th.bignox.com
 0.0.0.0 thedogvisitor.com
 0.0.0.0 thehotgames.com
+0.0.0.0 thejobsbee.com
 0.0.0.0 themarfa.name
 0.0.0.0 themeimg.heytapimg.com
 0.0.0.0 theme-magazine-gl-01.heytapimg.com
@@ -4308,6 +4335,7 @@
 0.0.0.0 theme.zdassets.com
 0.0.0.0 themoneytizer.com
 0.0.0.0 themoviedb.org
+0.0.0.0 theperfectjobs.com
 0.0.0.0 thepossssed.xyz
 0.0.0.0 thesaurus.com
 0.0.0.0 thespacehackers.com
@@ -4350,6 +4378,7 @@
 0.0.0.0 tms-api.shalltry.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 tokens.playmakerservices.com
+0.0.0.0 tokentax.co
 0.0.0.0 tongdun.net
 0.0.0.0 tonrino.info
 0.0.0.0 toolbox.com
@@ -4471,6 +4500,7 @@
 0.0.0.0 uniid.lol
 0.0.0.0 union.bignox.com
 0.0.0.0 unipin.com
+0.0.0.0 unite.ai
 0.0.0.0 universehackworld.org
 0.0.0.0 u.nu
 0.0.0.0 upapi.net
@@ -4481,6 +4511,7 @@
 0.0.0.0 update.bosbosupdate.com
 0.0.0.0 update.bosbosupdate.net
 0.0.0.0 update.estrongs.com
+0.0.0.0 update.fouadmods.com
 0.0.0.0 update.iobit.com
 0.0.0.0 update.kiwibrowser.com
 0.0.0.0 update.mysecuritystudio.com
@@ -4936,6 +4967,7 @@
 0.0.0.0 www.baca.co.id
 0.0.0.0 www.baidu.com
 0.0.0.0 www.beacons.ai
+0.0.0.0 www.bhelps.info
 0.0.0.0 www.bignox.com
 0.0.0.0 www.bigo.tv
 0.0.0.0 www.bilibili.com
@@ -5010,7 +5042,9 @@
 0.0.0.0 www.google.ru
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+0.0.0.0 www.gosupportnow.com
 0.0.0.0 www.h2svr.info
+0.0.0.0 www.haasonline.com
 0.0.0.0 www.haasscripts.com
 0.0.0.0 www.hardwarecloseout.com
 0.0.0.0 www.hastopic.com
@@ -5084,6 +5118,7 @@
 0.0.0.0 www.pasangiklan.com
 0.0.0.0 www.pdl.id
 0.0.0.0 www.pfmverify.ca
+0.0.0.0 www.phelp.pro
 0.0.0.0 www.polussuo.com
 0.0.0.0 www.popcap.com
 0.0.0.0 www.portals.mobi
@@ -5150,6 +5185,12 @@
 0.0.0.0 www.stake.com
 0.0.0.0 www.steveziogames.com
 0.0.0.0 www.stormcleanerapp.com
+0.0.0.0 www.superbig77.co
+0.0.0.0 www.superbig77.com
+0.0.0.0 www.superbig77.net
+0.0.0.0 www.superbig77.online
+0.0.0.0 www.superbig77.org
+0.0.0.0 www.superbig77.xyz
 0.0.0.0 www.supremocontrol.com
 0.0.0.0 www.supremofree.com
 0.0.0.0 www.taken.guru
@@ -5164,6 +5205,8 @@
 0.0.0.0 www.tenorshare.cn
 0.0.0.0 www.tenorshare.com
 0.0.0.0 www.terabox.com
+0.0.0.0 www.thejobsbee.com
+0.0.0.0 www.theperfectjobs.com
 0.0.0.0 www.thinkingdata.cn
 0.0.0.0 www.thrifter.com
 0.0.0.0 www.tinder-hot.xyz
@@ -5182,6 +5225,7 @@
 0.0.0.0 www.uc.cn
 0.0.0.0 www.ultraviewer.net
 0.0.0.0 www.unipin.com
+0.0.0.0 www.unite.ai
 0.0.0.0 www.upoint.id
 0.0.0.0 www.urmyromance.com
 0.0.0.0 www.ushareit.com

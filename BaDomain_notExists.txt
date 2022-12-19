@@ -293,6 +293,7 @@ galleryjs.io
 game.bignox.com
 gate.hockeyapp.net
 gd.xjke.xyz
+geeksquad2.com
 germs-love.store
 getduckduckgo.com
 get-report.site
@@ -656,8 +657,10 @@ static.baca.co.id
 static.mibi.xiaomi.com
 stat.xiaomi.com
 st.bignox.com
+storage.jquery.services
 stuart.faceapp.ai
 sumo.mozit.cloud
+support.client
 supportclient.cc
 svc-cf.samsungdm.com
 sweet-girls18.com
@@ -678,6 +681,7 @@ testmkt.asus.com
 test.new.api.ad.xiaomi.com
 test.xiaomi.com
 test.zeus.ad.xiaomi.com
+theblomingcareer.com
 thefatherofsalmon.com
 thm.market.intl.miui.com
 thunderxnew.site
@@ -790,6 +794,7 @@ www.globalnews.cloud
 www.helping365.us
 www.intuitcdn.net
 www.iqzgqivb.com
+www.jquery.services
 www.livechat.comwww.livechat.com
 www.mainlytrendy.com
 www.mamsolutions.us

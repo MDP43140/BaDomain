@@ -945,6 +945,7 @@ external.fpku2-1.fna.fbcdn.net
 external.fpku3-1.fna.fbcdn.net
 external.fpku3-2.fna.fbcdn.net
 external.fpku4-1.fna.fbcdn.net
+external.fpky1-1.fna.fbcdn.net
 external.fplm1-1.fna.fbcdn.net
 external.fplm2-1.fna.fbcdn.net
 external.fplm3-1.fna.fbcdn.net
@@ -975,6 +976,10 @@ external.fsin7-1.fna.fbcdn.net
 external.fsjc1-2.fna.fbcdn.net
 external.ftpa1-1.fna.fbcdn.net
 external.fvit1-1.fna.fbcdn.net
+external.fwaw3-1.fna.fbcdn.net
+external.fwaw3-2.fna.fbcdn.net
+external.fwaw7-1.fna.fbcdn.net
+external.fwaw8-1.fna.fbcdn.net
 external-hkg3-1.xx.fbcdn.net
 external-hkt1-2.xx.fbcdn.net
 external-iad3-1.xx.fbcdn.net
@@ -1252,6 +1257,7 @@ instagram.fpku3-1.fna.fbcdn.net
 instagram.fpku3-2.fna.fbcdn.net
 instagram.fpku3-3.fna.fbcdn.net
 instagram.fpku4-1.fna.fbcdn.net
+instagram.fpky1-1.fna.fbcdn.net
 instagram.fplm1-1.fna.fbcdn.net
 instagram.fplm2-1.fna.fbcdn.net
 instagram.fplm3-1.fna.fbcdn.net
@@ -1275,6 +1281,10 @@ instagram.fsin4-1.fna.fbcdn.net
 instagram.fsin6-1.fna.fbcdn.net
 instagram.fsin7-1.fna.fbcdn.net
 instagram.fvns6-1.fna.fbcdn.net
+instagram.fwaw3-1.fna.fbcdn.net
+instagram.fwaw3-2.fna.fbcdn.net
+instagram.fwaw7-1.fna.fbcdn.net
+instagram.fwaw8-1.fna.fbcdn.net
 instagram-shv-01-ams2.fbcdn.net
 instagram-shv-01-ams3.fbcdn.net
 instagram-shv-01-ash5.fbcdn.net
@@ -2151,6 +2161,7 @@ scontent.fpku2-1.fna.fbcdn.net
 scontent.fpku3-1.fna.fbcdn.net
 scontent.fpku3-2.fna.fbcdn.net
 scontent.fpku4-1.fna.fbcdn.net
+scontent.fpky1-1.fna.fbcdn.net
 scontent.fplm1-1.fna.fbcdn.net
 scontent.fplm2-1.fna.fbcdn.net
 scontent.fplm3-1.fna.fbcdn.net
@@ -2226,7 +2237,11 @@ scontent.ftpe7-4.fna.fbcdn.net
 scontent.ftun3-1.fna.fbcdn.net
 scontent.fuln6-1.fna.fbcdn.net
 scontent.fvca1-1.fna.fbcdn.net
+scontent.fwaw3-1.fna.fbcdn.net
+scontent.fwaw3-2.fna.fbcdn.net
 scontent.fwaw5-1.fna.fbcdn.net
+scontent.fwaw7-1.fna.fbcdn.net
+scontent.fwaw8-1.fna.fbcdn.net
 scontent.fwbw1-1.fna.fbcdn.net
 scontent.fybz2-2.fna.fbcdn.net
 scontent.fymy1-2.fna.fbcdn.net
@@ -2278,6 +2293,7 @@ scontent-sof1-1.xx.fbcdn.net
 scontent-tpe1-1.xx.fbcdn.net
 scontent-vie1-1.xx.fbcdn.net
 scontent-vie.xx.fbcdn.net
+scontent-waw1-1.cdninstagram.com
 scontent-waw1-1.xx.fbcdn.net
 scontent-xsp1-1.cdninstagram.com
 scontent-xsp1-1.xx.fbcdn.net
@@ -2311,6 +2327,7 @@ sonar-ams4-1.xx.fbcdn.net
 sonar-arn2-2.xx.fbcdn.net
 sonar-ber1-1.xx.fbcdn.net
 sonar-ccu1-1.xx.fbcdn.net
+sonar-cgk.cdn.whatsapp.net
 sonar.fbsb1-1.fna.fbcdn.net
 sonar.fgua1-1.fna.fbcdn.net
 sonar.fmaa1-1.fna.fbcdn.net
@@ -2324,8 +2341,10 @@ sonar-hel3-1.xx.fbcdn.net
 sonar-hkg4-2.xx.fbcdn.net
 sonar-hkt1-2.xx.fbcdn.net
 sonar-iad.xx.fbcdn.net
+sonar-kul.cdn.whatsapp.net
 sonar-kut2-1.xx.fbcdn.net
 sonar-kut2-2.xx.fbcdn.net
+sonar-kut.cdn.whatsapp.net
 sonar-lcy1-2.xx.fbcdn.net
 sonar-mct1-1.xx.fbcdn.net
 sonar-muc2-1.xx.fbcdn.net
@@ -2333,11 +2352,15 @@ sonar-mxp1-1.xx.fbcdn.net
 sonar-pmo1-1.xx.fbcdn.net
 sonar-pnq1-2.xx.fbcdn.net
 sonar-prg1-1.xx.fbcdn.net
+sonar-sea.cdn.whatsapp.net
+sonar-sin.cdn.whatsapp.net
 sonar-sof1-2.xx.fbcdn.net
 sonar-ssn1-1.xx.fbcdn.net
 sonar-tir2-1.xx.fbcdn.net
 sonar-vie1-1.xx.fbcdn.net
+sonar-waw.cdn.whatsapp.net
 sonar-xsp1-2.xx.fbcdn.net
+sonar-xsp.cdn.whatsapp.net
 sphotos-a.ak.fbcdn.net
 sphotos-a-ams.xx.fbcdn.net
 sphotos-a-atl.xx.fbcdn.net
@@ -2689,7 +2712,12 @@ z-m-scontent.fmex10-1.fna.fbcdn.net
 z-m-scontent.fpku1-1.fna.fbcdn.net
 z-m-scontent.fpku1-2.fna.fbcdn.net
 z-m-scontent.fpku1-3.fna.fbcdn.net
+z-m-scontent.fpky1-1.fna.fbcdn.net
 z-m-scontent-frt.xx.fbcdn.net
+z-m-scontent.fwaw3-1.fna.fbcdn.net
+z-m-scontent.fwaw3-2.fna.fbcdn.net
+z-m-scontent.fwaw7-1.fna.fbcdn.net
+z-m-scontent.fwaw8-1.fna.fbcdn.net
 z-m-scontent-gru.xx.fbcdn.net
 z-m-scontent-hkg.xx.fbcdn.net
 z-m-scontent-hkt1-1.xx.fbcdn.net
