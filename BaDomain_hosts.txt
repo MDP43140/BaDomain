@@ -1,9 +1,11 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.12.2022
+# Version: 24.12.2022
 # Update: 1 day
 #
+#bedeade637ed.event.collector.scopely.io
+#bedeade637ed.register.collector.scopely.io
 
 0.0.0.0 016qfim5my3lh.puscomosca.com
 0.0.0.0 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
@@ -1219,6 +1221,7 @@
 0.0.0.0 cn-e-pic-ws.mangatoon.mobi
 0.0.0.0 c.neptunegame.com
 0.0.0.0 cn.pool.ntp.org
+0.0.0.0 cnr.cn
 0.0.0.0 cn.s.50union.com
 0.0.0.0 cnzz.com
 0.0.0.0 cnzz.com.danuoyi.tbcache.com
@@ -1718,6 +1721,7 @@
 0.0.0.0 eufylife.com
 0.0.0.0 eu-kaf.samsungknox.com
 0.0.0.0 eve.gameloft.com
+0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.inner-active.mobi
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
@@ -3096,6 +3100,7 @@
 0.0.0.0 ns81.domaincontrol.com
 0.0.0.0 ns82.domaincontrol.com
 0.0.0.0 n.sinaimg.cn
+0.0.0.0 ns.photonengine.io
 0.0.0.0 ntp1.aliyun.com
 0.0.0.0 ntp1.uvfuns.com
 0.0.0.0 ntp3.aliyun.com
@@ -3578,6 +3583,7 @@
 0.0.0.0 rakuten.tv
 0.0.0.0 rambler.ru
 0.0.0.0 rambler-sync.rutarget.ru
+0.0.0.0 random-v2.proxyneldns.com
 0.0.0.0 rangextd.com
 0.0.0.0 r.apkpure.net
 0.0.0.0 rarefix.info
@@ -3606,6 +3612,7 @@
 0.0.0.0 refersion.com
 0.0.0.0 refokus.com
 0.0.0.0 register.appsflyersdk.com
+0.0.0.0 register.collector.scopely.io
 0.0.0.0 reign.appmeasurements.com
 0.0.0.0 reklama.mail.ru
 0.0.0.0 relap.info
@@ -4690,6 +4697,7 @@
 0.0.0.0 wd.adcolony.com
 0.0.0.0 weather-server-sg.allawnos.com
 0.0.0.0 web2.17roco.qq.com
+0.0.0.0 web4.profiwh.com
 0.0.0.0 webadv.co
 0.0.0.0 webanalytic.info
 0.0.0.0 webapi-clean.ikeepapps.com
@@ -4992,6 +5000,7 @@
 0.0.0.0 www.ckg.hk
 0.0.0.0 www.cleverpush.com
 0.0.0.0 www.clicken.us
+0.0.0.0 www.cnr.cn
 0.0.0.0 www.codashop.com
 0.0.0.0 www.coinbasesj.vip
 0.0.0.0 www.colegiounamuno.es

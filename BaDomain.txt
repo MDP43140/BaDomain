@@ -1,9 +1,11 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 19.12.2022
+# Version: 24.12.2022
 # Update: 1 day
 #
+#bedeade637ed.event.collector.scopely.io
+#bedeade637ed.register.collector.scopely.io
 
 016qfim5my3lh.puscomosca.com
 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
@@ -1219,6 +1221,7 @@ cn-e-pic-tencent.mangatoon.mobi
 cn-e-pic-ws.mangatoon.mobi
 c.neptunegame.com
 cn.pool.ntp.org
+cnr.cn
 cn.s.50union.com
 cnzz.com
 cnzz.com.danuoyi.tbcache.com
@@ -1718,6 +1721,7 @@ eu-auth2.samsungosp.com
 eufylife.com
 eu-kaf.samsungknox.com
 eve.gameloft.com
+event.collector.scopely.io
 event.inner-active.mobi
 events3.adcolony.com
 events3alt.adcolony.com
@@ -3096,6 +3100,7 @@ ns78.domaincontrol.com
 ns81.domaincontrol.com
 ns82.domaincontrol.com
 n.sinaimg.cn
+ns.photonengine.io
 ntp1.aliyun.com
 ntp1.uvfuns.com
 ntp3.aliyun.com
@@ -3578,6 +3583,7 @@ rakutenmarketing.com
 rakuten.tv
 rambler.ru
 rambler-sync.rutarget.ru
+random-v2.proxyneldns.com
 rangextd.com
 r.apkpure.net
 rarefix.info
@@ -3606,6 +3612,7 @@ referralrock.com
 refersion.com
 refokus.com
 register.appsflyersdk.com
+register.collector.scopely.io
 reign.appmeasurements.com
 reklama.mail.ru
 relap.info
@@ -4690,6 +4697,7 @@ wa.zcnewy.com
 wd.adcolony.com
 weather-server-sg.allawnos.com
 web2.17roco.qq.com
+web4.profiwh.com
 webadv.co
 webanalytic.info
 webapi-clean.ikeepapps.com
@@ -4992,6 +5000,7 @@ www.chandashi.com
 www.ckg.hk
 www.cleverpush.com
 www.clicken.us
+www.cnr.cn
 www.codashop.com
 www.coinbasesj.vip
 www.colegiounamuno.es

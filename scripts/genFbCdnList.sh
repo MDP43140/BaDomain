@@ -100,7 +100,7 @@ for type in $SFB_TYPES;do
 		for domain in $SFB_MAINDOMAIN;do
 			for n1 in $SFB_BRUTEFORCERANGE_1;do
 				for n2 in $SFB_BRUTEFORCERANGE_2;do
-					echo $type$region$n1-$n2.$domain # output example: scontent.fcgk4-4.fna.fbcdn.net
+					echo "${type}${region}${n1}-${n2}.${domain}" # output example: scontent.fcgk4-4.fna.fbcdn.net
 				done
 			done
 		#	echo $type$region.$domain # output example: scontent-cgk.xx.fbcdn.net

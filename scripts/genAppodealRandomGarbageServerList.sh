@@ -5,6 +5,10 @@
 #  Btw, apologies if those domains wasn't actually owned by Appodeal or whatever
 #  (cuz again we dont know who makes/owns these mysterious domains/websites)
 #
+#  UPDATE: so i think i know where this domain is produced: libEncryptorP.so
+#  Its embedded as shared library on some Android games, especially the one
+#  that known to put anti-cheats (in an easy way?)
+#
 
 ## Configuration ##
 #
@@ -36,6 +40,7 @@ APD_KNOWN_DOMAIN=(
 	# Domain below is already checked and not exist
 	# "09de714eabd2c038e7f1aa172b05a42b6a29611d5643cb2a6464b1fe"
 	# "137e82938ec8f951d71b03180c47c2e726cf8857dae8716d8d47613a"
+	# "340fddc6b65a2cb7ebc1d79fd21ce12d60aea51d66e2363bfcc2ca0a"
 	# "50b9cca5b5e0d6448525d89442cbf7643efb5d52f8d8584ab5a4bc32"
 	# "5fcb097b24a36d5711d4315c16ad1b0cb9b3acae90c8d66462893b57"
 	# "6dbdbc38a88a7e6316701566b0e7ddf6ddc28bb1c6365e6ead3d8b52"
@@ -55,8 +60,8 @@ APD_KNOWN_DOMAIN=(
 	# "fc4d74be804f943caa3621b864c54ff0d19c0aca87671ceb51aec5e8"
 );
 
-for sub in $APD_KNOWN_SUBDOMAIN;do
-	for domain in $APD_KNOWN_DOMAIN;do
+for sub in ${APD_KNOWN_SUBDOMAIN[@]};do
+	for domain in ${APD_KNOWN_DOMAIN[@]};do
 		echo $sub.$domain.com # output example: a.479e{..}aa14.com
 	done
 done
