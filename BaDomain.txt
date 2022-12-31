@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 24.12.2022
+# Version: 31.12.2022
 # Update: 1 day
 #
 #bedeade637ed.event.collector.scopely.io
@@ -1358,6 +1358,7 @@ crunchify.com
 crwdcntrl.net
 cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
+cryptozoo.co
 crystal-blocker.com
 cs14.livetex.ru
 cs491.wac.edgecastcdn.net
@@ -1577,6 +1578,7 @@ domain.zongg.top
 do-not-tracker.org
 doodoo.love
 dosgen.monster
+dosya.tc
 dotmetrics.net
 doubleclick.net
 down.anticheatexpert.com
@@ -1886,6 +1888,7 @@ gameportal.casa
 game.qq.com
 games.shopee.co.id
 gametool10.ml
+gamev6.com
 game.weixin.qq.com
 game.zuiqiangyingyu.net
 ga-mobile-api.loklok.tv
@@ -3133,6 +3136,7 @@ oauth.vk.com
 obnews.outbrain.com
 obr-sim.bounty-rush.com
 observe.metarouter.io
+obstremswiev.site
 obus-dc20123-sg.heytapmobile.com
 obus-dc20305-sg.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
@@ -3776,6 +3780,7 @@ s4s.af.outfit7.com
 s5s.af.outfit7.com
 s6.layarkaca21.vip
 s6s.af.outfit7.com
+s7.dosya.tc
 s7s.af.outfit7.com
 s8900.webovernet.com
 s8s.af.outfit7.com
@@ -5017,6 +5022,7 @@ www.degreesnap.com
 www.digiads.co.id
 www.dob5.com
 www.docdoc.com
+www.dosya.tc
 www.duelbits.com
 www.duolaipk.com
 www.ea.com
@@ -5039,6 +5045,7 @@ www.fview.cn
 www.g2.com
 www.g2crowd.com
 www.gabrio.it
+www.gamev6.com
 www.garagewestrotterdam.nl
 www.gbwhatsapp.download
 www.geowf.ge
@@ -5119,6 +5126,7 @@ www.narratorsvoice.com
 www.newsagent.quest
 www.newsforward.quest
 www.noxinfluencer.com
+www.obstremswiev.site
 www.onlinecash1.com
 www.optimumlines.com
 www.ordereffuel.co

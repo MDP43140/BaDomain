@@ -449,6 +449,7 @@ metok.intl.xiaomi.com
 metric.gstatic.com
 mfcewkrob.com
 micloud.xiaomi.net
+microsoftfastnetsupport.world
 microsoftfile.ml
 midasplayer.com
 mi-img.com

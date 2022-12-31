@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 24.12.2022
+# Version: 31.12.2022
 # Update: 1 day
 #
 #bedeade637ed.event.collector.scopely.io
@@ -1358,6 +1358,7 @@
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cryptauthdevicesync.googleapis.com
 0.0.0.0 cryptauthenrollment.googleapis.com
+0.0.0.0 cryptozoo.co
 0.0.0.0 crystal-blocker.com
 0.0.0.0 cs14.livetex.ru
 0.0.0.0 cs491.wac.edgecastcdn.net
@@ -1577,6 +1578,7 @@
 0.0.0.0 do-not-tracker.org
 0.0.0.0 doodoo.love
 0.0.0.0 dosgen.monster
+0.0.0.0 dosya.tc
 0.0.0.0 dotmetrics.net
 0.0.0.0 doubleclick.net
 0.0.0.0 down.anticheatexpert.com
@@ -1886,6 +1888,7 @@
 0.0.0.0 game.qq.com
 0.0.0.0 games.shopee.co.id
 0.0.0.0 gametool10.ml
+0.0.0.0 gamev6.com
 0.0.0.0 game.weixin.qq.com
 0.0.0.0 game.zuiqiangyingyu.net
 0.0.0.0 ga-mobile-api.loklok.tv
@@ -3133,6 +3136,7 @@
 0.0.0.0 obnews.outbrain.com
 0.0.0.0 obr-sim.bounty-rush.com
 0.0.0.0 observe.metarouter.io
+0.0.0.0 obstremswiev.site
 0.0.0.0 obus-dc20123-sg.heytapmobile.com
 0.0.0.0 obus-dc20305-sg.heytapmobile.com
 0.0.0.0 obus-dc2-sg.heytapmobile.com
@@ -3776,6 +3780,7 @@
 0.0.0.0 s5s.af.outfit7.com
 0.0.0.0 s6.layarkaca21.vip
 0.0.0.0 s6s.af.outfit7.com
+0.0.0.0 s7.dosya.tc
 0.0.0.0 s7s.af.outfit7.com
 0.0.0.0 s8900.webovernet.com
 0.0.0.0 s8s.af.outfit7.com
@@ -5017,6 +5022,7 @@
 0.0.0.0 www.digiads.co.id
 0.0.0.0 www.dob5.com
 0.0.0.0 www.docdoc.com
+0.0.0.0 www.dosya.tc
 0.0.0.0 www.duelbits.com
 0.0.0.0 www.duolaipk.com
 0.0.0.0 www.ea.com
@@ -5039,6 +5045,7 @@
 0.0.0.0 www.g2.com
 0.0.0.0 www.g2crowd.com
 0.0.0.0 www.gabrio.it
+0.0.0.0 www.gamev6.com
 0.0.0.0 www.garagewestrotterdam.nl
 0.0.0.0 www.gbwhatsapp.download
 0.0.0.0 www.geowf.ge
@@ -5119,6 +5126,7 @@
 0.0.0.0 www.newsagent.quest
 0.0.0.0 www.newsforward.quest
 0.0.0.0 www.noxinfluencer.com
+0.0.0.0 www.obstremswiev.site
 0.0.0.0 www.onlinecash1.com
 0.0.0.0 www.optimumlines.com
 0.0.0.0 www.ordereffuel.co
