@@ -153,6 +153,7 @@ api16-access-gcp.pangle-b.io
 api16-access-gcp.pangle.io
 api16-access-sg.pangle-b.io
 api16-access-sg.pangle.io
+api16-core-alisg.tiktokv.com
 api16-core-c4-alisg.tiktokv.com
 api16-core-c-alisg.tiktokv.com
 api16-core-c-alisg.tiktokv.com.edgekey.net
@@ -170,6 +171,7 @@ api16-core-ipv6.sgsnssdk.com
 api16-core-n-alisg.tiktokv.com
 api16-core-n-alisg.tiktokv.com.edgekey.net
 api16-core.tiktokv.com
+api16-core-useast2a.tiktokv.com
 api16-core-va.tiktokv.com
 api16-core-va.tiktokv.com.edgekey.net
 api16-event-sg.pangle.io
@@ -200,12 +202,16 @@ api16-normal-v6.tiktokv.com.edgekey.net
 api16.tiktokv.com
 api16-va.tiktokv.com
 api16-va.tiktokv.com.edgekey.net
+api17-core-alisg.tiktokv.com
+api17-core-useast2a.tiktokv.com
+api19-core-alisg.tiktokv.com
 api19-core-c6-alisg.tiktokv.com
 api19-core-c-alisg.tiktokv.com
 api19-core-c-useast1a.musical.ly
 api19-core-c-useast1a.tiktokv.com
 api19-core-c-useast2a.musical.ly
 api19-core-c-useast2a.tiktokv.com
+api19-core-useast2a.tiktokv.com
 api19-core-va.tiktokv.com
 api19-normal-c-alisg.tiktokv.com
 api19-normal-c-useast1a.musical.ly

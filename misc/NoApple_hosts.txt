@@ -348,6 +348,7 @@
 0.0.0.0 stocks-sparkline.apple.com
 0.0.0.0 su.itunes.apple.com
 0.0.0.0 time.apple.com
+0.0.0.0 time.euro.apple.com
 0.0.0.0 token.safebrowsing.apple
 0.0.0.0 updates.cdn-apple.com
 0.0.0.0 updates.cdn-apple.com.akadns.net

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 31.12.2022
+# Version: 04.01.2023
 # Update: 1 day
 #
 #bedeade637ed.event.collector.scopely.io
@@ -112,6 +112,7 @@
 a01.uadexchange.com
 a02.uadexchange.com
 a03.uadexchange.com
+a.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
 a1091.dscw154.akamai.net
 a1377.w7.akamai.net
 a169.w7.akamai.net
@@ -259,6 +260,7 @@ a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
 ae9b110-dnsotls-ds.metric.gstatic.com
 aegis.qq.com
 a.everestop.io
+a.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 affilight.com
 affilight.network
 affinity.com
@@ -472,6 +474,7 @@ api-id.play.heytapmobile.com
 api-id.store.heytapmobi.com
 api-id.theme.heytapmobile.com
 api.igofun.mobi
+api-in-orc.v-mate.mobi
 api.instabridge.com
 api.intellimize.co
 api.ipdata.co
@@ -748,6 +751,7 @@ assets-share.dspunion.com
 assets.tower.sybo.net
 assets.ubembed.com
 assets.webmoney.ru
+assistant-dra.op.dbankcloud.cn
 astivysauran.com
 astra9dlya10.com
 astratech.pro
@@ -1552,6 +1556,7 @@ dmg.digitaltarget.ru
 dm.samsungdive.com
 dms.eyewind.cn
 dn.im-gb.com
+dnkeeper.platform.dbankcloud.cn
 dns11.quad9.net
 dns9.hichina.com
 dns.msftncsi.com
@@ -1637,6 +1642,7 @@ e6987.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
 e.alipay.com
+eap-log-sg.allawnos.com
 easemob.com
 easytomessage.com
 easyworldbusiness.com
@@ -1689,6 +1695,7 @@ encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 endpoint.mms.shopee.co.id
 english.sogou.com
+engpicka.app.link
 ensighten.com
 en.yeahmobi.com
 epcfg.fineboost.com
@@ -1804,6 +1811,7 @@ flag.bigo.sg
 flashtalking.com
 flbk2.izooto.com
 flbk.izooto.com
+flirtingtest-eng.picka.app
 flix.bar
 fluidplayer.com
 fluxmud.quest
@@ -2041,6 +2049,7 @@ gslb.sgw.shopeemobile.com
 gslb.shalltry.com
 gsmlog.cscmobicorp.com
 gstaticadssl.l.google.com
+gtglobal.intl.miui.com
 gtimg.cn
 gtq3.sct.sc-prod.net
 gtq6.sct.sc-prod.net
@@ -2151,6 +2160,7 @@ httpdns.ocloud.oppomobile.com
 httpdns-push.heytapmobile.com
 httpdns.y5en.com
 httpdns.yunxindns.com
+http-inputs-notion.splunkcloud.com
 https-api.bigolive.tv
 https-api.like.video
 huatuo.qq.com
@@ -2914,6 +2924,7 @@ mta-6.mailing.educba.com
 mta-7.mailing.educba.com
 mta-8.mailing.educba.com
 mta-9.mailing.educba.com
+mtg-h5.rayjump.com
 m.toutiaocdn.cn
 m.toutiaocdn.com
 m.toutiao.com
@@ -3413,6 +3424,7 @@ pkh7.my.id
 pkh8.my.id
 pl17772840.profitablegatetocontent.com
 placements.tapjoy.com
+plainbagel.notion.site
 plassets.ws.pho.to
 plat-api.bignox.com
 platform-lookaside.fbsbx.com
@@ -3832,6 +3844,7 @@ sdk.privacy-center.org
 sdk.pushmessage.samsung.com
 sdks.am-static.com
 sdks.automizely-analytics.com
+sdkserver-dra.op.dbankcloud.cn
 sdksp.wetvinfo.com
 sdk.twilio.com
 sdk.vskit.tv
@@ -3889,6 +3902,7 @@ serverhub.ru
 service.carlcare.com
 service.force.com
 service.pokigame.io
+services.ludokingapi.com
 services.prod.ims.adobejanus.com
 settings.kiwibrowser.com
 settings.picsart.com
@@ -4039,6 +4053,7 @@ spidersense.bendingspoons.com
 spinaway.com
 s.pinimg.com
 splash.unity.cn
+splunkcloud.com
 sportskeeda.com
 sports.qq.com
 sprtsecureassets.akamaized.net
@@ -4066,6 +4081,7 @@ ssp-3-9f58.trnox.com
 sspapi-prd.samsungrs.com
 ssp.wp.pl
 s.srvsynd.com
+sss.pk-live.cn
 s.swiftypecdn.com
 st001004gj-apm.instabug.com
 st001004gj.instabug.com
@@ -5297,6 +5313,7 @@ x1.i.lencr.org
 x8sb.com
 x8speeder.com
 xad.com
+x-apac.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
 x-apac.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 x-apac.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
 x-apac.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
@@ -5308,11 +5325,13 @@ x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 x-apac.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 x-apac.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
+x-apac.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 xc3.services.livejournal.com
 x-delivery.icu
 xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com
 xdg-3da8a-intl.xd.com
+x-eu.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
 x-eu.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 x-eu.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
 x-eu.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
@@ -5324,6 +5343,7 @@ x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 x-eu.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 x-eu.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
+x-eu.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 x.everestop.io
 xgapromomanager-pa.googleapis.com
 x.glance-cdn.com

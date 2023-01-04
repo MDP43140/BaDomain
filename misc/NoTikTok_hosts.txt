@@ -153,6 +153,7 @@
 0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle-b.io
 0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 api16-core-alisg.tiktokv.com
 0.0.0.0 api16-core-c4-alisg.tiktokv.com
 0.0.0.0 api16-core-c-alisg.tiktokv.com
 0.0.0.0 api16-core-c-alisg.tiktokv.com.edgekey.net
@@ -170,6 +171,7 @@
 0.0.0.0 api16-core-n-alisg.tiktokv.com
 0.0.0.0 api16-core-n-alisg.tiktokv.com.edgekey.net
 0.0.0.0 api16-core.tiktokv.com
+0.0.0.0 api16-core-useast2a.tiktokv.com
 0.0.0.0 api16-core-va.tiktokv.com
 0.0.0.0 api16-core-va.tiktokv.com.edgekey.net
 0.0.0.0 api16-event-sg.pangle.io
@@ -200,12 +202,16 @@
 0.0.0.0 api16.tiktokv.com
 0.0.0.0 api16-va.tiktokv.com
 0.0.0.0 api16-va.tiktokv.com.edgekey.net
+0.0.0.0 api17-core-alisg.tiktokv.com
+0.0.0.0 api17-core-useast2a.tiktokv.com
+0.0.0.0 api19-core-alisg.tiktokv.com
 0.0.0.0 api19-core-c6-alisg.tiktokv.com
 0.0.0.0 api19-core-c-alisg.tiktokv.com
 0.0.0.0 api19-core-c-useast1a.musical.ly
 0.0.0.0 api19-core-c-useast1a.tiktokv.com
 0.0.0.0 api19-core-c-useast2a.musical.ly
 0.0.0.0 api19-core-c-useast2a.tiktokv.com
+0.0.0.0 api19-core-useast2a.tiktokv.com
 0.0.0.0 api19-core-va.tiktokv.com
 0.0.0.0 api19-normal-c-alisg.tiktokv.com
 0.0.0.0 api19-normal-c-useast1a.musical.ly

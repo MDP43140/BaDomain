@@ -347,6 +347,7 @@ stocks-edge.news.apple-dns.net
 stocks-sparkline.apple.com
 su.itunes.apple.com
 time.apple.com
+time.euro.apple.com
 token.safebrowsing.apple
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
