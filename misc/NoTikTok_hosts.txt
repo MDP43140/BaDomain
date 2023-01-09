@@ -984,6 +984,7 @@
 0.0.0.0 gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
 0.0.0.0 gecko16-normal-useast2a.tiktokv.com
 0.0.0.0 gecko22-normal-useast2a.tiktokv.com
+0.0.0.0 gecko31-normal-useast2a.tiktokv.com
 0.0.0.0 gecko-cold.snssdk.com
 0.0.0.0 gecko-hl.snssdk.com
 0.0.0.0 gecko-hl.snssdk.com.w.kunluncan.com
@@ -3341,6 +3342,7 @@
 0.0.0.0 v16.byteoversea.com
 0.0.0.0 v16.byteoversea.com.edgesuite.net
 0.0.0.0 v16-byteoversea.muscdn.com
+0.0.0.0 v16-cla.tiktokcdn.com
 0.0.0.0 v16-common.muscdn.com
 0.0.0.0 v16-common.tiktokcdn.com
 0.0.0.0 v16-default.byteoversea.com
