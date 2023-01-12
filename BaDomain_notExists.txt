@@ -309,6 +309,7 @@ global.preview.app.market.pt.xiaomi.com
 gmnovietnam.vn
 go2speed.org
 go-mpulse.net
+goober.net
 googleclubstore.com
 googletagservices.com
 gov.cn
@@ -384,6 +385,7 @@ intercomassets.com
 intuitcdn.net
 ios.bignox.com
 i.otu.foreign.oppomobile.com
+ipfs.clucoin.com
 ipredictive.com
 ipv4.koula.testdebit.info
 iqzgqivb.com
@@ -577,6 +579,7 @@ qfyf1toi.com
 qhimg.com
 qiniuapi.com
 qms.quicinc.com
+qrcode.studio
 quantserve.com
 quickbooktechnicalsupport.org
 racgen.monster
