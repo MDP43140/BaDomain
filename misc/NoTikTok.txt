@@ -1290,9 +1290,17 @@ jinzhan.snssdk.com
 j.l.bytedns.net
 jmj.toutiao.com
 job.toutiao.com
+jsb15-normal-alisg.tiktokv.com
+jsb15-normal-useast2a.tiktokv.com
+jsb16-normal-alisg.tiktokv.com
 jsb16-normal-c-useast2a.tiktokv.com
 jsb16-normal-useast2a.tiktokv.com
+jsb19-normal-alisg.tiktokv.com
+jsb19-normal-useast2a.tiktokv.com
+jsb22-normal-alisg.tiktokv.com
 jsb22-normal-useast2a.tiktokv.com
+jsb31-normal-alisg.tiktokv.com
+jsb31-normal-useast2a.tiktokv.com
 jsb-hl.snssdk.com
 jsb-lf.snssdk.com
 jsb-lq.snssdk.com

@@ -1290,9 +1290,17 @@
 0.0.0.0 j.l.bytedns.net
 0.0.0.0 jmj.toutiao.com
 0.0.0.0 job.toutiao.com
+0.0.0.0 jsb15-normal-alisg.tiktokv.com
+0.0.0.0 jsb15-normal-useast2a.tiktokv.com
+0.0.0.0 jsb16-normal-alisg.tiktokv.com
 0.0.0.0 jsb16-normal-c-useast2a.tiktokv.com
 0.0.0.0 jsb16-normal-useast2a.tiktokv.com
+0.0.0.0 jsb19-normal-alisg.tiktokv.com
+0.0.0.0 jsb19-normal-useast2a.tiktokv.com
+0.0.0.0 jsb22-normal-alisg.tiktokv.com
 0.0.0.0 jsb22-normal-useast2a.tiktokv.com
+0.0.0.0 jsb31-normal-alisg.tiktokv.com
+0.0.0.0 jsb31-normal-useast2a.tiktokv.com
 0.0.0.0 jsb-hl.snssdk.com
 0.0.0.0 jsb-lf.snssdk.com
 0.0.0.0 jsb-lq.snssdk.com

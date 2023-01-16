@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 13.01.2023
+# Version: 16.01.2023
 # Update: 1 day
 #
 #bedeade637ed.event.collector.scopely.io
@@ -32,6 +32,7 @@
 18000.me
 18183.com
 189.cn
+1clickvpn.net
 1.cn.pool.ntp.org
 1g5k5w.com
 1q2w3e4r.vmfreevideo.top
@@ -332,6 +333,7 @@ amp.analytics-debugger.com
 ampcid.google.com
 amplitude.com
 am-static.com
+amung.us
 analytic.detik.com
 analytics.163.com
 analytics.churnzero.net
@@ -403,6 +405,7 @@ api15.resso.app
 api16-normal-alisg.helo-api.com
 api19.resso.app
 api1.boomplaymusic.com
+api.1clickvpn.net
 api21.resso.app
 api22-normal-alisg.helo-api.com
 api22-normal-quic-alisg.tmtreader.com
@@ -503,6 +506,7 @@ api.iq.com
 api.isharingapp.com
 api.jetengine.be
 api.jetgadget.me
+api.jetgadget.xyz
 api.joinbudapp.com
 api-js-log.trustarc.com
 api.kastking.top
@@ -552,6 +556,7 @@ api.pro.kikakeyboard.com
 api.pubnative.net
 api.pushycat.net
 api.qiscus.com
+api.qrserver.com
 api.renren.com
 api.renren.fan
 api.resso.app
@@ -733,6 +738,7 @@ asia-stp.vivoglobal.com
 asia-st-romsp.vivoglobal.com
 asia-st-sl.vivoglobal.com
 asia-st-sysupgrade.vivoglobal.com
+asia-subscribe.vivoglobal.com
 asia-sysupgrade-api.vivoglobal.com
 asia-theme-api.vivoglobal.com
 asia-third-appstore.vivoglobal.com
@@ -761,6 +767,7 @@ assets9.lottiefiles.com
 assets.adobedtm.com
 assets.afirstsoft.com
 assets.alicdn.com
+assets.amung.us
 assets.applovin.com
 assets.capterra.com
 assets.cpcdn.com
@@ -989,6 +996,7 @@ cahoots.com
 calconic.com
 calibermind.com
 camp.azgames.live
+canvaz.scdn.co
 c-api-bit.shopeemobile.com
 capi.connatix.com
 c-api.gos-gsp.io
@@ -1571,6 +1579,7 @@ diffuser-cdn.app-us1.com
 digiads.co.id
 digiads.id
 digilife.uzone.id
+digimarc.com
 digitalriver.com
 digitaltarget.ru
 d.infeed.id
@@ -1688,6 +1697,7 @@ e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
 e.alipay.com
 eap-log-sg.allawnos.com
+earthvpn.app
 easemob.com
 easytomessage.com
 easyworldbusiness.com
@@ -1727,6 +1737,7 @@ eloism.net
 email.manutd.com
 embed-cdn.com
 embed-fastly.wistia.com
+embed.lpcontent.net
 embed.tawk.to
 embedwistia-a.akamaihd.net
 e.metarouter.io
@@ -1851,6 +1862,7 @@ filehostpro.xyz
 filelink.ru
 files.catbox.moe
 files.elfsight.com
+files.smartsuppcdn.com
 files.webmoney.ru
 file.update.miui.com
 filmmogzivota.rs
@@ -2593,6 +2605,7 @@ kidozplayer.com
 kids.weixin.qq.com
 killerbeanforever.com
 kinesis.ap-south-1.amazonaws.com
+king-candycrush-prod.secure2.footprint.net
 king.com
 kinja.com
 kinja-com.videoplayerhub.com
@@ -2663,6 +2676,8 @@ lbs-zaizai.netease.im
 lc.chat
 l.dfydaily.com
 leaderboard.api.glance.inmobi.com
+leadpages.io
+leadpages.net
 leatonm.net
 leawo.org
 lencr.org
@@ -2731,6 +2746,7 @@ location.apps.oppomobile.com
 lockersatelic.cam
 loc.map.baidu.com
 loc.samsungdive.com
+log.48play.com
 log-api.mintkeyboard.com
 logging.baca.co.id
 log.goodnovel.com
@@ -2741,6 +2757,7 @@ login.tim.qq.com
 login.wmtransfer.com
 log.kzvepo.com
 logo.clearbit.com
+logodix.com
 logonext.tv.kuyun.com
 logos.kiwibrowser.com
 log-pub-hk.aoshitang.com
@@ -2770,6 +2787,7 @@ lovelybabestu.com
 loveme.uno
 lr-ingest.io
 l-shrcnt.livejournal.net
+lt.1clickvpn.net
 lulusoft.com
 lunalabs.io
 l-userpic.livejournal.com
@@ -2788,6 +2806,7 @@ macworld.go-vip.net
 mademoiselleosaki.com
 mafiacash.co
 magazine-api-gl.heytapmobile.com
+magneto.api.halodoc.com
 magnite.com
 magzine.transacme.com
 mail.aparthotelmx.ge
@@ -2815,6 +2834,7 @@ mangatoon.akamaized.net
 manifest.tower.sybo.net
 mapi.langitmusik.co.id
 marchex.io
+marketing.halodoc.com
 marketinguiproduction.gatsbyjs.io
 marketo.com
 marketo.net
@@ -2868,6 +2888,7 @@ media.neliti.com
 media.net
 media.tenor.co
 media.tenor.com
+mediation-instantiation.prd.mz.internal.unity3d.com
 mediation-services.pubapp.network
 mediavine.com
 mediavoice.com
@@ -3093,6 +3114,7 @@ noss.litatom.com
 notif.quizizz.com
 notix.io
 novac.gameloft.com
+novel-recommend.wps.com
 now.gg
 noxagile.duapp.com
 noxgroup.com
@@ -3217,6 +3239,7 @@ obus-dc20305-sg.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
 obus-sg.dc.heytapmobile.com
+ocloud-httpdns-sg.heytapmobile.com
 ocsp2.g.aaplimg.com
 ocw.messagebird.com
 oemapi.kika-backend.com
@@ -3242,6 +3265,7 @@ omlet.me
 omnisnippet1.com
 omnithrottle.com
 oneclient.sfx.ms
+one.confbesttop.com
 one.cryptonomiconf.com
 one.progmxs.com
 onerunner.online
@@ -3444,6 +3468,7 @@ pepepush.net
 perf-events.cloud.unity3d.com
 perf.hsforms.com
 permits.wps.com
+persona-etl.wps.com
 persona.franchise.minecraft-services.net
 persona.hotstar.com
 personalization.vidio.com
@@ -3479,6 +3504,7 @@ pinimg.com
 pinning-02.secb2b.com
 pinterest.gw-dv.net
 pinyin.sogou.com
+pi.pardot.com
 pipedream.wistia.com
 pippio.com
 pixelfed-prod.nyc3.digitaloceanspaces.com
@@ -3645,6 +3671,7 @@ qcloudimg.tencentcs.com
 qidian.qq.com
 qotu.bar
 qq.com
+qrserver.com
 qrstud.io
 qti.avanquest.com
 quad-air.com
@@ -3764,6 +3791,7 @@ reveal.clearbit.com
 revolvermaps.com
 rewards-cards.org
 rewardsgiantca.com
+reytesla.com
 rhaxpy.com
 richapp1.com
 r-id.ls.glanceapis.com
@@ -4208,6 +4236,7 @@ static.intercomassets.com
 static.jpallnight.com
 static.jungroup.com
 static.klaviyo.com
+static.leadpages.net
 static.like-it.video
 static.mailerlite.com
 static.meiqia.com
@@ -4548,6 +4577,7 @@ trailblazer.me
 trailhead.salesforce.com
 transacme.com
 translations.platform.pulselive.com
+translations.smartsuppcdn.com
 transsion.com
 transsnet.com
 travel.rakuten.com
@@ -4886,12 +4916,14 @@ whereres.com
 whippedfreezerbegun.com
 whiteclawreport.com
 whoami.akamai.net
+whos.amung.us
 whx66.veve.com
 widget.intercom.io
 widget.kominfo.go.id
 widget.kompas.com
 widget.kumparan.com
 widget-mediator.zopim.com
+widgets.amung.us
 widgets.automizely.com
 widgets.outbrain.com
 widgets.pinterest.com
@@ -4984,6 +5016,7 @@ www17.nathanaeldan.pro
 www.18000.me
 www18.nathanaeldan.pro
 www19.nathanaeldan.pro
+www.1clickvpn.net
 www1.nathanaeldan.pro
 www20.nathanaeldan.pro
 www21.nathanaeldan.pro
@@ -5156,6 +5189,7 @@ www.datamation.com
 www.decisionnowlive.com
 www.degreesnap.com
 www.digiads.co.id
+www.digimarc.com
 www.dob5.com
 www.docdoc.com
 www.dosya.tc
@@ -5170,6 +5204,7 @@ www.etsy.com
 www.eufylife.com
 www.evgnet.com
 www.exonhack.com
+www.extremetracking.com
 www.faceplay.cc
 www.feedsonbudget.com
 www.filmmogzivota.rs
@@ -5296,6 +5331,7 @@ www.refokus.com
 www.requesteasy.com
 www.res-x.com
 www.rewards-cards.org
+www.reytesla.com
 www.rhino-news.com
 www.richapp1.com
 www.robinhand.vip
@@ -5329,6 +5365,7 @@ www.sky-quad.com
 www.skyquaddrone.com
 www.slickstream.com
 www.slideshare.net
+www.smartsuppcdn.com
 www.smartsuppchat.com
 www.smtjs-06.com
 www.snapchat.com

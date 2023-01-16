@@ -1058,6 +1058,7 @@ hu-hu.facebook.com
 hunu.m.facebook.com
 id-id.facebook.com
 iglite-z.facebook.com
+iglite-z.instagram.com
 iictt.m.facebook.com
 i.instagram.com
 instagram.c10r.facebook.com
@@ -3093,6 +3094,7 @@ z-m-fbcdn-shv-01-frt3.fbcdn.net
 z-m-gateway.facebook.com
 z-m-graph.facebook.com
 z-m-lookaside.facebook.com
+z-m-rupload.facebook.com
 z-m-scontent-ams.xx.fbcdn.net
 z-m-scontent-amt.xx.fbcdn.net
 z-m-scontent-arn.xx.fbcdn.net

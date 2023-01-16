@@ -1059,6 +1059,7 @@
 0.0.0.0 hunu.m.facebook.com
 0.0.0.0 id-id.facebook.com
 0.0.0.0 iglite-z.facebook.com
+0.0.0.0 iglite-z.instagram.com
 0.0.0.0 iictt.m.facebook.com
 0.0.0.0 i.instagram.com
 0.0.0.0 instagram.c10r.facebook.com
@@ -3103,6 +3104,7 @@
 0.0.0.0 z-m-gateway.facebook.com
 0.0.0.0 z-m-graph.facebook.com
 0.0.0.0 z-m-lookaside.facebook.com
+0.0.0.0 z-m-rupload.facebook.com
 0.0.0.0 z-m-scontent-ams.xx.fbcdn.net
 0.0.0.0 z-m-scontent-amt.xx.fbcdn.net
 0.0.0.0 z-m-scontent-arn.xx.fbcdn.net

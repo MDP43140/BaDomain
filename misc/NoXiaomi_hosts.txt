@@ -159,6 +159,7 @@
 0.0.0.0 in.find.api.micloud.xiaomi.net
 0.0.0.0 in.tv.global.mi.com
 0.0.0.0 iosdl.game.xiaomi.com
+0.0.0.0 iot.mi.com
 0.0.0.0 i.xiaomi.com
 0.0.0.0 jellyfish.pandora.xiaomi.com
 0.0.0.0 jkt-milink.market.xiaomi.com
@@ -213,6 +214,7 @@
 0.0.0.0 secode2.hd.xiaomi.com
 0.0.0.0 sfsapi.micloud.xiaomi.net
 0.0.0.0 sg-idm.api.io.mi.com
+0.0.0.0 sg.idm.iot.mi.com
 0.0.0.0 sgpac.account.xiaomi.com
 0.0.0.0 sg-urc.io.mi.com
 0.0.0.0 shoes.app-xae.xiaomi.com
