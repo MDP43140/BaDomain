@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 16.01.2023
+# Version: 21.01.2023
 # Update: 1 day
 #
 #bedeade637ed.event.collector.scopely.io
@@ -73,6 +73,7 @@
 4g-net.top
 4gnet.top
 4mads.com
+4sync.com
 5140.deeginews.com
 51.appmeasurements.com
 51.la
@@ -85,6 +86,7 @@
 5849f41c6798d3499f55c335df49cde9.safeframe.googlesyndication.com
 5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 5b0988e595225.cdn.sohucs.com
+5f6504081150c3e10955-76c53c509b81e18d2fa06f2fcee90ade.r26.cf2.rackcdn.com
 5hjdbfjfd5.monster
 5kapai.com
 5yme8j.xxobs5.com
@@ -421,6 +423,7 @@ api3.boomplaymusic.com
 api.3dsintegrator.com
 api40-normal-alisg.helo-api.com
 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
+api.4sync.com
 api.9apps.com
 api-ad-adapter-sg.wps.com
 api-ad-adapter.wps.com
@@ -684,6 +687,7 @@ ap-southeast-1.alidns.com
 aptoide.com
 ap-usage.ime.cootek.com
 ap.y5en.com
+ar.4sync.com
 ar.bignox.com
 arcade.software
 arcai.com
@@ -796,6 +800,9 @@ attitude.applinzi.com
 atu-server.herokuapp.com
 auction-banner.unityads.unity3d.com
 auction.unityads.unity3d.com
+audacitey.org
+audaecity.org
+audaicity.org
 audid-api-sg.taobao.com
 audience.contextads.live
 auditrecording-pa.googleapis.com
@@ -836,6 +843,8 @@ axiata-lk-43c53a330e9-he.fortumo.io
 az.appstore.vivo.com.cn
 b1.nel.goog
 b2.mail.ru
+b6s-api.snow.me
+b6s-static.snow.me
 babyzee.uno
 baca.co.id
 backjawtanoa.com
@@ -879,6 +888,7 @@ bed.fyi
 beeline.ru
 begun-sync.rutarget.ru
 beian.miit.gov.cn
+belnderr3d.org
 bendingspoonsapps.com
 bendingspoons.com
 besmeargleor.com
@@ -914,6 +924,7 @@ bizible.com
 bizscene.palmplaystore.com
 black.riseup.net
 blackseas.ge
+blender-download.com
 blockmeter.unblockia.com
 blockpage.xl.co.id
 block.uzone.id
@@ -940,6 +951,7 @@ bootstrap.smartsuppchat.com
 botsrv2.com
 bounconser.cn
 box5757.temp.domains
+br.4sync.com
 brainly.app.link
 braintreegateway.com
 branch.io
@@ -1245,6 +1257,7 @@ cloudi-in.browser.oppomobile.com
 cloudinary.com
 cloudi-sg.browser.heytapmobile.com
 cloudi-sg.browser.oppomobile.com
+cloud.litatom.com
 cloudsaze.com
 cloud.screenconnect.com
 cloud.tencent.com
@@ -1356,6 +1369,7 @@ constellix.com
 content-fgw.zepeto.io
 contentful.com
 contentsblock.samqaicongen.com
+content-snow-api.snow.me
 content.webengage.com
 contextual.media.net
 contextweb.com
@@ -1378,6 +1392,7 @@ corp.sogou.com
 cos.ap-shanghai.myqcloud.com
 counter.top.ge
 counter.yadro.ru
+countly2.feelingtouch.com
 country-blocker.zend-apps.com
 cove-cdn.ams3.cdn.digitaloceanspaces.com
 cove.chat
@@ -1536,6 +1551,7 @@ dc.kika-backend.com
 dcmdaa.y5en.com
 dcmdae.y5en.com
 dc.y5en.com
+de.4sync.com
 dealer.spotify.com
 deathwing.me
 de.bignox.com
@@ -1744,6 +1760,7 @@ e.metarouter.io
 empower-api.palmplaystore.com
 empru.online
 emxdgt.com
+en.4sync.com
 en.bignox.com
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
@@ -1766,6 +1783,7 @@ epoch-id.cdo.heytapmobi.com
 eportalmobile.com
 erotic-massagenn.com
 ers.samsungcloud.com
+es.4sync.com
 es.bignox.com
 escolhatecnologia.com
 escolhatecnologia.com.br
@@ -1826,6 +1844,7 @@ ezoic.net
 ezojs.com
 f001.backblazeb2.com
 f2ecdn.com
+fa.4sync.com
 factors.sofire.baidu.com
 fafa.bar
 fallstring.website
@@ -1905,6 +1924,7 @@ foxpush.net
 fpcs-prod-wf.centurygames.com
 fpstool.com
 f.push.oppomobile.com
+fr.4sync.com
 fr.bignox.com
 frd.shopee.co.id
 free-burning-software.com
@@ -1991,6 +2011,7 @@ gcsu.ucweb.com
 gdanstum.net
 gdfp.kwai-pro.com
 gdl.bigo.sg
+gdpr.adjust.com
 geclose2eu.info
 g.ekatox.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
@@ -2185,6 +2206,7 @@ history.google.com
 hitlog.viva.co.id
 hk.api.unipay.qq.com
 hk.app.joox.com
+hk.pool.ntp.org
 hk.slb.mob.com
 hkspeed.igamecj.com
 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
@@ -2214,6 +2236,7 @@ hrtechprivacy.com
 hr.tencent.com
 hrworld.com
 hsappstatic.net
+hses3.hotstar.com
 hshh.org
 hs-marketing.imgix.net
 htms.heytapmobile.com
@@ -2323,6 +2346,7 @@ igapromomanager-pa.googleapis.com
 ign.com
 igofun.mobi
 igslb.cdo.oppomobile.com
+i.ibb.co
 i-in.browser.heytapmobile.com
 i.instant.oppomobile.com
 i.jpallnight.com
@@ -2407,6 +2431,7 @@ imps.appia.com
 imptrk.siteplug.com
 impulse.contextads.live
 impulse.forkcdn.com
+in.4sync.com
 in-adreq.vivoglobal.com
 inapps.appsflyersdk.com
 in.bignox.com
@@ -2468,6 +2493,14 @@ intl.iqiyi.com
 intuit.com
 invitereferrals.com
 iobit.com
+iosads4-0.adcolony.com
+iosads4-10.adcolony.com
+iosads4-1.adcolony.com
+iosads4-2.adcolony.com
+iosads4-3.adcolony.com
+iosads4-5.adcolony.com
+iosads4-8.adcolony.com
+iosads4-9.adcolony.com
 ios.crashsight.wetest.net
 i.ota.coloros.com
 iota.cooooos.com
@@ -2507,6 +2540,7 @@ i.snssdk.com
 isp-map.xunyou.mobi
 is.snssdk.com.xi.zwtianshangm.com
 istarapps.com
+it.4sync.com
 it.bignox.com
 itc.cn
 itoon.org
@@ -2528,6 +2562,7 @@ izatcloud.net
 izooto.com
 j19544519.pr46m.vps.myjino.ru
 j.6sc.co
+ja.4sync.com
 javwall.net
 jd.com
 jetengine.it
@@ -2545,6 +2580,7 @@ jojoy.io
 jomax.net
 jp.bignox.com
 jp-col-tcp.nelo.linecorp.com
+jp.pool.ntp.org
 jpserver.site
 jpush.io
 jr.zingnews.vn
@@ -2620,6 +2656,7 @@ klink.snackvideo.com
 knd32k.com
 knet.cn
 knorex.com
+ko.4sync.com
 kokotrokot.com
 kolbapps.com
 kol.yeshen.com
@@ -2717,6 +2754,7 @@ lirik.live
 list-manage.com
 listoffreeware.com
 litatom.com
+litatom.oss-cn-hongkong.aliyuncs.com
 liteapi.ekatox.com
 litemsg.ekatox.com
 litemsg.facemojikeyboard.com
@@ -2761,9 +2799,11 @@ logodix.com
 logonext.tv.kuyun.com
 logos.kiwibrowser.com
 log-pub-hk.aoshitang.com
+log-report.rtcplus.com
 log.reyun.com
 log.sharemusic5.com
 logs.im-gb.com
+log.snow.me
 logs.papertrailapp.com
 log.tmtreader.com
 log.tpns.hk.tencent.com
@@ -2982,6 +3022,7 @@ mp.weixin.qq.com
 mrbeast.site
 ms1800.com
 ms4.applovin.com
+ms.4sync.com
 ms.bignox.com
 m.scoopernews.com
 msdk.shopee.co.id
@@ -3233,6 +3274,7 @@ oauth.vk.com
 obnews.outbrain.com
 obr-sim.bounty-rush.com
 observe.metarouter.io
+obs-studio.com
 obstremswiev.site
 obus-dc20123-sg.heytapmobile.com
 obus-dc20305-sg.heytapmobile.com
@@ -3520,6 +3562,7 @@ pkh6.my.id
 pkh7.my.id
 pkh8.my.id
 pl17772840.profitablegatetocontent.com
+pl.4sync.com
 placements.tapjoy.com
 plainbagel.notion.site
 plassets.ws.pho.to
@@ -3555,6 +3598,7 @@ pop3.bignox.com
 popcore.com
 popin-minus.com
 popular.kiwibrowser.com
+popup-api.snow.me
 pornozot.com
 portal.mail.ru
 portal-sg.xunyou.mobi
@@ -3591,6 +3635,7 @@ prod.detectportal.prod.cloudops.mozgcp.net
 prod-game.survivorio.com
 prod-mag-api.vidfree.net
 prod-mediate-events.applovin.com
+prod-ms4.applovin.com
 prod-tp.sumo.mozit.cloud
 product.instiengage.com
 production.kolbapps.com
@@ -3730,6 +3775,7 @@ reference.castle.io
 referralrock.com
 refersion.com
 refokus.com
+region1.analytics.google.com
 register.appsflyersdk.com
 register.collector.scopely.io
 reign.appmeasurements.com
@@ -3850,12 +3896,18 @@ rs.mail.ru
 rta.etm.tech
 rt.applovin.com
 rtb-apac.rtbserve.io
+rtc-access-fr.rtcplus.com
+rtc-access.rtcplus.com
+rtc-access-sg.rtcplus.com
+rtc-access-va.rtcplus.com
+rtc.rtcplus.com
 rtc.youme.im
 rt.foldlife.net
 rtlog.resso.app
 rtpsuperbig.com
 rtrack.degreematcher.org
 rtsyx.higgsyx.com
+ru.4sync.com
 ruangguruhelp.zendesk.com
 rubiconproject.com
 ru.bignox.com
@@ -4217,6 +4269,7 @@ static0.cbrimages.com
 static1.cbrimages.com
 static2.cbrimages.com
 static3.cbrimages.com
+static.4sync.com
 static-act.like-video.com
 static.addtoany.com
 static.ads-twitter.com
@@ -4475,6 +4528,7 @@ testedforyou.net
 t.everestop.io
 tex.z-dn.net
 t.focus-res.cn
+th.4sync.com
 th.bignox.com
 thedogvisitor.com
 thehotgames.com
@@ -4558,6 +4612,7 @@ toutiao.com
 tpai.caping.co.id
 tpns.sgp.tencent.com
 t.pubmatic.com
+tr.4sync.com
 tracert.alipay.com
 trackad.cz
 tracker.ruangguru.com
@@ -4565,6 +4620,7 @@ trackersimulator.org
 track.gaconnector.com
 tracking.apptrackerlink.com
 tracking.g2crowd.com
+tracking.ksztone.com
 tracking.trnox.com
 track.mailerlite.com
 track-mixer.ru
@@ -4616,6 +4672,7 @@ twibida.com
 twilio-cms-prod.s3.amazonaws.com
 twilio.com
 twilio.org
+tw.pool.ntp.org
 tx2-sgp-cdn.snackvideo.in
 tx.flv.nimo.tv
 tx.hls.nimo.tv
@@ -4720,6 +4777,7 @@ us-east4-gcp.api.snapchat.com
 useinsider.com
 user-api.ucweb.com
 useroperation.wondershare.com
+user-snow-api.snow.me
 us.eufy.com
 u.startup.mobile.webvisor.com
 us.tk0x1.com
@@ -4749,6 +4807,7 @@ vbw.vivoglobal.com
 vdo.ai
 verify.uxcam.com
 vgold.gameloft.com
+vi.4sync.com
 vibeacon.onezapp.com
 vibeaconstr.onezapp.com
 vibecdn.contextads.live
@@ -5056,6 +5115,7 @@ www.4gnetfree.top
 www.4g-net.top
 www.4gnet.top
 www4.nathanaeldan.pro
+www.4sync.com
 www50.nathanaeldan.pro
 www51.nathanaeldan.pro
 www.51tracking.com
@@ -5147,12 +5207,14 @@ www.aws.iobit.com
 www.baca.co.id
 www.baidu.com
 www.beacons.ai
+www.belnderr3d.org
 www.bhelps.info
 www.bignox.com
 www.bigo.tv
 www.bilibili.com
 www.bilibili.tv
 www.bizrate.com
+www.blender-download.com
 www.boomplay.com
 www.boomplaymusic.com
 www.braze.com
@@ -5185,6 +5247,7 @@ www.creditverify.ca
 www.creemo.pl
 www.cucloud.cn
 www.data.ai
+www.datadataxyz.com
 www.datamation.com
 www.decisionnowlive.com
 www.degreesnap.com
@@ -5202,6 +5265,7 @@ www.escolhatecnologia.com.br
 www.establishedtitles.com
 www.etsy.com
 www.eufylife.com
+www.eventknock.com
 www.evgnet.com
 www.exonhack.com
 www.extremetracking.com
@@ -5267,6 +5331,7 @@ www.knd32k.com
 www.kustens.com
 www.lanzou.com
 www.lanzouo.com
+www.latestgrowing.com
 www.leatonm.net
 www.letucook.com
 www.letusdomino.com
@@ -5300,6 +5365,7 @@ www.narratorsvoice.com
 www.newsagent.quest
 www.newsforward.quest
 www.noxinfluencer.com
+www.obs-studio.com
 www.obstremswiev.site
 www.onlinecash1.com
 www.optimumlines.com
@@ -5596,6 +5662,7 @@ zegostudio.com
 zend-apps.com
 zendesk.com
 zepeto.me
+zh.4sync.com
 zhihu.sogou.com
 zhspay.com
 ziffdavis.com

@@ -337,6 +337,7 @@ query.ess-apple.com.akadns.net
 se2.itunes.apple.com
 setup.fe.apple-dns.net
 setup.icloud.com
+sf-api-token-service.itunes.apple.com
 smp-device-content.apple.com
 smp-device-content.g.aaplimg.com
 static.ess.apple.com

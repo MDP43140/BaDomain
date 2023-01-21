@@ -933,6 +933,7 @@ fcdnns2.compass.byteoversea.net
 fcdn.us.tiktokv.com
 f-charge-fee.snssdk.com
 fddfafhadd.temp.p23.tc.cdntip.com
+feed-api-gcp.capcut.com
 feed-api-sg.capcut.com
 feedback-va.byteoversea.com
 feelgood-api.tiktok.com
@@ -953,6 +954,12 @@ f-p-sandbox.snssdk.com
 f-p-va.isnssdk.com
 f-p-va.isnssdk.com.edgekey.net
 fr4.byteoversea.com
+frontier15-normal-alisg.tiktokv.com
+frontier15-normal-useast2a.tiktokv.com
+frontier16-normal-alisg.tiktokv.com
+frontier16-normal-useast2a.tiktokv.com
+frontier22-normal-alisg.tiktokv.com
+frontier22-normal-useast2a.tiktokv.com
 frontier-aweme-hl.snssdk.com
 frontier-aweme.snssdk.com
 frontier.byteoversea.com

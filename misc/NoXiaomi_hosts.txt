@@ -2,6 +2,7 @@
 # This hosts file blocks all xiaomi-related domains (Xiaomi,Mi,MiUi,Mi-Img,MiWiFi,MiRouter. Including its CDNs,advertising server,etc...)
 #
 
+0.0.0.0 10046.mi.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 account.preview.n.xiaomi.net
 0.0.0.0 account.xiaomi.com
@@ -19,6 +20,7 @@
 0.0.0.0 api.device.xiaomi.net
 0.0.0.0 apidevicexiaominet-1824452031.ap-south-1.elb.amazonaws.com
 0.0.0.0 api.d.xiaomi.com
+0.0.0.0 api-flow-intl.10046.mi.com
 0.0.0.0 api.gallery.intl.miui.com
 0.0.0.0 api.g.micloud.xiaomi.net
 0.0.0.0 api.hybrid.xiaomi.com
@@ -96,6 +98,7 @@
 0.0.0.0 d.xiaomi.com
 0.0.0.0 e.ad.xiaomi.com
 0.0.0.0 eu.api.miwifi.com
+0.0.0.0 extranet-alllines-pub-c3-c4.alb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-sec.rnfliwmiif.elb.xiaomi.com
 0.0.0.0 f10.market.xiaomi.com
 0.0.0.0 f11.market.xiaomi.com

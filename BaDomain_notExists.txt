@@ -90,6 +90,7 @@ api.cleanmaster.club
 api.faceapp.ai
 api.meditation.oneboost.me
 api.mobilesearchers.com
+api.quikkly.io
 api-setting-intl-miui-com-59771552.ap-south-1.elb.amazonaws.com
 api.xiaomi.com
 api.zligaton.com
@@ -110,6 +111,8 @@ associates-amazon.com
 a-techsolutions.us
 att-citrix.com
 atwola.com
+audacite.org
+audacitya.org
 au.umeng.com
 avcdn.net
 avlyun.com
@@ -602,6 +605,7 @@ reyun.com
 rfihub.com
 rfihub.net
 rhino.acme.com
+ripple-event.one
 rlcdn.com
 rt14v.com
 ruciplbrxwjscyhtapvlfskoqqgnxevw.name
@@ -785,6 +789,8 @@ www.acckwmhi.com
 www.agencymrbeast.com
 www.antivirusphonenumber.org
 www.a-techsolutions.us
+www.audacite.org
+www.audacitya.org
 www.backjawtanoa.com
 www.cipro.ms
 www.ckmvkzurnd.com
@@ -816,6 +822,7 @@ www.plg.dev
 www.printertechnicahelp.com
 www.quickbooktechnicalsupport.org
 www.ralijqugghwqil.com
+www.ripple-event.one
 www.sail-horizon.com
 www.stickdix.com
 www.sweet-girls18.com
@@ -830,6 +837,7 @@ www.website-files.com
 www.winnerscomxxy.world
 www.wondersharefilmorasoftware.co
 www.wuueqejuratzdz.com
+www.x2make.com
 www.xapoapp.com
 www.xjke.xyz
 www.x-tags.net
@@ -840,6 +848,7 @@ www.zdn.vn
 www.zligaton.com
 x18like.uno
 x2drop.com
+x2make.com
 x8zs.cok
 x.acme.com
 xapoapp.com

@@ -338,6 +338,7 @@
 0.0.0.0 se2.itunes.apple.com
 0.0.0.0 setup.fe.apple-dns.net
 0.0.0.0 setup.icloud.com
+0.0.0.0 sf-api-token-service.itunes.apple.com
 0.0.0.0 smp-device-content.apple.com
 0.0.0.0 smp-device-content.g.aaplimg.com
 0.0.0.0 static.ess.apple.com
