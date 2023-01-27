@@ -148,6 +148,7 @@ global.search.xiaomi.net
 heyue.xiaomi.com
 hk.mibi.xiaomi.com
 home.miui.com
+huangye.intl.miui.com
 huodong.xiaomi.com
 huosai.xiaomi.com
 i2.api.io.mi.com
@@ -219,6 +220,7 @@ sfsapi.micloud.xiaomi.net
 sg-idm.api.io.mi.com
 sg.idm.iot.mi.com
 sgpac.account.xiaomi.com
+sgp-api.huangye.intl.miui.com
 sg-urc.io.mi.com
 shoes.app-xae.xiaomi.com
 srv.sec.intl.miui.com

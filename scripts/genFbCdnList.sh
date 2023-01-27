@@ -130,6 +130,7 @@ SFB_REGIONCODE=(
 	"lpb"
 	"lwo"
 	"maa"
+	"mam"
 	"mba"
 	"mdc"
 	"mea"

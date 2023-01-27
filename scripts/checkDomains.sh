@@ -42,7 +42,10 @@ for i in $DOMAIN_LISTS;do
 	result="$(dig $DNS_PROVIDER $i)"
 	result_isNone="$(echo $result | grep 'ANSWER: 0' &>/dev/null;echo $?)"
 	result_status="$(echo $result | grep ', status: ' &>/dev/null;echo $?)"
-	if [ "$result_isNone" != "0" ];then
+	if [ ! "$result" ];then
+		echo -e "\r[!] No answer for $i. Check your internet\e[0K"
+		echo $i >> "$LOG_SERVFAIL_FILE"
+	elif [ "$result_isNone" != "0" ];then
 		echo -e "\r[+] $i exists\e[0K"
 		echo $i >> "$LOG_EXISTS_FILE"
 	elif echo $result_status | grep ', status: SERVFAIL' &>/dev/null;then

@@ -30,8 +30,10 @@
 31-courier.push.apple.com
 32-courier.push.apple.com
 33-courier.push.apple.com
+33.courier-push-apple.com.akadns.net
 34-courier.push.apple.com
 35-courier.push.apple.com
+35.courier-push-apple.com.akadns.net
 36-courier.push.apple.com
 36.courier-push-apple.com.akadns.net
 37-courier.push.apple.com
@@ -43,6 +45,7 @@
 40-courier.push.apple.com
 40.courier-push-apple.com.akadns.net
 41-courier.push.apple.com
+41.courier-push-apple.com.akadns.net
 42-courier.push.apple.com
 43-courier.push.apple.com
 43.courier-push-apple.com.akadns.net
@@ -52,10 +55,12 @@
 46-courier.push.apple.com
 47-courier.push.apple.com
 48-courier.push.apple.com
+48.courier-push-apple.com.akadns.net
 49-courier.push.apple.com
 4-courier.push.apple.com
 4.courier-push-apple.com.akadns.net
 50-courier.push.apple.com
+50.courier-push-apple.com.akadns.net
 52-courier.push.apple.com
 5-courier.push.apple.com
 5.courier-push-apple.com.akadns.net
@@ -265,6 +270,7 @@ p45-caldav.icloud.com
 p45-escrowproxy.icloud.com
 p46-caldav.icloud.com
 p46-escrowproxy.icloud.com
+p47-acsegateway.icloud.com
 p47-caldav.icloud.com
 p47-contacts.icloud.com
 p47-escrowproxy.icloud.com
@@ -338,6 +344,7 @@ se2.itunes.apple.com
 setup.fe.apple-dns.net
 setup.icloud.com
 sf-api-token-service.itunes.apple.com
+smoot-feedback.v.aaplimg.com
 smp-device-content.apple.com
 smp-device-content.g.aaplimg.com
 static.ess.apple.com

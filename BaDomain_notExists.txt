@@ -20,6 +20,7 @@
 61kx.uk-insolvencydirect.com
 655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 87f2b771-b56e-407e-bc49-30d521c09b95.is-doh.help.every1dns.net
+943.engine.mobileapptracking.com
 95-217-35-153.serverhub.ru
 9appsdownloading.com
 9appsinstall.com
@@ -59,6 +60,7 @@ ad.youtube.com
 adzhosts.eu
 a.e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 aff-track.net
+afterbern.live
 agencymrbeast.com
 agkn.com
 ags.akadns.net
@@ -786,6 +788,7 @@ wsimg.com
 wuueqejuratzdz.com
 ww.qlogo.cn
 www.acckwmhi.com
+www.afterbern.live
 www.agencymrbeast.com
 www.antivirusphonenumber.org
 www.a-techsolutions.us
