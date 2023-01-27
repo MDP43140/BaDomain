@@ -1,25 +1,44 @@
-## BaDomain (Bad Domains)
+## BaDomain (aka. Bad Domains)
+[BaDomain code preview, preview not available yet...](https://github.com/MDP43140/BaDomain)
 this is an addon hosts file that blocks more bad things.
 this hosts file was only meant to improve blocking of your existing hosts list.
-Facebook, TikTok, Xiaomi, Free Fire, Mobile Legends, Roblox, Apple domains are also included (as misc)
+
+What type of domains BaDomain (general hosts file) is blocking:
++ Advertising.
++ Tracking.
++ Malware.
++ Scam/Malvertising.
++ Gambling.
++ Chinese domains (.cn).
++ Russian domains (.ru).
+
+Optional (included as separate misc hosts file*, soon the lists below will have a URL link attached*):
++ TikTok
++ Facebook
++ Xiaomi
++ Mobile Legends
++ Roblox
++ Free Fire
++ Apple
 
 ## Contributing
-You can help this project by
-- adding your list of bad domains
-- or issue some whitelist domain
-- add an issue or create pull request
+You can help improve this project by
++ Issue some lists of domains that you think should be added/removed,
++ Add an issue, or create pull request.
 
-## Note:
+
+<details><summary>nonsense (u can safely ignore this :)</summary>
 I'm scraping the domains by deploying a free hotspot (at public places).
 with adblocking, using AdAway, with these hosts lists:
-- [GoodByeAds + GoodbyeAds YouTube](https://github.com/jerryn70/GoodBye-Ads)
-- [DanHorton's TikTok Blocklist](https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt)
-- StevenBlack
++ [GoodByeAds + GoodbyeAds YouTube](https://github.com/jerryn70/GoodBye-Ads)
++ [DanHorton's TikTok Blocklist](https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt)
++ StevenBlack
 
 then i use AdAway's DNS Activity tab to monitor DNS Activity then scrap any:
 - Unknown domains.
-- Chinese domains (eg. *.cn, tiktok.com).
-- Tracking domains (eg. adx.com).
+- Chinese domains (where lots of bad stuff happening, eg. \*.cn, tiktok.com).
+- Russian domains (mostly gambling, porn, invasive tracking/advertising, etc. eg. \*.ru).
+- Advertising/Tracking/Malware domains (eg. adx.com, thinkingdata.cn, obstremswiev.site, just to name a few).
 - Game server domains (optional/miscellanous, eg. Free fire/garena, MLBB/moonton/youngjoygame/yuanzhan, COC, PUBG/tencent).
 
 that are not on the hosts list listed above and:
@@ -27,3 +46,4 @@ that are not on the hosts list listed above and:
 - Export the configuration file.
 - Parse the "blocked" section on "adaway-backup.json".
 - and add it to BaDomain.
+</details>
