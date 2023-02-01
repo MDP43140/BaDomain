@@ -7,6 +7,7 @@
 #
 
 0523da02.api.splkmobile.com
+100000.miniapp.transsion.com
 1000-beasts.com
 18cams.xyz
 18like.uno
@@ -79,6 +80,7 @@ all-stadium.net
 allstatics.com
 alms.demo34.ckg.hk
 amazon-adsystem.com
+amazon.hksupd.com
 amgdgt.com
 amibios-updater.com
 analysis.mangatoon.mobi
@@ -609,6 +611,7 @@ rfihub.net
 rhino.acme.com
 ripple-event.one
 rlcdn.com
+royaldominos.com
 rt14v.com
 ruciplbrxwjscyhtapvlfskoqqgnxevw.name
 sa-api.api.intl.miui.com

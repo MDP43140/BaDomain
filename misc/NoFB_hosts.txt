@@ -2409,6 +2409,10 @@
 0.0.0.0 sonar-pnq1-2.xx.fbcdn.net
 0.0.0.0 sonar-prg1-1.xx.fbcdn.net
 0.0.0.0 sonar-sea.cdn.whatsapp.net
+0.0.0.0 sonar-sin6-1.xx.fbcdn.net
+0.0.0.0 sonar-sin6-2.xx.fbcdn.net
+0.0.0.0 sonar-sin6-3.xx.fbcdn.net
+0.0.0.0 sonar-sin6-4.xx.fbcdn.net
 0.0.0.0 sonar-sin.cdn.whatsapp.net
 0.0.0.0 sonar-sof1-2.xx.fbcdn.net
 0.0.0.0 sonar-ssn1-1.xx.fbcdn.net
@@ -2979,6 +2983,9 @@
 0.0.0.0 video-sin6-3.xx.fbcdn.net
 0.0.0.0 video-sin6-4.xx.fbcdn.net
 0.0.0.0 video-sof1-1.xx.fbcdn.net
+0.0.0.0 video-xsp1-1.xx.fbcdn.net
+0.0.0.0 video-xsp1-2.xx.fbcdn.net
+0.0.0.0 video-xsp1-3.xx.fbcdn.net
 0.0.0.0 video.xx.fbcdn.net
 0.0.0.0 vi-vn.facebook.com
 0.0.0.0 vthumb.ak.fbcdn.net

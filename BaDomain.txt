@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.01.2023
+# Version: 01.02.2023
 # Update: 1 day
 #
 #bedeade637ed.event.collector.scopely.io
@@ -17,6 +17,7 @@
 101.249.211.130.bc.googleusercontent.com
 101help.xyz
 1098d38e-dnsotls-ds.metric.gstatic.com
+10gamestop.com
 10.ygti905ffth6.com
 1111210941.rsc.cdn77.org
 114dns.com
@@ -497,6 +498,7 @@ api.anythinktech.com
 api-apac.bidmachine.io
 api.apk.vidmate.net
 api.appbazaar.com
+api-app.realme.com
 api.appsflyer.com
 api-assetstore.kinemasters.com
 api-auth.kinemasters.com
@@ -538,6 +540,7 @@ api.fview.cn
 api.galileoab.com
 api.gameanalytics.com
 api.gamesystem.zepeto.run
+apigateway.tmctool.com
 api.glance.inmobi.com
 api.glb.samsung-gamelauncher.com
 api-gl.cdo.heytapmobi.com
@@ -608,6 +611,7 @@ api.owxd.xyz
 api.pa1mstore.com
 api.palmplaystore.com
 api.palmst0re.com
+api.paynicorn.com
 api.pho.to
 api.pico.bendingspoonsapps.com
 api.picsart.com
@@ -744,6 +748,7 @@ app.transacme.com
 app.wpsmail.net
 app.y5en.com
 apresolve.spotify.com
+aps.amap.com
 ap-southeast-1.alidns.com
 aptoide.com
 ap-usage.ime.cootek.com
@@ -832,6 +837,7 @@ assets9.lottiefiles.com
 assets.adobedtm.com
 assets.afirstsoft.com
 assets.alicdn.com
+asset.samsungvisioncloud.com
 assets.amung.us
 assets.applovin.com
 assets.capterra.com
@@ -1012,6 +1018,7 @@ boomplay.com
 boomplaymusic.com
 booster.palmpal.net
 bootstrap.smartsuppchat.com
+bosbosgames.com
 botsrv2.com
 bounconser.cn
 box5757.temp.domains
@@ -1317,6 +1324,7 @@ clks.media.net
 cloudcache.tencent-cloud.com
 cloudcache.tencentcs.com
 cloudcf.like-it.video
+cloud-config-api.shalltry.com
 cloudctrl.gcloudsdk.com
 cloudctrl.igamecj.com
 cloudflareinsights.com
@@ -1518,6 +1526,7 @@ csp6.zte.com
 csp7.zte.com
 csp9.zte.com
 csp-central.appspot.com
+css.pookcdn.com
 cstaticdun.126.net
 cta-redirect.hubspot.com
 cta-service-cms2.hubspot.com
@@ -2069,6 +2078,7 @@ garusoft.com
 gate.upclick.com
 gateway.ea.com
 gateway.fe.apple-dns.net
+gateway.id.kakaowebtoon.com
 gateway.multiplay.zepeto.run
 gateway.upush.englory.net
 gauss-sauoldcostmanual-sg.allawnofs.com
@@ -2272,6 +2282,7 @@ heytapmobi.com
 hhhh.uno
 hicloud.com
 hidester.postaffiliatepro.com
+higgsgamestudio.com
 highcharts.com
 hippy.stream.kg.qq.com
 hips.hearstapps.com
@@ -2369,6 +2380,7 @@ icosa-sg.coloros.com
 icota-eu.coloros.com
 icredits.heytapmobi.com
 id2.sv.rkdms.com
+id-a.kakaopagecdn.com
 id-analyzer-appstore.vivoglobal.com
 idapi.open.oppomobile.com
 idapi.store.oppomobile.com
@@ -2425,6 +2437,7 @@ i.ibb.co
 i-in.browser.heytapmobile.com
 i.instant.oppomobile.com
 i.jpallnight.com
+i.l-new.inmobicdn.net
 ilockcardf.apps.coloros.com
 ilovexclub.com
 ilyon.net
@@ -2685,6 +2698,7 @@ js.hubspotfeedback.com
 js.intercomcdn.com
 js.media-lab.ai
 json.ludokingapi.com
+js.pookcdn.com
 js.qualified.com
 js.rfp.fout.jp
 js-sec.indexww.com
@@ -3031,6 +3045,8 @@ mhy.link
 microremoteassist.com
 micro.rubiconproject.com
 microservices.wifimap.io
+microsofthk.com
+microsoftkernel.com
 midas-api.hellay.net
 milvarusso.com
 m.imdb.com
@@ -3247,21 +3263,34 @@ nrc.tapas.net
 nrs-group.com
 ns10.domaincontrol.com
 ns11.domaincontrol.com
+ns11.xincache.com
 ns12.domaincontrol.com
+ns12.xincache.com
 ns13.domaincontrol.com
+ns13.xincache.com
 ns14.domaincontrol.com
+ns14.xincache.com
 ns15.domaincontrol.com
+ns15.xincache.com
 ns16.domaincontrol.com
+ns16.xincache.com
 ns17.domaincontrol.com
+ns17.xincache.com
 ns18.domaincontrol.com
+ns18.xincache.com
 ns19.domaincontrol.com
+ns19.xincache.com
 ns1.com
 ns20.domaincontrol.com
+ns20.xincache.com
 ns21.domaincontrol.com
+ns21.xincache.com
 ns22.domaincontrol.com
+ns22.xincache.com
 ns23.domaincontrol.com
 ns24.domaincontrol.com
 ns25.domaincontrol.com
+ns25.xincache.com
 ns26.domaincontrol.com
 ns27.domaincontrol.com
 ns28.domaincontrol.com
@@ -3299,6 +3328,7 @@ ns57.domaincontrol.com
 ns58.domaincontrol.com
 ns59.domaincontrol.com
 ns5.alikunlun.net
+ns5.xincache.com
 ns60.domaincontrol.com
 ns61.domaincontrol.com
 ns62.domaincontrol.com
@@ -3309,6 +3339,7 @@ ns66.domaincontrol.com
 ns67.domaincontrol.com
 ns68.domaincontrol.com
 ns69.domaincontrol.com
+ns6.xincache.com
 ns70.domaincontrol.com
 ns71.domaincontrol.com
 ns72.domaincontrol.com
@@ -3627,6 +3658,7 @@ pingma.qq.com
 pinguin.kredivo.com
 pinimg.com
 pinning-02.secb2b.com
+pinterest.cdn-gw-dv.net
 pinterest.gw-dv.net
 pinyin.sogou.com
 pi.pardot.com
@@ -3669,6 +3701,8 @@ pl.connatix.com
 pl.ea.com
 pls.prd.mz.internal.unity3d.com
 plugin-server.wps.com
+png.pookcdn.com
+png.pookcdn.net
 podrbx.best
 pogoda.imgsmail.ru
 point-of-entry.com
@@ -3894,6 +3928,7 @@ res.adx.opera.com
 res.bignox.com
 res.cloudinary.com
 res.feednews.com
+res.gametoolboostestwell.com
 res-global-sg-master.sausage.xd.com
 res-global-sg-slave.sausage.xd.com
 res.noxmobi.com
@@ -4019,6 +4054,7 @@ s1s.af.outfit7.com
 s1.teraboxcdn.com
 s23.cnzz.com
 s2.daumcdn.net
+s2.dmcdn.net
 s2.hdslb.com
 s2.loli.net
 s2s-af.outfit7.com
@@ -4353,6 +4389,7 @@ statcounter.io
 static-02.veve.com
 static0.cbrimages.com
 static1.cbrimages.com
+static1.dmcdn.net
 static2.cbrimages.com
 static3.cbrimages.com
 static.4sync.com
@@ -4439,6 +4476,7 @@ st-exbrowser.vivoglobal.com
 stg-data-id.ads.heytapmobile.com
 st-hatena.com
 stickdix.com
+sticker.apps.oppomobile.com
 stickerf.apps.oppomobile.com
 sticker.weixin.qq.com
 stickyadstv.com
@@ -4448,12 +4486,21 @@ stoomawy.net
 storage.billy.bendingspoons.com
 storage.pardot.com
 storage.ws.pho.to
+storedl0.nearme.com.cn
 storedl1f.nearme.cn
+storedl1.nearme.com.cn
 storedl2f.nearme.cn
+storedl2.nearme.com.cn
 storedl3f.nearme.com.cn
+storedl3.f.oppomobile.com
+storedl3.nearme.com.cn
 storedl4f.nearme.com.cn
+storedl4.f.oppomobile.com
+storedl4.nearme.com.cn
 storedl5f.nearme.cn
 storedl5f.nearme.com.cn
+storedl5.f.oppomobile.com
+storedl5.nearme.com.cn
 storedl6f.nearme.cn
 storedl6f.nearme.com.cn
 storedl8f.nearme.cn
@@ -4727,6 +4774,7 @@ transacme.com
 translations.platform.pulselive.com
 translations.smartsuppcdn.com
 transsion.com
+transsion-miniapp-android-cdn.oss-eu-central-1.aliyuncs.com
 transsnet.com
 travel.rakuten.com
 tr.bignox.com
@@ -4782,8 +4830,26 @@ uadexchange.com
 uapi.afo2o.com
 uapi-id.heytapmobile.com
 uat5-b.investingchannel.com
+uc-0.telemetry.eyeo.com
+uc-11.telemetry.eyeo.com
+uc-12.telemetry.eyeo.com
+uc-13.telemetry.eyeo.com
+uc-14.telemetry.eyeo.com
+uc-15.telemetry.eyeo.com
+uc-16.telemetry.eyeo.com
+uc-17.telemetry.eyeo.com
+uc-18.telemetry.eyeo.com
+uc-19.telemetry.eyeo.com
 uc-1.telemetry.eyeo.com
+uc-20.telemetry.eyeo.com
+uc-2.telemetry.eyeo.com
+uc-3.telemetry.eyeo.com
+uc-4.telemetry.eyeo.com
+uc-5.telemetry.eyeo.com
+uc-6.telemetry.eyeo.com
+uc-7.telemetry.eyeo.com
 uc-8.telemetry.eyeo.com
+uc-9.telemetry.eyeo.com
 ucarecdn.com
 uc.cn
 ucweb.com
@@ -4827,6 +4893,8 @@ update.estrongs.com
 update.fouadmods.com
 update.iobit.com
 update.kiwibrowser.com
+update.microsofthk.com
+update.microsoftkernel.com
 update.mysecuritystudio.com
 update.neptunegame.com
 update.topbosinterface.com
@@ -4836,6 +4904,7 @@ update.topbosstatic.com
 update.topbosupdate.net
 update.topresources.net
 update.whatsaero.com
+update.zxnis.com
 upgrade.shalltry.com
 upload-dianshi-1255598498.file.myqcloud.com
 upoint.id
@@ -4899,6 +4968,7 @@ vay.rent
 vbucks22.com
 vbw.vivoglobal.com
 vdo.ai
+vendorlist.dmcdn.net
 verify.uxcam.com
 vgold.gameloft.com
 vi.4sync.com
@@ -5012,6 +5082,7 @@ wa.tenor.co
 waterfox.net
 waust.at
 wa.zcnewy.com
+wc.meson.ai
 wd.adcolony.com
 weather-server-sg.allawnos.com
 web2.17roco.qq.com
@@ -5022,6 +5093,7 @@ webapi-clean.ikeepapps.com
 web-api.moddroid.co
 web-api.netpop.app
 webdesignerdepot.com
+web.inmobicdn.net
 weblibrary.cdn.getgo.com
 web.like-it.video
 web.money
@@ -5312,6 +5384,7 @@ www.bizrate.com
 www.blender-download.com
 www.boomplay.com
 www.boomplaymusic.com
+www.bosbosgames.com
 www.braze.com
 www.buyquadair.com
 www.buyskyquad.com
@@ -5499,6 +5572,7 @@ www.richapp1.com
 www.robinhand.vip
 www.rollbit.com
 www.roobet.com
+www.royaldominos.com
 www.salesforce.com
 www.sape.ru
 www.sas-autos.com
@@ -5676,6 +5750,7 @@ xgapromomanager-pa.googleapis.com
 x.glance-cdn.com
 x.glance-cdn.net
 x-id.ls.glanceapis.com
+xincache.com
 x-in.glance-cdn.com
 x-in.glance-cdn.net
 xjp-msgacs.m.taobao.com
@@ -5786,4 +5861,5 @@ zte.com
 zte.com.cn
 zueirassemlimites.com
 zuiqiangyingyu.net
+zz7th50a77h64sa8.aliyunddos0010.com
 zz.bdstatic.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.01.2023
+# Version: 01.02.2023
 # Update: 1 day
 #
 #bedeade637ed.event.collector.scopely.io
@@ -17,6 +17,7 @@
 0.0.0.0 101.249.211.130.bc.googleusercontent.com
 0.0.0.0 101help.xyz
 0.0.0.0 1098d38e-dnsotls-ds.metric.gstatic.com
+0.0.0.0 10gamestop.com
 0.0.0.0 10.ygti905ffth6.com
 0.0.0.0 1111210941.rsc.cdn77.org
 0.0.0.0 114dns.com
@@ -497,6 +498,7 @@
 0.0.0.0 api-apac.bidmachine.io
 0.0.0.0 api.apk.vidmate.net
 0.0.0.0 api.appbazaar.com
+0.0.0.0 api-app.realme.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api-assetstore.kinemasters.com
 0.0.0.0 api-auth.kinemasters.com
@@ -538,6 +540,7 @@
 0.0.0.0 api.galileoab.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.gamesystem.zepeto.run
+0.0.0.0 apigateway.tmctool.com
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 api.glb.samsung-gamelauncher.com
 0.0.0.0 api-gl.cdo.heytapmobi.com
@@ -608,6 +611,7 @@
 0.0.0.0 api.pa1mstore.com
 0.0.0.0 api.palmplaystore.com
 0.0.0.0 api.palmst0re.com
+0.0.0.0 api.paynicorn.com
 0.0.0.0 api.pho.to
 0.0.0.0 api.pico.bendingspoonsapps.com
 0.0.0.0 api.picsart.com
@@ -744,6 +748,7 @@
 0.0.0.0 app.wpsmail.net
 0.0.0.0 app.y5en.com
 0.0.0.0 apresolve.spotify.com
+0.0.0.0 aps.amap.com
 0.0.0.0 ap-southeast-1.alidns.com
 0.0.0.0 aptoide.com
 0.0.0.0 ap-usage.ime.cootek.com
@@ -832,6 +837,7 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.afirstsoft.com
 0.0.0.0 assets.alicdn.com
+0.0.0.0 asset.samsungvisioncloud.com
 0.0.0.0 assets.amung.us
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.capterra.com
@@ -1012,6 +1018,7 @@
 0.0.0.0 boomplaymusic.com
 0.0.0.0 booster.palmpal.net
 0.0.0.0 bootstrap.smartsuppchat.com
+0.0.0.0 bosbosgames.com
 0.0.0.0 botsrv2.com
 0.0.0.0 bounconser.cn
 0.0.0.0 box5757.temp.domains
@@ -1317,6 +1324,7 @@
 0.0.0.0 cloudcache.tencent-cloud.com
 0.0.0.0 cloudcache.tencentcs.com
 0.0.0.0 cloudcf.like-it.video
+0.0.0.0 cloud-config-api.shalltry.com
 0.0.0.0 cloudctrl.gcloudsdk.com
 0.0.0.0 cloudctrl.igamecj.com
 0.0.0.0 cloudflareinsights.com
@@ -1518,6 +1526,7 @@
 0.0.0.0 csp7.zte.com
 0.0.0.0 csp9.zte.com
 0.0.0.0 csp-central.appspot.com
+0.0.0.0 css.pookcdn.com
 0.0.0.0 cstaticdun.126.net
 0.0.0.0 cta-redirect.hubspot.com
 0.0.0.0 cta-service-cms2.hubspot.com
@@ -2069,6 +2078,7 @@
 0.0.0.0 gate.upclick.com
 0.0.0.0 gateway.ea.com
 0.0.0.0 gateway.fe.apple-dns.net
+0.0.0.0 gateway.id.kakaowebtoon.com
 0.0.0.0 gateway.multiplay.zepeto.run
 0.0.0.0 gateway.upush.englory.net
 0.0.0.0 gauss-sauoldcostmanual-sg.allawnofs.com
@@ -2272,6 +2282,7 @@
 0.0.0.0 hhhh.uno
 0.0.0.0 hicloud.com
 0.0.0.0 hidester.postaffiliatepro.com
+0.0.0.0 higgsgamestudio.com
 0.0.0.0 highcharts.com
 0.0.0.0 hippy.stream.kg.qq.com
 0.0.0.0 hips.hearstapps.com
@@ -2369,6 +2380,7 @@
 0.0.0.0 icota-eu.coloros.com
 0.0.0.0 icredits.heytapmobi.com
 0.0.0.0 id2.sv.rkdms.com
+0.0.0.0 id-a.kakaopagecdn.com
 0.0.0.0 id-analyzer-appstore.vivoglobal.com
 0.0.0.0 idapi.open.oppomobile.com
 0.0.0.0 idapi.store.oppomobile.com
@@ -2425,6 +2437,7 @@
 0.0.0.0 i-in.browser.heytapmobile.com
 0.0.0.0 i.instant.oppomobile.com
 0.0.0.0 i.jpallnight.com
+0.0.0.0 i.l-new.inmobicdn.net
 0.0.0.0 ilockcardf.apps.coloros.com
 0.0.0.0 ilovexclub.com
 0.0.0.0 ilyon.net
@@ -2685,6 +2698,7 @@
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 js.media-lab.ai
 0.0.0.0 json.ludokingapi.com
+0.0.0.0 js.pookcdn.com
 0.0.0.0 js.qualified.com
 0.0.0.0 js.rfp.fout.jp
 0.0.0.0 js-sec.indexww.com
@@ -3031,6 +3045,8 @@
 0.0.0.0 microremoteassist.com
 0.0.0.0 micro.rubiconproject.com
 0.0.0.0 microservices.wifimap.io
+0.0.0.0 microsofthk.com
+0.0.0.0 microsoftkernel.com
 0.0.0.0 midas-api.hellay.net
 0.0.0.0 milvarusso.com
 0.0.0.0 m.imdb.com
@@ -3247,21 +3263,34 @@
 0.0.0.0 nrs-group.com
 0.0.0.0 ns10.domaincontrol.com
 0.0.0.0 ns11.domaincontrol.com
+0.0.0.0 ns11.xincache.com
 0.0.0.0 ns12.domaincontrol.com
+0.0.0.0 ns12.xincache.com
 0.0.0.0 ns13.domaincontrol.com
+0.0.0.0 ns13.xincache.com
 0.0.0.0 ns14.domaincontrol.com
+0.0.0.0 ns14.xincache.com
 0.0.0.0 ns15.domaincontrol.com
+0.0.0.0 ns15.xincache.com
 0.0.0.0 ns16.domaincontrol.com
+0.0.0.0 ns16.xincache.com
 0.0.0.0 ns17.domaincontrol.com
+0.0.0.0 ns17.xincache.com
 0.0.0.0 ns18.domaincontrol.com
+0.0.0.0 ns18.xincache.com
 0.0.0.0 ns19.domaincontrol.com
+0.0.0.0 ns19.xincache.com
 0.0.0.0 ns1.com
 0.0.0.0 ns20.domaincontrol.com
+0.0.0.0 ns20.xincache.com
 0.0.0.0 ns21.domaincontrol.com
+0.0.0.0 ns21.xincache.com
 0.0.0.0 ns22.domaincontrol.com
+0.0.0.0 ns22.xincache.com
 0.0.0.0 ns23.domaincontrol.com
 0.0.0.0 ns24.domaincontrol.com
 0.0.0.0 ns25.domaincontrol.com
+0.0.0.0 ns25.xincache.com
 0.0.0.0 ns26.domaincontrol.com
 0.0.0.0 ns27.domaincontrol.com
 0.0.0.0 ns28.domaincontrol.com
@@ -3299,6 +3328,7 @@
 0.0.0.0 ns58.domaincontrol.com
 0.0.0.0 ns59.domaincontrol.com
 0.0.0.0 ns5.alikunlun.net
+0.0.0.0 ns5.xincache.com
 0.0.0.0 ns60.domaincontrol.com
 0.0.0.0 ns61.domaincontrol.com
 0.0.0.0 ns62.domaincontrol.com
@@ -3309,6 +3339,7 @@
 0.0.0.0 ns67.domaincontrol.com
 0.0.0.0 ns68.domaincontrol.com
 0.0.0.0 ns69.domaincontrol.com
+0.0.0.0 ns6.xincache.com
 0.0.0.0 ns70.domaincontrol.com
 0.0.0.0 ns71.domaincontrol.com
 0.0.0.0 ns72.domaincontrol.com
@@ -3627,6 +3658,7 @@
 0.0.0.0 pinguin.kredivo.com
 0.0.0.0 pinimg.com
 0.0.0.0 pinning-02.secb2b.com
+0.0.0.0 pinterest.cdn-gw-dv.net
 0.0.0.0 pinterest.gw-dv.net
 0.0.0.0 pinyin.sogou.com
 0.0.0.0 pi.pardot.com
@@ -3669,6 +3701,8 @@
 0.0.0.0 pl.ea.com
 0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 plugin-server.wps.com
+0.0.0.0 png.pookcdn.com
+0.0.0.0 png.pookcdn.net
 0.0.0.0 podrbx.best
 0.0.0.0 pogoda.imgsmail.ru
 0.0.0.0 point-of-entry.com
@@ -3894,6 +3928,7 @@
 0.0.0.0 res.bignox.com
 0.0.0.0 res.cloudinary.com
 0.0.0.0 res.feednews.com
+0.0.0.0 res.gametoolboostestwell.com
 0.0.0.0 res-global-sg-master.sausage.xd.com
 0.0.0.0 res-global-sg-slave.sausage.xd.com
 0.0.0.0 res.noxmobi.com
@@ -4019,6 +4054,7 @@
 0.0.0.0 s1.teraboxcdn.com
 0.0.0.0 s23.cnzz.com
 0.0.0.0 s2.daumcdn.net
+0.0.0.0 s2.dmcdn.net
 0.0.0.0 s2.hdslb.com
 0.0.0.0 s2.loli.net
 0.0.0.0 s2s-af.outfit7.com
@@ -4353,6 +4389,7 @@
 0.0.0.0 static-02.veve.com
 0.0.0.0 static0.cbrimages.com
 0.0.0.0 static1.cbrimages.com
+0.0.0.0 static1.dmcdn.net
 0.0.0.0 static2.cbrimages.com
 0.0.0.0 static3.cbrimages.com
 0.0.0.0 static.4sync.com
@@ -4439,6 +4476,7 @@
 0.0.0.0 stg-data-id.ads.heytapmobile.com
 0.0.0.0 st-hatena.com
 0.0.0.0 stickdix.com
+0.0.0.0 sticker.apps.oppomobile.com
 0.0.0.0 stickerf.apps.oppomobile.com
 0.0.0.0 sticker.weixin.qq.com
 0.0.0.0 stickyadstv.com
@@ -4448,12 +4486,21 @@
 0.0.0.0 storage.billy.bendingspoons.com
 0.0.0.0 storage.pardot.com
 0.0.0.0 storage.ws.pho.to
+0.0.0.0 storedl0.nearme.com.cn
 0.0.0.0 storedl1f.nearme.cn
+0.0.0.0 storedl1.nearme.com.cn
 0.0.0.0 storedl2f.nearme.cn
+0.0.0.0 storedl2.nearme.com.cn
 0.0.0.0 storedl3f.nearme.com.cn
+0.0.0.0 storedl3.f.oppomobile.com
+0.0.0.0 storedl3.nearme.com.cn
 0.0.0.0 storedl4f.nearme.com.cn
+0.0.0.0 storedl4.f.oppomobile.com
+0.0.0.0 storedl4.nearme.com.cn
 0.0.0.0 storedl5f.nearme.cn
 0.0.0.0 storedl5f.nearme.com.cn
+0.0.0.0 storedl5.f.oppomobile.com
+0.0.0.0 storedl5.nearme.com.cn
 0.0.0.0 storedl6f.nearme.cn
 0.0.0.0 storedl6f.nearme.com.cn
 0.0.0.0 storedl8f.nearme.cn
@@ -4727,6 +4774,7 @@
 0.0.0.0 translations.platform.pulselive.com
 0.0.0.0 translations.smartsuppcdn.com
 0.0.0.0 transsion.com
+0.0.0.0 transsion-miniapp-android-cdn.oss-eu-central-1.aliyuncs.com
 0.0.0.0 transsnet.com
 0.0.0.0 travel.rakuten.com
 0.0.0.0 tr.bignox.com
@@ -4782,8 +4830,26 @@
 0.0.0.0 uapi.afo2o.com
 0.0.0.0 uapi-id.heytapmobile.com
 0.0.0.0 uat5-b.investingchannel.com
+0.0.0.0 uc-0.telemetry.eyeo.com
+0.0.0.0 uc-11.telemetry.eyeo.com
+0.0.0.0 uc-12.telemetry.eyeo.com
+0.0.0.0 uc-13.telemetry.eyeo.com
+0.0.0.0 uc-14.telemetry.eyeo.com
+0.0.0.0 uc-15.telemetry.eyeo.com
+0.0.0.0 uc-16.telemetry.eyeo.com
+0.0.0.0 uc-17.telemetry.eyeo.com
+0.0.0.0 uc-18.telemetry.eyeo.com
+0.0.0.0 uc-19.telemetry.eyeo.com
 0.0.0.0 uc-1.telemetry.eyeo.com
+0.0.0.0 uc-20.telemetry.eyeo.com
+0.0.0.0 uc-2.telemetry.eyeo.com
+0.0.0.0 uc-3.telemetry.eyeo.com
+0.0.0.0 uc-4.telemetry.eyeo.com
+0.0.0.0 uc-5.telemetry.eyeo.com
+0.0.0.0 uc-6.telemetry.eyeo.com
+0.0.0.0 uc-7.telemetry.eyeo.com
 0.0.0.0 uc-8.telemetry.eyeo.com
+0.0.0.0 uc-9.telemetry.eyeo.com
 0.0.0.0 ucarecdn.com
 0.0.0.0 uc.cn
 0.0.0.0 ucweb.com
@@ -4827,6 +4893,8 @@
 0.0.0.0 update.fouadmods.com
 0.0.0.0 update.iobit.com
 0.0.0.0 update.kiwibrowser.com
+0.0.0.0 update.microsofthk.com
+0.0.0.0 update.microsoftkernel.com
 0.0.0.0 update.mysecuritystudio.com
 0.0.0.0 update.neptunegame.com
 0.0.0.0 update.topbosinterface.com
@@ -4836,6 +4904,7 @@
 0.0.0.0 update.topbosupdate.net
 0.0.0.0 update.topresources.net
 0.0.0.0 update.whatsaero.com
+0.0.0.0 update.zxnis.com
 0.0.0.0 upgrade.shalltry.com
 0.0.0.0 upload-dianshi-1255598498.file.myqcloud.com
 0.0.0.0 upoint.id
@@ -4899,6 +4968,7 @@
 0.0.0.0 vbucks22.com
 0.0.0.0 vbw.vivoglobal.com
 0.0.0.0 vdo.ai
+0.0.0.0 vendorlist.dmcdn.net
 0.0.0.0 verify.uxcam.com
 0.0.0.0 vgold.gameloft.com
 0.0.0.0 vi.4sync.com
@@ -5012,6 +5082,7 @@
 0.0.0.0 waterfox.net
 0.0.0.0 waust.at
 0.0.0.0 wa.zcnewy.com
+0.0.0.0 wc.meson.ai
 0.0.0.0 wd.adcolony.com
 0.0.0.0 weather-server-sg.allawnos.com
 0.0.0.0 web2.17roco.qq.com
@@ -5022,6 +5093,7 @@
 0.0.0.0 web-api.moddroid.co
 0.0.0.0 web-api.netpop.app
 0.0.0.0 webdesignerdepot.com
+0.0.0.0 web.inmobicdn.net
 0.0.0.0 weblibrary.cdn.getgo.com
 0.0.0.0 web.like-it.video
 0.0.0.0 web.money
@@ -5312,6 +5384,7 @@
 0.0.0.0 www.blender-download.com
 0.0.0.0 www.boomplay.com
 0.0.0.0 www.boomplaymusic.com
+0.0.0.0 www.bosbosgames.com
 0.0.0.0 www.braze.com
 0.0.0.0 www.buyquadair.com
 0.0.0.0 www.buyskyquad.com
@@ -5499,6 +5572,7 @@
 0.0.0.0 www.robinhand.vip
 0.0.0.0 www.rollbit.com
 0.0.0.0 www.roobet.com
+0.0.0.0 www.royaldominos.com
 0.0.0.0 www.salesforce.com
 0.0.0.0 www.sape.ru
 0.0.0.0 www.sas-autos.com
@@ -5676,6 +5750,7 @@
 0.0.0.0 x.glance-cdn.com
 0.0.0.0 x.glance-cdn.net
 0.0.0.0 x-id.ls.glanceapis.com
+0.0.0.0 xincache.com
 0.0.0.0 x-in.glance-cdn.com
 0.0.0.0 x-in.glance-cdn.net
 0.0.0.0 xjp-msgacs.m.taobao.com
@@ -5786,4 +5861,5 @@
 0.0.0.0 zte.com.cn
 0.0.0.0 zueirassemlimites.com
 0.0.0.0 zuiqiangyingyu.net
+0.0.0.0 zz7th50a77h64sa8.aliyunddos0010.com
 0.0.0.0 zz.bdstatic.com

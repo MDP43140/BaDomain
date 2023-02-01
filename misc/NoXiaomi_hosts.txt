@@ -40,6 +40,7 @@
 0.0.0.0 api.zhuti.intl.xiaomi.com
 0.0.0.0 api.zhuti.xiaomi.com
 0.0.0.0 apm-rum.inf.miui.com
+0.0.0.0 appbackupapi.micloud.xiaomi.net
 0.0.0.0 app.chat.global.xiaomi.net
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.market.xiaomi.com
@@ -198,6 +199,7 @@
 0.0.0.0 pdc.micloud.xiaomi.net
 0.0.0.0 phonecallapi.micloud.xiaomi.net
 0.0.0.0 port.sec.intl.miui.com
+0.0.0.0 privacy.api.intl.miui.com
 0.0.0.0 privacy.miui.com
 0.0.0.0 ptmi.gitv.pandora.xiaomi.com
 0.0.0.0 qiye.xiaomi.com
@@ -322,6 +324,7 @@
 0.0.0.0 upgrade.mishop.pandora.xiaomi.com
 0.0.0.0 us.api.micloud.xiaomi.net
 0.0.0.0 us-api-micloud-xiaomi-net-5630734.us-west-2.elb.amazonaws.com
+0.0.0.0 us.appbackupapi.micloud.xiaomi.net
 0.0.0.0 us.contactapi.micloud.xiaomi.net
 0.0.0.0 userid.xiaomi.com
 0.0.0.0 us.find.api.micloud.xiaomi.net

@@ -10,6 +10,7 @@
 0.0.0.0 15.courier-push-apple.com.akadns.net
 0.0.0.0 16-courier.push.apple.com
 0.0.0.0 17-courier.push.apple.com
+0.0.0.0 17.courier-push-apple.com.akadns.net
 0.0.0.0 18-courier.push.apple.com
 0.0.0.0 19-courier.push.apple.com
 0.0.0.0 1-courier.push.apple.com
@@ -19,7 +20,9 @@
 0.0.0.0 22-courier.push.apple.com
 0.0.0.0 23-courier.push.apple.com
 0.0.0.0 24-courier.push.apple.com
+0.0.0.0 24.courier-push-apple.com.akadns.net
 0.0.0.0 25-courier.push.apple.com
+0.0.0.0 25.courier-push-apple.com.akadns.net
 0.0.0.0 26-courier.push.apple.com
 0.0.0.0 26.courier-push-apple.com.akadns.net
 0.0.0.0 27-courier.push.apple.com
@@ -30,6 +33,7 @@
 0.0.0.0 30-courier.push.apple.com
 0.0.0.0 31-courier.push.apple.com
 0.0.0.0 32-courier.push.apple.com
+0.0.0.0 32.courier-push-apple.com.akadns.net
 0.0.0.0 33-courier.push.apple.com
 0.0.0.0 33.courier-push-apple.com.akadns.net
 0.0.0.0 34-courier.push.apple.com
@@ -341,6 +345,7 @@
 0.0.0.0 proxy.safebrowsing.apple
 0.0.0.0 query.ess.apple.com
 0.0.0.0 query.ess-apple.com.akadns.net
+0.0.0.0 safebrowsing-proxy.g.aaplimg.com
 0.0.0.0 se2.itunes.apple.com
 0.0.0.0 setup.fe.apple-dns.net
 0.0.0.0 setup.icloud.com

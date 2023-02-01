@@ -40,6 +40,7 @@ api.xmpush.xiaomi.com
 api.zhuti.intl.xiaomi.com
 api.zhuti.xiaomi.com
 apm-rum.inf.miui.com
+appbackupapi.micloud.xiaomi.net
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 app.market.xiaomi.com
@@ -198,6 +199,7 @@ ott.io.mi.com
 pdc.micloud.xiaomi.net
 phonecallapi.micloud.xiaomi.net
 port.sec.intl.miui.com
+privacy.api.intl.miui.com
 privacy.miui.com
 ptmi.gitv.pandora.xiaomi.com
 qiye.xiaomi.com
@@ -322,6 +324,7 @@ update.miui.com
 upgrade.mishop.pandora.xiaomi.com
 us.api.micloud.xiaomi.net
 us-api-micloud-xiaomi-net-5630734.us-west-2.elb.amazonaws.com
+us.appbackupapi.micloud.xiaomi.net
 us.contactapi.micloud.xiaomi.net
 userid.xiaomi.com
 us.find.api.micloud.xiaomi.net
