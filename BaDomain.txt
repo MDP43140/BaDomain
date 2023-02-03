@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 01.02.2023
+# Version: 03.02.2023
 # Update: 1 day
 #
 #bedeade637ed.event.collector.scopely.io
@@ -278,6 +278,7 @@ ads.adcolony.com
 ads.adpub.co
 adsafeprotected.com
 ads.api.vungle.com
+ads.appbundledownload.com
 ads.baca.co.id
 adsbynimbus.com
 ad-score.com
@@ -351,6 +352,7 @@ aisuru.tokyo
 aka-dsa.wesingapp.com
 aka.stream.kg.qq.com
 aka.tsmusic.kg.qq.com
+akcdn.bangcdn.net
 akimg.icocofun.com
 ak.itlatiaser.com
 ak.mangatoon.akamaized.net
@@ -552,6 +554,7 @@ api.gotube.pro
 api.gras.samsungdm.com
 api.gw.airpay.co.id
 apigw-pre.shalltry.com
+api.happymod.com
 api.hisavana.com
 api.honeybadger.io
 api.hotstar.com
@@ -702,6 +705,7 @@ appannie.com
 appbazaar.com
 app.bignox.com
 app.biliintl.com
+appbundledownload.com
 app.calconic.com
 appcfg.v.qq.com
 appcfg.wetvinfo.com
@@ -711,6 +715,8 @@ appconf-sgp.heytapdl.com
 app.cove.chat
 app.driftt.com
 appevent.cookappsgames.com
+app.happymodapp.com
+app.happymod.com
 app.hubspot.com
 apph.wpsmail.net
 appia.com
@@ -959,6 +965,7 @@ beian.miit.gov.cn
 belnderr3d.org
 bendingspoonsapps.com
 bendingspoons.com
+berduflare.com
 besmeargleor.com
 bestcards.online
 bestdate.top
@@ -1029,6 +1036,7 @@ branch.io
 brand-display.com
 brand.heytap.com
 braze-images.com
+brdsg.com
 brightcove.net
 britepool.com
 broadcast.biliintl.com
@@ -1183,6 +1191,7 @@ cdn.cove.chat
 cdn.coveo.com
 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 cdn.cxomedia.id
+cdn-dana.marmot-cloud.com
 cdn.dms.eyewind.cn
 cdn-eu.eufylife.com
 cdn.evgnet.com
@@ -1585,6 +1594,7 @@ dadyapp.com
 daerisoft.com
 dailymotion.com
 d.alicdn.com
+dana-assets-id.oss-ap-southeast-5.aliyuncs.com
 dana.threatcast.guardsquare.com
 danuoyi.tbcache.com
 d.applovin.com
@@ -1740,6 +1750,7 @@ download0.vivo.com.cn
 download.alicdn.com
 download.anydesk.com
 download-api.palmplaystore.com
+downloadatoz.com
 download.bignox.com
 downloadfilearea.com
 download.iobit.com
@@ -1901,6 +1912,7 @@ events.nordeus.com
 event.togothermany.com
 everflowclient.io
 everinform.com
+everzones.com
 evidon.com
 eviltracker.net
 evs.dcp.vpdcp.com
@@ -2079,6 +2091,7 @@ gate.upclick.com
 gateway.ea.com
 gateway.fe.apple-dns.net
 gateway.id.kakaowebtoon.com
+gateway-loyalty.dana.id
 gateway.multiplay.zepeto.run
 gateway.upush.englory.net
 gauss-sauoldcostmanual-sg.allawnofs.com
@@ -2131,6 +2144,7 @@ gimmehost.org
 giocdn.com
 giphy.com
 girlfriend.host
+git99.com
 github.phala.one
 gitkraken.com
 glamorousfeeds.com
@@ -2237,6 +2251,7 @@ gw-napi.zepeto.io
 gw.ruangguru.com
 gws.line.naver.jp
 gwx.line.naver.jp
+gw.zamcs.com
 gx-api.geniex.com
 gxycoj.com
 g-zgroup.pstatic.net
@@ -2297,6 +2312,7 @@ hkspeed.igamecj.com
 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
 hls-hw.others-cdn.com
 hm2.yrnykx.com
+hmapp.pvpchat.com
 hm.baidu.com
 hm.e.shifen.com
 hmma.baidu.com
@@ -2364,6 +2380,7 @@ iam.tryemanagecrm.com
 iap.etm.tech
 iap.gameloft.com
 iap-mob.ubi.com
+i.appbundledownload.com
 ibikini.cyou
 ib.isappcloud.com
 ibispaint.com
@@ -2430,6 +2447,7 @@ ifrus.coloros.com
 ifsau.coloros.com
 if-sg.browser.oppomobile.com
 igapromomanager-pa.googleapis.com
+i.git99.com
 ign.com
 igofun.mobi
 igslb.cdo.oppomobile.com
@@ -2462,6 +2480,7 @@ image.tmdb.org
 image.useinsider.com
 image.winudf.com
 imasdk.googleapis.com
+imdap-sea.alipay.com
 imdb.com
 img001.fview.cn
 img002.fview.cn
@@ -2501,6 +2520,7 @@ img.pay4d.info
 img-prod-cms-rt-microsoft-com.akamaized.net
 img.pushycat.net
 imgres.apkssr.com
+imgs-ac.alipay.com
 img.samsungapps.com
 img.scooper.news
 imgsmail.ru
@@ -2535,6 +2555,8 @@ infinities.cn
 infinities.com.cn
 influencer.yeshen.com
 info.3g.qq.com
+info.apklollypop.com
+info.apkpudding.com
 info.braze.com
 info.ejvonlyrik.com
 infogram.com
@@ -2886,6 +2908,7 @@ login.sc.funminigame.com
 login.tim.qq.com
 login.wmtransfer.com
 log.kzvepo.com
+log.modtechbig.com
 logo.clearbit.com
 logodix.com
 logonext.tv.kuyun.com
@@ -3227,6 +3250,7 @@ news.zing.vn
 nexage.com
 nextgen.docdoc.com
 nextsoft.icu
+nexusrules.officeapps.live.com
 nexus-websocket-a.intercom.io
 nflxvideo.net
 nightfallinquiredune.com
@@ -3306,6 +3330,7 @@ ns37.domaincontrol.com
 ns38.domaincontrol.com
 ns39.domaincontrol.com
 ns3.alikunlun.net
+ns3.alipay.com
 ns40.domaincontrol.com
 ns41.domaincontrol.com
 ns42.domaincontrol.com
@@ -3317,6 +3342,7 @@ ns47.domaincontrol.com
 ns48.domaincontrol.com
 ns49.domaincontrol.com
 ns4.alikunlun.net
+ns4.alipay.com
 ns50.domaincontrol.com
 ns51.domaincontrol.com
 ns52.domaincontrol.com
@@ -3371,6 +3397,7 @@ o108552.ingest.sentry.io
 o13824.ingest.sentry.io
 o13855.ingest.sentry.io
 o209266.ingest.sentry.io
+o370407.ingest.sentry.io
 o43841.ingest.sentry.io
 o446669.ingest.sentry.io
 o519366.ingest.sentry.io
@@ -3403,6 +3430,7 @@ oem.kika-backend.com
 ofa-sub.osp.opera.software
 offer.buymultivoltz.com
 offer.headlines.pw
+official.downloadatoz.com
 of.foldlife.net
 oficayuda.club
 o.glance-cdn.com
@@ -3419,6 +3447,7 @@ omgid.qq.com
 omlet.me
 omnisnippet1.com
 omnithrottle.com
+om-server.btc42.com
 oneclient.sfx.ms
 one.confbesttop.com
 one.cryptonomiconf.com
@@ -3664,6 +3693,7 @@ pinyin.sogou.com
 pi.pardot.com
 pipedream.wistia.com
 pippio.com
+piwik.everzones.com
 pixelfed-prod.nyc3.digitaloceanspaces.com
 pixel.jungroup.com
 pixel.wp.com
@@ -3723,6 +3753,7 @@ postaffiliatepro.com
 postback.applinzi.com
 postrelease.com
 pou.me
+poumod.com
 powerad.ai
 pppbr.com
 pr46m.vps.myjino.ru
@@ -3869,6 +3900,7 @@ random-v2.proxyneldns.com
 rangextd.com
 r.apkpure.net
 rarefix.info
+rating.downloadatoz.com
 ravenjs.com
 rayjump.com
 rbux88.com
@@ -4329,6 +4361,7 @@ spacex.plus
 spanishcoursesunamuno.com
 spatial.fineboost.com
 spclient.wg.spotify.com
+spdn.poumod.com
 specialdate.my.id
 specificclick.net
 specificmedia.com
@@ -4338,6 +4371,7 @@ spidersense.bendingspoons.com
 spinaway.com
 s.pinimg.com
 splash.unity.cn
+split.io
 splunkcloud.com
 sportskeeda.com
 sports.qq.com
@@ -4508,6 +4542,7 @@ storefsf.nearme.com.cn
 storeimg.heytapimg.com
 store.outbyte.com
 streamback.ff.avast.com
+streaming.split.io
 streamrail.net
 strn.rise-ai.com
 str.rise-ai.com
@@ -4864,6 +4899,7 @@ ulog.kwai.com
 ultimatecustomnightgame.net
 ultraviewer.net
 umc-cdn.secb2b.com
+umdc.aliapp.org
 umlazada.alibaba.com
 ummydownloader.com
 u.mobsrvapi.com
@@ -5363,6 +5399,7 @@ www.anydesk.com
 www.apkeditorfree.com
 www.app-ads-txt.com
 www.appbazaar.com
+www.appbundledownload.com
 www.appjustable.com
 www.applilink.jp
 www.arcade.software
@@ -5375,6 +5412,7 @@ www.baca.co.id
 www.baidu.com
 www.beacons.ai
 www.belnderr3d.org
+www.bestwordgame.com
 www.bhelps.info
 www.bignox.com
 www.bigo.tv
@@ -5536,6 +5574,7 @@ www.noxinfluencer.com
 www.obsproicet.net
 www.obs-studio.com
 www.obstremswiev.site
+www.onecyber.net
 www.onlinecash1.com
 www.optimumlines.com
 www.ordereffuel.co
@@ -5610,6 +5649,7 @@ www.sohu.com
 www.soundiradio.com
 www.spanishcoursesunamuno.com
 www.spinaway.com
+www.split.io
 www.splunk.com
 www.stagingapps.xyz
 www.stake.com
@@ -5678,6 +5718,7 @@ www.wattpad.com
 www.webengage.com
 www.webovernet.com
 www.wfcwallet.com
+www.wibuku.app
 www.wildspike.com
 www.wlvpn.com
 www.wmtransfer.com

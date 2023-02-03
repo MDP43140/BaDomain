@@ -1855,6 +1855,7 @@ p16-musical-va-ab.ibyteimg.com
 p16-musical-va-ab.ibyteimg.com.edgesuite.net
 p16-musical-va.ibyteimg.com
 p16-musical-va.ibyteimg.com.edgesuite.net
+p16-oec-common-useast2a.ibyteimg.com
 p16-oec-sg.ibyteimg.com
 p16-oec-sg.ibyteimg.com.edgesuite.net
 p16-oec-va.ibyteimg.com
@@ -2716,6 +2717,7 @@ search19-normal-c-useast2a.tiktokv.com
 search21-normal-c-alisg.tiktokv.com
 search22-normal-c-alisg.tiktokv.com
 search22-normal-c-useast1a.tiktokv.com
+search22-normal-useast2a.tiktokv.com
 search.amemv.com
 search.amemv.com.w.cdngslb.com
 search-bj.snssdk.com

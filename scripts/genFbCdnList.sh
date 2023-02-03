@@ -44,6 +44,7 @@ SFB_TYPES=(
 #	"instagram.f" # MainDomain1 (not recommended, replaced by external.f)
 #	"scontent.f" # MainDomain1 (not recommended, replaced by external.f)
 #	"media.f" # MainDomain2
+#	"sonar.f" # MainDomain2
 #	"media-" # MainDomain2
 	"sonar6-" # MainDomain3
 	"sonar-" # MainDomain3
@@ -194,7 +195,7 @@ SFB_MAINDOMAIN=(
 ## Main script ##
 gen(){
 	# this will generate "1 2 ... 32 33"
-	SFB_BRUTEFORCERANGE_1=`echo {1..33}`
+	SFB_BRUTEFORCERANGE_1=`echo {1..41}`
 	SFB_BRUTEFORCERANGE_2=`echo {1..6}`
 
 	# Join array to string divided by spaces

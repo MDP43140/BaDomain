@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 01.02.2023
+# Version: 03.02.2023
 # Update: 1 day
 #
 #bedeade637ed.event.collector.scopely.io
@@ -278,6 +278,7 @@
 0.0.0.0 ads.adpub.co
 0.0.0.0 adsafeprotected.com
 0.0.0.0 ads.api.vungle.com
+0.0.0.0 ads.appbundledownload.com
 0.0.0.0 ads.baca.co.id
 0.0.0.0 adsbynimbus.com
 0.0.0.0 ad-score.com
@@ -351,6 +352,7 @@
 0.0.0.0 aka-dsa.wesingapp.com
 0.0.0.0 aka.stream.kg.qq.com
 0.0.0.0 aka.tsmusic.kg.qq.com
+0.0.0.0 akcdn.bangcdn.net
 0.0.0.0 akimg.icocofun.com
 0.0.0.0 ak.itlatiaser.com
 0.0.0.0 ak.mangatoon.akamaized.net
@@ -552,6 +554,7 @@
 0.0.0.0 api.gras.samsungdm.com
 0.0.0.0 api.gw.airpay.co.id
 0.0.0.0 apigw-pre.shalltry.com
+0.0.0.0 api.happymod.com
 0.0.0.0 api.hisavana.com
 0.0.0.0 api.honeybadger.io
 0.0.0.0 api.hotstar.com
@@ -702,6 +705,7 @@
 0.0.0.0 appbazaar.com
 0.0.0.0 app.bignox.com
 0.0.0.0 app.biliintl.com
+0.0.0.0 appbundledownload.com
 0.0.0.0 app.calconic.com
 0.0.0.0 appcfg.v.qq.com
 0.0.0.0 appcfg.wetvinfo.com
@@ -711,6 +715,8 @@
 0.0.0.0 app.cove.chat
 0.0.0.0 app.driftt.com
 0.0.0.0 appevent.cookappsgames.com
+0.0.0.0 app.happymodapp.com
+0.0.0.0 app.happymod.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 apph.wpsmail.net
 0.0.0.0 appia.com
@@ -959,6 +965,7 @@
 0.0.0.0 belnderr3d.org
 0.0.0.0 bendingspoonsapps.com
 0.0.0.0 bendingspoons.com
+0.0.0.0 berduflare.com
 0.0.0.0 besmeargleor.com
 0.0.0.0 bestcards.online
 0.0.0.0 bestdate.top
@@ -1029,6 +1036,7 @@
 0.0.0.0 brand-display.com
 0.0.0.0 brand.heytap.com
 0.0.0.0 braze-images.com
+0.0.0.0 brdsg.com
 0.0.0.0 brightcove.net
 0.0.0.0 britepool.com
 0.0.0.0 broadcast.biliintl.com
@@ -1183,6 +1191,7 @@
 0.0.0.0 cdn.coveo.com
 0.0.0.0 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 0.0.0.0 cdn.cxomedia.id
+0.0.0.0 cdn-dana.marmot-cloud.com
 0.0.0.0 cdn.dms.eyewind.cn
 0.0.0.0 cdn-eu.eufylife.com
 0.0.0.0 cdn.evgnet.com
@@ -1585,6 +1594,7 @@
 0.0.0.0 daerisoft.com
 0.0.0.0 dailymotion.com
 0.0.0.0 d.alicdn.com
+0.0.0.0 dana-assets-id.oss-ap-southeast-5.aliyuncs.com
 0.0.0.0 dana.threatcast.guardsquare.com
 0.0.0.0 danuoyi.tbcache.com
 0.0.0.0 d.applovin.com
@@ -1740,6 +1750,7 @@
 0.0.0.0 download.alicdn.com
 0.0.0.0 download.anydesk.com
 0.0.0.0 download-api.palmplaystore.com
+0.0.0.0 downloadatoz.com
 0.0.0.0 download.bignox.com
 0.0.0.0 downloadfilearea.com
 0.0.0.0 download.iobit.com
@@ -1901,6 +1912,7 @@
 0.0.0.0 event.togothermany.com
 0.0.0.0 everflowclient.io
 0.0.0.0 everinform.com
+0.0.0.0 everzones.com
 0.0.0.0 evidon.com
 0.0.0.0 eviltracker.net
 0.0.0.0 evs.dcp.vpdcp.com
@@ -2079,6 +2091,7 @@
 0.0.0.0 gateway.ea.com
 0.0.0.0 gateway.fe.apple-dns.net
 0.0.0.0 gateway.id.kakaowebtoon.com
+0.0.0.0 gateway-loyalty.dana.id
 0.0.0.0 gateway.multiplay.zepeto.run
 0.0.0.0 gateway.upush.englory.net
 0.0.0.0 gauss-sauoldcostmanual-sg.allawnofs.com
@@ -2131,6 +2144,7 @@
 0.0.0.0 giocdn.com
 0.0.0.0 giphy.com
 0.0.0.0 girlfriend.host
+0.0.0.0 git99.com
 0.0.0.0 github.phala.one
 0.0.0.0 gitkraken.com
 0.0.0.0 glamorousfeeds.com
@@ -2237,6 +2251,7 @@
 0.0.0.0 gw.ruangguru.com
 0.0.0.0 gws.line.naver.jp
 0.0.0.0 gwx.line.naver.jp
+0.0.0.0 gw.zamcs.com
 0.0.0.0 gx-api.geniex.com
 0.0.0.0 gxycoj.com
 0.0.0.0 g-zgroup.pstatic.net
@@ -2297,6 +2312,7 @@
 0.0.0.0 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
 0.0.0.0 hls-hw.others-cdn.com
 0.0.0.0 hm2.yrnykx.com
+0.0.0.0 hmapp.pvpchat.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hm.e.shifen.com
 0.0.0.0 hmma.baidu.com
@@ -2364,6 +2380,7 @@
 0.0.0.0 iap.etm.tech
 0.0.0.0 iap.gameloft.com
 0.0.0.0 iap-mob.ubi.com
+0.0.0.0 i.appbundledownload.com
 0.0.0.0 ibikini.cyou
 0.0.0.0 ib.isappcloud.com
 0.0.0.0 ibispaint.com
@@ -2430,6 +2447,7 @@
 0.0.0.0 ifsau.coloros.com
 0.0.0.0 if-sg.browser.oppomobile.com
 0.0.0.0 igapromomanager-pa.googleapis.com
+0.0.0.0 i.git99.com
 0.0.0.0 ign.com
 0.0.0.0 igofun.mobi
 0.0.0.0 igslb.cdo.oppomobile.com
@@ -2462,6 +2480,7 @@
 0.0.0.0 image.useinsider.com
 0.0.0.0 image.winudf.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 imdap-sea.alipay.com
 0.0.0.0 imdb.com
 0.0.0.0 img001.fview.cn
 0.0.0.0 img002.fview.cn
@@ -2501,6 +2520,7 @@
 0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
 0.0.0.0 img.pushycat.net
 0.0.0.0 imgres.apkssr.com
+0.0.0.0 imgs-ac.alipay.com
 0.0.0.0 img.samsungapps.com
 0.0.0.0 img.scooper.news
 0.0.0.0 imgsmail.ru
@@ -2535,6 +2555,8 @@
 0.0.0.0 infinities.com.cn
 0.0.0.0 influencer.yeshen.com
 0.0.0.0 info.3g.qq.com
+0.0.0.0 info.apklollypop.com
+0.0.0.0 info.apkpudding.com
 0.0.0.0 info.braze.com
 0.0.0.0 info.ejvonlyrik.com
 0.0.0.0 infogram.com
@@ -2886,6 +2908,7 @@
 0.0.0.0 login.tim.qq.com
 0.0.0.0 login.wmtransfer.com
 0.0.0.0 log.kzvepo.com
+0.0.0.0 log.modtechbig.com
 0.0.0.0 logo.clearbit.com
 0.0.0.0 logodix.com
 0.0.0.0 logonext.tv.kuyun.com
@@ -3227,6 +3250,7 @@
 0.0.0.0 nexage.com
 0.0.0.0 nextgen.docdoc.com
 0.0.0.0 nextsoft.icu
+0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 nflxvideo.net
 0.0.0.0 nightfallinquiredune.com
@@ -3306,6 +3330,7 @@
 0.0.0.0 ns38.domaincontrol.com
 0.0.0.0 ns39.domaincontrol.com
 0.0.0.0 ns3.alikunlun.net
+0.0.0.0 ns3.alipay.com
 0.0.0.0 ns40.domaincontrol.com
 0.0.0.0 ns41.domaincontrol.com
 0.0.0.0 ns42.domaincontrol.com
@@ -3317,6 +3342,7 @@
 0.0.0.0 ns48.domaincontrol.com
 0.0.0.0 ns49.domaincontrol.com
 0.0.0.0 ns4.alikunlun.net
+0.0.0.0 ns4.alipay.com
 0.0.0.0 ns50.domaincontrol.com
 0.0.0.0 ns51.domaincontrol.com
 0.0.0.0 ns52.domaincontrol.com
@@ -3371,6 +3397,7 @@
 0.0.0.0 o13824.ingest.sentry.io
 0.0.0.0 o13855.ingest.sentry.io
 0.0.0.0 o209266.ingest.sentry.io
+0.0.0.0 o370407.ingest.sentry.io
 0.0.0.0 o43841.ingest.sentry.io
 0.0.0.0 o446669.ingest.sentry.io
 0.0.0.0 o519366.ingest.sentry.io
@@ -3403,6 +3430,7 @@
 0.0.0.0 ofa-sub.osp.opera.software
 0.0.0.0 offer.buymultivoltz.com
 0.0.0.0 offer.headlines.pw
+0.0.0.0 official.downloadatoz.com
 0.0.0.0 of.foldlife.net
 0.0.0.0 oficayuda.club
 0.0.0.0 o.glance-cdn.com
@@ -3419,6 +3447,7 @@
 0.0.0.0 omlet.me
 0.0.0.0 omnisnippet1.com
 0.0.0.0 omnithrottle.com
+0.0.0.0 om-server.btc42.com
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 one.confbesttop.com
 0.0.0.0 one.cryptonomiconf.com
@@ -3664,6 +3693,7 @@
 0.0.0.0 pi.pardot.com
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
+0.0.0.0 piwik.everzones.com
 0.0.0.0 pixelfed-prod.nyc3.digitaloceanspaces.com
 0.0.0.0 pixel.jungroup.com
 0.0.0.0 pixel.wp.com
@@ -3723,6 +3753,7 @@
 0.0.0.0 postback.applinzi.com
 0.0.0.0 postrelease.com
 0.0.0.0 pou.me
+0.0.0.0 poumod.com
 0.0.0.0 powerad.ai
 0.0.0.0 pppbr.com
 0.0.0.0 pr46m.vps.myjino.ru
@@ -3869,6 +3900,7 @@
 0.0.0.0 rangextd.com
 0.0.0.0 r.apkpure.net
 0.0.0.0 rarefix.info
+0.0.0.0 rating.downloadatoz.com
 0.0.0.0 ravenjs.com
 0.0.0.0 rayjump.com
 0.0.0.0 rbux88.com
@@ -4329,6 +4361,7 @@
 0.0.0.0 spanishcoursesunamuno.com
 0.0.0.0 spatial.fineboost.com
 0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 spdn.poumod.com
 0.0.0.0 specialdate.my.id
 0.0.0.0 specificclick.net
 0.0.0.0 specificmedia.com
@@ -4338,6 +4371,7 @@
 0.0.0.0 spinaway.com
 0.0.0.0 s.pinimg.com
 0.0.0.0 splash.unity.cn
+0.0.0.0 split.io
 0.0.0.0 splunkcloud.com
 0.0.0.0 sportskeeda.com
 0.0.0.0 sports.qq.com
@@ -4508,6 +4542,7 @@
 0.0.0.0 storeimg.heytapimg.com
 0.0.0.0 store.outbyte.com
 0.0.0.0 streamback.ff.avast.com
+0.0.0.0 streaming.split.io
 0.0.0.0 streamrail.net
 0.0.0.0 strn.rise-ai.com
 0.0.0.0 str.rise-ai.com
@@ -4864,6 +4899,7 @@
 0.0.0.0 ultimatecustomnightgame.net
 0.0.0.0 ultraviewer.net
 0.0.0.0 umc-cdn.secb2b.com
+0.0.0.0 umdc.aliapp.org
 0.0.0.0 umlazada.alibaba.com
 0.0.0.0 ummydownloader.com
 0.0.0.0 u.mobsrvapi.com
@@ -5363,6 +5399,7 @@
 0.0.0.0 www.apkeditorfree.com
 0.0.0.0 www.app-ads-txt.com
 0.0.0.0 www.appbazaar.com
+0.0.0.0 www.appbundledownload.com
 0.0.0.0 www.appjustable.com
 0.0.0.0 www.applilink.jp
 0.0.0.0 www.arcade.software
@@ -5375,6 +5412,7 @@
 0.0.0.0 www.baidu.com
 0.0.0.0 www.beacons.ai
 0.0.0.0 www.belnderr3d.org
+0.0.0.0 www.bestwordgame.com
 0.0.0.0 www.bhelps.info
 0.0.0.0 www.bignox.com
 0.0.0.0 www.bigo.tv
@@ -5536,6 +5574,7 @@
 0.0.0.0 www.obsproicet.net
 0.0.0.0 www.obs-studio.com
 0.0.0.0 www.obstremswiev.site
+0.0.0.0 www.onecyber.net
 0.0.0.0 www.onlinecash1.com
 0.0.0.0 www.optimumlines.com
 0.0.0.0 www.ordereffuel.co
@@ -5610,6 +5649,7 @@
 0.0.0.0 www.soundiradio.com
 0.0.0.0 www.spanishcoursesunamuno.com
 0.0.0.0 www.spinaway.com
+0.0.0.0 www.split.io
 0.0.0.0 www.splunk.com
 0.0.0.0 www.stagingapps.xyz
 0.0.0.0 www.stake.com
@@ -5678,6 +5718,7 @@
 0.0.0.0 www.webengage.com
 0.0.0.0 www.webovernet.com
 0.0.0.0 www.wfcwallet.com
+0.0.0.0 www.wibuku.app
 0.0.0.0 www.wildspike.com
 0.0.0.0 www.wlvpn.com
 0.0.0.0 www.wmtransfer.com

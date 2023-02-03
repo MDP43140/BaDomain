@@ -1855,6 +1855,7 @@
 0.0.0.0 p16-musical-va-ab.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-musical-va.ibyteimg.com
 0.0.0.0 p16-musical-va.ibyteimg.com.edgesuite.net
+0.0.0.0 p16-oec-common-useast2a.ibyteimg.com
 0.0.0.0 p16-oec-sg.ibyteimg.com
 0.0.0.0 p16-oec-sg.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-oec-va.ibyteimg.com
@@ -2716,6 +2717,7 @@
 0.0.0.0 search21-normal-c-alisg.tiktokv.com
 0.0.0.0 search22-normal-c-alisg.tiktokv.com
 0.0.0.0 search22-normal-c-useast1a.tiktokv.com
+0.0.0.0 search22-normal-useast2a.tiktokv.com
 0.0.0.0 search.amemv.com
 0.0.0.0 search.amemv.com.w.cdngslb.com
 0.0.0.0 search-bj.snssdk.com
