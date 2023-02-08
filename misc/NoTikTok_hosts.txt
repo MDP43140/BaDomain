@@ -53,6 +53,7 @@
 0.0.0.0 a9.pstatp.com
 0.0.0.0 a9.pstatp.com.cdn.dnsv1.com
 0.0.0.0 a9.pstatp.com.cloud.cdntip.com
+0.0.0.0 aa.birdgesdk.com
 0.0.0.0 abn.snssdk.com
 0.0.0.0 abtest-ch-hl.snssdk.com
 0.0.0.0 abtest-ch-hl.snssdk.com.w.kunluncan.com
@@ -347,6 +348,7 @@
 0.0.0.0 api31-normal-probe-useast2a.tiktokv.com
 0.0.0.0 api31.tiktokv.com
 0.0.0.0 api32.tiktokv.com
+0.0.0.0 api39-sg.gts.byteoversea.net
 0.0.0.0 api39.zong.byteoversea.net
 0.0.0.0 api3-core-c-alisg.tiktokv.com
 0.0.0.0 api3-core-c.amemv.com
@@ -756,6 +758,7 @@
 0.0.0.0 dig.bdurl.net
 0.0.0.0 dig.bdurl.net.bytedns.net
 0.0.0.0 dig.byteoversea.com
+0.0.0.0 dig.tiktokv.com
 0.0.0.0 direct.musical.ly
 0.0.0.0 dispatch.byteoversea.com
 0.0.0.0 distribution.snssdk.com
@@ -2324,6 +2327,9 @@
 0.0.0.0 pull-f5-tt02.tiktokcdn.com
 0.0.0.0 pull-f5-va01.tiktokcdn.com
 0.0.0.0 pull-f5-va01.ttlivecdn.com
+0.0.0.0 pull-f5-vr-gcp01.tiktokcdn.com
+0.0.0.0 pull-f5-vr-sg01.tiktokcdn.com
+0.0.0.0 pull-f5-vr-va01.tiktokcdn.com
 0.0.0.0 pull-f5-xg.bytecdn.cn
 0.0.0.0 pull-fcdn-base-oversea.s.worldfcdn.com
 0.0.0.0 pull-fcdn.bytecdn.cn
@@ -2527,6 +2533,7 @@
 0.0.0.0 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
 0.0.0.0 push-rtmp-f5-va01.tiktokcdn.com
 0.0.0.0 push-rtmp-f5-va01.ttlivecdn.com
+0.0.0.0 push-rtmp-f5-vr-gcp01.tiktokcdn.com
 0.0.0.0 push-rtmp-f5-xg.bytecdn.cn
 0.0.0.0 push-rtmp-l10-gcp01.tiktokcdn.com
 0.0.0.0 push-rtmp-l10-sg01.tiktokcdn.com

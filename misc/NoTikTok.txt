@@ -53,6 +53,7 @@ a8.pstatp.com
 a9.pstatp.com
 a9.pstatp.com.cdn.dnsv1.com
 a9.pstatp.com.cloud.cdntip.com
+aa.birdgesdk.com
 abn.snssdk.com
 abtest-ch-hl.snssdk.com
 abtest-ch-hl.snssdk.com.w.kunluncan.com
@@ -347,6 +348,7 @@ api31.bytegeo.akadns.net
 api31-normal-probe-useast2a.tiktokv.com
 api31.tiktokv.com
 api32.tiktokv.com
+api39-sg.gts.byteoversea.net
 api39.zong.byteoversea.net
 api3-core-c-alisg.tiktokv.com
 api3-core-c.amemv.com
@@ -756,6 +758,7 @@ diamond.snssdk.com.w.kunluncan.com
 dig.bdurl.net
 dig.bdurl.net.bytedns.net
 dig.byteoversea.com
+dig.tiktokv.com
 direct.musical.ly
 dispatch.byteoversea.com
 distribution.snssdk.com
@@ -2324,6 +2327,9 @@ pull-f5-tt02-intra.fcdn.us.tiktokv.com
 pull-f5-tt02.tiktokcdn.com
 pull-f5-va01.tiktokcdn.com
 pull-f5-va01.ttlivecdn.com
+pull-f5-vr-gcp01.tiktokcdn.com
+pull-f5-vr-sg01.tiktokcdn.com
+pull-f5-vr-va01.tiktokcdn.com
 pull-f5-xg.bytecdn.cn
 pull-fcdn-base-oversea.s.worldfcdn.com
 pull-fcdn.bytecdn.cn
@@ -2527,6 +2533,7 @@ push-rtmp-f5-tt01.fcdn.us.tiktokv.com
 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
 push-rtmp-f5-va01.tiktokcdn.com
 push-rtmp-f5-va01.ttlivecdn.com
+push-rtmp-f5-vr-gcp01.tiktokcdn.com
 push-rtmp-f5-xg.bytecdn.cn
 push-rtmp-l10-gcp01.tiktokcdn.com
 push-rtmp-l10-sg01.tiktokcdn.com

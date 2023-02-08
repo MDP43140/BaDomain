@@ -4,15 +4,18 @@
 11.courier-push-apple.com.akadns.net
 12-courier.push.apple.com
 13-courier.push.apple.com
+13.courier-push-apple.com.akadns.net
 14-courier.push.apple.com
 15-courier.push.apple.com
 15.courier-push-apple.com.akadns.net
 16-courier.push.apple.com
+16.courier-push-apple.com.akadns.net
 17-courier.push.apple.com
 17.courier-push-apple.com.akadns.net
 18-courier.push.apple.com
 19-courier.push.apple.com
 1-courier.push.apple.com
+1.courier-push-apple.com.akadns.net
 20-courier.push.apple.com
 21-courier.push.apple.com
 21.courier-push-apple.com.akadns.net
@@ -58,6 +61,7 @@
 45.courier-push-apple.com.akadns.net
 46-courier.push.apple.com
 47-courier.push.apple.com
+47.courier-push-apple.com.akadns.net
 48-courier.push.apple.com
 48.courier-push-apple.com.akadns.net
 49-courier.push.apple.com

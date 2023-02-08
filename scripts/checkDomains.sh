@@ -50,7 +50,7 @@ for i in $DOMAIN_LISTS;do
 		echo -e "\r[+] $i exists\e[0K"
 		echo $i >> "$LOG_EXISTS_FILE"
 	elif echo "$result" | grep -q ', status: SERVFAIL';then
-		echo -e "\r[!] DNS Resolver is out-of-time to query $i\e[0K"
+		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 	else
 		echo -e "\r[-] $i not exist\e[0K"

@@ -1,11 +1,9 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 03.02.2023
+# Version: 08.02.2023
 # Update: 1 day
 #
-#bedeade637ed.event.collector.scopely.io
-#bedeade637ed.register.collector.scopely.io
 
 016qfim5my3lh.puscomosca.com
 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
@@ -203,6 +201,7 @@ a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 aa-cdn.net
 aadg.trafficmanager.net
@@ -488,6 +487,7 @@ api.3dsintegrator.com
 api40-normal-alisg.helo-api.com
 api-454110319.cn-northwest-1.elb.amazonaws.com.cn
 api.4sync.com
+api-7739323866949324662-136565.appspot.com
 api.9apps.com
 api-ad-adapter-sg.wps.com
 api-ad-adapter.wps.com
@@ -590,6 +590,10 @@ api.leatonm.net
 api.likee.video
 api.like-it.video
 api.like-video.com
+api-live1.boomplaymusic.com
+api-live2.boomplaymusic.com
+api-live3.boomplaymusic.com
+api-live.boomplaymusic.com
 api.livechatinc.com
 api.map.baidu.com
 api-maps.yandex.ru
@@ -608,6 +612,7 @@ api-notice.kinemasters.com
 api.noxinfluencer.com
 api.olmusic.xyz
 api.optimumlines.com
+api.orderonline.id
 api.os.mob.com
 api.otidapi.com
 api.owxd.xyz
@@ -767,67 +772,10 @@ arkahost.com
 arms-retcode-sg.aliyuncs.com
 artas.biz
 artfut.com
-artpp-vivofs.vivoglobal.com
 artsai.com
-asai-file-wlanapkcdn2.vivoglobal.com
 asaux1.contivio.com
-asia-album-api.vivoglobal.com
-asia-assistant-sports.vivoglobal.com
-asia-browserplat.vivoglobal.com
-asia-browserstatic.vivoglobal.com
-asia-browser.vivoglobal.com
-asia-commonitor-stsdk.vivoglobal.com
-asia-comonrt-stsdk.vivoglobal.com
-asia-comort-stsdk.vivoglobal.com
-asia-compnrt-stsdk.vivoglobal.com
-asia-comprt-stsdk.vivoglobal.com
 asia.csoversea.mbgame.anticheatexpert.com
-asia-err-up.vivoglobal.com
-asia-ex-adlog.vivoglobal.com
-asia-exappupgrade.vivoglobal.com
-asia-exdmp.vivoglobal.com
-asia-exmagazineunlock-proxy.vivoglobal.com
-asia-expweb.vivo.com
-asia-exstsdk.vivoglobal.com
-asia-f-up.vivoglobal.com
-asia-gamecenter-vivofs.vivoglobal.com
-asia-gamecenter.vivoglobal.com
-asia-gsearch.vivoglobal.com
-asia-img-appstore.vivoglobal.com
-asia-magazineunlockstatic.vivoglobal.com
-asia-magazineunlock.vivoglobal.com
-asia-mailcli.vivoglobal.com
-asia-main-appstore.vivoglobal.com
-asia-news-abroad-backstage-interface.vivoglobal.com
-asia-news-abroad.vivo.com
-asia-os-config-appstore.vivoglobal.com
-asia-p.vivoglobal.com
-asia-rommc-api.vivoglobal.com
-asia-romsp-unifyconfig.vivoglobal.com
-asia-romsp.vivoglobal.com
-asia-ro-up.vivoglobal.com
-asia-sms-api.vivoglobal.com
 asia-southeast1-gcp.api.snapchat.com
-asia-static-vp.vivoglobal.com
-asia-st-exappupgrade.vivoglobal.com
-asia-stp.vivoglobal.com
-asia-st-romsp.vivoglobal.com
-asia-st-sl.vivoglobal.com
-asia-st-sysupgrade.vivoglobal.com
-asia-subscribe.vivoglobal.com
-asia-sysupgrade-api.vivoglobal.com
-asia-theme-api.vivoglobal.com
-asia-third-appstore.vivoglobal.com
-asia-timesync.vivoglobal.com
-asia-update-appstore.vivoglobal.com
-asia-upload-appstore.vivoglobal.com
-asia-usrsys-api.vivoglobal.com
-asia-vcode-api.vivoglobal.com
-asia-vcode-od.vivoglobal.com
-asia-vcode-or.vivoglobal.com
-asia-vnote.vivoglobal.com
-asia-weather.vivoglobal.com
-asia-wifi.vivoglobal.com
 askmen.com
 assets10.lottiefiles.com
 assets16.resso.app
@@ -913,11 +861,11 @@ aws-sgp-pic.snackvideo.in
 aws-static.snackvideo.in
 awxcdn.com
 axiata-lk-43c53a330e9-he.fortumo.io
-az.appstore.vivo.com.cn
 b1.nel.goog
 b2.mail.ru
 b6s-api.snow.me
 b6s-static.snow.me
+b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
 babyzee.uno
 baca.co.id
 backjawtanoa.com
@@ -965,7 +913,6 @@ beian.miit.gov.cn
 belnderr3d.org
 bendingspoonsapps.com
 bendingspoons.com
-berduflare.com
 besmeargleor.com
 bestcards.online
 bestdate.top
@@ -1041,7 +988,6 @@ brightcove.net
 britepool.com
 broadcast.biliintl.com
 browser-i-gl.heytapmobile.com
-browserplat.vivo.com.cn
 b.sf-syn.com
 b.sogou.com
 b.st-hatena.com
@@ -1225,6 +1171,7 @@ cdnm3.caping.co.id
 cdn.metarouter.io
 cdn.mxpnl.com
 cdn.neverbounce.com
+cdn.orderonline.id
 cdn.otnolatrnup.com
 cdn.outfit7.com
 cdn.pdst.fm
@@ -1392,7 +1339,6 @@ collector-pxt6dy78t8.px-client.net
 collector-pxt6dy78t8.px-cloud.net
 coloros.com
 combinatronics.io
-comm.api.vivoglobal.com
 commercecore.zendesk.com
 commerce-i18n-api.faceucam.com
 common-api.smart-sense.org
@@ -1479,6 +1425,7 @@ counter.top.ge
 counter.yadro.ru
 countly2.feelingtouch.com
 country-blocker.zend-apps.com
+coupon-code.4wps.net
 cove-cdn.ams3.cdn.digitaloceanspaces.com
 cove.chat
 coveo.com
@@ -1735,7 +1682,6 @@ doh.iq.com
 dojo.cc
 dokl7xqu9svnv.cloudfront.net
 dollarbrite.com
-domaincfg.vivoglobal.com
 domaintechniacal.aihelp.net
 domain.trialogger.com
 domain.zongg.top
@@ -1746,7 +1692,6 @@ dosya.tc
 dotmetrics.net
 doubleclick.net
 down.anticheatexpert.com
-download0.vivo.com.cn
 download.alicdn.com
 download.anydesk.com
 download-api.palmplaystore.com
@@ -1924,7 +1869,6 @@ experts-exchange.com
 exploitbyte.net
 exponential.com
 exportinvest.ge
-external.appstore.vivo.com.cn
 extremetech.com
 eyeonsight.net
 eyeota.net
@@ -2128,6 +2072,7 @@ getlasso.co
 getryoko.com
 getsitecontrol.com
 g.ezoic.net
+gfd-phinf.pstatic.net
 gfp.veta.naver.com
 gfycat.com
 g-gdfp.uvfuns.com
@@ -2318,7 +2263,6 @@ hm.e.shifen.com
 hmma.baidu.com
 hockeyapp.net
 homecash1.com
-homepage.vivo.com
 honeybadger.io
 hopexos.vip
 horizonme.net
@@ -2398,7 +2342,6 @@ icota-eu.coloros.com
 icredits.heytapmobi.com
 id2.sv.rkdms.com
 id-a.kakaopagecdn.com
-id-analyzer-appstore.vivoglobal.com
 idapi.open.oppomobile.com
 idapi.store.oppomobile.com
 id.bignox.com
@@ -2406,15 +2349,13 @@ id-comet.z-dn.net
 idea5.xyz
 id.ekatox.com
 identrust.com
+id.facemojikeyboard.com
 idg.map.fastly.net
-id-info-appstore.vivoglobal.com
 id-live.slatic.net
-id-main-appstore.vivoglobal.com
 id.maps.taxsee.com
 idm-pub-img.s3.ap-southeast-1.amazonaws.com
 idola.net.id
 id.push.oppomobile.com
-id-search-appstore.vivoglobal.com
 idsearch.ucnews.ucweb.com
 id-store.oppomobile.com
 id-store.realmemobile.com
@@ -2422,9 +2363,6 @@ id.supercell.com
 id-telkom.rcs.telephony.goog
 id-test-11.slatic.net
 id-three.rcs.telephony.goog
-id-timer-appstore.vivoglobal.com
-id-update-appstore.vivoglobal.com
-id-upload-appstore.vivoglobal.com
 id-ws-edge001.itoon.org
 id-ws-edge002.itoon.org
 id-xl.rcs.telephony.goog
@@ -2540,7 +2478,6 @@ imptrk.siteplug.com
 impulse.contextads.live
 impulse.forkcdn.com
 in.4sync.com
-in-adreq.vivoglobal.com
 inapps.appsflyersdk.com
 in.bignox.com
 inbox.clashofclans.com
@@ -2549,7 +2486,6 @@ increaserev.com
 increasinglycockroachpolicy.com
 indeed.com
 i.neptunegame.com
-in-exmagazineunlock-proxy.vivoglobal.com
 infinitedata-pa.googleapis.com
 infinities.cn
 infinities.com.cn
@@ -2568,17 +2504,14 @@ ingaa.xyz
 init.supersonicads.com
 init.y5en.com
 injapp.com
-in-joviexscene.vivoglobal.com
 inneractive-assets.s3-eu-west-1.amazonaws.com
 inneractive-assets.s3-eu-west-2.amazonaws.com
 inneractive-assets.s3-eu-west-3.amazonaws.com
 inner-active.mobi
-in-news-abroad-backstage-interface.vivoglobal.com
 innews.infohubnews.app
 innity.net
 innovads-server.poster.appsinnova.com
 innovid.com
-in-os-config-appstore.vivoglobal.com
 inpagepush.com
 insent.ai
 i-n.sgsnssdk.com
@@ -2597,7 +2530,6 @@ intercomcdn.com
 intercom.io
 internal.faceunity.com
 internetpositif.uzone.id
-in-third-appstore.vivoglobal.com
 intlapi.cdo.oppomobile.com
 intl-api.iq.com
 intl.iqiyi.com
@@ -2755,8 +2687,10 @@ kidozplayer.com
 kids.weixin.qq.com
 killerbeanforever.com
 kinesis.ap-south-1.amazonaws.com
+kinesis.us-east-1.amazonaws.com
 king-candycrush-prod.secure2.footprint.net
 king.com
+kingsoft-office-service.com
 kinja.com
 kinja-com.videoplayerhub.com
 kinja-static.com
@@ -3238,7 +3172,6 @@ newpic.wetvinfo.com
 newplayable.mintegral.com
 new.qq.com
 newrelic.com
-news-abroad.vivo.com
 newsagent.quest
 newsaggreg.shalltry.com
 newscloud.or.kr
@@ -3491,6 +3424,7 @@ orangeclickmedia.com
 orange-dc.lazada.com
 orcacke.com
 ordereffuel.co
+orderonline.id
 orders.establishedtitles.com
 os-aibox.shalltry.com
 osano.com
@@ -3634,7 +3568,6 @@ pay4d.info
 pay-api.ahagamecenter.com
 pay.bignox.com
 pay-sg.wsds.cn
-pay.vivoglobal.com
 pay.weixin.qq.com
 pay.yeshen.com
 pazu.ge
@@ -3687,6 +3620,7 @@ pingma.qq.com
 pinguin.kredivo.com
 pinimg.com
 pinning-02.secb2b.com
+pin-river.data.ea.com
 pinterest.cdn-gw-dv.net
 pinterest.gw-dv.net
 pinyin.sogou.com
@@ -3815,6 +3749,7 @@ pt.slideshare.net
 public1.114dns.com
 public2.114dns.com
 public.bnbstatic.com
+public.orderonline.id
 public-prakerja.oss-ap-southeast-1.aliyuncs.com
 public-prakerja.oss-ap-southeast-2.aliyuncs.com
 public-prakerja.oss-ap-southeast-3.aliyuncs.com
@@ -4020,7 +3955,6 @@ room-thirtythree.honeybadger.io
 rosenberg.appmetrica.yandex.net
 roulette.apps-host.com
 roumucee.com
-ro.up.vivoglobal.com
 rpc.tapjoy.com
 rpe.xdplt.com
 r.playerio.com
@@ -4186,6 +4120,7 @@ secure-lc.livechatinc.com
 secure.livechatinc.com
 secure-media.hotstar.com
 securetoken.googleapis.com
+securetrueip.co.kr
 securiti.ai
 securitiai.widget.insent.ai
 security.intuit.com
@@ -4211,6 +4146,7 @@ sentry.tidio.co
 servebom.com
 serve.pubapp.network
 serverhub.ru
+service-api.kingsoft-office-service.com
 service.carlcare.com
 service.force.com
 service.pokigame.io
@@ -4415,6 +4351,7 @@ stagingapps.xyz
 staging.pasangiklan.com
 stags.bluekai.com
 stake.com
+start1password.com
 startechnews.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
@@ -4506,7 +4443,6 @@ steadfastsystem.com
 steelhousemedia.com
 stepsister.uno
 steveziogames.com
-st-exbrowser.vivoglobal.com
 stg-data-id.ads.heytapmobile.com
 st-hatena.com
 stickdix.com
@@ -4541,6 +4477,7 @@ storedl8f.nearme.cn
 storefsf.nearme.com.cn
 storeimg.heytapimg.com
 store.outbyte.com
+store.wps.com
 streamback.ff.avast.com
 streaming.split.io
 streamrail.net
@@ -4611,7 +4548,6 @@ syndication.twitter.com
 syn-dir.sn.eamobile.com
 sysstat.tildacdn.com
 system1.com
-sysupgrade.api.vivoglobal.com
 szmg.qq.com
 t0.api.kikakeyboard.com
 t1.daumcdn.net
@@ -4864,6 +4800,7 @@ u3.teddymobile.cn
 uadexchange.com
 uapi.afo2o.com
 uapi-id.heytapmobile.com
+ua.realtimely.io
 uat5-b.investingchannel.com
 uc-0.telemetry.eyeo.com
 uc-11.telemetry.eyeo.com
@@ -5002,7 +4939,6 @@ va.tawk.to
 vaugroar.com
 vay.rent
 vbucks22.com
-vbw.vivoglobal.com
 vdo.ai
 vendorlist.dmcdn.net
 verify.uxcam.com
@@ -5059,7 +4995,6 @@ vk.com
 v.lsttnews.com
 vn.bignox.com
 vnclip.net
-vnotestatic.vivoglobal.com
 voip-news.com
 vom.in.net
 vom.lol
@@ -5194,7 +5129,6 @@ widget-v2.smartsuppcdn.com
 widget-v4.tidiochat.com
 wifimap.zendesk.com
 wifi.teddymobile.cn
-wifi.vivo.com.cn
 wildspike.com
 winluckychance.com
 wins.isprog.com
@@ -5208,6 +5142,28 @@ wnt1.rdtk.io
 wondershare.cc
 woopra.com
 wootric.com
+worker2.advertnative.com
+worker30.advertnative.com
+worker31.advertnative.com
+worker32.advertnative.com
+worker33.advertnative.com
+worker34.advertnative.com
+worker35.advertnative.com
+worker36.advertnative.com
+worker37.advertnative.com
+worker38.advertnative.com
+worker39.advertnative.com
+worker3.advertnative.com
+worker40.advertnative.com
+worker41.advertnative.com
+worker4.advertnative.com
+worker75.advertnative.com
+worker76.advertnative.com
+worker77.advertnative.com
+worker80.advertnative.com
+worker81.advertnative.com
+worker82.advertnative.com
+worker83.advertnative.com
 workonline1.com
 work.weixin.qq.com
 wpadmngr.com
@@ -5578,6 +5534,7 @@ www.onecyber.net
 www.onlinecash1.com
 www.optimumlines.com
 www.ordereffuel.co
+www.orderonline.id
 www.palmpal.net
 www.palmpay.com
 www.pasangiklan.com
@@ -5617,6 +5574,7 @@ www.sape.ru
 www.sas-autos.com
 www.screenconnect.com
 www.searchbestcolleges.com
+www.securetrueip.co.kr
 www.senin.live
 www.servicewebly.com
 www.sfdcstatic.com
@@ -5653,6 +5611,7 @@ www.split.io
 www.splunk.com
 www.stagingapps.xyz
 www.stake.com
+www.start1password.com
 www.steveziogames.com
 www.stormcleanerapp.com
 www.superbig77.co
@@ -5763,6 +5722,7 @@ x-apac.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+x-apac.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 x-apac.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 x-apac.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 x-apac.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
@@ -5782,6 +5742,7 @@ x-eu.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+x-eu.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 x-eu.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 x-eu.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 x-eu.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
@@ -5897,6 +5858,7 @@ zongg.top
 zoominfo.com
 zopim.com
 zos.alipayobjects.com
+zres.alicdn.com
 zte.cn
 zte.com
 zte.com.cn

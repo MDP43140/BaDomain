@@ -1,6 +1,7 @@
 
 0.0.0.0 100067.connect.garena.com
 0.0.0.0 100067.msdk.garena.com
+0.0.0.0 bdversion.ggbluefox.com
 0.0.0.0 castle.freefiremobile.com
 0.0.0.0 cdngarenanow-a.akamaihd.net
 0.0.0.0 clientbp.common.ggbluefox.com

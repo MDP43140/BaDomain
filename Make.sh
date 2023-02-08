@@ -11,6 +11,7 @@ HOSTSFILE_TYPES=(
 	"misc/NoTikTok"
 	"misc/NoRoblox"
 	"misc/NoXiaomi"
+	"misc/NoVivo"
 )
 HOSTSFILE_TYPES="${HOSTSFILE_TYPES[@]}"
 for i in "$@";do
