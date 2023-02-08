@@ -12,14 +12,15 @@ What type of domains BaDomain (general hosts file) is blocking:
 + Chinese domains (.cn).
 + Russian domains (.ru).
 
-Optional (included as separate misc hosts file*, soon the lists below will have a URL link attached*):
-+ TikTok
-+ Facebook
-+ Xiaomi
-+ Mobile Legends
-+ Roblox
-+ Free Fire
-+ Apple
+Optional (included as separate misc hosts file):
++ [TikTok](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoTikTok_hosts.txt)
++ [Facebook](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoFB_hosts.txt)
++ [Xiaomi](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoXiaomi_hosts.txt)
++ [Vivo](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoVivo_hosts.txt)
++ [Mobile Legends](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoMLBB_hosts.txt)
++ [Roblox](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoRoblox_hosts.txt)
++ [Free Fire](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoFreeFire_hosts.txt)
++ [Apple](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoApple_hosts.txt)
 
 ## Contributing
 You can help improve this project by
