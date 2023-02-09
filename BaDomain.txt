@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 08.02.2023
+# Version: 09.02.2023
 # Update: 1 day
 #
 
@@ -111,6 +111,7 @@
 48.ygti905ffth6.com
 49.ygti905ffth6.com
 4ae9.playfabapi.com
+4ced22ca066d4ca4a7726c9afff8c039.us-east-1.aws.found.io
 4cinsights.com
 4gnetfree.top
 4g-net.top
@@ -232,7 +233,6 @@ acegen.uno
 ace.naver.com
 acs-m.lazada.co.id
 acs-m.lazada.sg
-actimg.heytapimg.com
 activedating-24.online
 active-dating.online
 acuityplatform.com
@@ -284,7 +284,6 @@ ad-score.com
 adsensecamp.com
 adservice.google.co.id
 ads.flurry.com
-adsfs-id.heytapimg.com
 ads-geo.appia.com
 ads.grid.id
 adsimg.kompas.com
@@ -321,8 +320,6 @@ adx.adsgaga.com
 adx.ads.vungle.com
 ad-x.com
 ad-x.co.uk
-adx-id.ads.heytapmobile.com
-adx-in.ads.heytapmobile.com
 adz-skip.net
 adz.wattpad.com
 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
@@ -358,12 +355,15 @@ ak.mangatoon.akamaized.net
 aksconsulting.us
 ak-sgp-pic.snackvideo.in
 aktup.bangcdn.net
-album-sg01a.ocloud.heytapmobi.com
 alexmods.com
 al.flv.nimo.tv
 al.hls.nimo.tv
 ali2-sgp-cdn.snackvideo.in
+alibaba.alibaba-inc.com
+alibaba.alibaba-inc.com.gds.alibabadns.com
 alibabacloud.com
+alibaba-inc.com
+alibaba-inc.com.gds.alibabadns.com
 alicdn.com
 alightcreative.com
 alipay.com
@@ -375,6 +375,7 @@ alitup.bangcdn.net
 alive.vskit.tv
 aliyun.com
 aliyuncs.com
+aliyun-inc.com
 allawntech.com
 all.cnzz.com
 all.cnzz.com.danuoyi.tbcache.com
@@ -517,7 +518,6 @@ api.boomplaymusic.com
 api.buzzoola.com
 api.castle.io
 api.clucoin.com
-api-cn.theme.heytapmobi.com
 api.coin.baca.co.id
 api.consumer-surveys.us
 api.cupid.ptqy.gitv.tv
@@ -528,7 +528,6 @@ api.dcp.vpdcp.com
 api.deathwing.me
 api.decisionnowlive.com
 api.dkyweipsds.com
-api.dns.oppomobile.com
 api.ethyca.com
 api.eufylife.com
 api.faceapp.io
@@ -545,10 +544,6 @@ api.gamesystem.zepeto.run
 apigateway.tmctool.com
 api.glance.inmobi.com
 api.glb.samsung-gamelauncher.com
-api-gl.cdo.heytapmobi.com
-api-gl.cdo.heytapmobile.com
-api-gl.store.heytapmobi.com
-api-gl.theme.heytapmobile.com
 api.gotinder.com
 api.gotube.pro
 api.gras.samsungdm.com
@@ -560,12 +555,6 @@ api.honeybadger.io
 api.hotstar.com
 api.howlapm.com
 api-iam.intercom.io
-api-id.cdo.heytapmobile.com
-api-id.game.heytapmobi.com
-api-id.instant.heytapmobile.com
-api-id.play.heytapmobile.com
-api-id.store.heytapmobi.com
-api-id.theme.heytapmobile.com
 api.igofun.mobi
 api-in-orc.v-mate.mobi
 api.instabridge.com
@@ -647,11 +636,8 @@ api.segment.io
 api.sg.mangatoon.mobi
 api.shareitgames.com
 api.shopee.co.id
-api-snake.oppomobile.com
-api.snake.oppomobile.com
 api.snapchat.com
 api.snapkit.com
-apisnd.heytapmobi.com
 apis.pdnob.com
 api.sportskeeda.com
 apissug-sf.ucweb.com
@@ -715,8 +701,6 @@ app.calconic.com
 appcfg.v.qq.com
 appcfg.wetvinfo.com
 appcloud.mcafee.com
-appconf-ocs-sgp.heytapdl.com
-appconf-sgp.heytapdl.com
 app.cove.chat
 app.driftt.com
 appevent.cookappsgames.com
@@ -889,7 +873,6 @@ bc0a.com
 bc.game
 bc.imgix.net
 bcs.amanotes.net
-bdapi-id.ads.heytapmobile.com
 bdimg.share.baidu.com
 bdstatic.com
 bdtj.infinities.com.cn
@@ -981,13 +964,11 @@ brainly.app.link
 braintreegateway.com
 branch.io
 brand-display.com
-brand.heytap.com
 braze-images.com
 brdsg.com
 brightcove.net
 britepool.com
 broadcast.biliintl.com
-browser-i-gl.heytapmobile.com
 b.sf-syn.com
 b.sogou.com
 b.st-hatena.com
@@ -1275,7 +1256,6 @@ clientapi-sin.dtignite.com
 client-metrics.prod.topeleven.com
 client.perimeterx.net
 client-registry.mutinycdn.com
-client-uc.heytapmobi.com
 clks.media.net
 cloudcache.tencent-cloud.com
 cloudcache.tencentcs.com
@@ -1284,10 +1264,7 @@ cloud-config-api.shalltry.com
 cloudctrl.gcloudsdk.com
 cloudctrl.igamecj.com
 cloudflareinsights.com
-cloudi-in.browser.oppomobile.com
 cloudinary.com
-cloudi-sg.browser.heytapmobile.com
-cloudi-sg.browser.oppomobile.com
 cloud.litatom.com
 cloudsaze.com
 cloud.screenconnect.com
@@ -1314,6 +1291,7 @@ cn.e.pic.mangatoon.mobi
 cn-e-pic-tencent.mangatoon.mobi
 cn-e-pic-ws.mangatoon.mobi
 c.neptunegame.com
+cn-hangzhou.oss-cdn.aliyun-inc.com
 cn.pool.ntp.org
 cnr.cn
 cn.s.50union.com
@@ -1339,6 +1317,7 @@ collector-pxt6dy78t8.px-client.net
 collector-pxt6dy78t8.px-cloud.net
 coloros.com
 combinatronics.io
+com.gds.alibabadns.com
 commercecore.zendesk.com
 commerce-i18n-api.faceucam.com
 common-api.smart-sense.org
@@ -1350,17 +1329,15 @@ component-ota-f.coloros.com
 component-ota-sg.allawnos.com
 concertads-configs.vox-cdn.com
 concert.io
-conf-cn.dc.heytapmobi.com
-conf.dc.oppomobile.com
 confection.io
 confection-status.netlify.app
-conff.dc.oppomobile.com
 config-1.carx-online.com
 config-1.driftracingonline.com
 config-2.carx-online.com
 config-2.driftracingonline.com
 config-3.carx-online.com
 config.ab.qq.com
+config.ads.vungle.com
 config-api.internet.apps.samsung.com
 config.carx-online.com
 config.driftracingonline.com
@@ -1375,14 +1352,9 @@ configure-tcp-android.rayjump.com
 configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
 config.y5en.com
-conf-in.dc.heytapmobi.com
 confirmation.gameloft.com
-conf-sg-dc.heytapdl.com
-conf-sg.dc.heytapmobi.com
 conn1.coloros.com
-conn1.oppomobile.com
 conn2.coloros.com
-conn2.oppomobile.com
 connatix.com
 connect.detik.com
 connect-dra.dbankcloud.cn
@@ -1558,6 +1530,7 @@ datadoghq.com
 datadome.co
 data.flurry.com
 datamation.com
+datamixer-pa.googleapis.com
 data-rep.livetech.shopee.co.id
 datasink.analysis.mangatoon.mobi
 datasinksensorsdata.51tracking.com
@@ -1574,14 +1547,6 @@ dc.albtls.t.co
 dcb.fortumo.com
 dc.di.atlas.samsung.com
 dc.dqa.samsung.com
-dc-dragate-sg.heytapmobile.com
-dc.foreign.oppomobile.com
-dcintl1.push.heytapmobile.com
-dcintl1.push.oppomobile.com
-dcintl2.push.oppomobile.com
-dcintl3.push.oppomobile.com
-dcintl.push.heytapmobile.com
-dcintl.push.oppomobile.com
 dc.kika-backend.com
 dcmdaa.y5en.com
 dcmdae.y5en.com
@@ -1620,9 +1585,6 @@ dew-omm.lotusflare.com
 dexeqbeb7giwr.cloudfront.net
 dfile.su
 df.infra.sz.shopee.co.id
-dhfs-id.heytapimage.com
-dhfs-in.heytapimage.com
-dhfs-my.heytapimage.com
 dhisex.uno
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
@@ -1705,10 +1667,6 @@ download-sin.dtignite.com
 downloads.intercomcdn.com
 downloads.mailchimp.com
 dpdwnl.my-free.website
-dragate.dc.oppomobile.com
-dragate-in-dc.heytapmobile.com
-dragate-sg.dc.heytapmobi.com
-dragate-sg.dc.oppomobile.com
 draper.popcap.com
 drift.com
 driftracingonline.com
@@ -1732,7 +1690,6 @@ duolaipk.com
 d.wattpad.com
 dxp.baidu.com
 dynamodb.us-west-2.amazonaws.com
-dzbkjh1.myoppo.com
 e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e12919.dscd.akamaiedge.net
@@ -1812,9 +1769,6 @@ epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
 epdg.epc.mnc009.mcc510.pub.3gppnetwork.org
 e.pic.ak.mangatoon.akamaized.net
 episerver.net
-epoch-cn.cdo.heytapmobi.com
-epoch-gl.cdo.heytapmobi.com
-epoch-id.cdo.heytapmobi.com
 eportalmobile.com
 erotic-massagenn.com
 ers.samsungcloud.com
@@ -1897,7 +1851,6 @@ feature-api.pa1mstore.com
 feature-api.palmplaystore.com
 feature-api.palmst0re.com
 feebhax.com
-feedback-gl.heytapmobi.com
 feedback.uc.cn
 feed.bignox.com
 feed.chimukappa.com
@@ -1912,6 +1865,7 @@ fennec-catalog-cdn.prod.mozaws.net
 f.everestop.io
 fg8vvsvnieiv3ej16jby.litix.io
 fid.agkn.com
+filebroker-cdn.lazada.co.id
 filehelper.weixin.qq.com
 filehostpro.xyz
 filelink.ru
@@ -1960,7 +1914,6 @@ foxdoing.com
 foxpush.net
 fpcs-prod-wf.centurygames.com
 fpstool.com
-f.push.oppomobile.com
 fr.4sync.com
 fr.bignox.com
 frd.shopee.co.id
@@ -2009,13 +1962,11 @@ gamea.clashofclans.com
 gameanalytics.com
 gamecfg-mob.ubi.com
 gameguardian.b-cdn.net
-gameimg.heytapimg.com
 gameloft.com
 gameloft.helpshift.com
 gamepe.ru
 gameportal.casa
 game.qq.com
-games-community-sg.heytapmobile.com
 games.shopee.co.id
 gametool10.ml
 gamev6.com
@@ -2051,6 +2002,7 @@ gdanstum.net
 gdfp.kwai-pro.com
 gdl.bigo.sg
 gdpr.adjust.com
+gds.alibabadns.com
 geclose2eu.info
 g.ekatox.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
@@ -2171,8 +2123,6 @@ growtopia1.com
 growtopia2.com
 grsm.io
 gs-cdn.optimonk.com
-gslb.cdo.oppomobile.com
-gslb-gl.cdo.heytapmobi.com
 gslb.secb2b.com
 gslb.sgw.shopeemobile.com
 gslb.shalltry.com
@@ -2284,13 +2234,9 @@ hsappstatic.net
 hses3.hotstar.com
 hshh.org
 hs-marketing.imgix.net
-htms.heytapmobile.com
 h.trace.qq.com
 htrace.wetvinfo.com
 http-check-headers.yandex.ru
-httpdns.ocloud.heytapmobi.com
-httpdns.ocloud.oppomobile.com
-httpdns-push.heytapmobile.com
 httpdns.y5en.com
 httpdns.yunxindns.com
 http-inputs-notion.splunkcloud.com
@@ -2313,12 +2259,8 @@ i18n.mvconf.50union.com
 i1.hdslb.com
 i2.hdslb.com
 i2-peyeofyttwvlktcdycpmezebwshibx.init.cedexis-radar.net
-i2.weather.oppomobile.com
 i3.hdslb.com
-i5.weather.oppomobile.com
 i6e7aabybyc.co.com
-i6f.weather.oppomobile.com
-i6.weather.oppomobile.com
 i.aecoapps.com
 iam.tryemanagecrm.com
 iap.etm.tech
@@ -2339,11 +2281,8 @@ icon.mndsrv.com
 icosa-service-sg.allawnos.com
 icosa-sg.coloros.com
 icota-eu.coloros.com
-icredits.heytapmobi.com
 id2.sv.rkdms.com
 id-a.kakaopagecdn.com
-idapi.open.oppomobile.com
-idapi.store.oppomobile.com
 id.bignox.com
 id-comet.z-dn.net
 idea5.xyz
@@ -2351,13 +2290,14 @@ id.ekatox.com
 identrust.com
 id.facemojikeyboard.com
 idg.map.fastly.net
+id-live-01.slatic.net
+id-live-05.slatic.net
 id-live.slatic.net
 id.maps.taxsee.com
+id.mmstat.com
 idm-pub-img.s3.ap-southeast-1.amazonaws.com
 idola.net.id
-id.push.oppomobile.com
 idsearch.ucnews.ucweb.com
-id-store.oppomobile.com
 id-store.realmemobile.com
 id.supercell.com
 id-telkom.rcs.telephony.goog
@@ -2373,25 +2313,16 @@ i.establishedtitles.com
 if4a3802.app-ads-txt.com
 iface2.iqiyi.com
 iface4.iqiyi.com
-if.browser.oppomobile.com
-iflowf.browser.oppomobile.com
-iflowf-sg.browser.oppomobile.com
-iflow-in.browser.heytapmobile.com
-iflow-sg.browser.heytapmobile.com
 ifota.coloros.com
 ifota.realmemobile.com
 iframe.videodelivery.net
 ifrus.coloros.com
 ifsau.coloros.com
-if-sg.browser.oppomobile.com
 igapromomanager-pa.googleapis.com
 i.git99.com
 ign.com
 igofun.mobi
-igslb.cdo.oppomobile.com
 i.ibb.co
-i-in.browser.heytapmobile.com
-i.instant.oppomobile.com
 i.jpallnight.com
 i.l-new.inmobicdn.net
 ilockcardf.apps.coloros.com
@@ -2445,13 +2376,11 @@ imgg.traffic-media.co
 img-hw.xnxx-cdn.com
 img-hw.xvideos-cdn.com
 img.imgsmail.ru
-img-intl-push.heytapimg.com
 imgix.net
 img.kastking.top
 img-l3.xnxx-cdn.com
 img.like.video
 img.linkxw.com
-img-music.heytapimage.com
 img.netpop.app
 img.onesignal.com
 img.pay4d.info
@@ -2481,7 +2410,6 @@ in.4sync.com
 inapps.appsflyersdk.com
 in.bignox.com
 inbox.clashofclans.com
-incdopic.heytapimg.com
 increaserev.com
 increasinglycockroachpolicy.com
 indeed.com
@@ -2530,7 +2458,6 @@ intercomcdn.com
 intercom.io
 internal.faceunity.com
 internetpositif.uzone.id
-intlapi.cdo.oppomobile.com
 intl-api.iq.com
 intl.iqiyi.com
 intuit.com
@@ -2578,8 +2505,6 @@ i.sau.foreign.coloros.com
 i.scooper.news
 iseepassword.com
 isex.baby
-i-sg01a.ocloud.heytapmobi.com
-i-sg.browser.heytapmobile.com
 i.snssdk.com
 isp-map.xunyou.mobi
 is.snssdk.com.xi.zwtianshangm.com
@@ -2599,7 +2524,6 @@ iucf-icon-sg.s3.ap-southeast-3.amazonaws.com
 iucf-icon-sg.s3.ap-southeast-4.amazonaws.com
 ivideosmart.com
 i.vimeocdn.com
-iweather.oppomobile.com
 ixiaochuan.cn
 ixigua.com
 izatcloud.net
@@ -2633,6 +2557,7 @@ js3.loklok.tv
 js5.loklok.tv
 js8.loklok.tv
 js9.loklok.tv
+js.captcha-display.com
 js.chargebee.com
 jsc.mgid.com
 js.cx
@@ -2770,6 +2695,7 @@ leonard.faceapp.io
 letsgoconvert.com
 letusdomino.com
 lf16-geckocdn.anotecdn.com
+lf16-oversea.goofy-cdn.com
 l-files.livejournal.net
 l.getsitecontrol.com
 l.gotube.pro
@@ -2828,7 +2754,6 @@ load18.biz
 loadnova898.netlify.app
 lobby.igamecj.com
 locate.measurementlab.net
-location.apps.oppomobile.com
 lockersatelic.cam
 loc.map.baidu.com
 loc.samsungdive.com
@@ -2881,6 +2806,7 @@ lulusoft.com
 lunalabs.io
 l-userpic.livejournal.com
 lustre.ai
+lzd-img-global.slatic.net
 m1.auto.itc.cn
 m1.daumcdn.net
 m1e.net
@@ -2894,7 +2820,6 @@ mac.weixin.qq.com
 macworld.go-vip.net
 mademoiselleosaki.com
 mafiacash.co
-magazine-api-gl.heytapmobile.com
 magneto.api.halodoc.com
 magnite.com
 magzine.transacme.com
@@ -2946,12 +2871,6 @@ mcpecraft.ru
 mc.us18.list-manage.com
 mc.yandex.ru
 mdm.asus.com
-mdp-appconf-id.heytapdl.com
-mdp-appconf-in.heytapdl.com
-mdp-appconf-kh.heytapdl.com
-mdp-appconf-mm.heytapdl.com
-mdp-appconf-sg.heytapdl.com
-mdp-appconf-us.heytapdl.com
 me.apple-dns.net
 medallia.com
 medals.bizrate.com
@@ -3036,6 +2955,7 @@ ml.aihelp.net
 ml-sessions-v3-dot-events-dot-o7apps.appspot.com
 ml-sessions-v3.events.o7apps.appspot.com
 mmfiles.amp.mcafee.com
+mmstat.com
 mmtro.com
 moatads.com
 mobadvent.com
@@ -3165,8 +3085,6 @@ neverbounce.com
 new-api.meiqia.com
 new.bestageoffers2022.com
 newdebut-av.monster
-newds01.myoppo.com
-newds02.myoppo.com
 newlbs.live.bigo.sg
 newpic.wetvinfo.com
 newplayable.mintegral.com
@@ -3349,12 +3267,6 @@ observe.metarouter.io
 obsproicet.net
 obs-studio.com
 obstremswiev.site
-obus-dc20123-sg.heytapmobile.com
-obus-dc20305-sg.heytapmobile.com
-obus-dc2-sg.heytapmobile.com
-obus-dctech-sg.heytapmobile.com
-obus-sg.dc.heytapmobile.com
-ocloud-httpdns-sg.heytapmobile.com
 ocsp2.g.aaplimg.com
 ocw.messagebird.com
 oemapi.kika-backend.com
@@ -3374,7 +3286,6 @@ oldrollservice.careyourhrtsoftware.com
 olmusic.xyz
 omappapi.com
 omegatheme.com
-omes-sec.heytapmobile.com
 ome.tv
 omgid.qq.com
 omlet.me
@@ -3433,6 +3344,7 @@ osf.io
 oshola.shalltry.com
 oslab.shalltry.com
 oss-admin.cnyhyl.cn
+oss-cdn.aliyun-inc.com
 oss-cn-hangzhou.aliyuncs.com
 oss-cn-hongkong.aliyuncs.com
 ossgw.alicdn.com
@@ -3648,7 +3560,6 @@ plassets.ws.pho.to
 plat-api.bignox.com
 platform-lookaside.fbsbx.com
 plausible.chmod777.ltd
-play0.heytapimg.com
 playable.mintegral.com
 playable-stats.mindworks-creative.com
 player.bokep234.com
@@ -3734,8 +3645,6 @@ propsid.b-cdn.net
 proservice.ge
 prospector.clearbit.com
 pro-threats.nbowree.com
-proxy.apps.oppomobile.com
-proxyf.apps.oppomobile.com
 proxy-omm.lotusflare.com
 pr.prchecker.info
 ps4remoteplay.net
@@ -3875,8 +3784,6 @@ repair-system-phone.firebaseio.com
 report.appmetrica.yandex.net
 report-ps.meettech.net
 report.sc.funminigame.com
-report-sg.uc.heytapmobile.com
-report.uc.heytapmobi.com
 requesteasy.com
 requestmetrics.com
 res02.bignox.com
@@ -3912,7 +3819,6 @@ restapi.amap.com
 restart-api.palmplaystore.com
 rest.happierleads.com
 res.toolmatrix.plus
-rest-sg-feedback.heytapmobile.com
 res.wx.qq.com
 res-x.com
 retargetly.com
@@ -4058,7 +3964,6 @@ sap4clk.com
 sape.ru
 sapi.taptap.com
 sas-autos.com
-saserver.search.oppomobile.com
 satismeter.com
 sausage-global-cdn.sausage.xd.com
 sau-server-sg.allawnos.com
@@ -4172,14 +4077,16 @@ sg-dm.pageonenewsapp.com
 sg-drive.wps.com
 sgfp.tongdun.net
 sg-live-01.slatic.net
+sg-live-05.slatic.net
 sg-live-21.slatic.net
 sg.mangatoon.mobi
+sg.mmstat.com
 sg.omlet.me
 s.goodappforyou.com
-sgp-img-c.heytapimg.com
 sg-res.9appsdownloading.com
 sg-res.9appsinstall.com
 sg.tdatamaster.com
+sg-test-11.slatic.net
 shake-body.com
 shalltry.com
 shareaholic.com
@@ -4212,8 +4119,6 @@ shopzilla.com
 shortapi.admixplay.com
 shortconn.im.qcloud.com
 short.im-gb.com
-shortintl.push.heytapmobile.com
-shortintl.push.oppomobile.com
 shortvideo.qiniuapi.com
 shrcnt.livejournal.net
 shreeganeshlab.co.in
@@ -4242,6 +4147,7 @@ skyquaddrone.com
 sla-intl.trustlook.com
 slant-api.com
 slashdotmedia.com
+slatic.net
 slickstream.com
 smartadserver.com
 smartcardf-eu.apps.coloros.com
@@ -4415,6 +4321,7 @@ static-web.hzmk.site
 static-web.likee.com
 static-web.likeevideo.com
 static-web.prod.vid.id
+static-web.prod.vidiocdn.com
 static.wetvinfo.com
 staticworld.net
 static.zdassets.com
@@ -4422,7 +4329,6 @@ static-zepeto.pstatic.net
 static-znews.zadn.vn
 static-znews.zingcdn.me
 stat.idtopnews.com
-stat-in.dc.oppomobile.com
 statis.facemojikeyboard.com
 statistics-dot-calconic-app.appspot.com
 stats.cross-orbit.com
@@ -4443,11 +4349,8 @@ steadfastsystem.com
 steelhousemedia.com
 stepsister.uno
 steveziogames.com
-stg-data-id.ads.heytapmobile.com
 st-hatena.com
 stickdix.com
-sticker.apps.oppomobile.com
-stickerf.apps.oppomobile.com
 sticker.weixin.qq.com
 stickyadstv.com
 stilfb.com
@@ -4462,20 +4365,16 @@ storedl1.nearme.com.cn
 storedl2f.nearme.cn
 storedl2.nearme.com.cn
 storedl3f.nearme.com.cn
-storedl3.f.oppomobile.com
 storedl3.nearme.com.cn
 storedl4f.nearme.com.cn
-storedl4.f.oppomobile.com
 storedl4.nearme.com.cn
 storedl5f.nearme.cn
 storedl5f.nearme.com.cn
-storedl5.f.oppomobile.com
 storedl5.nearme.com.cn
 storedl6f.nearme.cn
 storedl6f.nearme.com.cn
 storedl8f.nearme.cn
 storefsf.nearme.com.cn
-storeimg.heytapimg.com
 store.outbyte.com
 store.wps.com
 streamback.ff.avast.com
@@ -4484,7 +4383,6 @@ streamrail.net
 strn.rise-ai.com
 str.rise-ai.com
 stuart.faceapp.io
-stuck-sg.dc.oppomobile.com
 stun.ekiga.net
 stun.ssp.rambler.ru
 stup5.appmeasurements.com
@@ -4641,8 +4539,6 @@ thedogvisitor.com
 thehotgames.com
 thejobsbee.com
 themarfa.name
-themeimg.heytapimg.com
-theme-magazine-gl-01.heytapimg.com
 theme.shalltry.com
 theme.zdassets.com
 themoneytizer.com
@@ -4669,6 +4565,7 @@ tidio.com
 time1.cloud.tencent.com
 time2.cloud.tencent.com
 time3.cloud.tencent.com
+time-ak.alicdn.com
 time.gpsonextra.net
 time.izatcloud.net
 time-osx.g.aaplimg.com
@@ -4683,12 +4580,10 @@ time.xtracloud.net
 tinder.com
 tinder-hot.xyz
 tinders.club
-tipsf.apps.oppomobile.com
 tips-res-dra.dbankcdn.com
 tirto.id
 tistory1.daumcdn.net
 tistory.com
-titan.heytap.com
 tk0x1.com
 tl.bignox.com
 tmdb.org
@@ -4721,6 +4616,7 @@ toutiao50.com
 toutiao.com
 tpai.caping.co.id
 tpns.sgp.tencent.com
+tpsservice-files-inner.cn-hangzhou.oss-cdn.aliyun-inc.com
 t.pubmatic.com
 tr.4sync.com
 tracert.alipay.com
@@ -4768,6 +4664,7 @@ ts.qq.com
 tubesex.uno
 tubia.com
 tui.bignox.com
+tunnel.googlezip.net
 tuplgpub.bangcdn.net
 tuplogpublic.bangcdn.net
 tu.qq.com
@@ -4799,7 +4696,6 @@ u2.teddymobile.cn
 u3.teddymobile.cn
 uadexchange.com
 uapi.afo2o.com
-uapi-id.heytapmobile.com
 ua.realtimely.io
 uat5-b.investingchannel.com
 uc-0.telemetry.eyeo.com
@@ -4826,10 +4722,7 @@ ucarecdn.com
 uc.cn
 ucweb.com
 udp-dispatch.ucweb.com
-u-id.browser.oppomobile.com
-u-id.cpc.heytapmobile.com
 ui.ff.avast.com
-u-in.cpc.heytapmobile.com
 ukit.me
 u.like-it.video
 ulog.kwai.com
@@ -4953,7 +4846,6 @@ vid.connatix.com
 videoclipf.apps.coloros.com
 videodelivery.net
 videodownloader.ummy.net
-videoeditor-sg.soloop.heytapmobile.com
 video-g.usicdn.com
 video.kompas.com
 videomin.ru
@@ -4982,7 +4874,6 @@ vip7.alidns.com
 vip8.alidns.com
 vip9.alidns.com
 vip.bignox.com
-vip-client.heytapmobi.com
 visage-design-system.prod.merch.vpsvc.com
 visitsme.uno
 visteme.mx
@@ -5055,6 +4946,7 @@ waust.at
 wa.zcnewy.com
 wc.meson.ai
 wd.adcolony.com
+wd.adcolony.xyz
 weather-server-sg.allawnos.com
 web2.17roco.qq.com
 web4.profiwh.com
@@ -5827,6 +5719,8 @@ zantbowsing.cam
 zascdn.me
 za.zalo.me
 za.zdn.vn
+zb-4439.alibaba.alibaba-inc.com
+zb-4439.alibaba.alibaba-inc.com.gds.alibabadns.com
 zconfig.alibabausercontent.com
 zdassets.com
 zdbb.net

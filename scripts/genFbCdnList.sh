@@ -72,7 +72,7 @@ SFB_REGIONCODE=(
 	"maa" "mam" "mba" "mdc" "mea" "mex" "mga" "mia" "mla" "mnl" "mof"
 	"nag" "ncg" "ngo"
 	"osl"
-	"pac" "pbc" "pen" "pfb" "phl" "pku" "pky" "plm" "plu" "poa" "pra"
+	"pac" "pbc" "pdg" "pen" "pfb" "phl" "pku" "pky" "plm" "plu" "poa" "pra"
 	"qpa"
 	"rec" "ria"
 	"scl" "sdu" "sea" "sin" "sjc" "sjo" "snc" "soc" "srg" "ssa" "sst" "stv" "sub" "szb"
