@@ -10,7 +10,7 @@ HOSTSFILE_TYPES=(
 	"misc/NoMLBB"
 	"misc/NoRoblox"
 	"misc/NoTikTok"
-	"misc/NoOppo"
+	"misc/NoOppoHT"
 	"misc/NoVivo"
 	"misc/NoXiaomi"
 )
