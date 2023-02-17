@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.02.2023
+# Version: 17.02.2023
 # Update: 1 day
 #
 
@@ -62,6 +62,7 @@
 27.ygti905ffth6.com
 2828691.group41.sites.hubspot.net
 28.ygti905ffth6.com
+2912187.fs1.hubspotusercontent-na1.net
 29.ygti905ffth6.com
 2beeg.net
 2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
@@ -85,6 +86,7 @@
 360.cn
 36.ygti905ffth6.com
 37.ygti905ffth6.com
+3842749.fs1.hubspotusercontent-na1.net
 38.ygti905ffth6.com
 39d0825d09f05.cdn.sohucs.com
 39.ygti905ffth6.com
@@ -398,12 +400,15 @@ am.olx.biz.id
 amp.analytics-debugger.com
 ampcid.google.com
 amplitude.com
+amplitude.life360.com
 am-static.com
 amung.us
 analytic.detik.com
 analytics.163.com
 analytics.churnzero.net
 analytics-debugger.com
+analytics.mncdigital.id
+analytics.neliti.com
 analytics.nodecraft.com
 analytics.panzoid.com
 analytics.quizizz.com
@@ -428,6 +433,7 @@ android-dcdn.pa1mstore.com
 android-dcdn.palmplaystore.com
 android-dcdn.palmst0re.com
 androiden.duapp.com
+android.life360.com
 android.pa1mstore.com
 android.palmplaystore.com
 android.palmst0re.com
@@ -528,6 +534,7 @@ api.dcp.vpdcp.com
 api.deathwing.me
 api.decisionnowlive.com
 api.dkyweipsds.com
+api.enginemob.xyz
 api.ethyca.com
 api.eufylife.com
 api.faceapp.io
@@ -538,6 +545,7 @@ api.floors.dev
 api.flx-vpn.com
 api.ftpub.net
 api.fview.cn
+api.gadgetgine.xyz
 api.galileoab.com
 api.gameanalytics.com
 api.gamesystem.zepeto.run
@@ -603,6 +611,7 @@ api.olmusic.xyz
 api.optimumlines.com
 api.orderonline.id
 api.os.mob.com
+api.otherworld-legends.chillyroom.com
 api.otidapi.com
 api.owxd.xyz
 api.pa1mstore.com
@@ -622,6 +631,7 @@ api.pubnative.net
 api.pushycat.net
 api.qiscus.com
 api.qrserver.com
+api.rb.sbixby.com
 api.renren.com
 api.renren.fan
 api.resso.app
@@ -712,6 +722,7 @@ appia.com
 app-info-cdn.ezjojoy.com
 appinfo-s3.eagllwin.com
 appjustable.com
+app.launchdarkly.com
 apple-finance.query.yahoo.com
 app.link
 applink.jp
@@ -730,6 +741,19 @@ appsflyer.com
 apps.identrust.com
 appsinnova.com
 app-sj30.marketo.com
+app-sj31.marketo.com
+app-sj32.marketo.com
+app-sj33.marketo.com
+app-sj34.marketo.com
+app-sj35.marketo.com
+app-sj36.marketo.com
+app-sj37.marketo.com
+app-sj38.marketo.com
+app-sj39.marketo.com
+app-sj40.marketo.com
+app-sj41.marketo.com
+app-sj42.marketo.com
+app-sj43.marketo.com
 app.slickstream.com
 app.snapchat.com
 apps.omegatheme.com
@@ -1105,7 +1129,9 @@ cdn.awsusor1.fds.api.mi-img.com
 cdn.bc0a.com
 cdn.bizible.com
 cdn.calibermind.com
+cdn.chillyroom.com
 cdn.concert.io
+cdn.confiant-integrations.net
 cdnconfig.aihelp.net
 cdn.connatix.com
 cdn.consumer-surveys.us
@@ -1127,7 +1153,7 @@ cdn.fbsbx.com
 cdn-f.heylink.me
 cdn.firstpromoter.com
 cdn.foxpush.net
-cdn.gamesnacks.com
+cdn.geozo.com
 cdn-go.cn
 cdn-graphql-v4.kumparan.com
 cdn-gw-dv.net
@@ -1183,6 +1209,7 @@ cdn-theme-eu-central-1.shalltry.com
 cdn.thinkific.com
 cdn.topmongo.com
 cdn.unblockia.com
+cdn.unibotscdn.com
 cdn.useproof.com
 cdn-us.eufylife.com
 cdn.walkme.com
@@ -1233,6 +1260,7 @@ check-tcp.rayjump.com
 check.unity.cn
 check.y5en.com
 chicoryapp.com
+chilipiper.com
 chimpstatic.com
 churnzero.net
 cicd-release-api.wshareit.com
@@ -1256,6 +1284,7 @@ clientapi-sin.dtignite.com
 client-metrics.prod.topeleven.com
 client.perimeterx.net
 client-registry.mutinycdn.com
+clientstream.launchdarkly.com
 clks.media.net
 cloudcache.tencent-cloud.com
 cloudcache.tencentcs.com
@@ -1348,6 +1377,7 @@ config.qms.quicinc.com
 config.toolmatrix.plus
 config.toto.zipoapps.com
 config.unityads.unity3d.com
+configuration.ko.kakaowebtoon.com
 configure-tcp-android.rayjump.com
 configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
@@ -1397,6 +1427,7 @@ counter.top.ge
 counter.yadro.ru
 countly2.feelingtouch.com
 country-blocker.zend-apps.com
+country-ID-1.mini5.opera-mini.net
 coupon-code.4wps.net
 cove-cdn.ams3.cdn.digitaloceanspaces.com
 cove.chat
@@ -1545,6 +1576,7 @@ dbn41syzjymrk.cloudfront.net
 dc1.networkbench.com
 dc.albtls.t.co
 dcb.fortumo.com
+dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.dqa.samsung.com
 dc.kika-backend.com
@@ -1806,6 +1838,7 @@ events-api-ak.outfit7.com
 events.appsflyer.com
 events.backtrace.io
 events.iap.unity3d.com
+events.launchdarkly.com
 events.mz.unity3d.com
 events.nordeus.com
 event.togothermany.com
@@ -1908,6 +1941,7 @@ forms.soundestlink.com
 fortawesome.com
 fortumo.com
 fortumo.io
+fota-cloud-dn.ospserver.net
 fouanalytics.com
 fout.jp
 foxdoing.com
@@ -1961,6 +1995,7 @@ g.alicdn.com
 gamea.clashofclans.com
 gameanalytics.com
 gamecfg-mob.ubi.com
+game.chillyroom.com
 gameguardian.b-cdn.net
 gameloft.com
 gameloft.helpshift.com
@@ -2028,6 +2063,7 @@ gfd-phinf.pstatic.net
 gfp.veta.naver.com
 gfycat.com
 g-gdfp.uvfuns.com
+g.glance-cdn.com
 ghbtns.com
 ghost.org
 gift.bignox.com
@@ -2052,6 +2088,7 @@ glanceseg.blob.core.windows.net
 glassbox.com
 glcs.listdl.com
 gllto2.glpals.com
+global-4-lvs-odra.opera-mini.net
 global.albtls.t.co
 globalapi.facemojikeyboard.com
 global.apis.naver.com
@@ -2343,6 +2380,7 @@ images.hellomagazine.com
 images.idtopnews.com
 image.slidesharecdn.com
 images.pdnob.com
+images.prismic.io
 images.tenorshare.com
 image.thinkingdata.cn
 image.tmdb.org
@@ -2371,6 +2409,7 @@ img.feednews.com
 img-fotki.yandex.ru
 img.fview.cn
 img.fview.cn.m.alikunlun.net
+img.gamescdn.top
 img.go2s.co
 imgg.traffic-media.co
 img-hw.xnxx-cdn.com
@@ -2395,6 +2434,7 @@ img-s-msn-com.akamaized.net
 imgsnap.bigo.sg
 img.teddymobile.cn
 img.tysondata.com
+img-video-tracking.ruangguru.com
 img.wattpad.com
 imgx.gridoto.com
 immr-uhl-tvm.elasticbeanstalk.com
@@ -2444,6 +2484,7 @@ inpagepush.com
 insent.ai
 i-n.sgsnssdk.com
 ins.hastopic.com
+in.shengboglobal.com
 inshot.cc
 insidecrm.com
 insight.cloud.tencent.com
@@ -2524,6 +2565,7 @@ iucf-icon-sg.s3.ap-southeast-3.amazonaws.com
 iucf-icon-sg.s3.ap-southeast-4.amazonaws.com
 ivideosmart.com
 i.vimeocdn.com
+ixhtb.s9gxw8.com
 ixiaochuan.cn
 ixigua.com
 izatcloud.net
@@ -2539,6 +2581,7 @@ jifo.co
 jixie.io
 jktmike.livejournal.com
 jmacs-m.lazada.co.id
+jnn-pa.googleapis.com
 jobicorn.com
 jogerbo5nk3a89o4gs23pv6n7.litix.io
 joinbudapp.com
@@ -2559,6 +2602,7 @@ js8.loklok.tv
 js9.loklok.tv
 js.captcha-display.com
 js.chargebee.com
+js.chilipiper.com
 jsc.mgid.com
 js.cx
 js.datadome.co
@@ -2665,6 +2709,8 @@ lar83.s3.amazonaws.com
 la-ucc-upaas.ucweb.com
 laucenter.ucweb.com
 laugoust.com
+launchdarkly.com
+launchdarkly-marketingsite.cdn.prismic.io
 launcher-us.yeshen.com
 launcher.us.yeshen.com
 launches.appsflyersdk.com
@@ -2739,6 +2785,7 @@ live.chartboost.com
 livechat.com
 livechat.containers.piwik.pro
 livechatinc.com
+live.glance.com
 livejournal.naydex.net
 livelbs.ukyuh.tech
 live.shopee.co.id
@@ -2800,6 +2847,7 @@ lovejojoy.com
 lovelybabestu.com
 loveme.uno
 lr-ingest.io
+l.sharethis.com
 l-shrcnt.livejournal.net
 lt.1clickvpn.net
 lulusoft.com
@@ -2850,6 +2898,7 @@ mapi.langitmusik.co.id
 marchex.io
 marketing.halodoc.com
 marketinguiproduction.gatsbyjs.io
+marketing.visionplus.id
 marketo.com
 marketo.net
 marketplace-android-b330.hyprmx.com
@@ -2964,6 +3013,7 @@ mobfox.com
 mobile-ap.spotify.com
 mobileassets.gopaylater.findaya.co.id
 mobilecrush.king.com
+mobile.launchdarkly.com
 mobile.like.video
 mobilesearchers.com
 mobile.useinsider.com
@@ -3082,6 +3132,7 @@ netflix-widget.metranet.co.id
 netpayjob.com
 net.simontok.site
 neverbounce.com
+new.ads.vungle.com
 new-api.meiqia.com
 new.bestageoffers2022.com
 newdebut-av.monster
@@ -3095,6 +3146,7 @@ newsaggreg.shalltry.com
 newscloud.or.kr
 newsforward.quest
 news.hastopic.com
+news-id.feednews.com
 newsmaticaapp.com
 news-muxeta.cc
 news.zing.vn
@@ -3569,6 +3621,7 @@ players.brightcove.net
 player.tubia.com
 play.mintegral.com
 play.samsungcloud.com
+play-sp.vod.shopee.com
 play.wetvinfo.com
 play-ws.vod.shopee.com
 pl.bignox.com
@@ -3601,6 +3654,7 @@ pou.me
 poumod.com
 powerad.ai
 pppbr.com
+pps-token.op-mobile.opera.com
 pr46m.vps.myjino.ru
 pr76m.vps.myjino.ru
 prchecker.info
@@ -3612,6 +3666,7 @@ p.rfihub.com
 primetimetrends.com
 primis.tech
 prismic.io
+prismic-main.cdn.prismic.io
 privacy.kiwibrowser.org
 privacy-policy.truste.com
 private-58cec5-funsegmentsapi.apiary-mock.com
@@ -3797,6 +3852,7 @@ res.17roco.qq.com
 res1.applovin.com
 res2.applovin.com
 res3.applovin.com
+res.6chcdn.feednews.com
 res.9appsinstall.com
 res.adx.opera.com
 res.bignox.com
@@ -4099,6 +4155,8 @@ sharethrough.com
 share.wedobest.com.cn
 sharing-config.spotifycdn.com
 sheldon.faceapp.io
+shengboglobal.com
+shengbo-xjp.oss-ap-southeast-1.aliyuncs.com
 shepherd.ff.avast.com
 shepherd.sb.avast.com
 shield-ads.net
@@ -4135,6 +4193,7 @@ sina.cn
 sinaimg.cn
 sink.gameloft.com
 sis.jpush.io
+sitecheck2.opera.com
 siteintercept.qualtrics.com
 sitejabber.com
 sixtest.com
@@ -4277,6 +4336,7 @@ static.ahagamecenter.com
 static.apester.com
 static.api.baca.co.id
 static.canva.com
+static.cdn.prismic.io
 static-cms.aa-cdn.net
 static.dable.io
 static-doubleclick-net.l.google.com
@@ -4554,6 +4614,7 @@ thinkingdata.cn
 thinksuggest.org
 threadloom.com
 thrtle.com
+thumbnails.opera.com
 thumbs1.2beeg.net
 thumbs2.2beeg.net
 thumb.viva.co.id
@@ -4792,6 +4853,7 @@ us.api.fc.mob.com
 us.api.fd.mob.com
 us-api.mcsvc.samsung.com
 us.api.share.mob.com
+us-auth2.samsungosp.com
 usaux11.contivio.com
 us-central1-alight-creative.cloudfunctions.net
 us-central1-gcp.api.snapchat.com
@@ -4875,6 +4937,7 @@ vip8.alidns.com
 vip9.alidns.com
 vip.bignox.com
 visage-design-system.prod.merch.vpsvc.com
+visionplus.analytics.mncdigital.id
 visitsme.uno
 visteme.mx
 visualwebsiteoptimizer.com
@@ -4972,6 +5035,7 @@ websites.am-static.com
 websocket-visitors.smartsupp.com
 webstore.samqaicongen.com
 webstore.ucweb.com
+webtoon.kakao.com
 webtoon-phinf.pstatic.net
 webtoons-static.pstatic.net
 web.toutiao.com
@@ -5285,6 +5349,7 @@ www.cdnmore.com
 www.cdn.viber.com
 www.centurygames.com
 www.chandashi.com
+www.chillyroom.com
 www.ckg.hk
 www.cleverpush.com
 www.clicken.us
@@ -5371,6 +5436,7 @@ www.internet.apps.samsung.com
 www.intuit.com
 www.iseepassword.com
 www.istarapps.com
+www.izooto.com
 www.javwall.net
 www.jd.com
 www.jojoy.io
@@ -5647,11 +5713,13 @@ x-id.ls.glanceapis.com
 xincache.com
 x-in.glance-cdn.com
 x-in.glance-cdn.net
+x-in-mob-game-cdn.glance-cdn.com
 xjp-msgacs.m.taobao.com
 xlaxiata2.md-apis.medallia.com
 xlaxiata-resources.digital-cloud-sin1.medallia.com
 xlaxiata-udc.digital-cloud-sin1.medallia.com
 xlgmedia.com
+xml.opera.com
 xnimg.cn
 xn--rtptrislt-d7a4a.com
 xnxx.com

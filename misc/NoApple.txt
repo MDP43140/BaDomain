@@ -1,5 +1,6 @@
 0-courier.push.apple.com
 10-courier.push.apple.com
+10.courier-push-apple.com.akadns.net
 11-courier.push.apple.com
 11.courier-push-apple.com.akadns.net
 12-courier.push.apple.com
@@ -21,6 +22,7 @@
 21.courier-push-apple.com.akadns.net
 22-courier.push.apple.com
 23-courier.push.apple.com
+23.courier-push-apple.com.akadns.net
 24-courier.push.apple.com
 24.courier-push-apple.com.akadns.net
 25-courier.push.apple.com
@@ -31,8 +33,10 @@
 27.courier-push-apple.com.akadns.net
 28-courier.push.apple.com
 29-courier.push.apple.com
+29.courier-push-apple.com.akadns.net
 2-courier.push.apple.com
 30-courier.push.apple.com
+30.courier-push-apple.com.akadns.net
 31-courier.push.apple.com
 32-courier.push.apple.com
 32.courier-push-apple.com.akadns.net
@@ -46,7 +50,9 @@
 37-courier.push.apple.com
 37.courier-push-apple.com.akadns.net
 38-courier.push.apple.com
+38.courier-push-apple.com.akadns.net
 39-courier.push.apple.com
+39.courier-push-apple.com.akadns.net
 3-courier.push.apple.com
 3.courier-push-apple.com.akadns.net
 40-courier.push.apple.com
@@ -57,9 +63,11 @@
 43-courier.push.apple.com
 43.courier-push-apple.com.akadns.net
 44-courier.push.apple.com
+44.courier-push-apple.com.akadns.net
 45-courier.push.apple.com
 45.courier-push-apple.com.akadns.net
 46-courier.push.apple.com
+46.courier-push-apple.com.akadns.net
 47-courier.push.apple.com
 47.courier-push-apple.com.akadns.net
 48-courier.push.apple.com
@@ -73,10 +81,13 @@
 5-courier.push.apple.com
 5.courier-push-apple.com.akadns.net
 6-courier.push.apple.com
+6.courier-push-apple.com.akadns.net
 7-courier.push.apple.com
 7.courier-push-apple.com.akadns.net
 8-courier.push.apple.com
+8.courier-push-apple.com.akadns.net
 9-courier.push.apple.com
+9.courier-push-apple.com.akadns.net
 apac-asia-courier-4.push-apple.com.akadns.net
 api.smoot.apple.com
 apple.com.v.aaplimg.com
@@ -195,6 +206,7 @@ itunes.com
 keyvalueservice.icloud.com
 lcdn-locator.apple.com
 lcdn-locator-usms11.apple.com.akadns.net
+mask-api.fe.apple-dns.net
 mask-api.icloud.com
 me.apple-dns.net
 mesu.apple.com
@@ -348,6 +360,7 @@ profile.gc.apple.com
 proxy.safebrowsing.apple
 query.ess.apple.com
 query.ess-apple.com.akadns.net
+safebrowsing.g.aaplimg.com
 safebrowsing-proxy.g.aaplimg.com
 se2.itunes.apple.com
 setup.fe.apple-dns.net
@@ -356,6 +369,7 @@ sf-api-token-service.itunes.apple.com
 smoot-feedback.v.aaplimg.com
 smp-device-content.apple.com
 smp-device-content.g.aaplimg.com
+smp-device-content.lb-apple.com.akadns.net
 static.ess.apple.com
 static.gc.apple.com
 stocks-data-service.apple.com

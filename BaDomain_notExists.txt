@@ -280,6 +280,7 @@ fineboost.com
 flive.ixigua.com
 flocdn.com
 flow.maribacaberita.com
+fly21.abiteams.com.vn
 focus-img.cn
 focus-res.cn
 foddylearn.com
@@ -319,6 +320,7 @@ go-mpulse.net
 goober.net
 googleclubstore.com
 googletagservices.com
+gotesla.io
 gov.cn
 gpoint.com.gr
 grs.dbankcloud.eu
