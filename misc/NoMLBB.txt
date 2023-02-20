@@ -1,13 +1,3 @@
-
-169.254.0.0
-172.16.0.0
-192.0.0.0
-192.0.2.0
-192.168.0.0
-198.18.0.0
-198.51.100.0
-203.0.113.0
-224.0.0.0
 akmcdn.ml.youngjoygame.com
 akmpicture.youngjoygame.com
 akmstatic.ml.youngjoygame.com
