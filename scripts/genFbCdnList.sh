@@ -59,7 +59,7 @@ SFB_TYPES=(
 SFB_REGIONCODE=(
 	"acc" "ada" "adl" "ams" "apa" "aqa" "auh"
 	"bdj" "bdo" "bek" "bga" "bkk" "bma" "bna" "bom" "bru" "bsb" "bth" "bze"
-	"cac" "cbb" "ceb" "cgb" "cgh" "cgk" "cha" "cia" "cmb" "cpq" "cwb"
+	"cac" "cbb" "ceb" "cgb" "cgh" "cgk" "cha" "cia" "cmb" "cpq" "crk" "cwb"
 	"dac" "del" "dla" "dnk" "dpa" "dps" "dsa" "dtb" "dxb"
 	"ebb" "eoh" "evn"
 	"fco" "fjr" "for" "fru"
