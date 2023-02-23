@@ -126,6 +126,7 @@ azgames.live
 azureedge.net
 baby-girls.id
 baby-girls.my.id
+bandlab.dev
 basket2.xyz
 bdapi-f.ads.heytapmobi.com
 bdapi-f.ads.heytapmobile.com
@@ -267,6 +268,7 @@ everestop.io
 everyavenuetravel.site
 everyday.cf
 evgnet.com
+ew1.api.cfpd.bdp.samsung.com
 execute-api.eu-west-1.amazonaws.com
 expose.uzone.id
 exp.xiaomi.com
@@ -487,6 +489,7 @@ myappsget.com
 my.salesforce.com
 mzfvozqybf.com
 ndt-mlab2-sin01.mlab-oti.measurementlab.net
+neimanmarcusshop.online
 nelo.linecorp.com
 neptunegame.com
 netdna-cdn.com
@@ -501,6 +504,7 @@ next.get-report.site
 nfcomizsdseqiomzqrxwvtrpxbljkpgd.name
 nian9.win
 node-01-ipv6.faceapp.ai
+nordvpn-company.com
 northpoleitalia.it
 notifa.info
 notificationsacademy.com
@@ -542,6 +546,7 @@ pagead.googlesyndication.com
 pamelarioss.uno
 pangle-b.io
 pangle.io
+parsec.id
 passportlab.xyz
 paypal--accounts.com
 pdfcylsmo.com
@@ -577,6 +582,7 @@ pro.ilovexclub.com
 pro.ilovexclub.net
 pro.kikakeyboard.com
 pro-market.net
+promo-canon.shop
 pubmine.com
 pub.network
 puscomosca.com
@@ -678,6 +684,7 @@ st.bignox.com
 storage.jquery.services
 stuart.faceapp.ai
 sumo.mozit.cloud
+sungarnonsense.com
 support.client
 supportclient.cc
 svc-cf.samsungdm.com
@@ -692,6 +699,7 @@ tc.hd.xiaomi.com
 tdsjsext3.com
 tel.fe01.hh.xiaomi.com
 teraboxcdn.com
+tesla23new.net
 tesladoge.pro
 teslaup22.com
 testapi.amap.com
@@ -780,6 +788,7 @@ wdfl.co
 weatherapi.market.xiaomi.coma.stat.xiaomi.com
 weather.ksmobile.net
 web.likeitlite.com
+webserver1.bonzi.com
 website-files.com
 webullfintech.com
 wells-fargo-support-online-information.com
@@ -793,6 +802,7 @@ wpscdn.com
 ws-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
 wsimg.com
 wuueqejuratzdz.com
+ww38.neimanmarcusshop.online
 ww.qlogo.cn
 www.acckwmhi.com
 www.afterbern.live
@@ -855,6 +865,7 @@ www.xzcs3zlph.com
 www.ykxipfcg.com
 www.yomani.vip
 www.zdn.vn
+www.ziprarchiver.com
 www.zligaton.com
 x18like.uno
 x2drop.com
@@ -881,6 +892,7 @@ youngunt.online
 youtube.ong
 ywbgrcrupasdiqxknwgcearlnbvmezti.com
 ywxi.net
+zara-store.site
 zcnewy.com
 zeus.ad.intl.xiaomi.com
 ziffstatic.com

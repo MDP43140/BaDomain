@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.02.2023
+# Version: 23.02.2023
 # Update: 1 day
 #
 
@@ -35,6 +35,7 @@
 166.net
 16.ygti905ffth6.com
 17roco.qq.com
+17track.net
 17.ygti905ffth6.com
 18000.me
 18183.com
@@ -474,6 +475,7 @@ ape-asus-android.isappcloud.com
 apester.com
 aphmes.xjwi5.com
 api15.resso.app
+api16-access-sg.taurusx.com
 api16-normal-alisg.helo-api.com
 api19.resso.app
 api1.boomplaymusic.com
@@ -533,6 +535,7 @@ api-dci.kinemasters.com
 api.dcp.vpdcp.com
 api.deathwing.me
 api.decisionnowlive.com
+api-differences-android.easybrain.com
 api.dkyweipsds.com
 api.enginemob.xyz
 api.ethyca.com
@@ -578,6 +581,7 @@ api.joinbudapp.com
 api-js-log.trustarc.com
 api.kastking.top
 api.kika-backend.com
+api-kinemaster.nexstreaming.com
 api.kuaishouzt.com
 api.kwai.com
 api.kwaizt.com
@@ -592,6 +596,7 @@ api-live2.boomplaymusic.com
 api-live3.boomplaymusic.com
 api-live.boomplaymusic.com
 api.livechatinc.com
+api-liveops.easybrain.com
 api.map.baidu.com
 api-maps.yandex.ru
 ap.ime.cdn.cootekservice.com
@@ -601,6 +606,7 @@ api.mintkeyboard.com
 api.mobula.sdk.duapps.com
 api.myadsget.com
 api.mythad.com
+api.mywavehome.net
 api.neverbounce.com
 api-new.bignox.com
 api.nikitop.com
@@ -678,6 +684,8 @@ api-visitor-analytics.intercom.com
 api.v-mate.mobi
 api.vungle.com
 api.wattpad.com
+api.wavebrowserbase.com
+api.wavebrowser.co
 api.weathercn.com
 api.widget.zalo.me
 api.wifimap.io
@@ -710,6 +718,7 @@ appbundledownload.com
 app.calconic.com
 appcfg.v.qq.com
 appcfg.wetvinfo.com
+app.chaport.com
 appcloud.mcafee.com
 app.cove.chat
 app.driftt.com
@@ -975,6 +984,7 @@ bolt-prod-s3-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
 boltz-pro.com
 bombora.com
 bonusshunter.com
+bonzi.com
 boomplay.com
 boomplaymusic.com
 booster.palmpal.net
@@ -1163,6 +1173,7 @@ cdnimage2.caping.co.id
 cdn-images.mailchimp.com
 cdn.innity.net
 cdn.insurads.com
+cdn.invitereferrals.com
 cdn.jifo.co
 cdn.joinbudapp.com
 cdn.jwplayer.com
@@ -1240,6 +1251,7 @@ cg.foldlife.net
 chandashi.com
 changelog.announcekit.app
 channels.weixin.qq.com
+chaport.com
 chargebee.com
 chartbeat.com
 chartboost.com
@@ -1292,6 +1304,7 @@ cloudcf.like-it.video
 cloud-config-api.shalltry.com
 cloudctrl.gcloudsdk.com
 cloudctrl.igamecj.com
+cloudflare-content.easybrain.com
 cloudflareinsights.com
 cloudinary.com
 cloud.litatom.com
@@ -1588,6 +1601,7 @@ dealer.spotify.com
 deathwing.me
 de.bignox.com
 decisionnowlive.com
+deeq.net.cn
 degoo-instabridge.adsbynimbus.com
 degreelocate.com
 degreematcher.org
@@ -1621,6 +1635,7 @@ dhisex.uno
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 dictionary.map.fastly.net
+differencesgp.zendesk.com
 diffuser-cdn.app-us1.com
 digiads.co.id
 digiads.id
@@ -1644,6 +1659,7 @@ dl111.dlmate26.xyz
 dl111.fbefcafbeedc.xyz
 dl2.ultraviewer.net
 dlcdnamax.asus.com
+dl.dropboxusercontent.com
 dl.hw.freefiremobile.com
 dl.listdl.com
 dls.di.atlas.samsung.com
@@ -1698,6 +1714,7 @@ download.muslimpro.com
 download-sin.dtignite.com
 downloads.intercomcdn.com
 downloads.mailchimp.com
+download.wavebrowser.co
 dpdwnl.my-free.website
 draper.popcap.com
 drift.com
@@ -1763,6 +1780,7 @@ eep.io
 eezegrip.net
 effect.resso.app
 effuelofficial.com
+egas.easybrain.com
 ejvonlyrik.com
 ekiga.net
 ekomlita.everflowclient.io
@@ -1924,6 +1942,7 @@ fluxmud.quest
 flx453.lporirxe.com
 flx-vpn.com
 fmdata.imgsmail.ru
+fm.shalltry.com
 fnaim.ru
 focus.cn
 focusmedica.in
@@ -1981,6 +2000,7 @@ fv-st-konrad.de
 fw.dnsforwardingservice.com
 fwmrm.net
 fxgate.baidu.com
+g0push.com
 g1790.rt14v.com
 g2.com
 g2crowd.com
@@ -2049,6 +2069,7 @@ geolocation-db.com
 geolocation.onetrust.com
 geo.tildacdn.com
 geowf.ge
+get4pc.click
 getarealcareer.com
 get-bx.g.aaplimg.com
 getclicky.com
@@ -2204,6 +2225,7 @@ hastopic.com
 hatena.ne.jp
 havanese.top
 havasedge.com
+haxsoft.com
 hb-af.outfit7.com
 hb.jixie.io
 hb.kg.qq.com
@@ -2289,6 +2311,7 @@ hwclouds-dns.com
 hw-crs-report.y5en.com
 hws-prod.carx-online.com
 hybrid.miniapp.taobao.com
+hydrahydra.kim
 hzmk.site
 i0.hdslb.com
 i0.wp.com
@@ -2309,6 +2332,7 @@ ib.isappcloud.com
 ibispaint.com
 ibnads.xl.co.id
 i.bosboslink.net
+ibuhaughuss.com
 i-by3p-cor001.api.p001.1drv.com
 icanhazip.com
 ichef.bbci.co.uk
@@ -2436,6 +2460,7 @@ img.teddymobile.cn
 img.tysondata.com
 img-video-tracking.ruangguru.com
 img.wattpad.com
+img.ws.mms.shopee.co.id
 imgx.gridoto.com
 immr-uhl-tvm.elasticbeanstalk.com
 impactradius-go.com
@@ -2846,6 +2871,7 @@ lottiefiles.com
 lovejojoy.com
 lovelybabestu.com
 loveme.uno
+lp.wavebrowser.net
 lr-ingest.io
 l.sharethis.com
 l-shrcnt.livejournal.net
@@ -2997,6 +3023,7 @@ misc-services.ludokingapi.com
 mix.aff-track.net
 mixerbabki.ru
 mixerparanas.ru
+mix.projectcarmen.com
 mkevents.mob.com
 mktoresp.com
 ml314.com
@@ -3015,6 +3042,7 @@ mobileassets.gopaylater.findaya.co.id
 mobilecrush.king.com
 mobile.launchdarkly.com
 mobile.like.video
+mobile.pipe.aria.microsoft.com
 mobilesearchers.com
 mobile.useinsider.com
 mobile.yandex.net
@@ -3102,6 +3130,7 @@ myim3banner.kloc.co
 myjino.ru
 mypic.icu
 myqcloud.com
+mywavehome.net
 n430bc9de.app-ads-txt.com
 n5t8v6w3.stackpathcdn.com
 na.albtls.t.co
@@ -3176,6 +3205,7 @@ northbeam.io
 norton67.webnode.page
 noss.litatom.com
 notif.quizizz.com
+notiv.id
 notix.io
 novac.gameloft.com
 novel-recommend.wps.com
@@ -3356,6 +3386,7 @@ onezapp.com
 onlinecash1.com
 online.fastman92.com
 online.lenzmx.com
+online.ua
 onlogin01.xyz
 onnanoko.tokyo
 opc.cloud.tencent.com
@@ -3595,6 +3626,7 @@ piwik.everzones.com
 pixelfed-prod.nyc3.digitaloceanspaces.com
 pixel.jungroup.com
 pixel.wp.com
+pixel.yabidos.com
 p.jwpcdn.com
 p.kg.qq.com
 pkh22.b-cdn.net
@@ -3622,6 +3654,7 @@ player.tubia.com
 play.mintegral.com
 play.samsungcloud.com
 play-sp.vod.shopee.com
+play-src.vod.shopee.com
 play.wetvinfo.com
 play-ws.vod.shopee.com
 pl.bignox.com
@@ -3806,6 +3839,7 @@ rbux88.com
 rbxton.online
 rcmjs.rambler.ru
 rc.samsungweather.com
+rcs.easybrain.com
 rdr.mobiletime.net
 ready.whatssappa.xyz
 realmoneybiz.com
@@ -3849,6 +3883,7 @@ res11.bignox.com
 res13.bignox.com
 res14.bignox.com
 res.17roco.qq.com
+res.17track.net
 res1.applovin.com
 res2.applovin.com
 res3.applovin.com
@@ -4106,6 +4141,7 @@ sentry.prod.mozaws.net
 sentry.tidio.co
 servebom.com
 serve.pubapp.network
+server.chaport.com
 serverhub.ru
 service-api.kingsoft-office-service.com
 service.carlcare.com
@@ -4113,6 +4149,7 @@ service.force.com
 service.pokigame.io
 services.ludokingapi.com
 services.prod.ims.adobejanus.com
+settings.atomhike-en.com
 settings.kiwibrowser.com
 settings.picsart.com
 settings.prod.topeleven.com
@@ -4208,6 +4245,7 @@ slant-api.com
 slashdotmedia.com
 slatic.net
 slickstream.com
+slots.easybrain.com
 smartadserver.com
 smartcardf-eu.apps.coloros.com
 smarthackerstech.org
@@ -4805,6 +4843,7 @@ unity.cn
 unity-cn-cms-prd-1300678507.cos.ap-shanghai.myqcloud.com
 unity-cn-prd.cdn.unity.cn
 universehackworld.org
+unmasksxyloma.uno
 u.nu
 upapi.net
 upclick.com
@@ -5006,6 +5045,8 @@ watchadsfree.com
 wa.tenor.co
 waterfox.net
 waust.at
+wavebrowser.co
+wavebrowser.net
 wa.zcnewy.com
 wc.meson.ai
 wd.adcolony.com
@@ -5134,6 +5175,7 @@ wshareit.com
 wshifen.com
 ws.hls.nimo.tv
 wsod.com
+ws.projectcarmen.com
 ws.qualified.com
 wss3.hanilink.com
 wss3.nikitop.com
@@ -5186,6 +5228,7 @@ www15.nathanaeldan.pro
 www.16163.com
 www16.nathanaeldan.pro
 www17.nathanaeldan.pro
+www.17track.net
 www.18000.me
 www18.nathanaeldan.pro
 www19.nathanaeldan.pro
@@ -5332,6 +5375,7 @@ www.bilibili.com
 www.bilibili.tv
 www.bizrate.com
 www.blender-download.com
+www.bonzi.com
 www.boomplay.com
 www.boomplaymusic.com
 www.bosbosgames.com
@@ -5349,6 +5393,7 @@ www.cdnmore.com
 www.cdn.viber.com
 www.centurygames.com
 www.chandashi.com
+www.chaport.com
 www.chillyroom.com
 www.ckg.hk
 www.cleverpush.com
@@ -5429,6 +5474,7 @@ www.homecash1.com
 www.honeybadger.io
 www.hopexos.vip
 www.hwclouds-dns.com
+www.ibuhaughuss.com
 www.iconsdb.com
 www.ilyon.net
 www.ingaa.xyz
@@ -5599,6 +5645,7 @@ www.thrifter.com
 www.tidio.com
 www.tinder-hot.xyz
 www.tns-counter.ru
+www.tokogame.com
 www.topbos.com
 www.toptoppartner.com
 www.touchpal.com
@@ -5663,6 +5710,7 @@ www.zingcdn.me
 www.zingload.com
 www.zingnews.vn
 www.zing.vn
+www.ziprararchiver.com
 www.zuiqiangyingyu.net
 wx.qq.com
 w-zt.kwaipros.com
@@ -5710,6 +5758,7 @@ xgapromomanager-pa.googleapis.com
 x.glance-cdn.com
 x.glance-cdn.net
 x-id.ls.glanceapis.com
+x-id-mob.glance-cdn.com
 xincache.com
 x-in.glance-cdn.com
 x-in.glance-cdn.net
@@ -5808,6 +5857,7 @@ zingload.com
 zingnews.vn
 zing.vn
 zipoapps.com
+ziprararchiver.com
 zjs.zingcdn.me
 zligaton.com
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
