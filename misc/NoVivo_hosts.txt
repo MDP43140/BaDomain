@@ -76,6 +76,7 @@
 0.0.0.0 id-upload-appstore.vivoglobal.com
 0.0.0.0 in-adreq.vivoglobal.com
 0.0.0.0 in-exmagazineunlock-proxy.vivoglobal.com
+0.0.0.0 in-img-appstore.vivoglobal.com
 0.0.0.0 in-joviexscene.vivoglobal.com
 0.0.0.0 in-news-abroad-backstage-interface.vivoglobal.com
 0.0.0.0 in-os-config-appstore.vivoglobal.com

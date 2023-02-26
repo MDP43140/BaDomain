@@ -5620,6 +5620,7 @@ z-p1.facebook.com
 z-p1-graph.facebook.com
 z-p1-upload.facebook.com
 z-p3-api.facebook.com
+z-p3-cdn.fbsbx.com
 z-p3-external.fmdc1-1.fna.fbcdn.net
 z-p3-external.fsdu11-1.fna.fbcdn.net
 z-p3-external.fsea1-1.fna.fbcdn.net

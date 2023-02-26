@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.02.2023
+# Version: 26.02.2023
 # Update: 1 day
 #
 
@@ -342,6 +342,7 @@ af.shalltry.com
 afterpay.com
 a.fxltsbl.com
 agabreloomr.com
+agnxomu.com
 ahqxh2tiocdn54ld9vzqrytyjeivo8f9.yundunwaf3.com
 aihelp.net
 a.impactradius-go.com
@@ -413,6 +414,7 @@ analytics.neliti.com
 analytics.nodecraft.com
 analytics.panzoid.com
 analytics.quizizz.com
+analytics.rctiplus.com
 analytics.rocks
 analytics-service.swiftype.com
 analytics-tcp.mintegral.net
@@ -652,6 +654,8 @@ api.segment.io
 api.sg.mangatoon.mobi
 api.shareitgames.com
 api.shopee.co.id
+api.sina.com
+api.sina.com.cn
 api.snapchat.com
 api.snapkit.com
 apis.pdnob.com
@@ -818,6 +822,7 @@ assets.flex.twilio.com
 assets.giocdn.com
 assets-jpcust.jwpsrv.com
 assets.ludokingapi.com
+assets.manutd.com
 assets-marketing-site.calendly.com
 assets.mintegral.com
 assets.promediateknologi.com
@@ -939,6 +944,7 @@ bf19405wzd.bf.dynatrace.com
 bf54607cnw.bf.dynatrace.com
 b.hatena.ne.jp
 bhelps.info
+bhproxies.com
 bibblio.org
 bidmachine.io
 bigappboi.com
@@ -1296,6 +1302,7 @@ clientapi-sin.dtignite.com
 client-metrics.prod.topeleven.com
 client.perimeterx.net
 client-registry.mutinycdn.com
+clients.bhproxies.com
 clientstream.launchdarkly.com
 clks.media.net
 cloudcache.tencent-cloud.com
@@ -1334,6 +1341,7 @@ cn-e-pic-tencent.mangatoon.mobi
 cn-e-pic-ws.mangatoon.mobi
 c.neptunegame.com
 cn-hangzhou.oss-cdn.aliyun-inc.com
+cnoyucn.com
 cn.pool.ntp.org
 cnr.cn
 cn.s.50union.com
@@ -1500,6 +1508,7 @@ csp9.zte.com
 csp-central.appspot.com
 css.pookcdn.com
 cstaticdun.126.net
+csxpzlz.com
 cta-redirect.hubspot.com
 cta-service-cms2.hubspot.com
 c.tenor.com
@@ -1551,6 +1560,7 @@ d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
 d5nxst8fruw4z.cloudfront.net
 d6b3852e-dnsotls-ds.metric.gstatic.com
 d6c30-6de1a.pushwoosh.com
+d847121e20a3e74d92de79282d9bec73.safeframe.googlesyndication.com
 dable.io
 dac.contextads.live
 dadyapp.com
@@ -1944,6 +1954,7 @@ flx-vpn.com
 fmdata.imgsmail.ru
 fm.shalltry.com
 fnaim.ru
+fnjxpwy.com
 focus.cn
 focusmedica.in
 fo.iemiq.com
@@ -2836,6 +2847,8 @@ log.goodnovel.com
 login5.spotify.com
 login.im.qcloud.com
 login.sc.funminigame.com
+login.sina.com
+login.sina.com.cn
 login.tim.qq.com
 login.wmtransfer.com
 log.kzvepo.com
@@ -2881,13 +2894,49 @@ lunalabs.io
 l-userpic.livejournal.com
 lustre.ai
 lzd-img-global.slatic.net
+m10.fywkuzp.ru
+m11.fywkuzp.ru
+m12.fywkuzp.ru
+m13.fywkuzp.ru
+m14.fywkuzp.ru
+m15.fywkuzp.ru
+m16.fywkuzp.ru
+m17.fywkuzp.ru
+m18.fywkuzp.ru
+m19.fywkuzp.ru
 m1.auto.itc.cn
 m1.daumcdn.net
 m1e.net
+m1.fywkuzp.ru
+m20.fywkuzp.ru
+m21.fywkuzp.ru
+m22.fywkuzp.ru
+m23.fywkuzp.ru
+m24.fywkuzp.ru
+m28.fywkuzp.ru
+m29.fywkuzp.ru
 m2.ai
 m2.auto.itc.cn
+m2.fywkuzp.ru
+m30.fywkuzp.ru
+m31.fywkuzp.ru
+m32.fywkuzp.ru
+m33.fywkuzp.ru
+m34.fywkuzp.ru
+m35.fywkuzp.ru
+m36.fywkuzp.ru
+m37.fywkuzp.ru
+m38.fywkuzp.ru
+m39.fywkuzp.ru
 m3.auto.itc.cn
+m3.fywkuzp.ru
+m40.fywkuzp.ru
+m41.fywkuzp.ru
+m42.fywkuzp.ru
 m4.auto.itc.cn
+m4.fywkuzp.ru
+m5.fywkuzp.ru
+m6.fywkuzp.ru
 ma312-r.analytics.edgesuite.net
 mabbox.bytel.fr
 mac.weixin.qq.com
@@ -2945,6 +2994,7 @@ mc-nat-t.cloudapp.net
 mcpecraft.ru
 mc.us18.list-manage.com
 mc.yandex.ru
+mdcqrxw.com
 mdm.asus.com
 me.apple-dns.net
 medallia.com
@@ -3128,6 +3178,7 @@ myfreecams.com
 myhelpdesk.me
 myim3banner.kloc.co
 myjino.ru
+mynfwwk.com
 mypic.icu
 myqcloud.com
 mywavehome.net
@@ -3342,6 +3393,7 @@ o968153.ingest.sentry.io
 o984659.ingest.sentry.io
 o993586.ingest.sentry.io
 o.alicdn.com
+oapwxiu.com
 oauth.vk.com
 obnews.outbrain.com
 obr-sim.bounty-rush.com
@@ -3739,6 +3791,7 @@ ps4remoteplay.net
 p.scooper.news
 psegment.netcoresmartech.com
 ps.eyeota.net
+pseyumd.ru
 pshmetrk.com
 pt.bignox.com
 ptlinknettbk.my.salesforce.com
@@ -3794,6 +3847,7 @@ qcloudimg.com
 qcloudimg.tencent-cloud.cn
 qcloudimg.tencentcs.cn
 qcloudimg.tencentcs.com
+qhloury.com
 qidian.qq.com
 qotu.bar
 qq.com
@@ -4227,6 +4281,8 @@ simplelocalize.io
 simpli.fi
 sin.a.ak.prd.aadg.trafficmanager.net
 sina.cn
+sina.com
+sina.com.cn
 sinaimg.cn
 sink.gameloft.com
 sis.jpush.io
@@ -4717,6 +4773,7 @@ tpai.caping.co.id
 tpns.sgp.tencent.com
 tpsservice-files-inner.cn-hangzhou.oss-cdn.aliyun-inc.com
 t.pubmatic.com
+tpwtgyw.com
 tr.4sync.com
 tracert.alipay.com
 trackad.cz
@@ -4845,6 +4902,8 @@ unity-cn-prd.cdn.unity.cn
 universehackworld.org
 unmasksxyloma.uno
 u.nu
+up0.pseyumd.ru
+up1.pseyumd.ru
 upapi.net
 upclick.com
 update.aida64.com
@@ -4913,6 +4972,7 @@ u.startup.mobile.webvisor.com
 us.tk0x1.com
 us.urmyromance.com
 us.ynuf.aliapp.org
+uuitwxg.com
 uzone.id
 v16.resso.app
 v16.resso.me
@@ -5048,6 +5108,7 @@ waust.at
 wavebrowser.co
 wavebrowser.net
 wa.zcnewy.com
+wcagsib.com
 wc.meson.ai
 wd.adcolony.com
 wd.adcolony.xyz
@@ -5131,6 +5192,7 @@ winluckychance.com
 wins.isprog.com
 wistia.com
 wjunction.com
+wlkjopy.com
 wlvpn.com
 wmtransfer.com
 wns.kg.qq.com
@@ -5369,6 +5431,7 @@ www.beacons.ai
 www.belnderr3d.org
 www.bestwordgame.com
 www.bhelps.info
+www.bhproxies.com
 www.bignox.com
 www.bigo.tv
 www.bilibili.com
@@ -5596,6 +5659,8 @@ www.shopeerejeki6-6.blogspot.com
 www.shopeerejeki7-7.blogspot.com
 www.shopeerejeki8-8.blogspot.com
 www.shopeerejeki9-9.blogspot.com
+www.sina.com
+www.sina.com.cn
 www.sixtest.com
 www.sk.ru
 www.sky-quad.com
@@ -5842,6 +5907,7 @@ zconfig.alibabausercontent.com
 zdassets.com
 zdbb.net
 zdn.vn
+zdrussle.ru
 zeevpn-fca47.firebaseio.com
 zegostudio.com
 zend-apps.com

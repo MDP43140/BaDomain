@@ -1707,6 +1707,7 @@ log16-normal-c-useast1a.tiktokv.com
 log16-normal-c-useast1a.tiktokv.com.edgekey.net
 log16-normal-c-useast2a.tiktokv.com
 log16-normal-c-useast2a.tiktokv.com.edgekey.net
+log16-normal-useast1a.tiktokv.com
 log16-normal-useast2a.tiktokv.com
 log-16.toutiao50.com
 log17-normal-useast2a.tiktokv.com
@@ -2803,6 +2804,7 @@ push-rtmp-f5-tt02.fcdn.us.tiktokv.com
 push-rtmp-f5-va01.tiktokcdn.com
 push-rtmp-f5-va01.ttlivecdn.com
 push-rtmp-f5-vr-gcp01.tiktokcdn.com
+push-rtmp-f5-vr-va01.tiktokcdn.com
 push-rtmp-f5-xg.bytecdn.cn
 push-rtmp-l10-gcp01.tiktokcdn.com
 push-rtmp-l10-sg01.tiktokcdn.com
@@ -4240,6 +4242,7 @@ webcast21-useast1a.musical.ly
 webcast21-useast2a.musical.ly
 webcast21-va.tiktokv.com
 webcast22-normal-c-alisg.tiktokv.com
+webcast22-normal-c-useast1a.tiktokv.com
 webcast22-normal-c-useast2a.tiktokv.com
 webcast22-open-useast2a.tiktokv.com
 webcast22-ws-useast2a.tiktokv.com

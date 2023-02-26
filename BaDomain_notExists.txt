@@ -283,6 +283,7 @@ flive.ixigua.com
 flocdn.com
 flow.maribacaberita.com
 fly21.abiteams.com.vn
+fmntlib.com
 focus-img.cn
 focus-res.cn
 foddylearn.com
@@ -299,6 +300,7 @@ funnymuvie.online
 furnitureshopone.us
 fuseplatform.net
 fyber-static.com
+fywkuzp.ru
 galleryjs.io
 game.bignox.com
 gate.hockeyapp.net
@@ -683,6 +685,7 @@ stat.xiaomi.com
 st.bignox.com
 storage.jquery.services
 stuart.faceapp.ai
+stydodo.ru
 sumo.mozit.cloud
 sungarnonsense.com
 support.client
@@ -724,6 +727,7 @@ tm.prd.ags.akadns.net
 ton.twimg.com
 toprbx.best
 toptoppartner.com
+tqzknrx.com
 track.analytics.rocks
 tracking.g2.com
 trafficmanager.net
@@ -750,6 +754,9 @@ user.bignox.com
 user.haokan.mobi
 usicdn.com
 u-zone.id
+v1.fchbwme.ru
+v1.flkpuod.ru
+v1.iqaagar.ru
 v3.mercusuar.u-zone.id
 v3.mercusuar.uzone.id
 v.aaplimg.com
@@ -780,6 +787,7 @@ vpsvc.com
 vskitcdn.com
 vskit.tv
 vzwcorp.co
+w0.fywkuzp.ru
 w55c.net
 waisstore.com
 wap.bignox.com
@@ -870,6 +878,7 @@ www.zligaton.com
 x18like.uno
 x2drop.com
 x2make.com
+x40.fywkuzp.ru
 x8zs.cok
 x.acme.com
 xapoapp.com

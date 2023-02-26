@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 23.02.2023
+# Version: 26.02.2023
 # Update: 1 day
 #
 
@@ -342,6 +342,7 @@
 0.0.0.0 afterpay.com
 0.0.0.0 a.fxltsbl.com
 0.0.0.0 agabreloomr.com
+0.0.0.0 agnxomu.com
 0.0.0.0 ahqxh2tiocdn54ld9vzqrytyjeivo8f9.yundunwaf3.com
 0.0.0.0 aihelp.net
 0.0.0.0 a.impactradius-go.com
@@ -413,6 +414,7 @@
 0.0.0.0 analytics.nodecraft.com
 0.0.0.0 analytics.panzoid.com
 0.0.0.0 analytics.quizizz.com
+0.0.0.0 analytics.rctiplus.com
 0.0.0.0 analytics.rocks
 0.0.0.0 analytics-service.swiftype.com
 0.0.0.0 analytics-tcp.mintegral.net
@@ -652,6 +654,8 @@
 0.0.0.0 api.sg.mangatoon.mobi
 0.0.0.0 api.shareitgames.com
 0.0.0.0 api.shopee.co.id
+0.0.0.0 api.sina.com
+0.0.0.0 api.sina.com.cn
 0.0.0.0 api.snapchat.com
 0.0.0.0 api.snapkit.com
 0.0.0.0 apis.pdnob.com
@@ -818,6 +822,7 @@
 0.0.0.0 assets.giocdn.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.ludokingapi.com
+0.0.0.0 assets.manutd.com
 0.0.0.0 assets-marketing-site.calendly.com
 0.0.0.0 assets.mintegral.com
 0.0.0.0 assets.promediateknologi.com
@@ -939,6 +944,7 @@
 0.0.0.0 bf54607cnw.bf.dynatrace.com
 0.0.0.0 b.hatena.ne.jp
 0.0.0.0 bhelps.info
+0.0.0.0 bhproxies.com
 0.0.0.0 bibblio.org
 0.0.0.0 bidmachine.io
 0.0.0.0 bigappboi.com
@@ -1296,6 +1302,7 @@
 0.0.0.0 client-metrics.prod.topeleven.com
 0.0.0.0 client.perimeterx.net
 0.0.0.0 client-registry.mutinycdn.com
+0.0.0.0 clients.bhproxies.com
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 clks.media.net
 0.0.0.0 cloudcache.tencent-cloud.com
@@ -1334,6 +1341,7 @@
 0.0.0.0 cn-e-pic-ws.mangatoon.mobi
 0.0.0.0 c.neptunegame.com
 0.0.0.0 cn-hangzhou.oss-cdn.aliyun-inc.com
+0.0.0.0 cnoyucn.com
 0.0.0.0 cn.pool.ntp.org
 0.0.0.0 cnr.cn
 0.0.0.0 cn.s.50union.com
@@ -1500,6 +1508,7 @@
 0.0.0.0 csp-central.appspot.com
 0.0.0.0 css.pookcdn.com
 0.0.0.0 cstaticdun.126.net
+0.0.0.0 csxpzlz.com
 0.0.0.0 cta-redirect.hubspot.com
 0.0.0.0 cta-service-cms2.hubspot.com
 0.0.0.0 c.tenor.com
@@ -1551,6 +1560,7 @@
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d6b3852e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 d6c30-6de1a.pushwoosh.com
+0.0.0.0 d847121e20a3e74d92de79282d9bec73.safeframe.googlesyndication.com
 0.0.0.0 dable.io
 0.0.0.0 dac.contextads.live
 0.0.0.0 dadyapp.com
@@ -1944,6 +1954,7 @@
 0.0.0.0 fmdata.imgsmail.ru
 0.0.0.0 fm.shalltry.com
 0.0.0.0 fnaim.ru
+0.0.0.0 fnjxpwy.com
 0.0.0.0 focus.cn
 0.0.0.0 focusmedica.in
 0.0.0.0 fo.iemiq.com
@@ -2836,6 +2847,8 @@
 0.0.0.0 login5.spotify.com
 0.0.0.0 login.im.qcloud.com
 0.0.0.0 login.sc.funminigame.com
+0.0.0.0 login.sina.com
+0.0.0.0 login.sina.com.cn
 0.0.0.0 login.tim.qq.com
 0.0.0.0 login.wmtransfer.com
 0.0.0.0 log.kzvepo.com
@@ -2881,13 +2894,49 @@
 0.0.0.0 l-userpic.livejournal.com
 0.0.0.0 lustre.ai
 0.0.0.0 lzd-img-global.slatic.net
+0.0.0.0 m10.fywkuzp.ru
+0.0.0.0 m11.fywkuzp.ru
+0.0.0.0 m12.fywkuzp.ru
+0.0.0.0 m13.fywkuzp.ru
+0.0.0.0 m14.fywkuzp.ru
+0.0.0.0 m15.fywkuzp.ru
+0.0.0.0 m16.fywkuzp.ru
+0.0.0.0 m17.fywkuzp.ru
+0.0.0.0 m18.fywkuzp.ru
+0.0.0.0 m19.fywkuzp.ru
 0.0.0.0 m1.auto.itc.cn
 0.0.0.0 m1.daumcdn.net
 0.0.0.0 m1e.net
+0.0.0.0 m1.fywkuzp.ru
+0.0.0.0 m20.fywkuzp.ru
+0.0.0.0 m21.fywkuzp.ru
+0.0.0.0 m22.fywkuzp.ru
+0.0.0.0 m23.fywkuzp.ru
+0.0.0.0 m24.fywkuzp.ru
+0.0.0.0 m28.fywkuzp.ru
+0.0.0.0 m29.fywkuzp.ru
 0.0.0.0 m2.ai
 0.0.0.0 m2.auto.itc.cn
+0.0.0.0 m2.fywkuzp.ru
+0.0.0.0 m30.fywkuzp.ru
+0.0.0.0 m31.fywkuzp.ru
+0.0.0.0 m32.fywkuzp.ru
+0.0.0.0 m33.fywkuzp.ru
+0.0.0.0 m34.fywkuzp.ru
+0.0.0.0 m35.fywkuzp.ru
+0.0.0.0 m36.fywkuzp.ru
+0.0.0.0 m37.fywkuzp.ru
+0.0.0.0 m38.fywkuzp.ru
+0.0.0.0 m39.fywkuzp.ru
 0.0.0.0 m3.auto.itc.cn
+0.0.0.0 m3.fywkuzp.ru
+0.0.0.0 m40.fywkuzp.ru
+0.0.0.0 m41.fywkuzp.ru
+0.0.0.0 m42.fywkuzp.ru
 0.0.0.0 m4.auto.itc.cn
+0.0.0.0 m4.fywkuzp.ru
+0.0.0.0 m5.fywkuzp.ru
+0.0.0.0 m6.fywkuzp.ru
 0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 mabbox.bytel.fr
 0.0.0.0 mac.weixin.qq.com
@@ -2945,6 +2994,7 @@
 0.0.0.0 mcpecraft.ru
 0.0.0.0 mc.us18.list-manage.com
 0.0.0.0 mc.yandex.ru
+0.0.0.0 mdcqrxw.com
 0.0.0.0 mdm.asus.com
 0.0.0.0 me.apple-dns.net
 0.0.0.0 medallia.com
@@ -3128,6 +3178,7 @@
 0.0.0.0 myhelpdesk.me
 0.0.0.0 myim3banner.kloc.co
 0.0.0.0 myjino.ru
+0.0.0.0 mynfwwk.com
 0.0.0.0 mypic.icu
 0.0.0.0 myqcloud.com
 0.0.0.0 mywavehome.net
@@ -3342,6 +3393,7 @@
 0.0.0.0 o984659.ingest.sentry.io
 0.0.0.0 o993586.ingest.sentry.io
 0.0.0.0 o.alicdn.com
+0.0.0.0 oapwxiu.com
 0.0.0.0 oauth.vk.com
 0.0.0.0 obnews.outbrain.com
 0.0.0.0 obr-sim.bounty-rush.com
@@ -3739,6 +3791,7 @@
 0.0.0.0 p.scooper.news
 0.0.0.0 psegment.netcoresmartech.com
 0.0.0.0 ps.eyeota.net
+0.0.0.0 pseyumd.ru
 0.0.0.0 pshmetrk.com
 0.0.0.0 pt.bignox.com
 0.0.0.0 ptlinknettbk.my.salesforce.com
@@ -3794,6 +3847,7 @@
 0.0.0.0 qcloudimg.tencent-cloud.cn
 0.0.0.0 qcloudimg.tencentcs.cn
 0.0.0.0 qcloudimg.tencentcs.com
+0.0.0.0 qhloury.com
 0.0.0.0 qidian.qq.com
 0.0.0.0 qotu.bar
 0.0.0.0 qq.com
@@ -4227,6 +4281,8 @@
 0.0.0.0 simpli.fi
 0.0.0.0 sin.a.ak.prd.aadg.trafficmanager.net
 0.0.0.0 sina.cn
+0.0.0.0 sina.com
+0.0.0.0 sina.com.cn
 0.0.0.0 sinaimg.cn
 0.0.0.0 sink.gameloft.com
 0.0.0.0 sis.jpush.io
@@ -4717,6 +4773,7 @@
 0.0.0.0 tpns.sgp.tencent.com
 0.0.0.0 tpsservice-files-inner.cn-hangzhou.oss-cdn.aliyun-inc.com
 0.0.0.0 t.pubmatic.com
+0.0.0.0 tpwtgyw.com
 0.0.0.0 tr.4sync.com
 0.0.0.0 tracert.alipay.com
 0.0.0.0 trackad.cz
@@ -4845,6 +4902,8 @@
 0.0.0.0 universehackworld.org
 0.0.0.0 unmasksxyloma.uno
 0.0.0.0 u.nu
+0.0.0.0 up0.pseyumd.ru
+0.0.0.0 up1.pseyumd.ru
 0.0.0.0 upapi.net
 0.0.0.0 upclick.com
 0.0.0.0 update.aida64.com
@@ -4913,6 +4972,7 @@
 0.0.0.0 us.tk0x1.com
 0.0.0.0 us.urmyromance.com
 0.0.0.0 us.ynuf.aliapp.org
+0.0.0.0 uuitwxg.com
 0.0.0.0 uzone.id
 0.0.0.0 v16.resso.app
 0.0.0.0 v16.resso.me
@@ -5048,6 +5108,7 @@
 0.0.0.0 wavebrowser.co
 0.0.0.0 wavebrowser.net
 0.0.0.0 wa.zcnewy.com
+0.0.0.0 wcagsib.com
 0.0.0.0 wc.meson.ai
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wd.adcolony.xyz
@@ -5131,6 +5192,7 @@
 0.0.0.0 wins.isprog.com
 0.0.0.0 wistia.com
 0.0.0.0 wjunction.com
+0.0.0.0 wlkjopy.com
 0.0.0.0 wlvpn.com
 0.0.0.0 wmtransfer.com
 0.0.0.0 wns.kg.qq.com
@@ -5369,6 +5431,7 @@
 0.0.0.0 www.belnderr3d.org
 0.0.0.0 www.bestwordgame.com
 0.0.0.0 www.bhelps.info
+0.0.0.0 www.bhproxies.com
 0.0.0.0 www.bignox.com
 0.0.0.0 www.bigo.tv
 0.0.0.0 www.bilibili.com
@@ -5596,6 +5659,8 @@
 0.0.0.0 www.shopeerejeki7-7.blogspot.com
 0.0.0.0 www.shopeerejeki8-8.blogspot.com
 0.0.0.0 www.shopeerejeki9-9.blogspot.com
+0.0.0.0 www.sina.com
+0.0.0.0 www.sina.com.cn
 0.0.0.0 www.sixtest.com
 0.0.0.0 www.sk.ru
 0.0.0.0 www.sky-quad.com
@@ -5842,6 +5907,7 @@
 0.0.0.0 zdassets.com
 0.0.0.0 zdbb.net
 0.0.0.0 zdn.vn
+0.0.0.0 zdrussle.ru
 0.0.0.0 zeevpn-fca47.firebaseio.com
 0.0.0.0 zegostudio.com
 0.0.0.0 zend-apps.com

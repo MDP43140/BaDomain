@@ -167,6 +167,7 @@ gsp52-ssl.ls.apple.com
 gsp53-ssl.ls.apple.com
 gsp56-ssl.ls.apple.com
 gsp57-ssl-background.ls.apple.com
+gsp57-ssl-background.ls-apple.com.akadns.net
 gsp57-ssl.ls.apple.com
 gsp57-ssl-revgeo.ls.apple.com
 gsp64-ssl.ls.apple.com
