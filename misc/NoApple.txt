@@ -73,6 +73,7 @@
 48-courier.push.apple.com
 48.courier-push-apple.com.akadns.net
 49-courier.push.apple.com
+49.courier-push-apple.com.akadns.net
 4-courier.push.apple.com
 4.courier-push-apple.com.akadns.net
 50-courier.push.apple.com
@@ -375,6 +376,7 @@ profile.gc.apple.com
 proxy.safebrowsing.apple
 query.ess.apple.com
 query.ess-apple.com.akadns.net
+quota.fe.apple-dns.net
 safebrowsing.g.aaplimg.com
 safebrowsing-proxy.g.aaplimg.com
 sandbox.itunes.apple.com

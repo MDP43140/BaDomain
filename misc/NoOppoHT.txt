@@ -27,6 +27,7 @@ appconf-sgp.heytapdl.com
 bdapi-id.ads.heytapmobile.com
 brand.heytap.com
 browser-i-gl.heytapmobile.com
+cdp-common-id.heytapmobile.com
 client-uc.heytapmobi.com
 cloudi-in.browser.oppomobile.com
 cloudi-sg.browser.heytapmobile.com
@@ -64,6 +65,8 @@ gameimg.heytapimg.com
 games-community-sg.heytapmobile.com
 gslb.cdo.oppomobile.com
 gslb-gl.cdo.heytapmobi.com
+heytapdownload.com
+heytapmobi.com
 htms.heytapmobile.com
 httpdns.ocloud.heytapmobi.com
 httpdns.ocloud.oppomobile.com

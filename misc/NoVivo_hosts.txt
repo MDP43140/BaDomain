@@ -33,6 +33,7 @@
 0.0.0.0 asia-news-abroad-backstage-interface.vivoglobal.com
 0.0.0.0 asia-news-abroad.vivo.com
 0.0.0.0 asia-os-config-appstore.vivoglobal.com
+0.0.0.0 asia-overseavideoh5.vivoglobal.com
 0.0.0.0 asia-p.vivoglobal.com
 0.0.0.0 asia-rommc-api.vivoglobal.com
 0.0.0.0 asia-romsp-unifyconfig.vivoglobal.com

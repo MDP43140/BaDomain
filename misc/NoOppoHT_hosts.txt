@@ -27,6 +27,7 @@
 0.0.0.0 bdapi-id.ads.heytapmobile.com
 0.0.0.0 brand.heytap.com
 0.0.0.0 browser-i-gl.heytapmobile.com
+0.0.0.0 cdp-common-id.heytapmobile.com
 0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 cloudi-in.browser.oppomobile.com
 0.0.0.0 cloudi-sg.browser.heytapmobile.com
@@ -64,6 +65,8 @@
 0.0.0.0 games-community-sg.heytapmobile.com
 0.0.0.0 gslb.cdo.oppomobile.com
 0.0.0.0 gslb-gl.cdo.heytapmobi.com
+0.0.0.0 heytapdownload.com
+0.0.0.0 heytapmobi.com
 0.0.0.0 htms.heytapmobile.com
 0.0.0.0 httpdns.ocloud.heytapmobi.com
 0.0.0.0 httpdns.ocloud.oppomobile.com

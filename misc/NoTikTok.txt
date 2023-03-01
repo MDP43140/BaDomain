@@ -2808,6 +2808,7 @@ push-rtmp-f5-vr-va01.tiktokcdn.com
 push-rtmp-f5-xg.bytecdn.cn
 push-rtmp-l10-gcp01.tiktokcdn.com
 push-rtmp-l10-sg01.tiktokcdn.com
+push-rtmp-l10-va01.tiktokcdn.com
 push-rtmp-l11-gcp01.tiktokcdn.com
 push-rtmp-l11-gcp01.ttlivecdn.com
 push-rtmp-l11-sg01.tiktokcdn.com
@@ -4216,6 +4217,7 @@ webcast16-normal-c-useast1a.tiktokv.com
 webcast16-normal-c-useast1a.tiktokv.com.edgekey.net
 webcast16-normal-c-useast2a.tiktokv.com
 webcast16-normal-c-useast2a.tiktokv.com.edgekey.net
+webcast16-normal-iquic-useast1a.tiktokv.com
 webcast16-normal-iquic-useast2a.tiktokv.com
 webcast16-open-useast2a.tiktokv.com
 webcast16.tiktokv.com
