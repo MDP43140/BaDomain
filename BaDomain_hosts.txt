@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 01.03.2023
+# Version: 02.03.2023
 # Update: 1 day
 #
 
@@ -385,7 +385,6 @@
 0.0.0.0 aliyun.com
 0.0.0.0 aliyuncs.com
 0.0.0.0 aliyun-inc.com
-0.0.0.0 allawntech.com
 0.0.0.0 all.cnzz.com
 0.0.0.0 all.cnzz.com.danuoyi.tbcache.com
 0.0.0.0 allmipa.com
@@ -877,7 +876,6 @@
 0.0.0.0 avatar.pho.to
 0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 a.vdo.ai
-0.0.0.0 avlconf.coloros.com
 0.0.0.0 avlsec.com
 0.0.0.0 avlsec.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 a.wattpad.com
@@ -1291,6 +1289,7 @@
 0.0.0.0 chat6-production.golabs.io
 0.0.0.0 chat7-production.golabs.io
 0.0.0.0 chat8-production.golabs.io
+0.0.0.0 chatgpt-pc.com
 0.0.0.0 cheapkey.net
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 checkip.amazonaws.com
@@ -1309,7 +1308,6 @@
 0.0.0.0 cl2.g.aaplimg.com
 0.0.0.0 cl4.g.aaplimg.com
 0.0.0.0 clarity.ms
-0.0.0.0 classify.apps.coloros.com
 0.0.0.0 c.lazada.co.id
 0.0.0.0 cldapi.net
 0.0.0.0 cleanapps.org
@@ -1387,7 +1385,6 @@
 0.0.0.0 collector-pxikkul2rm.perimeterx.net
 0.0.0.0 collector-pxt6dy78t8.px-client.net
 0.0.0.0 collector-pxt6dy78t8.px-cloud.net
-0.0.0.0 coloros.com
 0.0.0.0 combinatronics.io
 0.0.0.0 com.gds.alibabadns.com
 0.0.0.0 commercecore.zendesk.com
@@ -1397,8 +1394,6 @@
 0.0.0.0 common.xshareapp.com
 0.0.0.0 company.clearbit.com
 0.0.0.0 company-stream.clearbit.com
-0.0.0.0 component-ota-f.coloros.com
-0.0.0.0 component-ota-sg.allawnos.com
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 concert.io
 0.0.0.0 confection.io
@@ -1426,8 +1421,6 @@
 0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 config.y5en.com
 0.0.0.0 confirmation.gameloft.com
-0.0.0.0 conn1.coloros.com
-0.0.0.0 conn2.coloros.com
 0.0.0.0 connatix.com
 0.0.0.0 connect.detik.com
 0.0.0.0 connect-dra.dbankcloud.cn
@@ -1436,10 +1429,6 @@
 0.0.0.0 connect.ok.ru
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 connectwise.com
-0.0.0.0 conn-service-gl-01.allawntech.com
-0.0.0.0 conn-service-us-03.allawnos.com
-0.0.0.0 conn-service-us-04.allawnos.com
-0.0.0.0 conn-service-us-05.allawnos.com
 0.0.0.0 consent.trustarc.com
 0.0.0.0 constellix.com
 0.0.0.0 content-fgw.zepeto.io
@@ -1482,6 +1471,7 @@
 0.0.0.0 cpn.netcoresmartech.com
 0.0.0.0 cpx.to
 0.0.0.0 craft.pe
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crashsight.wetest.net
 0.0.0.0 crazygirls24.com
 0.0.0.0 create.lidstatic.com
@@ -1786,7 +1776,6 @@
 0.0.0.0 e69896.dscapi6.akamaiedge.net
 0.0.0.0 e7100.g.akamaiedge.net
 0.0.0.0 e.alipay.com
-0.0.0.0 eap-log-sg.allawnos.com
 0.0.0.0 earthvpn.app
 0.0.0.0 easemob.com
 0.0.0.0 easytomessage.com
@@ -2082,7 +2071,6 @@
 0.0.0.0 gateway-loyalty.dana.id
 0.0.0.0 gateway.multiplay.zepeto.run
 0.0.0.0 gateway.upush.englory.net
-0.0.0.0 gauss-sauoldcostmanual-sg.allawnofs.com
 0.0.0.0 gbvm.nl
 0.0.0.0 gbw.cmpc.fun
 0.0.0.0 gbwhatsapp.download
@@ -2157,7 +2145,6 @@
 0.0.0.0 global-chat-sg.sausage.xd.com
 0.0.0.0 global-client-log-gf-sg-turbine-da.sausage.xd.com
 0.0.0.0 global-client-log.sg-turbine-da.sausage.xd.com
-0.0.0.0 globalcolor-service-sg.allawnos.com
 0.0.0.0 global-data-info-sg.sausage.xd.com
 0.0.0.0 global-game-sg.sausage.xd.com
 0.0.0.0 global.glbtls.t.co
@@ -2202,6 +2189,7 @@
 0.0.0.0 gotube.pro
 0.0.0.0 go-vip.net
 0.0.0.0 gpapi.zepeto.io
+0.0.0.0 gpt-ai-chat.com
 0.0.0.0 gpvjyx.ssptp4.com
 0.0.0.0 graph.microsoft.com
 0.0.0.0 graphql.api.dailymotion.com
@@ -2217,6 +2205,7 @@
 0.0.0.0 group.bignox.com
 0.0.0.0 growin.ge
 0.0.0.0 growsumo.com
+0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 growtopia1.com
 0.0.0.0 growtopia2.com
 0.0.0.0 grsm.io
@@ -2228,12 +2217,12 @@
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gtglobal.intl.miui.com
 0.0.0.0 gtimg.cn
+0.0.0.0 gtm.oasisfeng.com
 0.0.0.0 gtq3.sct.sc-prod.net
 0.0.0.0 gtq6.sct.sc-prod.net
 0.0.0.0 gu5i180vl80c17hktdklmpu5j.litix.io
 0.0.0.0 guid.tpns.hk.tencent.com
 0.0.0.0 guid.tpns.sgp.tencent.com
-0.0.0.0 guif.coloros.com
 0.0.0.0 gumgum.com
 0.0.0.0 gumroad.com
 0.0.0.0 gurume.screenconnect.com
@@ -2386,9 +2375,6 @@
 0.0.0.0 iclickcdn.com
 0.0.0.0 icms-image.slatic.net
 0.0.0.0 icon.mndsrv.com
-0.0.0.0 icosa-service-sg.allawnos.com
-0.0.0.0 icosa-sg.coloros.com
-0.0.0.0 icota-eu.coloros.com
 0.0.0.0 id2.sv.rkdms.com
 0.0.0.0 id-a.kakaopagecdn.com
 0.0.0.0 id.bignox.com
@@ -2421,11 +2407,8 @@
 0.0.0.0 if4a3802.app-ads-txt.com
 0.0.0.0 iface2.iqiyi.com
 0.0.0.0 iface4.iqiyi.com
-0.0.0.0 ifota.coloros.com
 0.0.0.0 ifota.realmemobile.com
 0.0.0.0 iframe.videodelivery.net
-0.0.0.0 ifrus.coloros.com
-0.0.0.0 ifsau.coloros.com
 0.0.0.0 igapromomanager-pa.googleapis.com
 0.0.0.0 i.git99.com
 0.0.0.0 ign.com
@@ -2433,7 +2416,6 @@
 0.0.0.0 i.ibb.co
 0.0.0.0 i.jpallnight.com
 0.0.0.0 i.l-new.inmobicdn.net
-0.0.0.0 ilockcardf.apps.coloros.com
 0.0.0.0 ilovexclub.com
 0.0.0.0 ilyon.net
 0.0.0.0 image6.thehotgames.com
@@ -2585,9 +2567,7 @@
 0.0.0.0 iosads4-8.adcolony.com
 0.0.0.0 iosads4-9.adcolony.com
 0.0.0.0 ios.crashsight.wetest.net
-0.0.0.0 i.ota.coloros.com
 0.0.0.0 iota.cooooos.com
-0.0.0.0 i.ota.foreign.coloros.com
 0.0.0.0 iot-ota.realme.com
 0.0.0.0 iot.weixin.qq.com
 0.0.0.0 ipapi.co
@@ -2612,10 +2592,6 @@
 0.0.0.0 ire-oneid.shalltry.com
 0.0.0.0 irisk-id-l.alipay.com
 0.0.0.0 irl-api.twibida.com
-0.0.0.0 irus.coloros.com
-0.0.0.0 i.rus.foreign.coloros.com
-0.0.0.0 isau.coloros.com
-0.0.0.0 i.sau.foreign.coloros.com
 0.0.0.0 i.scooper.news
 0.0.0.0 iseepassword.com
 0.0.0.0 isex.baby
@@ -2772,8 +2748,6 @@
 0.0.0.0 lamanlabuh.aduankonten.id
 0.0.0.0 lamida.id
 0.0.0.0 lan3rd.line.me
-0.0.0.0 lang-f.coloros.com
-0.0.0.0 languagef.coloros.com
 0.0.0.0 lanzou.com
 0.0.0.0 lanzouo.com
 0.0.0.0 lapaksebelahh.com
@@ -3204,6 +3178,7 @@
 0.0.0.0 muslim-pro-app.firebaseio.com
 0.0.0.0 muslimpro.com
 0.0.0.0 muslimpro.zendesk.com
+0.0.0.0 mvconf.f.360.cn
 0.0.0.0 mv.lunalabs.io
 0.0.0.0 mvm.snapchat.com
 0.0.0.0 mvpconsultant.us
@@ -3488,6 +3463,7 @@
 0.0.0.0 o-odd-com.oss-eu-central-1.aliyuncs.com
 0.0.0.0 opc.cloud.tencent.com
 0.0.0.0 op-data.zuiqiangyingyu.net
+0.0.0.0 openaigpt.com
 0.0.0.0 openai.weixin.qq.com
 0.0.0.0 openapi.joox.com
 0.0.0.0 open-api.spot.im
@@ -3499,7 +3475,6 @@
 0.0.0.0 openwifi.ucweb.com
 0.0.0.0 opera.software
 0.0.0.0 operation-domain.palmplaystore.com
-0.0.0.0 opex-service-sg.allawnos.com
 0.0.0.0 oppomobile.com
 0.0.0.0 oppo-oem.avira-update.com
 0.0.0.0 oppo.wifi.teddymobile.cn
@@ -3534,7 +3509,6 @@
 0.0.0.0 osupdate2020.shalltry.com
 0.0.0.0 otakudesu.org
 0.0.0.0 ota.lokalise.co
-0.0.0.0 ota-manual-sg.allawnofs.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 othstr.beacon.qq.com
 0.0.0.0 oth.str.mdt.qq.com
@@ -3689,6 +3663,7 @@
 0.0.0.0 pes22-game.cs.konami.net
 0.0.0.0 pf.daerisoft.com
 0.0.0.0 pfmverify.ca
+0.0.0.0 pgepodownload.mediatek.com
 0.0.0.0 phala.one
 0.0.0.0 ph.bignox.com
 0.0.0.0 phelp.pro
@@ -3699,6 +3674,7 @@
 0.0.0.0 pho.to
 0.0.0.0 photolab.me
 0.0.0.0 photolabsocialapi.pho.to
+0.0.0.0 ph-store.oppomobile.com
 0.0.0.0 pic.ak.mangatoon.akamaized.net
 0.0.0.0 pic-bstarstatic.akamaized.net
 0.0.0.0 pic.bstarstatic.com
@@ -3895,6 +3871,8 @@
 0.0.0.0 qcloudimg.tencent-cloud.cn
 0.0.0.0 qcloudimg.tencentcs.cn
 0.0.0.0 qcloudimg.tencentcs.com
+0.0.0.0 qepodownload.mediatek.com
+0.0.0.0 qgepodownload.mediatek.com
 0.0.0.0 qhloury.com
 0.0.0.0 qidian.qq.com
 0.0.0.0 qotu.bar
@@ -3972,6 +3950,7 @@
 0.0.0.0 remotecompany.com
 0.0.0.0 renren.com
 0.0.0.0 repair-system-phone.firebaseio.com
+0.0.0.0 repodownload.mediatek.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report.sc.funminigame.com
@@ -4023,6 +4002,7 @@
 0.0.0.0 rewards-cards.org
 0.0.0.0 rewardsgiantca.com
 0.0.0.0 reytesla.com
+0.0.0.0 rgepodownload.mediatek.com
 0.0.0.0 rhaxpy.com
 0.0.0.0 richapp1.com
 0.0.0.0 r-id.ls.glanceapis.com
@@ -4098,7 +4078,6 @@
 0.0.0.0 rudyvalencia.pro
 0.0.0.0 rum-ingest.us1.signalfx.com
 0.0.0.0 ruplay.market
-0.0.0.0 rusfsg.coloros.com
 0.0.0.0 rustore.ru
 0.0.0.0 rvere.com
 0.0.0.0 rwt.fortumo.com
@@ -4160,7 +4139,6 @@
 0.0.0.0 sas-autos.com
 0.0.0.0 satismeter.com
 0.0.0.0 sausage-global-cdn.sausage.xd.com
-0.0.0.0 sau-server-sg.allawnos.com
 0.0.0.0 saya.ucweb.com
 0.0.0.0 sba.yandex.net
 0.0.0.0 sc386.com
@@ -4266,6 +4244,7 @@
 0.0.0.0 sexy-dating.uno
 0.0.0.0 seznam.cz
 0.0.0.0 sfdict.com
+0.0.0.0 sfepodownload.mediatek.com
 0.0.0.0 sf.ezoiccdn.com
 0.0.0.0 sf.napi.ucweb.com
 0.0.0.0 sf-syn.com
@@ -4274,6 +4253,7 @@
 0.0.0.0 sg-account.wps.com
 0.0.0.0 sg-dm.pageonenewsapp.com
 0.0.0.0 sg-drive.wps.com
+0.0.0.0 sgepodownload.mediatek.com
 0.0.0.0 sgfp.tongdun.net
 0.0.0.0 sg-live-01.slatic.net
 0.0.0.0 sg-live-05.slatic.net
@@ -4356,7 +4336,6 @@
 0.0.0.0 slickstream.com
 0.0.0.0 slots.easybrain.com
 0.0.0.0 smartadserver.com
-0.0.0.0 smartcardf-eu.apps.coloros.com
 0.0.0.0 smarthackerstech.org
 0.0.0.0 smartlook.com
 0.0.0.0 smartsuppchat.com
@@ -5028,6 +5007,7 @@
 0.0.0.0 us-east4-gcp.api.snapchat.com
 0.0.0.0 useinsider.com
 0.0.0.0 user-api.ucweb.com
+0.0.0.0 userlocation.googleapis.com
 0.0.0.0 useroperation.wondershare.com
 0.0.0.0 user-snow-api.snow.me
 0.0.0.0 us.eufy.com
@@ -5068,7 +5048,6 @@
 0.0.0.0 viber.com
 0.0.0.0 victim-dot-spectre-web.appspot.com
 0.0.0.0 vid.connatix.com
-0.0.0.0 videoclipf.apps.coloros.com
 0.0.0.0 videodelivery.net
 0.0.0.0 videodownloader.ummy.net
 0.0.0.0 video-g.usicdn.com
@@ -5177,7 +5156,6 @@
 0.0.0.0 wc.meson.ai
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wd.adcolony.xyz
-0.0.0.0 weather-server-sg.allawnos.com
 0.0.0.0 web2.17roco.qq.com
 0.0.0.0 web4.profiwh.com
 0.0.0.0 webadv.co
@@ -5522,6 +5500,7 @@
 0.0.0.0 www.centurygames.com
 0.0.0.0 www.chandashi.com
 0.0.0.0 www.chaport.com
+0.0.0.0 www.chatgpt-pc.com
 0.0.0.0 www.chillyroom.com
 0.0.0.0 www.ckg.hk
 0.0.0.0 www.cleverpush.com
@@ -5666,6 +5645,7 @@
 0.0.0.0 www.onecyber.net
 0.0.0.0 www.onlinecash1.com
 0.0.0.0 www.o-odd.com
+0.0.0.0 www.openaigpt.com
 0.0.0.0 www.optimumlines.com
 0.0.0.0 www.ordereffuel.co
 0.0.0.0 www.orderonline.id
@@ -5898,6 +5878,7 @@
 0.0.0.0 x-in.glance-cdn.com
 0.0.0.0 x-in.glance-cdn.net
 0.0.0.0 x-in-mob-game-cdn.glance-cdn.com
+0.0.0.0 xjp-jmacs.m.taobao.com
 0.0.0.0 xjp-msgacs.m.taobao.com
 0.0.0.0 xlaxiata2.md-apis.medallia.com
 0.0.0.0 xlaxiata-resources.digital-cloud-sin1.medallia.com

@@ -4358,6 +4358,7 @@ weiliicimg1.pstatp.com
 welcome.toutiao.com
 wenda.toutiao.com
 widget-i18n.tiktokv.com
+widget-va.tiktokv.com
 wiki.bytedance.net
 wildcard.musical.ly.edgekey.net
 wj.byteoversea.com

@@ -1289,6 +1289,7 @@ chat5-production.golabs.io
 chat6-production.golabs.io
 chat7-production.golabs.io
 chat8-production.golabs.io
+chatgpt-pc.com
 cheapkey.net
 checkappexec.microsoft.com
 checkip.amazonaws.com
@@ -1470,6 +1471,7 @@ cpmstar.com
 cpn.netcoresmartech.com
 cpx.to
 craft.pe
+crashlyticsreports-pa.googleapis.com
 crashsight.wetest.net
 crazygirls24.com
 create.lidstatic.com
@@ -2187,6 +2189,7 @@ gosupportnow.com
 gotube.pro
 go-vip.net
 gpapi.zepeto.io
+gpt-ai-chat.com
 gpvjyx.ssptp4.com
 graph.microsoft.com
 graphql.api.dailymotion.com
@@ -2202,6 +2205,7 @@ group41.sites.hscoscdn40.net
 group.bignox.com
 growin.ge
 growsumo.com
+growth-pa.googleapis.com
 growtopia1.com
 growtopia2.com
 grsm.io
@@ -2213,6 +2217,7 @@ gsmlog.cscmobicorp.com
 gstaticadssl.l.google.com
 gtglobal.intl.miui.com
 gtimg.cn
+gtm.oasisfeng.com
 gtq3.sct.sc-prod.net
 gtq6.sct.sc-prod.net
 gu5i180vl80c17hktdklmpu5j.litix.io
@@ -3173,6 +3178,7 @@ musicradio.com
 muslim-pro-app.firebaseio.com
 muslimpro.com
 muslimpro.zendesk.com
+mvconf.f.360.cn
 mv.lunalabs.io
 mvm.snapchat.com
 mvpconsultant.us
@@ -3457,6 +3463,7 @@ o-odd.com
 o-odd-com.oss-eu-central-1.aliyuncs.com
 opc.cloud.tencent.com
 op-data.zuiqiangyingyu.net
+openaigpt.com
 openai.weixin.qq.com
 openapi.joox.com
 open-api.spot.im
@@ -3656,6 +3663,7 @@ person-stream.clearbit.com
 pes22-game.cs.konami.net
 pf.daerisoft.com
 pfmverify.ca
+pgepodownload.mediatek.com
 phala.one
 ph.bignox.com
 phelp.pro
@@ -3666,6 +3674,7 @@ phonograph2.voxmedia.com
 pho.to
 photolab.me
 photolabsocialapi.pho.to
+ph-store.oppomobile.com
 pic.ak.mangatoon.akamaized.net
 pic-bstarstatic.akamaized.net
 pic.bstarstatic.com
@@ -3862,6 +3871,8 @@ qcloudimg.com
 qcloudimg.tencent-cloud.cn
 qcloudimg.tencentcs.cn
 qcloudimg.tencentcs.com
+qepodownload.mediatek.com
+qgepodownload.mediatek.com
 qhloury.com
 qidian.qq.com
 qotu.bar
@@ -3939,6 +3950,7 @@ reminiandroid.oracle.bendingspoonsapps.com
 remotecompany.com
 renren.com
 repair-system-phone.firebaseio.com
+repodownload.mediatek.com
 report.appmetrica.yandex.net
 report-ps.meettech.net
 report.sc.funminigame.com
@@ -3990,6 +4002,7 @@ revolvermaps.com
 rewards-cards.org
 rewardsgiantca.com
 reytesla.com
+rgepodownload.mediatek.com
 rhaxpy.com
 richapp1.com
 r-id.ls.glanceapis.com
@@ -4231,6 +4244,7 @@ sexxo.baby
 sexy-dating.uno
 seznam.cz
 sfdict.com
+sfepodownload.mediatek.com
 sf.ezoiccdn.com
 sf.napi.ucweb.com
 sf-syn.com
@@ -4239,6 +4253,7 @@ sg1-spiky.clevertap-prod.com
 sg-account.wps.com
 sg-dm.pageonenewsapp.com
 sg-drive.wps.com
+sgepodownload.mediatek.com
 sgfp.tongdun.net
 sg-live-01.slatic.net
 sg-live-05.slatic.net
@@ -4992,6 +5007,7 @@ us-east-1.ingaa.xyz
 us-east4-gcp.api.snapchat.com
 useinsider.com
 user-api.ucweb.com
+userlocation.googleapis.com
 useroperation.wondershare.com
 user-snow-api.snow.me
 us.eufy.com
@@ -5484,6 +5500,7 @@ www.cdn.viber.com
 www.centurygames.com
 www.chandashi.com
 www.chaport.com
+www.chatgpt-pc.com
 www.chillyroom.com
 www.ckg.hk
 www.cleverpush.com
@@ -5628,6 +5645,7 @@ www.obstremswiev.site
 www.onecyber.net
 www.onlinecash1.com
 www.o-odd.com
+www.openaigpt.com
 www.optimumlines.com
 www.ordereffuel.co
 www.orderonline.id
@@ -5860,6 +5878,7 @@ xincache.com
 x-in.glance-cdn.com
 x-in.glance-cdn.net
 x-in-mob-game-cdn.glance-cdn.com
+xjp-jmacs.m.taobao.com
 xjp-msgacs.m.taobao.com
 xlaxiata2.md-apis.medallia.com
 xlaxiata-resources.digital-cloud-sin1.medallia.com

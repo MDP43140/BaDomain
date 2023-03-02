@@ -4358,6 +4358,7 @@
 0.0.0.0 welcome.toutiao.com
 0.0.0.0 wenda.toutiao.com
 0.0.0.0 widget-i18n.tiktokv.com
+0.0.0.0 widget-va.tiktokv.com
 0.0.0.0 wiki.bytedance.net
 0.0.0.0 wildcard.musical.ly.edgekey.net
 0.0.0.0 wj.byteoversea.com
