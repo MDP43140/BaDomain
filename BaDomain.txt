@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 01.03.2023
+# Version: 02.03.2023
 # Update: 1 day
 #
 
@@ -385,7 +385,6 @@ alive.vskit.tv
 aliyun.com
 aliyuncs.com
 aliyun-inc.com
-allawntech.com
 all.cnzz.com
 all.cnzz.com.danuoyi.tbcache.com
 allmipa.com
@@ -877,7 +876,6 @@ avanquest.com
 avatar.pho.to
 avatars.mds.yandex.net
 a.vdo.ai
-avlconf.coloros.com
 avlsec.com
 avlsec.oss-cn-hangzhou.aliyuncs.com
 a.wattpad.com
@@ -1309,7 +1307,6 @@ ckg.hk
 cl2.g.aaplimg.com
 cl4.g.aaplimg.com
 clarity.ms
-classify.apps.coloros.com
 c.lazada.co.id
 cldapi.net
 cleanapps.org
@@ -1387,7 +1384,6 @@ collector.lunalabs.io
 collector-pxikkul2rm.perimeterx.net
 collector-pxt6dy78t8.px-client.net
 collector-pxt6dy78t8.px-cloud.net
-coloros.com
 combinatronics.io
 com.gds.alibabadns.com
 commercecore.zendesk.com
@@ -1397,8 +1393,6 @@ common.duapps.com
 common.xshareapp.com
 company.clearbit.com
 company-stream.clearbit.com
-component-ota-f.coloros.com
-component-ota-sg.allawnos.com
 concertads-configs.vox-cdn.com
 concert.io
 confection.io
@@ -1426,8 +1420,6 @@ configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
 config.y5en.com
 confirmation.gameloft.com
-conn1.coloros.com
-conn2.coloros.com
 connatix.com
 connect.detik.com
 connect-dra.dbankcloud.cn
@@ -1436,10 +1428,6 @@ connectivitycheck.cbg-app.huawei.com
 connect.ok.ru
 connect.tapjoy.com
 connectwise.com
-conn-service-gl-01.allawntech.com
-conn-service-us-03.allawnos.com
-conn-service-us-04.allawnos.com
-conn-service-us-05.allawnos.com
 consent.trustarc.com
 constellix.com
 content-fgw.zepeto.io
@@ -1786,7 +1774,6 @@ e6987.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
 e7100.g.akamaiedge.net
 e.alipay.com
-eap-log-sg.allawnos.com
 earthvpn.app
 easemob.com
 easytomessage.com
@@ -2082,7 +2069,6 @@ gateway.id.kakaowebtoon.com
 gateway-loyalty.dana.id
 gateway.multiplay.zepeto.run
 gateway.upush.englory.net
-gauss-sauoldcostmanual-sg.allawnofs.com
 gbvm.nl
 gbw.cmpc.fun
 gbwhatsapp.download
@@ -2157,7 +2143,6 @@ global-auth-sg.sausage.xd.com
 global-chat-sg.sausage.xd.com
 global-client-log-gf-sg-turbine-da.sausage.xd.com
 global-client-log.sg-turbine-da.sausage.xd.com
-globalcolor-service-sg.allawnos.com
 global-data-info-sg.sausage.xd.com
 global-game-sg.sausage.xd.com
 global.glbtls.t.co
@@ -2233,7 +2218,6 @@ gtq6.sct.sc-prod.net
 gu5i180vl80c17hktdklmpu5j.litix.io
 guid.tpns.hk.tencent.com
 guid.tpns.sgp.tencent.com
-guif.coloros.com
 gumgum.com
 gumroad.com
 gurume.screenconnect.com
@@ -2386,9 +2370,6 @@ ichef.bbci.co.uk
 iclickcdn.com
 icms-image.slatic.net
 icon.mndsrv.com
-icosa-service-sg.allawnos.com
-icosa-sg.coloros.com
-icota-eu.coloros.com
 id2.sv.rkdms.com
 id-a.kakaopagecdn.com
 id.bignox.com
@@ -2421,11 +2402,8 @@ i.establishedtitles.com
 if4a3802.app-ads-txt.com
 iface2.iqiyi.com
 iface4.iqiyi.com
-ifota.coloros.com
 ifota.realmemobile.com
 iframe.videodelivery.net
-ifrus.coloros.com
-ifsau.coloros.com
 igapromomanager-pa.googleapis.com
 i.git99.com
 ign.com
@@ -2433,7 +2411,6 @@ igofun.mobi
 i.ibb.co
 i.jpallnight.com
 i.l-new.inmobicdn.net
-ilockcardf.apps.coloros.com
 ilovexclub.com
 ilyon.net
 image6.thehotgames.com
@@ -2585,9 +2562,7 @@ iosads4-5.adcolony.com
 iosads4-8.adcolony.com
 iosads4-9.adcolony.com
 ios.crashsight.wetest.net
-i.ota.coloros.com
 iota.cooooos.com
-i.ota.foreign.coloros.com
 iot-ota.realme.com
 iot.weixin.qq.com
 ipapi.co
@@ -2612,10 +2587,6 @@ ire-dsu.shalltry.com
 ire-oneid.shalltry.com
 irisk-id-l.alipay.com
 irl-api.twibida.com
-irus.coloros.com
-i.rus.foreign.coloros.com
-isau.coloros.com
-i.sau.foreign.coloros.com
 i.scooper.news
 iseepassword.com
 isex.baby
@@ -2772,8 +2743,6 @@ ladepeche.fr
 lamanlabuh.aduankonten.id
 lamida.id
 lan3rd.line.me
-lang-f.coloros.com
-languagef.coloros.com
 lanzou.com
 lanzouo.com
 lapaksebelahh.com
@@ -3499,7 +3468,6 @@ open.weixin.qq.com
 openwifi.ucweb.com
 opera.software
 operation-domain.palmplaystore.com
-opex-service-sg.allawnos.com
 oppomobile.com
 oppo-oem.avira-update.com
 oppo.wifi.teddymobile.cn
@@ -3534,7 +3502,6 @@ ossweb-img.qq.com
 osupdate2020.shalltry.com
 otakudesu.org
 ota.lokalise.co
-ota-manual-sg.allawnofs.com
 oth.eve.mdt.qq.com
 othstr.beacon.qq.com
 oth.str.mdt.qq.com
@@ -4098,7 +4065,6 @@ ru.bignox.com
 rudyvalencia.pro
 rum-ingest.us1.signalfx.com
 ruplay.market
-rusfsg.coloros.com
 rustore.ru
 rvere.com
 rwt.fortumo.com
@@ -4160,7 +4126,6 @@ sapi.taptap.com
 sas-autos.com
 satismeter.com
 sausage-global-cdn.sausage.xd.com
-sau-server-sg.allawnos.com
 saya.ucweb.com
 sba.yandex.net
 sc386.com
@@ -4356,7 +4321,6 @@ slatic.net
 slickstream.com
 slots.easybrain.com
 smartadserver.com
-smartcardf-eu.apps.coloros.com
 smarthackerstech.org
 smartlook.com
 smartsuppchat.com
@@ -5068,7 +5032,6 @@ vibecdn.contextads.live
 viber.com
 victim-dot-spectre-web.appspot.com
 vid.connatix.com
-videoclipf.apps.coloros.com
 videodelivery.net
 videodownloader.ummy.net
 video-g.usicdn.com
@@ -5177,7 +5140,6 @@ wcagsib.com
 wc.meson.ai
 wd.adcolony.com
 wd.adcolony.xyz
-weather-server-sg.allawnos.com
 web2.17roco.qq.com
 web4.profiwh.com
 webadv.co
