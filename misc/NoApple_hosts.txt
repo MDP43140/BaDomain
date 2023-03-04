@@ -199,6 +199,7 @@
 0.0.0.0 gsp-ssl.ls-apple.com.akadns.net
 0.0.0.0 guzzoni.apple.com
 0.0.0.0 icloud.com
+0.0.0.0 inappcheck-ak.itunes-apple.com.akadns.net
 0.0.0.0 inappcheck.itunes.apple.com
 0.0.0.0 inappcheck-lb.itunes-apple.com.akadns.net
 0.0.0.0 init-cdn.itunes-apple.com.akadns.net

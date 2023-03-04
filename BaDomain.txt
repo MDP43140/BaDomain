@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.03.2023
+# Version: 04.03.2023
 # Update: 1 day
 #
 
@@ -180,15 +180,8 @@ a01.uadexchange.com
 a02.uadexchange.com
 a03.uadexchange.com
 a.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
-a1091.dscw154.akamai.net
-a1377.w7.akamai.net
-a169.w7.akamai.net
-a1818.dscg2.akamai.net
-a1865.d.akamai.net
-a1931.dscgi3.akamai.net
 a1a4c40e556f413ef.awsglobalaccelerator.com
 a1-sgp.easemob.com
-a2047.dscb.akamai.net
 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 a.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
@@ -200,6 +193,7 @@ a4.applovin.com
 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 a.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+a5b1fe1c3d2a14cf39d66ad7e255a712-587e721f5aeda681.elb.ap-northeast-2.amazonaws.com
 a5cf870526ee8046d26235be996b36b9.safeframe.googlesyndication.com
 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
@@ -281,11 +275,13 @@ ads20.adcolony.com
 ads30.adcolony.com
 ads.adcolony.com
 ads.adpub.co
+ads.adscontrol.xyz
 adsafeprotected.com
 ads.api.vungle.com
 ads.appbundledownload.com
 ads.baca.co.id
 adsbynimbus.com
+adscontrol.xyz
 ad-score.com
 adsensecamp.com
 adservice.google.co.id
@@ -330,6 +326,7 @@ adz-skip.net
 adz.wattpad.com
 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
 ae9b110-dnsotls-ds.metric.gstatic.com
+aeef1b033fe9c48ada6c559fb84854f1-86e0a8e50803f25c.elb.ap-northeast-2.amazonaws.com
 aegis.qq.com
 aeu.alicdn.com
 a.everestop.io
@@ -865,6 +862,7 @@ australianmorningnews.com
 auth-cloudfront.prod.ims.adobejanus.com
 auth.ff.avast.com
 autocomplete.clearbit.com
+autodiscover.transfermarkt.de
 auto.itc.cn
 automizely.com
 autopilothq.com
@@ -921,6 +919,13 @@ bdimg.share.baidu.com
 bdstatic.com
 bdtj.infinities.com.cn
 beacon-fra2.rubiconproject.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
+beacons5.gvt3.com
+beacons6.gvt2.com
+beacons6.gvt3.com
 beacons.ai
 beacons.gcp.gvt2.com
 beacons.glance.inmobi.com
@@ -940,6 +945,7 @@ beian.miit.gov.cn
 belnderr3d.org
 bendingspoonsapps.com
 bendingspoons.com
+beplus.prod.beplus.solutions
 besmeargleor.com
 bestcards.online
 bestdate.top
@@ -1025,6 +1031,7 @@ brdsg.com
 brightcove.net
 britepool.com
 broadcast.biliintl.com
+browser.sentry-cdn.com
 b.sf-syn.com
 b.sogou.com
 b.st-hatena.com
@@ -1123,6 +1130,7 @@ cdn1.hubspot.net
 cdn1-production-images-kly.akamaized.net
 cdn1.scooper.news
 cdn-1.tstatic.net
+cdn-22.privacy-mgmt.com
 cdn2.codashop.com
 cdn2.editmysite.com
 cdn2.hubspot.net
@@ -1136,16 +1144,19 @@ cdn-3.tstatic.net
 cdn4.editmysite.com
 cdn-4.tstatic.net
 cdn4.uzone.id
+cdn-52.privacy-mgmt.com
 cdn5.editmysite.com
 cdn5.trafficad-biz.com
 cdn-5.tstatic.net
 cdn6.editmysite.com
+cdn-75.privacy-mgmt.com
 cdn77-pic.xnxx-cdn.com
 cdn77-pic.xvideos-cdn.com
 cdn77-vid.others-cdn.com
 cdn7.editmysite.com
 cdn-7.tstatic.net
 cdn7.uzone.id
+cdn-82.privacy-mgmt.com
 cdn8.editmysite.com
 cdn8.uzone.id
 cdn925.com
@@ -1216,6 +1227,7 @@ cdn.orderonline.id
 cdn.otnolatrnup.com
 cdn.outfit7.com
 cdn.pdst.fm
+cdn.privacy-mgmt.com
 cdn-prod.securiti.ai
 cdn-production-assets-kly.akamaized.net
 cdn.pushmart.net
@@ -1394,6 +1406,7 @@ common.duapps.com
 common.xshareapp.com
 company.clearbit.com
 company-stream.clearbit.com
+compass.adop.cc
 concertads-configs.vox-cdn.com
 concert.io
 confection.io
@@ -1436,6 +1449,7 @@ contentful.com
 contentsblock.samqaicongen.com
 content-snow-api.snow.me
 content.webengage.com
+content.zeotap.com
 contextual.media.net
 contextweb.com
 contivio.com
@@ -1455,6 +1469,7 @@ cootekservice.com
 core-api.data.appsinnova.com
 corp.sogou.com
 cos.ap-shanghai.myqcloud.com
+counter.adscontrol.xyz
 counter.top.ge
 counter.yadro.ru
 countly2.feelingtouch.com
@@ -1606,6 +1621,7 @@ datting.click
 datting.link
 datting.online
 daum.net
+davisonbarker.pro
 da-www14.ballou.se
 dbn41syzjymrk.cloudfront.net
 dc1.networkbench.com
@@ -1828,10 +1844,6 @@ ems.youku.com
 emxdgt.com
 en.4sync.com
 en.bignox.com
-encrypted-tbn0.gstatic.com
-encrypted-tbn1.gstatic.com
-encrypted-tbn2.gstatic.com
-encrypted-tbn3.gstatic.com
 endpoint.mms.shopee.co.id
 english.sogou.com
 engpicka.app.link
@@ -2346,6 +2358,7 @@ hws-prod.carx-online.com
 hybrid.miniapp.taobao.com
 hydrahydra.kim
 hzmk.site
+hzz74r.hai8j1.com
 i0.hdslb.com
 i0.wp.com
 i18n.mvconf.50union.com
@@ -2454,6 +2467,7 @@ img3.daumcdn.net
 img4.daumcdn.net
 img53.ropose.com
 img.alicdn.com
+img.a.transfermarkt.technology
 imgcache.joox.com
 img.cdn.baca.co.id
 imgcdn.ymstatic.com
@@ -2716,6 +2730,7 @@ kiwibrowser.org
 kiwiirc.com
 kix-ulog.kwai-pro.com
 kix-ulog.kwaipros.com
+kj9atb.hai8j1.com
 klaviyo.com
 klimg.com
 klink.snackvideo.com
@@ -3205,6 +3220,7 @@ na.albtls.t.co
 nadaring.mademoiselleosaki.com
 nagios.dreamvps.com
 na.glbtls.t.co
+nam.veta.naver.com
 nanorep.co
 nanosystems.it
 narrativ.com
@@ -3402,6 +3418,7 @@ o33249.ingest.sentry.io
 o370407.ingest.sentry.io
 o43841.ingest.sentry.io
 o446669.ingest.sentry.io
+o4504598522363904.ingest.sentry.io
 o519366.ingest.sentry.io
 o64315.ingest.sentry.io
 o7at-af.outfit7.com
@@ -3443,6 +3460,7 @@ omgid.qq.com
 omlet.me
 omnisnippet1.com
 omnithrottle.com
+omo.akamai.opta.net
 om-server.btc42.com
 oneclient.sfx.ms
 one.confbesttop.com
@@ -3482,6 +3500,7 @@ opr.adx.opera.com
 opswat.info
 optad360.io
 optaim.com
+opta.net
 optimizationguide-pa.googleapis.com
 optimizely-edge.salesforce.com
 optimonk.com
@@ -3698,6 +3717,7 @@ pi.pardot.com
 pipedream.wistia.com
 pippio.com
 piwik.everzones.com
+piwik.pro
 pixelfed-prod.nyc3.digitaloceanspaces.com
 pixel.jungroup.com
 pixel.wp.com
@@ -3735,6 +3755,7 @@ play-ws.vod.shopee.com
 pl.bignox.com
 pl.connatix.com
 pl.ea.com
+plenty.vidio.com
 pls.prd.mz.internal.unity3d.com
 plugin-server.wps.com
 png.pookcdn.com
@@ -3891,6 +3912,7 @@ quickbooks.intuit.com
 quickgosearch.com
 quinzaa.monster
 quiztest.me
+quiz.vidio.com
 quriobot.com
 quzizz.com
 qwe.puscomosca.com
@@ -4200,6 +4222,7 @@ secure.livechatinc.com
 secure-media.hotstar.com
 securetoken.googleapis.com
 securetrueip.co.kr
+secure.widget.cloud.opta.net
 securiti.ai
 securitiai.widget.insent.ai
 security.intuit.com
@@ -4249,6 +4272,7 @@ sf.ezoiccdn.com
 sf.napi.ucweb.com
 sf-syn.com
 sg01-cdn.rayjump.com
+sg1-b6s-api.snow.me.akadns.net
 sg1-spiky.clevertap-prod.com
 sg-account.wps.com
 sg-dm.pageonenewsapp.com
@@ -4832,6 +4856,7 @@ trafsafetrack.com
 trailblazer.me
 trailhead.salesforce.com
 transacme.com
+transfermarkt.technology
 translations.platform.pulselive.com
 translations.smartsuppcdn.com
 transsion.com
@@ -4988,6 +5013,7 @@ urlssr.com
 urmyromance.com
 us18.list-manage.com
 usa.ime.cdn.cootekservice.com
+usa.ime.cootek.com
 us.alibabacloud.com
 us.api.fc.mob.com
 us.api.fd.mob.com
@@ -5089,6 +5115,7 @@ vivosec.baidu.com
 vjs.zencdn.net
 vk.com
 v.lsttnews.com
+vm.piwik.pro
 vn.bignox.com
 vnclip.net
 voip-news.com
@@ -5221,6 +5248,7 @@ widget.kompas.com
 widget.kumparan.com
 widget-mediator.zopim.com
 widgets.amung.us
+widgets-api.beplus.zone
 widgets.automizely.com
 widgets.outbrain.com
 widgets.pinterest.com
@@ -5381,6 +5409,7 @@ www.4sync.com
 www50.nathanaeldan.pro
 www51.nathanaeldan.pro
 www.51tracking.com
+www52.davisonbarker.pro
 www52.nathanaeldan.pro
 www53.nathanaeldan.pro
 www54.nathanaeldan.pro
@@ -5423,6 +5452,7 @@ www86.nathanaeldan.pro
 www87.nathanaeldan.pro
 www88.nathanaeldan.pro
 www89.nathanaeldan.pro
+www8.davisonbarker.pro
 www8.nathanaeldan.pro
 www90.nathanaeldan.pro
 www91.nathanaeldan.pro
@@ -5441,6 +5471,7 @@ www.adclound.com
 www.addtoany.com
 www.adexchanger.com
 www.adlook.me
+www.adscontrol.xyz
 www.ad-score.com
 www.adventureacademy.com
 www.ad-x.com
@@ -5672,6 +5703,7 @@ www.quiztest.me
 www.quzizz.com
 www.rangextd.com
 www.rayjump.com
+www.reactful.com
 www.realmoneybiz.com
 www.refokus.com
 www.requesteasy.com
@@ -5781,7 +5813,6 @@ www.ushareit.com
 www.uzone.id
 www.vdo.ai
 www.viber.com
-www.vidio.com
 www.vidmateapp.com
 www.voovlive.com
 www.vum.fyi
@@ -5947,6 +5978,7 @@ yueguo99.com
 yuki-cdn.line-apps.com
 yundunwaf3.com
 yun.tim.qq.com
+z4r342.ep2n0y.com
 z4y.pl
 z5iqil.xjwi5.com
 zadn.vn

@@ -269,8 +269,8 @@ u-id.browser.oppomobile.com
 u-id.cpc.heytapmobile.com
 u-in.browser.oppomobile.com
 u-in.cpc.heytapmobile.com
-videoeditor-sg.soloop.heytapmobile.com
 videoclipf.apps.coloros.com
+videoeditor-sg.soloop.heytapmobile.com
 vip-client.heytapmobi.com
 weather-server-eu.allawnos.com
 weather-server-in.allawnos.com

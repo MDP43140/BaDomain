@@ -370,6 +370,7 @@
 0.0.0.0 api31-normal-probe-useast2a.tiktokv.com
 0.0.0.0 api31.tiktokv.com
 0.0.0.0 api32.tiktokv.com
+0.0.0.0 api39.gts.byteoversea.net
 0.0.0.0 api39-sg.gts.byteoversea.net
 0.0.0.0 api39.zong.byteoversea.net
 0.0.0.0 api3-core-c-alisg.tiktokv.com

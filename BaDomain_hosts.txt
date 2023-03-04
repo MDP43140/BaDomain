@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.03.2023
+# Version: 04.03.2023
 # Update: 1 day
 #
 
@@ -180,15 +180,8 @@
 0.0.0.0 a02.uadexchange.com
 0.0.0.0 a03.uadexchange.com
 0.0.0.0 a.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
-0.0.0.0 a1091.dscw154.akamai.net
-0.0.0.0 a1377.w7.akamai.net
-0.0.0.0 a169.w7.akamai.net
-0.0.0.0 a1818.dscg2.akamai.net
-0.0.0.0 a1865.d.akamai.net
-0.0.0.0 a1931.dscgi3.akamai.net
 0.0.0.0 a1a4c40e556f413ef.awsglobalaccelerator.com
 0.0.0.0 a1-sgp.easemob.com
-0.0.0.0 a2047.dscb.akamai.net
 0.0.0.0 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 0.0.0.0 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 0.0.0.0 a.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
@@ -200,6 +193,7 @@
 0.0.0.0 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 0.0.0.0 a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 0.0.0.0 a.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+0.0.0.0 a5b1fe1c3d2a14cf39d66ad7e255a712-587e721f5aeda681.elb.ap-northeast-2.amazonaws.com
 0.0.0.0 a5cf870526ee8046d26235be996b36b9.safeframe.googlesyndication.com
 0.0.0.0 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
@@ -281,11 +275,13 @@
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads.adcolony.com
 0.0.0.0 ads.adpub.co
+0.0.0.0 ads.adscontrol.xyz
 0.0.0.0 adsafeprotected.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.appbundledownload.com
 0.0.0.0 ads.baca.co.id
 0.0.0.0 adsbynimbus.com
+0.0.0.0 adscontrol.xyz
 0.0.0.0 ad-score.com
 0.0.0.0 adsensecamp.com
 0.0.0.0 adservice.google.co.id
@@ -330,6 +326,7 @@
 0.0.0.0 adz.wattpad.com
 0.0.0.0 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
 0.0.0.0 ae9b110-dnsotls-ds.metric.gstatic.com
+0.0.0.0 aeef1b033fe9c48ada6c559fb84854f1-86e0a8e50803f25c.elb.ap-northeast-2.amazonaws.com
 0.0.0.0 aegis.qq.com
 0.0.0.0 aeu.alicdn.com
 0.0.0.0 a.everestop.io
@@ -865,6 +862,7 @@
 0.0.0.0 auth-cloudfront.prod.ims.adobejanus.com
 0.0.0.0 auth.ff.avast.com
 0.0.0.0 autocomplete.clearbit.com
+0.0.0.0 autodiscover.transfermarkt.de
 0.0.0.0 auto.itc.cn
 0.0.0.0 automizely.com
 0.0.0.0 autopilothq.com
@@ -921,6 +919,13 @@
 0.0.0.0 bdstatic.com
 0.0.0.0 bdtj.infinities.com.cn
 0.0.0.0 beacon-fra2.rubiconproject.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacons6.gvt2.com
+0.0.0.0 beacons6.gvt3.com
 0.0.0.0 beacons.ai
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.glance.inmobi.com
@@ -940,6 +945,7 @@
 0.0.0.0 belnderr3d.org
 0.0.0.0 bendingspoonsapps.com
 0.0.0.0 bendingspoons.com
+0.0.0.0 beplus.prod.beplus.solutions
 0.0.0.0 besmeargleor.com
 0.0.0.0 bestcards.online
 0.0.0.0 bestdate.top
@@ -1025,6 +1031,7 @@
 0.0.0.0 brightcove.net
 0.0.0.0 britepool.com
 0.0.0.0 broadcast.biliintl.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 b.sf-syn.com
 0.0.0.0 b.sogou.com
 0.0.0.0 b.st-hatena.com
@@ -1123,6 +1130,7 @@
 0.0.0.0 cdn1-production-images-kly.akamaized.net
 0.0.0.0 cdn1.scooper.news
 0.0.0.0 cdn-1.tstatic.net
+0.0.0.0 cdn-22.privacy-mgmt.com
 0.0.0.0 cdn2.codashop.com
 0.0.0.0 cdn2.editmysite.com
 0.0.0.0 cdn2.hubspot.net
@@ -1136,16 +1144,19 @@
 0.0.0.0 cdn4.editmysite.com
 0.0.0.0 cdn-4.tstatic.net
 0.0.0.0 cdn4.uzone.id
+0.0.0.0 cdn-52.privacy-mgmt.com
 0.0.0.0 cdn5.editmysite.com
 0.0.0.0 cdn5.trafficad-biz.com
 0.0.0.0 cdn-5.tstatic.net
 0.0.0.0 cdn6.editmysite.com
+0.0.0.0 cdn-75.privacy-mgmt.com
 0.0.0.0 cdn77-pic.xnxx-cdn.com
 0.0.0.0 cdn77-pic.xvideos-cdn.com
 0.0.0.0 cdn77-vid.others-cdn.com
 0.0.0.0 cdn7.editmysite.com
 0.0.0.0 cdn-7.tstatic.net
 0.0.0.0 cdn7.uzone.id
+0.0.0.0 cdn-82.privacy-mgmt.com
 0.0.0.0 cdn8.editmysite.com
 0.0.0.0 cdn8.uzone.id
 0.0.0.0 cdn925.com
@@ -1216,6 +1227,7 @@
 0.0.0.0 cdn.otnolatrnup.com
 0.0.0.0 cdn.outfit7.com
 0.0.0.0 cdn.pdst.fm
+0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 cdn-prod.securiti.ai
 0.0.0.0 cdn-production-assets-kly.akamaized.net
 0.0.0.0 cdn.pushmart.net
@@ -1394,6 +1406,7 @@
 0.0.0.0 common.xshareapp.com
 0.0.0.0 company.clearbit.com
 0.0.0.0 company-stream.clearbit.com
+0.0.0.0 compass.adop.cc
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 concert.io
 0.0.0.0 confection.io
@@ -1436,6 +1449,7 @@
 0.0.0.0 contentsblock.samqaicongen.com
 0.0.0.0 content-snow-api.snow.me
 0.0.0.0 content.webengage.com
+0.0.0.0 content.zeotap.com
 0.0.0.0 contextual.media.net
 0.0.0.0 contextweb.com
 0.0.0.0 contivio.com
@@ -1455,6 +1469,7 @@
 0.0.0.0 core-api.data.appsinnova.com
 0.0.0.0 corp.sogou.com
 0.0.0.0 cos.ap-shanghai.myqcloud.com
+0.0.0.0 counter.adscontrol.xyz
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.yadro.ru
 0.0.0.0 countly2.feelingtouch.com
@@ -1606,6 +1621,7 @@
 0.0.0.0 datting.link
 0.0.0.0 datting.online
 0.0.0.0 daum.net
+0.0.0.0 davisonbarker.pro
 0.0.0.0 da-www14.ballou.se
 0.0.0.0 dbn41syzjymrk.cloudfront.net
 0.0.0.0 dc1.networkbench.com
@@ -1828,10 +1844,6 @@
 0.0.0.0 emxdgt.com
 0.0.0.0 en.4sync.com
 0.0.0.0 en.bignox.com
-0.0.0.0 encrypted-tbn0.gstatic.com
-0.0.0.0 encrypted-tbn1.gstatic.com
-0.0.0.0 encrypted-tbn2.gstatic.com
-0.0.0.0 encrypted-tbn3.gstatic.com
 0.0.0.0 endpoint.mms.shopee.co.id
 0.0.0.0 english.sogou.com
 0.0.0.0 engpicka.app.link
@@ -2346,6 +2358,7 @@
 0.0.0.0 hybrid.miniapp.taobao.com
 0.0.0.0 hydrahydra.kim
 0.0.0.0 hzmk.site
+0.0.0.0 hzz74r.hai8j1.com
 0.0.0.0 i0.hdslb.com
 0.0.0.0 i0.wp.com
 0.0.0.0 i18n.mvconf.50union.com
@@ -2454,6 +2467,7 @@
 0.0.0.0 img4.daumcdn.net
 0.0.0.0 img53.ropose.com
 0.0.0.0 img.alicdn.com
+0.0.0.0 img.a.transfermarkt.technology
 0.0.0.0 imgcache.joox.com
 0.0.0.0 img.cdn.baca.co.id
 0.0.0.0 imgcdn.ymstatic.com
@@ -2716,6 +2730,7 @@
 0.0.0.0 kiwiirc.com
 0.0.0.0 kix-ulog.kwai-pro.com
 0.0.0.0 kix-ulog.kwaipros.com
+0.0.0.0 kj9atb.hai8j1.com
 0.0.0.0 klaviyo.com
 0.0.0.0 klimg.com
 0.0.0.0 klink.snackvideo.com
@@ -3205,6 +3220,7 @@
 0.0.0.0 nadaring.mademoiselleosaki.com
 0.0.0.0 nagios.dreamvps.com
 0.0.0.0 na.glbtls.t.co
+0.0.0.0 nam.veta.naver.com
 0.0.0.0 nanorep.co
 0.0.0.0 nanosystems.it
 0.0.0.0 narrativ.com
@@ -3402,6 +3418,7 @@
 0.0.0.0 o370407.ingest.sentry.io
 0.0.0.0 o43841.ingest.sentry.io
 0.0.0.0 o446669.ingest.sentry.io
+0.0.0.0 o4504598522363904.ingest.sentry.io
 0.0.0.0 o519366.ingest.sentry.io
 0.0.0.0 o64315.ingest.sentry.io
 0.0.0.0 o7at-af.outfit7.com
@@ -3443,6 +3460,7 @@
 0.0.0.0 omlet.me
 0.0.0.0 omnisnippet1.com
 0.0.0.0 omnithrottle.com
+0.0.0.0 omo.akamai.opta.net
 0.0.0.0 om-server.btc42.com
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 one.confbesttop.com
@@ -3482,6 +3500,7 @@
 0.0.0.0 opswat.info
 0.0.0.0 optad360.io
 0.0.0.0 optaim.com
+0.0.0.0 opta.net
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 optimizely-edge.salesforce.com
 0.0.0.0 optimonk.com
@@ -3698,6 +3717,7 @@
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
 0.0.0.0 piwik.everzones.com
+0.0.0.0 piwik.pro
 0.0.0.0 pixelfed-prod.nyc3.digitaloceanspaces.com
 0.0.0.0 pixel.jungroup.com
 0.0.0.0 pixel.wp.com
@@ -3735,6 +3755,7 @@
 0.0.0.0 pl.bignox.com
 0.0.0.0 pl.connatix.com
 0.0.0.0 pl.ea.com
+0.0.0.0 plenty.vidio.com
 0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 plugin-server.wps.com
 0.0.0.0 png.pookcdn.com
@@ -3891,6 +3912,7 @@
 0.0.0.0 quickgosearch.com
 0.0.0.0 quinzaa.monster
 0.0.0.0 quiztest.me
+0.0.0.0 quiz.vidio.com
 0.0.0.0 quriobot.com
 0.0.0.0 quzizz.com
 0.0.0.0 qwe.puscomosca.com
@@ -4200,6 +4222,7 @@
 0.0.0.0 secure-media.hotstar.com
 0.0.0.0 securetoken.googleapis.com
 0.0.0.0 securetrueip.co.kr
+0.0.0.0 secure.widget.cloud.opta.net
 0.0.0.0 securiti.ai
 0.0.0.0 securitiai.widget.insent.ai
 0.0.0.0 security.intuit.com
@@ -4249,6 +4272,7 @@
 0.0.0.0 sf.napi.ucweb.com
 0.0.0.0 sf-syn.com
 0.0.0.0 sg01-cdn.rayjump.com
+0.0.0.0 sg1-b6s-api.snow.me.akadns.net
 0.0.0.0 sg1-spiky.clevertap-prod.com
 0.0.0.0 sg-account.wps.com
 0.0.0.0 sg-dm.pageonenewsapp.com
@@ -4832,6 +4856,7 @@
 0.0.0.0 trailblazer.me
 0.0.0.0 trailhead.salesforce.com
 0.0.0.0 transacme.com
+0.0.0.0 transfermarkt.technology
 0.0.0.0 translations.platform.pulselive.com
 0.0.0.0 translations.smartsuppcdn.com
 0.0.0.0 transsion.com
@@ -4988,6 +5013,7 @@
 0.0.0.0 urmyromance.com
 0.0.0.0 us18.list-manage.com
 0.0.0.0 usa.ime.cdn.cootekservice.com
+0.0.0.0 usa.ime.cootek.com
 0.0.0.0 us.alibabacloud.com
 0.0.0.0 us.api.fc.mob.com
 0.0.0.0 us.api.fd.mob.com
@@ -5089,6 +5115,7 @@
 0.0.0.0 vjs.zencdn.net
 0.0.0.0 vk.com
 0.0.0.0 v.lsttnews.com
+0.0.0.0 vm.piwik.pro
 0.0.0.0 vn.bignox.com
 0.0.0.0 vnclip.net
 0.0.0.0 voip-news.com
@@ -5221,6 +5248,7 @@
 0.0.0.0 widget.kumparan.com
 0.0.0.0 widget-mediator.zopim.com
 0.0.0.0 widgets.amung.us
+0.0.0.0 widgets-api.beplus.zone
 0.0.0.0 widgets.automizely.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
@@ -5381,6 +5409,7 @@
 0.0.0.0 www50.nathanaeldan.pro
 0.0.0.0 www51.nathanaeldan.pro
 0.0.0.0 www.51tracking.com
+0.0.0.0 www52.davisonbarker.pro
 0.0.0.0 www52.nathanaeldan.pro
 0.0.0.0 www53.nathanaeldan.pro
 0.0.0.0 www54.nathanaeldan.pro
@@ -5423,6 +5452,7 @@
 0.0.0.0 www87.nathanaeldan.pro
 0.0.0.0 www88.nathanaeldan.pro
 0.0.0.0 www89.nathanaeldan.pro
+0.0.0.0 www8.davisonbarker.pro
 0.0.0.0 www8.nathanaeldan.pro
 0.0.0.0 www90.nathanaeldan.pro
 0.0.0.0 www91.nathanaeldan.pro
@@ -5441,6 +5471,7 @@
 0.0.0.0 www.addtoany.com
 0.0.0.0 www.adexchanger.com
 0.0.0.0 www.adlook.me
+0.0.0.0 www.adscontrol.xyz
 0.0.0.0 www.ad-score.com
 0.0.0.0 www.adventureacademy.com
 0.0.0.0 www.ad-x.com
@@ -5672,6 +5703,7 @@
 0.0.0.0 www.quzizz.com
 0.0.0.0 www.rangextd.com
 0.0.0.0 www.rayjump.com
+0.0.0.0 www.reactful.com
 0.0.0.0 www.realmoneybiz.com
 0.0.0.0 www.refokus.com
 0.0.0.0 www.requesteasy.com
@@ -5781,7 +5813,6 @@
 0.0.0.0 www.uzone.id
 0.0.0.0 www.vdo.ai
 0.0.0.0 www.viber.com
-0.0.0.0 www.vidio.com
 0.0.0.0 www.vidmateapp.com
 0.0.0.0 www.voovlive.com
 0.0.0.0 www.vum.fyi
@@ -5947,6 +5978,7 @@
 0.0.0.0 yuki-cdn.line-apps.com
 0.0.0.0 yundunwaf3.com
 0.0.0.0 yun.tim.qq.com
+0.0.0.0 z4r342.ep2n0y.com
 0.0.0.0 z4y.pl
 0.0.0.0 z5iqil.xjwi5.com
 0.0.0.0 zadn.vn

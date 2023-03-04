@@ -269,8 +269,8 @@
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 u-in.browser.oppomobile.com
 0.0.0.0 u-in.cpc.heytapmobile.com
-0.0.0.0 videoeditor-sg.soloop.heytapmobile.com
 0.0.0.0 videoclipf.apps.coloros.com
+0.0.0.0 videoeditor-sg.soloop.heytapmobile.com
 0.0.0.0 vip-client.heytapmobi.com
 0.0.0.0 weather-server-eu.allawnos.com
 0.0.0.0 weather-server-in.allawnos.com

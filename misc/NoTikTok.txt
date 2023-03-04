@@ -370,6 +370,7 @@ api31.bytegeo.akadns.net
 api31-normal-probe-useast2a.tiktokv.com
 api31.tiktokv.com
 api32.tiktokv.com
+api39.gts.byteoversea.net
 api39-sg.gts.byteoversea.net
 api39.zong.byteoversea.net
 api3-core-c-alisg.tiktokv.com

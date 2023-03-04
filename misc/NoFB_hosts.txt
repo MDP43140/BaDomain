@@ -4241,6 +4241,7 @@
 0.0.0.0 w414333631-gi3dknzzgyzdcoa.snr.whatsapp.net
 0.0.0.0 w468cf83b1-gqytsmjzgy4tmmzy.snr.whatsapp.net
 0.0.0.0 w490d9fe31-g44tqnbugq4dqob.snr.whatsapp.net
+0.0.0.0 wallets.instagram.com
 0.0.0.0 walmart.facebook.com
 0.0.0.0 wa.me
 0.0.0.0 wave.facebook.com
