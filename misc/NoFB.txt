@@ -1415,6 +1415,10 @@ external.fsub9-1.fna.fbcdn.net
 external.fszb1-1.fna.fbcdn.net
 external.ftbs1-1.fna.fbcdn.net
 external.ftbs4-1.fna.fbcdn.net
+external.ftkg1-1.fna.fbcdn.net
+external.ftkg2-1.fna.fbcdn.net
+external.ftkg3-1.fna.fbcdn.net
+external.ftkg4-1.fna.fbcdn.net
 external.ftpa1-1.fna.fbcdn.net
 external.ftpa1-2.fna.fbcdn.net
 external.ftpe3-2.fna.fbcdn.net
@@ -1449,6 +1453,7 @@ external-sin6-1.xx.fbcdn.net
 external-sin6-2.xx.fbcdn.net
 external-sin6-3.xx.fbcdn.net
 external-sin6-4.xx.fbcdn.net
+external-ssn1-1.cdninstagram.com
 external-xsp1-1.xx.fbcdn.net
 external-xsp1-2.xx.fbcdn.net
 external-xsp1-3.xx.fbcdn.net
@@ -2166,6 +2171,10 @@ instagram.fsub9-1.fna.fbcdn.net
 instagram.fszb1-1.fna.fbcdn.net
 instagram.ftbs1-1.fna.fbcdn.net
 instagram.ftbs4-1.fna.fbcdn.net
+instagram.ftkg1-1.fna.fbcdn.net
+instagram.ftkg2-1.fna.fbcdn.net
+instagram.ftkg3-1.fna.fbcdn.net
+instagram.ftkg4-1.fna.fbcdn.net
 instagram.ftpa1-1.fna.fbcdn.net
 instagram.ftpa1-2.fna.fbcdn.net
 instagram.ftpe3-2.fna.fbcdn.net
@@ -3364,6 +3373,10 @@ scontent.fsub9-1.fna.fbcdn.net
 scontent.fszb1-1.fna.fbcdn.net
 scontent.ftbs1-1.fna.fbcdn.net
 scontent.ftbs4-1.fna.fbcdn.net
+scontent.ftkg1-1.fna.fbcdn.net
+scontent.ftkg2-1.fna.fbcdn.net
+scontent.ftkg3-1.fna.fbcdn.net
+scontent.ftkg4-1.fna.fbcdn.net
 scontent.ftpa1-1.fna.fbcdn.net
 scontent.ftpa1-2.fna.fbcdn.net
 scontent.ftpe3-2.fna.fbcdn.net
@@ -3434,6 +3447,7 @@ scontent-sit4-1.xx.fbcdn.net
 scontent-sjc2-1.xx.fbcdn.net
 scontent-sjc.xx.fbcdn.net
 scontent-sof1-1.xx.fbcdn.net
+scontent-ssn1-1.cdninstagram.com
 scontent-syd2-1.xx.fbcdn.net
 scontent-tpe1-1.xx.fbcdn.net
 scontent-vie1-1.xx.fbcdn.net
@@ -4228,6 +4242,7 @@ vthumb.xx.fbcdn.net
 vupload2.vvv.facebook.com
 vupload.facebook.com
 w1527b17e1-gm3dcnrzguzdimru.snr.whatsapp.net
+w379e2e421-gmztcmbsha4tiobu.snr.whatsapp.net
 w414333631-gi3dknzzgyzdcoa.snr.whatsapp.net
 w468cf83b1-gqytsmjzgy4tmmzy.snr.whatsapp.net
 w490d9fe31-g44tqnbugq4dqob.snr.whatsapp.net
@@ -4235,12 +4250,15 @@ wallets.instagram.com
 walmart.facebook.com
 wa.me
 wave.facebook.com
+wb05f755b1-gm3tanrxgi4dcnzw.snr.whatsapp.net
 web.beta.facebook.com
 webdav.facebook.com
 web.facebook.com
 webmail.facebook.com
 wellcare.facebook.com
 wellsfargo.facebook.com
+wf2d4f1c61-ge2dmmbyhezdkojv.snr.whatsapp.net
+wfa974b891-gmytgnrwgu3tomrt.snr.whatsapp.net
 w.facebook.com
 whatsapp-cdn-shv-01-arn2.fbcdn.net
 whatsapp-cdn-shv-01-atl1.fbcdn.net
@@ -4819,6 +4837,10 @@ z-1-scontent.fsub2-4.fna.fbcdn.net
 z-1-scontent.fszb1-1.fna.fbcdn.net
 z-1-scontent.ftbs1-1.fna.fbcdn.net
 z-1-scontent.ftbs4-1.fna.fbcdn.net
+z-1-scontent.ftkg1-1.fna.fbcdn.net
+z-1-scontent.ftkg2-1.fna.fbcdn.net
+z-1-scontent.ftkg3-1.fna.fbcdn.net
+z-1-scontent.ftkg4-1.fna.fbcdn.net
 z-1-scontent.ftpa1-1.fna.fbcdn.net
 z-1-scontent.ftpa1-2.fna.fbcdn.net
 z-1-scontent.ftpe3-2.fna.fbcdn.net
@@ -5482,6 +5504,10 @@ z-m-scontent.fsub9-1.fna.fbcdn.net
 z-m-scontent.fszb1-1.fna.fbcdn.net
 z-m-scontent.ftbs1-1.fna.fbcdn.net
 z-m-scontent.ftbs4-1.fna.fbcdn.net
+z-m-scontent.ftkg1-1.fna.fbcdn.net
+z-m-scontent.ftkg2-1.fna.fbcdn.net
+z-m-scontent.ftkg3-1.fna.fbcdn.net
+z-m-scontent.ftkg4-1.fna.fbcdn.net
 z-m-scontent.ftpa1-1.fna.fbcdn.net
 z-m-scontent.ftpa1-2.fna.fbcdn.net
 z-m-scontent.ftpe3-2.fna.fbcdn.net
@@ -6066,6 +6092,10 @@ z-p3-scontent.fsub2-4.fna.fbcdn.net
 z-p3-scontent.fszb1-1.fna.fbcdn.net
 z-p3-scontent.ftbs1-1.fna.fbcdn.net
 z-p3-scontent.ftbs4-1.fna.fbcdn.net
+z-p3-scontent.ftkg1-1.fna.fbcdn.net
+z-p3-scontent.ftkg2-1.fna.fbcdn.net
+z-p3-scontent.ftkg3-1.fna.fbcdn.net
+z-p3-scontent.ftkg4-1.fna.fbcdn.net
 z-p3-scontent.ftpa1-1.fna.fbcdn.net
 z-p3-scontent.ftpa1-2.fna.fbcdn.net
 z-p3-scontent.ftpe3-2.fna.fbcdn.net

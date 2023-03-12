@@ -540,6 +540,7 @@ order.music.xiaomi.com
 orxhacks.com
 os-code.shalltry.com
 os-notice.shalltry.com
+osnotify.shalltry.com
 ostrichesica.com
 osupdate.shalltry.com
 owneriq.net

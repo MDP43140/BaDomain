@@ -35,6 +35,7 @@
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 api.video.intl.xiaomi.com
 0.0.0.0 api.vip.miui.com
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 api.zhuti.intl.xiaomi.com

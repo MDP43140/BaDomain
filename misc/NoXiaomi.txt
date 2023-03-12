@@ -35,6 +35,7 @@ api.muc.intl.miui.com
 api.sec.intl.miui.com
 api.sec.miui.com
 api.setting.intl.miui.com
+api.video.intl.xiaomi.com
 api.vip.miui.com
 api.xmpush.xiaomi.com
 api.zhuti.intl.xiaomi.com

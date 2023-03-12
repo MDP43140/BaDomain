@@ -37,6 +37,7 @@ api-in.play.heytapmobile.com
 api-in.store.heytapmobi.com
 api-in.theme.heytapmobi.com
 api-in.theme.heytapmobile.com
+api.open.oppomobile.com
 api-sg.theme.heytapmobile.com
 api-snake.oppomobile.com
 api.snake.oppomobile.com
@@ -57,6 +58,7 @@ cloudi-in.browser.heytapmobile.com
 cloudi-in.browser.oppomobile.com
 cloudi-sg.browser.heytapmobile.com
 cloudi-sg.browser.oppomobile.com
+cn.s.50union.com
 coloros.com
 component-ota-eu.allawnos.com
 component-ota-f.coloros.com
@@ -139,6 +141,8 @@ htms.heytapmobile.com
 httpdns.ocloud.heytapmobi.com
 httpdns.ocloud.oppomobile.com
 httpdns-push.heytapmobile.com
+i18n.mclean.50union.com
+i18n.mvconf.50union.com
 i2.weather.oppomobile.com
 i5.weather.oppomobile.com
 i6f.weather.oppomobile.com

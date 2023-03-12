@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 04.03.2023
+# Version: 12.03.2023
 # Update: 1 day
 #
 
@@ -210,6 +210,7 @@ abesu.org
 aboutads.com
 aboutads.info
 aboutads.net
+ab.playgendary.com
 abroad.apilocate.amap.com
 abruptlyinstitution.com
 abtesting.ai
@@ -235,6 +236,7 @@ acs.youku.com
 activedating-24.online
 active-dating.online
 acuityplatform.com
+ac.uwo56t.com
 ada.cx
 adadvisor.net
 adaggreg-ali.shalltry.com
@@ -404,6 +406,7 @@ amp.analytics-debugger.com
 ampcid.google.com
 amplitude.com
 amplitude.life360.com
+ampltd.top.gg
 am-static.com
 amung.us
 analytic.detik.com
@@ -483,6 +486,7 @@ api16-normal-alisg.helo-api.com
 api19.resso.app
 api1.boomplaymusic.com
 api.1clickvpn.net
+api1.devicevalidation.io
 api21.resso.app
 api22-normal-alisg.helo-api.com
 api22-normal-quic-alisg.tmtreader.com
@@ -631,6 +635,7 @@ api.pho.to
 api.pico.bendingspoonsapps.com
 api.picsart.com
 api.pinterest.com
+api.playgendary.com
 api.plg.dev
 api.poster.appsinnova.com
 api-prod.chikiigame.com
@@ -679,6 +684,7 @@ api.themoviedb.org
 api.tmdak.top
 apitm.toolmatrix.plus
 api.tmtreader.com
+api.top.gg
 api.tratao.com
 api.twibida.com
 api.unity.cn
@@ -689,6 +695,7 @@ api-v2.apkssr.com
 api-va.tmtreader.com
 api.vishavideo.com
 api-visitor-analytics.intercom.com
+api.vk.com
 api.v-mate.mobi
 api.vungle.com
 api.wattpad.com
@@ -718,6 +725,7 @@ apolloprogram.io
 app.adjust.com
 app.adjust.net.in
 app.advertizer.com
+appadvice.com
 appannie.com
 appbazaar.com
 app.bignox.com
@@ -753,6 +761,7 @@ appodealstack.com
 app.overloop.com
 app.pou.me
 app.pushbrothers.com
+apps.canva-apps.com
 app.securiti.ai
 appsflyer.com
 apps.identrust.com
@@ -775,6 +784,7 @@ app.slickstream.com
 app.snapchat.com
 apps.omegatheme.com
 apps.outfit7.com
+app.split.io
 appspot.com
 apps.samsung.com
 app.static.bignox.com
@@ -859,8 +869,11 @@ au.ff.avast.com
 auiopt.unityads.unity3d.com
 au.mayalaze.xyz
 australianmorningnews.com
+authapp.mob-sogood.com
+authapp.touchremix.com
 auth-cloudfront.prod.ims.adobejanus.com
 auth.ff.avast.com
+auth.split.io
 autocomplete.clearbit.com
 autodiscover.transfermarkt.de
 auto.itc.cn
@@ -890,6 +903,7 @@ axiata-lk-43c53a330e9-he.fortumo.io
 b1.nel.goog
 b2.mail.ru
 b6s-api.snow.me
+b.6sc.co
 b6s-static.snow.me
 b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
 babyzee.uno
@@ -1064,6 +1078,7 @@ c1.rfihub.net
 c2.rfihub.net
 c3.rfihub.net
 c4d-cdn.adcolony.com
+c.6sc.co
 cabinet2-sea.taximaxim.com
 cabinet2.taximaxim.ru
 cabinet2.taxsee.ru
@@ -1189,13 +1204,16 @@ cdn.coveo.com
 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 cdn.cxomedia.id
 cdn-dana.marmot-cloud.com
+cdn.devicevalidation.io
 cdn.dms.eyewind.cn
+cdn.euc-freshbots.ai
 cdn-eu.eufylife.com
 cdn.evgnet.com
 cdn.ezjojoy.com
 cdn.fbsbx.com
 cdn-f.heylink.me
 cdn.firstpromoter.com
+cdn-fm.shalltry.com
 cdn.foxpush.net
 cdn.geozo.com
 cdn-go.cn
@@ -1253,6 +1271,7 @@ cdn-static.kwai.net
 cdn-store-icons-akamai-prd.unityads.unity3d.com
 cdn-theme-eu-central-1.shalltry.com
 cdn.thinkific.com
+cdn.top.gg
 cdn.topmongo.com
 cdn.unblockia.com
 cdn.unibotscdn.com
@@ -1376,7 +1395,6 @@ cnoyucn.com
 cnpassport.youku.com
 cn.pool.ntp.org
 cnr.cn
-cn.s.50union.com
 cnzz.com
 cnzz.com.danuoyi.tbcache.com
 co.com
@@ -1672,6 +1690,7 @@ df.infra.sz.shopee.co.id
 dhisex.uno
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
+diametricblip.com
 dictionary.map.fastly.net
 differencesgp.zendesk.com
 diffuser-cdn.app-us1.com
@@ -1889,6 +1908,7 @@ events3.adcolony.com
 events3alt.adcolony.com
 events.ads.vungle.com
 events-api-ak.outfit7.com
+events-api.outfit7.com
 events.appsflyer.com
 events.backtrace.io
 events.iap.unity3d.com
@@ -1992,6 +2012,8 @@ forex-digitalcurrencies.com
 forfrogadiertor.com
 forgecdn.net
 forkcdn.com
+forms.hscollectedforms.net
+forms.hsforms.com
 forms.hubspot.com
 forms.soundestlink.com
 fortawesome.com
@@ -2061,8 +2083,10 @@ gameloft.helpshift.com
 gamepe.ru
 gameportal.casa
 game.qq.com
+game-service.playgendary.com
 games.shopee.co.id
 gametool10.ml
+game-users-storage.playgendary.com
 gamev6.com
 game.weixin.qq.com
 game.zuiqiangyingyu.net
@@ -2172,6 +2196,7 @@ global-tokenserver-la.headline.uodoo.com
 g-logsdk.snackvideo.com
 gm.mmstat.com
 g-mob.glance-cdn.com
+gnpfesdk-pa.googleapis.com
 go2cloud.org
 go2s.co
 go.com
@@ -2260,6 +2285,7 @@ h5.y5en.com
 haasonline.com
 haasscripts.com
 hammergamer.com
+handoff-cdn.appadvice.com
 hanyu.sogou.com
 haokan.mobi
 happierleads.com
@@ -2361,7 +2387,6 @@ hzmk.site
 hzz74r.hai8j1.com
 i0.hdslb.com
 i0.wp.com
-i18n.mvconf.50union.com
 i1.hdslb.com
 i2a.co
 i2.hdslb.com
@@ -2403,6 +2428,7 @@ id-live.slatic.net
 id.maps.taxsee.com
 id.mmstat.com
 idm-pub-img.s3.ap-southeast-1.amazonaws.com
+id-odc.samsungapps.com
 idola.net.id
 idsearch.ucnews.ucweb.com
 id-store.realmemobile.com
@@ -2453,6 +2479,7 @@ image.tmdb.org
 image.useinsider.com
 image.winudf.com
 imasdk.googleapis.com
+i.mbfel.com
 imdap-sea.alipay.com
 imdb.com
 img001.fview.cn
@@ -2562,6 +2589,7 @@ instant.page
 instiengage.com
 insurads.com
 in.sv
+intake.mee6.xyz
 intellitxt.com
 intercomcdn.com
 intercom.io
@@ -2595,6 +2623,7 @@ i.pinimg.com
 ipods.pro
 ipromote.com
 ipv4-c003-mkz001-telekommalaysia-isp.1.oca.nflxvideo.net
+ipv6.6sc.co
 ip.xindong.com
 iq.com
 iqid.iqiyi.com
@@ -2869,6 +2898,7 @@ loc.map.baidu.com
 loc.samsungdive.com
 log.48play.com
 log-api.mintkeyboard.com
+log-collector.shopee.co.id
 logging.baca.co.id
 log.goodnovel.com
 login5.spotify.com
@@ -3054,6 +3084,7 @@ mediation-instantiation.prd.mz.internal.unity3d.com
 mediation-services.pubapp.network
 mediavine.com
 mediavoice.com
+mee6.xyz
 megaphone.fm
 member.lazada.co.id
 members.pfmverify.ca
@@ -3154,6 +3185,7 @@ ms4.applovin.com
 ms.4sync.com
 ms.bignox.com
 m.scoopernews.com
+msdk-report.youdao.com
 msdk.shopee.co.id
 msearchcdn.kugou.com
 mserver-sgp.easemob.com
@@ -3436,17 +3468,20 @@ observe.metarouter.io
 obsproicet.net
 obs-studio.com
 obstremswiev.site
+occ-0-6346-64.1.nflxso.net
 ocsp2.g.aaplimg.com
 ocw.messagebird.com
 oemapi.kika-backend.com
 oem-api.palmplaystore.com
 oem.kika-backend.com
+oepodownload.mediatek.com
 ofa-sub.osp.opera.software
 offer.buymultivoltz.com
 offer.headlines.pw
 official.downloadatoz.com
 of.foldlife.net
 oficayuda.club
+ogepodownload.mediatek.com
 o.glance-cdn.com
 ohaveblueen.space
 o-id-mob.glance-cdn.com
@@ -3517,6 +3552,7 @@ osfeature.shalltry.com
 osf.io
 oshola.shalltry.com
 oslab.shalltry.com
+os-notice.shalltry.com
 oss-admin.cnyhyl.cn
 oss-cdn.aliyun-inc.com
 oss-cn-hangzhou.aliyuncs.com
@@ -3670,6 +3706,7 @@ pdst.fm
 pedulilindungi.com
 pentatonic.cyou
 pepepush.net
+pepodownload.mediatek.com
 perf-events.cloud.unity3d.com
 perf.hsforms.com
 permits.wps.com
@@ -3819,7 +3856,6 @@ product.instiengage.com
 production.kolbapps.com
 product.sn.eamobile.com
 prod-weblink.videmateshare.com
-profile.canva.com
 profitablegatetocontent.com
 profitwell.com
 pro.ip-api.com
@@ -4041,6 +4077,7 @@ river-mobile.data.ea.com
 riversnails.club
 rkdms.com
 rmb.ops.beeline.ru
+r.mee6.xyz
 r.mradx.net
 robinhand.vip
 robuxweb.pro
@@ -4190,6 +4227,7 @@ sdk.pushmessage.samsung.com
 sdks.am-static.com
 sdks.automizely-analytics.com
 sdkserver-dra.op.dbankcloud.cn
+sdk.split.io
 sdksp.wetvinfo.com
 sdk.twilio.com
 sdk.vskit.tv
@@ -4342,6 +4380,7 @@ sina.com.cn
 sinaimg.cn
 sink.gameloft.com
 sip-service.therealpbx.co.uk
+siri-cdn.appadvice.com
 sis.jpush.io
 sitecheck2.opera.com
 siteintercept.qualtrics.com
@@ -4426,6 +4465,7 @@ split.io
 splunkcloud.com
 sportskeeda.com
 sports.qq.com
+springboard-cdn.appadvice.com
 sprtsecureassets.akamaized.net
 s.pubmine.com
 sp.zalo.me
@@ -4486,7 +4526,6 @@ static.ads-twitter.com
 static.ahagamecenter.com
 static.apester.com
 static.api.baca.co.id
-static.canva.com
 static.cdn.prismic.io
 static-cms.aa-cdn.net
 static.dable.io
@@ -4637,6 +4676,7 @@ survey.survicate.com
 survicate.com
 s-usc1f-nss-2504.firebaseio.com
 s-usc1f-nss-2505.firebaseio.com
+s-usc1f-nss-2517.firebaseio.com
 s.usea01.idio.episerver.net
 s-v6exp1-ds.metric.gstatic.com
 svibeacon.onezapp.com
@@ -4820,6 +4860,7 @@ top100.ru
 topbos.com
 top-fwz1.mail.ru
 top.ge
+top.gg
 topgirls.uno
 topic-sticker-vending.snapchat.com
 topmongo.com
@@ -4829,6 +4870,7 @@ torbrowser.io
 toshiba6415.zendesk.com
 toto.zipoapps.com
 touchpal.com
+touchremix.com
 toutiao50.com
 toutiao.com
 tpai.caping.co.id
@@ -5216,6 +5258,7 @@ webvisor.com
 web.wshareit.com
 wechat.design
 wedn.best
+weedkillerclaim.com
 week-tale.xyz
 weglot.com
 weibo.com
@@ -5489,6 +5532,7 @@ www.announcekit.app
 www.anydesk.com
 www.apkeditorfree.com
 www.app-ads-txt.com
+www.appadvice.com
 www.appbazaar.com
 www.appbundledownload.com
 www.appjustable.com
@@ -5553,6 +5597,7 @@ www.datadataxyz.com
 www.datamation.com
 www.decisionnowlive.com
 www.degreesnap.com
+www.diametricblip.com
 www.digiads.co.id
 www.digimarc.com
 www.dob5.com
@@ -5566,6 +5611,7 @@ www.eep.io
 www.escolhatecnologia.com.br
 www.establishedtitles.com
 www.etsy.com
+www.euc-freshbots.ai
 www.eufylife.com
 www.eventknock.com
 www.evgnet.com
@@ -5794,6 +5840,7 @@ www.tokogame.com
 www.topbos.com
 www.toptoppartner.com
 www.touchpal.com
+www.touchremix.com
 www.toutiao.com
 www.transsnet.com
 www.triosgaming.com
@@ -5810,10 +5857,12 @@ www.unite.ai
 www.upoint.id
 www.urmyromance.com
 www.ushareit.com
+www.uwo56t.com
 www.uzone.id
 www.vdo.ai
 www.viber.com
 www.vidmateapp.com
+www.vk.com
 www.voovlive.com
 www.vum.fyi
 www.vum.ngo
@@ -5825,6 +5874,7 @@ www.waridd.top
 www.wattpad.com
 www.webengage.com
 www.webovernet.com
+www.weedkillerclaim.com
 www.wfcwallet.com
 www.wibuku.app
 www.wildspike.com
