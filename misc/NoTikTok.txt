@@ -2805,6 +2805,7 @@ push-rtmp-f5-tt02.fcdn.us.tiktokv.com
 push-rtmp-f5-va01.tiktokcdn.com
 push-rtmp-f5-va01.ttlivecdn.com
 push-rtmp-f5-vr-gcp01.tiktokcdn.com
+push-rtmp-f5-vr-sg01.tiktokcdn.com
 push-rtmp-f5-vr-va01.tiktokcdn.com
 push-rtmp-f5-xg.bytecdn.cn
 push-rtmp-l10-gcp01.tiktokcdn.com
@@ -2818,6 +2819,7 @@ push-rtmp-l11.tiktokcdn.com
 push-rtmp-l11-va01.tiktokcdn.com
 push-rtmp-l11-va01.ttlivecdn.com
 push-rtmp-l16-gcp01.tiktokcdn.com
+push-rtmp-l16-sg01.tiktokcdn.com
 push-rtmp-l16-tt01.tiktokcdn-us.com
 push-rtmp-l16-va01.tiktokcdn.com
 push-rtmp-l1-gcp01.tiktokcdn.com

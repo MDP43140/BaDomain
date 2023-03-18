@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.03.2023
+# Version: 18.03.2023
 # Update: 1 day
 #
 
@@ -191,6 +191,7 @@ a.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
 a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 a4.applovin.com
 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
+a.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
 a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 a.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 a5b1fe1c3d2a14cf39d66ad7e255a712-587e721f5aeda681.elb.ap-northeast-2.amazonaws.com
@@ -247,6 +248,7 @@ adblocker-app.info
 adc3-launch.adcolony.com
 adc-ad-assets.adtilt.com
 adcolony.com
+adcs.myappsget.com
 adcs-ue.myappsget.com
 addedvalue.net
 addthis.com
@@ -652,7 +654,6 @@ api.resso.app
 api.revenuecat.com
 api.rvere.com
 api.saasexch.com
-api.samsungcloud.com
 api.sape.ru
 api.scooper.news
 api-sdk.datadome.co
@@ -716,6 +717,7 @@ api.yandex.ru
 api.yunclound.com
 api.zigpoll.com
 api.zingnews.vn
+apkadmin.com
 apkeditorfree.com
 apkssr.com
 apk.tidakdijual.com
@@ -1000,6 +1002,7 @@ blockpage.xl.co.id
 block.uzone.id
 blogblog.com
 blog.castle.io
+blog.manualesaqui.online
 blog.pho.to
 blog.tenjin.com
 blog.tenjin.io
@@ -1564,6 +1567,8 @@ curse.com
 custhelp.com
 cutegirl.my.id
 cuttlela.ucweb.com
+c.wbmkr.com
+c.wcetb.com
 c.webengage.com
 cxomedia.id
 c.y5en.com
@@ -1779,6 +1784,7 @@ drift.com
 driftracingonline.com
 driftt.com
 driver-image-preprocessed-production.s3.amazonaws.com
+drive-thirdparty.googleusercontent.com
 drone-sg.xunyou.mobi
 drone.xunyou.mobi
 druglike.com
@@ -1876,7 +1882,6 @@ e.pic.ak.mangatoon.akamaized.net
 episerver.net
 eportalmobile.com
 erotic-massagenn.com
-ers.samsungcloud.com
 es.4sync.com
 es.bignox.com
 escolhatecnologia.com
@@ -1895,6 +1900,7 @@ etp.ytmp3.cc
 etsy.com
 etzndtcvqvyxajpcgwkzsoweaubilflh.com
 eu1.clevertap-prod.com
+eu1-htp.tokenex.com
 eu1-spiky.clevertap-prod.com
 eu-api.samsungpositioning.com
 eu-auth2.samsungosp.com
@@ -2048,6 +2054,7 @@ fsdn.com
 ftblltrck.com
 ftp.lysator.liu.se
 fullstory.com
+fumacrom.com
 funny.pho.to
 fun.touchpal.com
 futurecdn.net
@@ -2196,6 +2203,7 @@ global-tokenserver-la.headline.uodoo.com
 g-logsdk.snackvideo.com
 gm.mmstat.com
 g-mob.glance-cdn.com
+gmscompliance-pa.googleapis.com
 gnpfesdk-pa.googleapis.com
 go2cloud.org
 go2s.co
@@ -2225,6 +2233,7 @@ gos-api.gos-gsp.io
 gosupportnow.com
 gotube.pro
 go-vip.net
+goyangfc.com
 gpapi.zepeto.io
 gpt-ai-chat.com
 gpvjyx.ssptp4.com
@@ -2303,6 +2312,7 @@ hbmtours.com
 hbs.ph.affinity.com
 hcdnv119back.ovc.c.cdnhwc1.com
 hdcb-api.fortumo.io
+hd-ext-v1.log.mgtv.com
 heapanalytics.com
 heap.io
 hellomagazine.com
@@ -2410,6 +2420,7 @@ ibuhaughuss.com
 i-by3p-cor001.api.p001.1drv.com
 icanhazip.com
 ichef.bbci.co.uk
+icieneguilla.com
 iclickcdn.com
 icms-image.slatic.net
 icon.mndsrv.com
@@ -2430,6 +2441,7 @@ id.mmstat.com
 idm-pub-img.s3.ap-southeast-1.amazonaws.com
 id-odc.samsungapps.com
 idola.net.id
+id.popin.cc
 idsearch.ucnews.ucweb.com
 id-store.realmemobile.com
 id.supercell.com
@@ -2452,6 +2464,7 @@ igapromomanager-pa.googleapis.com
 i.git99.com
 ign.com
 igofun.mobi
+i.higgsradio.com
 i.ibb.co
 i.jpallnight.com
 i.l-new.inmobicdn.net
@@ -2701,6 +2714,7 @@ js.datadome.co
 js.digiads.co.id
 js.driftt.com
 js.getlasso.co
+js.gsspcln.jp
 js.honeybadger.io
 js.hsadspixel.net
 js.hs-analytics.net
@@ -2744,6 +2758,7 @@ kepler.y5en.com
 kfmark.com
 kf.qq.com
 kgsports-apk.acircle.vip
+khaddavi.net
 kidozplayer.com
 kids.weixin.qq.com
 killerbeanforever.com
@@ -2917,6 +2932,7 @@ logonext.tv.kuyun.com
 logos.kiwibrowser.com
 log-pub-hk.aoshitang.com
 log-report.rtcplus.com
+log.resso.app
 log.reyun.com
 log.sharemusic5.com
 logs.im-gb.com
@@ -3027,6 +3043,7 @@ manage-www.bigo.sg
 manbrandsonline.com
 mangatoon.akamaized.net
 manifest.tower.sybo.net
+manualesaqui.online
 mapi.langitmusik.co.id
 marchex.io
 marketing.halodoc.com
@@ -3075,6 +3092,7 @@ media-contentful.zepeto.io
 mediaforge.com
 media.go2speed.org
 mediaiqdigital.com
+media.istockphoto.com
 media-lab.ai
 media.neliti.com
 media.net
@@ -3124,6 +3142,7 @@ minozodiac.com
 mintexoticshift.com
 mint.intuit.com
 mintkeyboard.com
+m.intl.taobao.com
 mi-pre.shalltry.com
 mipunet.cn
 mirabelle.uno
@@ -3183,6 +3202,7 @@ mrbeast.site
 ms1800.com
 ms4.applovin.com
 ms.4sync.com
+ms672812254.site
 ms.bignox.com
 m.scoopernews.com
 msdk-report.youdao.com
@@ -3297,6 +3317,7 @@ news-muxeta.cc
 news.zing.vn
 nexage.com
 nextgen.docdoc.com
+next.icieneguilla.com
 nextsoft.icu
 nexusrules.officeapps.live.com
 nexus-websocket-a.intercom.io
@@ -3462,6 +3483,7 @@ o993586.ingest.sentry.io
 o.alicdn.com
 oapwxiu.com
 oauth.vk.com
+oaxyteek.net
 obnews.outbrain.com
 obr-sim.bounty-rush.com
 observe.metarouter.io
@@ -3485,6 +3507,7 @@ ogepodownload.mediatek.com
 o.glance-cdn.com
 ohaveblueen.space
 o-id-mob.glance-cdn.com
+oklahomacasinoguru.com
 oldevent.togothermany.com
 oldrollservice.careyourhrtsoftware.com
 olmusic.xyz
@@ -3524,6 +3547,7 @@ openapi.webull.com
 opendns.zendesk.com
 openfpcdn.io
 openlog.tap.io
+open.toutiao.com
 open.weixin.qq.com
 openwifi.ucweb.com
 opera.software
@@ -3784,7 +3808,6 @@ player-ivideosmart-com.cdn.ampproject.org
 players.brightcove.net
 player.tubia.com
 play.mintegral.com
-play.samsungcloud.com
 play-sp.vod.shopee.com
 play-src.vod.shopee.com
 play.wetvinfo.com
@@ -3805,6 +3828,7 @@ pokigame.io
 policy-tcp.rayjump.com
 polussuo.com
 pool.apk.aptoide.com
+poormansguidetocasinogambling.com
 pop3.bignox.com
 popcore.com
 popin-minus.com
@@ -3975,6 +3999,7 @@ ravenjs.com
 rayjump.com
 rbux88.com
 rbxton.online
+r.clarity.ms
 rcmjs.rambler.ru
 rc.samsungweather.com
 rcs.easybrain.com
@@ -4219,6 +4244,7 @@ sdk-android.ad.smaato.net
 sdk-api.kidoz.net
 sdkapi.wifimap.io
 sdk.bignox.com
+sdkconf.avlyun.com
 sdk-exchange.startappservice.com
 sdk.iad-04.braze.com
 sdk.iad-05.braze.com
@@ -4246,6 +4272,7 @@ searchiq.co
 search.kuwo.cn
 searchlite-pa.googleapis.com
 search-operate.cdn.bcebos.com
+search.securybrowse.com
 search.weixin.qq.com
 search.ws.pho.to
 sec.bigo.sg
@@ -4315,6 +4342,7 @@ sg1-spiky.clevertap-prod.com
 sg-account.wps.com
 sg-dm.pageonenewsapp.com
 sg-drive.wps.com
+sg.ekatox.com
 sgepodownload.mediatek.com
 sgfp.tongdun.net
 sg-live-01.slatic.net
@@ -4379,6 +4407,7 @@ sina.com
 sina.com.cn
 sinaimg.cn
 sink.gameloft.com
+sintexipsolution.com
 sip-service.therealpbx.co.uk
 siri-cdn.appadvice.com
 sis.jpush.io
@@ -4640,6 +4669,7 @@ stun.ekiga.net
 stun.ssp.rambler.ru
 stup5.appmeasurements.com
 sub2unlock.com
+sub.icieneguilla.com
 subscribers.com
 subscription.omnithrottle.com
 subway.prod.sybo.net
@@ -4676,6 +4706,7 @@ survey.survicate.com
 survicate.com
 s-usc1f-nss-2504.firebaseio.com
 s-usc1f-nss-2505.firebaseio.com
+s-usc1f-nss-2515.firebaseio.com
 s-usc1f-nss-2517.firebaseio.com
 s.usea01.idio.episerver.net
 s-v6exp1-ds.metric.gstatic.com
@@ -4712,6 +4743,7 @@ t3.chartboost.com
 t3.focus-img.cn
 t4.chartboost.com
 t4.focus-img.cn
+t5.ai
 t5.chartboost.com
 t7.a.market.c.mgslb.com
 ta.bigolive.tv
@@ -4736,6 +4768,7 @@ tappco.go2cloud.org
 t.appsflyer.com
 tappx.com
 t.arcade.show
+tarimkrediortakkart.com
 tarot.minozodiac.com
 ta.sharemasala.com
 tawk.link
@@ -4948,6 +4981,7 @@ tx2-sgp-cdn.snackvideo.in
 tx.flv.nimo.tv
 tx.hls.nimo.tv
 tx-sgp-pic.snackvideo.in
+txtplay.store
 tyapi-juno.abcsport3.com
 tynt.com
 typeform.com
@@ -5064,6 +5098,8 @@ us.api.share.mob.com
 us-auth2.samsungosp.com
 usaux11.contivio.com
 us-central1-alight-creative.cloudfunctions.net
+us-central1-amp-error-reporting.cloudfunctions.net
+us-central1-gcp.api.sc-gw.com
 us-central1-gcp.api.snapchat.com
 us-central1-muslim-pro-app.cloudfunctions.net
 uscreen.tv
@@ -5118,6 +5154,7 @@ victim-dot-spectre-web.appspot.com
 vid.connatix.com
 videodelivery.net
 videodownloader.ummy.net
+video.gumlet.io
 video-g.usicdn.com
 video.kompas.com
 videomin.ru
@@ -5378,6 +5415,7 @@ ww25.sas-autos.com
 ww25.taken.guru
 ww2.affinity.net
 ww2.leatonm.net
+ww2.ms672812254.site
 ww38.h2svr.info
 ww38.qfind.net
 ww44.affinity.net
@@ -5513,6 +5551,7 @@ www.adapex.io
 www.adclound.com
 www.addtoany.com
 www.adexchanger.com
+www.adjeleycctv.us
 www.adlook.me
 www.adscontrol.xyz
 www.ad-score.com
@@ -5578,6 +5617,7 @@ www.chaport.com
 www.chatgpt-pc.com
 www.chillyroom.com
 www.ckg.hk
+www.clarity.ms
 www.cleverpush.com
 www.clicken.us
 www.clucoin.com
@@ -5644,6 +5684,7 @@ www.google.ru
 www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.gosupportnow.com
+www.goyangfc.com
 www.h2svr.info
 www.haasonline.com
 www.haasscripts.com
@@ -5709,6 +5750,7 @@ www.mob.com
 www.mobfox.com
 www.mobvista.com
 www.monkeyibrowstudios.com
+www.ms672812254.site
 www.mvpconsultant.us
 www.mxbc.com
 www.mxj5trk.com
@@ -5719,6 +5761,7 @@ www.noxinfluencer.com
 www.obsproicet.net
 www.obs-studio.com
 www.obstremswiev.site
+www.oklahomacasinoguru.com
 www.onecyber.net
 www.onlinecash1.com
 www.o-odd.com
@@ -5733,6 +5776,7 @@ www.pdl.id
 www.pfmverify.ca
 www.phelp.pro
 www.polussuo.com
+www.poormansguidetocasinogambling.com
 www.popcap.com
 www.pornhub.com
 www.portals.mobi
@@ -5817,6 +5861,7 @@ www.superbig77.org
 www.superbig77.xyz
 www.supremocontrol.com
 www.supremofree.com
+www.t5.ai
 www.taken.guru
 www.taobao.com
 www.tap.io
@@ -5919,6 +5964,7 @@ x-apac.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 x-apac.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
 x-apac.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 x-apac.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
+x-apac.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
 x-apac.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 x-apac.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
@@ -5939,6 +5985,7 @@ x-eu.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 x-eu.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
 x-eu.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 x-eu.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
+x-eu.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
 x-eu.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 x-eu.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
@@ -5986,6 +6033,20 @@ xtrapath8.izatcloud.net
 xtrapath9.izatcloud.net
 xuanniaoweb.com
 xunyou.mobi
+x-us.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
+x-us.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
+x-us.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
+x-us.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
+x-us.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
+x-us.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
+x-us.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+x-us.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+x-us.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
+x-us.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+x-us.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+x-us.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
+x-us.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
+x-us.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 xvideos2.com
 xvideos.com
 xyz.svr-algorix.com

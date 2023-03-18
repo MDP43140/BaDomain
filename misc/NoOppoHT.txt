@@ -172,6 +172,7 @@ igslb.cdo.oppomobile.com
 i-in.browser.heytapmobile.com
 i.instant.oppomobile.com
 ilockcardf.apps.coloros.com
+i.magazine.heytapmobi.com
 img-intl-push.heytapimg.com
 img-music.heytapimage.com
 incdopic.heytapimg.com

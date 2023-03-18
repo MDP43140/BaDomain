@@ -172,6 +172,7 @@
 0.0.0.0 i-in.browser.heytapmobile.com
 0.0.0.0 i.instant.oppomobile.com
 0.0.0.0 ilockcardf.apps.coloros.com
+0.0.0.0 i.magazine.heytapmobi.com
 0.0.0.0 img-intl-push.heytapimg.com
 0.0.0.0 img-music.heytapimage.com
 0.0.0.0 incdopic.heytapimg.com

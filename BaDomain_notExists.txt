@@ -6,6 +6,7 @@
 # having actual IP attached, please make a new issue (or pr?)
 #
 
+03tr.info
 0523da02.api.splkmobile.com
 100000.miniapp.transsion.com
 1000-beasts.com
@@ -452,6 +453,7 @@ logicbuy.com
 lr-ingest.io
 ls.glanceapis.com
 mabbox.bytel.fr
+macronhjk76.azurewebsites.net
 mail.bignox.com
 mailchimp-help.com
 malidili.com
@@ -851,6 +853,7 @@ www.mamsolutions.us
 www.mamsolution.us
 www.microsoftfile.ml
 www.miver.xyz
+www.ms6728812254.site
 www.nathanaeldan.pro
 www.netsecurity-essential.com
 www.notifa.info

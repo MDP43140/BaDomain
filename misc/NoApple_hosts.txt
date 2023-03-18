@@ -90,6 +90,7 @@
 0.0.0.0 8.courier-push-apple.com.akadns.net
 0.0.0.0 9-courier.push.apple.com
 0.0.0.0 9.courier-push-apple.com.akadns.net
+0.0.0.0 amp-api-edge.apps.apple.com
 0.0.0.0 apac-asia-courier-4.push-apple.com.akadns.net
 0.0.0.0 api.smoot.apple.com
 0.0.0.0 apple.co
@@ -111,6 +112,7 @@
 0.0.0.0 cl1.apple.com
 0.0.0.0 cl2.apple.com
 0.0.0.0 cl2.apple.com.c.footprint.net
+0.0.0.0 cl2-cdn-us.origin-apple.com.akadns.net
 0.0.0.0 cl3.apple.com
 0.0.0.0 cl3-cdn.origin-apple.com.akadns.net
 0.0.0.0 cl4.apple.com
@@ -136,6 +138,7 @@
 0.0.0.0 gateway.fe.apple-dns.net
 0.0.0.0 gateway.icloud.com
 0.0.0.0 gdmf.apple.com
+0.0.0.0 gdmf.v.aaplimg.com
 0.0.0.0 gsa.apple.com
 0.0.0.0 gsa.idms-apple.com.akadns.net
 0.0.0.0 gsas.apple.com
@@ -198,6 +201,7 @@
 0.0.0.0 gsp-ssl.ls.apple.com
 0.0.0.0 gsp-ssl.ls-apple.com.akadns.net
 0.0.0.0 guzzoni.apple.com
+0.0.0.0 guzzoni-apple-com.v.aaplimg.com
 0.0.0.0 icloud.com
 0.0.0.0 inappcheck-ak.itunes-apple.com.akadns.net
 0.0.0.0 inappcheck.itunes.apple.com
@@ -382,6 +386,7 @@
 0.0.0.0 safebrowsing.g.aaplimg.com
 0.0.0.0 safebrowsing-proxy.g.aaplimg.com
 0.0.0.0 sandbox.itunes.apple.com
+0.0.0.0 sandbox.itunes-apple.com.akadns.net
 0.0.0.0 se2.itunes.apple.com
 0.0.0.0 setup.fe.apple-dns.net
 0.0.0.0 setup.icloud.com
