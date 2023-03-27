@@ -1504,6 +1504,7 @@
 0.0.0.0 gateway.instagram.com
 0.0.0.0 generalelectric.m.facebook.com
 0.0.0.0 genworth.facebook.com
+0.0.0.0 g-fallback.whatsapp.net
 0.0.0.0 gingerhotels.m.facebook.com
 0.0.0.0 gob.m.facebook.com
 0.0.0.0 google.facebook.com
@@ -1524,6 +1525,7 @@
 0.0.0.0 graph.whatsapp.net
 0.0.0.0 group1auto.facebook.com
 0.0.0.0 grupoboticario.m.facebook.com
+0.0.0.0 g.whatsapp.net
 0.0.0.0 halliburton.facebook.com
 0.0.0.0 h.beta.facebook.com
 0.0.0.0 hcahealthcare.facebook.com

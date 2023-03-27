@@ -1503,6 +1503,7 @@ gateway.facebook.com
 gateway.instagram.com
 generalelectric.m.facebook.com
 genworth.facebook.com
+g-fallback.whatsapp.net
 gingerhotels.m.facebook.com
 gob.m.facebook.com
 google.facebook.com
@@ -1523,6 +1524,7 @@ graph.whatsapp.com
 graph.whatsapp.net
 group1auto.facebook.com
 grupoboticario.m.facebook.com
+g.whatsapp.net
 halliburton.facebook.com
 h.beta.facebook.com
 hcahealthcare.facebook.com
