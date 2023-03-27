@@ -992,6 +992,7 @@
 0.0.0.0 edge-alinc2-oss-slb2.bytecdn.cn
 0.0.0.0 edge-alisc1-oss.bytecdn.cn
 0.0.0.0 edge-alisc1-oss.snssdk.com
+0.0.0.0 editor-api-sg.capcut.com
 0.0.0.0 editor.bytedance.net
 0.0.0.0 edu.bytedance.net
 0.0.0.0 edux.snssdk.com
@@ -2444,6 +2445,7 @@
 0.0.0.0 partner.toutiao.com
 0.0.0.0 partner.toutiao.com.bytedns.net
 0.0.0.0 passport-alisg.byteoversea.com
+0.0.0.0 passport-api-sg.capcut.com
 0.0.0.0 passport-maliva.byteoversea.com
 0.0.0.0 passport.snssdk.com
 0.0.0.0 patrol-sg.isnssdk.com
@@ -2622,6 +2624,7 @@
 0.0.0.0 pull-flv-f6-xg.bytecdn.cn
 0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
 0.0.0.0 pull-flv-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-tt01.fcdn.us.tiktokv.com
 0.0.0.0 pull-flv-f77-tt02.fcdn.us.tiktokv.com
 0.0.0.0 pull-flv-f77-va01.tiktokcdn.com
 0.0.0.0 pull-flv-l10-gcp01.tiktokcdn.com
@@ -3782,6 +3785,7 @@
 0.0.0.0 v16-zr.tiktokcdn.com
 0.0.0.0 v17-babe.ipstatp.com
 0.0.0.0 v19.byteicdn.com
+0.0.0.0 v19-cla.tiktokcdn.com
 0.0.0.0 v19-hwp.muscdn.com
 0.0.0.0 v19-hwp.tiktokcdn.com
 0.0.0.0 v19.hypstarcdn.com

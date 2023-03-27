@@ -4887,6 +4887,7 @@
 0.0.0.0 z-m-gateway.facebook.com
 0.0.0.0 z-m-graph.facebook.com
 0.0.0.0 z-m-lookaside.facebook.com
+0.0.0.0 z-m-portal.fb.com
 0.0.0.0 z-m-rupload.facebook.com
 0.0.0.0 z-m-scontent-ams.xx.fbcdn.net
 0.0.0.0 z-m-scontent-amt.xx.fbcdn.net

@@ -18,6 +18,7 @@
 0.0.0.0 moonton.com
 0.0.0.0 newlogin.ml.mlbangbang.com
 0.0.0.0 newlogin.ml.youngjoygame.com
+0.0.0.0 pconn.ml.youngjoygame.com
 0.0.0.0 play.mobilelegends.com
 0.0.0.0 report.ml.youngjoygame.com
 0.0.0.0 track.bi.moonton.com

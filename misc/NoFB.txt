@@ -4877,6 +4877,7 @@ z-m-fbcdn-shv-01-frt3.fbcdn.net
 z-m-gateway.facebook.com
 z-m-graph.facebook.com
 z-m-lookaside.facebook.com
+z-m-portal.fb.com
 z-m-rupload.facebook.com
 z-m-scontent-ams.xx.fbcdn.net
 z-m-scontent-amt.xx.fbcdn.net

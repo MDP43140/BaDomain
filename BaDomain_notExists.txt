@@ -218,9 +218,11 @@ ctc.fe01.c3.xiaomi.com
 ctc.fe02.c3.xiaomi.com
 ctfassets.net
 cthulhu-world.com
+curtainst.store
 d01.notifa.info
 d1zcggttmijv1z.cloudfront.net
 dable.ioscript
+dailyrewards.clashofmagic.net
 dance4.xyz
 datalake.gameloft.com
 data.mistat.us.xiaomi.com
@@ -711,7 +713,9 @@ tdsjsext3.com
 tel.fe01.hh.xiaomi.com
 teraboxcdn.com
 tesla23new.net
+tesla2ai.net
 tesladoge.pro
+tesla-online.net
 teslaup22.com
 testapi.amap.com
 test.bignox.com
@@ -832,6 +836,7 @@ www.chatgpt-pc.org
 www.cipro.ms
 www.ckmvkzurnd.com
 www.comsecurityessentials.support
+www.curtainst.store
 www.davisonbarker.pro
 www.decfurnish.com
 www.digiads.id
@@ -844,6 +849,7 @@ www.glamorousfeeds.com
 www.globalnews.cloud
 www.gpt-ai-chat.com
 www.helping365.us
+www.implorewarn.shop
 www.intuitcdn.net
 www.iqzgqivb.com
 www.jquery.services
