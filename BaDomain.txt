@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.03.2023
+# Version: 28.03.2023
 # Update: 1 day
 #
 
@@ -735,6 +735,7 @@ apk.tidakdijual.com
 aplhabet.applinzi.com
 ap.mobhey.com
 apolloprogram.io
+apollo.supercell.com
 app-ab29.marketo.com
 app.adjust.com
 app.adjust.net.in
@@ -889,6 +890,7 @@ auth-cloudfront.prod.ims.adobejanus.com
 auth.ff.avast.com
 auth.split.io
 autocomplete.clearbit.com
+autodiscover.supercell.com
 autodiscover.transfermarkt.de
 auto.itc.cn
 automizely.com
@@ -923,6 +925,7 @@ b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
 babyzee.uno
 baca.co.id
 backjawtanoa.com
+backup.supercell.com
 bae.appmeasurements.com
 bag-smoot.v.aaplimg.com
 baidu.com
@@ -935,6 +938,7 @@ bam.nr-data.net
 bannerflow.com
 bannersnack.com
 bar.love.mail.ru
+barracuda.supercell.com
 barrons.com
 bazaarvoice.com
 bbckdl.mfcewkrob.com
@@ -1134,6 +1138,7 @@ car.weixin.qq.com
 carx-online.com
 casalemedia.com
 cashend.me
+catalog.supercell.com
 catbox.moe
 cbs.wondershare.com
 cc.163.com
@@ -1288,6 +1293,7 @@ cdn.sohucs.com
 cdn-static.ap4r.com
 cdn-static.kwai.net
 cdn-store-icons-akamai-prd.unityads.unity3d.com
+cdn.supercell.com
 cdn-theme-eu-central-1.shalltry.com
 cdn.thinkific.com
 cdn.top.gg
@@ -1351,6 +1357,7 @@ check.y5en.com
 chicoryapp.com
 chilipiper.com
 chimpstatic.com
+chronos.supercell.com
 churnzero.net
 cibntv.net
 cicd-release-api.wshareit.com
@@ -1902,6 +1909,7 @@ english.sogou.com
 engpicka.app.link
 en.mxbc.com
 ensighten.com
+enterpriseenrollment.supercell.com
 en.yeahmobi.com
 epcfg.fineboost.com
 epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
@@ -1919,6 +1927,7 @@ es.rakuten.tv
 es.slideshare.net
 establishedtitles.com
 estrongs.com
+e.supercell.com
 esx2.bigo.sg
 esx.bigolive.tv
 esx.bigo.sg
@@ -1965,6 +1974,7 @@ experts-exchange.com
 exploitbyte.net
 exponential.com
 exportinvest.ge
+extranet.supercell.com
 extremetech.com
 eyeonsight.net
 eyeota.net
@@ -2055,6 +2065,7 @@ forms.soundestlink.com
 fortawesome.com
 fortumo.com
 fortumo.io
+forum.supercell.com
 fota-cloud-dn.ospserver.net
 fouanalytics.com
 fourier.taobao.com
@@ -2383,6 +2394,7 @@ hm.e.shifen.com
 hmma.baidu.com
 hockeyapp.net
 homecash1.com
+homer.supercell.com
 honeybadger.io
 hopexos.vip
 horizonme.net
@@ -2646,6 +2658,8 @@ internal.faceunity.com
 internetpositif.uzone.id
 intl-api.iq.com
 intl.iqiyi.com
+intranet.supercell.com
+intra.supercell.com
 intuit.com
 invitereferrals.com
 iobit.com
@@ -2722,6 +2736,7 @@ jd.com
 jetengine.it
 jfapiprod.optimonk.com
 jifo.co
+jira.supercell.com
 jixie.io
 jktmike.livejournal.com
 jmacs-m.lazada.co.id
@@ -2884,6 +2899,7 @@ l.dfydaily.com
 leaderboard.api.glance.inmobi.com
 leadpages.io
 leadpages.net
+learning.supercell.com
 leatonm.net
 leawo.org
 lencr.org
@@ -2896,6 +2912,7 @@ l-files.livejournal.net
 l.getsitecontrol.com
 l.gotube.pro
 liangcang-material.alicdn.com
+library.supercell.com
 libra-sg.resso.app
 libs.salemove.com
 licensebuttons.net
@@ -2923,6 +2940,7 @@ linkedin.com
 linkvertise.com
 linkvertize.com
 lirik.live
+lisa.supercell.com
 list-manage.com
 listoffreeware.com
 litatom.com
@@ -2966,6 +2984,7 @@ login.im.qcloud.com
 login.sc.funminigame.com
 login.sina.com
 login.sina.com.cn
+login.supercell.com
 login.tim.qq.com
 login.wmtransfer.com
 log.kzvepo.com
@@ -3080,6 +3099,7 @@ mailing.educba.com
 mail.kantora.ge
 mail.pazu.ge
 mail.ru
+mail.supercell.com
 mail.survivorio.com
 mainlytrendy.com
 main.qcloudimg.com
@@ -3119,6 +3139,7 @@ mc.us18.list-manage.com
 mc.yandex.ru
 mdcqrxw.com
 mdm.asus.com
+mdm.supercell.com
 me.apple-dns.net
 medallia.com
 medals.bizrate.com
@@ -3305,6 +3326,7 @@ mxbc.com
 mxj5trk.com
 mxpnl.com
 mxptint.net
+myaccount.supercell.com
 my.bignox.com
 myfan.monster
 myfreecams.com
@@ -3651,6 +3673,7 @@ outbrain.com
 outbyte.com
 outcome-ssp.supersonicads.com
 outfit7.com
+outlook.supercell.com
 overdue.aliyun.com
 overloop.com
 over.net
@@ -4050,6 +4073,7 @@ random-v2.proxyneldns.com
 rangextd.com
 r.apkpure.net
 rarefix.info
+ra.supercell.com
 rating.downloadatoz.com
 ravenjs.com
 rayjump.com
@@ -4536,6 +4560,7 @@ sp-497f6f2f.honzik.avcdn.net
 sp-607ddbd2.honzik.avcdn.net
 sp-766ec786.apkrep.avcdn.net
 spacex.plus
+spam.supercell.com
 spanishcoursesunamuno.com
 spatial.fineboost.com
 spclient.wg.spotify.com
@@ -4576,6 +4601,7 @@ ssl.captcha.qq.com
 ss.litatom.com
 ssl.p.jwpcdn.com
 ssl.pstatic.net
+sso.supercell.com
 sso.y5en.com
 ssp20.pushprofit.net
 ssp-3-9f58.trnox.com
@@ -4717,10 +4743,12 @@ storedl6f.nearme.com.cn
 storedl8f.nearme.cn
 storefsf.nearme.com.cn
 store.outbyte.com
+store.supercell.com
 store.wps.com
 streamback.ff.avast.com
 streaming.split.io
 streamrail.net
+stream.supercell.com
 strn.rise-ai.com
 str.rise-ai.com
 stuart.faceapp.io
@@ -4744,6 +4772,7 @@ superbig77.net
 superbig77.online
 superbig77.org
 superbig77.xyz
+supercell.com
 supercell.helpshift.com
 superpowered.com
 supersonicads.com
@@ -4754,6 +4783,7 @@ support-json.like.video
 support-json.ukyuh.tech
 support.jwplayer.com
 support.muslimpro.com
+support.supercell.com
 support.weixin.qq.com
 support.yeshen.com
 supremocontrol.com
@@ -4880,6 +4910,7 @@ teslacoilapps.com
 test-bg-td.teddymobile.cn
 test.cmp.quantcast.com
 testedforyou.net
+test.supercell.com
 t.everestop.io
 tex.z-dn.net
 t.focus-res.cn
@@ -5228,6 +5259,7 @@ videoroll.net
 videos-fms.jwpsrv.com
 videosnap.esx.bigo.sg
 videosnap.like.video
+video.supercell.com
 video.twimg.com
 vidfree.net
 vidmateapp.com
@@ -5270,6 +5302,8 @@ vom.today
 von.lol
 vor.lol
 v.pinimg.com
+vpn2.supercell.com
+vpn.supercell.com
 vp.rambler.ru
 vps1.lovejojoy.com
 vps2.lovejojoy.com
@@ -5404,6 +5438,7 @@ widget-v2.smartsuppcdn.com
 widget-v4.tidiochat.com
 wifimap.zendesk.com
 wifi.teddymobile.cn
+wiki.supercell.com
 wildspike.com
 winluckychance.com
 wins.isprog.com
@@ -5934,6 +5969,7 @@ www.superbig77.net
 www.superbig77.online
 www.superbig77.org
 www.superbig77.xyz
+www.supercell.com
 www.supremocontrol.com
 www.supremofree.com
 www.t5.ai

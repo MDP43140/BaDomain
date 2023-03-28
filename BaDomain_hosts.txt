@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.03.2023
+# Version: 28.03.2023
 # Update: 1 day
 #
 
@@ -735,6 +735,7 @@
 0.0.0.0 aplhabet.applinzi.com
 0.0.0.0 ap.mobhey.com
 0.0.0.0 apolloprogram.io
+0.0.0.0 apollo.supercell.com
 0.0.0.0 app-ab29.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.net.in
@@ -889,6 +890,7 @@
 0.0.0.0 auth.ff.avast.com
 0.0.0.0 auth.split.io
 0.0.0.0 autocomplete.clearbit.com
+0.0.0.0 autodiscover.supercell.com
 0.0.0.0 autodiscover.transfermarkt.de
 0.0.0.0 auto.itc.cn
 0.0.0.0 automizely.com
@@ -923,6 +925,7 @@
 0.0.0.0 babyzee.uno
 0.0.0.0 baca.co.id
 0.0.0.0 backjawtanoa.com
+0.0.0.0 backup.supercell.com
 0.0.0.0 bae.appmeasurements.com
 0.0.0.0 bag-smoot.v.aaplimg.com
 0.0.0.0 baidu.com
@@ -935,6 +938,7 @@
 0.0.0.0 bannerflow.com
 0.0.0.0 bannersnack.com
 0.0.0.0 bar.love.mail.ru
+0.0.0.0 barracuda.supercell.com
 0.0.0.0 barrons.com
 0.0.0.0 bazaarvoice.com
 0.0.0.0 bbckdl.mfcewkrob.com
@@ -1134,6 +1138,7 @@
 0.0.0.0 carx-online.com
 0.0.0.0 casalemedia.com
 0.0.0.0 cashend.me
+0.0.0.0 catalog.supercell.com
 0.0.0.0 catbox.moe
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cc.163.com
@@ -1288,6 +1293,7 @@
 0.0.0.0 cdn-static.ap4r.com
 0.0.0.0 cdn-static.kwai.net
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn.supercell.com
 0.0.0.0 cdn-theme-eu-central-1.shalltry.com
 0.0.0.0 cdn.thinkific.com
 0.0.0.0 cdn.top.gg
@@ -1351,6 +1357,7 @@
 0.0.0.0 chicoryapp.com
 0.0.0.0 chilipiper.com
 0.0.0.0 chimpstatic.com
+0.0.0.0 chronos.supercell.com
 0.0.0.0 churnzero.net
 0.0.0.0 cibntv.net
 0.0.0.0 cicd-release-api.wshareit.com
@@ -1902,6 +1909,7 @@
 0.0.0.0 engpicka.app.link
 0.0.0.0 en.mxbc.com
 0.0.0.0 ensighten.com
+0.0.0.0 enterpriseenrollment.supercell.com
 0.0.0.0 en.yeahmobi.com
 0.0.0.0 epcfg.fineboost.com
 0.0.0.0 epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
@@ -1919,6 +1927,7 @@
 0.0.0.0 es.slideshare.net
 0.0.0.0 establishedtitles.com
 0.0.0.0 estrongs.com
+0.0.0.0 e.supercell.com
 0.0.0.0 esx2.bigo.sg
 0.0.0.0 esx.bigolive.tv
 0.0.0.0 esx.bigo.sg
@@ -1965,6 +1974,7 @@
 0.0.0.0 exploitbyte.net
 0.0.0.0 exponential.com
 0.0.0.0 exportinvest.ge
+0.0.0.0 extranet.supercell.com
 0.0.0.0 extremetech.com
 0.0.0.0 eyeonsight.net
 0.0.0.0 eyeota.net
@@ -2055,6 +2065,7 @@
 0.0.0.0 fortawesome.com
 0.0.0.0 fortumo.com
 0.0.0.0 fortumo.io
+0.0.0.0 forum.supercell.com
 0.0.0.0 fota-cloud-dn.ospserver.net
 0.0.0.0 fouanalytics.com
 0.0.0.0 fourier.taobao.com
@@ -2383,6 +2394,7 @@
 0.0.0.0 hmma.baidu.com
 0.0.0.0 hockeyapp.net
 0.0.0.0 homecash1.com
+0.0.0.0 homer.supercell.com
 0.0.0.0 honeybadger.io
 0.0.0.0 hopexos.vip
 0.0.0.0 horizonme.net
@@ -2646,6 +2658,8 @@
 0.0.0.0 internetpositif.uzone.id
 0.0.0.0 intl-api.iq.com
 0.0.0.0 intl.iqiyi.com
+0.0.0.0 intranet.supercell.com
+0.0.0.0 intra.supercell.com
 0.0.0.0 intuit.com
 0.0.0.0 invitereferrals.com
 0.0.0.0 iobit.com
@@ -2722,6 +2736,7 @@
 0.0.0.0 jetengine.it
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jifo.co
+0.0.0.0 jira.supercell.com
 0.0.0.0 jixie.io
 0.0.0.0 jktmike.livejournal.com
 0.0.0.0 jmacs-m.lazada.co.id
@@ -2884,6 +2899,7 @@
 0.0.0.0 leaderboard.api.glance.inmobi.com
 0.0.0.0 leadpages.io
 0.0.0.0 leadpages.net
+0.0.0.0 learning.supercell.com
 0.0.0.0 leatonm.net
 0.0.0.0 leawo.org
 0.0.0.0 lencr.org
@@ -2896,6 +2912,7 @@
 0.0.0.0 l.getsitecontrol.com
 0.0.0.0 l.gotube.pro
 0.0.0.0 liangcang-material.alicdn.com
+0.0.0.0 library.supercell.com
 0.0.0.0 libra-sg.resso.app
 0.0.0.0 libs.salemove.com
 0.0.0.0 licensebuttons.net
@@ -2923,6 +2940,7 @@
 0.0.0.0 linkvertise.com
 0.0.0.0 linkvertize.com
 0.0.0.0 lirik.live
+0.0.0.0 lisa.supercell.com
 0.0.0.0 list-manage.com
 0.0.0.0 listoffreeware.com
 0.0.0.0 litatom.com
@@ -2966,6 +2984,7 @@
 0.0.0.0 login.sc.funminigame.com
 0.0.0.0 login.sina.com
 0.0.0.0 login.sina.com.cn
+0.0.0.0 login.supercell.com
 0.0.0.0 login.tim.qq.com
 0.0.0.0 login.wmtransfer.com
 0.0.0.0 log.kzvepo.com
@@ -3080,6 +3099,7 @@
 0.0.0.0 mail.kantora.ge
 0.0.0.0 mail.pazu.ge
 0.0.0.0 mail.ru
+0.0.0.0 mail.supercell.com
 0.0.0.0 mail.survivorio.com
 0.0.0.0 mainlytrendy.com
 0.0.0.0 main.qcloudimg.com
@@ -3119,6 +3139,7 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mdcqrxw.com
 0.0.0.0 mdm.asus.com
+0.0.0.0 mdm.supercell.com
 0.0.0.0 me.apple-dns.net
 0.0.0.0 medallia.com
 0.0.0.0 medals.bizrate.com
@@ -3305,6 +3326,7 @@
 0.0.0.0 mxj5trk.com
 0.0.0.0 mxpnl.com
 0.0.0.0 mxptint.net
+0.0.0.0 myaccount.supercell.com
 0.0.0.0 my.bignox.com
 0.0.0.0 myfan.monster
 0.0.0.0 myfreecams.com
@@ -3651,6 +3673,7 @@
 0.0.0.0 outbyte.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 outfit7.com
+0.0.0.0 outlook.supercell.com
 0.0.0.0 overdue.aliyun.com
 0.0.0.0 overloop.com
 0.0.0.0 over.net
@@ -4050,6 +4073,7 @@
 0.0.0.0 rangextd.com
 0.0.0.0 r.apkpure.net
 0.0.0.0 rarefix.info
+0.0.0.0 ra.supercell.com
 0.0.0.0 rating.downloadatoz.com
 0.0.0.0 ravenjs.com
 0.0.0.0 rayjump.com
@@ -4536,6 +4560,7 @@
 0.0.0.0 sp-607ddbd2.honzik.avcdn.net
 0.0.0.0 sp-766ec786.apkrep.avcdn.net
 0.0.0.0 spacex.plus
+0.0.0.0 spam.supercell.com
 0.0.0.0 spanishcoursesunamuno.com
 0.0.0.0 spatial.fineboost.com
 0.0.0.0 spclient.wg.spotify.com
@@ -4576,6 +4601,7 @@
 0.0.0.0 ss.litatom.com
 0.0.0.0 ssl.p.jwpcdn.com
 0.0.0.0 ssl.pstatic.net
+0.0.0.0 sso.supercell.com
 0.0.0.0 sso.y5en.com
 0.0.0.0 ssp20.pushprofit.net
 0.0.0.0 ssp-3-9f58.trnox.com
@@ -4717,10 +4743,12 @@
 0.0.0.0 storedl8f.nearme.cn
 0.0.0.0 storefsf.nearme.com.cn
 0.0.0.0 store.outbyte.com
+0.0.0.0 store.supercell.com
 0.0.0.0 store.wps.com
 0.0.0.0 streamback.ff.avast.com
 0.0.0.0 streaming.split.io
 0.0.0.0 streamrail.net
+0.0.0.0 stream.supercell.com
 0.0.0.0 strn.rise-ai.com
 0.0.0.0 str.rise-ai.com
 0.0.0.0 stuart.faceapp.io
@@ -4744,6 +4772,7 @@
 0.0.0.0 superbig77.online
 0.0.0.0 superbig77.org
 0.0.0.0 superbig77.xyz
+0.0.0.0 supercell.com
 0.0.0.0 supercell.helpshift.com
 0.0.0.0 superpowered.com
 0.0.0.0 supersonicads.com
@@ -4754,6 +4783,7 @@
 0.0.0.0 support-json.ukyuh.tech
 0.0.0.0 support.jwplayer.com
 0.0.0.0 support.muslimpro.com
+0.0.0.0 support.supercell.com
 0.0.0.0 support.weixin.qq.com
 0.0.0.0 support.yeshen.com
 0.0.0.0 supremocontrol.com
@@ -4880,6 +4910,7 @@
 0.0.0.0 test-bg-td.teddymobile.cn
 0.0.0.0 test.cmp.quantcast.com
 0.0.0.0 testedforyou.net
+0.0.0.0 test.supercell.com
 0.0.0.0 t.everestop.io
 0.0.0.0 tex.z-dn.net
 0.0.0.0 t.focus-res.cn
@@ -5228,6 +5259,7 @@
 0.0.0.0 videos-fms.jwpsrv.com
 0.0.0.0 videosnap.esx.bigo.sg
 0.0.0.0 videosnap.like.video
+0.0.0.0 video.supercell.com
 0.0.0.0 video.twimg.com
 0.0.0.0 vidfree.net
 0.0.0.0 vidmateapp.com
@@ -5270,6 +5302,8 @@
 0.0.0.0 von.lol
 0.0.0.0 vor.lol
 0.0.0.0 v.pinimg.com
+0.0.0.0 vpn2.supercell.com
+0.0.0.0 vpn.supercell.com
 0.0.0.0 vp.rambler.ru
 0.0.0.0 vps1.lovejojoy.com
 0.0.0.0 vps2.lovejojoy.com
@@ -5404,6 +5438,7 @@
 0.0.0.0 widget-v4.tidiochat.com
 0.0.0.0 wifimap.zendesk.com
 0.0.0.0 wifi.teddymobile.cn
+0.0.0.0 wiki.supercell.com
 0.0.0.0 wildspike.com
 0.0.0.0 winluckychance.com
 0.0.0.0 wins.isprog.com
@@ -5934,6 +5969,7 @@
 0.0.0.0 www.superbig77.online
 0.0.0.0 www.superbig77.org
 0.0.0.0 www.superbig77.xyz
+0.0.0.0 www.supercell.com
 0.0.0.0 www.supremocontrol.com
 0.0.0.0 www.supremofree.com
 0.0.0.0 www.t5.ai
