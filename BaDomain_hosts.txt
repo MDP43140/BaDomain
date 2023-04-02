@@ -251,6 +251,7 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 adaggreg-ali.shalltry.com
 0.0.0.0 adapex.io
+0.0.0.0 ad-api.stormcleanerapp.com
 0.0.0.0 adap.tv
 0.0.0.0 ada.support
 0.0.0.0 adblocker-app.info
@@ -270,6 +271,7 @@
 0.0.0.0 ad.gt
 0.0.0.0 adhaven.com
 0.0.0.0 adhrittech.com
+0.0.0.0 ad.inshot.dev
 0.0.0.0 adjust.net.in
 0.0.0.0 adlightning.com
 0.0.0.0 adlog.flurry.com
@@ -367,6 +369,7 @@
 0.0.0.0 airtable.com
 0.0.0.0 aishite.tokyo
 0.0.0.0 aisuru.tokyo
+0.0.0.0 aitype.com
 0.0.0.0 aka-dsa.wesingapp.com
 0.0.0.0 aka.stream.kg.qq.com
 0.0.0.0 aka.tsmusic.kg.qq.com
@@ -551,6 +554,7 @@
 0.0.0.0 api.buzzoola.com
 0.0.0.0 api.castle.io
 0.0.0.0 api.chilipiper.com
+0.0.0.0 api-cloudfront.life360.com
 0.0.0.0 api.clucoin.com
 0.0.0.0 api.coin.baca.co.id
 0.0.0.0 api.consumer-surveys.us
@@ -683,6 +687,7 @@
 0.0.0.0 api.shopee.co.id
 0.0.0.0 api.sina.com
 0.0.0.0 api.sina.com.cn
+0.0.0.0 api.sinch.com
 0.0.0.0 api.snapchat.com
 0.0.0.0 api.snapkit.com
 0.0.0.0 apis.pdnob.com
@@ -1248,6 +1253,7 @@
 0.0.0.0 cdn-dana.marmot-cloud.com
 0.0.0.0 cdn.devicevalidation.io
 0.0.0.0 cdn.dms.eyewind.cn
+0.0.0.0 cdn.dreamdata.cloud
 0.0.0.0 cdn.euc-freshbots.ai
 0.0.0.0 cdn-eu.eufylife.com
 0.0.0.0 cdn.evgnet.com
@@ -1368,7 +1374,9 @@
 0.0.0.0 chat6-production.golabs.io
 0.0.0.0 chat7-production.golabs.io
 0.0.0.0 chat8-production.golabs.io
+0.0.0.0 chatbox.prod.europe-west1.gc.chatlayer.ai
 0.0.0.0 chatgpt-pc.com
+0.0.0.0 chatlayer.ai
 0.0.0.0 cheapkey.net
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 checkip.amazonaws.com
@@ -1406,6 +1414,7 @@
 0.0.0.0 client.perimeterx.net
 0.0.0.0 client-registry.mutinycdn.com
 0.0.0.0 clients.bhproxies.com
+0.0.0.0 clientsdk.launchdarkly.com
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 clks.media.net
 0.0.0.0 cloud.baidu.com
@@ -1433,6 +1442,7 @@
 0.0.0.0 cmp.quantcast.com
 0.0.0.0 cmpv2.macworld.com
 0.0.0.0 cms-cdn.vidfree.net
+0.0.0.0 cms.chatlayer.ai
 0.0.0.0 cms.clucoin.com
 0.0.0.0 cm-sg.wargaming.net
 0.0.0.0 cname-china.vercel-dns.com
@@ -1845,6 +1855,7 @@
 0.0.0.0 downstairst.store
 0.0.0.0 dpdwnl.my-free.website
 0.0.0.0 draper.popcap.com
+0.0.0.0 dreamdata.cloud
 0.0.0.0 drift.com
 0.0.0.0 driftracingonline.com
 0.0.0.0 driftt.com
@@ -1861,6 +1872,7 @@
 0.0.0.0 ds.shalltry.com
 0.0.0.0 ds-test.shalltry.com
 0.0.0.0 dsu-a.shalltry.com
+0.0.0.0 dt.beyla.site
 0.0.0.0 dts.like-it.video
 0.0.0.0 duelbits.com
 0.0.0.0 dueros.baidu.com
@@ -2685,6 +2697,7 @@
 0.0.0.0 ins.hastopic.com
 0.0.0.0 in.shengboglobal.com
 0.0.0.0 inshot.cc
+0.0.0.0 inshot.dev
 0.0.0.0 insidecrm.com
 0.0.0.0 insight.cloud.tencent.com
 0.0.0.0 insight.rakuten.com
@@ -3626,6 +3639,7 @@
 0.0.0.0 obs-studio.com
 0.0.0.0 obstremswiev.site
 0.0.0.0 occ-0-6346-64.1.nflxso.net
+0.0.0.0 ocra.api.sinch.com
 0.0.0.0 ocsp2.g.aaplimg.com
 0.0.0.0 ocw.messagebird.com
 0.0.0.0 oemapi.kika-backend.com
@@ -4563,6 +4577,7 @@
 0.0.0.0 sina.com
 0.0.0.0 sina.com.cn
 0.0.0.0 sinaimg.cn
+0.0.0.0 sinch.com
 0.0.0.0 sink.gameloft.com
 0.0.0.0 sintexipsolution.com
 0.0.0.0 sip-service.therealpbx.co.uk
@@ -4822,6 +4837,7 @@
 0.0.0.0 store.outbyte.com
 0.0.0.0 store.supercell.com
 0.0.0.0 store.wps.com
+0.0.0.0 stormcleanerapp.com
 0.0.0.0 streamback.ff.avast.com
 0.0.0.0 streaming.split.io
 0.0.0.0 streamrail.net
@@ -4873,6 +4889,7 @@
 0.0.0.0 survicate.com
 0.0.0.0 s-usc1f-nss-2504.firebaseio.com
 0.0.0.0 s-usc1f-nss-2505.firebaseio.com
+0.0.0.0 s-usc1f-nss-2513.firebaseio.com
 0.0.0.0 s-usc1f-nss-2515.firebaseio.com
 0.0.0.0 s-usc1f-nss-2517.firebaseio.com
 0.0.0.0 s.usea01.idio.episerver.net
@@ -5091,6 +5108,7 @@
 0.0.0.0 tracking.apptrackerlink.com
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.ksztone.com
+0.0.0.0 tracking.smartconnect-sg.net
 0.0.0.0 tracking.trnox.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track-mixer.ru
@@ -6036,6 +6054,7 @@
 0.0.0.0 www.shopeerejeki9-9.blogspot.com
 0.0.0.0 www.sina.com
 0.0.0.0 www.sina.com.cn
+0.0.0.0 www.sinch.com
 0.0.0.0 www.sixtest.com
 0.0.0.0 www.sk.ru
 0.0.0.0 www.sky-quad.com

@@ -251,6 +251,7 @@ ada.cx
 adadvisor.net
 adaggreg-ali.shalltry.com
 adapex.io
+ad-api.stormcleanerapp.com
 adap.tv
 ada.support
 adblocker-app.info
@@ -270,6 +271,7 @@ adgrx.com
 ad.gt
 adhaven.com
 adhrittech.com
+ad.inshot.dev
 adjust.net.in
 adlightning.com
 adlog.flurry.com
@@ -367,6 +369,7 @@ aipage.com
 airtable.com
 aishite.tokyo
 aisuru.tokyo
+aitype.com
 aka-dsa.wesingapp.com
 aka.stream.kg.qq.com
 aka.tsmusic.kg.qq.com
@@ -551,6 +554,7 @@ api.boomplaymusic.com
 api.buzzoola.com
 api.castle.io
 api.chilipiper.com
+api-cloudfront.life360.com
 api.clucoin.com
 api.coin.baca.co.id
 api.consumer-surveys.us
@@ -683,6 +687,7 @@ api.shareitgames.com
 api.shopee.co.id
 api.sina.com
 api.sina.com.cn
+api.sinch.com
 api.snapchat.com
 api.snapkit.com
 apis.pdnob.com
@@ -1248,6 +1253,7 @@ cdn.cxomedia.id
 cdn-dana.marmot-cloud.com
 cdn.devicevalidation.io
 cdn.dms.eyewind.cn
+cdn.dreamdata.cloud
 cdn.euc-freshbots.ai
 cdn-eu.eufylife.com
 cdn.evgnet.com
@@ -1368,7 +1374,9 @@ chat5-production.golabs.io
 chat6-production.golabs.io
 chat7-production.golabs.io
 chat8-production.golabs.io
+chatbox.prod.europe-west1.gc.chatlayer.ai
 chatgpt-pc.com
+chatlayer.ai
 cheapkey.net
 checkappexec.microsoft.com
 checkip.amazonaws.com
@@ -1406,6 +1414,7 @@ client-metrics.prod.topeleven.com
 client.perimeterx.net
 client-registry.mutinycdn.com
 clients.bhproxies.com
+clientsdk.launchdarkly.com
 clientstream.launchdarkly.com
 clks.media.net
 cloud.baidu.com
@@ -1433,6 +1442,7 @@ cm.pos.baidu.com
 cmp.quantcast.com
 cmpv2.macworld.com
 cms-cdn.vidfree.net
+cms.chatlayer.ai
 cms.clucoin.com
 cm-sg.wargaming.net
 cname-china.vercel-dns.com
@@ -1845,6 +1855,7 @@ download.wavebrowser.co
 downstairst.store
 dpdwnl.my-free.website
 draper.popcap.com
+dreamdata.cloud
 drift.com
 driftracingonline.com
 driftt.com
@@ -1861,6 +1872,7 @@ dsp.baidu.com
 ds.shalltry.com
 ds-test.shalltry.com
 dsu-a.shalltry.com
+dt.beyla.site
 dts.like-it.video
 duelbits.com
 dueros.baidu.com
@@ -2685,6 +2697,7 @@ i-n.sgsnssdk.com
 ins.hastopic.com
 in.shengboglobal.com
 inshot.cc
+inshot.dev
 insidecrm.com
 insight.cloud.tencent.com
 insight.rakuten.com
@@ -3626,6 +3639,7 @@ obsproicet.net
 obs-studio.com
 obstremswiev.site
 occ-0-6346-64.1.nflxso.net
+ocra.api.sinch.com
 ocsp2.g.aaplimg.com
 ocw.messagebird.com
 oemapi.kika-backend.com
@@ -4563,6 +4577,7 @@ sina.cn
 sina.com
 sina.com.cn
 sinaimg.cn
+sinch.com
 sink.gameloft.com
 sintexipsolution.com
 sip-service.therealpbx.co.uk
@@ -4822,6 +4837,7 @@ storefsf.nearme.com.cn
 store.outbyte.com
 store.supercell.com
 store.wps.com
+stormcleanerapp.com
 streamback.ff.avast.com
 streaming.split.io
 streamrail.net
@@ -4873,6 +4889,7 @@ survey.survicate.com
 survicate.com
 s-usc1f-nss-2504.firebaseio.com
 s-usc1f-nss-2505.firebaseio.com
+s-usc1f-nss-2513.firebaseio.com
 s-usc1f-nss-2515.firebaseio.com
 s-usc1f-nss-2517.firebaseio.com
 s.usea01.idio.episerver.net
@@ -5091,6 +5108,7 @@ track.gaconnector.com
 tracking.apptrackerlink.com
 tracking.g2crowd.com
 tracking.ksztone.com
+tracking.smartconnect-sg.net
 tracking.trnox.com
 track.mailerlite.com
 track-mixer.ru
@@ -6036,6 +6054,7 @@ www.shopeerejeki8-8.blogspot.com
 www.shopeerejeki9-9.blogspot.com
 www.sina.com
 www.sina.com.cn
+www.sinch.com
 www.sixtest.com
 www.sk.ru
 www.sky-quad.com
