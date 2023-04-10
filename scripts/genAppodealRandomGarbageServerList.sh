@@ -3,11 +3,14 @@
 #  What this script does?
 #  it just generate an appodeal shitty fucked servers
 #  Btw, apologies if those domains wasn't actually owned by Appodeal or whatever
-#  (cuz again we dont know who makes/owns these mysterious domains/websites)
+#  (because again i dont know who makes/owns these mysterious domains/websites,
+#   but opening one of the domains, there it stated that its owned by Appodeal,
+#   so maybe my assumption was right?)
 #
-#  UPDATE: so i think i know where this domain is produced: libEncryptorP.so
-#  Its embedded as shared library on some Android games, especially the one
-#  that known to put anti-cheats (in an easy way?)
+#  UPDATE: so i think i know where this domain is produced: An unknown SDK
+#  (likely related to anti-cheats, but also spies on its users) that provides
+#  libEncryptorP.so. Its embedded as shared library on some Android games.
+#  And each time the app SDK is updated, a new domain is generated.
 #
 
 ## Configuration ##
@@ -30,6 +33,7 @@ APD_KNOWN_DOMAIN=(
 	 "4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b"
 	 "58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b"
 	 "5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9"
+	 "5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f"
 	 "64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478"
 	 "655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4"
 	 "6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1"
@@ -43,6 +47,7 @@ APD_KNOWN_DOMAIN=(
 	# Domain below is already checked
 	# "NONE YET"
 	# Domain below is already checked and not exist
+	# "049724d6b4c327e41096d4593292fd12fc4cfdf47427d8cfe149890a"
 	# "09de714eabd2c038e7f1aa172b05a42b6a29611d5643cb2a6464b1fe"
 	# "137e82938ec8f951d71b03180c47c2e726cf8857dae8716d8d47613a"
 	# "321fed2fdbb0d3ce2f339ca06feadae24fd71677b56e331973989847"

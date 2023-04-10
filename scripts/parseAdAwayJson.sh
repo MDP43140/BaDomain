@@ -14,17 +14,19 @@
 #  + get the list in allowed/disallowed range (those will be blocked domains)
 #  + and sort it
 
-cat $1 \
- | sed -r \
-		-e 's/^[ \t]+|[ \t]+$//g' \
-		-e '/\"(enabled|allow|redirect)\"\: (true|false)/d' \
-		-e '/\"(url|label|redirect)\"\: \".+\"/d' \
- 		-e 's/\"host\"\: \"//g' \
- 		-e 's/['\''\"]//g' \
- 		-e 's/,$//g' \
- | grep 'allowed: \[' --before-context=999999 \
- | grep 'blocked: \[' --after-context=999999 \
- | sed -r \
- 		-e 's/^(allow|block)ed\:\ \[//g' \
- 		-e '/\{|\]|\}/d' \
- | sort -ui;
+for i in $@;do
+	cat $i \
+	 | sed -r \
+			-e 's/^[ \t]+|[ \t]+$//g' \
+			-e '/\"(enabled|allow|redirect)\"\: (true|false)/d' \
+			-e '/\"(url|label|redirect)\"\: \".+\"/d' \
+			-e 's/\"host\"\: \"//g' \
+			-e 's/['\''\"]//g' \
+			-e 's/,$//g' \
+	 | grep 'allowed: \[' --before-context=999999 \
+	 | grep 'blocked: \[' --after-context=999999 \
+	 | sed -r \
+			-e 's/^(allow|block)ed\:\ \[//g' \
+			-e '/\{|\]|\}/d' \
+	 | sort -ui;
+done
