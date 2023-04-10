@@ -239,6 +239,7 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sec-cdn.static.xiaomi.net
 0.0.0.0 secode2.hd.xiaomi.com
+0.0.0.0 sf0.market.xiaomi.com
 0.0.0.0 sfsapi.micloud.xiaomi.net
 0.0.0.0 sg-idm.api.io.mi.com
 0.0.0.0 sg.idm.iot.mi.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.04.2023
+# Version: 10.04.2023
 # Update: 1 day
 #
 
@@ -174,6 +174,7 @@
 9199.us
 91busgame.com
 91.com
+9410194.fls.doubleclick.net
 94.110.204.35.bc.googleusercontent.com
 9933gg.com
 9apps.com
@@ -203,6 +204,7 @@ a.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 a.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 a5b1fe1c3d2a14cf39d66ad7e255a712-587e721f5aeda681.elb.ap-northeast-2.amazonaws.com
 a5cf870526ee8046d26235be996b36b9.safeframe.googlesyndication.com
+a.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
@@ -598,6 +600,7 @@ api.hotstar.com
 api.howlapm.com
 api-iam.intercom.io
 api.igofun.mobi
+api.imotech.tech
 api-in-orc.v-mate.mobi
 api.instabridge.com
 api.intellimize.co
@@ -678,6 +681,7 @@ api.revenuecat.com
 api.rvere.com
 api.saasexch.com
 api.salemove.com
+api.samsungconsent.com
 api.sape.ru
 api.scooper.news
 api-sdk.datadome.co
@@ -1233,6 +1237,7 @@ cdn.avanquest.com
 cdn.avmws.com
 cdn.awsusor1.fds.api.mi-img.com
 cdn.bc0a.com
+cdn.beacons.ai
 cdn.bizible.com
 cdn.calibermind.com
 cdn.chillyroom.com
@@ -1301,6 +1306,8 @@ cdn-prod.securiti.ai
 cdn-production-assets-kly.akamaized.net
 cdn.pushmart.net
 cdn.ravenjs.com
+cdn.rbtasset.com
+cdn.robotaset.com
 cdn.rollbar.com
 cdn.rortoscdn.com
 cdn-rtb.sape.ru
@@ -1444,6 +1451,7 @@ cmpv2.macworld.com
 cms-cdn.vidfree.net
 cms.chatlayer.ai
 cms.clucoin.com
+cm.sereng.miniclippt.com
 cm-sg.wargaming.net
 cname-china.vercel-dns.com
 cname.vercel-dns.com
@@ -1574,6 +1582,8 @@ cpx.to
 craft.pe
 crashlyticsreports-pa.googleapis.com
 crashsight.wetest.net
+crazychef-api.casualjoygames.com
+crazychef-res.casualjoygames.com
 crazygirls24.com
 create.lidstatic.com
 creativecow.net
@@ -1733,6 +1743,7 @@ degoo-instabridge.adsbynimbus.com
 degreelocate.com
 degreematcher.org
 degreesnap.com
+delivers.dtignite.com
 delivery.contextads.live
 delivery.r2b2.io
 demandbase.com
@@ -1986,6 +1997,7 @@ eu1-htp.tokenex.com
 eu1-spiky.clevertap-prod.com
 eu-api.samsungpositioning.com
 eu-auth2.samsungosp.com
+eufedora.bringmethehats.com
 eufylife.com
 eu-kaf.samsungknox.com
 eve.gameloft.com
@@ -2015,6 +2027,7 @@ example.org
 ex.co
 exelator.com
 exonhack.com
+experience.glance.com
 experts-exchange.com
 exploitbyte.net
 exponential.com
@@ -2140,6 +2153,8 @@ front-perf.ukyuh.tech
 fr.slideshare.net
 fs.calldev.bigo.sg
 fsdn.com
+fs.rbtasset.com
+fs.robotaset.com
 ftblltrck.com
 ftp.lysator.liu.se
 fullstory.com
@@ -2237,6 +2252,7 @@ getecoplus.com
 getgo.com
 gethouse.top
 getlasso.co
+getol88.co
 getryoko.com
 getsitecontrol.com
 g.ezoic.net
@@ -2264,6 +2280,8 @@ gitkraken.com
 glamorousfeeds.com
 glamour.com
 glancecdn.azureedge.net
+glance-cdn.com
+glance.com
 glance-mob.glance-cdn.com
 glanceseg.blob.core.windows.net
 glassbox.com
@@ -2455,6 +2473,7 @@ horneymom.today
 hostek.se
 hosts.faceapp.io
 hosupshunk.com
+hotbit.io
 hot-girls18.com
 hotjar.com
 hotlove.uno
@@ -2598,6 +2617,8 @@ imdb.com
 img001.fview.cn
 img002.fview.cn
 img003.fview.cn
+img01.51y5.net
+img03.51y5.net
 img-1000010.ad-score.com
 img-1000557.ad-score.com
 img-1000736.ad-score.com
@@ -2766,6 +2787,7 @@ istarapps.com
 it.4sync.com
 it.bignox.com
 itc.cn
+i.test3-mobileapi.ucnewtest.wanyol.com
 itoon.org
 it.pingchas.com
 itsecurity.com
@@ -2921,6 +2943,7 @@ kyty1234.cc
 l86iug.xjwi5.com
 la4-userver-upaas.ucweb.com
 laamor.uno
+lab-js-abtest.lazada.com
 ladepeche.fr
 lamanlabuh.aduankonten.id
 lamida.id
@@ -2996,6 +3019,7 @@ limg.imgsmail.ru
 lim.izooto.com
 line.me
 linkedin.com
+linkserverluar.live
 linkvertise.com
 linkvertize.com
 lirik.live
@@ -3007,6 +3031,7 @@ litatom.oss-cn-hongkong.aliyuncs.com
 liteapi.ekatox.com
 litemsg.ekatox.com
 litemsg.facemojikeyboard.com
+litestatis.ekatox.com
 litestatis.facemojikeyboard.com
 litmobile.us
 live-apm.shopee.co.id
@@ -3107,6 +3132,8 @@ m1.auto.itc.cn
 m1.daumcdn.net
 m1e.net
 m1.fywkuzp.ru
+m1.mixadvert.com
+m1-mixadvert-com.cdn.ampproject.org
 m1.shengmain.com
 m20.fywkuzp.ru
 m21.fywkuzp.ru
@@ -3309,6 +3336,7 @@ mobfox.com
 mobile-ap.spotify.com
 mobileassets.gopaylater.findaya.co.id
 mobilecrush.king.com
+mobileimg.useinsider.com
 mobile.launchdarkly.com
 mobile.like.video
 mobile.pipe.aria.microsoft.com
@@ -3316,6 +3344,7 @@ mobilesearchers.com
 mobile-tracker-free.com
 mobile.useinsider.com
 mobile.yandex.net
+mobiztsunami.appspot.com
 mobredirect.net
 mobvista.com
 moddroid.co
@@ -3453,6 +3482,7 @@ newsagent.quest
 newsaggreg.shalltry.com
 news.baidu.com
 newscloud.or.kr
+newsfeed.miniclippt.com
 newsforward.quest
 news.hastopic.com
 news-id.feednews.com
@@ -3973,6 +4003,7 @@ pl.ea.com
 plenty.vidio.com
 pls.prd.mz.internal.unity3d.com
 plugin-server.wps.com
+p.midasplayer.com
 png.pookcdn.com
 png.pookcdn.net
 podrbx.best
@@ -4159,6 +4190,7 @@ ra.supercell.com
 rating.downloadatoz.com
 ravenjs.com
 rayjump.com
+rbtasset.com
 rbux88.com
 rbxton.online
 r.clarity.ms
@@ -4268,6 +4300,7 @@ rmb.ops.beeline.ru
 r.mee6.xyz
 r.mradx.net
 robinhand.vip
+robotaset.com
 robuxweb.pro
 robwu.nl
 robyoc.online
@@ -4320,6 +4353,7 @@ rtrack.degreematcher.org
 rtsyx.higgsyx.com
 ru.4sync.com
 ruangguruhelp.zendesk.com
+rubel-video-cdn.ruangguru.com
 rubiconproject.com
 ru.bignox.com
 rudyvalencia.pro
@@ -4812,6 +4846,7 @@ st-hatena.com
 stickdix.com
 sticker.weixin.qq.com
 stickyadstv.com
+sti.dtignite.com
 stilfb.com
 st.like-it.video
 stoomawy.net
@@ -5078,6 +5113,7 @@ tools.refokus.com
 tooncoin.com
 toonme-com-cdn.ws.pho.to
 top100.ru
+top10vpn.com
 topbos.com
 top-fwz1.mail.ru
 top.ge
@@ -5295,6 +5331,7 @@ us-central1-gcp.api.sc-gw.com
 us-central1-gcp.api.snapchat.com
 us-central1-muslim-pro-app.cloudfunctions.net
 uscreen.tv
+us.cybernews.com
 use1.fptls.com
 us-east1-aws-acc.api.snapchat.com
 us-east1-aws.api.snapchat.com
@@ -5336,6 +5373,7 @@ vbucks22.com
 vdo.ai
 vendorlist.dmcdn.net
 verify.uxcam.com
+version.common.redflamenco.com
 version.ffmax.pencilorange.com
 version.ffmax.purplevioleto.com
 vgold.gameloft.com
@@ -5473,6 +5511,7 @@ webapi-clean.ikeepapps.com
 web-api.moddroid.co
 web-api.netpop.app
 webdesignerdepot.com
+web.glance-cdn.com
 web.inmobicdn.net
 weblibrary.cdn.getgo.com
 web.like-it.video
@@ -5947,6 +5986,7 @@ www.letucook.com
 www.letusdomino.com
 www.lightboxcdn.com
 www.linkedin.com
+www.linkserverluar.live
 www.lirik.live
 www.litatom.com
 www.litix.io
@@ -6005,6 +6045,7 @@ www.portals.mobi
 www.powr.io
 www.profitwell.com
 www.propodsmax.co
+www.pullcm.com
 www.pulselive.com
 www.qfind.net
 www.qq.com
@@ -6015,9 +6056,11 @@ www.quiztest.me
 www.quzizz.com
 www.rangextd.com
 www.rayjump.com
+www.rbtasset.com
 www.reactful.com
 www.realmoneybiz.com
 www.refokus.com
+www.ref-r.com
 www.requesteasy.com
 www.res-x.com
 www.rewards-cards.org
@@ -6025,6 +6068,7 @@ www.reytesla.com
 www.rhino-news.com
 www.richapp1.com
 www.robinhand.vip
+www.robotaset.com
 www.rollbit.com
 www.roobet.com
 www.royaldominos.com
@@ -6107,6 +6151,7 @@ www.tidio.com
 www.tinder-hot.xyz
 www.tns-counter.ru
 www.tokogame.com
+www.top10vpn.com
 www.topbos.com
 www.toptoppartner.com
 www.touchpal.com
@@ -6286,6 +6331,7 @@ x-apac.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 x-apac.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
 x-apac.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 x-apac.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+x-apac.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
@@ -6307,6 +6353,7 @@ x-eu.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 x-eu.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
 x-eu.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 x-eu.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+x-eu.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
@@ -6325,6 +6372,7 @@ xincache.com
 x-in.glance-cdn.com
 x-in.glance-cdn.net
 x-in-mob-game-cdn.glance-cdn.com
+x-in-mob.glance-cdn.com
 xjp-jmacs.m.taobao.com
 xjp-msgacs.m.taobao.com
 xlaxiata2.md-apis.medallia.com
@@ -6361,6 +6409,7 @@ x-us.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 x-us.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
 x-us.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
 x-us.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+x-us.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 x-us.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-us.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-us.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
