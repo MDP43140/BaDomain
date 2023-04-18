@@ -2649,6 +2649,7 @@ polaris.facebook.com
 portal.facebook.com
 portal.fb.com
 postmaster.facebook.com
+pps.whatsapp.net
 preprod.instagram.com
 privacy.facebook.com
 privacy.instagram.com

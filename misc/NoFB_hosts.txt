@@ -2650,6 +2650,7 @@
 0.0.0.0 portal.facebook.com
 0.0.0.0 portal.fb.com
 0.0.0.0 postmaster.facebook.com
+0.0.0.0 pps.whatsapp.net
 0.0.0.0 preprod.instagram.com
 0.0.0.0 privacy.facebook.com
 0.0.0.0 privacy.instagram.com
