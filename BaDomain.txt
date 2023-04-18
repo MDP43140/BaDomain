@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 10.04.2023
+# Version: 18.04.2023
 # Update: 1 day
 #
 
@@ -217,6 +217,7 @@ aadg.trafficmanager.net
 a.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 aaplimg.com
 a.applovin.com
+abadidana.com
 abesu.org
 aboutads.com
 aboutads.info
@@ -231,6 +232,7 @@ a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 access1.tpns.sgp.tencent.com
 access.line.me
 access-pre.ucweb.com
+account.pcapredict.com
 accounts.automizely.com
 accounts.ea.com
 accounts.gadsme.com
@@ -372,6 +374,7 @@ airtable.com
 aishite.tokyo
 aisuru.tokyo
 aitype.com
+aj.figugoalnew.com
 aka-dsa.wesingapp.com
 aka.stream.kg.qq.com
 aka.tsmusic.kg.qq.com
@@ -868,6 +871,7 @@ assets.cpcdn.com
 assets.duniagames.co.id
 assets.flex.twilio.com
 assets.giocdn.com
+assets-global.website-files.com
 assets-jpcust.jwpsrv.com
 assets.ludokingapi.com
 assets.manutd.com
@@ -910,6 +914,8 @@ auth-cloudfront.prod.ims.adobejanus.com
 auth.ff.avast.com
 auth.split.io
 autocomplete.clearbit.com
+autoconfig.bestappsale.com
+autodiscover.pcapredict.com
 autodiscover.supercell.com
 autodiscover.transfermarkt.de
 auto.itc.cn
@@ -973,6 +979,7 @@ bcehost.com
 bc.game
 bc.imgix.net
 bcs.amanotes.net
+bdain11112.pcapredict.com
 bdimg.com
 bdimg.share.baidu.com
 bdstatic.com
@@ -1011,6 +1018,7 @@ besmeargleor.com
 bestcards.online
 bestdate.top
 beta.mybetterck.com
+beta.pcapredict.com
 betowy.i45x0w.com
 b.everestop.io
 bf19405wzd.bf.dynatrace.com
@@ -1050,6 +1058,7 @@ block.uzone.id
 blogblog.com
 blog.castle.io
 blog.manualesaqui.online
+blog.pcapredict.com
 blog.pho.to
 blog.tenjin.com
 blog.tenjin.io
@@ -1286,6 +1295,7 @@ cdn.jwplayer.com
 cdn.kidozplayer.com
 cdn.klimg.com
 cdn.klimg.com.akamaized.net
+cdn.landbot.io
 cdn.liftoff-creatives.io
 cdn.link4app.com
 cdn.livechatinc.com
@@ -1562,6 +1572,7 @@ cooooos.com
 cootekservice.com
 core-api.data.appsinnova.com
 corp.sogou.com
+corp.supercent.io
 cos.ap-shanghai.myqcloud.com
 counter.adscontrol.xyz
 counter.top.ge
@@ -1674,6 +1685,7 @@ d31jprfuqiuu14.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d33wubrfki0l68.cloudfront.net
 d34chcsvb7ug62.cloudfront.net
+d.360safe.com
 d38psrni17bvxu.cloudfront.net
 d3amn7ayexbwsr.cloudfront.net
 d3d6s0qsgup76t.cloudfront.net
@@ -1694,6 +1706,7 @@ daerisoft.com
 dailymotion.com
 d.alicdn.com
 dana-assets-id.oss-ap-southeast-5.aliyuncs.com
+danabaguslah.com
 dana.threatcast.guardsquare.com
 danuoyi.tbcache.com
 d.applovin.com
@@ -1752,6 +1765,7 @@ demo34.ckg.hk
 demo.arcade.software
 demo.ckg.hk
 demogamesfree-asia.pragmaticplay.net
+demos.pcapredict.com
 dem.shopee.com
 deo.shopeemobile.com
 derk.bar
@@ -1763,6 +1777,7 @@ developer.huaweiuniversity.com
 developers.google.cn
 developers.ironsrc.com
 developers.is.com
+developers.pcapredict.com
 developers.pho.to
 developers.weixin.qq.com
 d.everestop.io
@@ -1862,6 +1877,7 @@ download.muslimpro.com
 download-sin.dtignite.com
 downloads.intercomcdn.com
 downloads.mailchimp.com
+downloads.pcapredict.com
 download.wavebrowser.co
 downstairst.store
 dpdwnl.my-free.website
@@ -1947,6 +1963,7 @@ elfsight.com
 elo.io
 eloism.net
 email.manutd.com
+email.pcapredict.com
 embed-cdn.com
 embed-fastly.wistia.com
 embed.lpcontent.net
@@ -1965,7 +1982,10 @@ english.sogou.com
 engpicka.app.link
 en.mxbc.com
 ensighten.com
+en.supercent.io
+enterpriseenrollment.pcapredict.com
 enterpriseenrollment.supercell.com
+enterpriseregistration.pcapredict.com
 en.yeahmobi.com
 epcfg.fineboost.com
 epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
@@ -2045,6 +2065,7 @@ ezoic.net
 ezojs.com
 f001.backblazeb2.com
 f2ecdn.com
+f.360safe.com
 fa.4sync.com
 factors.sofire.baidu.com
 fafa.bar
@@ -2156,6 +2177,8 @@ fsdn.com
 fs.rbtasset.com
 fs.robotaset.com
 ftblltrck.com
+ftp.bestappsale.com
+ftp.ipchina163.com
 ftp.lysator.liu.se
 fullstory.com
 fumacrom.com
@@ -2337,6 +2360,7 @@ googlesyndication.com
 googletagmanager.com
 googleweblight.com
 go-pardot.adcolony.com
+go.pcapredict.com
 go.redirectingat.com
 gos-api.gos-gsp.io
 gosupportnow.com
@@ -2437,6 +2461,7 @@ helpscout.com
 helpscout.net
 help.sogou.com
 helpx.adobe.com
+hermes.360safe.com
 hermes-fs.wshareit.com
 heylink.me
 hhhh.uno
@@ -2498,6 +2523,7 @@ http-inputs-notion.splunkcloud.com
 https-api.bigolive.tv
 https-api.like.video
 huatuo.qq.com
+hub.pcapredict.com
 hubspot.com
 hubspot-forms-static-embed.s3.amazonaws.com
 hubspot.net
@@ -2609,6 +2635,7 @@ image.thinkingdata.cn
 image.tmdb.org
 image.useinsider.com
 image.winudf.com
+imap.bestappsale.com
 imasdk.googleapis.com
 im.baidu.com
 i.mbfel.com
@@ -2755,6 +2782,7 @@ iot.weixin.qq.com
 ipapi.co
 ip-api.com
 ipcdn.g.aaplimg.com
+ipchina163.com
 ipdata.co
 ip.horizontegames.com
 ipify.org
@@ -3055,6 +3083,7 @@ lnk.news
 load18.biz
 loadnova898.netlify.app
 lobby.igamecj.com
+localhost.ipchina163.com
 locate.measurementlab.net
 lockersatelic.cam
 loc.map.baidu.com
@@ -3065,6 +3094,7 @@ log-collector.shopee.co.id
 logging.baca.co.id
 log.goodnovel.com
 log.hm.baidu.com
+login.360safe.com
 login5.spotify.com
 login.im.qcloud.com
 login.sc.funminigame.com
@@ -3117,6 +3147,7 @@ lulusoft.com
 lunalabs.io
 l-userpic.livejournal.com
 lustre.ai
+lyncdiscover.pcapredict.com
 lzd-img-global.slatic.net
 m10.fywkuzp.ru
 m11.fywkuzp.ru
@@ -3173,7 +3204,9 @@ mafiacash.co
 magneto.api.halodoc.com
 magnite.com
 magzine.transacme.com
+mail.360safe.com
 mail.aparthotelmx.ge
+mail.bestappsale.com
 mail.blackseas.ge
 mail.bms.ge
 mail.cardboard.ge
@@ -3185,6 +3218,7 @@ mail.geclose2eu.info
 mail.growin.ge
 mail.hbmtours.com
 mailing.educba.com
+mail.ipchina163.com
 mail.kantora.ge
 mail.pazu.ge
 mail.ru
@@ -3225,6 +3259,7 @@ mc.16163.com
 mc.163.com
 m.caping.co.id
 mcds.wshareit.com
+mclean.cloud.360safe.com
 mc-nat-t.cloudapp.net
 mcpecraft.ru
 mcs.tobsnssdk.com
@@ -3384,8 +3419,11 @@ msg-intl.qy.net
 msg.transacme.com
 m.sogo.com
 m.sohu.com
+msoid.pcapredict.com
 msr-public-ubiservices.ubi.com
 ms.shalltry.com
+msstorageazure.com
+msstorageboxes.com
 msync-im1-sgp.easemob.com
 msync-im1-sgp-lit.easemob.com
 mt3-v2-apple.amanotes.io
@@ -3550,6 +3588,7 @@ ns19.domaincontrol.com
 ns19.xincache.com
 ns1.bdydns.cn
 ns1.com
+ns1.ipchina163.com
 ns20.domaincontrol.com
 ns20.xincache.com
 ns21.domaincontrol.com
@@ -3564,6 +3603,7 @@ ns26.domaincontrol.com
 ns27.domaincontrol.com
 ns28.domaincontrol.com
 ns29.domaincontrol.com
+ns2.ipchina163.com
 ns30.domaincontrol.com
 ns31.domaincontrol.com
 ns32.domaincontrol.com
@@ -3679,6 +3719,8 @@ oepodownload.mediatek.com
 ofa-sub.osp.opera.software
 offer.buymultivoltz.com
 offer.headlines.pw
+officeaddons.com
+officestoragebox.com
 official.downloadatoz.com
 of.foldlife.net
 oficayuda.club
@@ -4015,6 +4057,7 @@ policy-tcp.rayjump.com
 polussuo.com
 pool.apk.aptoide.com
 poormansguidetocasinogambling.com
+pop3.bestappsale.com
 pop3.bignox.com
 popcore.com
 popin-minus.com
@@ -4226,6 +4269,9 @@ reload.kwai.net
 reminiandroid.oracle.bendingspoonsapps.com
 remotecompany.com
 renren.com
+rent-a-hacker.com
+rent-a-hitman.com
+rentahitman.com
 repair-system-phone.firebaseio.com
 repodownload.mediatek.com
 report.appmetrica.yandex.net
@@ -4260,6 +4306,7 @@ reson8.com
 resources.alibabacloud.com
 resources.careers.pulselive.com
 resources.digital-cloud-sin1.medallia.com
+resources.pcapredict.com
 resources.premierleague.com
 resources.yodlee.com
 resource.wondershare.com
@@ -4509,6 +4556,7 @@ se-new-cdn-ap-northeast-2c-hb.rayjump.com
 senin.live
 sensors.cloud.tencent.com
 sentry.boomplaymusic.com
+sentry.ff.avast.com
 sentry.io
 sentry.kumparan.com
 sentry.prod.mozaws.net
@@ -4614,6 +4662,7 @@ sinaimg.cn
 sinch.com
 sink.gameloft.com
 sintexipsolution.com
+sip.pcapredict.com
 sip-service.therealpbx.co.uk
 siri-cdn.appadvice.com
 sis.jpush.io
@@ -4646,6 +4695,7 @@ sm.ms
 s.mobsrvapi.com
 smokey.lordofthequietbadgers.com
 sms.webadv.co
+smtp.bestappsale.com
 smtp.gadsme.com
 snackvideo.com
 snapchat.com
@@ -4682,6 +4732,7 @@ source2.boomplaymusic.com
 source3.boomplaymusic.com
 source.boomplaymusic.com
 source.servicewebly.com
+sourceslabs.com
 sp-497f6f2f.honzik.avcdn.net
 sp-607ddbd2.honzik.avcdn.net
 sp-766ec786.apkrep.avcdn.net
@@ -4751,6 +4802,7 @@ start1password.com
 startechnews.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
+stat.360safe.com
 statcounter.com
 statcounter.io
 static-02.veve.com
@@ -4903,6 +4955,7 @@ superbig77.org
 superbig77.xyz
 supercell.com
 supercell.helpshift.com
+supercent.io
 superpowered.com
 supersonicads.com
 supl.qxwz.com
@@ -4919,6 +4972,7 @@ supremocontrol.com
 supremofree.com
 surfing-waves.com
 survey.bignox.com
+survey.g.doubleclick.net
 surveys-static.survicate.com
 survey.survicate.com
 survicate.com
@@ -5103,6 +5157,7 @@ tmdb.org
 tmge.alicdn.com
 tmp.cnam3.com
 tms-api.shalltry.com
+tm.tobeno1pinjam.com
 tns-counter.ru
 tokens.playmakerservices.com
 tokentax.co
@@ -5124,6 +5179,7 @@ topmongo.com
 toptradeguru.com
 tor-browser.io
 torbrowser.io
+torproect.org
 toshiba6415.zendesk.com
 toto.zipoapps.com
 touchpal.com
@@ -5162,6 +5218,7 @@ translations.smartsuppcdn.com
 transsion.com
 transsion-miniapp-android-cdn.oss-eu-central-1.aliyuncs.com
 transsnet.com
+tra.translatemoneykilat.com
 travel.rakuten.com
 tr.bignox.com
 trclips.com
@@ -5184,6 +5241,7 @@ ts.qq.com
 tubesex.uno
 tubia.com
 tui.bignox.com
+tunaikilat.com
 tunnel.googlezip.net
 tuplgpub.bangcdn.net
 tuplogpublic.bangcdn.net
@@ -5303,6 +5361,7 @@ update.whatsaero.com
 update.zxnis.com
 upgrade.shalltry.com
 upload-dianshi-1255598498.file.myqcloud.com
+uploads.pcapredict.com
 upoint.id
 upos-bstar1-mirrorakam.akamaized.net
 upos-sz-mirrorcosbstar1.bilivideo.com
@@ -5420,6 +5479,7 @@ visage-design-system.prod.merch.vpsvc.com
 visionplus.analytics.mncdigital.id
 visitsme.uno
 visteme.mx
+visualstudiofactory.com
 visualwebsiteoptimizer.com
 vitals.vercel-insights.com
 viva99.com
@@ -5478,6 +5538,7 @@ vur.fyi
 vv9.link
 vyn.fyi
 v.youku.com
+w.360safe.com
 wa.co
 wagomu.b-cdn.net
 wagomu.id
@@ -5663,6 +5724,7 @@ ww2.leatonm.net
 ww2.ms672812254.site
 ww38.h2svr.info
 ww38.qfind.net
+ww38.torproect.org
 ww44.affinity.net
 ww4.affinity.net
 ww55.affinity.net
@@ -5713,6 +5775,7 @@ www32.nathanaeldan.pro
 www33.nathanaeldan.pro
 www34.nathanaeldan.pro
 www35.nathanaeldan.pro
+www.360safe.com
 www36.nathanaeldan.pro
 www37.nathanaeldan.pro
 www38.nathanaeldan.pro
@@ -5795,6 +5858,7 @@ www98.nathanaeldan.pro
 www99.nathanaeldan.pro
 www.9apps.com
 www9.nathanaeldan.pro
+www.abadidana.com
 www.adapex.io
 www.adclound.com
 www.addtoany.com
@@ -5836,6 +5900,7 @@ www.baidu.com
 www.baidu.com.cn
 www.beacons.ai
 www.belnderr3d.org
+www.bestappsale.com
 www.bestwordgame.com
 www.bhelps.info
 www.bhproxies.com
@@ -5883,6 +5948,7 @@ www.creditkarma.com
 www.creditverify.ca
 www.creemo.pl
 www.cucloud.cn
+www.danabaguslah.com
 www.data.ai
 www.datadataxyz.com
 www.datamation.com
@@ -5961,6 +6027,7 @@ www.infosensasional.com
 www.ingaa.xyz
 www.internet.apps.samsung.com
 www.intuit.com
+www.ipchina163.com
 www.ironsrc.com
 www.is.com
 www.iseepassword.com
@@ -6033,6 +6100,7 @@ www.orderonline.id
 www.palmpal.net
 www.palmpay.com
 www.pasangiklan.com
+www.pcapredict.com
 www.pdl.id
 www.pfmverify.ca
 www.phelp.pro
@@ -6128,6 +6196,7 @@ www.superbig77.online
 www.superbig77.org
 www.superbig77.xyz
 www.supercell.com
+www.supercent.io
 www.supremocontrol.com
 www.supremofree.com
 www.t5.ai
@@ -6160,6 +6229,7 @@ www.toutiao.com
 www.transsnet.com
 www.triosgaming.com
 www.tslaway.net
+www.tunaikilat.com
 www.turbotax.com
 www.turingfraud.net
 www.twilio.com
@@ -6463,6 +6533,7 @@ yun.tim.qq.com
 z4r342.ep2n0y.com
 z4y.pl
 z5iqil.xjwi5.com
+zacharryblogs.com
 zadn.vn
 zaizai.yun-app.net
 zaloapp.com
