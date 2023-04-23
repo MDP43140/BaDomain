@@ -5,4 +5,4 @@
 #
 
 # Should generally match something like "127.0.0.1 " or "0.0.0.0 "
-sed 's/^[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}\ //gi' $1_hosts.txt > $1.tx
+sed -E 's/^[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\ //gi' $1_hosts.txt > $1.tx
