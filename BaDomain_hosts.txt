@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 18.04.2023
+# Version: 05.05.2023
 # Update: 1 day
 #
 
@@ -304,6 +304,7 @@
 0.0.0.0 adscontrol.xyz
 0.0.0.0 ad-score.com
 0.0.0.0 adsensecamp.com
+0.0.0.0 adserver.kl-youniverse.com
 0.0.0.0 adservice.google.co.id
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.gadsme.com
@@ -895,6 +896,7 @@
 0.0.0.0 attitude.applinzi.com
 0.0.0.0 atu-server.herokuapp.com
 0.0.0.0 auction-banner.unityads.unity3d.com
+0.0.0.0 auction-load-tpsc.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audacitey.org
 0.0.0.0 audaecity.org
@@ -932,6 +934,7 @@
 0.0.0.0 avlsec.com
 0.0.0.0 avlsec.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 a.wattpad.com
+0.0.0.0 awebtoon.phinf.naver.net
 0.0.0.0 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 0.0.0.0 aws-api.kibads.com
 0.0.0.0 aws.api.snapchat.com
@@ -944,6 +947,7 @@
 0.0.0.0 axiata-lk-43c53a330e9-he.fortumo.io
 0.0.0.0 b1.nel.goog
 0.0.0.0 b2.mail.ru
+0.0.0.0 b6e881dd-dnsotls-ds.metric.gstatic.com
 0.0.0.0 b6s-api.snow.me
 0.0.0.0 b.6sc.co
 0.0.0.0 b6s-static.snow.me
@@ -1865,6 +1869,7 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 down-aka-id.img.susercontent.com
 0.0.0.0 down.anticheatexpert.com
+0.0.0.0 down-id.img.susercontent.com
 0.0.0.0 download.alicdn.com
 0.0.0.0 download.anydesk.com
 0.0.0.0 download-api.palmplaystore.com
@@ -1880,6 +1885,7 @@
 0.0.0.0 downloads.pcapredict.com
 0.0.0.0 download.wavebrowser.co
 0.0.0.0 downstairst.store
+0.0.0.0 down-ws-id.img.susercontent.com
 0.0.0.0 dpdwnl.my-free.website
 0.0.0.0 draper.popcap.com
 0.0.0.0 dreamdata.cloud
@@ -3388,6 +3394,7 @@
 0.0.0.0 momentive.ai
 0.0.0.0 momgen.best
 0.0.0.0 monetizer.com
+0.0.0.0 moneytube.pro
 0.0.0.0 monkeyibrowstudios.com
 0.0.0.0 montok.wapsite.info
 0.0.0.0 mookie1.com
@@ -4236,6 +4243,7 @@
 0.0.0.0 rbtasset.com
 0.0.0.0 rbux88.com
 0.0.0.0 rbxton.online
+0.0.0.0 rcc-software.com
 0.0.0.0 r.clarity.ms
 0.0.0.0 rcmjs.rambler.ru
 0.0.0.0 rc.samsungweather.com
@@ -4818,6 +4826,7 @@
 0.0.0.0 static.ahagamecenter.com
 0.0.0.0 static.apester.com
 0.0.0.0 static.api.baca.co.id
+0.0.0.0 static.api.community.baca.co.id
 0.0.0.0 static.cdn.prismic.io
 0.0.0.0 static-cms.aa-cdn.net
 0.0.0.0 static.dable.io
@@ -5165,6 +5174,7 @@
 0.0.0.0 tonrino.info
 0.0.0.0 toolbox.com
 0.0.0.0 tools.refokus.com
+0.0.0.0 toomics.com
 0.0.0.0 tooncoin.com
 0.0.0.0 toonme-com-cdn.ws.pho.to
 0.0.0.0 top100.ru
@@ -6032,6 +6042,7 @@
 0.0.0.0 www.is.com
 0.0.0.0 www.iseepassword.com
 0.0.0.0 www.istarapps.com
+0.0.0.0 www.izatcloud.net
 0.0.0.0 www.izooto.com
 0.0.0.0 www.javwall.net
 0.0.0.0 www.jd.com
@@ -6076,6 +6087,7 @@
 0.0.0.0 www.mob.com
 0.0.0.0 www.mobfox.com
 0.0.0.0 www.mobvista.com
+0.0.0.0 www.moneytube.pro
 0.0.0.0 www.monkeyibrowstudios.com
 0.0.0.0 www.ms672812254.site
 0.0.0.0 www.mvpconsultant.us

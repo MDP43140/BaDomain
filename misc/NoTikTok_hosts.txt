@@ -3417,6 +3417,7 @@
 0.0.0.0 tms.bytedance.net
 0.0.0.0 tnc16-alisg.byteoversea.com
 0.0.0.0 tnc16-alisg.tiktokv.com
+0.0.0.0 tnc16-my.isnssdk.com
 0.0.0.0 tnc16-platform-alisg.tiktokv.com
 0.0.0.0 tnc16-platform-useast1a.tiktokv.com
 0.0.0.0 tnc16-useast1a.byteoversea.com

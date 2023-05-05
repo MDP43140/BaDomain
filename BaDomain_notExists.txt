@@ -21,6 +21,8 @@
 55bie1v.50zo.com
 61kx.uk-insolvencydirect.com
 655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+666palm.com
+777palm.com
 87f2b771-b56e-407e-bc49-30d521c09b95.is-doh.help.every1dns.net
 943.engine.mobileapptracking.com
 95-217-35-153.serverhub.ru
@@ -31,6 +33,8 @@ a05.uadexchange.com
 a1.applovin.com
 a2.applovin.com
 a3.applovin.com
+a.85656294e75e19a70450f62acbcbe68420fd28c93647ac9ddc797a0c.com
+aa-cj.com
 aadg.akadns.net
 a.ak.prd.aadg.trafficmanager.net
 aaplimg.com
@@ -140,6 +144,8 @@ beian.gov.cn
 best-datingclub.life
 bidr.io
 bigmir.space
+bingapi.com
+bingapis.com
 biz.itc.cn
 bk01.hh.xiaomi.com
 bksdksp.wetvinfo.com
@@ -286,6 +292,7 @@ extremescoffee.com
 ezoiccdn.com
 fe05.lg.xiaomi.com
 feed1.yukbacaberita.com
+fff-ttt.com
 filesusr.com
 file.xmpush.xiaomi.com
 fineboost.com
@@ -488,6 +495,7 @@ m.mobilesearchers.com
 mobile.bignox.com
 mobiletime.net
 mobile.webvisor.com
+moneylandry.com
 morungato.space
 mozaws.net
 mozgcp.net

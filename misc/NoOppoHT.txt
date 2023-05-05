@@ -168,6 +168,7 @@ ifota.coloros.com
 ifrus.coloros.com
 ifsau.coloros.com
 if-sg.browser.oppomobile.com
+if-sg.magzine.oppomobile.com
 igslb.cdo.oppomobile.com
 i-in.browser.heytapmobile.com
 i.instant.oppomobile.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 18.04.2023
+# Version: 05.05.2023
 # Update: 1 day
 #
 
@@ -304,6 +304,7 @@ adsbynimbus.com
 adscontrol.xyz
 ad-score.com
 adsensecamp.com
+adserver.kl-youniverse.com
 adservice.google.co.id
 ads.flurry.com
 ads.gadsme.com
@@ -895,6 +896,7 @@ attention-system-warning.com
 attitude.applinzi.com
 atu-server.herokuapp.com
 auction-banner.unityads.unity3d.com
+auction-load-tpsc.unityads.unity3d.com
 auction.unityads.unity3d.com
 audacitey.org
 audaecity.org
@@ -932,6 +934,7 @@ a.vdo.ai
 avlsec.com
 avlsec.oss-cn-hangzhou.aliyuncs.com
 a.wattpad.com
+awebtoon.phinf.naver.net
 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 aws-api.kibads.com
 aws.api.snapchat.com
@@ -944,6 +947,7 @@ awxcdn.com
 axiata-lk-43c53a330e9-he.fortumo.io
 b1.nel.goog
 b2.mail.ru
+b6e881dd-dnsotls-ds.metric.gstatic.com
 b6s-api.snow.me
 b.6sc.co
 b6s-static.snow.me
@@ -1865,6 +1869,7 @@ dotmetrics.net
 doubleclick.net
 down-aka-id.img.susercontent.com
 down.anticheatexpert.com
+down-id.img.susercontent.com
 download.alicdn.com
 download.anydesk.com
 download-api.palmplaystore.com
@@ -1880,6 +1885,7 @@ downloads.mailchimp.com
 downloads.pcapredict.com
 download.wavebrowser.co
 downstairst.store
+down-ws-id.img.susercontent.com
 dpdwnl.my-free.website
 draper.popcap.com
 dreamdata.cloud
@@ -3388,6 +3394,7 @@ moengage.com
 momentive.ai
 momgen.best
 monetizer.com
+moneytube.pro
 monkeyibrowstudios.com
 montok.wapsite.info
 mookie1.com
@@ -4236,6 +4243,7 @@ rayjump.com
 rbtasset.com
 rbux88.com
 rbxton.online
+rcc-software.com
 r.clarity.ms
 rcmjs.rambler.ru
 rc.samsungweather.com
@@ -4818,6 +4826,7 @@ static.ads-twitter.com
 static.ahagamecenter.com
 static.apester.com
 static.api.baca.co.id
+static.api.community.baca.co.id
 static.cdn.prismic.io
 static-cms.aa-cdn.net
 static.dable.io
@@ -5165,6 +5174,7 @@ tongdun.net
 tonrino.info
 toolbox.com
 tools.refokus.com
+toomics.com
 tooncoin.com
 toonme-com-cdn.ws.pho.to
 top100.ru
@@ -6032,6 +6042,7 @@ www.ironsrc.com
 www.is.com
 www.iseepassword.com
 www.istarapps.com
+www.izatcloud.net
 www.izooto.com
 www.javwall.net
 www.jd.com
@@ -6076,6 +6087,7 @@ www.mintexoticshift.com
 www.mob.com
 www.mobfox.com
 www.mobvista.com
+www.moneytube.pro
 www.monkeyibrowstudios.com
 www.ms672812254.site
 www.mvpconsultant.us

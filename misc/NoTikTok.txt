@@ -3417,6 +3417,7 @@ tms3.pstatp.com.w.kunlunle.com
 tms.bytedance.net
 tnc16-alisg.byteoversea.com
 tnc16-alisg.tiktokv.com
+tnc16-my.isnssdk.com
 tnc16-platform-alisg.tiktokv.com
 tnc16-platform-useast1a.tiktokv.com
 tnc16-useast1a.byteoversea.com

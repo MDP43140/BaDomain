@@ -168,6 +168,7 @@
 0.0.0.0 ifrus.coloros.com
 0.0.0.0 ifsau.coloros.com
 0.0.0.0 if-sg.browser.oppomobile.com
+0.0.0.0 if-sg.magzine.oppomobile.com
 0.0.0.0 igslb.cdo.oppomobile.com
 0.0.0.0 i-in.browser.heytapmobile.com
 0.0.0.0 i.instant.oppomobile.com
