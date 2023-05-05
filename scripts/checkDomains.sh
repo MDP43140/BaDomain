@@ -46,12 +46,18 @@ for i in $DOMAIN_LISTS;do
 	elif echo "$result" | grep -q 'trustpositifkominfo\|blockpage\|aduankonten\|blockpage\.xl\.co\.id\|aduankonten\.mail\.kominfo\.go\.id';then
 		echo -e "\r[!] $i censored by government\e[0K"
 		echo $i >> "$LOG_EXISTS_FILE"
-	elif ! echo "$result" | grep -q 'ANSWER: 0';then
-		echo -e "\r[+] $i exists\e[0K"
-		echo $i >> "$LOG_EXISTS_FILE"
 	elif echo "$result" | grep -q ', status: SERVFAIL';then
 		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
+	elif echo "$result" | grep -q ';; no servers could be reached';then
+		echo -e "\r[!] Server unable to query $i\e[0K"
+		echo $i >> "$LOG_SERVFAIL_FILE"
+	elif echo "$result" | grep -q ';; communications error to ';then
+		echo -e "\r[!] Server unable to query $i\e[0K"
+		echo $i >> "$LOG_SERVFAIL_FILE"
+	elif ! echo "$result" | grep -q 'ANSWER: 0';then
+		echo -e "\r[+] $i exists\e[0K"
+		echo $i >> "$LOG_EXISTS_FILE"
 	else
 		echo -e "\r[-] $i not exist\e[0K"
 		echo $i >> "$LOG_NONE_FILE"
