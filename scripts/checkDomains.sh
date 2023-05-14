@@ -23,8 +23,8 @@ DOMAIN_LISTS=`sed '/^#/d' $INPUT_FILE | sed -r '/^(\b25[0-5]|\b2[0-4][0-9]|\b[01
 
 # Count total domains
 # Sometimes, DOMAIN_LISTS might be separated by spaces and will return 1 as a count if running wc-l. in that case, rerun wc-w (this will count per space instead of per newline)
-TOTAL_DOMAINS=`echo $DOMAIN_LISTS | wc -l`
-[ "$TOTAL_DOMAINS" -le 1 ] && TOTAL_DOMAINS=`echo $DOMAIN_LISTS | wc -w`
+TOTAL_DOMAINS=`wc -l <<< "$DOMAIN_LISTS"`
+[ "$TOTAL_DOMAINS" -le 1 ] && TOTAL_DOMAINS=`wc -w <<< "$DOMAIN_LISTS"`
 
 # this script is able to work with stdin (./checkDomains.sh << EOF google.com youtube.com EOF), but there might be a bit of problems afaik
 [ "$INPUT_FILE" = '' -a "$DOMAIN_LISTS" != '' ] && echo "[!] Looks like you're using stdin, please note that this might be little bit unstable"
