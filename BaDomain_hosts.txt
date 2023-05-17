@@ -5417,6 +5417,7 @@
 0.0.0.0 us.api.fc.mob.com
 0.0.0.0 us.api.fd.mob.com
 0.0.0.0 us-api.mcsvc.samsung.com
+0.0.0.0 us-api.rewards.svc.samsung.com
 0.0.0.0 us.api.share.mob.com
 0.0.0.0 us-auth2.samsungosp.com
 0.0.0.0 usaux11.contivio.com

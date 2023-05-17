@@ -5417,6 +5417,7 @@ us.alibabacloud.com
 us.api.fc.mob.com
 us.api.fd.mob.com
 us-api.mcsvc.samsung.com
+us-api.rewards.svc.samsung.com
 us.api.share.mob.com
 us-auth2.samsungosp.com
 usaux11.contivio.com
