@@ -2302,6 +2302,7 @@
 0.0.0.0 lv-lv.facebook.com
 0.0.0.0 m2.facebook.com
 0.0.0.0 mahindra.m.facebook.com
+0.0.0.0 mapiliary.com
 0.0.0.0 maps.instagram.com
 0.0.0.0 marriott.facebook.com
 0.0.0.0 mbasic.facebook.com
@@ -4315,6 +4316,7 @@
 0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.instagram.com
 0.0.0.0 www.login.facebook.com
+0.0.0.0 www.mapiliary.com
 0.0.0.0 www.prod.facebook.com
 0.0.0.0 www.s-static.ak.facebook.com
 0.0.0.0 www.static.ak.connect.facebook.com

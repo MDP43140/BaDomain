@@ -164,6 +164,7 @@
 0.0.0.0 iflowf-sg.browser.oppomobile.com
 0.0.0.0 iflow-in.browser.heytapmobile.com
 0.0.0.0 iflow-sg.browser.heytapmobile.com
+0.0.0.0 iflow-th.browser.oppomobile.com
 0.0.0.0 ifota.coloros.com
 0.0.0.0 ifrus.coloros.com
 0.0.0.0 ifsau.coloros.com
@@ -174,10 +175,12 @@
 0.0.0.0 i.instant.oppomobile.com
 0.0.0.0 ilockcardf.apps.coloros.com
 0.0.0.0 i.magazine.heytapmobi.com
+0.0.0.0 i.magzine.oppomobile.com
 0.0.0.0 img-intl-push.heytapimg.com
 0.0.0.0 img-music.heytapimage.com
 0.0.0.0 incdopic.heytapimg.com
 0.0.0.0 intlapi.cdo.oppomobile.com
+0.0.0.0 iopen.cdo.oppomobile.com
 0.0.0.0 i.ota.coloros.com
 0.0.0.0 i.ota.foreign.coloros.com
 0.0.0.0 irus.coloros.com
@@ -186,6 +189,7 @@
 0.0.0.0 i.sau.foreign.coloros.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 i-sg.browser.heytapmobile.com
+0.0.0.0 i-th.browser.oppomobile.com
 0.0.0.0 iweather.oppomobile.com
 0.0.0.0 lang-f.coloros.com
 0.0.0.0 languagef.coloros.com
@@ -275,6 +279,7 @@
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 u-in.browser.oppomobile.com
 0.0.0.0 u-in.cpc.heytapmobile.com
+0.0.0.0 u-th.browser.oppomobile.com
 0.0.0.0 videoclipf.apps.coloros.com
 0.0.0.0 videoeditor-sg.soloop.heytapmobile.com
 0.0.0.0 vip-client.heytapmobi.com

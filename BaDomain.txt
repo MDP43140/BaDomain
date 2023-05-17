@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 05.05.2023
+# Version: 17.05.2023
 # Update: 1 day
 #
 
@@ -209,6 +209,7 @@ a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+a.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 aacdn.nagich.com
@@ -383,6 +384,7 @@ akcdn.bangcdn.net
 akimg.icocofun.com
 ak.itlatiaser.com
 ak.mangatoon.akamaized.net
+ak.sail-horizon.com
 aksconsulting.us
 ak-sgp-pic.snackvideo.in
 aktup.bangcdn.net
@@ -409,6 +411,7 @@ aliyuncs.com
 aliyun-inc.com
 all.cnzz.com
 all.cnzz.com.danuoyi.tbcache.com
+allhypefeed.com
 allmipa.com
 allsupport.me
 alms.demo.ckg.hk
@@ -566,6 +569,7 @@ api.coin.baca.co.id
 api.consumer-surveys.us
 api.cupid.ptqy.gitv.tv
 api.data.appsinnova.com
+api.data.mgtv.com
 api.datasteam.io
 api-dci.kinemasters.com
 api.dcp.vpdcp.com
@@ -776,6 +780,7 @@ app.chaport.com
 appcloud.mcafee.com
 app.cove.chat
 app.driftt.com
+apperr.log.mgtv.com
 appevent.cookappsgames.com
 app.happymodapp.com
 app.happymod.com
@@ -799,6 +804,7 @@ appodealstack.com
 app.overloop.com
 app.pou.me
 app.pushbrothers.com
+apps2.outfit7.com
 apps.canva-apps.com
 app.securiti.ai
 appsflyer.com
@@ -1125,6 +1131,7 @@ bugsnag.com
 buhatfjrk9dje10eme.com
 buildit-api.zepeto.me
 bunnygirlss.site
+buttons-config.sharethis.com
 buxadder.club
 buymultivoltz.com
 buy.qcloudimg.com
@@ -1412,6 +1419,7 @@ chuanke.com
 churnzero.net
 cibntv.net
 cicd-release-api.wshareit.com
+cieooupva.com
 ci.line-apps.com
 circuitmakati.com
 cix.line-apps.com
@@ -1584,6 +1592,7 @@ counter.yadro.ru
 countly2.feelingtouch.com
 country-blocker.zend-apps.com
 country-ID-1.mini5.opera-mini.net
+count-server.sharethis.com
 coupon-code.4wps.net
 cove-cdn.ams3.cdn.digitaloceanspaces.com
 cove.chat
@@ -1976,6 +1985,7 @@ embed.lpcontent.net
 embed.tawk.to
 embedwistia-a.akamaihd.net
 e.metarouter.io
+empower-api.pa1mstore.com
 empower-api.palmplaystore.com
 empower-api.palmst0re.com
 empru.online
@@ -2350,6 +2360,7 @@ godaddy.com
 go.eportalmobile.com
 go.imgsmail.ru
 gomo.com
+gomovies.sx
 goodtech.cetxlabs.com
 googleadservices.com
 google.ae
@@ -2672,6 +2683,7 @@ img.fview.cn
 img.fview.cn.m.alikunlun.net
 img.gamescdn.top
 img.go2s.co
+img.gomovies.sx
 imgg.traffic-media.co
 img-hw.xnxx-cdn.com
 img-hw.xvideos-cdn.com
@@ -2688,6 +2700,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img.pushycat.net
 imgres.apkssr.com
 imgs-ac.alipay.com
+img.safesufring.xyz
 img.samsungapps.com
 img.scooper.news
 imgsmail.ru
@@ -2711,6 +2724,7 @@ imptrk.siteplug.com
 impulse.contextads.live
 impulse.forkcdn.com
 in.4sync.com
+in.appcenter.ms
 inapps.appsflyersdk.com
 in.bignox.com
 inbox.clashofclans.com
@@ -2750,6 +2764,7 @@ insent.ai
 i-n.sgsnssdk.com
 ins.hastopic.com
 in.shengboglobal.com
+inshotapp.com
 inshot.cc
 inshot.dev
 insidecrm.com
@@ -2849,6 +2864,7 @@ jetengine.it
 jfapiprod.optimonk.com
 jifo.co
 jira.supercell.com
+jirtesee.net
 jixie.io
 jktmike.livejournal.com
 jmacs-m.lazada.co.id
@@ -3372,6 +3388,7 @@ mmstat.com
 mmtro.com
 moatads.com
 mobadvent.com
+mobcloud.1-saku.com
 mob.com
 mobfox.com
 mobile-ap.spotify.com
@@ -3405,6 +3422,7 @@ mothima.com
 motogp.api.weplay.media
 mp3.zing.vn
 mp-comm-db-3.firebaseio.com
+mpd-designs.com
 mpraven.org
 mps.nbcuni.com
 mp.toutiao.com
@@ -3719,6 +3737,7 @@ occ-0-6346-64.1.nflxso.net
 ocra.api.sinch.com
 ocsp2.g.aaplimg.com
 ocw.messagebird.com
+odsun.log.mgtv.com
 oemapi.kika-backend.com
 oem-api.palmplaystore.com
 oem.kika-backend.com
@@ -3823,6 +3842,7 @@ othstr.beacon.qq.com
 oth.str.mdt.qq.com
 otm-r.com
 otnolatrnup.com
+ounion.api.mgtv.com
 ourhotposts.com
 outbrain.com
 outbyte.com
@@ -3837,6 +3857,7 @@ ovv.video.qq.com
 ovz1.j19544519.pr46m.vps.myjino.ru
 owap.bar
 owssupport.zendesk.com
+oxnet.da.mgtv.com
 oxy.cloud
 oxygendct.com
 oxy.host
@@ -4031,6 +4052,8 @@ placements.tapjoy.com
 plainbagel.notion.site
 plassets.ws.pho.to
 plat-api.bignox.com
+platform-api.sharethis.com
+platform-cdn.sharethis.com
 platform-lookaside.fbsbx.com
 plausible.chmod777.ltd
 playable.mintegral.com
@@ -4563,6 +4586,7 @@ se-new-cdn-ap-northeast-2a-hb.rayjump.com
 se-new-cdn-ap-northeast-2c-hb.rayjump.com
 senin.live
 sensors.cloud.tencent.com
+sentry.androidacy.com
 sentry.boomplaymusic.com
 sentry.ff.avast.com
 sentry.io
@@ -4579,6 +4603,7 @@ service.force.com
 service.pokigame.io
 services.ludokingapi.com
 services.prod.ims.adobejanus.com
+sessions.bugsnag.com
 settings.atomhike-en.com
 settings.kiwibrowser.com
 settings.picsart.com
@@ -5308,6 +5333,7 @@ uc-6.telemetry.eyeo.com
 uc-7.telemetry.eyeo.com
 uc-8.telemetry.eyeo.com
 uc-9.telemetry.eyeo.com
+uc9.ucweb.com
 ucarecdn.com
 uc.cn
 ucweb.com
@@ -5417,6 +5443,7 @@ u.startup.mobile.webvisor.com
 us.tk0x1.com
 us.urmyromance.com
 us.ynuf.aliapp.org
+u.uc123.com
 uuitwxg.com
 uzone.id
 v16.resso.app
@@ -6044,6 +6071,7 @@ www.iseepassword.com
 www.istarapps.com
 www.izatcloud.net
 www.izooto.com
+www.java303.homes
 www.javwall.net
 www.jd.com
 www.jojoy.io
@@ -6089,6 +6117,7 @@ www.mobfox.com
 www.mobvista.com
 www.moneytube.pro
 www.monkeyibrowstudios.com
+www.mpd-designs.com
 www.ms672812254.site
 www.mvpconsultant.us
 www.mxbc.com
@@ -6131,6 +6160,7 @@ www.qfind.net
 www.qq.com
 www.quad-air.com
 www.quadairdrone.com
+www.qualcomm.cn
 www.quickgosearch.com
 www.quiztest.me
 www.quzizz.com
@@ -6239,6 +6269,7 @@ www.touchpal.com
 www.touchremix.com
 www.toutiao.com
 www.transsnet.com
+www.trikslotjp.com
 www.triosgaming.com
 www.tslaway.net
 www.tunaikilat.com
@@ -6417,6 +6448,7 @@ x-apac.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+x-apac.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 x-apac.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 x-apac.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 x-apac.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
@@ -6439,6 +6471,7 @@ x-eu.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+x-eu.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 x-eu.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 x-eu.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 x-eu.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
@@ -6462,6 +6495,7 @@ xlaxiata-resources.digital-cloud-sin1.medallia.com
 xlaxiata-udc.digital-cloud-sin1.medallia.com
 xlgmedia.com
 xml.opera.com
+xnet.da.mgtv.com
 xnimg.cn
 xn--rtptrislt-d7a4a.com
 xnxx.com
@@ -6495,6 +6529,7 @@ x-us.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 x-us.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-us.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 x-us.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+x-us.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 x-us.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 x-us.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 x-us.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
@@ -6595,5 +6630,6 @@ zte.com
 zte.com.cn
 zueirassemlimites.com
 zuiqiangyingyu.net
+zx.da.mgtv.com
 zz7th50a77h64sa8.aliyunddos0010.com
 zz.bdstatic.com

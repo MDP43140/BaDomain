@@ -2301,6 +2301,7 @@ lookaside.facebook.com
 lv-lv.facebook.com
 m2.facebook.com
 mahindra.m.facebook.com
+mapiliary.com
 maps.instagram.com
 marriott.facebook.com
 mbasic.facebook.com
@@ -4305,6 +4306,7 @@ www.fbcdn.net
 www.graph.facebook.com
 www.instagram.com
 www.login.facebook.com
+www.mapiliary.com
 www.prod.facebook.com
 www.s-static.ak.facebook.com
 www.static.ak.connect.facebook.com

@@ -1,7 +1,7 @@
 #
 # This is the fork of llabc's TikTok Block, with MORE domains to block.
 # Use this list to totally block access to
-# any bytedance products (including TikTok, CapCut, Pangle, etc...) on your network.
+# any bytedance products (including TikTok, CapCut, Pangle, Lemon8 (partial, because this was new), etc...) on your network.
 #
 # I recommend using this with DanHorton's TikTok blocklist:
 # https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt
@@ -1087,6 +1087,7 @@
 0.0.0.0 frontier15-normal-alisg.tiktokv.com
 0.0.0.0 frontier15-normal-useast2a.tiktokv.com
 0.0.0.0 frontier16-normal-alisg.tiktokv.com
+0.0.0.0 frontier16-normal-useast1a.tiktokv.com
 0.0.0.0 frontier16-normal-useast2a.tiktokv.com
 0.0.0.0 frontier22-normal-alisg.tiktokv.com
 0.0.0.0 frontier22-normal-useast2a.tiktokv.com
@@ -2080,6 +2081,7 @@
 0.0.0.0 p16-capcut-sign-sg.ibyteimg.com
 0.0.0.0 p16-capcut-va.ibyteimg.com
 0.0.0.0 p16-capcut-va.ibyteimg.com.edgesuite.net
+0.0.0.0 p16-catalog-sg.ibyteimg.com
 0.0.0.0 p16-cg-gaudit.ibyteimg.com
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
 0.0.0.0 p16hypstarcdn-a.akamaihd.net.edgesuite.net
@@ -2181,6 +2183,7 @@
 0.0.0.0 p19-adformat-sg.ibyteimg.com
 0.0.0.0 p19-capcut-sg.ibyteimg.com
 0.0.0.0 p19-capcut-va.ibyteimg.com
+0.0.0.0 p19-catalog-sg.ibyteimg.com
 0.0.0.0 p19.hypstarcdn.com
 0.0.0.0 p-19-oec-sg.ibyteimg.com
 0.0.0.0 p19-oec-sg.ibyteimg.com
@@ -3068,6 +3071,7 @@
 0.0.0.0 sf16-draftcdn-sg.ibytedtos.com
 0.0.0.0 sf16-eacdn-tos.pstatp.com
 0.0.0.0 sf16-fe-tos-sg.i18n-pglstatp.com
+0.0.0.0 sf16-geckocdn.tiktokcdn.com
 0.0.0.0 sf16-ies-music-sg.tiktokcdn.com
 0.0.0.0 sf16-ies-music.tiktokcdn.com
 0.0.0.0 sf16-lark-va.ibytedtos.com
@@ -3111,6 +3115,7 @@
 0.0.0.0 sf16-webcast-useast1a.muscdn.com.edgesuite.net
 0.0.0.0 sf16-webcast-useast2a.muscdn.com
 0.0.0.0 sf16-webcast-useast2a.muscdn.com.edgesuite.net
+0.0.0.0 sf19-geckocdn.tiktokcdn.com
 0.0.0.0 sf19-scmcdn-sg.ibytedtos.com
 0.0.0.0 sf19-scmcdn-va.ibytedtos.com
 0.0.0.0 sf19-va.tiktokcdn.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 05.05.2023
+# Version: 17.05.2023
 # Update: 1 day
 #
 
@@ -209,6 +209,7 @@
 0.0.0.0 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 0.0.0.0 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 0.0.0.0 a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+0.0.0.0 a.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 0.0.0.0 a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 0.0.0.0 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 0.0.0.0 aacdn.nagich.com
@@ -383,6 +384,7 @@
 0.0.0.0 akimg.icocofun.com
 0.0.0.0 ak.itlatiaser.com
 0.0.0.0 ak.mangatoon.akamaized.net
+0.0.0.0 ak.sail-horizon.com
 0.0.0.0 aksconsulting.us
 0.0.0.0 ak-sgp-pic.snackvideo.in
 0.0.0.0 aktup.bangcdn.net
@@ -409,6 +411,7 @@
 0.0.0.0 aliyun-inc.com
 0.0.0.0 all.cnzz.com
 0.0.0.0 all.cnzz.com.danuoyi.tbcache.com
+0.0.0.0 allhypefeed.com
 0.0.0.0 allmipa.com
 0.0.0.0 allsupport.me
 0.0.0.0 alms.demo.ckg.hk
@@ -566,6 +569,7 @@
 0.0.0.0 api.consumer-surveys.us
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 api.data.appsinnova.com
+0.0.0.0 api.data.mgtv.com
 0.0.0.0 api.datasteam.io
 0.0.0.0 api-dci.kinemasters.com
 0.0.0.0 api.dcp.vpdcp.com
@@ -776,6 +780,7 @@
 0.0.0.0 appcloud.mcafee.com
 0.0.0.0 app.cove.chat
 0.0.0.0 app.driftt.com
+0.0.0.0 apperr.log.mgtv.com
 0.0.0.0 appevent.cookappsgames.com
 0.0.0.0 app.happymodapp.com
 0.0.0.0 app.happymod.com
@@ -799,6 +804,7 @@
 0.0.0.0 app.overloop.com
 0.0.0.0 app.pou.me
 0.0.0.0 app.pushbrothers.com
+0.0.0.0 apps2.outfit7.com
 0.0.0.0 apps.canva-apps.com
 0.0.0.0 app.securiti.ai
 0.0.0.0 appsflyer.com
@@ -1125,6 +1131,7 @@
 0.0.0.0 buhatfjrk9dje10eme.com
 0.0.0.0 buildit-api.zepeto.me
 0.0.0.0 bunnygirlss.site
+0.0.0.0 buttons-config.sharethis.com
 0.0.0.0 buxadder.club
 0.0.0.0 buymultivoltz.com
 0.0.0.0 buy.qcloudimg.com
@@ -1412,6 +1419,7 @@
 0.0.0.0 churnzero.net
 0.0.0.0 cibntv.net
 0.0.0.0 cicd-release-api.wshareit.com
+0.0.0.0 cieooupva.com
 0.0.0.0 ci.line-apps.com
 0.0.0.0 circuitmakati.com
 0.0.0.0 cix.line-apps.com
@@ -1584,6 +1592,7 @@
 0.0.0.0 countly2.feelingtouch.com
 0.0.0.0 country-blocker.zend-apps.com
 0.0.0.0 country-ID-1.mini5.opera-mini.net
+0.0.0.0 count-server.sharethis.com
 0.0.0.0 coupon-code.4wps.net
 0.0.0.0 cove-cdn.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 cove.chat
@@ -1976,6 +1985,7 @@
 0.0.0.0 embed.tawk.to
 0.0.0.0 embedwistia-a.akamaihd.net
 0.0.0.0 e.metarouter.io
+0.0.0.0 empower-api.pa1mstore.com
 0.0.0.0 empower-api.palmplaystore.com
 0.0.0.0 empower-api.palmst0re.com
 0.0.0.0 empru.online
@@ -2350,6 +2360,7 @@
 0.0.0.0 go.eportalmobile.com
 0.0.0.0 go.imgsmail.ru
 0.0.0.0 gomo.com
+0.0.0.0 gomovies.sx
 0.0.0.0 goodtech.cetxlabs.com
 0.0.0.0 googleadservices.com
 0.0.0.0 google.ae
@@ -2672,6 +2683,7 @@
 0.0.0.0 img.fview.cn.m.alikunlun.net
 0.0.0.0 img.gamescdn.top
 0.0.0.0 img.go2s.co
+0.0.0.0 img.gomovies.sx
 0.0.0.0 imgg.traffic-media.co
 0.0.0.0 img-hw.xnxx-cdn.com
 0.0.0.0 img-hw.xvideos-cdn.com
@@ -2688,6 +2700,7 @@
 0.0.0.0 img.pushycat.net
 0.0.0.0 imgres.apkssr.com
 0.0.0.0 imgs-ac.alipay.com
+0.0.0.0 img.safesufring.xyz
 0.0.0.0 img.samsungapps.com
 0.0.0.0 img.scooper.news
 0.0.0.0 imgsmail.ru
@@ -2711,6 +2724,7 @@
 0.0.0.0 impulse.contextads.live
 0.0.0.0 impulse.forkcdn.com
 0.0.0.0 in.4sync.com
+0.0.0.0 in.appcenter.ms
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 in.bignox.com
 0.0.0.0 inbox.clashofclans.com
@@ -2750,6 +2764,7 @@
 0.0.0.0 i-n.sgsnssdk.com
 0.0.0.0 ins.hastopic.com
 0.0.0.0 in.shengboglobal.com
+0.0.0.0 inshotapp.com
 0.0.0.0 inshot.cc
 0.0.0.0 inshot.dev
 0.0.0.0 insidecrm.com
@@ -2849,6 +2864,7 @@
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jifo.co
 0.0.0.0 jira.supercell.com
+0.0.0.0 jirtesee.net
 0.0.0.0 jixie.io
 0.0.0.0 jktmike.livejournal.com
 0.0.0.0 jmacs-m.lazada.co.id
@@ -3372,6 +3388,7 @@
 0.0.0.0 mmtro.com
 0.0.0.0 moatads.com
 0.0.0.0 mobadvent.com
+0.0.0.0 mobcloud.1-saku.com
 0.0.0.0 mob.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobile-ap.spotify.com
@@ -3405,6 +3422,7 @@
 0.0.0.0 motogp.api.weplay.media
 0.0.0.0 mp3.zing.vn
 0.0.0.0 mp-comm-db-3.firebaseio.com
+0.0.0.0 mpd-designs.com
 0.0.0.0 mpraven.org
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 mp.toutiao.com
@@ -3719,6 +3737,7 @@
 0.0.0.0 ocra.api.sinch.com
 0.0.0.0 ocsp2.g.aaplimg.com
 0.0.0.0 ocw.messagebird.com
+0.0.0.0 odsun.log.mgtv.com
 0.0.0.0 oemapi.kika-backend.com
 0.0.0.0 oem-api.palmplaystore.com
 0.0.0.0 oem.kika-backend.com
@@ -3823,6 +3842,7 @@
 0.0.0.0 oth.str.mdt.qq.com
 0.0.0.0 otm-r.com
 0.0.0.0 otnolatrnup.com
+0.0.0.0 ounion.api.mgtv.com
 0.0.0.0 ourhotposts.com
 0.0.0.0 outbrain.com
 0.0.0.0 outbyte.com
@@ -3837,6 +3857,7 @@
 0.0.0.0 ovz1.j19544519.pr46m.vps.myjino.ru
 0.0.0.0 owap.bar
 0.0.0.0 owssupport.zendesk.com
+0.0.0.0 oxnet.da.mgtv.com
 0.0.0.0 oxy.cloud
 0.0.0.0 oxygendct.com
 0.0.0.0 oxy.host
@@ -4031,6 +4052,8 @@
 0.0.0.0 plainbagel.notion.site
 0.0.0.0 plassets.ws.pho.to
 0.0.0.0 plat-api.bignox.com
+0.0.0.0 platform-api.sharethis.com
+0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 plausible.chmod777.ltd
 0.0.0.0 playable.mintegral.com
@@ -4563,6 +4586,7 @@
 0.0.0.0 se-new-cdn-ap-northeast-2c-hb.rayjump.com
 0.0.0.0 senin.live
 0.0.0.0 sensors.cloud.tencent.com
+0.0.0.0 sentry.androidacy.com
 0.0.0.0 sentry.boomplaymusic.com
 0.0.0.0 sentry.ff.avast.com
 0.0.0.0 sentry.io
@@ -4579,6 +4603,7 @@
 0.0.0.0 service.pokigame.io
 0.0.0.0 services.ludokingapi.com
 0.0.0.0 services.prod.ims.adobejanus.com
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 settings.atomhike-en.com
 0.0.0.0 settings.kiwibrowser.com
 0.0.0.0 settings.picsart.com
@@ -5308,6 +5333,7 @@
 0.0.0.0 uc-7.telemetry.eyeo.com
 0.0.0.0 uc-8.telemetry.eyeo.com
 0.0.0.0 uc-9.telemetry.eyeo.com
+0.0.0.0 uc9.ucweb.com
 0.0.0.0 ucarecdn.com
 0.0.0.0 uc.cn
 0.0.0.0 ucweb.com
@@ -5417,6 +5443,7 @@
 0.0.0.0 us.tk0x1.com
 0.0.0.0 us.urmyromance.com
 0.0.0.0 us.ynuf.aliapp.org
+0.0.0.0 u.uc123.com
 0.0.0.0 uuitwxg.com
 0.0.0.0 uzone.id
 0.0.0.0 v16.resso.app
@@ -6044,6 +6071,7 @@
 0.0.0.0 www.istarapps.com
 0.0.0.0 www.izatcloud.net
 0.0.0.0 www.izooto.com
+0.0.0.0 www.java303.homes
 0.0.0.0 www.javwall.net
 0.0.0.0 www.jd.com
 0.0.0.0 www.jojoy.io
@@ -6089,6 +6117,7 @@
 0.0.0.0 www.mobvista.com
 0.0.0.0 www.moneytube.pro
 0.0.0.0 www.monkeyibrowstudios.com
+0.0.0.0 www.mpd-designs.com
 0.0.0.0 www.ms672812254.site
 0.0.0.0 www.mvpconsultant.us
 0.0.0.0 www.mxbc.com
@@ -6131,6 +6160,7 @@
 0.0.0.0 www.qq.com
 0.0.0.0 www.quad-air.com
 0.0.0.0 www.quadairdrone.com
+0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.quickgosearch.com
 0.0.0.0 www.quiztest.me
 0.0.0.0 www.quzizz.com
@@ -6239,6 +6269,7 @@
 0.0.0.0 www.touchremix.com
 0.0.0.0 www.toutiao.com
 0.0.0.0 www.transsnet.com
+0.0.0.0 www.trikslotjp.com
 0.0.0.0 www.triosgaming.com
 0.0.0.0 www.tslaway.net
 0.0.0.0 www.tunaikilat.com
@@ -6417,6 +6448,7 @@
 0.0.0.0 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 0.0.0.0 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+0.0.0.0 x-apac.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 0.0.0.0 x-apac.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 0.0.0.0 x-apac.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 0.0.0.0 x-apac.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
@@ -6439,6 +6471,7 @@
 0.0.0.0 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 0.0.0.0 x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+0.0.0.0 x-eu.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 0.0.0.0 x-eu.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 0.0.0.0 x-eu.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 0.0.0.0 x-eu.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
@@ -6462,6 +6495,7 @@
 0.0.0.0 xlaxiata-udc.digital-cloud-sin1.medallia.com
 0.0.0.0 xlgmedia.com
 0.0.0.0 xml.opera.com
+0.0.0.0 xnet.da.mgtv.com
 0.0.0.0 xnimg.cn
 0.0.0.0 xn--rtptrislt-d7a4a.com
 0.0.0.0 xnxx.com
@@ -6495,6 +6529,7 @@
 0.0.0.0 x-us.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x-us.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 0.0.0.0 x-us.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
+0.0.0.0 x-us.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 0.0.0.0 x-us.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 0.0.0.0 x-us.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 0.0.0.0 x-us.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
@@ -6595,5 +6630,6 @@
 0.0.0.0 zte.com.cn
 0.0.0.0 zueirassemlimites.com
 0.0.0.0 zuiqiangyingyu.net
+0.0.0.0 zx.da.mgtv.com
 0.0.0.0 zz7th50a77h64sa8.aliyunddos0010.com
 0.0.0.0 zz.bdstatic.com
