@@ -103,6 +103,7 @@
 0.0.0.0 app-site-association.cdn-apple.com
 0.0.0.0 app-site-association.g.aaplimg.com
 0.0.0.0 bag.itunes.apple.com
+0.0.0.0 bag-smoot.v.aaplimg.com
 0.0.0.0 buy.itunes-apple.com.akadns.net
 0.0.0.0 caldav.fe.apple-dns.net
 0.0.0.0 captive.apple.com
@@ -341,6 +342,7 @@
 0.0.0.0 p58-escrowproxy.icloud.com
 0.0.0.0 p59-caldav.icloud.com
 0.0.0.0 p59-escrowproxy.icloud.com
+0.0.0.0 p60-acsegateway.icloud.com
 0.0.0.0 p60-caldav.icloud.com
 0.0.0.0 p60-escrowproxy.icloud.com
 0.0.0.0 p61-caldav.icloud.com

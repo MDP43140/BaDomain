@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.05.2023
+# Version: 30.05.2023
 # Update: 1 day
 #
 
@@ -17,16 +17,20 @@
 1098d38e-dnsotls-ds.metric.gstatic.com
 10gamestop.com
 10.ygti905ffth6.com
+10.zxczj.top
 1111210941.rsc.cdn77.org
 114dns.com
 11.ygti905ffth6.com
+11.zxczj.top
 12377.cn
 123.sogou.com
 126.net
 12.ygti905ffth6.com
+12.zxczj.top
 133fitness.com
 138.com
 13.ygti905ffth6.com
+13.zxczj.top
 14.ygti905ffth6.com
 1558334541.rsc.cdn77.org
 15.ygti905ffth6.com
@@ -51,13 +55,17 @@
 1.ssiloc.com
 1togel.com
 1.ygti905ffth6.com
+1.zxczj.top
 201205igp.gameloft.com
 20824721p.rfihub.com
 20ca2.playfabapi.com
 20.ygti905ffth6.com
+20.zxczj.top
 21cn.com
 21.ygti905ffth6.com
+21.zxczj.top
 22.ygti905ffth6.com
+22.zxczj.top
 232.138.196.35.bc.googleusercontent.com
 23.ygti905ffth6.com
 24.ygti905ffth6.com
@@ -75,6 +83,7 @@
 2tx120.1g5k5w.com
 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
 2.ygti905ffth6.com
+2.zxczj.top
 30.ygti905ffth6.com
 31f1a2c6-dnsotls-ds.metric.gstatic.com
 31.ygti905ffth6.com
@@ -126,6 +135,7 @@
 4sync.com
 4ubnsy.com
 4.ygti905ffth6.com
+4.zxczj.top
 50.ygti905ffth6.com
 5140.deeginews.com
 51.appmeasurements.com
@@ -153,16 +163,19 @@
 5kapai.com
 5.ygti905ffth6.com
 5yme8j.xxobs5.com
+5.zxczj.top
 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 64a9.playfabapi.com
 65c6.playfabapi.com
 69cnu.com
 6mbr.com
 6.ygti905ffth6.com
+6.zxczj.top
 756964-android-ds.metric.gstatic.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 7efc7eb08gtearevf.rarefix.info
 7.ygti905ffth6.com
+7.zxczj.top
 829395.smushcdn.com
 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
@@ -170,6 +183,7 @@
 8b2a.playfabapi.com
 8.bignox.com
 8.ygti905ffth6.com
+8.zxczj.top
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 9199.us
 91busgame.com
@@ -184,6 +198,7 @@
 9d4c473e-dnsotls-ds.metric.gstatic.com
 9y9qxfox.tweb.sched.ovscdns.com
 9.ygti905ffth6.com
+9.zxczj.top
 a01.uadexchange.com
 a02.uadexchange.com
 a03.uadexchange.com
@@ -534,6 +549,7 @@ api-454110319.cn-northwest-1.elb.amazonaws.com.cn
 api.4sync.com
 api-7739323866949324662-136565.appspot.com
 api.9apps.com
+apiact.imoim.net
 api-ad-adapter-sg.wps.com
 api-ad-adapter.wps.com
 api.adapty.io
@@ -643,6 +659,7 @@ api.map.baidu.com
 api-maps.yandex.ru
 ap.ime.cdn.cootekservice.com
 ap.ime.cootek.com
+api.mediation.onebooster.me
 api.mi-img.com
 api.mintkeyboard.com
 api.mobula.sdk.duapps.com
@@ -963,7 +980,6 @@ baca.co.id
 backjawtanoa.com
 backup.supercell.com
 bae.appmeasurements.com
-bag-smoot.v.aaplimg.com
 baidubce.com
 baidu.com
 baiducontent.com
@@ -1119,6 +1135,7 @@ b.sf-syn.com
 b.sogou.com
 b.st-hatena.com
 bstream.hzmklvdieo.com
+bstream.kzhi.tech
 bstream.sgmbocast.com
 btloader.com
 btrace.wetvinfo.com
@@ -1332,6 +1349,7 @@ cdn.robotaset.com
 cdn.rollbar.com
 cdn.rortoscdn.com
 cdn-rtb.sape.ru
+cdn.samsungcloudsolution.com
 cdn.scooper.news
 cdn-sdk.aihelp.net
 cdn.segment.com
@@ -1510,6 +1528,7 @@ collector.lunalabs.io
 collector-pxikkul2rm.perimeterx.net
 collector-pxt6dy78t8.px-client.net
 collector-pxt6dy78t8.px-cloud.net
+colortime-api.noxgroup.com
 combinatronics.io
 com.gds.alibabadns.com
 commercecore.zendesk.com
@@ -1537,6 +1556,7 @@ config.driftracingonline.com
 config.edge.skype.com
 config.e-droid.net
 config.kuyun.com
+configprd.samsungcloudsolution.net
 config.qms.quicinc.com
 config.toolmatrix.plus
 config.toto.zipoapps.com
@@ -1548,6 +1568,7 @@ configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
 config.y5en.com
 confirmation.gameloft.com
+conf.piojm.tech
 connatix.com
 connect.detik.com
 connect-dra.dbankcloud.cn
@@ -1571,6 +1592,7 @@ contextweb.com
 contivio.com
 control.aps.amap.com
 control.connectwise.com
+conversations.app-us1.com
 conversions.appsflyersdk.com
 convertkit.com
 cookappsgames.com
@@ -1811,6 +1833,7 @@ differencesgp.zendesk.com
 diffuser-cdn.app-us1.com
 digiads.co.id
 digiads.id
+digiantiblockir.club
 digilife.uzone.id
 digimarc.com
 digitalriver.com
@@ -2185,6 +2208,7 @@ freyr.futurecdn.net
 friend20.mycleverpush.com
 frontend-monitoring.z-dn.net
 front.optimonk.com
+front-perf.imoim.net
 front-perf.like-video.com
 front-perf.ukyuh.tech
 fr.slideshare.net
@@ -2325,6 +2349,7 @@ glance-mob.glance-cdn.com
 glanceseg.blob.core.windows.net
 glassbox.com
 glcs.listdl.com
+gllto1.glpals.com
 gllto2.glpals.com
 global-4-lvs-odra.opera-mini.net
 global.albtls.t.co
@@ -2714,6 +2739,7 @@ img.wattpad.com
 img.ws.mms.shopee.co.id
 imgx.gridoto.com
 immr-uhl-tvm.elasticbeanstalk.com
+imoim.net
 impactradius-go.com
 implorewarn.shop
 imp.optaim.com
@@ -3136,6 +3162,7 @@ log-pub-hk.aoshitang.com
 log-report.rtcplus.com
 log.resso.app
 log.reyun.com
+logsanalytics.net
 log.sharemusic5.com
 logs.im-gb.com
 log.snow.me
@@ -3474,6 +3501,7 @@ multiservice.guangzhuiyuan.com
 munchkin.marketo.net
 mup.amp.mcafee.com
 mu.se
+musicid.samsungcloud.tv
 musicradio.com
 muslim-pro-app.firebaseio.com
 muslimpro.com
@@ -3711,6 +3739,7 @@ o13855.ingest.sentry.io
 o209266.ingest.sentry.io
 o33249.ingest.sentry.io
 o370407.ingest.sentry.io
+o393859.ingest.sentry.io
 o43841.ingest.sentry.io
 o446669.ingest.sentry.io
 o4504598522363904.ingest.sentry.io
@@ -3821,6 +3850,7 @@ orderonline.id
 orders.establishedtitles.com
 os-aibox.shalltry.com
 osano.com
+osb-eusvc.samsungqbe.com
 osfeature.shalltry.com
 osf.io
 oshola.shalltry.com
@@ -4064,6 +4094,7 @@ player-ivideosmart-com.cdn.ampproject.org
 players.brightcove.net
 player.tubia.com
 play.mintegral.com
+play.samsungcloud.com
 play-sp.vod.shopee.com
 play-src.vod.shopee.com
 playtech.com
@@ -4096,6 +4127,7 @@ popup-api.snow.me
 pornhub.com
 pornozot.com
 portal.mail.ru
+portal.reivernet.com
 portal-sg.xunyou.mobi
 pos3img.4ubnsy.com
 postaffiliatepro.com
@@ -4119,6 +4151,7 @@ preview-kly.akamaized.net
 p.rfihub.com
 primetimetrends.com
 primis.tech
+prism.app-us1.com
 prismic.io
 prismic-main.cdn.prismic.io
 privacy.kiwibrowser.org
@@ -4238,6 +4271,7 @@ quickgosearch.com
 quinzaa.monster
 quiztest.me
 quiz.vidio.com
+quotecenter.microsoft.com
 quriobot.com
 quzizz.com
 qwe.puscomosca.com
@@ -4311,6 +4345,7 @@ report.sc.funminigame.com
 requesteasy.com
 requestmetrics.com
 res02.bignox.com
+res02.noxgroup.com
 res05.bignox.com
 res06.bignox.com
 res09.bignox.com
@@ -4483,6 +4518,7 @@ s9.cnzz.com
 saasexch.com
 sa.dudns.com
 safe.baidu.com
+safegame.pro
 sagaunityrp.space
 salemove.com
 salesforce.com
@@ -4529,6 +4565,7 @@ sdkconf.avlyun.com
 sdk-exchange.startappservice.com
 sdk.iad-04.braze.com
 sdk.iad-05.braze.com
+sdk.navnow.xyz
 sdk.privacy-center.org
 sdk.pushmessage.samsung.com
 sdks.am-static.com
@@ -4633,9 +4670,11 @@ sg-live-01.slatic.net
 sg-live-05.slatic.net
 sg-live-21.slatic.net
 sg.mangatoon.mobi
+sg-mi-api-server.allsaints.tv
 sg.mmstat.com
 sg.omlet.me
 s.goodappforyou.com
+sgp.imo.im
 sg-res.9appsdownloading.com
 sg-res.9appsinstall.com
 sg.tdatamaster.com
@@ -4745,6 +4784,7 @@ socialapp.top
 sociomile.com
 socket.tidio.co
 socketv2.bc.game
+socks.imolive2.com
 socks.like.video
 socks.live.bigo.sg
 socks-omm-1.lotusflare.com
@@ -4845,6 +4885,7 @@ static1.dmcdn.net
 static2.cbrimages.com
 static3.cbrimages.com
 static.4sync.com
+static-act.imoim.net
 static-act.like-video.com
 static.addtoany.com
 static.ads-twitter.com
@@ -4896,6 +4937,7 @@ static-webengage.s3.ap-southeast-2.amazonaws.com
 static-webengage.s3.ap-southeast-3.amazonaws.com
 static-webengage.s3.ap-southeast-4.amazonaws.com
 static-web.hzmk.site
+static-web.imoim.net
 static-web.likee.com
 static-web.likeevideo.com
 static-web.prod.vid.id
@@ -5063,6 +5105,7 @@ tags.rvere.com
 tags.tiqcdn.com
 taichi.y5en.com
 taken.guru
+talenta-production.firebaseio.com
 t.alipayobjects.com
 talking-ads.com
 tank-stars.prod.azur.games
@@ -5229,6 +5272,7 @@ tpwtgyw.com
 tr.4sync.com
 tracert.alipay.com
 trackad.cz
+trackcmp.net
 tracker.ruangguru.com
 trackersimulator.org
 track.gaconnector.com
@@ -5723,6 +5767,7 @@ wowcasinoonline.ooo
 wpadmngr.com
 wp.pl
 wp.salesforce.com
+wp-ui.app-us1.com
 wpvip.com
 wsapi.master.live
 wscdn.hanilink.com
@@ -5905,6 +5950,7 @@ www.adjeleycctv.us
 www.adlook.me
 www.adscontrol.xyz
 www.ad-score.com
+www.adups.com
 www.adventureacademy.com
 www.ad-x.com
 www.ad-x.co.uk
@@ -6126,6 +6172,7 @@ www.mxj5trk.com
 www.narratorsvoice.com
 www.newsagent.quest
 www.newsforward.quest
+www.noxgroup.com
 www.noxinfluencer.com
 www.obsproicet.net
 www.obs-studio.com
@@ -6631,6 +6678,7 @@ zte.com
 zte.com.cn
 zueirassemlimites.com
 zuiqiangyingyu.net
+zxczj.top
 zx.da.mgtv.com
 zz7th50a77h64sa8.aliyunddos0010.com
 zz.bdstatic.com

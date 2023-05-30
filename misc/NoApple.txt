@@ -102,6 +102,7 @@ apple.tt.omtrdc.net
 app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 bag.itunes.apple.com
+bag-smoot.v.aaplimg.com
 buy.itunes-apple.com.akadns.net
 caldav.fe.apple-dns.net
 captive.apple.com
@@ -340,6 +341,7 @@ p58-caldav.icloud.com
 p58-escrowproxy.icloud.com
 p59-caldav.icloud.com
 p59-escrowproxy.icloud.com
+p60-acsegateway.icloud.com
 p60-caldav.icloud.com
 p60-escrowproxy.icloud.com
 p61-caldav.icloud.com

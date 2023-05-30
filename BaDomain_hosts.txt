@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 17.05.2023
+# Version: 30.05.2023
 # Update: 1 day
 #
 
@@ -17,16 +17,20 @@
 0.0.0.0 1098d38e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 10gamestop.com
 0.0.0.0 10.ygti905ffth6.com
+0.0.0.0 10.zxczj.top
 0.0.0.0 1111210941.rsc.cdn77.org
 0.0.0.0 114dns.com
 0.0.0.0 11.ygti905ffth6.com
+0.0.0.0 11.zxczj.top
 0.0.0.0 12377.cn
 0.0.0.0 123.sogou.com
 0.0.0.0 126.net
 0.0.0.0 12.ygti905ffth6.com
+0.0.0.0 12.zxczj.top
 0.0.0.0 133fitness.com
 0.0.0.0 138.com
 0.0.0.0 13.ygti905ffth6.com
+0.0.0.0 13.zxczj.top
 0.0.0.0 14.ygti905ffth6.com
 0.0.0.0 1558334541.rsc.cdn77.org
 0.0.0.0 15.ygti905ffth6.com
@@ -51,13 +55,17 @@
 0.0.0.0 1.ssiloc.com
 0.0.0.0 1togel.com
 0.0.0.0 1.ygti905ffth6.com
+0.0.0.0 1.zxczj.top
 0.0.0.0 201205igp.gameloft.com
 0.0.0.0 20824721p.rfihub.com
 0.0.0.0 20ca2.playfabapi.com
 0.0.0.0 20.ygti905ffth6.com
+0.0.0.0 20.zxczj.top
 0.0.0.0 21cn.com
 0.0.0.0 21.ygti905ffth6.com
+0.0.0.0 21.zxczj.top
 0.0.0.0 22.ygti905ffth6.com
+0.0.0.0 22.zxczj.top
 0.0.0.0 232.138.196.35.bc.googleusercontent.com
 0.0.0.0 23.ygti905ffth6.com
 0.0.0.0 24.ygti905ffth6.com
@@ -75,6 +83,7 @@
 0.0.0.0 2tx120.1g5k5w.com
 0.0.0.0 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
 0.0.0.0 2.ygti905ffth6.com
+0.0.0.0 2.zxczj.top
 0.0.0.0 30.ygti905ffth6.com
 0.0.0.0 31f1a2c6-dnsotls-ds.metric.gstatic.com
 0.0.0.0 31.ygti905ffth6.com
@@ -126,6 +135,7 @@
 0.0.0.0 4sync.com
 0.0.0.0 4ubnsy.com
 0.0.0.0 4.ygti905ffth6.com
+0.0.0.0 4.zxczj.top
 0.0.0.0 50.ygti905ffth6.com
 0.0.0.0 5140.deeginews.com
 0.0.0.0 51.appmeasurements.com
@@ -153,16 +163,19 @@
 0.0.0.0 5kapai.com
 0.0.0.0 5.ygti905ffth6.com
 0.0.0.0 5yme8j.xxobs5.com
+0.0.0.0 5.zxczj.top
 0.0.0.0 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 0.0.0.0 64a9.playfabapi.com
 0.0.0.0 65c6.playfabapi.com
 0.0.0.0 69cnu.com
 0.0.0.0 6mbr.com
 0.0.0.0 6.ygti905ffth6.com
+0.0.0.0 6.zxczj.top
 0.0.0.0 756964-android-ds.metric.gstatic.com
 0.0.0.0 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 0.0.0.0 7efc7eb08gtearevf.rarefix.info
 0.0.0.0 7.ygti905ffth6.com
+0.0.0.0 7.zxczj.top
 0.0.0.0 829395.smushcdn.com
 0.0.0.0 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 0.0.0.0 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
@@ -170,6 +183,7 @@
 0.0.0.0 8b2a.playfabapi.com
 0.0.0.0 8.bignox.com
 0.0.0.0 8.ygti905ffth6.com
+0.0.0.0 8.zxczj.top
 0.0.0.0 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 0.0.0.0 9199.us
 0.0.0.0 91busgame.com
@@ -184,6 +198,7 @@
 0.0.0.0 9d4c473e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 9y9qxfox.tweb.sched.ovscdns.com
 0.0.0.0 9.ygti905ffth6.com
+0.0.0.0 9.zxczj.top
 0.0.0.0 a01.uadexchange.com
 0.0.0.0 a02.uadexchange.com
 0.0.0.0 a03.uadexchange.com
@@ -534,6 +549,7 @@
 0.0.0.0 api.4sync.com
 0.0.0.0 api-7739323866949324662-136565.appspot.com
 0.0.0.0 api.9apps.com
+0.0.0.0 apiact.imoim.net
 0.0.0.0 api-ad-adapter-sg.wps.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api.adapty.io
@@ -643,6 +659,7 @@
 0.0.0.0 api-maps.yandex.ru
 0.0.0.0 ap.ime.cdn.cootekservice.com
 0.0.0.0 ap.ime.cootek.com
+0.0.0.0 api.mediation.onebooster.me
 0.0.0.0 api.mi-img.com
 0.0.0.0 api.mintkeyboard.com
 0.0.0.0 api.mobula.sdk.duapps.com
@@ -963,7 +980,6 @@
 0.0.0.0 backjawtanoa.com
 0.0.0.0 backup.supercell.com
 0.0.0.0 bae.appmeasurements.com
-0.0.0.0 bag-smoot.v.aaplimg.com
 0.0.0.0 baidubce.com
 0.0.0.0 baidu.com
 0.0.0.0 baiducontent.com
@@ -1119,6 +1135,7 @@
 0.0.0.0 b.sogou.com
 0.0.0.0 b.st-hatena.com
 0.0.0.0 bstream.hzmklvdieo.com
+0.0.0.0 bstream.kzhi.tech
 0.0.0.0 bstream.sgmbocast.com
 0.0.0.0 btloader.com
 0.0.0.0 btrace.wetvinfo.com
@@ -1332,6 +1349,7 @@
 0.0.0.0 cdn.rollbar.com
 0.0.0.0 cdn.rortoscdn.com
 0.0.0.0 cdn-rtb.sape.ru
+0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 cdn.scooper.news
 0.0.0.0 cdn-sdk.aihelp.net
 0.0.0.0 cdn.segment.com
@@ -1510,6 +1528,7 @@
 0.0.0.0 collector-pxikkul2rm.perimeterx.net
 0.0.0.0 collector-pxt6dy78t8.px-client.net
 0.0.0.0 collector-pxt6dy78t8.px-cloud.net
+0.0.0.0 colortime-api.noxgroup.com
 0.0.0.0 combinatronics.io
 0.0.0.0 com.gds.alibabadns.com
 0.0.0.0 commercecore.zendesk.com
@@ -1537,6 +1556,7 @@
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.e-droid.net
 0.0.0.0 config.kuyun.com
+0.0.0.0 configprd.samsungcloudsolution.net
 0.0.0.0 config.qms.quicinc.com
 0.0.0.0 config.toolmatrix.plus
 0.0.0.0 config.toto.zipoapps.com
@@ -1548,6 +1568,7 @@
 0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 config.y5en.com
 0.0.0.0 confirmation.gameloft.com
+0.0.0.0 conf.piojm.tech
 0.0.0.0 connatix.com
 0.0.0.0 connect.detik.com
 0.0.0.0 connect-dra.dbankcloud.cn
@@ -1571,6 +1592,7 @@
 0.0.0.0 contivio.com
 0.0.0.0 control.aps.amap.com
 0.0.0.0 control.connectwise.com
+0.0.0.0 conversations.app-us1.com
 0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 convertkit.com
 0.0.0.0 cookappsgames.com
@@ -1811,6 +1833,7 @@
 0.0.0.0 diffuser-cdn.app-us1.com
 0.0.0.0 digiads.co.id
 0.0.0.0 digiads.id
+0.0.0.0 digiantiblockir.club
 0.0.0.0 digilife.uzone.id
 0.0.0.0 digimarc.com
 0.0.0.0 digitalriver.com
@@ -2185,6 +2208,7 @@
 0.0.0.0 friend20.mycleverpush.com
 0.0.0.0 frontend-monitoring.z-dn.net
 0.0.0.0 front.optimonk.com
+0.0.0.0 front-perf.imoim.net
 0.0.0.0 front-perf.like-video.com
 0.0.0.0 front-perf.ukyuh.tech
 0.0.0.0 fr.slideshare.net
@@ -2325,6 +2349,7 @@
 0.0.0.0 glanceseg.blob.core.windows.net
 0.0.0.0 glassbox.com
 0.0.0.0 glcs.listdl.com
+0.0.0.0 gllto1.glpals.com
 0.0.0.0 gllto2.glpals.com
 0.0.0.0 global-4-lvs-odra.opera-mini.net
 0.0.0.0 global.albtls.t.co
@@ -2714,6 +2739,7 @@
 0.0.0.0 img.ws.mms.shopee.co.id
 0.0.0.0 imgx.gridoto.com
 0.0.0.0 immr-uhl-tvm.elasticbeanstalk.com
+0.0.0.0 imoim.net
 0.0.0.0 impactradius-go.com
 0.0.0.0 implorewarn.shop
 0.0.0.0 imp.optaim.com
@@ -3136,6 +3162,7 @@
 0.0.0.0 log-report.rtcplus.com
 0.0.0.0 log.resso.app
 0.0.0.0 log.reyun.com
+0.0.0.0 logsanalytics.net
 0.0.0.0 log.sharemusic5.com
 0.0.0.0 logs.im-gb.com
 0.0.0.0 log.snow.me
@@ -3474,6 +3501,7 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mup.amp.mcafee.com
 0.0.0.0 mu.se
+0.0.0.0 musicid.samsungcloud.tv
 0.0.0.0 musicradio.com
 0.0.0.0 muslim-pro-app.firebaseio.com
 0.0.0.0 muslimpro.com
@@ -3711,6 +3739,7 @@
 0.0.0.0 o209266.ingest.sentry.io
 0.0.0.0 o33249.ingest.sentry.io
 0.0.0.0 o370407.ingest.sentry.io
+0.0.0.0 o393859.ingest.sentry.io
 0.0.0.0 o43841.ingest.sentry.io
 0.0.0.0 o446669.ingest.sentry.io
 0.0.0.0 o4504598522363904.ingest.sentry.io
@@ -3821,6 +3850,7 @@
 0.0.0.0 orders.establishedtitles.com
 0.0.0.0 os-aibox.shalltry.com
 0.0.0.0 osano.com
+0.0.0.0 osb-eusvc.samsungqbe.com
 0.0.0.0 osfeature.shalltry.com
 0.0.0.0 osf.io
 0.0.0.0 oshola.shalltry.com
@@ -4064,6 +4094,7 @@
 0.0.0.0 players.brightcove.net
 0.0.0.0 player.tubia.com
 0.0.0.0 play.mintegral.com
+0.0.0.0 play.samsungcloud.com
 0.0.0.0 play-sp.vod.shopee.com
 0.0.0.0 play-src.vod.shopee.com
 0.0.0.0 playtech.com
@@ -4096,6 +4127,7 @@
 0.0.0.0 pornhub.com
 0.0.0.0 pornozot.com
 0.0.0.0 portal.mail.ru
+0.0.0.0 portal.reivernet.com
 0.0.0.0 portal-sg.xunyou.mobi
 0.0.0.0 pos3img.4ubnsy.com
 0.0.0.0 postaffiliatepro.com
@@ -4119,6 +4151,7 @@
 0.0.0.0 p.rfihub.com
 0.0.0.0 primetimetrends.com
 0.0.0.0 primis.tech
+0.0.0.0 prism.app-us1.com
 0.0.0.0 prismic.io
 0.0.0.0 prismic-main.cdn.prismic.io
 0.0.0.0 privacy.kiwibrowser.org
@@ -4238,6 +4271,7 @@
 0.0.0.0 quinzaa.monster
 0.0.0.0 quiztest.me
 0.0.0.0 quiz.vidio.com
+0.0.0.0 quotecenter.microsoft.com
 0.0.0.0 quriobot.com
 0.0.0.0 quzizz.com
 0.0.0.0 qwe.puscomosca.com
@@ -4311,6 +4345,7 @@
 0.0.0.0 requesteasy.com
 0.0.0.0 requestmetrics.com
 0.0.0.0 res02.bignox.com
+0.0.0.0 res02.noxgroup.com
 0.0.0.0 res05.bignox.com
 0.0.0.0 res06.bignox.com
 0.0.0.0 res09.bignox.com
@@ -4483,6 +4518,7 @@
 0.0.0.0 saasexch.com
 0.0.0.0 sa.dudns.com
 0.0.0.0 safe.baidu.com
+0.0.0.0 safegame.pro
 0.0.0.0 sagaunityrp.space
 0.0.0.0 salemove.com
 0.0.0.0 salesforce.com
@@ -4529,6 +4565,7 @@
 0.0.0.0 sdk-exchange.startappservice.com
 0.0.0.0 sdk.iad-04.braze.com
 0.0.0.0 sdk.iad-05.braze.com
+0.0.0.0 sdk.navnow.xyz
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sdk.pushmessage.samsung.com
 0.0.0.0 sdks.am-static.com
@@ -4633,9 +4670,11 @@
 0.0.0.0 sg-live-05.slatic.net
 0.0.0.0 sg-live-21.slatic.net
 0.0.0.0 sg.mangatoon.mobi
+0.0.0.0 sg-mi-api-server.allsaints.tv
 0.0.0.0 sg.mmstat.com
 0.0.0.0 sg.omlet.me
 0.0.0.0 s.goodappforyou.com
+0.0.0.0 sgp.imo.im
 0.0.0.0 sg-res.9appsdownloading.com
 0.0.0.0 sg-res.9appsinstall.com
 0.0.0.0 sg.tdatamaster.com
@@ -4745,6 +4784,7 @@
 0.0.0.0 sociomile.com
 0.0.0.0 socket.tidio.co
 0.0.0.0 socketv2.bc.game
+0.0.0.0 socks.imolive2.com
 0.0.0.0 socks.like.video
 0.0.0.0 socks.live.bigo.sg
 0.0.0.0 socks-omm-1.lotusflare.com
@@ -4845,6 +4885,7 @@
 0.0.0.0 static2.cbrimages.com
 0.0.0.0 static3.cbrimages.com
 0.0.0.0 static.4sync.com
+0.0.0.0 static-act.imoim.net
 0.0.0.0 static-act.like-video.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.ads-twitter.com
@@ -4896,6 +4937,7 @@
 0.0.0.0 static-webengage.s3.ap-southeast-3.amazonaws.com
 0.0.0.0 static-webengage.s3.ap-southeast-4.amazonaws.com
 0.0.0.0 static-web.hzmk.site
+0.0.0.0 static-web.imoim.net
 0.0.0.0 static-web.likee.com
 0.0.0.0 static-web.likeevideo.com
 0.0.0.0 static-web.prod.vid.id
@@ -5063,6 +5105,7 @@
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 taichi.y5en.com
 0.0.0.0 taken.guru
+0.0.0.0 talenta-production.firebaseio.com
 0.0.0.0 t.alipayobjects.com
 0.0.0.0 talking-ads.com
 0.0.0.0 tank-stars.prod.azur.games
@@ -5229,6 +5272,7 @@
 0.0.0.0 tr.4sync.com
 0.0.0.0 tracert.alipay.com
 0.0.0.0 trackad.cz
+0.0.0.0 trackcmp.net
 0.0.0.0 tracker.ruangguru.com
 0.0.0.0 trackersimulator.org
 0.0.0.0 track.gaconnector.com
@@ -5723,6 +5767,7 @@
 0.0.0.0 wpadmngr.com
 0.0.0.0 wp.pl
 0.0.0.0 wp.salesforce.com
+0.0.0.0 wp-ui.app-us1.com
 0.0.0.0 wpvip.com
 0.0.0.0 wsapi.master.live
 0.0.0.0 wscdn.hanilink.com
@@ -5905,6 +5950,7 @@
 0.0.0.0 www.adlook.me
 0.0.0.0 www.adscontrol.xyz
 0.0.0.0 www.ad-score.com
+0.0.0.0 www.adups.com
 0.0.0.0 www.adventureacademy.com
 0.0.0.0 www.ad-x.com
 0.0.0.0 www.ad-x.co.uk
@@ -6126,6 +6172,7 @@
 0.0.0.0 www.narratorsvoice.com
 0.0.0.0 www.newsagent.quest
 0.0.0.0 www.newsforward.quest
+0.0.0.0 www.noxgroup.com
 0.0.0.0 www.noxinfluencer.com
 0.0.0.0 www.obsproicet.net
 0.0.0.0 www.obs-studio.com
@@ -6631,6 +6678,7 @@
 0.0.0.0 zte.com.cn
 0.0.0.0 zueirassemlimites.com
 0.0.0.0 zuiqiangyingyu.net
+0.0.0.0 zxczj.top
 0.0.0.0 zx.da.mgtv.com
 0.0.0.0 zz7th50a77h64sa8.aliyunddos0010.com
 0.0.0.0 zz.bdstatic.com

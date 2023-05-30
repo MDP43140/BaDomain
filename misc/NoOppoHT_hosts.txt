@@ -225,6 +225,7 @@
 0.0.0.0 obus-sg.dc.heytapmobile.com
 0.0.0.0 ocloud-httpdns-in.heytapmobile.com
 0.0.0.0 ocloud-httpdns-sg.heytapmobile.com
+0.0.0.0 ocloud-uni-id.heytapmobile.com
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 opex-service-eu.allawnos.com
 0.0.0.0 opex-service-in.allawnos.com
@@ -271,6 +272,7 @@
 0.0.0.0 stuck-sg.dc.oppomobile.com
 0.0.0.0 themeimg.heytapimg.com
 0.0.0.0 theme-magazine-gl-01.heytapimg.com
+0.0.0.0 t-id.ads.heytapmobile.com
 0.0.0.0 tipsf.apps.oppomobile.com
 0.0.0.0 titan.heytap.com
 0.0.0.0 uapi-id.heytapmobile.com
