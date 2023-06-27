@@ -5,6 +5,7 @@ UPDATE_FREQ="1 day" # unused
 HOSTSFILE_TYPES=(
 	"BaDomain"
 	"misc/NoApple"
+	"misc/NoChinaOverseaSpy"
 	"misc/NoFB"
 	"misc/NoFreeFire"
 	"misc/NoMLBB"

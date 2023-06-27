@@ -39,6 +39,7 @@ aadg.akadns.net
 a.ak.prd.aadg.trafficmanager.net
 aaplimg.com
 aaxads.com
+abackup01.xyz
 abcqueueamax.asus.com
 abcsport3.com
 abcsport8.com
@@ -78,6 +79,7 @@ akamaiedge.net
 akamaihd.net
 akamai.net
 akamaized.net
+akpd.live
 ak.prd.aadg.akadns.net
 ak.prd.aadg.trafficmanager.net
 alexametrics.com
@@ -400,6 +402,8 @@ ientp.alipay.com
 igamecj.com
 igame.xiaomi.com
 ignimgs.com
+igsgame.com
+igsgame.com.tw
 i.lencr.org
 ilovexclub.net
 image.pandora.xiaomi.com
@@ -434,6 +438,7 @@ i.warranty.oppo.com
 jixie.media
 jmacs.maribacaberita.com
 jpallnight.com
+jrostrogud.com
 jtvnw.net
 jwpcdn.com
 keep2.xyz
@@ -722,6 +727,7 @@ sumo.mozit.cloud
 sungarnonsense.com
 support.client
 supportclient.cc
+support-multi.com
 svc-cf.samsungdm.com
 sweet-girls18.com
 swiftkey-android.iris.touchtype-fluency.com
@@ -950,6 +956,7 @@ zcnewy.com
 zeus.ad.intl.xiaomi.com
 ziffstatic.com
 znpst.top
+zoom.voyage
 zqtk.net
 zres.alicdn.com1111210941.rsc.cdn77.org
 zx.game.xiaomi.com

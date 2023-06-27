@@ -97,6 +97,7 @@
 0.0.0.0 apple.com
 0.0.0.0 apple.com.cn
 0.0.0.0 apple.com.v.aaplimg.com
+0.0.0.0 appleid.cdn-apple.com
 0.0.0.0 apple-mapkit.com
 0.0.0.0 apple.news
 0.0.0.0 apple.tt.omtrdc.net
@@ -133,6 +134,7 @@
 0.0.0.0 dns.apple.com.v.aaplimg.com
 0.0.0.0 doh.dns.apple.com
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com
+0.0.0.0 edge-102.sesto4.icloud-content.com
 0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 fides-pol.apple.com
 0.0.0.0 fmfmobile.fe.apple-dns.net
@@ -204,6 +206,7 @@
 0.0.0.0 guzzoni.apple.com
 0.0.0.0 guzzoni-apple-com.v.aaplimg.com
 0.0.0.0 icloud.com
+0.0.0.0 identity.ess.apple.com
 0.0.0.0 inappcheck-ak.itunes-apple.com.akadns.net
 0.0.0.0 inappcheck.itunes.apple.com
 0.0.0.0 inappcheck-lb.itunes-apple.com.akadns.net
@@ -221,6 +224,7 @@
 0.0.0.0 itunes.apple.com
 0.0.0.0 itunes.com
 0.0.0.0 keyvalueservice.icloud.com
+0.0.0.0 kt-prod.ess.apple.com
 0.0.0.0 lcdn-locator.apple.com
 0.0.0.0 lcdn-locator-usms11.apple.com.akadns.net
 0.0.0.0 mask-api.fe.apple-dns.net
@@ -235,6 +239,7 @@
 0.0.0.0 ocsp2-lb.apple.com.akadns.net
 0.0.0.0 p10-caldav.icloud.com
 0.0.0.0 p10-escrowproxy.icloud.com
+0.0.0.0 p113-caldav.icloud.com
 0.0.0.0 p11-caldav.icloud.com
 0.0.0.0 p11-escrowproxy.icloud.com
 0.0.0.0 p12-caldav.icloud.com
@@ -276,6 +281,7 @@
 0.0.0.0 p30-caldav.icloud.com
 0.0.0.0 p30-escrowproxy.icloud.com
 0.0.0.0 p31-caldav.icloud.com
+0.0.0.0 p31-content.icloud.com
 0.0.0.0 p31-escrowproxy.icloud.com
 0.0.0.0 p32-caldav.icloud.com
 0.0.0.0 p32-escrowproxy.icloud.com
