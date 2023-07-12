@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 27.06.2023
+# Version: 12.07.2023
 # Update: 1 day
 #
 
@@ -356,6 +356,7 @@ adx.adsgaga.com
 adx.ads.vungle.com
 ad-x.com
 ad-x.co.uk
+adx-os.anythinktech.com
 adz-skip.net
 adz.wattpad.com
 a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
@@ -398,6 +399,7 @@ akochar.site
 ak.sail-horizon.com
 aksconsulting.us
 ak-sgp-pic.snackvideo.in
+ak-static.snackvideo.in
 aktup.bangcdn.net
 alexmods.com
 al.flv.nimo.tv
@@ -463,6 +465,7 @@ analytics.rctiplus.com
 analytics.rocks
 analytics-service.swiftype.com
 analytics-tcp.mintegral.net
+analytics-tcp.mtgglobals.com
 analytics-vibe.contextads.live
 anchor.fm
 androgamer.org
@@ -550,6 +553,7 @@ api.9apps.com
 apiact.imoim.net
 api-ad-adapter-sg.wps.com
 api-ad-adapter.wps.com
+api.adaether.com
 api.adapty.io
 api.adclound.com
 api.ads.yahoo.com
@@ -575,6 +579,7 @@ api.black.riseup.net
 api.blocka.net
 api.boomplaymusic.com
 api.buzzoola.com
+api.bytegle.tech
 api.castle.io
 api.chilipiper.com
 api-cloudfront.life360.com
@@ -591,6 +596,7 @@ api.deathwing.me
 api.decisionnowlive.com
 api-differences-android.easybrain.com
 api.dkyweipsds.com
+api.enginemob.me
 api.enginemob.xyz
 api.ethyca.com
 api.eufylife.com
@@ -654,6 +660,8 @@ api.livechatinc.com
 api-liveops.easybrain.com
 api.map.baidu.com
 api-maps.yandex.ru
+api.maptiler.com
+api.md-usdt.com
 ap.ime.cdn.cootekservice.com
 ap.ime.cootek.com
 api.mediation.onebooster.me
@@ -661,6 +669,7 @@ api.mi-img.com
 api.mintkeyboard.com
 api.mobula.sdk.duapps.com
 api.myadsget.com
+api.myip.com
 api.mythad.com
 api.mywavehome.net
 api.na.chilipiper.com
@@ -671,6 +680,7 @@ api.ninetailed.co
 api-notice.kinemasters.com
 api.noxinfluencer.com
 api.olmusic.xyz
+api.onesignal.com
 api.optimumlines.com
 api.orderonline.id
 api.os.mob.com
@@ -736,6 +746,7 @@ api.tmdak.top
 apitm.toolmatrix.plus
 api.tmtreader.com
 api.top.gg
+api.toponadss.com
 api.tratao.com
 api.twibida.com
 api-us.bidmachine.io
@@ -762,6 +773,8 @@ api.wshareit.com
 api.wt14yf.com
 api.xshareapp.com
 api.yandex.ru
+api.youngle.site
+api.youngle.tech
 api.yunclound.com
 api.zigpoll.com
 api.zingnews.vn
@@ -781,6 +794,7 @@ app.adjust.net.in
 app.advertizer.com
 appadvice.com
 appannie.com
+app.appsflyer.com
 appbazaar.com
 app.bignox.com
 app.biliintl.com
@@ -962,6 +976,7 @@ aws-sgp-cdn.snackvideo.in
 aws-sgp-pic.snackvideo.in
 aws-static.snackvideo.in
 awxcdn.com
+axelspringerideas.de
 axiata-lk-43c53a330e9-he.fortumo.io
 b1.nel.goog
 b2.mail.ru
@@ -970,6 +985,7 @@ b6s-api.snow.me
 b.6sc.co
 b6s-static.snow.me
 b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
+babaoss.oss-accelerate-overseas.aliyuncs.com
 babyzee.uno
 baca.co.id
 backjawtanoa.com
@@ -1558,7 +1574,9 @@ config.toto.zipoapps.com
 config.unityads.unity3d.com
 configuration.ko.kakaowebtoon.com
 configuration.transsion-os.com
+configure-tcp-android.mtgglobals.com
 configure-tcp-android.rayjump.com
+configure-tcp.mtgglobals.com
 configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
 config.y5en.com
@@ -1572,9 +1590,11 @@ connect.ok.ru
 connect.tapjoy.com
 connectwise.com
 connectzoomdownload.com
+connperf.tantanapp.com
 consent.trustarc.com
 console.gadsme.com
 constellix.com
+contact-help-number.com
 content.cdntwrk.com
 content-fgw.zepeto.io
 contentful.com
@@ -1689,6 +1709,7 @@ c.webengage.com
 cxomedia.id
 c.y5en.com
 cy-api.tysondata.com
+cybertips.xyz
 d-03.winudf.com
 d0zi.com
 d11yp7khhhspcr.cloudfront.net
@@ -1751,6 +1772,7 @@ data.biliintl.com
 datadoghq.com
 datadome.co
 data.flurry.com
+data.m2appinsight.com
 datamation.com
 datamixer-pa.googleapis.com
 data-rep.livetech.shopee.co.id
@@ -1787,6 +1809,7 @@ degreesnap.com
 delivers.dtignite.com
 delivery.contextads.live
 delivery.r2b2.io
+dell-support.co.uk
 demandbase.com
 demand.supply
 demo34.ckg.hk
@@ -1839,6 +1862,7 @@ dirtytinder1s.com
 discovercadeals.com
 discovery.clearbit.com
 distillery.wistia.com
+distribution.rqmob.com
 diva.bond
 djlgexjqjjk.com
 djnl.decisionnowlive.com
@@ -1988,6 +2012,7 @@ eleed.cloud
 eleed.online
 elements.oxy.host
 elfsight.com
+elldmobapps.com
 elo.io
 eloism.net
 email.manutd.com
@@ -2015,6 +2040,7 @@ en.supercent.io
 enterpriseenrollment.pcapredict.com
 enterpriseenrollment.supercell.com
 enterpriseregistration.pcapredict.com
+entterto.com
 en.yeahmobi.com
 epcfg.fineboost.com
 epdg.epc.mnc001.mcc525.pub.3gppnetwork.org
@@ -2247,6 +2273,7 @@ gameportal.casa
 game.qq.com
 game-service.playgendary.com
 games.shopee.co.id
+gamestats.clockstone.com
 gametool10.ml
 game-users-storage.playgendary.com
 gamev6.com
@@ -2420,6 +2447,7 @@ growtopia1.com
 growtopia2.com
 grsm.io
 gs-cdn.optimonk.com
+g-sgp-cdn.snackvideo.in
 gslb.secb2b.com
 gslb.sgw.shopeemobile.com
 gslb.shalltry.com
@@ -2449,6 +2477,7 @@ gw.zamcs.com
 gx-api.geniex.com
 gxycoj.com
 g-zgroup.pstatic.net
+g-zt.kwai-pro.com
 g-zt.uvfuns.com
 h2ocdn.lavasoft.com
 h2svr.info
@@ -2493,6 +2522,7 @@ helpscout.com
 helpscout.net
 help.sogou.com
 helpx.adobe.com
+hermes2.grabtaxi.com # uhh really ??
 hermes.360safe.com
 hermes-fs.wshareit.com
 heylink.me
@@ -2550,6 +2580,7 @@ hth8888.cc
 h.trace.qq.com
 htrace.wetvinfo.com
 http-check-headers.yandex.ru
+httpdns.tantanapp.com
 httpdns.y5en.com
 httpdns.yunxindns.com
 http-inputs-notion.splunkcloud.com
@@ -2723,6 +2754,7 @@ img-video-tracking.ruangguru.com
 img.wattpad.com
 img.ws.mms.shopee.co.id
 imgx.gridoto.com
+img.y5en.com
 immr-uhl-tvm.elasticbeanstalk.com
 imoim.net
 impactradius-go.com
@@ -2744,6 +2776,7 @@ increasinglycockroachpolicy.com
 indeed.com
 i.neptunegame.com
 infinitedata-pa.googleapis.com
+infinitespy.com
 influencer.yeshen.com
 info.3g.qq.com
 info.apklollypop.com
@@ -2755,6 +2788,7 @@ infohub.azureedge.net
 infohubnews.app
 info.leadid.com
 infosensasional.com
+infosolution.co.uk
 in-gaap.snackvideo.in
 ingaa.xyz
 init.supersonicads.com
@@ -2798,6 +2832,7 @@ intuit.com
 invitereferrals.com
 iobit.com
 ionfish-app-y46cz.ondigitalocean.app
+ionistkhaya.website
 iosads4-0.adcolony.com
 iosads4-10.adcolony.com
 iosads4-1.adcolony.com
@@ -2844,6 +2879,8 @@ isp-map.xunyou.mobi
 is.snssdk.com.xi.zwtianshangm.com
 istarapps.com
 it.4sync.com
+i.tancdn.com
+i.tantanapp.com
 it.bignox.com
 i.test3-mobileapi.ucnewtest.wanyol.com
 itoon.org
@@ -2994,6 +3031,8 @@ kuaishou.com
 k-ulog.kwai-pro.com
 k-ulog.kwaipros.com
 kustens.com
+kuyhaa.me
+kuyhaa-me.com
 kvaw.mfcewkrob.com
 kwai.com
 kwai.net
@@ -3004,6 +3043,7 @@ la4-userver-upaas.ucweb.com
 laamor.uno
 lab-js-abtest.lazada.com
 ladepeche.fr
+lajwaabculinaryart.com
 lamanlabuh.aduankonten.id
 lamida.id
 lan3rd.line.me
@@ -3158,6 +3198,7 @@ loki.wattpad.com
 loklok.com
 loklok.tv
 loli.net
+london.cybertips.xyz
 lontaranews.com
 loomi.tv
 loptelink.pro
@@ -3277,6 +3318,7 @@ ma.swiftypecdn.com
 mat1.gtimg.com
 mathtag.com
 matomo.y8.com
+mauth.chinanetcenter.com
 ma.wattpad.com
 mayalaze.xyz
 m.baidu.com
@@ -3296,6 +3338,7 @@ mc.yandex.ru
 mdcqrxw.com
 mdm.asus.com
 mdm.supercell.com
+md-usdt.com
 me.apple-dns.net
 medallia.com
 medals.bizrate.com
@@ -3341,6 +3384,7 @@ messaging.messagebird.com
 mesu.g.aaplimg.com
 metarouter.io
 meteor.shalltry.com
+metricreceiver.cellrebel.com
 metrics-twoplayers.junglefrog.com
 mgen.fast-dl.xyz
 mgenfast-dlxyz.imageshack.host
@@ -3351,8 +3395,11 @@ mhy.link
 microremoteassist.com
 micro.rubiconproject.com
 microservices.wifimap.io
+microsoft-contact-number.co.uk
 microsofthk.com
 microsoftkernel.com
+microsoft-office365.zip
+microsoft-office.zip
 midas-api.hellay.net
 milvarusso.com
 m.imdb.com
@@ -3384,6 +3431,7 @@ mkevents.mob.com
 mktoresp.com
 ml314.com
 ml.aihelp.net
+mlog.wangsu.com
 ml-sessions-v3-dot-events-dot-o7apps.appspot.com
 ml-sessions-v3.events.o7apps.appspot.com
 mmfiles.amp.mcafee.com
@@ -3398,6 +3446,7 @@ mobfox.com
 mobile-ap.spotify.com
 mobileassets.gopaylater.findaya.co.id
 mobilecrush.king.com
+mobile-data.onetrust.io
 mobileimg.useinsider.com
 mobile.launchdarkly.com
 mobile.like.video
@@ -3468,6 +3517,7 @@ mta-6.mailing.educba.com
 mta-7.mailing.educba.com
 mta-8.mailing.educba.com
 mta-9.mailing.educba.com
+m.taobao.com
 mtg-h5.rayjump.com
 m.toutiaocdn.com
 m.toutiao.com
@@ -3859,6 +3909,7 @@ ovv.video.qq.com
 ovz1.j19544519.pr46m.vps.myjino.ru
 owap.bar
 owssupport.zendesk.com
+oxide.aablv.com
 oxnet.da.mgtv.com
 oxy.cloud
 oxygendct.com
@@ -4037,6 +4088,7 @@ pkh6.my.id
 pkh7.my.id
 pkh8.my.id
 pl17772840.profitablegatetocontent.com
+pl19397700.highrevenuegate.com
 pl.4sync.com
 placements.tapjoy.com
 plainbagel.notion.site
@@ -4057,6 +4109,7 @@ play.mintegral.com
 play.samsungcloud.com
 play-sp.vod.shopee.com
 play-src.vod.shopee.com
+play.stream2watch.com
 playtech.com
 play.wetvinfo.com
 play-ws.vod.shopee.com
@@ -4116,6 +4169,7 @@ prismic.io
 prismic-main.cdn.prismic.io
 privacy.kiwibrowser.org
 privacy-policy.truste.com
+privacy-portal.onetrust.com
 private-58cec5-funsegmentsapi.apiary-mock.com
 private-da8bd3-funapi6.apiary-mock.com
 private.ilyon.net
@@ -4281,6 +4335,7 @@ recostream.go.mail.ru
 rec.smartlook.com
 redirectingat.com
 redirect.networkbench.com
+referee.immomo.com
 reference.castle.io
 referralrock.com
 refersion.com
@@ -4304,6 +4359,7 @@ repodownload.mediatek.com
 report.appmetrica.yandex.net
 report-ps.meettech.net
 report.sc.funminigame.com
+report.tantanapp.com
 requesteasy.com
 requestmetrics.com
 res02.bignox.com
@@ -4445,6 +4501,7 @@ s10.histats.com
 s11.histats.com
 s15.kwai.net
 s160-ava-talk.zadn.vn
+s16-12668.ap4r.com
 s.166.net
 s16.kwai.net
 s18900.webovernet.com
@@ -4518,6 +4575,7 @@ scorecardresearch.com
 scout-cdn.salesloft.com
 screenconnect.com
 screensteps.com
+sc-report.tantanapp.com
 scripts.jixie.media
 scroll.com
 sda-cdn.amzgame.com
@@ -4578,6 +4636,7 @@ security.noxgroup.org
 seedr.com
 segment.com
 segment.io
+seiya.tantanapp.com
 self.events.data.microsoft.com
 selfishsnake.com
 seller.shopee.sg
@@ -4638,6 +4697,7 @@ sg-live-21.slatic.net
 sg.mangatoon.mobi
 sg-mi-api-server.allsaints.tv
 sg.mmstat.com
+sg-o-api-server.allsaints.tv
 sg.omlet.me
 s.goodappforyou.com
 sgp.imo.im
@@ -4888,6 +4948,7 @@ static.servicewebly.com
 static.sitejabber.com
 statics-marketingsites-eus-ms-com.akamaized.net
 static.ssp.transsion.com
+static.swaqds.com
 static-update.mobsrvapi.com
 staticw2.yotpo.com
 static-web.bigolive.tv
@@ -5076,6 +5137,7 @@ teads.tv
 team.stagingapps.xyz
 techbargains.com
 techgadgetstrends.com
+techknacks.com
 technologyadvice.com
 technopawns.com
 techrights.org
@@ -5275,7 +5337,10 @@ tw.pool.ntp.org
 tx2-sgp-cdn.snackvideo.in
 tx.flv.nimo.tv
 tx.hls.nimo.tv
+tx-sgp-cdn.snackvideo.in
+tx-sgp-origin-pull.snackvideo.in
 tx-sgp-pic.snackvideo.in
+tx-sgp-pull.snackvideo.in
 txtplay.store
 tyapi-juno.abcsport3.com
 tynt.com
@@ -5314,6 +5379,7 @@ ui.ff.avast.com
 ukit.me
 u.like-it.video
 ulog.kwai.com
+ulog.kwai-pro.com
 ultimatecustomnightgame.net
 ultraviewer.net
 umc-cdn.secb2b.com
@@ -5356,6 +5422,7 @@ update.microsoftkernel.com
 update.mysecuritystudio.com
 update.neptunegame.com
 update.pan.baidu.com
+updatesdk.avlyun.com
 update.topbosinterface.com
 update.topbospackages.com
 update.topbosresources.com
@@ -5493,6 +5560,7 @@ visualwebsiteoptimizer.com
 vitals.vercel-insights.com
 viva99.com
 viva99.xn--tckwe
+vivomaa.chinanetcenter.com
 vivosec.baidu.com
 vjs.zencdn.net
 vk.com
@@ -5613,6 +5681,7 @@ week-tale.xyz
 weglot.com
 weibo.com
 weihu.abcsport8.com
+weimi-sg.ap-southeast-1.log.aliyuncs.com
 weixin110.qq.com
 weixin.qq.com
 weixin.sogou.com
@@ -5692,6 +5761,7 @@ workonline1.com
 work.weixin.qq.com
 wowcasinoonline.ooo
 wpadmngr.com
+wpk-auth.ucweb.com
 wp.pl
 wp.salesforce.com
 wp-ui.app-us1.com
@@ -5888,6 +5958,7 @@ www.alipay.com
 www.amiotalio.com
 www.androgamer.org
 www.announcekit.app
+www.antivirus-helpnumber.com
 www.anydesk.com
 www.apkeditorfree.com
 www.app-ads-txt.com
@@ -5953,6 +6024,7 @@ www.coveo.com
 www.creditkarma.com
 www.creditverify.ca
 www.creemo.pl
+www.cybertips.xyz
 www.danabaguslah.com
 www.data.ai
 www.datadataxyz.com
@@ -6000,6 +6072,7 @@ www.giphy.com
 www.glamour.com
 www.glassbox.com
 www.glia.com
+www.gmail-support.uk
 www.go2cloud.org
 www.golden-hoyeah.com
 www.goobers.net
@@ -6026,6 +6099,7 @@ www.i2a.co
 www.ibuhaughuss.com
 www.iconsdb.com
 www.ilyon.net
+www.infinitespy.com
 www.infosensasional.com
 www.ingaa.xyz
 www.internet.apps.samsung.com
@@ -6050,6 +6124,8 @@ www.kastking.top
 www.king.com
 www.knd32k.com
 www.kustens.com
+www.kuyhaa.me
+www.kuyhaa-me.com
 www.lanzou.com
 www.lanzouo.com
 www.latestgrowing.com
@@ -6092,6 +6168,7 @@ www.mxj5trk.com
 www.narratorsvoice.com
 www.newsagent.quest
 www.newsforward.quest
+www.norton-uk.uk
 www.noxgroup.com
 www.noxinfluencer.com
 www.obsproicet.net
@@ -6120,6 +6197,7 @@ www.popcap.com
 www.pornhub.com
 www.portals.mobi
 www.powr.io
+www.printer-helpnumber.com
 www.profitwell.com
 www.propodsmax.co
 www.pullcm.com
@@ -6138,6 +6216,9 @@ www.reactful.com
 www.realmoneybiz.com
 www.refokus.com
 www.ref-r.com
+www.renewedtechnology.com
+www.renowncomputer.com
+www.renowninfotech.com
 www.requesteasy.com
 www.res-x.com
 www.rewards-cards.org
@@ -6197,6 +6278,7 @@ www.stake.com
 www.start1password.com
 www.steveziogames.com
 www.stormcleanerapp.com
+www.stream2watch.me
 www.superbig77.co
 www.superbig77.com
 www.superbig77.net
@@ -6225,6 +6307,7 @@ www.tidio.com
 www.tinder-hot.xyz
 www.tns-counter.ru
 www.tokogame.com
+www.tollfree-help.number.com
 www.top10vpn.com
 www.topbos.com
 www.toptoppartner.com
@@ -6368,6 +6451,7 @@ www.workonline1.com
 www.wp.pl
 www.wshareit.com
 www.wuildit.com
+www.wwwhelpnumber.co.uk
 www.xmlschemeformat.com
 www.xnxx.com
 www.xvideos2.com

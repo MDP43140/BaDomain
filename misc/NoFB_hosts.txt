@@ -360,6 +360,7 @@
 0.0.0.0 beta.vvv.facebook.com
 0.0.0.0 bg-bg.facebook.com
 0.0.0.0 b-graph.facebook.com
+0.0.0.0 b-graph-fallback.facebook.com
 0.0.0.0 bidder-shv-05-frc3.facebook.com
 0.0.0.0 bidder-shv-10-frc1.facebook.com
 0.0.0.0 bidv.m.facebook.com
@@ -2519,6 +2520,10 @@
 0.0.0.0 media.fsin6-1.fna.whatsapp.net
 0.0.0.0 media.fsin7-1.fna.whatsapp.net
 0.0.0.0 media.fsub2-1.fna.whatsapp.net
+0.0.0.0 media.ftkg1-1.fna.whatsapp.net
+0.0.0.0 media.ftkg2-1.fna.whatsapp.net
+0.0.0.0 media.ftkg3-1.fna.whatsapp.net
+0.0.0.0 media.ftkg4-1.fna.whatsapp.net
 0.0.0.0 media-sea1-1.cdn.whatsapp.net
 0.0.0.0 media-sin6-1.cdn.whatsapp.net
 0.0.0.0 media-sin6-2.cdn.whatsapp.net
@@ -2696,6 +2701,7 @@
 0.0.0.0 ro-ro.facebook.com
 0.0.0.0 rtmp.facebook.com
 0.0.0.0 rupload.facebook.com
+0.0.0.0 rupload-fallback.facebook.com
 0.0.0.0 ru-ru.facebook.com
 0.0.0.0 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 0.0.0.0 saic-ak.facebook.com
@@ -3515,6 +3521,7 @@
 0.0.0.0 sonar-ccu1-1.xx.fbcdn.net
 0.0.0.0 sonar-cdg2-1.xx.fbcdn.net
 0.0.0.0 sonar-cdt1-1.xx.fbcdn.net
+0.0.0.0 sonar-cgk1-1.xx.fbcdn.net
 0.0.0.0 sonar-cgk1-2.xx.fbcdn.net
 0.0.0.0 sonar-cgk.cdn.whatsapp.net
 0.0.0.0 sonar-cgk.xx.fbcdn.net
@@ -4268,6 +4275,7 @@
 0.0.0.0 web.beta.facebook.com
 0.0.0.0 webdav.facebook.com
 0.0.0.0 web.facebook.com
+0.0.0.0 web-fallback.facebook.com
 0.0.0.0 webmail.facebook.com
 0.0.0.0 wellcare.facebook.com
 0.0.0.0 wellsfargo.facebook.com
@@ -4309,18 +4317,12 @@
 0.0.0.0 workplace.facebook.com
 0.0.0.0 ww.facebook.com
 0.0.0.0 www2.facebook.com
-0.0.0.0 www.connect.facebook.net
 0.0.0.0 www.facebook.com
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
-0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.instagram.com
-0.0.0.0 www.login.facebook.com
 0.0.0.0 www.mapiliary.com
 0.0.0.0 www.prod.facebook.com
-0.0.0.0 www.s-static.ak.facebook.com
-0.0.0.0 www.static.ak.connect.facebook.com
-0.0.0.0 www.static.ak.fbcdn.net
 0.0.0.0 wwww.facebook.com
 0.0.0.0 xerox.facebook.com
 0.0.0.0 x.facebook.com
@@ -4894,6 +4896,7 @@
 0.0.0.0 z-m-lookaside.facebook.com
 0.0.0.0 z-m-portal.fb.com
 0.0.0.0 z-m-rupload.facebook.com
+0.0.0.0 z-m-rupload-fallback.facebook.com
 0.0.0.0 z-m-scontent-ams.xx.fbcdn.net
 0.0.0.0 z-m-scontent-amt.xx.fbcdn.net
 0.0.0.0 z-m-scontent-arn.xx.fbcdn.net
@@ -5670,6 +5673,7 @@
 0.0.0.0 z-p3.facebook.com
 0.0.0.0 z-p3-graph.facebook.com
 0.0.0.0 z-p3-rupload.facebook.com
+0.0.0.0 z-p3-rupload-fallback.facebook.com
 0.0.0.0 z-p3-scontent.facc1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.fada1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.fadl3-1.fna.fbcdn.net
@@ -6152,6 +6156,7 @@
 0.0.0.0 z-p4-instagram.fpku1-2.fna.fbcdn.net
 0.0.0.0 z-p4-instagram.fpku1-3.fna.fbcdn.net
 0.0.0.0 z-p4-rupload.facebook.com
+0.0.0.0 z-p4-rupload-fallback.facebook.com
 0.0.0.0 z-p4-scontent.cdninstagram.com
 0.0.0.0 z-p4-scontent-hkt1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-hkt1-2.cdninstagram.com

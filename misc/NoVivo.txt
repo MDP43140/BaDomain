@@ -14,6 +14,7 @@ asia-comonrt-stsdk.vivoglobal.com
 asia-comort-stsdk.vivoglobal.com
 asia-compnrt-stsdk.vivoglobal.com
 asia-comprt-stsdk.vivoglobal.com
+asia-config-appstore.vivoglobal.com
 asia-err-up.vivoglobal.com
 asia-ex-adlog.vivoglobal.com
 asia-exappupgrade.vivoglobal.com
@@ -61,11 +62,15 @@ asia-vcode-or.vivoglobal.com
 asia-vnote.vivoglobal.com
 asia-weather.vivoglobal.com
 asia-wifi.vivoglobal.com
+az.appstore.vivo.com
 az.appstore.vivo.com.cn
+browserplat.vivo.com
 browserplat.vivo.com.cn
 comm.api.vivoglobal.com
 domaincfg.vivoglobal.com
+download0.vivo.com
 download0.vivo.com.cn
+external.appstore.vivo.com
 external.appstore.vivo.com.cn
 homepage.vivo.com
 id-analyzer-appstore.vivoglobal.com
@@ -90,4 +95,7 @@ sysupgrade.api.vivoglobal.com
 vbw.vivoglobal.com
 vivo.com.cn
 vnotestatic.vivoglobal.com
+weatherapi.vivo.com
+weatherapi.vivo.com.cn
+wifi.vivo.com
 wifi.vivo.com.cn

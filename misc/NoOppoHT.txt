@@ -42,6 +42,7 @@ api-sg.theme.heytapmobile.com
 api-snake.oppomobile.com
 api.snake.oppomobile.com
 apisnd.heytapmobi.com
+appconf.heytapdownload.com
 appconf-ocs-sgp.heytapdl.com
 appconf-sgp.heytapdl.com
 avlconf.coloros.com
@@ -53,6 +54,7 @@ cdp-common-gl.heytapmobile.com
 cdp-common-id.heytapmobile.com
 cdp-common-in.heytapmobile.com
 classify.apps.coloros.com
+classify-f.apps.coloros.com
 client-uc.heytapmobi.com
 cloudi-in.browser.heytapmobile.com
 cloudi-in.browser.oppomobile.com
@@ -124,6 +126,8 @@ feedback-gl.heytapmobi.com
 f.push.oppomobile.com
 gameimg.heytapimg.com
 games-community-sg.heytapmobile.com
+gauss-sauapkcostauto-cn.allawnfs.com
+gauss-sauoldcostmanual-cn.allawnfs.com
 gauss-sauoldcostmanual-eu.allawnofs.com
 gauss-sauoldcostmanual-in.allawnofs.com
 gauss-sauoldcostmanual-sg.allawnofs.com
@@ -159,6 +163,7 @@ idapi.open.oppomobile.com
 idapi.store.oppomobile.com
 id.push.oppomobile.com
 id-store.oppomobile.com
+ie-front-gl.heytapimg.com
 if.browser.oppomobile.com
 iflowf.browser.oppomobile.com
 iflowf-sg.browser.oppomobile.com
@@ -176,15 +181,19 @@ i.instant.oppomobile.com
 ilockcardf.apps.coloros.com
 i.magazine.heytapmobi.com
 i.magzine.oppomobile.com
+imagzine.oppomobile.com
 img-intl-push.heytapimg.com
 img-music.heytapimage.com
 incdopic.heytapimg.com
 intlapi.cdo.oppomobile.com
+i.oau.foreign.oppomobile.com
 iopen.cdo.oppomobile.com
 i.ota.coloros.com
 i.ota.foreign.coloros.com
+i.rus.coloros.com
 irus.coloros.com
 i.rus.foreign.coloros.com
+i.sau.coloros.com
 isau.coloros.com
 i.sau.foreign.coloros.com
 i-sg01a.ocloud.heytapmobi.com
@@ -198,6 +207,7 @@ log-eap.coloros.com
 magazine-api-gl.heytapmobile.com
 magazine-api-in.heytapmobile.com
 mdp-appconf-eu.heytapdl.com
+mdp-appconf-gb.heytapdl.com
 mdp-appconf-gl.heytapdl.com
 mdp-appconf-id.heytapdl.com
 mdp-appconf-in.heytapdl.com
@@ -234,6 +244,7 @@ oppomobile.com
 ota-manual-eu.allawnofs.com
 ota-manual-in.allawnofs.com
 ota-manual-sg.allawnofs.com
+pguard-cdnfs-sg.coloros.com
 play0.heytapimg.com
 proxy.apps.oppomobile.com
 proxyf.apps.oppomobile.com

@@ -42,6 +42,7 @@
 0.0.0.0 api-snake.oppomobile.com
 0.0.0.0 api.snake.oppomobile.com
 0.0.0.0 apisnd.heytapmobi.com
+0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 appconf-ocs-sgp.heytapdl.com
 0.0.0.0 appconf-sgp.heytapdl.com
 0.0.0.0 avlconf.coloros.com
@@ -53,6 +54,7 @@
 0.0.0.0 cdp-common-id.heytapmobile.com
 0.0.0.0 cdp-common-in.heytapmobile.com
 0.0.0.0 classify.apps.coloros.com
+0.0.0.0 classify-f.apps.coloros.com
 0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 cloudi-in.browser.heytapmobile.com
 0.0.0.0 cloudi-in.browser.oppomobile.com
@@ -124,6 +126,8 @@
 0.0.0.0 f.push.oppomobile.com
 0.0.0.0 gameimg.heytapimg.com
 0.0.0.0 games-community-sg.heytapmobile.com
+0.0.0.0 gauss-sauapkcostauto-cn.allawnfs.com
+0.0.0.0 gauss-sauoldcostmanual-cn.allawnfs.com
 0.0.0.0 gauss-sauoldcostmanual-eu.allawnofs.com
 0.0.0.0 gauss-sauoldcostmanual-in.allawnofs.com
 0.0.0.0 gauss-sauoldcostmanual-sg.allawnofs.com
@@ -159,6 +163,7 @@
 0.0.0.0 idapi.store.oppomobile.com
 0.0.0.0 id.push.oppomobile.com
 0.0.0.0 id-store.oppomobile.com
+0.0.0.0 ie-front-gl.heytapimg.com
 0.0.0.0 if.browser.oppomobile.com
 0.0.0.0 iflowf.browser.oppomobile.com
 0.0.0.0 iflowf-sg.browser.oppomobile.com
@@ -176,15 +181,19 @@
 0.0.0.0 ilockcardf.apps.coloros.com
 0.0.0.0 i.magazine.heytapmobi.com
 0.0.0.0 i.magzine.oppomobile.com
+0.0.0.0 imagzine.oppomobile.com
 0.0.0.0 img-intl-push.heytapimg.com
 0.0.0.0 img-music.heytapimage.com
 0.0.0.0 incdopic.heytapimg.com
 0.0.0.0 intlapi.cdo.oppomobile.com
+0.0.0.0 i.oau.foreign.oppomobile.com
 0.0.0.0 iopen.cdo.oppomobile.com
 0.0.0.0 i.ota.coloros.com
 0.0.0.0 i.ota.foreign.coloros.com
+0.0.0.0 i.rus.coloros.com
 0.0.0.0 irus.coloros.com
 0.0.0.0 i.rus.foreign.coloros.com
+0.0.0.0 i.sau.coloros.com
 0.0.0.0 isau.coloros.com
 0.0.0.0 i.sau.foreign.coloros.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
@@ -198,6 +207,7 @@
 0.0.0.0 magazine-api-gl.heytapmobile.com
 0.0.0.0 magazine-api-in.heytapmobile.com
 0.0.0.0 mdp-appconf-eu.heytapdl.com
+0.0.0.0 mdp-appconf-gb.heytapdl.com
 0.0.0.0 mdp-appconf-gl.heytapdl.com
 0.0.0.0 mdp-appconf-id.heytapdl.com
 0.0.0.0 mdp-appconf-in.heytapdl.com
@@ -234,6 +244,7 @@
 0.0.0.0 ota-manual-eu.allawnofs.com
 0.0.0.0 ota-manual-in.allawnofs.com
 0.0.0.0 ota-manual-sg.allawnofs.com
+0.0.0.0 pguard-cdnfs-sg.coloros.com
 0.0.0.0 play0.heytapimg.com
 0.0.0.0 proxy.apps.oppomobile.com
 0.0.0.0 proxyf.apps.oppomobile.com

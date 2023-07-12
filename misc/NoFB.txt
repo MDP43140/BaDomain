@@ -359,6 +359,7 @@ beta-shv-09-frc1.facebook.com
 beta.vvv.facebook.com
 bg-bg.facebook.com
 b-graph.facebook.com
+b-graph-fallback.facebook.com
 bidder-shv-05-frc3.facebook.com
 bidder-shv-10-frc1.facebook.com
 bidv.m.facebook.com
@@ -2518,6 +2519,10 @@ media.fsin4-1.fna.whatsapp.net
 media.fsin6-1.fna.whatsapp.net
 media.fsin7-1.fna.whatsapp.net
 media.fsub2-1.fna.whatsapp.net
+media.ftkg1-1.fna.whatsapp.net
+media.ftkg2-1.fna.whatsapp.net
+media.ftkg3-1.fna.whatsapp.net
+media.ftkg4-1.fna.whatsapp.net
 media-sea1-1.cdn.whatsapp.net
 media-sin6-1.cdn.whatsapp.net
 media-sin6-2.cdn.whatsapp.net
@@ -2695,6 +2700,7 @@ research.facebook.com
 ro-ro.facebook.com
 rtmp.facebook.com
 rupload.facebook.com
+rupload-fallback.facebook.com
 ru-ru.facebook.com
 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 saic-ak.facebook.com
@@ -3505,6 +3511,7 @@ sonar-bru.xx.fbcdn.net
 sonar-ccu1-1.xx.fbcdn.net
 sonar-cdg2-1.xx.fbcdn.net
 sonar-cdt1-1.xx.fbcdn.net
+sonar-cgk1-1.xx.fbcdn.net
 sonar-cgk1-2.xx.fbcdn.net
 sonar-cgk.cdn.whatsapp.net
 sonar-cgk.xx.fbcdn.net
@@ -4258,6 +4265,7 @@ wb05f755b1-gm3tanrxgi4dcnzw.snr.whatsapp.net
 web.beta.facebook.com
 webdav.facebook.com
 web.facebook.com
+web-fallback.facebook.com
 webmail.facebook.com
 wellcare.facebook.com
 wellsfargo.facebook.com
@@ -4299,18 +4307,12 @@ work.facebook.com
 workplace.facebook.com
 ww.facebook.com
 www2.facebook.com
-www.connect.facebook.net
 www.facebook.com
 www.fbcdn.com
 www.fbcdn.net
-www.graph.facebook.com
 www.instagram.com
-www.login.facebook.com
 www.mapiliary.com
 www.prod.facebook.com
-www.s-static.ak.facebook.com
-www.static.ak.connect.facebook.com
-www.static.ak.fbcdn.net
 wwww.facebook.com
 xerox.facebook.com
 x.facebook.com
@@ -4884,6 +4886,7 @@ z-m-graph.facebook.com
 z-m-lookaside.facebook.com
 z-m-portal.fb.com
 z-m-rupload.facebook.com
+z-m-rupload-fallback.facebook.com
 z-m-scontent-ams.xx.fbcdn.net
 z-m-scontent-amt.xx.fbcdn.net
 z-m-scontent-arn.xx.fbcdn.net
@@ -5660,6 +5663,7 @@ z-p3-external.fsea1-1.fna.fbcdn.net
 z-p3.facebook.com
 z-p3-graph.facebook.com
 z-p3-rupload.facebook.com
+z-p3-rupload-fallback.facebook.com
 z-p3-scontent.facc1-1.fna.fbcdn.net
 z-p3-scontent.fada1-1.fna.fbcdn.net
 z-p3-scontent.fadl3-1.fna.fbcdn.net
@@ -6142,6 +6146,7 @@ z-p4-instagram.fpku1-1.fna.fbcdn.net
 z-p4-instagram.fpku1-2.fna.fbcdn.net
 z-p4-instagram.fpku1-3.fna.fbcdn.net
 z-p4-rupload.facebook.com
+z-p4-rupload-fallback.facebook.com
 z-p4-scontent.cdninstagram.com
 z-p4-scontent-hkt1-1.cdninstagram.com
 z-p4-scontent-hkt1-2.cdninstagram.com

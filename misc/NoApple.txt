@@ -17,6 +17,7 @@
 19-courier.push.apple.com
 1-courier.push.apple.com
 1.courier-push-apple.com.akadns.net
+1-courier.sandbox.push.apple.com
 20-courier.push.apple.com
 21-courier.push.apple.com
 21.courier-push-apple.com.akadns.net
@@ -214,6 +215,7 @@ init.ess.apple.com
 init.gc.apple.com
 init.itunes.apple.com
 init-p01md.apple.com
+init-p01st.push.apple.com
 init.push.apple.com
 init.push-apple.com.akadns.net
 ipcdn.apple.com

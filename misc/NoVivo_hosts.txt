@@ -14,6 +14,7 @@
 0.0.0.0 asia-comort-stsdk.vivoglobal.com
 0.0.0.0 asia-compnrt-stsdk.vivoglobal.com
 0.0.0.0 asia-comprt-stsdk.vivoglobal.com
+0.0.0.0 asia-config-appstore.vivoglobal.com
 0.0.0.0 asia-err-up.vivoglobal.com
 0.0.0.0 asia-ex-adlog.vivoglobal.com
 0.0.0.0 asia-exappupgrade.vivoglobal.com
@@ -61,11 +62,15 @@
 0.0.0.0 asia-vnote.vivoglobal.com
 0.0.0.0 asia-weather.vivoglobal.com
 0.0.0.0 asia-wifi.vivoglobal.com
+0.0.0.0 az.appstore.vivo.com
 0.0.0.0 az.appstore.vivo.com.cn
+0.0.0.0 browserplat.vivo.com
 0.0.0.0 browserplat.vivo.com.cn
 0.0.0.0 comm.api.vivoglobal.com
 0.0.0.0 domaincfg.vivoglobal.com
+0.0.0.0 download0.vivo.com
 0.0.0.0 download0.vivo.com.cn
+0.0.0.0 external.appstore.vivo.com
 0.0.0.0 external.appstore.vivo.com.cn
 0.0.0.0 homepage.vivo.com
 0.0.0.0 id-analyzer-appstore.vivoglobal.com
@@ -90,4 +95,7 @@
 0.0.0.0 vbw.vivoglobal.com
 0.0.0.0 vivo.com.cn
 0.0.0.0 vnotestatic.vivoglobal.com
+0.0.0.0 weatherapi.vivo.com
+0.0.0.0 weatherapi.vivo.com.cn
+0.0.0.0 wifi.vivo.com
 0.0.0.0 wifi.vivo.com.cn
