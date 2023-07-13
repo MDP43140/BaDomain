@@ -1,7 +1,7 @@
 #
 # This is the fork of llabc's TikTok Block, with MORE domains to block.
 # Use this list to totally block access to
-# any bytedance products (including TikTok, CapCut, Pangle, Lemon8 (partial, because this was new), etc...) on your network.
+# any bytedance products (including TikTok, CapCut, Pangle, Lemon8, etc...) on your network.
 #
 # I recommend using this with DanHorton's TikTok blocklist:
 # https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt
@@ -2556,6 +2556,9 @@ pull-cmaf-f16-tt01.fcdn.us.tiktokv.com
 pull-cmaf-f16-tt01.tiktokcdn.com
 pull-cmaf-f16-tt02.fcdn.us.tiktokv.com
 pull-cmaf-f16-tt02.tiktokcdn.com
+pull-cmaf-f16-tt03.fcdn.eu.tiktokcdn.com
+pull-cmaf-f16-tt03.fcdn.us.tiktokcdn.com
+pull-cmaf-f16-tt03.tiktokcdn.com
 pull-cmaf-f16-va01.tiktokcdn.com
 pull-cmaf-f16-va01.ttlivecdn.com
 pull-cmaf-f58-sg01.tiktokcdn.com
@@ -2572,6 +2575,7 @@ pull-cmaf-l16-gcp01.tiktokcdn.com
 pull-cmaf-l16-sg01.tiktokcdn.com
 pull-cmaf-l16-tt01.tiktokcdn-us.com
 pull-cmaf-l16-va01.tiktokcdn.com
+pull-cmaf-l77-gcp01.tiktokcdn.com
 pull-cmaf-l77-va01.tiktokcdn.com
 pull-f3-hs.pstatp.com
 pull-f3-hs.pstatp.com.w.alikunlun.net
@@ -2585,17 +2589,24 @@ pull-f5-hs.flive.pstatp.com
 pull-f5-hs.pstatp.com
 pull-f5.hypstarcdn.com
 pull-f5-mus.pstatp.com
+pull-f5-sg01.fcdn.eu.tiktokcdn.com
+pull-f5-sg01.fcdn.us.tiktokv.com
 pull-f5-sg01.tiktokcdn.com
 pull-f5-sg01.ttlivecdn.com
 pull-f5.tiktokcdn.com
 pull-f5.tiktokcdn.com.c.bytetcdn.com
 pull-f5.tiktokcdn.com.c.worldfcdn.com
+pull-f5-tt01.fcdn.eu.tiktokcdn.com
 pull-f5-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.tiktokcdn.com
 pull-f5-tt02.fcdn.us.tiktokv.com
 pull-f5-tt02-infra.fcdn.us.tiktokv.com
 pull-f5-tt02-intra.fcdn.us.tiktokv.com
 pull-f5-tt02.tiktokcdn.com
+pull-f5-tt03.fcdn.eu.tiktokcdn.com
+pull-f5-tt03.tiktokcdn.com
+pull-f5-va01.fcdn.eu.tiktokcdn.com
+pull-f5-va01.fcdn.us.tiktokv.com
 pull-f5-va01.tiktokcdn.com
 pull-f5-va01.ttlivecdn.com
 pull-f5-vr-gcp01.tiktokcdn.com
@@ -2630,6 +2641,9 @@ pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
 pull-flv-f77-tt02.fcdn.us.tiktokv.com
+pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
+pull-flv-f77-tt03.fcdn.us.tiktokcdn.com
+pull-flv-f77-tt03.tiktokcdn.com
 pull-flv-f77-va01.tiktokcdn.com
 pull-flv-l10-gcp01.tiktokcdn.com
 pull-flv-l10-sg01.tiktokcdn.com
@@ -2662,6 +2676,7 @@ pull-flv-l1-xg.bytecdn.cn
 pull-flv-l6-act.pstatp.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-xg.bytecdn.cn
+pull-flv-l77-gcp01.tiktokcdn.com
 pull-flv-l77-va01.tiktokcdn.com
 pull-flv-l7.pstatp.com
 pull-hls-f11-ab.tiktokcdn.com
@@ -2713,6 +2728,7 @@ pull-hls-l1.tiktokcdn.com.wsdvs.com
 pull-hls-l1-va01.tiktokcdn.com
 pull-hls-l1-va01.ttlivecdn.com
 pull-hls-l6-hs.pstatp.com
+pull-hls-l77-gcp01.tiktokcdn.com
 pull-hls-l77-va01.tiktokcdn.com
 pull-hls-q16-gcp01.tiktokcdn.com
 pull-hls-q16-sg01.tiktokcdn.com
@@ -2737,6 +2753,7 @@ pull-lls-l11-sg01.tiktokcdn.com
 pull-lls-l11.tiktokcdn.com
 pull-o5-gcp01.tiktokcdn.com
 pull-o5-sg01.tiktokcdn.com
+pull-o5-va01.tiktokcdn.com
 pull-q5-gcp01.tiktokcdn.com
 pull-q5-sg01.tiktokcdn.com
 pull-q5.tiktokcdn.com
@@ -2809,6 +2826,7 @@ push-rtmp-f5.tiktokcdn.com.c.bytetcdn.com
 push-rtmp-f5.tiktokcdn.com.c.worldfcdn.com
 push-rtmp-f5-tt01.fcdn.us.tiktokv.com
 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
+push-rtmp-f5-tt03.fcdn.eu.tiktokcdn.com
 push-rtmp-f5-va01.tiktokcdn.com
 push-rtmp-f5-va01.ttlivecdn.com
 push-rtmp-f5-vr-gcp01.tiktokcdn.com

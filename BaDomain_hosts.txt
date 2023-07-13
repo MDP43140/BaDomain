@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.07.2023
+# Version: 13.07.2023
 # Update: 1 day
 #
 
@@ -185,6 +185,7 @@
 0.0.0.0 9199.us
 0.0.0.0 91busgame.com
 0.0.0.0 91.com
+0.0.0.0 92image.levect.com
 0.0.0.0 9410194.fls.doubleclick.net
 0.0.0.0 94.110.204.35.bc.googleusercontent.com
 0.0.0.0 9933gg.com
@@ -620,6 +621,8 @@
 0.0.0.0 api.gras.samsungdm.com
 0.0.0.0 api.gw.airpay.co.id
 0.0.0.0 apigw-pre.shalltry.com
+0.0.0.0 api.haokan.mobi
+0.0.0.0 api.haokan.mobi.w.kunlunsl.com
 0.0.0.0 api.happymod.com
 0.0.0.0 api.hisavana.com
 0.0.0.0 api.honeybadger.io
@@ -2495,6 +2498,7 @@
 0.0.0.0 hao222.com
 0.0.0.0 haokan.com
 0.0.0.0 haokan.mobi
+0.0.0.0 haokan-tracking-log.log-global.aliyuncs.com
 0.0.0.0 happierleads.com
 0.0.0.0 happymod.io
 0.0.0.0 hardwarecloseout.com
@@ -2544,6 +2548,7 @@
 0.0.0.0 hitlog.viva.co.id
 0.0.0.0 hk.api.unipay.qq.com
 0.0.0.0 hk.app.joox.com
+0.0.0.0 hk-h5-cdn.levect.com
 0.0.0.0 hk.pool.ntp.org
 0.0.0.0 hk.slb.mob.com
 0.0.0.0 hkspeed.igamecj.com
@@ -3091,6 +3096,7 @@
 0.0.0.0 leonard.faceapp.io
 0.0.0.0 letsgoconvert.com
 0.0.0.0 letusdomino.com
+0.0.0.0 levect.com
 0.0.0.0 lf16-geckocdn.anotecdn.com
 0.0.0.0 lf16-oversea.goofy-cdn.com
 0.0.0.0 l-files.livejournal.net
@@ -6088,6 +6094,7 @@
 0.0.0.0 www.h2svr.info
 0.0.0.0 www.haasonline.com
 0.0.0.0 www.haasscripts.com
+0.0.0.0 www.haokan.mobi
 0.0.0.0 www.hardwarecloseout.com
 0.0.0.0 www.hastopic.com
 0.0.0.0 www.helponline123.com

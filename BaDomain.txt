@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.07.2023
+# Version: 13.07.2023
 # Update: 1 day
 #
 
@@ -185,6 +185,7 @@
 9199.us
 91busgame.com
 91.com
+92image.levect.com
 9410194.fls.doubleclick.net
 94.110.204.35.bc.googleusercontent.com
 9933gg.com
@@ -620,6 +621,8 @@ api.gotube.pro
 api.gras.samsungdm.com
 api.gw.airpay.co.id
 apigw-pre.shalltry.com
+api.haokan.mobi
+api.haokan.mobi.w.kunlunsl.com
 api.happymod.com
 api.hisavana.com
 api.honeybadger.io
@@ -2495,6 +2498,7 @@ hao123.com
 hao222.com
 haokan.com
 haokan.mobi
+haokan-tracking-log.log-global.aliyuncs.com
 happierleads.com
 happymod.io
 hardwarecloseout.com
@@ -2540,6 +2544,7 @@ history.google.com
 hitlog.viva.co.id
 hk.api.unipay.qq.com
 hk.app.joox.com
+hk-h5-cdn.levect.com
 hk.pool.ntp.org
 hk.slb.mob.com
 hkspeed.igamecj.com
@@ -3087,6 +3092,7 @@ lencr.org
 leonard.faceapp.io
 letsgoconvert.com
 letusdomino.com
+levect.com
 lf16-geckocdn.anotecdn.com
 lf16-oversea.goofy-cdn.com
 l-files.livejournal.net
@@ -6084,6 +6090,7 @@ www.goyangfc.com
 www.h2svr.info
 www.haasonline.com
 www.haasscripts.com
+www.haokan.mobi
 www.hardwarecloseout.com
 www.hastopic.com
 www.helponline123.com
