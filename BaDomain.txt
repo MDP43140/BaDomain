@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 13.07.2023
+# Version: 14.07.2023
 # Update: 1 day
 #
 
@@ -634,6 +634,7 @@ api.imotech.tech
 api-in-orc.v-mate.mobi
 api.instabridge.com
 api.intellimize.co
+api-in.xunyou.mobi
 api.ipdata.co
 api.ipify.org
 api.iq.com
@@ -722,6 +723,7 @@ api.scooper.news
 api-sdk.datadome.co
 api.segment.io
 api.sg.mangatoon.mobi
+api-sg.xunyou.mobi
 api.shareitgames.com
 api.shopee.co.id
 api.sina.com
@@ -775,6 +777,7 @@ api.wondershare.com
 api.wshareit.com
 api.wt14yf.com
 api.xshareapp.com
+api.xunyou.mobi
 api.yandex.ru
 api.youngle.site
 api.youngle.tech
@@ -4706,6 +4709,7 @@ sg.mmstat.com
 sg-o-api-server.allsaints.tv
 sg.omlet.me
 s.goodappforyou.com
+sgp-appstore-global-quic-S6TN1Dt-0bee020b86358d85.elb.ap-southeast-1.amazonaws.com
 sgp.imo.im
 sg-res.9appsdownloading.com
 sg-res.9appsinstall.com
@@ -6461,6 +6465,7 @@ www.wuildit.com
 www.wwwhelpnumber.co.uk
 www.xmlschemeformat.com
 www.xnxx.com
+www.xunyou.mobi
 www.xvideos2.com
 www.y2mate.com
 www.yastatic.net

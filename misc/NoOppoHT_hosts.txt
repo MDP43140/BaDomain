@@ -10,6 +10,7 @@
 0.0.0.0 adx-kh.ads.heytapmobile.com
 0.0.0.0 adx-mm.ads.heytapmobile.com
 0.0.0.0 adx-sg.ads.heytapmobile.com
+0.0.0.0 album-cn01a.ocloud.heytapmobi.com
 0.0.0.0 album-sg01a.ocloud.heytapmobi.com
 0.0.0.0 allawntech.com
 0.0.0.0 api-cn.cdo.heytapmobi.com
@@ -85,6 +86,7 @@
 0.0.0.0 conn-service-eu-03.allawnos.com
 0.0.0.0 conn-service-eu-04.allawnos.com
 0.0.0.0 conn-service-eu-05.allawnos.com
+0.0.0.0 conn-service-eu-07.allawnos.com
 0.0.0.0 conn-service-gl-01.allawntech.com
 0.0.0.0 conn-service-gl-02.allawntech.com
 0.0.0.0 conn-service-in-03.allawnos.com
@@ -151,6 +153,7 @@
 0.0.0.0 i5.weather.oppomobile.com
 0.0.0.0 i6f.weather.oppomobile.com
 0.0.0.0 i6.weather.oppomobile.com
+0.0.0.0 i-cn01a.ocloud.heytapmobi.com
 0.0.0.0 icosa-eu.coloros.com
 0.0.0.0 icosa-service-eu.allawnos.com
 0.0.0.0 icosa-service-in.allawnos.com
@@ -176,6 +179,7 @@
 0.0.0.0 if-sg.browser.oppomobile.com
 0.0.0.0 if-sg.magzine.oppomobile.com
 0.0.0.0 igslb.cdo.oppomobile.com
+0.0.0.0 i-in01a.ocloud.heytapmobi.com
 0.0.0.0 i-in.browser.heytapmobile.com
 0.0.0.0 i.instant.oppomobile.com
 0.0.0.0 ilockcardf.apps.coloros.com
@@ -185,6 +189,7 @@
 0.0.0.0 img-intl-push.heytapimg.com
 0.0.0.0 img-music.heytapimage.com
 0.0.0.0 incdopic.heytapimg.com
+0.0.0.0 in-store.oppomobile.com
 0.0.0.0 intlapi.cdo.oppomobile.com
 0.0.0.0 i.oau.foreign.oppomobile.com
 0.0.0.0 iopen.cdo.oppomobile.com
@@ -236,6 +241,10 @@
 0.0.0.0 ocloud-httpdns-in.heytapmobile.com
 0.0.0.0 ocloud-httpdns-sg.heytapmobile.com
 0.0.0.0 ocloud-uni-id.heytapmobile.com
+0.0.0.0 ocloud-uni-in.heytapmobile.com
+0.0.0.0 ocloud-uni-kh.heytapmobile.com
+0.0.0.0 ocloud-uni-sg.heytapmobile.com
+0.0.0.0 ocloud-uni-us.heytapmobile.com
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 opex-service-eu.allawnos.com
 0.0.0.0 opex-service-in.allawnos.com
@@ -244,6 +253,9 @@
 0.0.0.0 ota-manual-eu.allawnofs.com
 0.0.0.0 ota-manual-in.allawnofs.com
 0.0.0.0 ota-manual-sg.allawnofs.com
+0.0.0.0 pguard-cdnfs-cn.coloros.com
+0.0.0.0 pguard-cdnfs-eu.coloros.com
+0.0.0.0 pguard-cdnfs-in.coloros.com
 0.0.0.0 pguard-cdnfs-sg.coloros.com
 0.0.0.0 play0.heytapimg.com
 0.0.0.0 proxy.apps.oppomobile.com
@@ -252,6 +264,7 @@
 0.0.0.0 report-in.uc.heytapmobile.com
 0.0.0.0 report-sg.uc.heytapmobile.com
 0.0.0.0 report.uc.heytapmobi.com
+0.0.0.0 rest-in-feedback.heytapmobile.com
 0.0.0.0 rest-sg-feedback.heytapmobile.com
 0.0.0.0 rusfsg.coloros.com
 0.0.0.0 saserver.search.oppomobile.com
@@ -278,14 +291,18 @@
 0.0.0.0 storedl4.f.oppomobile.com
 0.0.0.0 storedl5.f.oppomobile.com
 0.0.0.0 storeimg.heytapimg.com
+0.0.0.0 store-quic-gl.heytapmobile.com
+0.0.0.0 store-quic-id.heytapmobile.com
 0.0.0.0 stuck-cn.dc.oppomobile.com
 0.0.0.0 stuck-eu.dc.oppomobile.com
 0.0.0.0 stuck-sg.dc.oppomobile.com
 0.0.0.0 themeimg.heytapimg.com
 0.0.0.0 theme-magazine-gl-01.heytapimg.com
 0.0.0.0 t-id.ads.heytapmobile.com
+0.0.0.0 t-in.ads.heytapmobile.com
 0.0.0.0 tipsf.apps.oppomobile.com
 0.0.0.0 titan.heytap.com
+0.0.0.0 t-sg.ads.heytapmobile.com
 0.0.0.0 uapi-id.heytapmobile.com
 0.0.0.0 uapi-in.heytapmobile.com
 0.0.0.0 u-id.browser.oppomobile.com

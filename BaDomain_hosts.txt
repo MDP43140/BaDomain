@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 13.07.2023
+# Version: 14.07.2023
 # Update: 1 day
 #
 
@@ -634,6 +634,7 @@
 0.0.0.0 api-in-orc.v-mate.mobi
 0.0.0.0 api.instabridge.com
 0.0.0.0 api.intellimize.co
+0.0.0.0 api-in.xunyou.mobi
 0.0.0.0 api.ipdata.co
 0.0.0.0 api.ipify.org
 0.0.0.0 api.iq.com
@@ -722,6 +723,7 @@
 0.0.0.0 api-sdk.datadome.co
 0.0.0.0 api.segment.io
 0.0.0.0 api.sg.mangatoon.mobi
+0.0.0.0 api-sg.xunyou.mobi
 0.0.0.0 api.shareitgames.com
 0.0.0.0 api.shopee.co.id
 0.0.0.0 api.sina.com
@@ -775,6 +777,7 @@
 0.0.0.0 api.wshareit.com
 0.0.0.0 api.wt14yf.com
 0.0.0.0 api.xshareapp.com
+0.0.0.0 api.xunyou.mobi
 0.0.0.0 api.yandex.ru
 0.0.0.0 api.youngle.site
 0.0.0.0 api.youngle.tech
@@ -4710,6 +4713,7 @@
 0.0.0.0 sg-o-api-server.allsaints.tv
 0.0.0.0 sg.omlet.me
 0.0.0.0 s.goodappforyou.com
+0.0.0.0 sgp-appstore-global-quic-S6TN1Dt-0bee020b86358d85.elb.ap-southeast-1.amazonaws.com
 0.0.0.0 sgp.imo.im
 0.0.0.0 sg-res.9appsdownloading.com
 0.0.0.0 sg-res.9appsinstall.com
@@ -6465,6 +6469,7 @@
 0.0.0.0 www.wwwhelpnumber.co.uk
 0.0.0.0 www.xmlschemeformat.com
 0.0.0.0 www.xnxx.com
+0.0.0.0 www.xunyou.mobi
 0.0.0.0 www.xvideos2.com
 0.0.0.0 www.y2mate.com
 0.0.0.0 www.yastatic.net

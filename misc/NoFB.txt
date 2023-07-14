@@ -2355,6 +2355,8 @@ media.fcgk29-1.fna.whatsapp.net
 media.fcgk30-1.fna.whatsapp.net
 media.fcgk3-1.fna.whatsapp.net
 media.fcgk3-2.fna.whatsapp.net
+media.fcgk3-3.fna.whatsapp.net
+media.fcgk3-4.fna.whatsapp.net
 media.fcgk4-2.fna.whatsapp.net
 media.fcgk4-3.fna.whatsapp.net
 media.fcgk4-4.fna.whatsapp.net

@@ -10,6 +10,7 @@ adx-in.ads.heytapmobile.com
 adx-kh.ads.heytapmobile.com
 adx-mm.ads.heytapmobile.com
 adx-sg.ads.heytapmobile.com
+album-cn01a.ocloud.heytapmobi.com
 album-sg01a.ocloud.heytapmobi.com
 allawntech.com
 api-cn.cdo.heytapmobi.com
@@ -85,6 +86,7 @@ connect.oppo.com
 conn-service-eu-03.allawnos.com
 conn-service-eu-04.allawnos.com
 conn-service-eu-05.allawnos.com
+conn-service-eu-07.allawnos.com
 conn-service-gl-01.allawntech.com
 conn-service-gl-02.allawntech.com
 conn-service-in-03.allawnos.com
@@ -151,6 +153,7 @@ i2.weather.oppomobile.com
 i5.weather.oppomobile.com
 i6f.weather.oppomobile.com
 i6.weather.oppomobile.com
+i-cn01a.ocloud.heytapmobi.com
 icosa-eu.coloros.com
 icosa-service-eu.allawnos.com
 icosa-service-in.allawnos.com
@@ -176,6 +179,7 @@ ifsau.coloros.com
 if-sg.browser.oppomobile.com
 if-sg.magzine.oppomobile.com
 igslb.cdo.oppomobile.com
+i-in01a.ocloud.heytapmobi.com
 i-in.browser.heytapmobile.com
 i.instant.oppomobile.com
 ilockcardf.apps.coloros.com
@@ -185,6 +189,7 @@ imagzine.oppomobile.com
 img-intl-push.heytapimg.com
 img-music.heytapimage.com
 incdopic.heytapimg.com
+in-store.oppomobile.com
 intlapi.cdo.oppomobile.com
 i.oau.foreign.oppomobile.com
 iopen.cdo.oppomobile.com
@@ -236,6 +241,10 @@ obus-sg.dc.heytapmobile.com
 ocloud-httpdns-in.heytapmobile.com
 ocloud-httpdns-sg.heytapmobile.com
 ocloud-uni-id.heytapmobile.com
+ocloud-uni-in.heytapmobile.com
+ocloud-uni-kh.heytapmobile.com
+ocloud-uni-sg.heytapmobile.com
+ocloud-uni-us.heytapmobile.com
 omes-sec.heytapmobile.com
 opex-service-eu.allawnos.com
 opex-service-in.allawnos.com
@@ -244,6 +253,9 @@ oppomobile.com
 ota-manual-eu.allawnofs.com
 ota-manual-in.allawnofs.com
 ota-manual-sg.allawnofs.com
+pguard-cdnfs-cn.coloros.com
+pguard-cdnfs-eu.coloros.com
+pguard-cdnfs-in.coloros.com
 pguard-cdnfs-sg.coloros.com
 play0.heytapimg.com
 proxy.apps.oppomobile.com
@@ -252,6 +264,7 @@ report-eu.uc.heytapmobile.com
 report-in.uc.heytapmobile.com
 report-sg.uc.heytapmobile.com
 report.uc.heytapmobi.com
+rest-in-feedback.heytapmobile.com
 rest-sg-feedback.heytapmobile.com
 rusfsg.coloros.com
 saserver.search.oppomobile.com
@@ -278,14 +291,18 @@ storedl3.f.oppomobile.com
 storedl4.f.oppomobile.com
 storedl5.f.oppomobile.com
 storeimg.heytapimg.com
+store-quic-gl.heytapmobile.com
+store-quic-id.heytapmobile.com
 stuck-cn.dc.oppomobile.com
 stuck-eu.dc.oppomobile.com
 stuck-sg.dc.oppomobile.com
 themeimg.heytapimg.com
 theme-magazine-gl-01.heytapimg.com
 t-id.ads.heytapmobile.com
+t-in.ads.heytapmobile.com
 tipsf.apps.oppomobile.com
 titan.heytap.com
+t-sg.ads.heytapmobile.com
 uapi-id.heytapmobile.com
 uapi-in.heytapmobile.com
 u-id.browser.oppomobile.com
