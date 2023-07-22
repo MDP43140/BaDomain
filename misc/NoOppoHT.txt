@@ -5,10 +5,13 @@
 actimg.heytapimg.com
 adsfs-id.heytapimg.com
 adsfs-in.heytapimg.com
+adx-id.ads.heytapmobi.com
 adx-id.ads.heytapmobile.com
+adx-in.ads.heytapmobi.com
 adx-in.ads.heytapmobile.com
 adx-kh.ads.heytapmobile.com
 adx-mm.ads.heytapmobile.com
+adx-sg.ads.heytapmobi.com
 adx-sg.ads.heytapmobile.com
 album-cn01a.ocloud.heytapmobi.com
 album-sg01a.ocloud.heytapmobi.com
@@ -21,11 +24,13 @@ api.dns.oppomobile.com
 api-gl.cdo.heytapmobi.com
 api-gl.cdo.heytapmobile.com
 api-gl.game.heytapmobi.com
+api-gl.game.heytapmobile.com
 api-gl.store.heytapmobi.com
 api-gl.theme.heytapmobi.com
 api-gl.theme.heytapmobile.com
 api-id.cdo.heytapmobile.com
 api-id.game.heytapmobi.com
+api-id.game.heytapmobile.com
 api-id.instant.heytapmobile.com
 api-id.play.heytapmobile.com
 api-id.store.heytapmobi.com
@@ -33,6 +38,7 @@ api-id.theme.heytapmobi.com
 api-id.theme.heytapmobile.com
 api-in.cdo.heytapmobile.com
 api-in.game.heytapmobi.com
+api-in.game.heytapmobile.com
 api-in.instant.heytapmobile.com
 api-in.play.heytapmobile.com
 api-in.store.heytapmobi.com
@@ -47,7 +53,9 @@ appconf.heytapdownload.com
 appconf-ocs-sgp.heytapdl.com
 appconf-sgp.heytapdl.com
 avlconf.coloros.com
+bdapi-id.ads.heytapmobi.com
 bdapi-id.ads.heytapmobile.com
+bdapi-in.ads.heytapmobi.com
 bdapi-in.ads.heytapmobile.com
 brand.heytap.com
 browser-i-gl.heytapmobile.com
@@ -104,6 +112,7 @@ dcintl1.push.heytapmobile.com
 dcintl1.push.oppomobile.com
 dcintl2.push.oppomobile.com
 dcintl3.push.oppomobile.com
+dcintl.push.heytapmobi.com
 dcintl.push.heytapmobile.com
 dcintl.push.oppomobile.com
 dhfs-id.heytapimage.com
@@ -121,8 +130,11 @@ eap-log-in.allawnos.com
 eap-log-sg.allawnos.com
 epoch-cn.cdo.heytapmobi.com
 epoch-gl.cdo.heytapmobi.com
+epoch-gl.cdo.heytapmobile.com
 epoch-id.cdo.heytapmobi.com
+epoch-id.cdo.heytapmobile.com
 epoch-in.cdo.heytapmobi.com
+epoch-in.cdo.heytapmobile.com
 feedback-cn.heytapmobi.com
 feedback-gl.heytapmobi.com
 f.push.oppomobile.com
@@ -143,6 +155,7 @@ gslb-gl.cdo.heytapmobi.com
 guif.coloros.com
 heytapdownload.com
 heytapmobi.com
+htms.heytapmobi.com
 htms.heytapmobile.com
 httpdns.ocloud.heytapmobi.com
 httpdns.ocloud.oppomobile.com
@@ -220,6 +233,7 @@ mdp-appconf-kh.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
 mdp-appconf-us.heytapdl.com
+mdp-usertrace-in.heytapmobi.com
 mdp-usertrace-in.heytapmobile.com
 mdp-usertrace-sg.heytapmobile.com
 moa-upload-eu.allawnos.com
@@ -245,6 +259,7 @@ ocloud-uni-in.heytapmobile.com
 ocloud-uni-kh.heytapmobile.com
 ocloud-uni-sg.heytapmobile.com
 ocloud-uni-us.heytapmobile.com
+omes-sec.heytapmobi.com
 omes-sec.heytapmobile.com
 opex-service-eu.allawnos.com
 opex-service-in.allawnos.com
@@ -273,6 +288,7 @@ sau-server-in.allawnos.com
 sau-server-sg.allawnos.com
 sau-server-us.allawnos.com
 sgp-img-c.heytapimg.com
+shortintl.push.heytapmobi.com
 shortintl.push.heytapmobile.com
 shortintl.push.oppomobile.com
 slb-apisnd-in.heytapmobile.com
@@ -280,10 +296,13 @@ smartcardf-eu.apps.coloros.com
 stat-cn.dc.oppomobile.com
 stat-in.dc.oppomobile.com
 stat-sg.dc.oppomobile.com
+stg-data-id.ads.heytapmobi.com
 stg-data-id.ads.heytapmobile.com
+stg-data-in.ads.heytapmobi.com
 stg-data-in.ads.heytapmobile.com
 stg-data-kh.ads.heytapmobile.com
 stg-data-mm.ads.heytapmobile.com
+stg-data-sg.ads.heytapmobi.com
 stg-data-sg.ads.heytapmobile.com
 sticker.apps.oppomobile.com
 stickerf.apps.oppomobile.com

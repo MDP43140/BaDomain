@@ -1700,6 +1700,7 @@ live.tiktok.com
 l.l.bytedns.net
 lms-ns.byteoversea.com
 location-traceroute-sg.bytedance.com
+location-va.tiktokv.com
 loc.snssdk.com
 log15.byteoversea.com
 log15-normal-useast2a.tiktokv.com
@@ -2544,6 +2545,7 @@ pull-a5-sg01.tiktokcdn.com
 pull-a5-tt01.fcdn.us.tiktokv.com
 pull-a5-tt02-infra.fcdn.us.tiktokv.com
 pull-a5-va01.tiktokcdn.com
+pull-c5-gcp01.tiktokcdn.com
 pull-c5-va01.tiktokcdn.com
 pull-cmaf-f16-ab.tiktokcdn.com
 pull-cmaf-f16-gcp01.tiktokcdn.com

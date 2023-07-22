@@ -5,10 +5,13 @@
 0.0.0.0 actimg.heytapimg.com
 0.0.0.0 adsfs-id.heytapimg.com
 0.0.0.0 adsfs-in.heytapimg.com
+0.0.0.0 adx-id.ads.heytapmobi.com
 0.0.0.0 adx-id.ads.heytapmobile.com
+0.0.0.0 adx-in.ads.heytapmobi.com
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 adx-kh.ads.heytapmobile.com
 0.0.0.0 adx-mm.ads.heytapmobile.com
+0.0.0.0 adx-sg.ads.heytapmobi.com
 0.0.0.0 adx-sg.ads.heytapmobile.com
 0.0.0.0 album-cn01a.ocloud.heytapmobi.com
 0.0.0.0 album-sg01a.ocloud.heytapmobi.com
@@ -21,11 +24,13 @@
 0.0.0.0 api-gl.cdo.heytapmobi.com
 0.0.0.0 api-gl.cdo.heytapmobile.com
 0.0.0.0 api-gl.game.heytapmobi.com
+0.0.0.0 api-gl.game.heytapmobile.com
 0.0.0.0 api-gl.store.heytapmobi.com
 0.0.0.0 api-gl.theme.heytapmobi.com
 0.0.0.0 api-gl.theme.heytapmobile.com
 0.0.0.0 api-id.cdo.heytapmobile.com
 0.0.0.0 api-id.game.heytapmobi.com
+0.0.0.0 api-id.game.heytapmobile.com
 0.0.0.0 api-id.instant.heytapmobile.com
 0.0.0.0 api-id.play.heytapmobile.com
 0.0.0.0 api-id.store.heytapmobi.com
@@ -33,6 +38,7 @@
 0.0.0.0 api-id.theme.heytapmobile.com
 0.0.0.0 api-in.cdo.heytapmobile.com
 0.0.0.0 api-in.game.heytapmobi.com
+0.0.0.0 api-in.game.heytapmobile.com
 0.0.0.0 api-in.instant.heytapmobile.com
 0.0.0.0 api-in.play.heytapmobile.com
 0.0.0.0 api-in.store.heytapmobi.com
@@ -47,7 +53,9 @@
 0.0.0.0 appconf-ocs-sgp.heytapdl.com
 0.0.0.0 appconf-sgp.heytapdl.com
 0.0.0.0 avlconf.coloros.com
+0.0.0.0 bdapi-id.ads.heytapmobi.com
 0.0.0.0 bdapi-id.ads.heytapmobile.com
+0.0.0.0 bdapi-in.ads.heytapmobi.com
 0.0.0.0 bdapi-in.ads.heytapmobile.com
 0.0.0.0 brand.heytap.com
 0.0.0.0 browser-i-gl.heytapmobile.com
@@ -104,6 +112,7 @@
 0.0.0.0 dcintl1.push.oppomobile.com
 0.0.0.0 dcintl2.push.oppomobile.com
 0.0.0.0 dcintl3.push.oppomobile.com
+0.0.0.0 dcintl.push.heytapmobi.com
 0.0.0.0 dcintl.push.heytapmobile.com
 0.0.0.0 dcintl.push.oppomobile.com
 0.0.0.0 dhfs-id.heytapimage.com
@@ -121,8 +130,11 @@
 0.0.0.0 eap-log-sg.allawnos.com
 0.0.0.0 epoch-cn.cdo.heytapmobi.com
 0.0.0.0 epoch-gl.cdo.heytapmobi.com
+0.0.0.0 epoch-gl.cdo.heytapmobile.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
+0.0.0.0 epoch-id.cdo.heytapmobile.com
 0.0.0.0 epoch-in.cdo.heytapmobi.com
+0.0.0.0 epoch-in.cdo.heytapmobile.com
 0.0.0.0 feedback-cn.heytapmobi.com
 0.0.0.0 feedback-gl.heytapmobi.com
 0.0.0.0 f.push.oppomobile.com
@@ -143,6 +155,7 @@
 0.0.0.0 guif.coloros.com
 0.0.0.0 heytapdownload.com
 0.0.0.0 heytapmobi.com
+0.0.0.0 htms.heytapmobi.com
 0.0.0.0 htms.heytapmobile.com
 0.0.0.0 httpdns.ocloud.heytapmobi.com
 0.0.0.0 httpdns.ocloud.oppomobile.com
@@ -220,6 +233,7 @@
 0.0.0.0 mdp-appconf-mm.heytapdl.com
 0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 mdp-appconf-us.heytapdl.com
+0.0.0.0 mdp-usertrace-in.heytapmobi.com
 0.0.0.0 mdp-usertrace-in.heytapmobile.com
 0.0.0.0 mdp-usertrace-sg.heytapmobile.com
 0.0.0.0 moa-upload-eu.allawnos.com
@@ -245,6 +259,7 @@
 0.0.0.0 ocloud-uni-kh.heytapmobile.com
 0.0.0.0 ocloud-uni-sg.heytapmobile.com
 0.0.0.0 ocloud-uni-us.heytapmobile.com
+0.0.0.0 omes-sec.heytapmobi.com
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 opex-service-eu.allawnos.com
 0.0.0.0 opex-service-in.allawnos.com
@@ -273,6 +288,7 @@
 0.0.0.0 sau-server-sg.allawnos.com
 0.0.0.0 sau-server-us.allawnos.com
 0.0.0.0 sgp-img-c.heytapimg.com
+0.0.0.0 shortintl.push.heytapmobi.com
 0.0.0.0 shortintl.push.heytapmobile.com
 0.0.0.0 shortintl.push.oppomobile.com
 0.0.0.0 slb-apisnd-in.heytapmobile.com
@@ -280,10 +296,13 @@
 0.0.0.0 stat-cn.dc.oppomobile.com
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat-sg.dc.oppomobile.com
+0.0.0.0 stg-data-id.ads.heytapmobi.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com
+0.0.0.0 stg-data-in.ads.heytapmobi.com
 0.0.0.0 stg-data-in.ads.heytapmobile.com
 0.0.0.0 stg-data-kh.ads.heytapmobile.com
 0.0.0.0 stg-data-mm.ads.heytapmobile.com
+0.0.0.0 stg-data-sg.ads.heytapmobi.com
 0.0.0.0 stg-data-sg.ads.heytapmobile.com
 0.0.0.0 sticker.apps.oppomobile.com
 0.0.0.0 stickerf.apps.oppomobile.com

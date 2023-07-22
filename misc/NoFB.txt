@@ -410,6 +410,7 @@ channel-proxy-test-shv-07-ash2.facebook.com
 channel-staging-ecmp-05-ash3.facebook.com
 channel-testing-ecmp-05-ash3.facebook.com
 chat.cdn.whatsapp.net
+chat-e2ee.facebook.com
 chat-e2ee-mini.facebook.com
 check4.facebook.com
 check6.facebook.com

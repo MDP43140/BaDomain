@@ -31,6 +31,7 @@ asia-magazineunlockstatic.vivoglobal.com
 asia-magazineunlock.vivoglobal.com
 asia-mailcli.vivoglobal.com
 asia-main-appstore.vivoglobal.com
+asia-monitor-stsdk.vivoglobal.com
 asia-news-abroad-backstage-interface.vivoglobal.com
 asia-news-abroad.vivo.com
 asia-os-config-appstore.vivoglobal.com
@@ -74,6 +75,7 @@ external.appstore.vivo.com
 external.appstore.vivo.com.cn
 homepage.vivo.com
 id-analyzer-appstore.vivoglobal.com
+id-config-appstore.vivoglobal.com
 id-info-appstore.vivoglobal.com
 id-main-appstore.vivoglobal.com
 id-search-appstore.vivoglobal.com

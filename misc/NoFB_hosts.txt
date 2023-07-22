@@ -411,6 +411,7 @@
 0.0.0.0 channel-staging-ecmp-05-ash3.facebook.com
 0.0.0.0 channel-testing-ecmp-05-ash3.facebook.com
 0.0.0.0 chat.cdn.whatsapp.net
+0.0.0.0 chat-e2ee.facebook.com
 0.0.0.0 chat-e2ee-mini.facebook.com
 0.0.0.0 check4.facebook.com
 0.0.0.0 check6.facebook.com

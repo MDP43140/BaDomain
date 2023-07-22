@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 14.07.2023
+# Version: 22.07.2023
 # Update: 1 day
 #
 
@@ -88,6 +88,7 @@
 320volt.com
 3290bce0-dnsotls-ds.metric.gstatic.com
 32.ygti905ffth6.com
+333casino.net
 33across.com
 33.ygti905ffth6.com
 344587-android-ds.metric.gstatic.com
@@ -381,6 +382,7 @@ agabreloomr.com
 agnxomu.com
 ahagamecenter.com
 ahqxh2tiocdn54ld9vzqrytyjeivo8f9.yundunwaf3.com
+aicup.magicutapp.com
 aihelp.net
 a.impactradius-go.com
 aipage.com
@@ -741,6 +743,7 @@ api.superbig77.net
 api.superbig77.online
 api.superbig77.org
 api.superbig77.xyz
+apis.videorecorderglobalserver.com
 api-swype.swypeconnect.com
 api.taken.guru
 api.tenor.com
@@ -759,6 +762,7 @@ api.useinsider.com
 api.ushareit.com
 api-v2.apkssr.com
 api-va.tmtreader.com
+api.videorecorderglobalserver.com
 api.vishavideo.com
 api-visitor-analytics.intercom.com
 api.vk.com
@@ -994,6 +998,7 @@ b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
 babaoss.oss-accelerate-overseas.aliyuncs.com
 babyzee.uno
 baca.co.id
+bacc1688.com
 backjawtanoa.com
 backuprabbit.com
 backup.supercell.com
@@ -1015,6 +1020,7 @@ bar.love.mail.ru
 barracuda.supercell.com
 barrons.com
 bazaarvoice.com
+bbb.bacc1688.com
 bbckdl.mfcewkrob.com
 bbs.bignox.com
 bc0a.com
@@ -1197,6 +1203,7 @@ cahoots.com
 calconic.com
 calendardate.online
 calibermind.com
+camera.magicutapp.com
 camp.azgames.live
 canvaz.scdn.co
 c-api-bit.shopeemobile.com
@@ -2004,6 +2011,7 @@ edialog24.com
 editmysite.com
 editor.pho.to
 editor-upload-cdn.optimonk.com
+edy99.com
 eep.io
 eezegrip.net
 effect.resso.app
@@ -2040,6 +2048,7 @@ en.bignox.com
 endpoint.mms.shopee.co.id
 english.sogou.com
 engpicka.app.link
+enjoyads.videoshowapp.com
 en.mxbc.com
 ensighten.com
 en.supercent.io
@@ -2146,6 +2155,7 @@ feature-api.pa1mstore.com
 feature-api.palmplaystore.com
 feature-api.palmst0re.com
 feebhax.com
+feed-7121.feedfinder23.info
 feed.bignox.com
 feed.chimukappa.com
 feed.rhino-news.com
@@ -2561,6 +2571,7 @@ hmma.baidu.com
 hockeyapp.net
 homecash1.com
 homer.supercell.com
+home.viva9988.com
 honeybadger.io
 hopexos.vip
 horizonme.net
@@ -2626,6 +2637,7 @@ iap.gameloft.com
 iap-mob.ubi.com
 i.appbundledownload.com
 ibb.co
+ibet789.com
 ibikini.cyou
 ib.isappcloud.com
 ibispaint.com
@@ -2994,6 +3006,8 @@ kantora.ge
 k-api.kwai-pro.com
 k-api.kwaipros.com
 kargo.com
+kaskustoto88.id
+kaskustoto.com
 kastking.top
 kayumanis.detik.com
 kepler.51y5.net
@@ -3224,6 +3238,7 @@ lr-ingest.io
 l.sharethis.com
 l-shrcnt.livejournal.net
 lt.1clickvpn.net
+lucky2u.net
 lulusoft.com
 lunalabs.io
 l-userpic.livejournal.com
@@ -4259,6 +4274,7 @@ pushwoosh.com
 pushycat.net
 pvz2-live.ecs.popcap.com
 pvz2-prd.popcap.com
+pwaapi.bacc1688.com
 px1.lifesavvy.com
 px.adhigh.net
 px-conf.perimeterx.net
@@ -4608,6 +4624,8 @@ sdk.split.io
 sdksp.wetvinfo.com
 sdk.twilio.com
 sdk.vskit.tv
+sdtoto.is
+śdtòtòmain.com
 sealine.youku.com
 search1.daumcdn.net
 search2.daumcdn.net
@@ -5262,6 +5280,7 @@ tor-browser.io
 torbrowser.io
 torproect.org
 toshiba6415.zendesk.com
+totològinśd.com
 toto.zipoapps.com
 touchpal.com
 touchremix.com
@@ -5446,6 +5465,7 @@ upload-dianshi-1255598498.file.myqcloud.com
 uploads.pcapredict.com
 upoint.id
 upos-bstar1-mirrorakam.akamaized.net
+upos-sz-mirrorasiabstar1.bilivideo.com
 upos-sz-mirrorcosbstar1.bilivideo.com
 ups.ksmobile.net
 uptime-info.yandex.ru
@@ -5568,6 +5588,7 @@ visteme.mx
 visualstudiofactory.com
 visualwebsiteoptimizer.com
 vitals.vercel-insights.com
+viva9988.com
 viva99.com
 viva99.xn--tckwe
 vivomaa.chinanetcenter.com
@@ -6107,6 +6128,7 @@ www.honeybadger.io
 www.hopexos.vip
 www.hwclouds-dns.com
 www.i2a.co
+www.ibet789.com
 www.ibuhaughuss.com
 www.iconsdb.com
 www.ilyon.net

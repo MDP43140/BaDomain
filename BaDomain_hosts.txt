@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 14.07.2023
+# Version: 22.07.2023
 # Update: 1 day
 #
 
@@ -88,6 +88,7 @@
 0.0.0.0 320volt.com
 0.0.0.0 3290bce0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 32.ygti905ffth6.com
+0.0.0.0 333casino.net
 0.0.0.0 33across.com
 0.0.0.0 33.ygti905ffth6.com
 0.0.0.0 344587-android-ds.metric.gstatic.com
@@ -381,6 +382,7 @@
 0.0.0.0 agnxomu.com
 0.0.0.0 ahagamecenter.com
 0.0.0.0 ahqxh2tiocdn54ld9vzqrytyjeivo8f9.yundunwaf3.com
+0.0.0.0 aicup.magicutapp.com
 0.0.0.0 aihelp.net
 0.0.0.0 a.impactradius-go.com
 0.0.0.0 aipage.com
@@ -741,6 +743,7 @@
 0.0.0.0 api.superbig77.online
 0.0.0.0 api.superbig77.org
 0.0.0.0 api.superbig77.xyz
+0.0.0.0 apis.videorecorderglobalserver.com
 0.0.0.0 api-swype.swypeconnect.com
 0.0.0.0 api.taken.guru
 0.0.0.0 api.tenor.com
@@ -759,6 +762,7 @@
 0.0.0.0 api.ushareit.com
 0.0.0.0 api-v2.apkssr.com
 0.0.0.0 api-va.tmtreader.com
+0.0.0.0 api.videorecorderglobalserver.com
 0.0.0.0 api.vishavideo.com
 0.0.0.0 api-visitor-analytics.intercom.com
 0.0.0.0 api.vk.com
@@ -994,6 +998,7 @@
 0.0.0.0 babaoss.oss-accelerate-overseas.aliyuncs.com
 0.0.0.0 babyzee.uno
 0.0.0.0 baca.co.id
+0.0.0.0 bacc1688.com
 0.0.0.0 backjawtanoa.com
 0.0.0.0 backuprabbit.com
 0.0.0.0 backup.supercell.com
@@ -1015,6 +1020,7 @@
 0.0.0.0 barracuda.supercell.com
 0.0.0.0 barrons.com
 0.0.0.0 bazaarvoice.com
+0.0.0.0 bbb.bacc1688.com
 0.0.0.0 bbckdl.mfcewkrob.com
 0.0.0.0 bbs.bignox.com
 0.0.0.0 bc0a.com
@@ -1197,6 +1203,7 @@
 0.0.0.0 calconic.com
 0.0.0.0 calendardate.online
 0.0.0.0 calibermind.com
+0.0.0.0 camera.magicutapp.com
 0.0.0.0 camp.azgames.live
 0.0.0.0 canvaz.scdn.co
 0.0.0.0 c-api-bit.shopeemobile.com
@@ -2004,6 +2011,7 @@
 0.0.0.0 editmysite.com
 0.0.0.0 editor.pho.to
 0.0.0.0 editor-upload-cdn.optimonk.com
+0.0.0.0 edy99.com
 0.0.0.0 eep.io
 0.0.0.0 eezegrip.net
 0.0.0.0 effect.resso.app
@@ -2040,6 +2048,7 @@
 0.0.0.0 endpoint.mms.shopee.co.id
 0.0.0.0 english.sogou.com
 0.0.0.0 engpicka.app.link
+0.0.0.0 enjoyads.videoshowapp.com
 0.0.0.0 en.mxbc.com
 0.0.0.0 ensighten.com
 0.0.0.0 en.supercent.io
@@ -2146,6 +2155,7 @@
 0.0.0.0 feature-api.palmplaystore.com
 0.0.0.0 feature-api.palmst0re.com
 0.0.0.0 feebhax.com
+0.0.0.0 feed-7121.feedfinder23.info
 0.0.0.0 feed.bignox.com
 0.0.0.0 feed.chimukappa.com
 0.0.0.0 feed.rhino-news.com
@@ -2565,6 +2575,7 @@
 0.0.0.0 hockeyapp.net
 0.0.0.0 homecash1.com
 0.0.0.0 homer.supercell.com
+0.0.0.0 home.viva9988.com
 0.0.0.0 honeybadger.io
 0.0.0.0 hopexos.vip
 0.0.0.0 horizonme.net
@@ -2630,6 +2641,7 @@
 0.0.0.0 iap-mob.ubi.com
 0.0.0.0 i.appbundledownload.com
 0.0.0.0 ibb.co
+0.0.0.0 ibet789.com
 0.0.0.0 ibikini.cyou
 0.0.0.0 ib.isappcloud.com
 0.0.0.0 ibispaint.com
@@ -2998,6 +3010,8 @@
 0.0.0.0 k-api.kwai-pro.com
 0.0.0.0 k-api.kwaipros.com
 0.0.0.0 kargo.com
+0.0.0.0 kaskustoto88.id
+0.0.0.0 kaskustoto.com
 0.0.0.0 kastking.top
 0.0.0.0 kayumanis.detik.com
 0.0.0.0 kepler.51y5.net
@@ -3228,6 +3242,7 @@
 0.0.0.0 l.sharethis.com
 0.0.0.0 l-shrcnt.livejournal.net
 0.0.0.0 lt.1clickvpn.net
+0.0.0.0 lucky2u.net
 0.0.0.0 lulusoft.com
 0.0.0.0 lunalabs.io
 0.0.0.0 l-userpic.livejournal.com
@@ -4263,6 +4278,7 @@
 0.0.0.0 pushycat.net
 0.0.0.0 pvz2-live.ecs.popcap.com
 0.0.0.0 pvz2-prd.popcap.com
+0.0.0.0 pwaapi.bacc1688.com
 0.0.0.0 px1.lifesavvy.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px-conf.perimeterx.net
@@ -4612,6 +4628,8 @@
 0.0.0.0 sdksp.wetvinfo.com
 0.0.0.0 sdk.twilio.com
 0.0.0.0 sdk.vskit.tv
+0.0.0.0 sdtoto.is
+0.0.0.0 śdtòtòmain.com
 0.0.0.0 sealine.youku.com
 0.0.0.0 search1.daumcdn.net
 0.0.0.0 search2.daumcdn.net
@@ -5266,6 +5284,7 @@
 0.0.0.0 torbrowser.io
 0.0.0.0 torproect.org
 0.0.0.0 toshiba6415.zendesk.com
+0.0.0.0 totològinśd.com
 0.0.0.0 toto.zipoapps.com
 0.0.0.0 touchpal.com
 0.0.0.0 touchremix.com
@@ -5450,6 +5469,7 @@
 0.0.0.0 uploads.pcapredict.com
 0.0.0.0 upoint.id
 0.0.0.0 upos-bstar1-mirrorakam.akamaized.net
+0.0.0.0 upos-sz-mirrorasiabstar1.bilivideo.com
 0.0.0.0 upos-sz-mirrorcosbstar1.bilivideo.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 uptime-info.yandex.ru
@@ -5572,6 +5592,7 @@
 0.0.0.0 visualstudiofactory.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vitals.vercel-insights.com
+0.0.0.0 viva9988.com
 0.0.0.0 viva99.com
 0.0.0.0 viva99.xn--tckwe
 0.0.0.0 vivomaa.chinanetcenter.com
@@ -6111,6 +6132,7 @@
 0.0.0.0 www.hopexos.vip
 0.0.0.0 www.hwclouds-dns.com
 0.0.0.0 www.i2a.co
+0.0.0.0 www.ibet789.com
 0.0.0.0 www.ibuhaughuss.com
 0.0.0.0 www.iconsdb.com
 0.0.0.0 www.ilyon.net
