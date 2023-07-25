@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 22.07.2023
+# Version: 25.07.2023
 # Update: 1 day
 #
 
@@ -506,6 +506,7 @@
 0.0.0.0 antinawala.cam
 0.0.0.0 anton.faceapp.ai
 0.0.0.0 anton.faceapp.io
+0.0.0.0 antyoubeliket.info
 0.0.0.0 anyclip.com
 0.0.0.0 anydesk.com
 0.0.0.0 anymind360.com
@@ -1117,6 +1118,7 @@
 0.0.0.0 bluekai.com
 0.0.0.0 blue.kumparan.com
 0.0.0.0 bms.ge
+0.0.0.0 b.ns1p.net
 0.0.0.0 boards.greenhouse.io
 0.0.0.0 bokepkorea1234.org
 0.0.0.0 bokts.com
@@ -1353,6 +1355,7 @@
 0.0.0.0 cdn.link4app.com
 0.0.0.0 cdn.livechatinc.com
 0.0.0.0 cdn.livechat-static.com
+0.0.0.0 cdn.live.glance.com
 0.0.0.0 cdn.lr-ingest.io
 0.0.0.0 cdnm1.caping.co.id
 0.0.0.0 cdnm3.caping.co.id
@@ -1770,6 +1773,7 @@
 0.0.0.0 d.alicdn.com
 0.0.0.0 dana-assets-id.oss-ap-southeast-5.aliyuncs.com
 0.0.0.0 danabaguslah.com
+0.0.0.0 dana-danawebtest.fastcache.net
 0.0.0.0 dana.threatcast.guardsquare.com
 0.0.0.0 danuoyi.tbcache.com
 0.0.0.0 d.applovin.com
@@ -2004,6 +2008,7 @@
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 ecommerce.nanosystems.it
 0.0.0.0 ecommplugins-scripts.trustpilot.com
+0.0.0.0 econenectedith.info
 0.0.0.0 edge1.certona.net
 0.0.0.0 edge-api.meiqia.com
 0.0.0.0 edgecastcdn.net
@@ -2154,6 +2159,7 @@
 0.0.0.0 feature-api.pa1mstore.com
 0.0.0.0 feature-api.palmplaystore.com
 0.0.0.0 feature-api.palmst0re.com
+0.0.0.0 featuregates.org
 0.0.0.0 feebhax.com
 0.0.0.0 feed-7121.feedfinder23.info
 0.0.0.0 feed.bignox.com
@@ -2735,6 +2741,7 @@
 0.0.0.0 img-1000736.ad-score.com
 0.0.0.0 img1.daumcdn.net
 0.0.0.0 img2.daumcdn.net
+0.0.0.0 img36.ropose.com
 0.0.0.0 img3.daumcdn.net
 0.0.0.0 img4.daumcdn.net
 0.0.0.0 img53.ropose.com
@@ -3408,6 +3415,7 @@
 0.0.0.0 mercusuar.uzone.id
 0.0.0.0 mergecraft.club
 0.0.0.0 messagebird.com
+0.0.0.0 messaging.engagement.office.com
 0.0.0.0 messaging.messagebird.com
 0.0.0.0 mesu.g.aaplimg.com
 0.0.0.0 metarouter.io
@@ -3785,6 +3793,7 @@
 0.0.0.0 n.zing.vn
 0.0.0.0 o1069899.ingest.sentry.io
 0.0.0.0 o108552.ingest.sentry.io
+0.0.0.0 o1160911.ingest.sentry.io
 0.0.0.0 o13824.ingest.sentry.io
 0.0.0.0 o13855.ingest.sentry.io
 0.0.0.0 o209266.ingest.sentry.io
@@ -4832,6 +4841,7 @@
 0.0.0.0 sneaky.lordofthequietbadgers.com
 0.0.0.0 snigelweb.com
 0.0.0.0 snippet.growsumo.com
+0.0.0.0 s.ns1p.net
 0.0.0.0 snssdk.com
 0.0.0.0 socialapp.top
 0.0.0.0 sociomile.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 22.07.2023
+# Version: 25.07.2023
 # Update: 1 day
 #
 
@@ -506,6 +506,7 @@ anticheatexpert.com
 antinawala.cam
 anton.faceapp.ai
 anton.faceapp.io
+antyoubeliket.info
 anyclip.com
 anydesk.com
 anymind360.com
@@ -1117,6 +1118,7 @@ bluecava.com
 bluekai.com
 blue.kumparan.com
 bms.ge
+b.ns1p.net
 boards.greenhouse.io
 bokepkorea1234.org
 bokts.com
@@ -1353,6 +1355,7 @@ cdn.liftoff-creatives.io
 cdn.link4app.com
 cdn.livechatinc.com
 cdn.livechat-static.com
+cdn.live.glance.com
 cdn.lr-ingest.io
 cdnm1.caping.co.id
 cdnm3.caping.co.id
@@ -1770,6 +1773,7 @@ dailymotion.com
 d.alicdn.com
 dana-assets-id.oss-ap-southeast-5.aliyuncs.com
 danabaguslah.com
+dana-danawebtest.fastcache.net
 dana.threatcast.guardsquare.com
 danuoyi.tbcache.com
 d.applovin.com
@@ -2004,6 +2008,7 @@ echo-tcp-org.y5en.com
 ecommerce.iap.unity3d.com
 ecommerce.nanosystems.it
 ecommplugins-scripts.trustpilot.com
+econenectedith.info
 edge1.certona.net
 edge-api.meiqia.com
 edgecastcdn.net
@@ -2154,6 +2159,7 @@ feabtest.prod.tvlk-data.com
 feature-api.pa1mstore.com
 feature-api.palmplaystore.com
 feature-api.palmst0re.com
+featuregates.org
 feebhax.com
 feed-7121.feedfinder23.info
 feed.bignox.com
@@ -2731,6 +2737,7 @@ img-1000557.ad-score.com
 img-1000736.ad-score.com
 img1.daumcdn.net
 img2.daumcdn.net
+img36.ropose.com
 img3.daumcdn.net
 img4.daumcdn.net
 img53.ropose.com
@@ -3404,6 +3411,7 @@ mendress.icu
 mercusuar.uzone.id
 mergecraft.club
 messagebird.com
+messaging.engagement.office.com
 messaging.messagebird.com
 mesu.g.aaplimg.com
 metarouter.io
@@ -3781,6 +3789,7 @@ nxtck.com
 n.zing.vn
 o1069899.ingest.sentry.io
 o108552.ingest.sentry.io
+o1160911.ingest.sentry.io
 o13824.ingest.sentry.io
 o13855.ingest.sentry.io
 o209266.ingest.sentry.io
@@ -4828,6 +4837,7 @@ snaptik.app
 sneaky.lordofthequietbadgers.com
 snigelweb.com
 snippet.growsumo.com
+s.ns1p.net
 snssdk.com
 socialapp.top
 sociomile.com
