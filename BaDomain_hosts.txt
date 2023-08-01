@@ -1,9 +1,13 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 25.07.2023
+# Version: 02.08.2023
 # Update: 1 day
 #
+#c-api-bit.shopeemobile.com
+#cf.shopee.co.id
+#dem.shopee.com
+#deo.shopeemobile.com
 
 0.0.0.0 016qfim5my3lh.puscomosca.com
 0.0.0.0 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
@@ -195,6 +199,7 @@
 0.0.0.0 9C8B0AE1.rtc.youme.im
 0.0.0.0 9ce8c6e7-dnsotls-ds.metric.gstatic.com
 0.0.0.0 9d4c473e-dnsotls-ds.metric.gstatic.com
+0.0.0.0 9da1d3a7-dnsotls-ds.metric.gstatic.com
 0.0.0.0 9y9qxfox.tweb.sched.ovscdns.com
 0.0.0.0 9.ygti905ffth6.com
 0.0.0.0 9.zxczj.top
@@ -394,6 +399,7 @@
 0.0.0.0 aka-dsa.wesingapp.com
 0.0.0.0 aka.stream.kg.qq.com
 0.0.0.0 aka.tsmusic.kg.qq.com
+0.0.0.0 ak-br-pic.kwai.net
 0.0.0.0 akcdn.bangcdn.net
 0.0.0.0 akimg.icocofun.com
 0.0.0.0 ak.itlatiaser.com
@@ -407,6 +413,7 @@
 0.0.0.0 alexmods.com
 0.0.0.0 al.flv.nimo.tv
 0.0.0.0 al.hls.nimo.tv
+0.0.0.0 ali2.a.kwimgs.com
 0.0.0.0 ali2-sgp-cdn.snackvideo.in
 0.0.0.0 alibaba.alibaba-inc.com
 0.0.0.0 alibaba.alibaba-inc.com.gds.alibabadns.com
@@ -510,6 +517,7 @@
 0.0.0.0 anyclip.com
 0.0.0.0 anydesk.com
 0.0.0.0 anymind360.com
+0.0.0.0 aoemo.cc
 0.0.0.0 aos.go2s.co
 0.0.0.0 ap1.agora.io
 0.0.0.0 ap1-tls.agora.io
@@ -675,6 +683,7 @@
 0.0.0.0 api.mi-img.com
 0.0.0.0 api.mintkeyboard.com
 0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 api.mop.apps.samsung.com
 0.0.0.0 api.myadsget.com
 0.0.0.0 api.myip.com
 0.0.0.0 api.mythad.com
@@ -728,7 +737,6 @@
 0.0.0.0 api.sg.mangatoon.mobi
 0.0.0.0 api-sg.xunyou.mobi
 0.0.0.0 api.shareitgames.com
-0.0.0.0 api.shopee.co.id
 0.0.0.0 api.sina.com
 0.0.0.0 api.sinch.com
 0.0.0.0 api.snapchat.com
@@ -824,6 +832,7 @@
 0.0.0.0 app.hubspot.com
 0.0.0.0 apph.wpsmail.net
 0.0.0.0 appia.com
+0.0.0.0 appinference-distribute2.guangzhuiyuan.com
 0.0.0.0 app-info-cdn.ezjojoy.com
 0.0.0.0 appinfo-s3.eagllwin.com
 0.0.0.0 appjustable.com
@@ -871,6 +880,7 @@
 0.0.0.0 app.static.bignox.com
 0.0.0.0 app.test.bignox.com
 0.0.0.0 app.toutiao.com
+0.0.0.0 apptrace.guangzhuiyuan.com
 0.0.0.0 app.transacme.com
 0.0.0.0 app.wpsmail.net
 0.0.0.0 app.y5en.com
@@ -981,10 +991,12 @@
 0.0.0.0 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 0.0.0.0 aws-api.kibads.com
 0.0.0.0 aws.api.snapchat.com
+0.0.0.0 aws-br-pic.kwai.net
 0.0.0.0 aws.duplex.snapchat.com
 0.0.0.0 aws-proxy-gcp.api.snapchat.com
 0.0.0.0 aws-sgp-cdn.snackvideo.in
 0.0.0.0 aws-sgp-pic.snackvideo.in
+0.0.0.0 aws-static.kwai.net
 0.0.0.0 aws-static.snackvideo.in
 0.0.0.0 awxcdn.com
 0.0.0.0 axelspringerideas.de
@@ -1201,6 +1213,7 @@
 0.0.0.0 cabinet.taxsee.ru
 0.0.0.0 cachefly.net
 0.0.0.0 cadmoremedia.com
+0.0.0.0 caduceus.online
 0.0.0.0 cahoots.com
 0.0.0.0 calconic.com
 0.0.0.0 calendardate.online
@@ -1208,7 +1221,6 @@
 0.0.0.0 camera.magicutapp.com
 0.0.0.0 camp.azgames.live
 0.0.0.0 canvaz.scdn.co
-0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 capi.connatix.com
 0.0.0.0 c-api.gos-gsp.io
 0.0.0.0 caping.co.id
@@ -1425,7 +1437,6 @@
 0.0.0.0 cfg.smartvisionapp.com
 0.0.0.0 cfg.ws.pho.to
 0.0.0.0 cfs2.uadexchange.com
-0.0.0.0 cf.shopee.co.id
 0.0.0.0 cf-st.sc-cdn.net
 0.0.0.0 c.ftblltrck.com
 0.0.0.0 cf.vskitcdn.com
@@ -1500,6 +1511,8 @@
 0.0.0.0 cloudctrl.igamecj.com
 0.0.0.0 cloudflare-content.easybrain.com
 0.0.0.0 cloudflareinsights.com
+0.0.0.0 cloudflare-sgp-cdn.snackvideo.in
+0.0.0.0 cloudflare-sgp-pic.snackvideo.in
 0.0.0.0 cloudinary.com
 0.0.0.0 cloud.litatom.com
 0.0.0.0 cloudsaze.com
@@ -1834,8 +1847,6 @@
 0.0.0.0 demo.ckg.hk
 0.0.0.0 demogamesfree-asia.pragmaticplay.net
 0.0.0.0 demos.pcapredict.com
-0.0.0.0 dem.shopee.com
-0.0.0.0 deo.shopeemobile.com
 0.0.0.0 derk.bar
 0.0.0.0 desktop.televzr.com
 0.0.0.0 de.slideshare.net
@@ -2284,6 +2295,7 @@
 0.0.0.0 g.alicdn.com
 0.0.0.0 gamea.clashofclans.com
 0.0.0.0 gameanalytics.com
+0.0.0.0 game-api.joyit.live
 0.0.0.0 gamecfg-mob.ubi.com
 0.0.0.0 game.chillyroom.com
 0.0.0.0 gamecooo.com
@@ -2480,6 +2492,7 @@
 0.0.0.0 gtq3.sct.sc-prod.net
 0.0.0.0 gtq6.sct.sc-prod.net
 0.0.0.0 gu5i180vl80c17hktdklmpu5j.litix.io
+0.0.0.0 guangzhuiyuan.com
 0.0.0.0 guerdofest.com
 0.0.0.0 guhsj4gt.ml
 0.0.0.0 guid.tpns.hk.tencent.com
@@ -2805,6 +2818,7 @@
 0.0.0.0 increaserev.com
 0.0.0.0 increasinglycockroachpolicy.com
 0.0.0.0 indeed.com
+0.0.0.0 indriverapp.com
 0.0.0.0 i.neptunegame.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 infinitespy.com
@@ -3046,6 +3060,7 @@
 0.0.0.0 kj9atb.hai8j1.com
 0.0.0.0 klaviyo.com
 0.0.0.0 klimg.com
+0.0.0.0 klink.kwai-pro.com
 0.0.0.0 klink.snackvideo.com
 0.0.0.0 knd32k.com
 0.0.0.0 knorex.com
@@ -3194,6 +3209,7 @@
 0.0.0.0 loc.map.baidu.com
 0.0.0.0 loc.samsungdive.com
 0.0.0.0 log.48play.com
+0.0.0.0 log.al-hiwar.com
 0.0.0.0 log-api.mintkeyboard.com
 0.0.0.0 log-collector.shopee.co.id
 0.0.0.0 logging.baca.co.id
@@ -3219,6 +3235,7 @@
 0.0.0.0 log.resso.app
 0.0.0.0 log.reyun.com
 0.0.0.0 logsanalytics.net
+0.0.0.0 logsdk.kwai-pro.com
 0.0.0.0 log.sharemusic5.com
 0.0.0.0 logs.im-gb.com
 0.0.0.0 log.snow.me
@@ -3903,6 +3920,7 @@
 0.0.0.0 optimizely-edge.salesforce.com
 0.0.0.0 optimonk.com
 0.0.0.0 optimumlines.com
+0.0.0.0 optiyield.opti-digital.com
 0.0.0.0 orangeclickmedia.com
 0.0.0.0 orange-dc.lazada.com
 0.0.0.0 orcacke.com
@@ -4142,10 +4160,12 @@
 0.0.0.0 player-ivideosmart-com.cdn.ampproject.org
 0.0.0.0 players.brightcove.net
 0.0.0.0 player.tubia.com
+0.0.0.0 player.youku.com
 0.0.0.0 play.mintegral.com
 0.0.0.0 play.samsungcloud.com
 0.0.0.0 play-sp.vod.shopee.com
 0.0.0.0 play-src.vod.shopee.com
+0.0.0.0 playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 play.stream2watch.com
 0.0.0.0 playtech.com
 0.0.0.0 play.wetvinfo.com
@@ -4219,6 +4239,7 @@
 0.0.0.0 prod.cloud.rockstargames.com
 0.0.0.0 prod.detectportal.prod.cloudops.mozgcp.net
 0.0.0.0 prod-game.survivorio.com
+0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 prod-mag-api.vidfree.net
 0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 prod-ms4.applovin.com
@@ -4238,6 +4259,7 @@
 0.0.0.0 prospector.clearbit.com
 0.0.0.0 pro-threats.nbowree.com
 0.0.0.0 proximacentauri.it
+0.0.0.0 proxy.aoemo.cc
 0.0.0.0 proxy-omm.lotusflare.com
 0.0.0.0 pr.prchecker.info
 0.0.0.0 ps4remoteplay.net
@@ -4531,6 +4553,7 @@
 0.0.0.0 ruplay.market
 0.0.0.0 rustore.ru
 0.0.0.0 rvere.com
+0.0.0.0 rvlyuwtr.nlb.sgw.shopeemobile.com
 0.0.0.0 rwt.fortumo.com
 0.0.0.0 ryderlawnz.xyz
 0.0.0.0 s0s.af.outfit7.com
@@ -4547,6 +4570,7 @@
 0.0.0.0 s1.daumcdn.net
 0.0.0.0 s1.hdslb.com
 0.0.0.0 s1.kwai.net
+0.0.0.0 s1.peserv.ru
 0.0.0.0 s1s.af.outfit7.com
 0.0.0.0 s1.teraboxcdn.com
 0.0.0.0 s23.cnzz.com
@@ -4554,6 +4578,7 @@
 0.0.0.0 s2.dmcdn.net
 0.0.0.0 s2.hdslb.com
 0.0.0.0 s2.loli.net
+0.0.0.0 s2.peserv.ru
 0.0.0.0 s2s-af.outfit7.com
 0.0.0.0 s2s.af.outfit7.com
 0.0.0.0 s2s.t13.io
@@ -4561,6 +4586,7 @@
 0.0.0.0 s3.amazonaws.com
 0.0.0.0 s3-hanilink-com.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 s3.hdslb.com
+0.0.0.0 s3.peserv.ru
 0.0.0.0 s3s.af.outfit7.com
 0.0.0.0 s3-v2.cdngtc.com
 0.0.0.0 s4.histats.com
@@ -4626,6 +4652,7 @@
 0.0.0.0 sdk.bignox.com
 0.0.0.0 sdkconf.avlyun.com
 0.0.0.0 sdk-exchange.startappservice.com
+0.0.0.0 sdk.hdvietpro.com
 0.0.0.0 sdk.iad-04.braze.com
 0.0.0.0 sdk.iad-05.braze.com
 0.0.0.0 sdk.navnow.xyz
@@ -4692,6 +4719,7 @@
 0.0.0.0 sentry.boomplaymusic.com
 0.0.0.0 sentry.ff.avast.com
 0.0.0.0 sentry.io
+0.0.0.0 sentry.kuaishou.com
 0.0.0.0 sentry.kumparan.com
 0.0.0.0 sentry.prod.mozaws.net
 0.0.0.0 sentry.tidio.co
@@ -4741,7 +4769,9 @@
 0.0.0.0 sg.omlet.me
 0.0.0.0 s.goodappforyou.com
 0.0.0.0 sgp-appstore-global-quic-S6TN1Dt-0bee020b86358d85.elb.ap-southeast-1.amazonaws.com
+0.0.0.0 sgp-conf.dropz-k.com
 0.0.0.0 sgp.imo.im
+0.0.0.0 sgp-tracker.dropz-k.com
 0.0.0.0 sg-res.9appsdownloading.com
 0.0.0.0 sg-res.9appsinstall.com
 0.0.0.0 sg.tdatamaster.com
@@ -4804,6 +4834,7 @@
 0.0.0.0 sitecheck2.opera.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 sitejabber.com
+0.0.0.0 sixinpic.uvfuns.com
 0.0.0.0 sixtest.com
 0.0.0.0 sjb333.vip
 0.0.0.0 skadsdkless.appsflyersdk.com
@@ -4867,6 +4898,7 @@
 0.0.0.0 source2.boomplaymusic.com
 0.0.0.0 source3.boomplaymusic.com
 0.0.0.0 source.boomplaymusic.com
+0.0.0.0 sourcemap.webfe.shopeemobile.com
 0.0.0.0 source.servicewebly.com
 0.0.0.0 sourceslabs.com
 0.0.0.0 sp-497f6f2f.honzik.avcdn.net
@@ -5006,6 +5038,7 @@
 0.0.0.0 static-web.prod.vidiocdn.com
 0.0.0.0 static.wetvinfo.com
 0.0.0.0 staticworld.net
+0.0.0.0 static.yximgs.com
 0.0.0.0 static.zdassets.com
 0.0.0.0 static-zepeto.pstatic.net
 0.0.0.0 static-znews.zadn.vn
@@ -5146,9 +5179,11 @@
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 taichi.y5en.com
 0.0.0.0 taken.guru
+0.0.0.0 talaria.online
 0.0.0.0 talenta-production.firebaseio.com
 0.0.0.0 t.alipayobjects.com
 0.0.0.0 talking-ads.com
+0.0.0.0 tance.pcdn.yximgs.com
 0.0.0.0 tank-stars.prod.azur.games
 0.0.0.0 tanteseksi.one
 0.0.0.0 taobao.com
@@ -5174,6 +5209,7 @@
 0.0.0.0 tbsandbox.com
 0.0.0.0 tch493077.tch.quora.com
 0.0.0.0 tch.quora.com
+0.0.0.0 tcr9i.chat.openai.com
 0.0.0.0 tdcv3.talkingdata.net
 0.0.0.0 teads.tv
 0.0.0.0 team.stagingapps.xyz
@@ -5378,8 +5414,10 @@
 0.0.0.0 twilio.org
 0.0.0.0 tw.pool.ntp.org
 0.0.0.0 tx2-sgp-cdn.snackvideo.in
+0.0.0.0 tx-br-pic.kwai.net
 0.0.0.0 tx.flv.nimo.tv
 0.0.0.0 tx.hls.nimo.tv
+0.0.0.0 tx-pro-origin-pull.kwai.net
 0.0.0.0 tx-sgp-cdn.snackvideo.in
 0.0.0.0 tx-sgp-origin-pull.snackvideo.in
 0.0.0.0 tx-sgp-pic.snackvideo.in

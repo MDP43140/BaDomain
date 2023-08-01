@@ -222,6 +222,8 @@
 0.0.0.0 languagef.coloros.com
 0.0.0.0 location.apps.oppomobile.com
 0.0.0.0 log-eap.coloros.com
+0.0.0.0 log-eap-in.coloros.com
+0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 magazine-api-gl.heytapmobile.com
 0.0.0.0 magazine-api-in.heytapmobile.com
 0.0.0.0 mdp-appconf-eu.heytapdl.com

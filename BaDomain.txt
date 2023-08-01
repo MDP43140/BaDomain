@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 25.07.2023
+# Version: 02.08.2023
 # Update: 1 day
 #
 
@@ -195,6 +195,7 @@
 9C8B0AE1.rtc.youme.im
 9ce8c6e7-dnsotls-ds.metric.gstatic.com
 9d4c473e-dnsotls-ds.metric.gstatic.com
+9da1d3a7-dnsotls-ds.metric.gstatic.com
 9y9qxfox.tweb.sched.ovscdns.com
 9.ygti905ffth6.com
 9.zxczj.top
@@ -394,6 +395,7 @@ aj.figugoalnew.com
 aka-dsa.wesingapp.com
 aka.stream.kg.qq.com
 aka.tsmusic.kg.qq.com
+ak-br-pic.kwai.net
 akcdn.bangcdn.net
 akimg.icocofun.com
 ak.itlatiaser.com
@@ -407,6 +409,7 @@ aktup.bangcdn.net
 alexmods.com
 al.flv.nimo.tv
 al.hls.nimo.tv
+ali2.a.kwimgs.com
 ali2-sgp-cdn.snackvideo.in
 alibaba.alibaba-inc.com
 alibaba.alibaba-inc.com.gds.alibabadns.com
@@ -510,6 +513,7 @@ antyoubeliket.info
 anyclip.com
 anydesk.com
 anymind360.com
+aoemo.cc
 aos.go2s.co
 ap1.agora.io
 ap1-tls.agora.io
@@ -675,6 +679,7 @@ api.mediation.onebooster.me
 api.mi-img.com
 api.mintkeyboard.com
 api.mobula.sdk.duapps.com
+api.mop.apps.samsung.com
 api.myadsget.com
 api.myip.com
 api.mythad.com
@@ -728,7 +733,6 @@ api.segment.io
 api.sg.mangatoon.mobi
 api-sg.xunyou.mobi
 api.shareitgames.com
-api.shopee.co.id
 api.sina.com
 api.sinch.com
 api.snapchat.com
@@ -824,6 +828,7 @@ app.happymod.com
 app.hubspot.com
 apph.wpsmail.net
 appia.com
+appinference-distribute2.guangzhuiyuan.com
 app-info-cdn.ezjojoy.com
 appinfo-s3.eagllwin.com
 appjustable.com
@@ -871,6 +876,7 @@ apps.samsung.com
 app.static.bignox.com
 app.test.bignox.com
 app.toutiao.com
+apptrace.guangzhuiyuan.com
 app.transacme.com
 app.wpsmail.net
 app.y5en.com
@@ -981,10 +987,12 @@ awebtoon.phinf.naver.net
 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 aws-api.kibads.com
 aws.api.snapchat.com
+aws-br-pic.kwai.net
 aws.duplex.snapchat.com
 aws-proxy-gcp.api.snapchat.com
 aws-sgp-cdn.snackvideo.in
 aws-sgp-pic.snackvideo.in
+aws-static.kwai.net
 aws-static.snackvideo.in
 awxcdn.com
 axelspringerideas.de
@@ -1201,6 +1209,7 @@ cabinet.taximaxim.ru
 cabinet.taxsee.ru
 cachefly.net
 cadmoremedia.com
+caduceus.online
 cahoots.com
 calconic.com
 calendardate.online
@@ -1208,7 +1217,6 @@ calibermind.com
 camera.magicutapp.com
 camp.azgames.live
 canvaz.scdn.co
-c-api-bit.shopeemobile.com
 capi.connatix.com
 c-api.gos-gsp.io
 caping.co.id
@@ -1425,7 +1433,6 @@ cfg.cml.ksmobile.com
 cfg.smartvisionapp.com
 cfg.ws.pho.to
 cfs2.uadexchange.com
-cf.shopee.co.id
 cf-st.sc-cdn.net
 c.ftblltrck.com
 cf.vskitcdn.com
@@ -1500,6 +1507,8 @@ cloudctrl.gcloudsdk.com
 cloudctrl.igamecj.com
 cloudflare-content.easybrain.com
 cloudflareinsights.com
+cloudflare-sgp-cdn.snackvideo.in
+cloudflare-sgp-pic.snackvideo.in
 cloudinary.com
 cloud.litatom.com
 cloudsaze.com
@@ -1834,8 +1843,6 @@ demo.arcade.software
 demo.ckg.hk
 demogamesfree-asia.pragmaticplay.net
 demos.pcapredict.com
-dem.shopee.com
-deo.shopeemobile.com
 derk.bar
 desktop.televzr.com
 de.slideshare.net
@@ -2284,6 +2291,7 @@ galeona.com
 g.alicdn.com
 gamea.clashofclans.com
 gameanalytics.com
+game-api.joyit.live
 gamecfg-mob.ubi.com
 game.chillyroom.com
 gamecooo.com
@@ -2480,6 +2488,7 @@ gtm.oasisfeng.com
 gtq3.sct.sc-prod.net
 gtq6.sct.sc-prod.net
 gu5i180vl80c17hktdklmpu5j.litix.io
+guangzhuiyuan.com
 guerdofest.com
 guhsj4gt.ml
 guid.tpns.hk.tencent.com
@@ -2801,6 +2810,7 @@ inbox.clashofclans.com
 increaserev.com
 increasinglycockroachpolicy.com
 indeed.com
+indriverapp.com
 i.neptunegame.com
 infinitedata-pa.googleapis.com
 infinitespy.com
@@ -3042,6 +3052,7 @@ kix-ulog.kwaipros.com
 kj9atb.hai8j1.com
 klaviyo.com
 klimg.com
+klink.kwai-pro.com
 klink.snackvideo.com
 knd32k.com
 knorex.com
@@ -3190,6 +3201,7 @@ lockersatelic.cam
 loc.map.baidu.com
 loc.samsungdive.com
 log.48play.com
+log.al-hiwar.com
 log-api.mintkeyboard.com
 log-collector.shopee.co.id
 logging.baca.co.id
@@ -3215,6 +3227,7 @@ log-report.rtcplus.com
 log.resso.app
 log.reyun.com
 logsanalytics.net
+logsdk.kwai-pro.com
 log.sharemusic5.com
 logs.im-gb.com
 log.snow.me
@@ -3899,6 +3912,7 @@ optimizationguide-pa.googleapis.com
 optimizely-edge.salesforce.com
 optimonk.com
 optimumlines.com
+optiyield.opti-digital.com
 orangeclickmedia.com
 orange-dc.lazada.com
 orcacke.com
@@ -4138,10 +4152,12 @@ player.ivideosmart.com
 player-ivideosmart-com.cdn.ampproject.org
 players.brightcove.net
 player.tubia.com
+player.youku.com
 play.mintegral.com
 play.samsungcloud.com
 play-sp.vod.shopee.com
 play-src.vod.shopee.com
+playstoregatewayadapter-pa.googleapis.com
 play.stream2watch.com
 playtech.com
 play.wetvinfo.com
@@ -4215,6 +4231,7 @@ prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 prod.cloud.rockstargames.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod-game.survivorio.com
+prod-lt-playstoregatewayadapter-pa.googleapis.com
 prod-mag-api.vidfree.net
 prod-mediate-events.applovin.com
 prod-ms4.applovin.com
@@ -4234,6 +4251,7 @@ proservice.ge
 prospector.clearbit.com
 pro-threats.nbowree.com
 proximacentauri.it
+proxy.aoemo.cc
 proxy-omm.lotusflare.com
 pr.prchecker.info
 ps4remoteplay.net
@@ -4527,6 +4545,7 @@ rum-ingest.us1.signalfx.com
 ruplay.market
 rustore.ru
 rvere.com
+rvlyuwtr.nlb.sgw.shopeemobile.com
 rwt.fortumo.com
 ryderlawnz.xyz
 s0s.af.outfit7.com
@@ -4543,6 +4562,7 @@ s1cp.xyz
 s1.daumcdn.net
 s1.hdslb.com
 s1.kwai.net
+s1.peserv.ru
 s1s.af.outfit7.com
 s1.teraboxcdn.com
 s23.cnzz.com
@@ -4550,6 +4570,7 @@ s2.daumcdn.net
 s2.dmcdn.net
 s2.hdslb.com
 s2.loli.net
+s2.peserv.ru
 s2s-af.outfit7.com
 s2s.af.outfit7.com
 s2s.t13.io
@@ -4557,6 +4578,7 @@ s2.teraboxcdn.com
 s3.amazonaws.com
 s3-hanilink-com.s3.ap-southeast-1.amazonaws.com
 s3.hdslb.com
+s3.peserv.ru
 s3s.af.outfit7.com
 s3-v2.cdngtc.com
 s4.histats.com
@@ -4622,6 +4644,7 @@ sdkapi.wifimap.io
 sdk.bignox.com
 sdkconf.avlyun.com
 sdk-exchange.startappservice.com
+sdk.hdvietpro.com
 sdk.iad-04.braze.com
 sdk.iad-05.braze.com
 sdk.navnow.xyz
@@ -4688,6 +4711,7 @@ sentry.androidacy.com
 sentry.boomplaymusic.com
 sentry.ff.avast.com
 sentry.io
+sentry.kuaishou.com
 sentry.kumparan.com
 sentry.prod.mozaws.net
 sentry.tidio.co
@@ -4737,7 +4761,9 @@ sg-o-api-server.allsaints.tv
 sg.omlet.me
 s.goodappforyou.com
 sgp-appstore-global-quic-S6TN1Dt-0bee020b86358d85.elb.ap-southeast-1.amazonaws.com
+sgp-conf.dropz-k.com
 sgp.imo.im
+sgp-tracker.dropz-k.com
 sg-res.9appsdownloading.com
 sg-res.9appsinstall.com
 sg.tdatamaster.com
@@ -4800,6 +4826,7 @@ sis.jpush.io
 sitecheck2.opera.com
 siteintercept.qualtrics.com
 sitejabber.com
+sixinpic.uvfuns.com
 sixtest.com
 sjb333.vip
 skadsdkless.appsflyersdk.com
@@ -4863,6 +4890,7 @@ source1.boomplaymusic.com
 source2.boomplaymusic.com
 source3.boomplaymusic.com
 source.boomplaymusic.com
+sourcemap.webfe.shopeemobile.com
 source.servicewebly.com
 sourceslabs.com
 sp-497f6f2f.honzik.avcdn.net
@@ -5002,6 +5030,7 @@ static-web.prod.vid.id
 static-web.prod.vidiocdn.com
 static.wetvinfo.com
 staticworld.net
+static.yximgs.com
 static.zdassets.com
 static-zepeto.pstatic.net
 static-znews.zadn.vn
@@ -5142,9 +5171,11 @@ tags.rvere.com
 tags.tiqcdn.com
 taichi.y5en.com
 taken.guru
+talaria.online
 talenta-production.firebaseio.com
 t.alipayobjects.com
 talking-ads.com
+tance.pcdn.yximgs.com
 tank-stars.prod.azur.games
 tanteseksi.one
 taobao.com
@@ -5170,6 +5201,7 @@ t.bignox.com
 tbsandbox.com
 tch493077.tch.quora.com
 tch.quora.com
+tcr9i.chat.openai.com
 tdcv3.talkingdata.net
 teads.tv
 team.stagingapps.xyz
@@ -5374,8 +5406,10 @@ twilio.com
 twilio.org
 tw.pool.ntp.org
 tx2-sgp-cdn.snackvideo.in
+tx-br-pic.kwai.net
 tx.flv.nimo.tv
 tx.hls.nimo.tv
+tx-pro-origin-pull.kwai.net
 tx-sgp-cdn.snackvideo.in
 tx-sgp-origin-pull.snackvideo.in
 tx-sgp-pic.snackvideo.in

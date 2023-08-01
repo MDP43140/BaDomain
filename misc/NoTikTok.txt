@@ -770,6 +770,7 @@ cognition.byteoversea.com
 cognition-va.bytedance.com
 collect-elb-1844102569.us-east-1.elb.amazonaws.com
 comic.snssdk.com
+commerce-api-sg.capcutapi.com
 community.bytedance.net
 compass-ns.byteoversea.com
 compass-ns.byteoversea.net
@@ -992,6 +993,8 @@ edge-alinc2-oss-slb1.bytecdn.cn
 edge-alinc2-oss-slb2.bytecdn.cn
 edge-alisc1-oss.bytecdn.cn
 edge-alisc1-oss.snssdk.com
+editor-api.capcutapi.com
+editor-api-sg.capcutapi.com
 editor-api-sg.capcut.com
 editor.bytedance.net
 edu.bytedance.net
@@ -1060,6 +1063,7 @@ fcdn.us.tiktokv.com
 f-charge-fee.snssdk.com
 fddfafhadd.temp.p23.tc.cdntip.com
 feed-api-gcp.capcut.com
+feed-api-sg.capcutapi.com
 feed-api-sg.capcut.com
 feed-api-va.capcut.com
 feedback.bytedance.net
@@ -2450,6 +2454,7 @@ partners.tiktok.com
 partner.toutiao.com
 partner.toutiao.com.bytedns.net
 passport-alisg.byteoversea.com
+passport-api-sg.capcutapi.com
 passport-api-sg.capcut.com
 passport-maliva.byteoversea.com
 passport.snssdk.com

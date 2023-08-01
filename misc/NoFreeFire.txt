@@ -1,5 +1,6 @@
 100067.connect.garena.com
 100067.msdk.garena.com
+api-otrs.garena.co.id
 bdversion.ggbluefox.com
 castle.freefiremobile.com
 cdngarenanow-a.akamaihd.net
@@ -17,9 +18,11 @@ diamondstore.sea.freefiremobile.com
 dir.freefiremobile.com
 dl.aw.freefiremobile.com
 dl.castle.freefiremobile.com
+dl.cdn.freefiremobile.com
 dl.ctlin.freefiremobile.com
 dl.dir.freefiremobile.com
 dl.gcp.freefiremobile.com
+dl-sg-production.freefiremobile.com
 dl.wsu.freefiremobile.com
 event.freefiremobile.com
 ff.garena.com
@@ -31,6 +34,8 @@ freefiremobile.com
 garena.com
 garenanow.com
 gcp.freefiremobile.com
+gin.freefiremobile.com
+help.garena.co.id
 id.event.freefiremobile.com
 id.network.freefiremobile.com
 logcollector.data.garenanow.com
@@ -43,7 +48,10 @@ poisontail.sea.freefiremobile.com
 reward.ff.garena.com
 sdk.garena.com
 sea.freefiremobile.com
+supportadm.garena.co.id
 testconnect.garena.com
 testconnect.garenanow.com
 version.common.ffmax.garena.com
 version.common.freefiremobile.com
+web.cdn.id.garenanow.com
+ws.garena.com
