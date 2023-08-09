@@ -44,10 +44,10 @@ for i in $DOMAIN_LISTS;do
 	result=`dig $DNS_PROVIDER $i`
 	exitcode="$?"
 	if [ ! "$result" ];then
-		echo -e "\r[!] No answer for $i. Check your internet\e[0K"
+		echo -e "\r[!] No answer for $i.\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif echo "$result" | grep -q 'internetpositif\|trustpositif\|blockpage\|aduankonten';then
+	elif echo "$result" | grep -q 'restricted\|internetpositif\|trustpositif\|blockpage\|aduankonten\|116.206.10.31';then
 		echo -e "\r[!] $i censored by government\e[0K"
 		echo $i >> "$LOG_EXISTS_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
@@ -55,11 +55,15 @@ for i in $DOMAIN_LISTS;do
 		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif echo "$result" | grep -q ';; no servers could be reached';then
+	elif echo "$result" | grep -q '; no servers could be reached';then
 		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
 	elif echo "$result" | grep -q ';; communications error to ';then
+		echo -e "\r[!] Server unable to query $i\e[0K"
+		echo $i >> "$LOG_SERVFAIL_FILE"
+		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
+	elif echo "$result" | grep -q ';; connection timed out ';then
 		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))

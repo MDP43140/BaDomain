@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.08.2023
+# Version: 09.08.2023
 # Update: 1 day
 #
 
@@ -14,6 +14,7 @@
 0.ygti905ffth6.com
 101.249.211.130.bc.googleusercontent.com
 101help.xyz
+107569d3-dnsotls-ds.metric.gstatic.com
 1098d38e-dnsotls-ds.metric.gstatic.com
 10gamestop.com
 10.ygti905ffth6.com
@@ -248,6 +249,7 @@ a.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
 access1.tpns.sgp.tencent.com
 access.line.me
 access-pre.ucweb.com
+account.api.here.com
 account.pcapredict.com
 accounts.automizely.com
 accounts.ea.com
@@ -354,6 +356,7 @@ advertising.com
 advertizer.com
 advertnative.com
 adviva.net
+advoncommerce.com
 ad.weixin.qq.com
 adx.adsgaga.com
 adx.ads.vungle.com
@@ -713,6 +716,7 @@ api.poster.appsinnova.com
 api-prod.chikiigame.com
 api-project-652995075284.firebaseio.com
 api.pro.kikakeyboard.com
+apipub.confirmic.com
 api.pubnative.net
 api.pushycat.net
 api.qiscus.com
@@ -762,6 +766,7 @@ api.top.gg
 api.toponadss.com
 api.tratao.com
 api.twibida.com
+api.urioy.com
 api-us.bidmachine.io
 api.useinsider.com
 api.ushareit.com
@@ -895,6 +900,8 @@ arms-retcode-sg.aliyuncs.com
 artas.biz
 artfut.com
 artsai.com
+artwork-cdn.7static.com
+artwork.projectcarmen.com
 asaux1.contivio.com
 asia.csoversea.mbgame.anticheatexpert.com
 asia-southeast1-gcp.api.snapchat.com
@@ -917,6 +924,7 @@ asset.samsungvisioncloud.com
 assets.amung.us
 assets.applovin.com
 assets.capterra.com
+assets-cdn.maze.co
 assets.cpcdn.com
 assets.duniagames.co.id
 assets.flex.twilio.com
@@ -1032,6 +1040,7 @@ bazaarvoice.com
 bbb.bacc1688.com
 bbckdl.mfcewkrob.com
 bbs.bignox.com
+bbva.info-cliente.net
 bc0a.com
 bce.baidu.com
 bcehost.com
@@ -1235,6 +1244,8 @@ cardgen.uno
 caren.live
 carlcare.com
 carrers.pho.to
+carrick-ui.advoncommerce.com
+carsphonewarehouse.com
 car.weixin.qq.com
 carx-online.com
 casalemedia.com
@@ -1455,6 +1466,7 @@ chat6-production.golabs.io
 chat7-production.golabs.io
 chat8-production.golabs.io
 chatbox.prod.europe-west1.gc.chatlayer.ai
+chat.eu-east-1.indriverapp.com
 chatgpt-pc.com
 chatlayer.ai
 cheapkey.net
@@ -1577,6 +1589,7 @@ company-stream.clearbit.com
 compass.adop.cc
 concertads-configs.vox-cdn.com
 concert.io
+conect2home.com
 confection.io
 confection-status.netlify.app
 config-1.carx-online.com
@@ -1588,6 +1601,7 @@ config.ab.qq.com
 config.ads.vungle.com
 config-api.internet.apps.samsung.com
 config.carx-online.com
+config.confirmic.com
 config.driftracingonline.com
 config.edge.skype.com
 config.e-droid.net
@@ -1606,6 +1620,7 @@ configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
 config.y5en.com
 confirmation.gameloft.com
+confirmic.com
 conf.piojm.tech
 connatix.com
 connect.detik.com
@@ -1616,6 +1631,7 @@ connect.tapjoy.com
 connectwise.com
 connectzoomdownload.com
 connperf.tantanapp.com
+consent-manager.confirmic.com
 consent.trustarc.com
 console.gadsme.com
 constellix.com
@@ -1649,6 +1665,7 @@ corp.sogou.com
 corp.supercent.io
 cos.ap-shanghai.myqcloud.com
 counter.adscontrol.xyz
+counter.personyze.com
 counter.top.ge
 counter.yadro.ru
 countly2.feelingtouch.com
@@ -2547,13 +2564,16 @@ heapanalytics.com
 heap.io
 hellomagazine.com
 helloyo.sg
+helpcmplaysdk1.ksmobile.com
 helpcmsecurity0.ksmobile.com
 helpcmsecurity1.ksmobile.com
 helponline123.com
 helpscout.com
 helpscout.net
 help.sogou.com
+helpwhitetile21.ksmobile.com
 helpx.adobe.com
+here.com
 hermes2.grabtaxi.com # uhh really ??
 hermes.360safe.com
 hermes-fs.wshareit.com
@@ -2569,6 +2589,7 @@ hippy.stream.kg.qq.com
 hips.hearstapps.com
 histats.com
 history.google.com
+hitech365.net
 hitlog.viva.co.id
 hk.api.unipay.qq.com
 hk.app.joox.com
@@ -3054,6 +3075,7 @@ klaviyo.com
 klimg.com
 klink.kwai-pro.com
 klink.snackvideo.com
+kloc.co
 knd32k.com
 knorex.com
 ko.4sync.com
@@ -3261,9 +3283,11 @@ lt.1clickvpn.net
 lucky2u.net
 lulusoft.com
 lunalabs.io
+l.urioy.com
 l-userpic.livejournal.com
 lustre.ai
 lyncdiscover.pcapredict.com
+lyric.intools.dev
 lzd-img-global.slatic.net
 m10.fywkuzp.ru
 m11.fywkuzp.ru
@@ -3313,6 +3337,7 @@ mac.weixin.qq.com
 macworld.go-vip.net
 mademoiselleosaki.com
 mafiacash.co
+magic.cmcm.com
 magneto.api.halodoc.com
 magnite.com
 magzine.transacme.com
@@ -3365,6 +3390,7 @@ matomo.y8.com
 mauth.chinanetcenter.com
 ma.wattpad.com
 mayalaze.xyz
+maze.co
 m.baidu.com
 mbd.baidu.com
 mbs88.net
@@ -3903,6 +3929,7 @@ opera.software
 operation-domain.palmplaystore.com
 oppomobile.com
 oppo-oem.avira-update.com
+oppo.telemetry.eyeo.com
 opr.adx.opera.com
 opswat.info
 optad360.io
@@ -4082,6 +4109,7 @@ persona.hotstar.com
 personalization.vidio.com
 person.clearbit.com
 person-stream.clearbit.com
+personyze.com
 pes22-game.cs.konami.net
 pf.daerisoft.com
 pfmverify.ca
@@ -4245,6 +4273,7 @@ profitwell.com
 pro.ip-api.com
 promo.boltz-pro.com
 promo.worldofwarships.asia
+prompts.maze.co
 propodsmax.co
 propsid.b-cdn.net
 proservice.ge
@@ -4840,6 +4869,7 @@ slant-api.com
 slashdotmedia.com
 slatic.net
 slickstream.com
+slnrrgbg.maze.co
 slots.easybrain.com
 smartadserver.com
 smarthackerstech.org
@@ -4864,6 +4894,7 @@ snaptik.app
 sneaky.lordofthequietbadgers.com
 snigelweb.com
 snippet.growsumo.com
+snippet.maze.co
 s.ns1p.net
 snssdk.com
 socialapp.top
@@ -4893,6 +4924,7 @@ source.boomplaymusic.com
 sourcemap.webfe.shopeemobile.com
 source.servicewebly.com
 sourceslabs.com
+sp-497f6f2f.apkrep.avcdn.net
 sp-497f6f2f.honzik.avcdn.net
 sp-607ddbd2.honzik.avcdn.net
 sp-766ec786.apkrep.avcdn.net
@@ -5521,6 +5553,7 @@ url-fwax40fx1.com
 urlssr.com
 urmyromance.com
 us18.list-manage.com
+us1.clevertap-prod.com
 usa.ime.cdn.cootekservice.com
 usa.ime.cootek.com
 us.alibabacloud.com
@@ -6104,6 +6137,7 @@ www.danabaguslah.com
 www.data.ai
 www.datadataxyz.com
 www.datamation.com
+www.datocms-assets.com
 www.decisionnowlive.com
 www.degreesnap.com
 www.diametricblip.com

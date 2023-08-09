@@ -23,6 +23,7 @@
 0.0.0.0 dl.ctlin.freefiremobile.com
 0.0.0.0 dl.dir.freefiremobile.com
 0.0.0.0 dl.gcp.freefiremobile.com
+0.0.0.0 dl.gmc.freefiremobile.com
 0.0.0.0 dl-sg-production.freefiremobile.com
 0.0.0.0 dl.wsu.freefiremobile.com
 0.0.0.0 event.freefiremobile.com

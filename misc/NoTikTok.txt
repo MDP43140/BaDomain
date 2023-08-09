@@ -2563,6 +2563,7 @@ pull-cmaf-f16-tt01.fcdn.us.tiktokv.com
 pull-cmaf-f16-tt01.tiktokcdn.com
 pull-cmaf-f16-tt02.fcdn.us.tiktokv.com
 pull-cmaf-f16-tt02.tiktokcdn.com
+pull-cmaf-f16-tt02-tt03.fcdn.eu.tiktokcdn.com
 pull-cmaf-f16-tt03.fcdn.eu.tiktokcdn.com
 pull-cmaf-f16-tt03.fcdn.us.tiktokcdn.com
 pull-cmaf-f16-tt03.tiktokcdn.com
@@ -2606,6 +2607,7 @@ pull-f5.tiktokcdn.com.c.worldfcdn.com
 pull-f5-tt01.fcdn.eu.tiktokcdn.com
 pull-f5-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.tiktokcdn.com
+pull-f5-tt02.fcdn.eu.tiktokcdn.com
 pull-f5-tt02.fcdn.us.tiktokv.com
 pull-f5-tt02-infra.fcdn.us.tiktokv.com
 pull-f5-tt02-intra.fcdn.us.tiktokv.com
@@ -2648,6 +2650,8 @@ pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
 pull-flv-f77-tt02.fcdn.us.tiktokv.com
+pull-flv-f77-tt02.tiktokcdn.com
+pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.us.tiktokcdn.com
 pull-flv-f77-tt03.tiktokcdn.com

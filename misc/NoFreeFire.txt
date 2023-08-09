@@ -22,6 +22,7 @@ dl.cdn.freefiremobile.com
 dl.ctlin.freefiremobile.com
 dl.dir.freefiremobile.com
 dl.gcp.freefiremobile.com
+dl.gmc.freefiremobile.com
 dl-sg-production.freefiremobile.com
 dl.wsu.freefiremobile.com
 event.freefiremobile.com

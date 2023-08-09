@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.08.2023
+# Version: 09.08.2023
 # Update: 1 day
 #
 #c-api-bit.shopeemobile.com
@@ -18,6 +18,7 @@
 0.0.0.0 0.ygti905ffth6.com
 0.0.0.0 101.249.211.130.bc.googleusercontent.com
 0.0.0.0 101help.xyz
+0.0.0.0 107569d3-dnsotls-ds.metric.gstatic.com
 0.0.0.0 1098d38e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 10gamestop.com
 0.0.0.0 10.ygti905ffth6.com
@@ -252,6 +253,7 @@
 0.0.0.0 access1.tpns.sgp.tencent.com
 0.0.0.0 access.line.me
 0.0.0.0 access-pre.ucweb.com
+0.0.0.0 account.api.here.com
 0.0.0.0 account.pcapredict.com
 0.0.0.0 accounts.automizely.com
 0.0.0.0 accounts.ea.com
@@ -358,6 +360,7 @@
 0.0.0.0 advertizer.com
 0.0.0.0 advertnative.com
 0.0.0.0 adviva.net
+0.0.0.0 advoncommerce.com
 0.0.0.0 ad.weixin.qq.com
 0.0.0.0 adx.adsgaga.com
 0.0.0.0 adx.ads.vungle.com
@@ -717,6 +720,7 @@
 0.0.0.0 api-prod.chikiigame.com
 0.0.0.0 api-project-652995075284.firebaseio.com
 0.0.0.0 api.pro.kikakeyboard.com
+0.0.0.0 apipub.confirmic.com
 0.0.0.0 api.pubnative.net
 0.0.0.0 api.pushycat.net
 0.0.0.0 api.qiscus.com
@@ -766,6 +770,7 @@
 0.0.0.0 api.toponadss.com
 0.0.0.0 api.tratao.com
 0.0.0.0 api.twibida.com
+0.0.0.0 api.urioy.com
 0.0.0.0 api-us.bidmachine.io
 0.0.0.0 api.useinsider.com
 0.0.0.0 api.ushareit.com
@@ -899,6 +904,8 @@
 0.0.0.0 artas.biz
 0.0.0.0 artfut.com
 0.0.0.0 artsai.com
+0.0.0.0 artwork-cdn.7static.com
+0.0.0.0 artwork.projectcarmen.com
 0.0.0.0 asaux1.contivio.com
 0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
 0.0.0.0 asia-southeast1-gcp.api.snapchat.com
@@ -921,6 +928,7 @@
 0.0.0.0 assets.amung.us
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.capterra.com
+0.0.0.0 assets-cdn.maze.co
 0.0.0.0 assets.cpcdn.com
 0.0.0.0 assets.duniagames.co.id
 0.0.0.0 assets.flex.twilio.com
@@ -1036,6 +1044,7 @@
 0.0.0.0 bbb.bacc1688.com
 0.0.0.0 bbckdl.mfcewkrob.com
 0.0.0.0 bbs.bignox.com
+0.0.0.0 bbva.info-cliente.net
 0.0.0.0 bc0a.com
 0.0.0.0 bce.baidu.com
 0.0.0.0 bcehost.com
@@ -1239,6 +1248,8 @@
 0.0.0.0 caren.live
 0.0.0.0 carlcare.com
 0.0.0.0 carrers.pho.to
+0.0.0.0 carrick-ui.advoncommerce.com
+0.0.0.0 carsphonewarehouse.com
 0.0.0.0 car.weixin.qq.com
 0.0.0.0 carx-online.com
 0.0.0.0 casalemedia.com
@@ -1459,6 +1470,7 @@
 0.0.0.0 chat7-production.golabs.io
 0.0.0.0 chat8-production.golabs.io
 0.0.0.0 chatbox.prod.europe-west1.gc.chatlayer.ai
+0.0.0.0 chat.eu-east-1.indriverapp.com
 0.0.0.0 chatgpt-pc.com
 0.0.0.0 chatlayer.ai
 0.0.0.0 cheapkey.net
@@ -1581,6 +1593,7 @@
 0.0.0.0 compass.adop.cc
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 concert.io
+0.0.0.0 conect2home.com
 0.0.0.0 confection.io
 0.0.0.0 confection-status.netlify.app
 0.0.0.0 config-1.carx-online.com
@@ -1592,6 +1605,7 @@
 0.0.0.0 config.ads.vungle.com
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 config.carx-online.com
+0.0.0.0 config.confirmic.com
 0.0.0.0 config.driftracingonline.com
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.e-droid.net
@@ -1610,6 +1624,7 @@
 0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 config.y5en.com
 0.0.0.0 confirmation.gameloft.com
+0.0.0.0 confirmic.com
 0.0.0.0 conf.piojm.tech
 0.0.0.0 connatix.com
 0.0.0.0 connect.detik.com
@@ -1620,6 +1635,7 @@
 0.0.0.0 connectwise.com
 0.0.0.0 connectzoomdownload.com
 0.0.0.0 connperf.tantanapp.com
+0.0.0.0 consent-manager.confirmic.com
 0.0.0.0 consent.trustarc.com
 0.0.0.0 console.gadsme.com
 0.0.0.0 constellix.com
@@ -1653,6 +1669,7 @@
 0.0.0.0 corp.supercent.io
 0.0.0.0 cos.ap-shanghai.myqcloud.com
 0.0.0.0 counter.adscontrol.xyz
+0.0.0.0 counter.personyze.com
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.yadro.ru
 0.0.0.0 countly2.feelingtouch.com
@@ -2551,13 +2568,16 @@
 0.0.0.0 heap.io
 0.0.0.0 hellomagazine.com
 0.0.0.0 helloyo.sg
+0.0.0.0 helpcmplaysdk1.ksmobile.com
 0.0.0.0 helpcmsecurity0.ksmobile.com
 0.0.0.0 helpcmsecurity1.ksmobile.com
 0.0.0.0 helponline123.com
 0.0.0.0 helpscout.com
 0.0.0.0 helpscout.net
 0.0.0.0 help.sogou.com
+0.0.0.0 helpwhitetile21.ksmobile.com
 0.0.0.0 helpx.adobe.com
+0.0.0.0 here.com
 0.0.0.0 hermes2.grabtaxi.com
 0.0.0.0 #
 0.0.0.0 uhh
@@ -2577,6 +2597,7 @@
 0.0.0.0 hips.hearstapps.com
 0.0.0.0 histats.com
 0.0.0.0 history.google.com
+0.0.0.0 hitech365.net
 0.0.0.0 hitlog.viva.co.id
 0.0.0.0 hk.api.unipay.qq.com
 0.0.0.0 hk.app.joox.com
@@ -3062,6 +3083,7 @@
 0.0.0.0 klimg.com
 0.0.0.0 klink.kwai-pro.com
 0.0.0.0 klink.snackvideo.com
+0.0.0.0 kloc.co
 0.0.0.0 knd32k.com
 0.0.0.0 knorex.com
 0.0.0.0 ko.4sync.com
@@ -3269,9 +3291,11 @@
 0.0.0.0 lucky2u.net
 0.0.0.0 lulusoft.com
 0.0.0.0 lunalabs.io
+0.0.0.0 l.urioy.com
 0.0.0.0 l-userpic.livejournal.com
 0.0.0.0 lustre.ai
 0.0.0.0 lyncdiscover.pcapredict.com
+0.0.0.0 lyric.intools.dev
 0.0.0.0 lzd-img-global.slatic.net
 0.0.0.0 m10.fywkuzp.ru
 0.0.0.0 m11.fywkuzp.ru
@@ -3321,6 +3345,7 @@
 0.0.0.0 macworld.go-vip.net
 0.0.0.0 mademoiselleosaki.com
 0.0.0.0 mafiacash.co
+0.0.0.0 magic.cmcm.com
 0.0.0.0 magneto.api.halodoc.com
 0.0.0.0 magnite.com
 0.0.0.0 magzine.transacme.com
@@ -3373,6 +3398,7 @@
 0.0.0.0 mauth.chinanetcenter.com
 0.0.0.0 ma.wattpad.com
 0.0.0.0 mayalaze.xyz
+0.0.0.0 maze.co
 0.0.0.0 m.baidu.com
 0.0.0.0 mbd.baidu.com
 0.0.0.0 mbs88.net
@@ -3911,6 +3937,7 @@
 0.0.0.0 operation-domain.palmplaystore.com
 0.0.0.0 oppomobile.com
 0.0.0.0 oppo-oem.avira-update.com
+0.0.0.0 oppo.telemetry.eyeo.com
 0.0.0.0 opr.adx.opera.com
 0.0.0.0 opswat.info
 0.0.0.0 optad360.io
@@ -4090,6 +4117,7 @@
 0.0.0.0 personalization.vidio.com
 0.0.0.0 person.clearbit.com
 0.0.0.0 person-stream.clearbit.com
+0.0.0.0 personyze.com
 0.0.0.0 pes22-game.cs.konami.net
 0.0.0.0 pf.daerisoft.com
 0.0.0.0 pfmverify.ca
@@ -4253,6 +4281,7 @@
 0.0.0.0 pro.ip-api.com
 0.0.0.0 promo.boltz-pro.com
 0.0.0.0 promo.worldofwarships.asia
+0.0.0.0 prompts.maze.co
 0.0.0.0 propodsmax.co
 0.0.0.0 propsid.b-cdn.net
 0.0.0.0 proservice.ge
@@ -4848,6 +4877,7 @@
 0.0.0.0 slashdotmedia.com
 0.0.0.0 slatic.net
 0.0.0.0 slickstream.com
+0.0.0.0 slnrrgbg.maze.co
 0.0.0.0 slots.easybrain.com
 0.0.0.0 smartadserver.com
 0.0.0.0 smarthackerstech.org
@@ -4872,6 +4902,7 @@
 0.0.0.0 sneaky.lordofthequietbadgers.com
 0.0.0.0 snigelweb.com
 0.0.0.0 snippet.growsumo.com
+0.0.0.0 snippet.maze.co
 0.0.0.0 s.ns1p.net
 0.0.0.0 snssdk.com
 0.0.0.0 socialapp.top
@@ -4901,6 +4932,7 @@
 0.0.0.0 sourcemap.webfe.shopeemobile.com
 0.0.0.0 source.servicewebly.com
 0.0.0.0 sourceslabs.com
+0.0.0.0 sp-497f6f2f.apkrep.avcdn.net
 0.0.0.0 sp-497f6f2f.honzik.avcdn.net
 0.0.0.0 sp-607ddbd2.honzik.avcdn.net
 0.0.0.0 sp-766ec786.apkrep.avcdn.net
@@ -5529,6 +5561,7 @@
 0.0.0.0 urlssr.com
 0.0.0.0 urmyromance.com
 0.0.0.0 us18.list-manage.com
+0.0.0.0 us1.clevertap-prod.com
 0.0.0.0 usa.ime.cdn.cootekservice.com
 0.0.0.0 usa.ime.cootek.com
 0.0.0.0 us.alibabacloud.com
@@ -6112,6 +6145,7 @@
 0.0.0.0 www.data.ai
 0.0.0.0 www.datadataxyz.com
 0.0.0.0 www.datamation.com
+0.0.0.0 www.datocms-assets.com
 0.0.0.0 www.decisionnowlive.com
 0.0.0.0 www.degreesnap.com
 0.0.0.0 www.diametricblip.com
