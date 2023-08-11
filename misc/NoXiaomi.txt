@@ -2,7 +2,6 @@
 # This hosts file blocks all xiaomi-related domains (Xiaomi,Mi,MiUi,Mi-Img,MiWiFi,MiRouter. Including its CDNs,advertising server,etc...)
 #
 
-i2-idm.api.io.mi.com
 10046.mi.com
 abtest.mistat.xiaomi.com
 account.preview.n.xiaomi.net
@@ -175,6 +174,7 @@ huangye.intl.miui.com
 huodong.xiaomi.com
 huosai.xiaomi.com
 i2.api.io.mi.com
+i2-idm.api.io.mi.com
 id-connect.sms.intl.xiaomi.com
 id-fcm.sms.intl.xiaomi.com
 idmb.app.chat.global.xiaomi.net

@@ -35,6 +35,7 @@ asia-main-appstore.vivoglobal.com
 asia-monitor-stsdk.vivoglobal.com
 asia-news-abroad-backstage-interface.vivoglobal.com
 asia-news-abroad.vivo.com
+asia-onrt-stsdk.vivoglobal.com
 asia-os-config-appstore.vivoglobal.com
 asia-overseavideoh5.vivoglobal.com
 asia-p.vivoglobal.com

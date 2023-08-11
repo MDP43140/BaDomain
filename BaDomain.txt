@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.08.2023
+# Version: 11.08.2023
 # Update: 1 day
 #
 
@@ -349,6 +349,7 @@ adtilt.com
 adtima-static.zascdn.me
 ad.toutiao.com
 aduankonten.id
+adunit.datawrkz.com
 adventureacademy.com
 adver.qq.com
 advertica-cdn.com
@@ -369,6 +370,7 @@ a.e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f.com
 ae9b110-dnsotls-ds.metric.gstatic.com
 aeef1b033fe9c48ada6c559fb84854f1-86e0a8e50803f25c.elb.ap-northeast-2.amazonaws.com
 aegis.qq.com
+aeis.alicdn.com
 aeu.alicdn.com
 a.everestop.io
 a.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
@@ -383,6 +385,7 @@ af.shalltry.com
 afterpay.com
 a.fxltsbl.com
 agabreloomr.com
+agilitycms.com
 agnxomu.com
 ahagamecenter.com
 ahqxh2tiocdn54ld9vzqrytyjeivo8f9.yundunwaf3.com
@@ -417,6 +420,7 @@ ali2-sgp-cdn.snackvideo.in
 alibaba.alibaba-inc.com
 alibaba.alibaba-inc.com.gds.alibabadns.com
 alibabacloud.com
+alibaba.com
 alibaba-inc.com
 alibaba-inc.com.gds.alibabadns.com
 alicdn.com
@@ -449,6 +453,8 @@ amap.com
 amazonfraudprotection.com
 amazonfraudprotection.ukit.me
 amdc.lazada.com
+amdc-wapa-alicdn.lazada.com
+amdc-wapa.lazada.com
 amemv.com
 amiotalio.com
 am.olx.biz.id
@@ -596,6 +602,7 @@ api.chilipiper.com
 api-cloudfront.life360.com
 api.clucoin.com
 api.coin.baca.co.id
+api.conscent.in
 api.consumer-surveys.us
 api.cupid.ptqy.gitv.tv
 api.data.appsinnova.com
@@ -902,6 +909,7 @@ artfut.com
 artsai.com
 artwork-cdn.7static.com
 artwork.projectcarmen.com
+as.alipayobjects.com
 asaux1.contivio.com
 asia.csoversea.mbgame.anticheatexpert.com
 asia-southeast1-gcp.api.snapchat.com
@@ -923,6 +931,7 @@ assets.alicdn.com
 asset.samsungvisioncloud.com
 assets.amung.us
 assets.applovin.com
+assets.aweber-static.com
 assets.capterra.com
 assets-cdn.maze.co
 assets.cpcdn.com
@@ -991,6 +1000,8 @@ a.vdo.ai
 avlsec.com
 avlsec.oss-cn-hangzhou.aliyuncs.com
 a.wattpad.com
+aweber.com
+aweber-static.com
 awebtoon.phinf.naver.net
 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 aws-api.kibads.com
@@ -1224,8 +1235,10 @@ calconic.com
 calendardate.online
 calibermind.com
 camera.magicutapp.com
+campaigns.zamsino.com
 camp.azgames.live
 canvaz.scdn.co
+c-api-bit.shopeemobile.com
 capi.connatix.com
 c-api.gos-gsp.io
 caping.co.id
@@ -1257,6 +1270,7 @@ cc.163.com
 ccms.shopee.io
 c.cnzz.com
 ccpce-sg.consumer.huawei.com
+cd7ff8.zamsino.com
 cda0.avanquest.com
 cda1.avanquest.com
 cda2.avanquest.com
@@ -1313,6 +1327,7 @@ cdn8.uzone.id
 cdn925.com
 cdn9.editmysite.com
 cdn.adswizz.com
+cdn.agilitycms.com
 cdn.aihelp.net
 cdn.arcade.software
 cdn-asset.optimonk.com
@@ -1404,6 +1419,7 @@ cdns.eu1.gigya.com
 cdns.gigya.com
 cdn.shalltry.com
 cdn.shareaholic.net
+cdn.siftscience.com
 cdn.signalfx.com
 cdn.simplelocalize.io
 cdns.klimg.com
@@ -1440,10 +1456,12 @@ cengine.contextads.live
 centre.baby
 centurygames.com
 c.erotic-massagenn.com
+certify.gpwa.org
 cfg.cml.ksmobile.com
 cfg.smartvisionapp.com
 cfg.ws.pho.to
 cfs2.uadexchange.com
+cf.shopee.co.id
 cf-st.sc-cdn.net
 c.ftblltrck.com
 cf.vskitcdn.com
@@ -1572,6 +1590,7 @@ colegiounamuno.es
 collect.alipay.com
 collect.analyse.lnearn.com
 collect-elb-1844102569.us-east-1.elb.amazonaws.com
+collections.conscent.in
 collector.lunalabs.io
 collector-pxikkul2rm.perimeterx.net
 collector-pxt6dy78t8.px-client.net
@@ -1631,6 +1650,8 @@ connect.tapjoy.com
 connectwise.com
 connectzoomdownload.com
 connperf.tantanapp.com
+conscent.ai
+conscent.in
 consent-manager.confirmic.com
 consent.trustarc.com
 console.gadsme.com
@@ -1860,6 +1881,7 @@ demo.arcade.software
 demo.ckg.hk
 demogamesfree-asia.pragmaticplay.net
 demos.pcapredict.com
+dem.shopee.com
 derk.bar
 desktop.televzr.com
 de.slideshare.net
@@ -2092,6 +2114,7 @@ epdg.epc.mnc009.mcc510.pub.3gppnetwork.org
 e.pic.ak.mangatoon.akamaized.net
 episerver.net
 eportalmobile.com
+epss.alibaba-inc.com
 erotic-massagenn.com
 es.4sync.com
 es.bignox.com
@@ -2240,6 +2263,7 @@ forfrogadiertor.com
 forgecdn.net
 forkcdn.com
 form.6mbr.com
+forms.aweber.com
 forms.hscollectedforms.net
 forms.hsforms.com
 forms.hubspot.com
@@ -2279,6 +2303,7 @@ fsdn.com
 fs.rbtasset.com
 fs.robotaset.com
 ftblltrck.com
+ftp9ql.tdum.alibaba.com
 ftp.bestappsale.com
 ftp.ipchina163.com
 ftp.lysator.liu.se
@@ -2321,6 +2346,7 @@ game.qq.com
 game-service.playgendary.com
 games.shopee.co.id
 gamestats.clockstone.com
+gamestore.whitetileos.cmcm.com
 gametool10.ml
 game-users-storage.playgendary.com
 gamev6.com
@@ -2350,6 +2376,7 @@ gbwhatsapp.download
 gcb-app.herokuapp.com
 gcmapi.like-it.video
 gcp.api.snapchat.com
+gcp-img.slatic.net
 gcs.sc-cdn.net
 gcsu.ucweb.com
 gdanstum.net
@@ -2411,6 +2438,7 @@ glance.com
 glance-mob.glance-cdn.com
 glanceseg.blob.core.windows.net
 glassbox.com
+g.lazcdn.com
 glcs.listdl.com
 glentanks.xyz
 gllto1.glpals.com
@@ -2475,6 +2503,7 @@ goyangfc.com
 gpapi.zepeto.io
 gpt-ai-chat.com
 gpvjyx.ssptp4.com
+gpwa.org
 graph.microsoft.com
 graphql.api.dailymotion.com
 graphql.contentful.com
@@ -2535,6 +2564,7 @@ h5xyz.com
 h5.y5en.com
 haasonline.com
 haasscripts.com
+h-adashx.ut.lazada.com
 hammergamer.com
 handoff-cdn.appadvice.com
 hanyu.sogou.com
@@ -2731,6 +2761,7 @@ igofun.mobi
 i.higgsradio.com
 i.ibb.co
 i.jpallnight.com
+i.kissmetrics.com
 i.l-new.inmobicdn.net
 ilovexclub.com
 ilyon.net
@@ -2943,6 +2974,7 @@ it.bignox.com
 i.test3-mobileapi.ucnewtest.wanyol.com
 itoon.org
 it.pingchas.com
+itscenter.alipay.com
 itsecurity.com
 ituserver.xyz
 ituvipwd.com
@@ -2992,6 +3024,7 @@ js3.loklok.tv
 js5.loklok.tv
 js8.loklok.tv
 js9.loklok.tv
+js.afterpay.com
 js.captcha-display.com
 js.chargebee.com
 js.chilipiper.com
@@ -3066,6 +3099,7 @@ kinja.com
 kinja-com.videoplayerhub.com
 kinja-static.com
 kiskebhge23j.ml
+kissmetrics.com
 kiwibrowser.org
 kiwiirc.com
 kix-ulog.kwai-pro.com
@@ -3629,6 +3663,7 @@ mywavehome.net
 n430bc9de.app-ads-txt.com
 n5t8v6w3.stackpathcdn.com
 na.albtls.t.co
+nablons.com
 nadaring.mademoiselleosaki.com
 nagich.com
 nagios.dreamvps.com
@@ -4018,6 +4053,7 @@ p26.zdassets.com
 p27.zdassets.com
 p28.zdassets.com
 p29.zdassets.com
+p2.cmcm.com
 p2.itc.cn.w.cdngslb.com
 p3.itc.cn.w.cdngslb.com
 p3.zdassets.com
@@ -4334,6 +4370,7 @@ pwaapi.bacc1688.com
 px1.lifesavvy.com
 px.adhigh.net
 px-conf.perimeterx.net
+px-intl.ucweb.com
 pxksnymto.ru
 px.za.zalo.me
 p.yotpo.com
@@ -4662,6 +4699,7 @@ screenconnect.com
 screensteps.com
 sc-report.tantanapp.com
 scripts.jixie.media
+scripts.kissmetrics.com
 scroll.com
 sda-cdn.amzgame.com
 s.dessaly.com
@@ -4892,6 +4930,7 @@ snapgirls.date
 snapgirls.uno
 snaptik.app
 sneaky.lordofthequietbadgers.com
+snid.snitcher.com
 snigelweb.com
 snippet.growsumo.com
 snippet.maze.co
@@ -5006,6 +5045,7 @@ static-act.imoim.net
 static-act.like-video.com
 static.addtoany.com
 static.ads-twitter.com
+static.agilitycms.com
 static.ahagamecenter.com
 static.apester.com
 static.api.baca.co.id
@@ -5301,6 +5341,7 @@ tickers.playtech.com
 tidiochat.com
 tidio.co
 tidio.com
+tileswan.cmcm.com
 time1.cloud.tencent.com
 time2.cloud.tencent.com
 time3.cloud.tencent.com
@@ -5376,6 +5417,7 @@ track.gaconnector.com
 tracking.apptrackerlink.com
 tracking.g2crowd.com
 tracking.ksztone.com
+trackingrevenuetds.com
 tracking.smartconnect-sg.net
 tracking.trnox.com
 track.mailerlite.com
@@ -5580,6 +5622,7 @@ us-east-1.ingaa.xyz
 us-east4-gcp.api.snapchat.com
 useinsider.com
 user-api.ucweb.com
+user.conscent.in
 userlocation.googleapis.com
 useroperation.wondershare.com
 user-snow-api.snow.me
@@ -5809,6 +5852,7 @@ whatssappa.xyz
 whereres.com
 whippedfreezerbegun.com
 whiteclawreport.com
+whitetileos.cmcm.com
 whoami.akamai.net
 whos.amung.us
 whx66.veve.com
@@ -6079,6 +6123,7 @@ www.arcade.software
 www.artfut.com
 www.attention-system-warning.com
 www.automizely.com
+www.aweber.com
 www.aws.iobit.com
 www.awxcdn.com
 www.baca.co.id
@@ -6377,6 +6422,7 @@ www.smartsuppcdn.com
 www.smartsuppchat.com
 www.smtjs-06.com
 www.snapchat.com
+www.snitcher.com
 www.sogou.com
 www.sohu.com
 www.soundiradio.com

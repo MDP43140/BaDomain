@@ -1,13 +1,9 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 09.08.2023
+# Version: 11.08.2023
 # Update: 1 day
 #
-#c-api-bit.shopeemobile.com
-#cf.shopee.co.id
-#dem.shopee.com
-#deo.shopeemobile.com
 
 0.0.0.0 016qfim5my3lh.puscomosca.com
 0.0.0.0 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
@@ -353,6 +349,7 @@
 0.0.0.0 adtima-static.zascdn.me
 0.0.0.0 ad.toutiao.com
 0.0.0.0 aduankonten.id
+0.0.0.0 adunit.datawrkz.com
 0.0.0.0 adventureacademy.com
 0.0.0.0 adver.qq.com
 0.0.0.0 advertica-cdn.com
@@ -373,6 +370,7 @@
 0.0.0.0 ae9b110-dnsotls-ds.metric.gstatic.com
 0.0.0.0 aeef1b033fe9c48ada6c559fb84854f1-86e0a8e50803f25c.elb.ap-northeast-2.amazonaws.com
 0.0.0.0 aegis.qq.com
+0.0.0.0 aeis.alicdn.com
 0.0.0.0 aeu.alicdn.com
 0.0.0.0 a.everestop.io
 0.0.0.0 a.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
@@ -387,6 +385,7 @@
 0.0.0.0 afterpay.com
 0.0.0.0 a.fxltsbl.com
 0.0.0.0 agabreloomr.com
+0.0.0.0 agilitycms.com
 0.0.0.0 agnxomu.com
 0.0.0.0 ahagamecenter.com
 0.0.0.0 ahqxh2tiocdn54ld9vzqrytyjeivo8f9.yundunwaf3.com
@@ -421,6 +420,7 @@
 0.0.0.0 alibaba.alibaba-inc.com
 0.0.0.0 alibaba.alibaba-inc.com.gds.alibabadns.com
 0.0.0.0 alibabacloud.com
+0.0.0.0 alibaba.com
 0.0.0.0 alibaba-inc.com
 0.0.0.0 alibaba-inc.com.gds.alibabadns.com
 0.0.0.0 alicdn.com
@@ -453,6 +453,8 @@
 0.0.0.0 amazonfraudprotection.com
 0.0.0.0 amazonfraudprotection.ukit.me
 0.0.0.0 amdc.lazada.com
+0.0.0.0 amdc-wapa-alicdn.lazada.com
+0.0.0.0 amdc-wapa.lazada.com
 0.0.0.0 amemv.com
 0.0.0.0 amiotalio.com
 0.0.0.0 am.olx.biz.id
@@ -600,6 +602,7 @@
 0.0.0.0 api-cloudfront.life360.com
 0.0.0.0 api.clucoin.com
 0.0.0.0 api.coin.baca.co.id
+0.0.0.0 api.conscent.in
 0.0.0.0 api.consumer-surveys.us
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 api.data.appsinnova.com
@@ -906,6 +909,7 @@
 0.0.0.0 artsai.com
 0.0.0.0 artwork-cdn.7static.com
 0.0.0.0 artwork.projectcarmen.com
+0.0.0.0 as.alipayobjects.com
 0.0.0.0 asaux1.contivio.com
 0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
 0.0.0.0 asia-southeast1-gcp.api.snapchat.com
@@ -927,6 +931,7 @@
 0.0.0.0 asset.samsungvisioncloud.com
 0.0.0.0 assets.amung.us
 0.0.0.0 assets.applovin.com
+0.0.0.0 assets.aweber-static.com
 0.0.0.0 assets.capterra.com
 0.0.0.0 assets-cdn.maze.co
 0.0.0.0 assets.cpcdn.com
@@ -995,6 +1000,8 @@
 0.0.0.0 avlsec.com
 0.0.0.0 avlsec.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 a.wattpad.com
+0.0.0.0 aweber.com
+0.0.0.0 aweber-static.com
 0.0.0.0 awebtoon.phinf.naver.net
 0.0.0.0 awibagimu4rlq1ntzmktrywxma0gcsqgs.akamaized.net
 0.0.0.0 aws-api.kibads.com
@@ -1228,8 +1235,10 @@
 0.0.0.0 calendardate.online
 0.0.0.0 calibermind.com
 0.0.0.0 camera.magicutapp.com
+0.0.0.0 campaigns.zamsino.com
 0.0.0.0 camp.azgames.live
 0.0.0.0 canvaz.scdn.co
+0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 capi.connatix.com
 0.0.0.0 c-api.gos-gsp.io
 0.0.0.0 caping.co.id
@@ -1261,6 +1270,7 @@
 0.0.0.0 ccms.shopee.io
 0.0.0.0 c.cnzz.com
 0.0.0.0 ccpce-sg.consumer.huawei.com
+0.0.0.0 cd7ff8.zamsino.com
 0.0.0.0 cda0.avanquest.com
 0.0.0.0 cda1.avanquest.com
 0.0.0.0 cda2.avanquest.com
@@ -1317,6 +1327,7 @@
 0.0.0.0 cdn925.com
 0.0.0.0 cdn9.editmysite.com
 0.0.0.0 cdn.adswizz.com
+0.0.0.0 cdn.agilitycms.com
 0.0.0.0 cdn.aihelp.net
 0.0.0.0 cdn.arcade.software
 0.0.0.0 cdn-asset.optimonk.com
@@ -1408,6 +1419,7 @@
 0.0.0.0 cdns.gigya.com
 0.0.0.0 cdn.shalltry.com
 0.0.0.0 cdn.shareaholic.net
+0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.signalfx.com
 0.0.0.0 cdn.simplelocalize.io
 0.0.0.0 cdns.klimg.com
@@ -1444,10 +1456,12 @@
 0.0.0.0 centre.baby
 0.0.0.0 centurygames.com
 0.0.0.0 c.erotic-massagenn.com
+0.0.0.0 certify.gpwa.org
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfg.smartvisionapp.com
 0.0.0.0 cfg.ws.pho.to
 0.0.0.0 cfs2.uadexchange.com
+0.0.0.0 cf.shopee.co.id
 0.0.0.0 cf-st.sc-cdn.net
 0.0.0.0 c.ftblltrck.com
 0.0.0.0 cf.vskitcdn.com
@@ -1576,6 +1590,7 @@
 0.0.0.0 collect.alipay.com
 0.0.0.0 collect.analyse.lnearn.com
 0.0.0.0 collect-elb-1844102569.us-east-1.elb.amazonaws.com
+0.0.0.0 collections.conscent.in
 0.0.0.0 collector.lunalabs.io
 0.0.0.0 collector-pxikkul2rm.perimeterx.net
 0.0.0.0 collector-pxt6dy78t8.px-client.net
@@ -1635,6 +1650,8 @@
 0.0.0.0 connectwise.com
 0.0.0.0 connectzoomdownload.com
 0.0.0.0 connperf.tantanapp.com
+0.0.0.0 conscent.ai
+0.0.0.0 conscent.in
 0.0.0.0 consent-manager.confirmic.com
 0.0.0.0 consent.trustarc.com
 0.0.0.0 console.gadsme.com
@@ -1864,6 +1881,7 @@
 0.0.0.0 demo.ckg.hk
 0.0.0.0 demogamesfree-asia.pragmaticplay.net
 0.0.0.0 demos.pcapredict.com
+0.0.0.0 dem.shopee.com
 0.0.0.0 derk.bar
 0.0.0.0 desktop.televzr.com
 0.0.0.0 de.slideshare.net
@@ -2096,6 +2114,7 @@
 0.0.0.0 e.pic.ak.mangatoon.akamaized.net
 0.0.0.0 episerver.net
 0.0.0.0 eportalmobile.com
+0.0.0.0 epss.alibaba-inc.com
 0.0.0.0 erotic-massagenn.com
 0.0.0.0 es.4sync.com
 0.0.0.0 es.bignox.com
@@ -2244,6 +2263,7 @@
 0.0.0.0 forgecdn.net
 0.0.0.0 forkcdn.com
 0.0.0.0 form.6mbr.com
+0.0.0.0 forms.aweber.com
 0.0.0.0 forms.hscollectedforms.net
 0.0.0.0 forms.hsforms.com
 0.0.0.0 forms.hubspot.com
@@ -2283,6 +2303,7 @@
 0.0.0.0 fs.rbtasset.com
 0.0.0.0 fs.robotaset.com
 0.0.0.0 ftblltrck.com
+0.0.0.0 ftp9ql.tdum.alibaba.com
 0.0.0.0 ftp.bestappsale.com
 0.0.0.0 ftp.ipchina163.com
 0.0.0.0 ftp.lysator.liu.se
@@ -2325,6 +2346,7 @@
 0.0.0.0 game-service.playgendary.com
 0.0.0.0 games.shopee.co.id
 0.0.0.0 gamestats.clockstone.com
+0.0.0.0 gamestore.whitetileos.cmcm.com
 0.0.0.0 gametool10.ml
 0.0.0.0 game-users-storage.playgendary.com
 0.0.0.0 gamev6.com
@@ -2354,6 +2376,7 @@
 0.0.0.0 gcb-app.herokuapp.com
 0.0.0.0 gcmapi.like-it.video
 0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 gcp-img.slatic.net
 0.0.0.0 gcs.sc-cdn.net
 0.0.0.0 gcsu.ucweb.com
 0.0.0.0 gdanstum.net
@@ -2415,6 +2438,7 @@
 0.0.0.0 glance-mob.glance-cdn.com
 0.0.0.0 glanceseg.blob.core.windows.net
 0.0.0.0 glassbox.com
+0.0.0.0 g.lazcdn.com
 0.0.0.0 glcs.listdl.com
 0.0.0.0 glentanks.xyz
 0.0.0.0 gllto1.glpals.com
@@ -2479,6 +2503,7 @@
 0.0.0.0 gpapi.zepeto.io
 0.0.0.0 gpt-ai-chat.com
 0.0.0.0 gpvjyx.ssptp4.com
+0.0.0.0 gpwa.org
 0.0.0.0 graph.microsoft.com
 0.0.0.0 graphql.api.dailymotion.com
 0.0.0.0 graphql.contentful.com
@@ -2539,6 +2564,7 @@
 0.0.0.0 h5.y5en.com
 0.0.0.0 haasonline.com
 0.0.0.0 haasscripts.com
+0.0.0.0 h-adashx.ut.lazada.com
 0.0.0.0 hammergamer.com
 0.0.0.0 handoff-cdn.appadvice.com
 0.0.0.0 hanyu.sogou.com
@@ -2739,6 +2765,7 @@
 0.0.0.0 i.higgsradio.com
 0.0.0.0 i.ibb.co
 0.0.0.0 i.jpallnight.com
+0.0.0.0 i.kissmetrics.com
 0.0.0.0 i.l-new.inmobicdn.net
 0.0.0.0 ilovexclub.com
 0.0.0.0 ilyon.net
@@ -2951,6 +2978,7 @@
 0.0.0.0 i.test3-mobileapi.ucnewtest.wanyol.com
 0.0.0.0 itoon.org
 0.0.0.0 it.pingchas.com
+0.0.0.0 itscenter.alipay.com
 0.0.0.0 itsecurity.com
 0.0.0.0 ituserver.xyz
 0.0.0.0 ituvipwd.com
@@ -3000,6 +3028,7 @@
 0.0.0.0 js5.loklok.tv
 0.0.0.0 js8.loklok.tv
 0.0.0.0 js9.loklok.tv
+0.0.0.0 js.afterpay.com
 0.0.0.0 js.captcha-display.com
 0.0.0.0 js.chargebee.com
 0.0.0.0 js.chilipiper.com
@@ -3074,6 +3103,7 @@
 0.0.0.0 kinja-com.videoplayerhub.com
 0.0.0.0 kinja-static.com
 0.0.0.0 kiskebhge23j.ml
+0.0.0.0 kissmetrics.com
 0.0.0.0 kiwibrowser.org
 0.0.0.0 kiwiirc.com
 0.0.0.0 kix-ulog.kwai-pro.com
@@ -3637,6 +3667,7 @@
 0.0.0.0 n430bc9de.app-ads-txt.com
 0.0.0.0 n5t8v6w3.stackpathcdn.com
 0.0.0.0 na.albtls.t.co
+0.0.0.0 nablons.com
 0.0.0.0 nadaring.mademoiselleosaki.com
 0.0.0.0 nagich.com
 0.0.0.0 nagios.dreamvps.com
@@ -4026,6 +4057,7 @@
 0.0.0.0 p27.zdassets.com
 0.0.0.0 p28.zdassets.com
 0.0.0.0 p29.zdassets.com
+0.0.0.0 p2.cmcm.com
 0.0.0.0 p2.itc.cn.w.cdngslb.com
 0.0.0.0 p3.itc.cn.w.cdngslb.com
 0.0.0.0 p3.zdassets.com
@@ -4342,6 +4374,7 @@
 0.0.0.0 px1.lifesavvy.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px-conf.perimeterx.net
+0.0.0.0 px-intl.ucweb.com
 0.0.0.0 pxksnymto.ru
 0.0.0.0 px.za.zalo.me
 0.0.0.0 p.yotpo.com
@@ -4670,6 +4703,7 @@
 0.0.0.0 screensteps.com
 0.0.0.0 sc-report.tantanapp.com
 0.0.0.0 scripts.jixie.media
+0.0.0.0 scripts.kissmetrics.com
 0.0.0.0 scroll.com
 0.0.0.0 sda-cdn.amzgame.com
 0.0.0.0 s.dessaly.com
@@ -4900,6 +4934,7 @@
 0.0.0.0 snapgirls.uno
 0.0.0.0 snaptik.app
 0.0.0.0 sneaky.lordofthequietbadgers.com
+0.0.0.0 snid.snitcher.com
 0.0.0.0 snigelweb.com
 0.0.0.0 snippet.growsumo.com
 0.0.0.0 snippet.maze.co
@@ -5014,6 +5049,7 @@
 0.0.0.0 static-act.like-video.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.agilitycms.com
 0.0.0.0 static.ahagamecenter.com
 0.0.0.0 static.apester.com
 0.0.0.0 static.api.baca.co.id
@@ -5309,6 +5345,7 @@
 0.0.0.0 tidiochat.com
 0.0.0.0 tidio.co
 0.0.0.0 tidio.com
+0.0.0.0 tileswan.cmcm.com
 0.0.0.0 time1.cloud.tencent.com
 0.0.0.0 time2.cloud.tencent.com
 0.0.0.0 time3.cloud.tencent.com
@@ -5384,6 +5421,7 @@
 0.0.0.0 tracking.apptrackerlink.com
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.ksztone.com
+0.0.0.0 trackingrevenuetds.com
 0.0.0.0 tracking.smartconnect-sg.net
 0.0.0.0 tracking.trnox.com
 0.0.0.0 track.mailerlite.com
@@ -5588,6 +5626,7 @@
 0.0.0.0 us-east4-gcp.api.snapchat.com
 0.0.0.0 useinsider.com
 0.0.0.0 user-api.ucweb.com
+0.0.0.0 user.conscent.in
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 useroperation.wondershare.com
 0.0.0.0 user-snow-api.snow.me
@@ -5817,6 +5856,7 @@
 0.0.0.0 whereres.com
 0.0.0.0 whippedfreezerbegun.com
 0.0.0.0 whiteclawreport.com
+0.0.0.0 whitetileos.cmcm.com
 0.0.0.0 whoami.akamai.net
 0.0.0.0 whos.amung.us
 0.0.0.0 whx66.veve.com
@@ -6087,6 +6127,7 @@
 0.0.0.0 www.artfut.com
 0.0.0.0 www.attention-system-warning.com
 0.0.0.0 www.automizely.com
+0.0.0.0 www.aweber.com
 0.0.0.0 www.aws.iobit.com
 0.0.0.0 www.awxcdn.com
 0.0.0.0 www.baca.co.id
@@ -6385,6 +6426,7 @@
 0.0.0.0 www.smartsuppchat.com
 0.0.0.0 www.smtjs-06.com
 0.0.0.0 www.snapchat.com
+0.0.0.0 www.snitcher.com
 0.0.0.0 www.sogou.com
 0.0.0.0 www.sohu.com
 0.0.0.0 www.soundiradio.com

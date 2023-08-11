@@ -35,6 +35,7 @@
 0.0.0.0 asia-monitor-stsdk.vivoglobal.com
 0.0.0.0 asia-news-abroad-backstage-interface.vivoglobal.com
 0.0.0.0 asia-news-abroad.vivo.com
+0.0.0.0 asia-onrt-stsdk.vivoglobal.com
 0.0.0.0 asia-os-config-appstore.vivoglobal.com
 0.0.0.0 asia-overseavideoh5.vivoglobal.com
 0.0.0.0 asia-p.vivoglobal.com
