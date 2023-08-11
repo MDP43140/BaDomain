@@ -85,11 +85,14 @@ ak.prd.aadg.trafficmanager.net
 alexametrics.com
 aliapp.org
 allawnofs.com
+allpcsupport.screenconnect.com
 all-stadium.net
 allstatics.com
 alms.demo34.ckg.hk
+althroc.com
 amazon-adsystem.com
 amazon.hksupd.com
+amdc-wapa-akamai.lazada.com
 amgdgt.com
 amibios-updater.com
 analysis.mangatoon.mobi
@@ -715,6 +718,7 @@ smushcdn.com
 snackvideo.in
 snapgirls.today
 s-nbcnews.com
+snowplow-mobile.wooga.sg
 sns.bignox.com
 sogrobartigg.monster
 solve.msg.xiaomi.net
@@ -894,6 +898,7 @@ www.ftblltrck.com
 www.furnitureshopone.us
 www.glamorousfeeds.com
 www.globalnews.cloud
+www.google.com.id.4irlkkz6.28gejt.2b99df1a.cn
 www.gpt-ai-chat.com
 www.hb089.com
 www.helping365.us
