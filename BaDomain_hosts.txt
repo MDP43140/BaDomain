@@ -3351,6 +3351,7 @@
 0.0.0.0 m28.fywkuzp.ru
 0.0.0.0 m29.fywkuzp.ru
 0.0.0.0 m2.ai
+0.0.0.0 m2.caping.co.id
 0.0.0.0 m2.fywkuzp.ru
 0.0.0.0 m30.fywkuzp.ru
 0.0.0.0 m31.fywkuzp.ru
