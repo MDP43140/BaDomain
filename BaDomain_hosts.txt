@@ -1,11 +1,10 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 11.08.2023
+# Version: 16.08.2023
 # Update: 1 day
 #
 
-0.0.0.0 016qfim5my3lh.puscomosca.com
 0.0.0.0 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
 0.0.0.0 05efspdbawfc.puscomosca.com
 0.0.0.0 0kczn7.l0fwny.com
@@ -204,6 +203,7 @@
 0.0.0.0 a02.uadexchange.com
 0.0.0.0 a03.uadexchange.com
 0.0.0.0 a.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
+0.0.0.0 a16488430484.cdn.optimizely.com
 0.0.0.0 a1a4c40e556f413ef.awsglobalaccelerator.com
 0.0.0.0 a1-sgp.easemob.com
 0.0.0.0 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
@@ -267,6 +267,7 @@
 0.0.0.0 acs.youku.com
 0.0.0.0 activedating-24.online
 0.0.0.0 active-dating.online
+0.0.0.0 activity.wps.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 ac.uwo56t.com
 0.0.0.0 ada.cx
@@ -275,6 +276,7 @@
 0.0.0.0 adapex.io
 0.0.0.0 ad-api.stormcleanerapp.com
 0.0.0.0 adap.tv
+0.0.0.0 adashx.ut.lazada.com
 0.0.0.0 ada.support
 0.0.0.0 adblocker-app.info
 0.0.0.0 adc3-launch.adcolony.com
@@ -410,6 +412,7 @@
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 aksconsulting.us
 0.0.0.0 ak-sgp-pic.snackvideo.in
+0.0.0.0 ak-static.kwai.net
 0.0.0.0 ak-static.snackvideo.in
 0.0.0.0 aktup.bangcdn.net
 0.0.0.0 alexmods.com
@@ -568,6 +571,7 @@
 0.0.0.0 api-7739323866949324662-136565.appspot.com
 0.0.0.0 api.9apps.com
 0.0.0.0 apiact.imoim.net
+0.0.0.0 api-ad-adapter-ff.wps.com
 0.0.0.0 api-ad-adapter-sg.wps.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api.adaether.com
@@ -633,6 +637,7 @@
 0.0.0.0 apigateway.tmctool.com
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 api.glb.samsung-gamelauncher.com
+0.0.0.0 api.goads2023.com
 0.0.0.0 api.gotinder.com
 0.0.0.0 api.gotube.pro
 0.0.0.0 api.gras.samsungdm.com
@@ -815,6 +820,7 @@
 0.0.0.0 apollo.auto
 0.0.0.0 apolloprogram.io
 0.0.0.0 apollo.supercell.com
+0.0.0.0 app1-tools-magic-push.com
 0.0.0.0 app-ab29.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.net.in
@@ -1543,6 +1549,20 @@
 0.0.0.0 cloud.litatom.com
 0.0.0.0 cloudsaze.com
 0.0.0.0 cloud.screenconnect.com
+0.0.0.0 cloudservice11.kingsoft-office-service.com
+0.0.0.0 cloudservice13.kingsoft-office-service.com
+0.0.0.0 cloudservice14.kingsoft-office-service.com
+0.0.0.0 cloudservice19.kingsoft-office-service.com
+0.0.0.0 cloudservice20.kingsoft-office-service.com
+0.0.0.0 cloudservice22.kingsoft-office-service.com
+0.0.0.0 cloudservice23.kingsoft-office-service.com
+0.0.0.0 cloudservice24.kingsoft-office-service.com
+0.0.0.0 cloudservice27.kingsoft-office-service.com
+0.0.0.0 cloudservice2.kingsoft-office-service.com
+0.0.0.0 cloudservice4.kingsoft-office-service.com
+0.0.0.0 cloudservice5.kingsoft-office-service.com
+0.0.0.0 cloudservice7.kingsoft-office-service.com
+0.0.0.0 cloudservice8.kingsoft-office-service.com
 0.0.0.0 cloudsponcer.com
 0.0.0.0 cloud.tencent.com
 0.0.0.0 cloud.typography.com
@@ -1624,6 +1644,7 @@
 0.0.0.0 config.driftracingonline.com
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.e-droid.net
+0.0.0.0 config.emb-api.com
 0.0.0.0 config.kuyun.com
 0.0.0.0 configprd.samsungcloudsolution.net
 0.0.0.0 config.qms.quicinc.com
@@ -1660,6 +1681,7 @@
 0.0.0.0 content.cdntwrk.com
 0.0.0.0 content-fgw.zepeto.io
 0.0.0.0 contentful.com
+0.0.0.0 content.jwplatform.com
 0.0.0.0 contentsblock.samqaicongen.com
 0.0.0.0 content-snow-api.snow.me
 0.0.0.0 content.webengage.com
@@ -2236,6 +2258,7 @@
 0.0.0.0 filmmogzivota.rs
 0.0.0.0 financialtrending.com
 0.0.0.0 firehose.eu-west-1.amazonaws.com
+0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 firstpromoter.com
 0.0.0.0 fk-new-cdn-eu-central-1a-hb.rayjump.com
 0.0.0.0 flag.bigo.sg
@@ -3040,6 +3063,7 @@
 0.0.0.0 js-eu1.hs-analytics.net
 0.0.0.0 js-eu1.hs-banner.com
 0.0.0.0 js-eu1.hscollectedforms.net
+0.0.0.0 js-eu1.hs-scripts.com
 0.0.0.0 js-eu1.usemessages.com
 0.0.0.0 js.getlasso.co
 0.0.0.0 js.gsspcln.jp
@@ -3439,6 +3463,7 @@
 0.0.0.0 mcds.wshareit.com
 0.0.0.0 mclean.cloud.360safe.com
 0.0.0.0 mc-nat-t.cloudapp.net
+0.0.0.0 mcpecenter.com
 0.0.0.0 mcpecraft.ru
 0.0.0.0 mcs.tobsnssdk.com
 0.0.0.0 mct.y.nuomi.com
@@ -3692,6 +3717,7 @@
 0.0.0.0 nearbysharing-pa.googleapis.com
 0.0.0.0 nea.telkomsel.com
 0.0.0.0 nekkimobile.ru
+0.0.0.0 nepel50.1igry.com
 0.0.0.0 nestledmph.com
 0.0.0.0 netdna-ssl.com
 0.0.0.0 netflix-widget.metranet.co.id
@@ -3882,6 +3908,7 @@
 0.0.0.0 o495157.ingest.sentry.io
 0.0.0.0 o519366.ingest.sentry.io
 0.0.0.0 o64315.ingest.sentry.io
+0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 o7at-af.outfit7.com
 0.0.0.0 o915751.ingest.sentry.io
 0.0.0.0 o937343.ingest.sentry.io
@@ -4019,6 +4046,7 @@
 0.0.0.0 overloop.com
 0.0.0.0 over.net
 0.0.0.0 overwolf.com
+0.0.0.0 ovs-shopwindow-server.wps.com
 0.0.0.0 ovv.video.qq.com
 0.0.0.0 ovz1.j19544519.pr46m.vps.myjino.ru
 0.0.0.0 owap.bar
@@ -4245,6 +4273,7 @@
 0.0.0.0 point-of-entry.com
 0.0.0.0 pointone.tech
 0.0.0.0 pokigame.io
+0.0.0.0 polaris-static.kwai.net
 0.0.0.0 policy-tcp.rayjump.com
 0.0.0.0 polussuo.com
 0.0.0.0 pool.apk.aptoide.com
@@ -4830,8 +4859,10 @@
 0.0.0.0 sg-mi-api-server.allsaints.tv
 0.0.0.0 sg.mmstat.com
 0.0.0.0 sg-o-api-server.allsaints.tv
+0.0.0.0 sg-o-dws.allsaints.tv
 0.0.0.0 sg.omlet.me
 0.0.0.0 s.goodappforyou.com
+0.0.0.0 sg-o-static1.allsaints.tv
 0.0.0.0 sgp-appstore-global-quic-S6TN1Dt-0bee020b86358d85.elb.ap-southeast-1.amazonaws.com
 0.0.0.0 sgp-conf.dropz-k.com
 0.0.0.0 sgp.imo.im
@@ -4844,6 +4875,7 @@
 0.0.0.0 shalltry.com
 0.0.0.0 shareaholic.com
 0.0.0.0 shareaholic.net
+0.0.0.0 shareit-push-cdn.wshareit.com
 0.0.0.0 sharemusic5.com
 0.0.0.0 sharepointonline.com
 0.0.0.0 share-sg.isnssdk.com
@@ -5336,6 +5368,7 @@
 0.0.0.0 thinksuggest.org
 0.0.0.0 threadloom.com
 0.0.0.0 thrtle.com
+0.0.0.0 thumbnails3.opera.com
 0.0.0.0 thumbnails.opera.com
 0.0.0.0 thumbs1.2beeg.net
 0.0.0.0 thumbs2.2beeg.net
@@ -5734,6 +5767,7 @@
 0.0.0.0 v.pinimg.com
 0.0.0.0 vpn2.supercell.com
 0.0.0.0 vpn.supercell.com
+0.0.0.0 vp.otidapi.com
 0.0.0.0 vp.rambler.ru
 0.0.0.0 vps1.lovejojoy.com
 0.0.0.0 vps2.lovejojoy.com
@@ -5770,6 +5804,7 @@
 0.0.0.0 vv9.link
 0.0.0.0 vyn.fyi
 0.0.0.0 v.youku.com
+0.0.0.0 W016qfim5my3lh.puscomosca.com
 0.0.0.0 w.360safe.com
 0.0.0.0 wa.co
 0.0.0.0 wagomu.b-cdn.net
@@ -5923,6 +5958,7 @@
 0.0.0.0 wp.salesforce.com
 0.0.0.0 wp-ui.app-us1.com
 0.0.0.0 wpvip.com
+0.0.0.0 wrapper-api.sp-prod.net
 0.0.0.0 wsapi.master.live
 0.0.0.0 wscdn.hanilink.com
 0.0.0.0 ws.flv.nimo.tv
@@ -6359,6 +6395,7 @@
 0.0.0.0 www.portals.mobi
 0.0.0.0 www.powr.io
 0.0.0.0 www.printer-helpnumber.com
+0.0.0.0 www.profitablecreativeformat.com
 0.0.0.0 www.profitwell.com
 0.0.0.0 www.propodsmax.co
 0.0.0.0 www.pullcm.com

@@ -38,6 +38,7 @@ asia-news-abroad.vivo.com
 asia-onrt-stsdk.vivoglobal.com
 asia-os-config-appstore.vivoglobal.com
 asia-overseavideoh5.vivoglobal.com
+asia-pnrt-stsdk.vivoglobal.com
 asia-p.vivoglobal.com
 asia-rommc-api.vivoglobal.com
 asia-romsp-unifyconfig.vivoglobal.com
@@ -48,6 +49,7 @@ asia-static-vp.vivoglobal.com
 asia-st-exappupgrade.vivoglobal.com
 asia-stp.vivoglobal.com
 asia-st-romsp.vivoglobal.com
+asia-stsdk.vivoglobal.com
 asia-st-sl.vivoglobal.com
 asia-st-sysupgrade.vivoglobal.com
 asia-subscribe.vivoglobal.com
@@ -67,6 +69,7 @@ asia-weather.vivoglobal.com
 asia-wifi.vivoglobal.com
 az.appstore.vivo.com
 az.appstore.vivo.com.cn
+browserfiles.heytapimg.com
 browserplat.vivo.com
 browserplat.vivo.com.cn
 comm.api.vivoglobal.com

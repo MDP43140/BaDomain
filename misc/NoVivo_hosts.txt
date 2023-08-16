@@ -38,6 +38,7 @@
 0.0.0.0 asia-onrt-stsdk.vivoglobal.com
 0.0.0.0 asia-os-config-appstore.vivoglobal.com
 0.0.0.0 asia-overseavideoh5.vivoglobal.com
+0.0.0.0 asia-pnrt-stsdk.vivoglobal.com
 0.0.0.0 asia-p.vivoglobal.com
 0.0.0.0 asia-rommc-api.vivoglobal.com
 0.0.0.0 asia-romsp-unifyconfig.vivoglobal.com
@@ -48,6 +49,7 @@
 0.0.0.0 asia-st-exappupgrade.vivoglobal.com
 0.0.0.0 asia-stp.vivoglobal.com
 0.0.0.0 asia-st-romsp.vivoglobal.com
+0.0.0.0 asia-stsdk.vivoglobal.com
 0.0.0.0 asia-st-sl.vivoglobal.com
 0.0.0.0 asia-st-sysupgrade.vivoglobal.com
 0.0.0.0 asia-subscribe.vivoglobal.com
@@ -67,6 +69,7 @@
 0.0.0.0 asia-wifi.vivoglobal.com
 0.0.0.0 az.appstore.vivo.com
 0.0.0.0 az.appstore.vivo.com.cn
+0.0.0.0 browserfiles.heytapimg.com
 0.0.0.0 browserplat.vivo.com
 0.0.0.0 browserplat.vivo.com.cn
 0.0.0.0 comm.api.vivoglobal.com

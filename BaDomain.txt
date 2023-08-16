@@ -1,11 +1,10 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 11.08.2023
+# Version: 16.08.2023
 # Update: 1 day
 #
 
-016qfim5my3lh.puscomosca.com
 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
 05efspdbawfc.puscomosca.com
 0kczn7.l0fwny.com
@@ -204,6 +203,7 @@ a01.uadexchange.com
 a02.uadexchange.com
 a03.uadexchange.com
 a.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
+a16488430484.cdn.optimizely.com
 a1a4c40e556f413ef.awsglobalaccelerator.com
 a1-sgp.easemob.com
 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
@@ -267,6 +267,7 @@ acs-m.lazada.sg
 acs.youku.com
 activedating-24.online
 active-dating.online
+activity.wps.com
 acuityplatform.com
 ac.uwo56t.com
 ada.cx
@@ -275,6 +276,7 @@ adaggreg-ali.shalltry.com
 adapex.io
 ad-api.stormcleanerapp.com
 adap.tv
+adashx.ut.lazada.com
 ada.support
 adblocker-app.info
 adc3-launch.adcolony.com
@@ -410,6 +412,7 @@ akochar.site
 ak.sail-horizon.com
 aksconsulting.us
 ak-sgp-pic.snackvideo.in
+ak-static.kwai.net
 ak-static.snackvideo.in
 aktup.bangcdn.net
 alexmods.com
@@ -568,6 +571,7 @@ api.4sync.com
 api-7739323866949324662-136565.appspot.com
 api.9apps.com
 apiact.imoim.net
+api-ad-adapter-ff.wps.com
 api-ad-adapter-sg.wps.com
 api-ad-adapter.wps.com
 api.adaether.com
@@ -633,6 +637,7 @@ api.gamesystem.zepeto.run
 apigateway.tmctool.com
 api.glance.inmobi.com
 api.glb.samsung-gamelauncher.com
+api.goads2023.com
 api.gotinder.com
 api.gotube.pro
 api.gras.samsungdm.com
@@ -815,6 +820,7 @@ ap.mobhey.com
 apollo.auto
 apolloprogram.io
 apollo.supercell.com
+app1-tools-magic-push.com
 app-ab29.marketo.com
 app.adjust.com
 app.adjust.net.in
@@ -1543,6 +1549,20 @@ cloudinary.com
 cloud.litatom.com
 cloudsaze.com
 cloud.screenconnect.com
+cloudservice11.kingsoft-office-service.com
+cloudservice13.kingsoft-office-service.com
+cloudservice14.kingsoft-office-service.com
+cloudservice19.kingsoft-office-service.com
+cloudservice20.kingsoft-office-service.com
+cloudservice22.kingsoft-office-service.com
+cloudservice23.kingsoft-office-service.com
+cloudservice24.kingsoft-office-service.com
+cloudservice27.kingsoft-office-service.com
+cloudservice2.kingsoft-office-service.com
+cloudservice4.kingsoft-office-service.com
+cloudservice5.kingsoft-office-service.com
+cloudservice7.kingsoft-office-service.com
+cloudservice8.kingsoft-office-service.com
 cloudsponcer.com
 cloud.tencent.com
 cloud.typography.com
@@ -1624,6 +1644,7 @@ config.confirmic.com
 config.driftracingonline.com
 config.edge.skype.com
 config.e-droid.net
+config.emb-api.com
 config.kuyun.com
 configprd.samsungcloudsolution.net
 config.qms.quicinc.com
@@ -1660,6 +1681,7 @@ contact-help-number.com
 content.cdntwrk.com
 content-fgw.zepeto.io
 contentful.com
+content.jwplatform.com
 contentsblock.samqaicongen.com
 content-snow-api.snow.me
 content.webengage.com
@@ -2236,6 +2258,7 @@ file.update.miui.com
 filmmogzivota.rs
 financialtrending.com
 firehose.eu-west-1.amazonaws.com
+firstpage.kingsoft-office-service.com
 firstpromoter.com
 fk-new-cdn-eu-central-1a-hb.rayjump.com
 flag.bigo.sg
@@ -3036,6 +3059,7 @@ js.driftt.com
 js-eu1.hs-analytics.net
 js-eu1.hs-banner.com
 js-eu1.hscollectedforms.net
+js-eu1.hs-scripts.com
 js-eu1.usemessages.com
 js.getlasso.co
 js.gsspcln.jp
@@ -3435,6 +3459,7 @@ m.caping.co.id
 mcds.wshareit.com
 mclean.cloud.360safe.com
 mc-nat-t.cloudapp.net
+mcpecenter.com
 mcpecraft.ru
 mcs.tobsnssdk.com
 mct.y.nuomi.com
@@ -3688,6 +3713,7 @@ nds-network-nav.ea.com
 nearbysharing-pa.googleapis.com
 nea.telkomsel.com
 nekkimobile.ru
+nepel50.1igry.com
 nestledmph.com
 netdna-ssl.com
 netflix-widget.metranet.co.id
@@ -3878,6 +3904,7 @@ o4504598522363904.ingest.sentry.io
 o495157.ingest.sentry.io
 o519366.ingest.sentry.io
 o64315.ingest.sentry.io
+o64374.ingest.sentry.io
 o7at-af.outfit7.com
 o915751.ingest.sentry.io
 o937343.ingest.sentry.io
@@ -4015,6 +4042,7 @@ overdue.aliyun.com
 overloop.com
 over.net
 overwolf.com
+ovs-shopwindow-server.wps.com
 ovv.video.qq.com
 ovz1.j19544519.pr46m.vps.myjino.ru
 owap.bar
@@ -4241,6 +4269,7 @@ pogoda.imgsmail.ru
 point-of-entry.com
 pointone.tech
 pokigame.io
+polaris-static.kwai.net
 policy-tcp.rayjump.com
 polussuo.com
 pool.apk.aptoide.com
@@ -4826,8 +4855,10 @@ sg.mangatoon.mobi
 sg-mi-api-server.allsaints.tv
 sg.mmstat.com
 sg-o-api-server.allsaints.tv
+sg-o-dws.allsaints.tv
 sg.omlet.me
 s.goodappforyou.com
+sg-o-static1.allsaints.tv
 sgp-appstore-global-quic-S6TN1Dt-0bee020b86358d85.elb.ap-southeast-1.amazonaws.com
 sgp-conf.dropz-k.com
 sgp.imo.im
@@ -4840,6 +4871,7 @@ shake-body.com
 shalltry.com
 shareaholic.com
 shareaholic.net
+shareit-push-cdn.wshareit.com
 sharemusic5.com
 sharepointonline.com
 share-sg.isnssdk.com
@@ -5332,6 +5364,7 @@ thinkific.com
 thinksuggest.org
 threadloom.com
 thrtle.com
+thumbnails3.opera.com
 thumbnails.opera.com
 thumbs1.2beeg.net
 thumbs2.2beeg.net
@@ -5730,6 +5763,7 @@ vor.lol
 v.pinimg.com
 vpn2.supercell.com
 vpn.supercell.com
+vp.otidapi.com
 vp.rambler.ru
 vps1.lovejojoy.com
 vps2.lovejojoy.com
@@ -5766,6 +5800,7 @@ vur.fyi
 vv9.link
 vyn.fyi
 v.youku.com
+W016qfim5my3lh.puscomosca.com
 w.360safe.com
 wa.co
 wagomu.b-cdn.net
@@ -5919,6 +5954,7 @@ wp.pl
 wp.salesforce.com
 wp-ui.app-us1.com
 wpvip.com
+wrapper-api.sp-prod.net
 wsapi.master.live
 wscdn.hanilink.com
 ws.flv.nimo.tv
@@ -6355,6 +6391,7 @@ www.pornhub.com
 www.portals.mobi
 www.powr.io
 www.printer-helpnumber.com
+www.profitablecreativeformat.com
 www.profitwell.com
 www.propodsmax.co
 www.pullcm.com

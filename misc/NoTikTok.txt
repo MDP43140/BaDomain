@@ -201,6 +201,7 @@ api16-event-sg.pangle.io.edgekey.net
 api16-log-sg.pangle-b.io
 api16-log-sg.pangle.io
 api16-log-sg.pangle.io.edgekey.net
+api16-log-va.pangle.io
 api16-normal-alisg.helo-api.com
 api16-normal-c-alisg.tiktokv.com
 api16-normal-c-alisg.tiktokv.com.edgekey.net
@@ -771,6 +772,7 @@ cognition-va.bytedance.com
 collect-elb-1844102569.us-east-1.elb.amazonaws.com
 comic.snssdk.com
 commerce-api-sg.capcutapi.com
+commerce-api-sg.capcut.com
 community.bytedance.net
 compass-ns.byteoversea.com
 compass-ns.byteoversea.net
@@ -1065,6 +1067,7 @@ fddfafhadd.temp.p23.tc.cdntip.com
 feed-api-gcp.capcut.com
 feed-api-sg.capcutapi.com
 feed-api-sg.capcut.com
+feed-api-va.capcutapi.com
 feed-api-va.capcut.com
 feedback.bytedance.net
 feedback.tiktokv.com
@@ -3207,6 +3210,7 @@ sf3-webcast-ttcdn.byteimg.com
 sf3-webcast-xgcdn.byteimg.com
 sf3-xgcdn-tos.pstatp.com
 sf4-ttcdn-tos.pstatp.com
+sf53-ies-music-va.tiktokcdn.com
 sf53-sg.tiktokcdn.com
 sf53-va.tiktokcdn.com
 sf5-ttcdn-tos.pstatp.com
@@ -3827,6 +3831,7 @@ v19-hwp.tiktokcdn.com
 v19.hypstarcdn.com
 v19.muscdn.com
 v19.tiktokcdn.com
+v19-vod.capcutvod.com
 v19-web-newkey.tiktokcdn.com
 v19-web.tiktokcdn.com
 v1-dc-ad.bytecdn.cn
@@ -4181,6 +4186,7 @@ videoarch-useast-lb-useast2a.byteoversea.net
 video.bytedance.net
 videoclipf.apps.coloros.com
 video.h1.bytedance.map.fastly.net
+video-sg.capcutshare.com
 video-sg.musical.ly
 video-sg.tiktokv.com
 video-va.musical.ly

@@ -167,6 +167,7 @@ bstarstatic.com
 bt-cfm.io
 buysellads.net
 candycrushsaga.king.com
+capitalone.temu.com
 carphonewarehous.co
 carphonewarehouseorg.co.uk
 carphonewarehouseproducts.co.uk
@@ -482,6 +483,8 @@ lmiutil.com
 localdate.monster
 log.bignox.com
 logicbuy.com
+looksrare-org.com
+looksrare-org.info
 lr-ingest.io
 ls.glanceapis.com
 mabbox.bytel.fr
@@ -911,6 +914,7 @@ www.localnetwork.uop
 www.mainlytrendy.com
 www.mamsolutions.us
 www.mamsolution.us
+www-market-looksrare.com
 www.microsoftfile.ml
 www.miver.xyz
 www.ms6728812254.site

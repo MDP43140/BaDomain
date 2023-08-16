@@ -201,6 +201,7 @@
 0.0.0.0 api16-log-sg.pangle-b.io
 0.0.0.0 api16-log-sg.pangle.io
 0.0.0.0 api16-log-sg.pangle.io.edgekey.net
+0.0.0.0 api16-log-va.pangle.io
 0.0.0.0 api16-normal-alisg.helo-api.com
 0.0.0.0 api16-normal-c-alisg.tiktokv.com
 0.0.0.0 api16-normal-c-alisg.tiktokv.com.edgekey.net
@@ -771,6 +772,7 @@
 0.0.0.0 collect-elb-1844102569.us-east-1.elb.amazonaws.com
 0.0.0.0 comic.snssdk.com
 0.0.0.0 commerce-api-sg.capcutapi.com
+0.0.0.0 commerce-api-sg.capcut.com
 0.0.0.0 community.bytedance.net
 0.0.0.0 compass-ns.byteoversea.com
 0.0.0.0 compass-ns.byteoversea.net
@@ -1065,6 +1067,7 @@
 0.0.0.0 feed-api-gcp.capcut.com
 0.0.0.0 feed-api-sg.capcutapi.com
 0.0.0.0 feed-api-sg.capcut.com
+0.0.0.0 feed-api-va.capcutapi.com
 0.0.0.0 feed-api-va.capcut.com
 0.0.0.0 feedback.bytedance.net
 0.0.0.0 feedback.tiktokv.com
@@ -3207,6 +3210,7 @@
 0.0.0.0 sf3-webcast-xgcdn.byteimg.com
 0.0.0.0 sf3-xgcdn-tos.pstatp.com
 0.0.0.0 sf4-ttcdn-tos.pstatp.com
+0.0.0.0 sf53-ies-music-va.tiktokcdn.com
 0.0.0.0 sf53-sg.tiktokcdn.com
 0.0.0.0 sf53-va.tiktokcdn.com
 0.0.0.0 sf5-ttcdn-tos.pstatp.com
@@ -3827,6 +3831,7 @@
 0.0.0.0 v19.hypstarcdn.com
 0.0.0.0 v19.muscdn.com
 0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v19-vod.capcutvod.com
 0.0.0.0 v19-web-newkey.tiktokcdn.com
 0.0.0.0 v19-web.tiktokcdn.com
 0.0.0.0 v1-dc-ad.bytecdn.cn
@@ -4181,6 +4186,7 @@
 0.0.0.0 video.bytedance.net
 0.0.0.0 videoclipf.apps.coloros.com
 0.0.0.0 video.h1.bytedance.map.fastly.net
+0.0.0.0 video-sg.capcutshare.com
 0.0.0.0 video-sg.musical.ly
 0.0.0.0 video-sg.tiktokv.com
 0.0.0.0 video-va.musical.ly

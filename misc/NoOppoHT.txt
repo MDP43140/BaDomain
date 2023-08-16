@@ -139,6 +139,7 @@ feedback-cn.heytapmobi.com
 feedback-gl.heytapmobi.com
 f.push.oppomobile.com
 gameimg.heytapimg.com
+games-common-sg.heytapmobile.com
 games-community-sg.heytapmobile.com
 gauss-sauapkcostauto-cn.allawnfs.com
 gauss-sauoldcostmanual-cn.allawnfs.com
@@ -235,6 +236,7 @@ mdp-appconf-kh.heytapdl.com
 mdp-appconf-mm.heytapdl.com
 mdp-appconf-sg.heytapdl.com
 mdp-appconf-us.heytapdl.com
+mdp-upgrade-gl.heytapmobile.com
 mdp-usertrace-in.heytapmobi.com
 mdp-usertrace-in.heytapmobile.com
 mdp-usertrace-sg.heytapmobile.com
