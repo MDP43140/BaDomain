@@ -64,6 +64,7 @@ cdp-common-id.heytapmobile.com
 cdp-common-in.heytapmobile.com
 classify.apps.coloros.com
 classify-f.apps.coloros.com
+cl-data-id.ads.heytapmobi.com
 client-uc.heytapmobi.com
 cloudi-in.browser.heytapmobile.com
 cloudi-in.browser.oppomobile.com

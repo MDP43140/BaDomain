@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 16.08.2023
+# Version: 30.08.2023
 # Update: 1 day
 #
 
@@ -146,6 +146,7 @@
 0.0.0.0 53.ygti905ffth6.com
 0.0.0.0 54.appmeasurements.com
 0.0.0.0 54.ygti905ffth6.com
+0.0.0.0 55a-8ballpool-mobile-live.pool.miniclippt.com
 0.0.0.0 55.appmeasurements.com
 0.0.0.0 55.ygti905ffth6.com
 0.0.0.0 56.ygti905ffth6.com
@@ -580,6 +581,7 @@
 0.0.0.0 api.ads.yahoo.com
 0.0.0.0 api.ahagamecenter.com
 0.0.0.0 api.airtable.com
+0.0.0.0 api.al-hiwar.com
 0.0.0.0 api.anythinktech.com
 0.0.0.0 api-apac.bidmachine.io
 0.0.0.0 api.apk.vidmate.net
@@ -738,6 +740,7 @@
 0.0.0.0 api.renren.fan
 0.0.0.0 api.resso.app
 0.0.0.0 api.revenuecat.com
+0.0.0.0 api.rosecrab.com
 0.0.0.0 api.rvere.com
 0.0.0.0 api.saasexch.com
 0.0.0.0 api.salemove.com
@@ -794,6 +797,7 @@
 0.0.0.0 api.wavebrowserbase.com
 0.0.0.0 api.wavebrowser.co
 0.0.0.0 api.weathercn.com
+0.0.0.0 api.widgetable.net
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 api.wifimap.io
 0.0.0.0 api.wildspike.com
@@ -1839,6 +1843,7 @@
 0.0.0.0 dadyapp.com
 0.0.0.0 daerisoft.com
 0.0.0.0 dailymotion.com
+0.0.0.0 dailyvideo.pro
 0.0.0.0 d.alicdn.com
 0.0.0.0 dana-assets-id.oss-ap-southeast-5.aliyuncs.com
 0.0.0.0 danabaguslah.com
@@ -3348,6 +3353,7 @@
 0.0.0.0 l.urioy.com
 0.0.0.0 l-userpic.livejournal.com
 0.0.0.0 lustre.ai
+0.0.0.0 l.widgetable.net
 0.0.0.0 lyncdiscover.pcapredict.com
 0.0.0.0 lyric.intools.dev
 0.0.0.0 lzd-img-global.slatic.net
@@ -3578,6 +3584,7 @@
 0.0.0.0 mobcloud.1-saku.com
 0.0.0.0 mob.com
 0.0.0.0 mobfox.com
+0.0.0.0 mobiappnews.appspot.com
 0.0.0.0 mobile-ap.spotify.com
 0.0.0.0 mobileassets.gopaylater.findaya.co.id
 0.0.0.0 mobilecrush.king.com
@@ -5025,6 +5032,8 @@
 0.0.0.0 springboard-cdn.appadvice.com
 0.0.0.0 sprtsecureassets.akamaized.net
 0.0.0.0 s.pubmine.com
+0.0.0.0 spygtj-cdn-settings.appsflyersdk.com
+0.0.0.0 spygtj-launches.appsflyersdk.com
 0.0.0.0 sp.zalo.me
 0.0.0.0 src.devmonkeylin.com
 0.0.0.0 src.smilewhitebear.com
@@ -5052,6 +5061,7 @@
 0.0.0.0 ssp-api.mobadvent.com
 0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 ssp.wp.pl
+0.0.0.0 ss.rosecrab.com
 0.0.0.0 s.srvsynd.com
 0.0.0.0 sstatic1.histats.com
 0.0.0.0 s.swiftypecdn.com
@@ -5526,6 +5536,7 @@
 0.0.0.0 tx-sgp-origin-pull.snackvideo.in
 0.0.0.0 tx-sgp-pic.snackvideo.in
 0.0.0.0 tx-sgp-pull.snackvideo.in
+0.0.0.0 tx-static.snackvideo.in
 0.0.0.0 txtplay.store
 0.0.0.0 tyapi-juno.abcsport3.com
 0.0.0.0 tynt.com
@@ -6219,6 +6230,7 @@
 0.0.0.0 www.creditverify.ca
 0.0.0.0 www.creemo.pl
 0.0.0.0 www.cybertips.xyz
+0.0.0.0 www.dailyvideo.pro
 0.0.0.0 www.danabaguslah.com
 0.0.0.0 www.data.ai
 0.0.0.0 www.datadataxyz.com

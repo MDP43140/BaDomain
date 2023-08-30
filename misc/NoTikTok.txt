@@ -203,6 +203,7 @@ api16-log-sg.pangle.io
 api16-log-sg.pangle.io.edgekey.net
 api16-log-va.pangle.io
 api16-normal-alisg.helo-api.com
+api16-normal-alisg.tiktokv.com
 api16-normal-c-alisg.tiktokv.com
 api16-normal-c-alisg.tiktokv.com.edgekey.net
 api16-normal-c-useast1a.musical.ly
@@ -219,6 +220,8 @@ api16-normal-ipv4.sgsnssdk.com
 api16-normal-ipv6.sgsnssdk.com
 api16-normal-i-sg.sgsnssdk.com
 api16-normal-probe-useast2a.tiktokv.com
+api16-normal-useast1a.tiktokv.com
+api16-normal-useast2a.tiktokv.com
 api16-normal-v4.tiktokv.com
 api16-normal-v4.tiktokv.com.edgekey.net
 api16-normal-v6.tiktokv.com
@@ -2091,6 +2094,7 @@ p16-capcut-va.ibyteimg.com
 p16-capcut-va.ibyteimg.com.edgesuite.net
 p16-catalog-sg.ibyteimg.com
 p16-cg-gaudit.ibyteimg.com
+p16-h1-sign-va.ibyteimg.com
 p16hypstarcdn-a.akamaihd.net
 p16hypstarcdn-a.akamaihd.net.edgesuite.net
 p16.hypstarcdn.com
@@ -2647,6 +2651,7 @@ pull-flv-f1.tiktokcdn.com
 pull-flv-f1.tiktokcdn.com.wsdvs.com
 pull-flv-f1-va01.tiktokcdn.com
 pull-flv-f1-xg.bytecdn.cn
+pull-flv-f61-va01.tiktokcdn.com
 pull-flv-f6-hs.pstatp.com
 pull-flv-f6-xg.bytecdn.cn
 pull-flv-f77-gcp01.tiktokcdn.com

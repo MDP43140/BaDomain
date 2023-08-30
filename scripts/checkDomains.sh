@@ -47,7 +47,7 @@ for i in $DOMAIN_LISTS;do
 		echo -e "\r[!] No answer for $i.\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif echo "$result" | grep -q 'restricted\|internetpositif\|trustpositif\|blockpage\|aduankonten\|116.206.10.31';then
+	elif echo "$result" | grep -q 'restricted\|internetpositif\|trustpositif\|blockpage\|aduankonten\|116.206.10.31\|36.86.63.185';then
 		echo -e "\r[!] $i censored by government\e[0K"
 		echo $i >> "$LOG_EXISTS_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
