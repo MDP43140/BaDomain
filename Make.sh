@@ -1,6 +1,7 @@
+#!/usr/bin/env bash
 clear
-[ -z "$1" ] && echo -e "Arguments required. no argument was given.\ntry -h to show help page." && exit 1;
-VERSION="$(date +%d.%m.%Y)"
+[ "$1" ] || (echo -e "Arguments required. no argument was given.\ntry -h to show help page.";exit 1);
+VERSION=`date +%d.%m.%Y`
 UPDATE_FREQ="1 day" # unused
 HOSTSFILE_TYPES=(
 	"BaDomain"

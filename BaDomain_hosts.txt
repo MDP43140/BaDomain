@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 30.08.2023
+# Version: 02.09.2023
 # Update: 1 day
 #
 
@@ -129,6 +129,7 @@
 0.0.0.0 4g-net.top
 0.0.0.0 4gnet.top
 0.0.0.0 4mads.com
+0.0.0.0 4shared.com
 0.0.0.0 4sync.com
 0.0.0.0 4ubnsy.com
 0.0.0.0 4.ygti905ffth6.com
@@ -312,7 +313,9 @@
 0.0.0.0 ad.plus
 0.0.0.0 adpushup.com
 0.0.0.0 adroll.com
+0.0.0.0 ads1-adnow.com
 0.0.0.0 ads20.adcolony.com
+0.0.0.0 ads2-adnow.com
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads.adcolony.com
 0.0.0.0 ads.adpub.co
@@ -322,6 +325,7 @@
 0.0.0.0 ads.appbundledownload.com
 0.0.0.0 ads.baca.co.id
 0.0.0.0 adsbynimbus.com
+0.0.0.0 adschamp.com
 0.0.0.0 adscontrol.xyz
 0.0.0.0 ad-score.com
 0.0.0.0 adsensecamp.com
@@ -335,6 +339,7 @@
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads.net.id
+0.0.0.0 ad-sniper.com
 0.0.0.0 ads.playground.xyz
 0.0.0.0 adsrvr.org
 0.0.0.0 ads.telkomsel.com
@@ -413,9 +418,11 @@
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 aksconsulting.us
 0.0.0.0 ak-sgp-pic.snackvideo.in
+0.0.0.0 ak.staticimgfarm.com
 0.0.0.0 ak-static.kwai.net
 0.0.0.0 ak-static.snackvideo.in
 0.0.0.0 aktup.bangcdn.net
+0.0.0.0 akz.imgfarm.com
 0.0.0.0 alexmods.com
 0.0.0.0 al.flv.nimo.tv
 0.0.0.0 al.hls.nimo.tv
@@ -922,8 +929,10 @@
 0.0.0.0 as.alipayobjects.com
 0.0.0.0 asaux1.contivio.com
 0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 asia-live.inside-graph.com
 0.0.0.0 asia-southeast1-gcp.api.snapchat.com
 0.0.0.0 askmen.com
+0.0.0.0 a.srpx.net
 0.0.0.0 assets10.lottiefiles.com
 0.0.0.0 assets16.resso.app
 0.0.0.0 assets1.lottiefiles.com
@@ -980,6 +989,7 @@
 0.0.0.0 audaicity.org
 0.0.0.0 audid-api-sg.taobao.com
 0.0.0.0 audience.contextads.live
+0.0.0.0 audioplace.me
 0.0.0.0 auditrecording-pa.googleapis.com
 0.0.0.0 audit-tcfv2.cmp.quantcast.com
 0.0.0.0 audrte.com
@@ -1051,6 +1061,7 @@
 0.0.0.0 ballou.se
 0.0.0.0 bam-cell.nr-data.net
 0.0.0.0 bam.nr-data.net
+0.0.0.0 bangkusekolah.com
 0.0.0.0 bannerflow.com
 0.0.0.0 bannersnack.com
 0.0.0.0 barefootfoundation.com
@@ -1101,6 +1112,7 @@
 0.0.0.0 bendingspoonsapps.com
 0.0.0.0 bendingspoons.com
 0.0.0.0 beplus.prod.beplus.solutions
+0.0.0.0 berush.com
 0.0.0.0 besmeargleor.com
 0.0.0.0 bestcards.online
 0.0.0.0 bestdate.top
@@ -1275,8 +1287,10 @@
 0.0.0.0 cashend.me
 0.0.0.0 catalog.supercell.com
 0.0.0.0 catbox.moe
+0.0.0.0 cbsi.com
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cc.163.com
+0.0.0.0 cc.loginfra.com
 0.0.0.0 ccms.shopee.io
 0.0.0.0 c.cnzz.com
 0.0.0.0 ccpce-sg.consumer.huawei.com
@@ -1342,6 +1356,7 @@
 0.0.0.0 cdn.arcade.software
 0.0.0.0 cdn-asset.optimonk.com
 0.0.0.0 cdn-asset.zepeto.me
+0.0.0.0 cdn.audiate.me
 0.0.0.0 cdn.auth0.com
 0.0.0.0 cdn.avanquest.com
 0.0.0.0 cdn.avmws.com
@@ -1406,6 +1421,7 @@
 0.0.0.0 cdn.metarouter.io
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.neverbounce.com
+0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.orderonline.id
 0.0.0.0 cdn.otnolatrnup.com
 0.0.0.0 cdn.outfit7.com
@@ -1708,6 +1724,7 @@
 0.0.0.0 cooooos.com
 0.0.0.0 cootekservice.com
 0.0.0.0 core-api.data.appsinnova.com
+0.0.0.0 corp.logly.co.jp
 0.0.0.0 corp.sogou.com
 0.0.0.0 corp.supercent.io
 0.0.0.0 cos.ap-shanghai.myqcloud.com
@@ -1972,6 +1989,7 @@
 0.0.0.0 dl.xposed.info
 0.0.0.0 dmcdn.net
 0.0.0.0 dmg.digitaltarget.ru
+0.0.0.0 dmp.truoptik.com
 0.0.0.0 dm.samsungdive.com
 0.0.0.0 dn.im-gb.com
 0.0.0.0 dns11.quad9.net
@@ -2068,6 +2086,8 @@
 0.0.0.0 e.alipay.com
 0.0.0.0 earthvpn.app
 0.0.0.0 easemob.com
+0.0.0.0 easypdfcombine.dl.myway.com
+0.0.0.0 easypdfcombine.dl.tb.ask.com
 0.0.0.0 easytomessage.com
 0.0.0.0 easyworldbusiness.com
 0.0.0.0 ec2-18-139-197-132.ap-southeast-1.compute.amazonaws.com
@@ -2140,6 +2160,7 @@
 0.0.0.0 epdg.epc.mnc009.mcc510.pub.3gppnetwork.org
 0.0.0.0 e.pic.ak.mangatoon.akamaized.net
 0.0.0.0 episerver.net
+0.0.0.0 epomads2.4shared.com
 0.0.0.0 eportalmobile.com
 0.0.0.0 epss.alibaba-inc.com
 0.0.0.0 erotic-massagenn.com
@@ -2180,6 +2201,7 @@
 0.0.0.0 events-api-ak.outfit7.com
 0.0.0.0 events-api.outfit7.com
 0.0.0.0 events.appsflyer.com
+0.0.0.0 events.audioplace.me
 0.0.0.0 events.backtrace.io
 0.0.0.0 events.gadsme.com
 0.0.0.0 events.iap.unity3d.com
@@ -2225,6 +2247,7 @@
 0.0.0.0 farmcityer.com
 0.0.0.0 farsroid.com
 0.0.0.0 fast-dl.xyz
+0.0.0.0 fastspring.com
 0.0.0.0 fast.wistia.com
 0.0.0.0 favicon.yandex.net
 0.0.0.0 fbads-tools.com
@@ -2261,6 +2284,7 @@
 0.0.0.0 files.webmoney.ru
 0.0.0.0 file.update.miui.com
 0.0.0.0 filmmogzivota.rs
+0.0.0.0 film.wetv.vip
 0.0.0.0 financialtrending.com
 0.0.0.0 firehose.eu-west-1.amazonaws.com
 0.0.0.0 firstpage.kingsoft-office-service.com
@@ -2313,6 +2337,7 @@
 0.0.0.0 frd.shopee.co.id
 0.0.0.0 free-burning-software.com
 0.0.0.0 freeburningtools.com
+0.0.0.0 freeradiocast.dl.myway.com
 0.0.0.0 freeshort.link
 0.0.0.0 freestarburstslot.com
 0.0.0.0 freestar.com
@@ -2414,6 +2439,7 @@
 0.0.0.0 gds.alibabadns.com
 0.0.0.0 geclose2eu.info
 0.0.0.0 g.ekatox.com
+0.0.0.0 genieesspv.jp
 0.0.0.0 geniustracking.xyz
 0.0.0.0 geo-applefinance-cache.internal.query.g03.yahoodns.net
 0.0.0.0 geo.cnbc.com
@@ -2500,6 +2526,7 @@
 0.0.0.0 go2cloud.org
 0.0.0.0 go2s.co
 0.0.0.0 go.com
+0.0.0.0 gocrisp.com
 0.0.0.0 godaddy.com
 0.0.0.0 go.eportalmobile.com
 0.0.0.0 go.imgsmail.ru
@@ -2686,6 +2713,7 @@
 0.0.0.0 hot-teens24.online
 0.0.0.0 houseof-lust.xyz
 0.0.0.0 howard.faceapp.io
+0.0.0.0 hp.myway.com
 0.0.0.0 hrtechprivacy.com
 0.0.0.0 hr.tencent.com
 0.0.0.0 hrworld.com
@@ -2784,6 +2812,7 @@
 0.0.0.0 if4a3802.app-ads-txt.com
 0.0.0.0 iface2.iqiyi.com
 0.0.0.0 iface4.iqiyi.com
+0.0.0.0 iflix.com
 0.0.0.0 ifota.realmemobile.com
 0.0.0.0 iframe.videodelivery.net
 0.0.0.0 igapromomanager-pa.googleapis.com
@@ -2932,6 +2961,7 @@
 0.0.0.0 inshot.cc
 0.0.0.0 inshot.dev
 0.0.0.0 insidecrm.com
+0.0.0.0 inside-graph.com
 0.0.0.0 insight.cloud.tencent.com
 0.0.0.0 insight.rakuten.com
 0.0.0.0 ins.shalltry.com
@@ -2941,14 +2971,17 @@
 0.0.0.0 in.sv
 0.0.0.0 intake.mee6.xyz
 0.0.0.0 intellitxt.com
+0.0.0.0 intentiq.com
 0.0.0.0 intercomcdn.com
 0.0.0.0 intercom.io
 0.0.0.0 internal.faceunity.com
 0.0.0.0 internetpositif.uzone.id
+0.0.0.0 internetspeedtracker.dl.myway.com
 0.0.0.0 intl-api.iq.com
 0.0.0.0 intl.iqiyi.com
 0.0.0.0 intranet.supercell.com
 0.0.0.0 intra.supercell.com
+0.0.0.0 int.search.myway.com
 0.0.0.0 intuit.com
 0.0.0.0 invitereferrals.com
 0.0.0.0 iobit.com
@@ -2981,6 +3014,7 @@
 0.0.0.0 ipv6.6sc.co
 0.0.0.0 ip.xindong.com
 0.0.0.0 iq.com
+0.0.0.0 iq.fastspring.com
 0.0.0.0 iqid.iqiyi.com
 0.0.0.0 iqiyi.com
 0.0.0.0 iqm.com
@@ -3113,6 +3147,7 @@
 0.0.0.0 kaskustoto88.id
 0.0.0.0 kaskustoto.com
 0.0.0.0 kastking.top
+0.0.0.0 kau.li
 0.0.0.0 kayumanis.detik.com
 0.0.0.0 kepler.51y5.net
 0.0.0.0 kepler.y5en.com
@@ -3212,6 +3247,7 @@
 0.0.0.0 learning.supercell.com
 0.0.0.0 leatonm.net
 0.0.0.0 leawo.org
+0.0.0.0 legit.ng
 0.0.0.0 lencr.org
 0.0.0.0 leonard.faceapp.io
 0.0.0.0 letsgoconvert.com
@@ -3232,6 +3268,7 @@
 0.0.0.0 lifemix.tocaboca.com
 0.0.0.0 lifeserver.tocaboca.com
 0.0.0.0 lifymk.tistory.com
+0.0.0.0 ligadx.com
 0.0.0.0 lightboxapi.azurewebsites.net
 0.0.0.0 lightboxcdn.com
 0.0.0.0 lijit.com
@@ -3305,6 +3342,7 @@
 0.0.0.0 login.tim.qq.com
 0.0.0.0 login.wmtransfer.com
 0.0.0.0 log.kzvepo.com
+0.0.0.0 logly.co.jp
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.modtechbig.com
 0.0.0.0 logo.clearbit.com
@@ -3458,6 +3496,7 @@
 0.0.0.0 matomo.y8.com
 0.0.0.0 mauth.chinanetcenter.com
 0.0.0.0 ma.wattpad.com
+0.0.0.0 maxgacor.click
 0.0.0.0 mayalaze.xyz
 0.0.0.0 maze.co
 0.0.0.0 m.baidu.com
@@ -3519,6 +3558,8 @@
 0.0.0.0 mendress.icu
 0.0.0.0 mercusuar.uzone.id
 0.0.0.0 mergecraft.club
+0.0.0.0 mergedocsonline.com
+0.0.0.0 mergedocsonline.dl.myway.com
 0.0.0.0 messagebird.com
 0.0.0.0 messaging.engagement.office.com
 0.0.0.0 messaging.messagebird.com
@@ -3533,6 +3574,7 @@
 0.0.0.0 mgl.lobby.igamecj.com
 0.0.0.0 m.harbourfunny.com
 0.0.0.0 mhy.link
+0.0.0.0 miaozhen.com
 0.0.0.0 microremoteassist.com
 0.0.0.0 micro.rubiconproject.com
 0.0.0.0 microservices.wifimap.io
@@ -3545,6 +3587,7 @@
 0.0.0.0 milvarusso.com
 0.0.0.0 m.imdb.com
 0.0.0.0 mindmap.pdnob.com
+0.0.0.0 mindspark.com
 0.0.0.0 mindworks-creative.com
 0.0.0.0 minecrafttweaker.net
 0.0.0.0 mingyi.sogou.com
@@ -3576,11 +3619,13 @@
 0.0.0.0 ml-sessions-v3-dot-events-dot-o7apps.appspot.com
 0.0.0.0 ml-sessions-v3.events.o7apps.appspot.com
 0.0.0.0 mmfiles.amp.mcafee.com
+0.0.0.0 mm.markandmini.com
 0.0.0.0 mmmediainc-trebel.adsbynimbus.com
 0.0.0.0 mmstat.com
 0.0.0.0 mmtro.com
 0.0.0.0 moatads.com
 0.0.0.0 mobadvent.com
+0.0.0.0 mobbo.com
 0.0.0.0 mobcloud.1-saku.com
 0.0.0.0 mob.com
 0.0.0.0 mobfox.com
@@ -3697,6 +3742,7 @@
 0.0.0.0 mypic.icu
 0.0.0.0 myqcloud.com
 0.0.0.0 mywavehome.net
+0.0.0.0 myway.com
 0.0.0.0 n430bc9de.app-ads-txt.com
 0.0.0.0 n5t8v6w3.stackpathcdn.com
 0.0.0.0 na.albtls.t.co
@@ -3705,6 +3751,8 @@
 0.0.0.0 nagich.com
 0.0.0.0 nagios.dreamvps.com
 0.0.0.0 na.glbtls.t.co
+0.0.0.0 naija.ng
+0.0.0.0 naij.com
 0.0.0.0 nam.veta.naver.com
 0.0.0.0 nanorep.co
 0.0.0.0 nanosystems.it
@@ -3730,6 +3778,7 @@
 0.0.0.0 netflix-widget.metranet.co.id
 0.0.0.0 netpayjob.com
 0.0.0.0 net.simontok.site
+0.0.0.0 netstorage-legit.akamaized.net
 0.0.0.0 neverbounce.com
 0.0.0.0 new.ads.vungle.com
 0.0.0.0 new-api.meiqia.com
@@ -3751,6 +3800,7 @@
 0.0.0.0 newsmaticaapp.com
 0.0.0.0 news-muxeta.cc
 0.0.0.0 news.zing.vn
+0.0.0.0 new-ui.mobbo.com
 0.0.0.0 nexage.com
 0.0.0.0 nextgen.docdoc.com
 0.0.0.0 next.icieneguilla.com
@@ -3758,12 +3808,14 @@
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 nflxvideo.net
+0.0.0.0 ngads.com
 0.0.0.0 nightfallinquiredune.com
 0.0.0.0 nitrokod-inc-google-translate-desktop.en.uptodown.com
 0.0.0.0 nj.cschannel.anticheatexpert.com
 0.0.0.0 njs.services.livejournal.com
 0.0.0.0 n.m.ksmobile.com
 0.0.0.0 nmnm.lol
+0.0.0.0 n.naija.ng
 0.0.0.0 no-cache.hubspot.com
 0.0.0.0 nocodeflow.net
 0.0.0.0 node-01-ipv6.faceapp.io
@@ -3968,6 +4020,7 @@
 0.0.0.0 omo.akamai.opta.net
 0.0.0.0 om-server.btc42.com
 0.0.0.0 om-server.himodapk.com
+0.0.0.0 onclickads.net
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 one.confbesttop.com
 0.0.0.0 one.cryptonomiconf.com
@@ -3977,6 +4030,7 @@
 0.0.0.0 onesoft.com.vn
 0.0.0.0 onetrust.com
 0.0.0.0 onezapp.com
+0.0.0.0 onfastspring.com
 0.0.0.0 onlinecash1.com
 0.0.0.0 online.fastman92.com
 0.0.0.0 online-ideal-casino.nl
@@ -3984,6 +4038,7 @@
 0.0.0.0 online.ua
 0.0.0.0 onlogin01.xyz
 0.0.0.0 onnanoko.tokyo
+0.0.0.0 onthe.io
 0.0.0.0 o-odd.com
 0.0.0.0 o-odd-com.oss-eu-central-1.aliyuncs.com
 0.0.0.0 opc.cloud.tencent.com
@@ -4178,6 +4233,7 @@
 0.0.0.0 pepodownload.mediatek.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf.hsforms.com
+0.0.0.0 perf-na1.hsforms.com
 0.0.0.0 permits.wps.com
 0.0.0.0 persona-etl.wps.com
 0.0.0.0 persona.franchise.minecraft-services.net
@@ -4229,6 +4285,7 @@
 0.0.0.0 pixel.jungroup.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
+0.0.0.0 pix.sniperlog.ru
 0.0.0.0 p.jwpcdn.com
 0.0.0.0 p.kg.qq.com
 0.0.0.0 pkh22.b-cdn.net
@@ -4287,6 +4344,7 @@
 0.0.0.0 poormansguidetocasinogambling.com
 0.0.0.0 pop3.bestappsale.com
 0.0.0.0 pop3.bignox.com
+0.0.0.0 popcash.net
 0.0.0.0 popcore.com
 0.0.0.0 popin-minus.com
 0.0.0.0 popular.kiwibrowser.com
@@ -4405,6 +4463,7 @@
 0.0.0.0 pushprofit.net
 0.0.0.0 pushwoosh.com
 0.0.0.0 pushycat.net
+0.0.0.0 puui.wetvinfo.com
 0.0.0.0 pvz2-live.ecs.popcap.com
 0.0.0.0 pvz2-prd.popcap.com
 0.0.0.0 pwaapi.bacc1688.com
@@ -4649,6 +4708,7 @@
 0.0.0.0 ru.bignox.com
 0.0.0.0 rudyvalencia.pro
 0.0.0.0 rum-ingest.us1.signalfx.com
+0.0.0.0 rumt-sg.com
 0.0.0.0 ruplay.market
 0.0.0.0 rustore.ru
 0.0.0.0 rvere.com
@@ -4726,12 +4786,14 @@
 0.0.0.0 sausage-global-cdn.sausage.xd.com
 0.0.0.0 saya.ucweb.com
 0.0.0.0 sba.yandex.net
+0.0.0.0 sbl.onfastspring.com
 0.0.0.0 sbw9188.com
 0.0.0.0 sc386.com
 0.0.0.0 scaleway.testdebit.info
 0.0.0.0 scarabresearch.com
 0.0.0.0 schemas.casa
 0.0.0.0 scholar.sogou.com
+0.0.0.0 scmplayer.net
 0.0.0.0 scooper.news
 0.0.0.0 scoopernews.com
 0.0.0.0 scorecardresearch.com
@@ -4830,6 +4892,7 @@
 0.0.0.0 service-api.kingsoft-office-service.com
 0.0.0.0 service.carlcare.com
 0.0.0.0 service.force.com
+0.0.0.0 servicegetbook.net
 0.0.0.0 service.pokigame.io
 0.0.0.0 services.ludokingapi.com
 0.0.0.0 services.prod.ims.adobejanus.com
@@ -4976,6 +5039,7 @@
 0.0.0.0 sneaky.lordofthequietbadgers.com
 0.0.0.0 snid.snitcher.com
 0.0.0.0 snigelweb.com
+0.0.0.0 sniperlog.ru
 0.0.0.0 snippet.growsumo.com
 0.0.0.0 snippet.maze.co
 0.0.0.0 s.ns1p.net
@@ -4990,6 +5054,7 @@
 0.0.0.0 socks-omm-1.lotusflare.com
 0.0.0.0 sodiumcupboard.com
 0.0.0.0 sofire.terabox.com
+0.0.0.0 soft32.com
 0.0.0.0 softland.icu
 0.0.0.0 software-network-service.com
 0.0.0.0 sogou.com
@@ -5021,6 +5086,7 @@
 0.0.0.0 specificclick.net
 0.0.0.0 specificmedia.com
 0.0.0.0 speedcurve.com
+0.0.0.0 speednetwork14.adk2x.com
 0.0.0.0 speed.y5en.com
 0.0.0.0 spidersense.bendingspoons.com
 0.0.0.0 spinaway.com
@@ -5074,6 +5140,7 @@
 0.0.0.0 staging.pasangiklan.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 stake.com
+0.0.0.0 starbro.net
 0.0.0.0 start1password.com
 0.0.0.0 startechnews.com
 0.0.0.0 startup.mobile.webvisor.com
@@ -5115,6 +5182,7 @@
 0.0.0.0 static.jungroup.com
 0.0.0.0 static.klaviyo.com
 0.0.0.0 static.leadpages.net
+0.0.0.0 static-legit.akamaized.net
 0.0.0.0 static.like-it.video
 0.0.0.0 static.mailerlite.com
 0.0.0.0 static.meiqia.com
@@ -5255,6 +5323,7 @@
 0.0.0.0 sv.shopee.co.id
 0.0.0.0 swagcash.info
 0.0.0.0 sweety-girls.online
+0.0.0.0 swid.switchads.com
 0.0.0.0 swiftype.com
 0.0.0.0 s.w.org
 0.0.0.0 swpsvc.com
@@ -5315,6 +5384,7 @@
 0.0.0.0 taximaxim.ru
 0.0.0.0 taxsee.ru
 0.0.0.0 taz.mfcewkrob.com
+0.0.0.0 tb.ask.com
 0.0.0.0 tbcache.com
 0.0.0.0 t.bignox.com
 0.0.0.0 tbsandbox.com
@@ -5330,6 +5400,7 @@
 0.0.0.0 technologyadvice.com
 0.0.0.0 technopawns.com
 0.0.0.0 techrights.org
+0.0.0.0 techsmith.onfastspring.com
 0.0.0.0 tecno.servicewebly.com
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry-pingv1.eyeo.com
@@ -5352,6 +5423,7 @@
 0.0.0.0 terms.aliyun.com
 0.0.0.0 terms.aliyun.com.danuoyi.alicdn.com
 0.0.0.0 terpopuler.uzone.id
+0.0.0.0 terraclicks.com
 0.0.0.0 teslacoilapps.com
 0.0.0.0 test.cmp.quantcast.com
 0.0.0.0 testedforyou.net
@@ -5488,6 +5560,7 @@
 0.0.0.0 travel.rakuten.com
 0.0.0.0 tr.bignox.com
 0.0.0.0 trclips.com
+0.0.0.0 tremorvideo.com
 0.0.0.0 tria.ge
 0.0.0.0 tribalfusion.com
 0.0.0.0 tribl.io
@@ -5495,6 +5568,7 @@
 0.0.0.0 trio1.xyz
 0.0.0.0 triosgaming.com
 0.0.0.0 trioslot.live
+0.0.0.0 triple777.live
 0.0.0.0 trk.dirtbox.host
 0.0.0.0 trk.mail.ru
 0.0.0.0 trojanarticle.com
@@ -5504,6 +5578,7 @@
 0.0.0.0 tryemanagecrm.com
 0.0.0.0 tslaway.net
 0.0.0.0 ts.qq.com
+0.0.0.0 ttdetect.staticimgfarm.com
 0.0.0.0 tubesex.uno
 0.0.0.0 tubia.com
 0.0.0.0 tui.bignox.com
@@ -5676,6 +5751,7 @@
 0.0.0.0 useroperation.wondershare.com
 0.0.0.0 user-snow-api.snow.me
 0.0.0.0 us.eufy.com
+0.0.0.0 ushareit.com
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 us.tk0x1.com
 0.0.0.0 us.urmyromance.com
@@ -5704,11 +5780,13 @@
 0.0.0.0 vay.rent
 0.0.0.0 vbucks22.com
 0.0.0.0 vdo.ai
+0.0.0.0 veedi.com
 0.0.0.0 vendorlist.dmcdn.net
 0.0.0.0 verify.uxcam.com
 0.0.0.0 version.common.redflamenco.com
 0.0.0.0 version.ffmax.pencilorange.com
 0.0.0.0 version.ffmax.purplevioleto.com
+0.0.0.0 vfiles.wetvinfo.com
 0.0.0.0 vflat-8d597.firebaseio.com
 0.0.0.0 vgold.gameloft.com
 0.0.0.0 vi.4sync.com
@@ -5722,6 +5800,7 @@
 0.0.0.0 videodownloader.ummy.net
 0.0.0.0 video.gumlet.io
 0.0.0.0 video-g.usicdn.com
+0.0.0.0 videohub.tv
 0.0.0.0 video.kompas.com
 0.0.0.0 videomin.ru
 0.0.0.0 videoplayerhub.com
@@ -5750,6 +5829,7 @@
 0.0.0.0 vip8.alidns.com
 0.0.0.0 vip9.alidns.com
 0.0.0.0 vip.bignox.com
+0.0.0.0 virool.com
 0.0.0.0 visage-design-system.prod.merch.vpsvc.com
 0.0.0.0 visionplus.analytics.mncdigital.id
 0.0.0.0 visitsme.uno
@@ -5895,6 +5975,7 @@
 0.0.0.0 wesingapp.tsmusic.kg.qq.com
 0.0.0.0 westeurope2.caroda.io
 0.0.0.0 wetest.net
+0.0.0.0 wetvinfo.com
 0.0.0.0 wetv.vip
 0.0.0.0 w.everestop.io
 0.0.0.0 wfcwallet.com
@@ -5926,6 +6007,7 @@
 0.0.0.0 wildspike.com
 0.0.0.0 winluckychance.com
 0.0.0.0 wins.isprog.com
+0.0.0.0 winwin.adk2x.com
 0.0.0.0 wistia.com
 0.0.0.0 wjunction.com
 0.0.0.0 wlkjopy.com
@@ -5990,6 +6072,7 @@
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 ws.zoominfo.com
 0.0.0.0 wuildit.com
+0.0.0.0 wujicdn.wetvinfo.com
 0.0.0.0 wuji.wetvinfo.com
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 wvzb9b.xjwi5.com
@@ -6260,6 +6343,7 @@
 0.0.0.0 www.exonhack.com
 0.0.0.0 www.extremetracking.com
 0.0.0.0 www.faceplay.cc
+0.0.0.0 www.fastspring.com
 0.0.0.0 www.fbads-tools.com
 0.0.0.0 www.feedsonbudget.com
 0.0.0.0 www.filmmogzivota.rs
@@ -6307,6 +6391,7 @@
 0.0.0.0 www.ibet789.com
 0.0.0.0 www.ibuhaughuss.com
 0.0.0.0 www.iconsdb.com
+0.0.0.0 www.iflix.com
 0.0.0.0 www.ilyon.net
 0.0.0.0 www.infinitespy.com
 0.0.0.0 www.infosensasional.com
@@ -6359,6 +6444,7 @@
 0.0.0.0 www.maskolis.com
 0.0.0.0 www.melejitbanget.xyz
 0.0.0.0 www.meongers.com
+0.0.0.0 www.mergedocsonline.com
 0.0.0.0 www.minonav.com
 0.0.0.0 www.minoplay.com
 0.0.0.0 www.minoregimen.com
@@ -6741,6 +6827,7 @@
 0.0.0.0 x.glance-cdn.net
 0.0.0.0 x-id.ls.glanceapis.com
 0.0.0.0 x-id-mob.glance-cdn.com
+0.0.0.0 ximg.us
 0.0.0.0 xincache.com
 0.0.0.0 x-in.glance-cdn.com
 0.0.0.0 x-in.glance-cdn.net

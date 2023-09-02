@@ -21,6 +21,7 @@ assistant-dra.op.dbankcloud.cn
 atom-log.3.cn
 auto.itc.cn
 bdtj.infinities.com.cn
+beacon.cdn.qq.com
 beian.miit.gov.cn
 bounconser.cn
 campaign.zhaopin.com
@@ -69,6 +70,7 @@ gwy.com
 hahr.hazq.com
 hebyz2023.zhaopin.com
 highpin.zhaopin.com
+h.trace.qq.com
 image.thinkingdata.cn
 img001.fview.cn
 img002.fview.cn
@@ -103,6 +105,7 @@ n.sinaimg.cn
 ntp.ntsc.ac.cn
 ntp.sjtu.edu.cn
 oppo.wifi.teddymobile.cn
+otheve.beacon.qq.com
 overseas.zhaopin.com
 p0.itc.cn
 p11.itc.cn
@@ -118,8 +121,10 @@ p9.itc.cn
 passport.zhaopin.com
 pay-sg.wsds.cn
 psbcqhyc2023.zhaopin.com
+puui.qpic.cn
 qcloudimg.tencent-cloud.cn
 qcloudimg.tencentcs.cn
+qpic.cn
 qq.com
 rd6.zhaopin.com
 receiver.ta.thinkingdata.cn
@@ -179,7 +184,11 @@ u3.teddymobile.cn
 uc.cn
 unity.cn
 unity-cn-prd.cdn.unity.cn
+vfiles.gtimg.cn
+vfiles-raw.gtimg.cn
 vivo.com.cn
+vm.gtimg.cn
+v.qq.com
 wenjuan.com
 wifi.teddymobile.cn
 wjx.cn

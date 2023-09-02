@@ -67,10 +67,6 @@ for i in $DOMAIN_LISTS;do
 		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif ! echo "$result" | grep -q 'ANSWER: 0';then
-		echo -e "\r[+] $i exists\e[0K"
-		echo $i >> "$LOG_EXISTS_FILE"
-		PROGRESS_EXIST=$((PROGRESS_EXIST+1))
 	elif [ $exitcode -eq 9 ];then
 		echo -e "\r[!] No reply for $i from server\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
@@ -79,6 +75,10 @@ for i in $DOMAIN_LISTS;do
 		echo -e "\r[!] Internal error when querying $i!\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
+	elif ! echo "$result" | grep -q 'ANSWER: 0' && [ $exitcode -eq 0 ];then
+		echo -e "\r[+] $i exists\e[0K"
+		echo $i >> "$LOG_EXISTS_FILE"
+		PROGRESS_EXIST=$((PROGRESS_EXIST+1))
 	else
 		echo -e "\r[-] $i not exist\e[0K"
 		echo $i >> "$LOG_NONE_FILE"
