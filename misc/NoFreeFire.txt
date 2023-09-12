@@ -20,6 +20,7 @@ dl.aw.freefiremobile.com
 dl.castle.freefiremobile.com
 dl.cdn.freefiremobile.com
 dl.ctlin.freefiremobile.com
+dl.cvs.freefiremobile.com
 dl.dir.freefiremobile.com
 dl.gcp.freefiremobile.com
 dl.gmc.freefiremobile.com

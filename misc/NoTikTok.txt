@@ -2657,6 +2657,7 @@ pull-flv-f6-xg.bytecdn.cn
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
+pull-flv-f77-tt01.tiktokcdn.com
 pull-flv-f77-tt02.fcdn.us.tiktokv.com
 pull-flv-f77-tt02.tiktokcdn.com
 pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com
@@ -2826,6 +2827,7 @@ pull-w5-gcp01.tiktokcdn.com
 pull-w5-sg01.tiktokcdn.com
 pull-w5.tiktokcdn.com
 pull-w5.tiktokcdn.com.c.worldfcdn.com
+pull-w5-va01.fcdn.eu.tiktokcdn.com
 pull-w5-va01.tiktokcdn.com
 puppet.bytedance.net
 push-fcdn-base-oversea.s.worldfcdn.com

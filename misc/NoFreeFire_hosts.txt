@@ -21,6 +21,7 @@
 0.0.0.0 dl.castle.freefiremobile.com
 0.0.0.0 dl.cdn.freefiremobile.com
 0.0.0.0 dl.ctlin.freefiremobile.com
+0.0.0.0 dl.cvs.freefiremobile.com
 0.0.0.0 dl.dir.freefiremobile.com
 0.0.0.0 dl.gcp.freefiremobile.com
 0.0.0.0 dl.gmc.freefiremobile.com

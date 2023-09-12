@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.09.2023
+# Version: 12.09.2023
 # Update: 1 day
 #
 
@@ -932,6 +932,7 @@ asia.csoversea.mbgame.anticheatexpert.com
 asia-live.inside-graph.com
 asia-southeast1-gcp.api.snapchat.com
 askmen.com
+aspect-upush.umeng.com
 a.srpx.net
 assets10.lottiefiles.com
 assets16.resso.app
@@ -1879,6 +1880,7 @@ data.bilibili.tv
 data.biliintl.com
 datadoghq.com
 datadome.co
+data.emb-api.com
 data.flurry.com
 data.m2appinsight.com
 datamation.com
@@ -1985,6 +1987,7 @@ dlnel.org
 dls.di.atlas.samsung.com
 dlvr.it
 dlvrit.com
+dl.web.dhgamesdownload.com
 dl-xda.xposed.info
 dl.xposed.info
 dmcdn.net
@@ -2054,6 +2057,7 @@ druglike.com
 dr.youme.im
 ds2.shalltry.com
 dsail-tech.com
+dsid.nos.wjv-1.neo.id
 dsms0mj1bbhn4.cloudfront.net
 dsp.baidu.com
 ds.shalltry.com
@@ -2448,6 +2452,7 @@ geoip.hotstar.com
 geojs.io
 geolocation-db.com
 geolocation.onetrust.com
+geo.napster.com
 geo.tildacdn.com
 geowf.ge
 gessoesbeavers.uno
@@ -2622,6 +2627,7 @@ haasscripts.com
 h-adashx.ut.lazada.com
 hammergamer.com
 handoff-cdn.appadvice.com
+hansel-testsdk.tokopedia.com
 hanyu.sogou.com
 hao123.baidu.com
 hao123.com
@@ -3113,6 +3119,7 @@ js.hs-scripts.com
 js.hubspotfeedback.com
 js.intercomcdn.com
 js.media-lab.ai
+js.monitor.azure.com
 js.na.chilipiper.com
 json.ludokingapi.com
 js.pookcdn.com
@@ -3229,6 +3236,7 @@ laz-g-cdn.alicdn.com
 laz-img-cdn.alicdn.com
 lazy-tcp.rayjump.com
 lbs.like.video
+lbs.live.bigo.sg
 lbs-ru1.ads.betweendigital.com
 lbs-ru2.ads.betweendigital.com
 lbs-ru3.ads.betweendigital.com
@@ -3304,6 +3312,7 @@ livechatinc.com
 livechat-static.com
 live.glance.com
 livejournal.naydex.net
+livelbs.dinoyy.xyz
 livelbs.ukyuh.tech
 live.shopee.co.id
 livetech.live.shopee.co.id
@@ -3356,6 +3365,7 @@ logs.im-gb.com
 log.snow.me
 logs.papertrailapp.com
 log.tmtreader.com
+log.tokopedia.net
 log.tpns.hk.tencent.com
 log.tpns.sgp.tencent.com
 log.wt14yf.com
@@ -4209,6 +4219,7 @@ patronus.idata.shopeemobile.com
 pay4d.info
 pay-api.ahagamecenter.com
 pay.bignox.com
+paywall.fewcents.co
 pay.weixin.qq.com
 pay.yeshen.com
 pazu.ge
@@ -4879,6 +4890,7 @@ sentry.ff.avast.com
 sentry.io
 sentry.kuaishou.com
 sentry.kumparan.com
+sentry.mncplus.com
 sentry.prod.mozaws.net
 sentry.tidio.co
 servebom.com
@@ -5232,6 +5244,7 @@ stat.tpns.sgp.tencent.com
 status.castle.io
 statwup.nimo.tv
 stat.xdplt.com
+stay.decentralappps.com
 stc-sp.zadn.vn
 stc.sp.zdn.vn
 stc-zaloprofile.zdn.vn
@@ -5752,11 +5765,13 @@ u.startup.mobile.webvisor.com
 us.tk0x1.com
 us.urmyromance.com
 us.ynuf.aliapp.org
+utoken.umeng.com
 u.uc123.com
 uuitwxg.com
 uzone.id
 v16.resso.app
 v16.resso.me
+v55-mobile-live-config.pool.miniclippt.com
 v57.genieesspv.jp
 v9-default.ixigua.com.bsgslb.com
 v9-dy-x.ixigua.com.bsgslb.com
@@ -6940,6 +6955,7 @@ zegostudio.com
 zend-apps.com
 zendesk.com
 zepeto.me
+zeus.rcti.plus
 zh.4sync.com
 zhihu.sogou.com
 zhspay.com

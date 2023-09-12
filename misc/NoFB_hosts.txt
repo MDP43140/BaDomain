@@ -2204,6 +2204,7 @@
 0.0.0.0 instagram.fwbw1-1.fna.fbcdn.net
 0.0.0.0 instagram.fybz2-2.fna.fbcdn.net
 0.0.0.0 instagram.fymy1-2.fna.fbcdn.net
+0.0.0.0 instagram-p42-shv-01-nrt1.fbcdn.net
 0.0.0.0 instagram-shv-01-ams2.fbcdn.net
 0.0.0.0 instagram-shv-01-ams3.fbcdn.net
 0.0.0.0 instagram-shv-01-ash5.fbcdn.net

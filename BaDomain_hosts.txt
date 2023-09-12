@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.09.2023
+# Version: 12.09.2023
 # Update: 1 day
 #
 
@@ -932,6 +932,7 @@
 0.0.0.0 asia-live.inside-graph.com
 0.0.0.0 asia-southeast1-gcp.api.snapchat.com
 0.0.0.0 askmen.com
+0.0.0.0 aspect-upush.umeng.com
 0.0.0.0 a.srpx.net
 0.0.0.0 assets10.lottiefiles.com
 0.0.0.0 assets16.resso.app
@@ -1879,6 +1880,7 @@
 0.0.0.0 data.biliintl.com
 0.0.0.0 datadoghq.com
 0.0.0.0 datadome.co
+0.0.0.0 data.emb-api.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.m2appinsight.com
 0.0.0.0 datamation.com
@@ -1985,6 +1987,7 @@
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 dlvr.it
 0.0.0.0 dlvrit.com
+0.0.0.0 dl.web.dhgamesdownload.com
 0.0.0.0 dl-xda.xposed.info
 0.0.0.0 dl.xposed.info
 0.0.0.0 dmcdn.net
@@ -2054,6 +2057,7 @@
 0.0.0.0 dr.youme.im
 0.0.0.0 ds2.shalltry.com
 0.0.0.0 dsail-tech.com
+0.0.0.0 dsid.nos.wjv-1.neo.id
 0.0.0.0 dsms0mj1bbhn4.cloudfront.net
 0.0.0.0 dsp.baidu.com
 0.0.0.0 ds.shalltry.com
@@ -2448,6 +2452,7 @@
 0.0.0.0 geojs.io
 0.0.0.0 geolocation-db.com
 0.0.0.0 geolocation.onetrust.com
+0.0.0.0 geo.napster.com
 0.0.0.0 geo.tildacdn.com
 0.0.0.0 geowf.ge
 0.0.0.0 gessoesbeavers.uno
@@ -2622,6 +2627,7 @@
 0.0.0.0 h-adashx.ut.lazada.com
 0.0.0.0 hammergamer.com
 0.0.0.0 handoff-cdn.appadvice.com
+0.0.0.0 hansel-testsdk.tokopedia.com
 0.0.0.0 hanyu.sogou.com
 0.0.0.0 hao123.baidu.com
 0.0.0.0 hao123.com
@@ -3117,6 +3123,7 @@
 0.0.0.0 js.hubspotfeedback.com
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 js.media-lab.ai
+0.0.0.0 js.monitor.azure.com
 0.0.0.0 js.na.chilipiper.com
 0.0.0.0 json.ludokingapi.com
 0.0.0.0 js.pookcdn.com
@@ -3233,6 +3240,7 @@
 0.0.0.0 laz-img-cdn.alicdn.com
 0.0.0.0 lazy-tcp.rayjump.com
 0.0.0.0 lbs.like.video
+0.0.0.0 lbs.live.bigo.sg
 0.0.0.0 lbs-ru1.ads.betweendigital.com
 0.0.0.0 lbs-ru2.ads.betweendigital.com
 0.0.0.0 lbs-ru3.ads.betweendigital.com
@@ -3308,6 +3316,7 @@
 0.0.0.0 livechat-static.com
 0.0.0.0 live.glance.com
 0.0.0.0 livejournal.naydex.net
+0.0.0.0 livelbs.dinoyy.xyz
 0.0.0.0 livelbs.ukyuh.tech
 0.0.0.0 live.shopee.co.id
 0.0.0.0 livetech.live.shopee.co.id
@@ -3360,6 +3369,7 @@
 0.0.0.0 log.snow.me
 0.0.0.0 logs.papertrailapp.com
 0.0.0.0 log.tmtreader.com
+0.0.0.0 log.tokopedia.net
 0.0.0.0 log.tpns.hk.tencent.com
 0.0.0.0 log.tpns.sgp.tencent.com
 0.0.0.0 log.wt14yf.com
@@ -4213,6 +4223,7 @@
 0.0.0.0 pay4d.info
 0.0.0.0 pay-api.ahagamecenter.com
 0.0.0.0 pay.bignox.com
+0.0.0.0 paywall.fewcents.co
 0.0.0.0 pay.weixin.qq.com
 0.0.0.0 pay.yeshen.com
 0.0.0.0 pazu.ge
@@ -4883,6 +4894,7 @@
 0.0.0.0 sentry.io
 0.0.0.0 sentry.kuaishou.com
 0.0.0.0 sentry.kumparan.com
+0.0.0.0 sentry.mncplus.com
 0.0.0.0 sentry.prod.mozaws.net
 0.0.0.0 sentry.tidio.co
 0.0.0.0 servebom.com
@@ -5236,6 +5248,7 @@
 0.0.0.0 status.castle.io
 0.0.0.0 statwup.nimo.tv
 0.0.0.0 stat.xdplt.com
+0.0.0.0 stay.decentralappps.com
 0.0.0.0 stc-sp.zadn.vn
 0.0.0.0 stc.sp.zdn.vn
 0.0.0.0 stc-zaloprofile.zdn.vn
@@ -5756,11 +5769,13 @@
 0.0.0.0 us.tk0x1.com
 0.0.0.0 us.urmyromance.com
 0.0.0.0 us.ynuf.aliapp.org
+0.0.0.0 utoken.umeng.com
 0.0.0.0 u.uc123.com
 0.0.0.0 uuitwxg.com
 0.0.0.0 uzone.id
 0.0.0.0 v16.resso.app
 0.0.0.0 v16.resso.me
+0.0.0.0 v55-mobile-live-config.pool.miniclippt.com
 0.0.0.0 v57.genieesspv.jp
 0.0.0.0 v9-default.ixigua.com.bsgslb.com
 0.0.0.0 v9-dy-x.ixigua.com.bsgslb.com
@@ -6944,6 +6959,7 @@
 0.0.0.0 zend-apps.com
 0.0.0.0 zendesk.com
 0.0.0.0 zepeto.me
+0.0.0.0 zeus.rcti.plus
 0.0.0.0 zh.4sync.com
 0.0.0.0 zhihu.sogou.com
 0.0.0.0 zhspay.com
