@@ -2915,6 +2915,7 @@
 0.0.0.0 media-xsp1-1.cdn.whatsapp.net
 0.0.0.0 media-xsp1-2.cdn.whatsapp.net
 0.0.0.0 media-xsp1-3.cdn.whatsapp.net
+0.0.0.0 media-xsp2-1.cdn.whatsapp.net
 0.0.0.0 meli.m.facebook.com
 0.0.0.0 metacareers.com
 0.0.0.0 m.facebook.com

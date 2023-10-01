@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.09.2023
+# Version: 02.10.2023
 # Update: 1 day
 #
 
@@ -132,6 +132,9 @@
 4shared.com
 4sync.com
 4ubnsy.com
+4wrqgg-cdn-settings.appsflyersdk.com
+4wrqgg-inapps.appsflyersdk.com
+4wrqgg-launches.appsflyersdk.com
 4.ygti905ffth6.com
 4.zxczj.top
 50.ygti905ffth6.com
@@ -214,6 +217,7 @@ a.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
 a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
 a.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
+a3f76b6ab2ad3a9c94588dea7f599848.safeframe.googlesyndication.com
 a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 a4.applovin.com
 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
@@ -226,6 +230,7 @@ a.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
+a.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 a.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
@@ -356,7 +361,6 @@ adtechus.com
 adtilt.com
 adtima-static.zascdn.me
 ad.toutiao.com
-aduankonten.id
 adunit.datawrkz.com
 adventureacademy.com
 adver.qq.com
@@ -784,6 +788,7 @@ api.themoviedb.org
 api.tmdak.top
 apitm.toolmatrix.plus
 api.tmtreader.com
+api.tnapps.xyz
 api.top.gg
 api.toponadss.com
 api.tratao.com
@@ -934,6 +939,8 @@ asia-southeast1-gcp.api.snapchat.com
 askmen.com
 aspect-upush.umeng.com
 a.srpx.net
+asset-2.tstatic.net
+asset-a.grid.id
 assets10.lottiefiles.com
 assets16.resso.app
 assets1.lottiefiles.com
@@ -966,10 +973,13 @@ assets-marketing-site.calendly.com
 assets.mintegral.com
 assets.playtech.com
 assets.promediateknologi.com
+assets.promediateknologi.id
+assets.queue-it.net
 assets-share.dspunion.com
 assets.tower.sybo.net
 assets.ubembed.com
 assets.webmoney.ru
+assistant.wps.com
 astivysauran.com
 astra9dlya10.com
 astratech.pro
@@ -1146,6 +1156,7 @@ biliintl.com
 bilikfilm.xyz
 billigrefinansiering.com
 bimages.gamescdn.top
+bimatri.gghype.com
 bingapis.com
 bi.yeshen.com
 bizconfig.palmplaystore.com
@@ -1159,6 +1170,7 @@ blockpage.xl.co.id
 block.uzone.id
 blogblog.com
 blog.castle.io
+blog.health-blog.asia
 blog.manualesaqui.online
 blog.pcapredict.com
 blog.pho.to
@@ -1184,6 +1196,7 @@ boomplaymusic.com
 booster.palmpal.net
 bootstrap.smartsuppchat.com
 bosbosgames.com
+bossinema.com
 botsrv2.com
 bottracker.site
 box5757.temp.domains
@@ -1257,6 +1270,7 @@ cahoots.com
 calconic.com
 calendardate.online
 calibermind.com
+callmeooumou.com
 camera.magicutapp.com
 campaigns.zamsino.com
 camp.azgames.live
@@ -1422,6 +1436,7 @@ cdnm3.caping.co.id
 cdn.metarouter.io
 cdn.mxpnl.com
 cdn.neverbounce.com
+cdn.noiceid.cc
 cdn.onthe.io
 cdn.orderonline.id
 cdn.otnolatrnup.com
@@ -1547,6 +1562,7 @@ clickagy.com
 clicken.us
 click.hm.baidu.com
 clientapi-sin.dtignite.com
+clientconfig.passport.net
 client-logger.beta.salemove.com
 client-metrics.prod.topeleven.com
 client.perimeterx.net
@@ -1896,6 +1912,7 @@ datting.online
 daum.net
 davisonbarker.pro
 da-www14.ballou.se
+da.xboxservices.com
 dbn41syzjymrk.cloudfront.net
 dc1.networkbench.com
 dc.albtls.t.co
@@ -1968,6 +1985,7 @@ direct.lc.chat
 direct.lc.chat.edgekey.net
 directory.cookieyes.com
 dirtytinder1s.com
+discover.amd.com
 discovercadeals.com
 discovery.clearbit.com
 distillery.wistia.com
@@ -2014,6 +2032,11 @@ dogecointothemoon43.us
 doh.iq.com
 dojo.cc
 dokl7xqu9svnv.cloudfront.net
+dolar138.app
+dolar138a.xyz
+dolar138fb.com
+dolar138.io
+dolar138win.com
 dollarbrite.com
 domaintechniacal.aihelp.net
 domain.trialogger.com
@@ -2255,6 +2278,7 @@ fastspring.com
 fast.wistia.com
 favicon.yandex.net
 fbads-tools.com
+fbh20.indosatooredoo.com
 f.cstpersl.com
 feabtest.prod.tvlk-data.com
 feature-api.pa1mstore.com
@@ -2266,6 +2290,7 @@ feed-7121.feedfinder23.info
 feed.bignox.com
 feed.chimukappa.com
 feed.rhino-news.com
+feeds.noice.id
 feedsonbudget.com
 feeds.shalltry.com
 feed-static.y5en.com
@@ -2472,6 +2497,7 @@ gfd-phinf.pstatic.net
 gfp.veta.naver.com
 gfycat.com
 g-gdfp.uvfuns.com
+gghype.com
 g.glance-cdn.com
 ghbtns.com
 ghost.org
@@ -2826,6 +2852,7 @@ i.ibb.co
 i.jpallnight.com
 i.kissmetrics.com
 i.l-new.inmobicdn.net
+ilockcardf.realme.com
 ilovexclub.com
 ilyon.net
 image6.thehotgames.com
@@ -2839,9 +2866,11 @@ images.51.la
 images.anime-pictures.net
 images.bitmoji.com
 images.ctfassets.net
+images-eds-ssl.xboxlive.com
 images.hellomagazine.com
 images.idtopnews.com
 image.slidesharecdn.com
+images.noiceid.cc
 images.pdnob.com
 images.prismic.io
 images.tenorshare.com
@@ -2986,6 +3015,7 @@ intra.supercell.com
 int.search.myway.com
 intuit.com
 invitereferrals.com
+invstatic101.creativecdn.com
 iobit.com
 ionfish-app-y46cz.ondigitalocean.app
 ionistkhaya.website
@@ -3100,6 +3130,7 @@ jsc.mgid.com
 js.cx
 js.datadome.co
 js.digiads.co.id
+js.digitalriver.com
 js.driftt.com
 js-eu1.hs-analytics.net
 js-eu1.hs-banner.com
@@ -3317,6 +3348,7 @@ livelbs.ukyuh.tech
 live.shopee.co.id
 livetech.live.shopee.co.id
 livetech.shopee.co.id
+livetileedge.dsx.mp.microsoft.com
 liveupdate01.asus.com
 livoop.com
 lkqd.net
@@ -3340,6 +3372,7 @@ log.goodnovel.com
 log.hm.baidu.com
 login.360safe.com
 login5.spotify.com
+logindolar138.com
 login.im.qcloud.com
 login.sc.funminigame.com
 login.sina.com
@@ -3400,6 +3433,7 @@ lustre.ai
 l.widgetable.net
 lyncdiscover.pcapredict.com
 lyric.intools.dev
+lywasnothycanty.info
 lzd-img-global.slatic.net
 m10.fywkuzp.ru
 m11.fywkuzp.ru
@@ -3549,6 +3583,7 @@ media.istockphoto.com
 media-lab.ai
 media.neliti.com
 media.net
+media.sukabumiupdate.com
 media.tenor.co
 media.tenor.com
 mediation-instantiation.prd.mz.internal.unity3d.com
@@ -3657,6 +3692,7 @@ moengage.com
 momentive.ai
 momgen.best
 monetizer.com
+money-flow-5ecaa-default-rtdb.firebaseio.com
 moneytube.pro
 monitor.clickcease.com
 monkeyibrowstudios.com
@@ -3666,6 +3702,7 @@ mopinion.com
 m.optout.ziffdavis.com
 mores.baby
 mothima.com
+motivedtheatre.cfd
 motogp.api.weplay.media
 mp3.zing.vn
 mp-comm-db-3.firebaseio.com
@@ -3742,6 +3779,7 @@ myfan.monster
 myfreecams.com
 myhelpdesk.me
 myim3banner.kloc.co
+myim3.segisatu.com
 myjino.ru
 m.ykimg.com
 mynfwwk.com
@@ -4203,6 +4241,7 @@ partner.toutiao.com
 passfab.com
 passport.bignox.com
 passport.biliintl.com
+passport.lenovo.com
 passport.tmtreader.com
 passport-us.bignox.com
 passport.yeshen.com
@@ -4423,6 +4462,7 @@ prospector.clearbit.com
 pro-threats.nbowree.com
 proximacentauri.it
 proxy.aoemo.cc
+proxy.link.app
 proxy-omm.lotusflare.com
 pr.prchecker.info
 ps4remoteplay.net
@@ -4431,6 +4471,7 @@ psegment.netcoresmartech.com
 ps.eyeota.net
 pseyumd.ru
 pshmetrk.com
+pt188.vip
 pt.bignox.com
 ptlinknettbk.my.salesforce.com
 pt.slideshare.net
@@ -4824,6 +4865,7 @@ sdk-exchange.startappservice.com
 sdk.hdvietpro.com
 sdk.iad-04.braze.com
 sdk.iad-05.braze.com
+sdk-monitoring.ogury.co
 sdk.navnow.xyz
 sdk.privacy-center.org
 sdk.pushmessage.samsung.com
@@ -5011,6 +5053,7 @@ sitejabber.com
 sixinpic.uvfuns.com
 sixtest.com
 sjb333.vip
+sjb555.vip
 skadsdkless.appsflyersdk.com
 skimlinks.com
 skimresources.com
@@ -5174,6 +5217,7 @@ static.api.baca.co.id
 static.api.community.baca.co.id
 static-cdn.cdkeyoffer.com
 static.cdn.prismic.io
+static.cloud.coveo.com
 static-cms.aa-cdn.net
 static.dable.io
 static-doubleclick-net.l.google.com
@@ -5203,6 +5247,7 @@ static.nukeasset.com
 static.parastorage.com
 static.pasangiklan.com
 static.pulse.mail.ru
+static.queue-it.net
 statics.creativecdn.com
 static-sea.taximaxim.com
 static.servicewebly.com
@@ -5351,6 +5396,7 @@ szmg.qq.com
 t0.api.kikakeyboard.com
 t1.daumcdn.net
 t-1.tstatic.net
+t2023.com
 t2.chartboost.com
 t-2.tstatic.net
 t3.chartboost.com
@@ -5577,6 +5623,8 @@ trikslotjp.com
 trio1.xyz
 triosgaming.com
 trioslot.live
+triple777.club
+triple777.info
 triple777.live
 trk.dirtbox.host
 trk.mail.ru
@@ -6337,6 +6385,7 @@ www.digiads.co.id
 www.digimarc.com
 www.dob5.com
 www.docdoc.com
+www.dolar138a.xyz
 www.dosya.tc
 www.downstairst.store
 www.duelbits.com
@@ -6489,6 +6538,7 @@ www.openaigpt.com
 www.optimumlines.com
 www.ordereffuel.co
 www.orderonline.id
+www.outings-project.org
 www.palmpal.net
 www.palmpay.com
 www.pasangiklan.com
@@ -6760,6 +6810,7 @@ www.wp.pl
 www.wshareit.com
 www.wuildit.com
 www.wwwhelpnumber.co.uk
+www.xilinx.com
 www.xmlschemeformat.com
 www.xnxx.com
 www.xunyou.mobi
@@ -6802,6 +6853,7 @@ x-apac.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 x-apac.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+x-apac.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 x-apac.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 x-apac.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
@@ -6814,6 +6866,7 @@ x-delivery.icu
 xdg-1c20f-intl.xd.com
 xdg-2fc4a-intl.xd.com
 xdg-3da8a-intl.xd.com
+x-emea.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 x-eu.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
 x-eu.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 x-eu.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
@@ -6825,6 +6878,7 @@ x-eu.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 x-eu.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+x-eu.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 x-eu.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 x-eu.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
@@ -6846,6 +6900,7 @@ x-in-mob-game-cdn.glance-cdn.com
 x-in-mob.glance-cdn.com
 xjp-jmacs.m.taobao.com
 xjp-msgacs.m.taobao.com
+x-latam.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 xlaxiata2.md-apis.medallia.com
 xlaxiata-resources.digital-cloud-sin1.medallia.com
 xlaxiata-udc.digital-cloud-sin1.medallia.com
@@ -6883,6 +6938,7 @@ x-us.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
 x-us.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 x-us.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 x-us.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+x-us.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 x-us.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 x-us.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 x-us.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com

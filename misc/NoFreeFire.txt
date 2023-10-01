@@ -47,6 +47,7 @@ ludofire1.1.sea.freefiremobile.com
 network.freefiremobile.com
 networkselftest.ff.garena.com
 poisontail.sea.freefiremobile.com
+rankguide.sea.freefiremobile.com
 reward.ff.garena.com
 sdk.garena.com
 sea.freefiremobile.com

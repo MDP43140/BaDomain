@@ -48,6 +48,7 @@
 0.0.0.0 network.freefiremobile.com
 0.0.0.0 networkselftest.ff.garena.com
 0.0.0.0 poisontail.sea.freefiremobile.com
+0.0.0.0 rankguide.sea.freefiremobile.com
 0.0.0.0 reward.ff.garena.com
 0.0.0.0 sdk.garena.com
 0.0.0.0 sea.freefiremobile.com

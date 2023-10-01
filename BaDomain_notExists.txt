@@ -67,6 +67,7 @@ ad.xiaomi.com
 ad.youtube.com
 adzhosts.eu
 a.e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
+a.f8aace0783625cc9ce0555f7a37139359a3ee0cc5a37e3c618ffea6f.com
 aff-track.net
 afterbern.live
 agencymrbeast.com
@@ -239,6 +240,7 @@ ctc.fe02.c3.xiaomi.com
 ctfassets.net
 cthulhu-world.com
 curtainst.store
+customer-lastpass.eu
 d01.notifa.info
 d1zcggttmijv1z.cloudfront.net
 dable.ioscript

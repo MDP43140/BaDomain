@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 12.09.2023
+# Version: 02.10.2023
 # Update: 1 day
 #
 
@@ -132,6 +132,9 @@
 0.0.0.0 4shared.com
 0.0.0.0 4sync.com
 0.0.0.0 4ubnsy.com
+0.0.0.0 4wrqgg-cdn-settings.appsflyersdk.com
+0.0.0.0 4wrqgg-inapps.appsflyersdk.com
+0.0.0.0 4wrqgg-launches.appsflyersdk.com
 0.0.0.0 4.ygti905ffth6.com
 0.0.0.0 4.zxczj.top
 0.0.0.0 50.ygti905ffth6.com
@@ -214,6 +217,7 @@
 0.0.0.0 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
 0.0.0.0 a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
 0.0.0.0 a.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
+0.0.0.0 a3f76b6ab2ad3a9c94588dea7f599848.safeframe.googlesyndication.com
 0.0.0.0 a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 0.0.0.0 a4.applovin.com
 0.0.0.0 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
@@ -226,6 +230,7 @@
 0.0.0.0 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 a.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 0.0.0.0 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
+0.0.0.0 a.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 0.0.0.0 a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 a.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 0.0.0.0 a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
@@ -356,7 +361,6 @@
 0.0.0.0 adtilt.com
 0.0.0.0 adtima-static.zascdn.me
 0.0.0.0 ad.toutiao.com
-0.0.0.0 aduankonten.id
 0.0.0.0 adunit.datawrkz.com
 0.0.0.0 adventureacademy.com
 0.0.0.0 adver.qq.com
@@ -784,6 +788,7 @@
 0.0.0.0 api.tmdak.top
 0.0.0.0 apitm.toolmatrix.plus
 0.0.0.0 api.tmtreader.com
+0.0.0.0 api.tnapps.xyz
 0.0.0.0 api.top.gg
 0.0.0.0 api.toponadss.com
 0.0.0.0 api.tratao.com
@@ -934,6 +939,8 @@
 0.0.0.0 askmen.com
 0.0.0.0 aspect-upush.umeng.com
 0.0.0.0 a.srpx.net
+0.0.0.0 asset-2.tstatic.net
+0.0.0.0 asset-a.grid.id
 0.0.0.0 assets10.lottiefiles.com
 0.0.0.0 assets16.resso.app
 0.0.0.0 assets1.lottiefiles.com
@@ -966,10 +973,13 @@
 0.0.0.0 assets.mintegral.com
 0.0.0.0 assets.playtech.com
 0.0.0.0 assets.promediateknologi.com
+0.0.0.0 assets.promediateknologi.id
+0.0.0.0 assets.queue-it.net
 0.0.0.0 assets-share.dspunion.com
 0.0.0.0 assets.tower.sybo.net
 0.0.0.0 assets.ubembed.com
 0.0.0.0 assets.webmoney.ru
+0.0.0.0 assistant.wps.com
 0.0.0.0 astivysauran.com
 0.0.0.0 astra9dlya10.com
 0.0.0.0 astratech.pro
@@ -1146,6 +1156,7 @@
 0.0.0.0 bilikfilm.xyz
 0.0.0.0 billigrefinansiering.com
 0.0.0.0 bimages.gamescdn.top
+0.0.0.0 bimatri.gghype.com
 0.0.0.0 bingapis.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 bizconfig.palmplaystore.com
@@ -1159,6 +1170,7 @@
 0.0.0.0 block.uzone.id
 0.0.0.0 blogblog.com
 0.0.0.0 blog.castle.io
+0.0.0.0 blog.health-blog.asia
 0.0.0.0 blog.manualesaqui.online
 0.0.0.0 blog.pcapredict.com
 0.0.0.0 blog.pho.to
@@ -1184,6 +1196,7 @@
 0.0.0.0 booster.palmpal.net
 0.0.0.0 bootstrap.smartsuppchat.com
 0.0.0.0 bosbosgames.com
+0.0.0.0 bossinema.com
 0.0.0.0 botsrv2.com
 0.0.0.0 bottracker.site
 0.0.0.0 box5757.temp.domains
@@ -1257,6 +1270,7 @@
 0.0.0.0 calconic.com
 0.0.0.0 calendardate.online
 0.0.0.0 calibermind.com
+0.0.0.0 callmeooumou.com
 0.0.0.0 camera.magicutapp.com
 0.0.0.0 campaigns.zamsino.com
 0.0.0.0 camp.azgames.live
@@ -1422,6 +1436,7 @@
 0.0.0.0 cdn.metarouter.io
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.neverbounce.com
+0.0.0.0 cdn.noiceid.cc
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.orderonline.id
 0.0.0.0 cdn.otnolatrnup.com
@@ -1547,6 +1562,7 @@
 0.0.0.0 clicken.us
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 clientapi-sin.dtignite.com
+0.0.0.0 clientconfig.passport.net
 0.0.0.0 client-logger.beta.salemove.com
 0.0.0.0 client-metrics.prod.topeleven.com
 0.0.0.0 client.perimeterx.net
@@ -1896,6 +1912,7 @@
 0.0.0.0 daum.net
 0.0.0.0 davisonbarker.pro
 0.0.0.0 da-www14.ballou.se
+0.0.0.0 da.xboxservices.com
 0.0.0.0 dbn41syzjymrk.cloudfront.net
 0.0.0.0 dc1.networkbench.com
 0.0.0.0 dc.albtls.t.co
@@ -1968,6 +1985,7 @@
 0.0.0.0 direct.lc.chat.edgekey.net
 0.0.0.0 directory.cookieyes.com
 0.0.0.0 dirtytinder1s.com
+0.0.0.0 discover.amd.com
 0.0.0.0 discovercadeals.com
 0.0.0.0 discovery.clearbit.com
 0.0.0.0 distillery.wistia.com
@@ -2014,6 +2032,11 @@
 0.0.0.0 doh.iq.com
 0.0.0.0 dojo.cc
 0.0.0.0 dokl7xqu9svnv.cloudfront.net
+0.0.0.0 dolar138.app
+0.0.0.0 dolar138a.xyz
+0.0.0.0 dolar138fb.com
+0.0.0.0 dolar138.io
+0.0.0.0 dolar138win.com
 0.0.0.0 dollarbrite.com
 0.0.0.0 domaintechniacal.aihelp.net
 0.0.0.0 domain.trialogger.com
@@ -2255,6 +2278,7 @@
 0.0.0.0 fast.wistia.com
 0.0.0.0 favicon.yandex.net
 0.0.0.0 fbads-tools.com
+0.0.0.0 fbh20.indosatooredoo.com
 0.0.0.0 f.cstpersl.com
 0.0.0.0 feabtest.prod.tvlk-data.com
 0.0.0.0 feature-api.pa1mstore.com
@@ -2266,6 +2290,7 @@
 0.0.0.0 feed.bignox.com
 0.0.0.0 feed.chimukappa.com
 0.0.0.0 feed.rhino-news.com
+0.0.0.0 feeds.noice.id
 0.0.0.0 feedsonbudget.com
 0.0.0.0 feeds.shalltry.com
 0.0.0.0 feed-static.y5en.com
@@ -2472,6 +2497,7 @@
 0.0.0.0 gfp.veta.naver.com
 0.0.0.0 gfycat.com
 0.0.0.0 g-gdfp.uvfuns.com
+0.0.0.0 gghype.com
 0.0.0.0 g.glance-cdn.com
 0.0.0.0 ghbtns.com
 0.0.0.0 ghost.org
@@ -2830,6 +2856,7 @@
 0.0.0.0 i.jpallnight.com
 0.0.0.0 i.kissmetrics.com
 0.0.0.0 i.l-new.inmobicdn.net
+0.0.0.0 ilockcardf.realme.com
 0.0.0.0 ilovexclub.com
 0.0.0.0 ilyon.net
 0.0.0.0 image6.thehotgames.com
@@ -2843,9 +2870,11 @@
 0.0.0.0 images.anime-pictures.net
 0.0.0.0 images.bitmoji.com
 0.0.0.0 images.ctfassets.net
+0.0.0.0 images-eds-ssl.xboxlive.com
 0.0.0.0 images.hellomagazine.com
 0.0.0.0 images.idtopnews.com
 0.0.0.0 image.slidesharecdn.com
+0.0.0.0 images.noiceid.cc
 0.0.0.0 images.pdnob.com
 0.0.0.0 images.prismic.io
 0.0.0.0 images.tenorshare.com
@@ -2990,6 +3019,7 @@
 0.0.0.0 int.search.myway.com
 0.0.0.0 intuit.com
 0.0.0.0 invitereferrals.com
+0.0.0.0 invstatic101.creativecdn.com
 0.0.0.0 iobit.com
 0.0.0.0 ionfish-app-y46cz.ondigitalocean.app
 0.0.0.0 ionistkhaya.website
@@ -3104,6 +3134,7 @@
 0.0.0.0 js.cx
 0.0.0.0 js.datadome.co
 0.0.0.0 js.digiads.co.id
+0.0.0.0 js.digitalriver.com
 0.0.0.0 js.driftt.com
 0.0.0.0 js-eu1.hs-analytics.net
 0.0.0.0 js-eu1.hs-banner.com
@@ -3321,6 +3352,7 @@
 0.0.0.0 live.shopee.co.id
 0.0.0.0 livetech.live.shopee.co.id
 0.0.0.0 livetech.shopee.co.id
+0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 liveupdate01.asus.com
 0.0.0.0 livoop.com
 0.0.0.0 lkqd.net
@@ -3344,6 +3376,7 @@
 0.0.0.0 log.hm.baidu.com
 0.0.0.0 login.360safe.com
 0.0.0.0 login5.spotify.com
+0.0.0.0 logindolar138.com
 0.0.0.0 login.im.qcloud.com
 0.0.0.0 login.sc.funminigame.com
 0.0.0.0 login.sina.com
@@ -3404,6 +3437,7 @@
 0.0.0.0 l.widgetable.net
 0.0.0.0 lyncdiscover.pcapredict.com
 0.0.0.0 lyric.intools.dev
+0.0.0.0 lywasnothycanty.info
 0.0.0.0 lzd-img-global.slatic.net
 0.0.0.0 m10.fywkuzp.ru
 0.0.0.0 m11.fywkuzp.ru
@@ -3553,6 +3587,7 @@
 0.0.0.0 media-lab.ai
 0.0.0.0 media.neliti.com
 0.0.0.0 media.net
+0.0.0.0 media.sukabumiupdate.com
 0.0.0.0 media.tenor.co
 0.0.0.0 media.tenor.com
 0.0.0.0 mediation-instantiation.prd.mz.internal.unity3d.com
@@ -3661,6 +3696,7 @@
 0.0.0.0 momentive.ai
 0.0.0.0 momgen.best
 0.0.0.0 monetizer.com
+0.0.0.0 money-flow-5ecaa-default-rtdb.firebaseio.com
 0.0.0.0 moneytube.pro
 0.0.0.0 monitor.clickcease.com
 0.0.0.0 monkeyibrowstudios.com
@@ -3670,6 +3706,7 @@
 0.0.0.0 m.optout.ziffdavis.com
 0.0.0.0 mores.baby
 0.0.0.0 mothima.com
+0.0.0.0 motivedtheatre.cfd
 0.0.0.0 motogp.api.weplay.media
 0.0.0.0 mp3.zing.vn
 0.0.0.0 mp-comm-db-3.firebaseio.com
@@ -3746,6 +3783,7 @@
 0.0.0.0 myfreecams.com
 0.0.0.0 myhelpdesk.me
 0.0.0.0 myim3banner.kloc.co
+0.0.0.0 myim3.segisatu.com
 0.0.0.0 myjino.ru
 0.0.0.0 m.ykimg.com
 0.0.0.0 mynfwwk.com
@@ -4207,6 +4245,7 @@
 0.0.0.0 passfab.com
 0.0.0.0 passport.bignox.com
 0.0.0.0 passport.biliintl.com
+0.0.0.0 passport.lenovo.com
 0.0.0.0 passport.tmtreader.com
 0.0.0.0 passport-us.bignox.com
 0.0.0.0 passport.yeshen.com
@@ -4427,6 +4466,7 @@
 0.0.0.0 pro-threats.nbowree.com
 0.0.0.0 proximacentauri.it
 0.0.0.0 proxy.aoemo.cc
+0.0.0.0 proxy.link.app
 0.0.0.0 proxy-omm.lotusflare.com
 0.0.0.0 pr.prchecker.info
 0.0.0.0 ps4remoteplay.net
@@ -4435,6 +4475,7 @@
 0.0.0.0 ps.eyeota.net
 0.0.0.0 pseyumd.ru
 0.0.0.0 pshmetrk.com
+0.0.0.0 pt188.vip
 0.0.0.0 pt.bignox.com
 0.0.0.0 ptlinknettbk.my.salesforce.com
 0.0.0.0 pt.slideshare.net
@@ -4828,6 +4869,7 @@
 0.0.0.0 sdk.hdvietpro.com
 0.0.0.0 sdk.iad-04.braze.com
 0.0.0.0 sdk.iad-05.braze.com
+0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk.navnow.xyz
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sdk.pushmessage.samsung.com
@@ -5015,6 +5057,7 @@
 0.0.0.0 sixinpic.uvfuns.com
 0.0.0.0 sixtest.com
 0.0.0.0 sjb333.vip
+0.0.0.0 sjb555.vip
 0.0.0.0 skadsdkless.appsflyersdk.com
 0.0.0.0 skimlinks.com
 0.0.0.0 skimresources.com
@@ -5178,6 +5221,7 @@
 0.0.0.0 static.api.community.baca.co.id
 0.0.0.0 static-cdn.cdkeyoffer.com
 0.0.0.0 static.cdn.prismic.io
+0.0.0.0 static.cloud.coveo.com
 0.0.0.0 static-cms.aa-cdn.net
 0.0.0.0 static.dable.io
 0.0.0.0 static-doubleclick-net.l.google.com
@@ -5207,6 +5251,7 @@
 0.0.0.0 static.parastorage.com
 0.0.0.0 static.pasangiklan.com
 0.0.0.0 static.pulse.mail.ru
+0.0.0.0 static.queue-it.net
 0.0.0.0 statics.creativecdn.com
 0.0.0.0 static-sea.taximaxim.com
 0.0.0.0 static.servicewebly.com
@@ -5355,6 +5400,7 @@
 0.0.0.0 t0.api.kikakeyboard.com
 0.0.0.0 t1.daumcdn.net
 0.0.0.0 t-1.tstatic.net
+0.0.0.0 t2023.com
 0.0.0.0 t2.chartboost.com
 0.0.0.0 t-2.tstatic.net
 0.0.0.0 t3.chartboost.com
@@ -5581,6 +5627,8 @@
 0.0.0.0 trio1.xyz
 0.0.0.0 triosgaming.com
 0.0.0.0 trioslot.live
+0.0.0.0 triple777.club
+0.0.0.0 triple777.info
 0.0.0.0 triple777.live
 0.0.0.0 trk.dirtbox.host
 0.0.0.0 trk.mail.ru
@@ -6341,6 +6389,7 @@
 0.0.0.0 www.digimarc.com
 0.0.0.0 www.dob5.com
 0.0.0.0 www.docdoc.com
+0.0.0.0 www.dolar138a.xyz
 0.0.0.0 www.dosya.tc
 0.0.0.0 www.downstairst.store
 0.0.0.0 www.duelbits.com
@@ -6493,6 +6542,7 @@
 0.0.0.0 www.optimumlines.com
 0.0.0.0 www.ordereffuel.co
 0.0.0.0 www.orderonline.id
+0.0.0.0 www.outings-project.org
 0.0.0.0 www.palmpal.net
 0.0.0.0 www.palmpay.com
 0.0.0.0 www.pasangiklan.com
@@ -6764,6 +6814,7 @@
 0.0.0.0 www.wshareit.com
 0.0.0.0 www.wuildit.com
 0.0.0.0 www.wwwhelpnumber.co.uk
+0.0.0.0 www.xilinx.com
 0.0.0.0 www.xmlschemeformat.com
 0.0.0.0 www.xnxx.com
 0.0.0.0 www.xunyou.mobi
@@ -6806,6 +6857,7 @@
 0.0.0.0 x-apac.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 0.0.0.0 x-apac.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x-apac.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+0.0.0.0 x-apac.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 0.0.0.0 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 x-apac.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 0.0.0.0 x-apac.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
@@ -6818,6 +6870,7 @@
 0.0.0.0 xdg-1c20f-intl.xd.com
 0.0.0.0 xdg-2fc4a-intl.xd.com
 0.0.0.0 xdg-3da8a-intl.xd.com
+0.0.0.0 x-emea.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 0.0.0.0 x-eu.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
 0.0.0.0 x-eu.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 0.0.0.0 x-eu.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
@@ -6829,6 +6882,7 @@
 0.0.0.0 x-eu.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 0.0.0.0 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+0.0.0.0 x-eu.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 0.0.0.0 x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 x-eu.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 0.0.0.0 x-eu.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
@@ -6850,6 +6904,7 @@
 0.0.0.0 x-in-mob.glance-cdn.com
 0.0.0.0 xjp-jmacs.m.taobao.com
 0.0.0.0 xjp-msgacs.m.taobao.com
+0.0.0.0 x-latam.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 0.0.0.0 xlaxiata2.md-apis.medallia.com
 0.0.0.0 xlaxiata-resources.digital-cloud-sin1.medallia.com
 0.0.0.0 xlaxiata-udc.digital-cloud-sin1.medallia.com
@@ -6887,6 +6942,7 @@
 0.0.0.0 x-us.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 0.0.0.0 x-us.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x-us.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+0.0.0.0 x-us.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 0.0.0.0 x-us.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 x-us.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 0.0.0.0 x-us.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com

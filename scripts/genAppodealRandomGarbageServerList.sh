@@ -21,11 +21,13 @@ APD_KNOWN_SUBDOMAIN=(
 	"x-eu"
 	"x-us"
 	"x-apac"
+	"x-na"
+	"x-latam"
+	"x-emea"
 )
 APD_KNOWN_DOMAIN=(
 	 "06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1"
 	 "2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa"
-	 "2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9"
 	 "3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83"
 	 "360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c"
 	 "42cf48acf2019ae2afab75835f085d40d3fed92dc6f79abb80cf30e6"
@@ -47,8 +49,10 @@ APD_KNOWN_DOMAIN=(
 	 "c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd"
 	 "e93003fd416fd8041330f99e131b03d41b18cd7a62b4b2b398ca8b4f"
 	 "fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c"
+	 "6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d"
+	 "f8aace0783625cc9ce0555f7a37139359a3ee0cc5a37e3c618ffea6f"
 	# Domain below is already checked
-	# "NONE YET"
+	#"2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9" # this one always returns IP with different subdomain requests
 	# Domain below is already checked and not exist
 	# "049724d6b4c327e41096d4593292fd12fc4cfdf47427d8cfe149890a"
 	# "09de714eabd2c038e7f1aa172b05a42b6a29611d5643cb2a6464b1fe"
