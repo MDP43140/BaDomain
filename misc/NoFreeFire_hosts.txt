@@ -28,6 +28,7 @@
 0.0.0.0 dl-sg-production.freefiremobile.com
 0.0.0.0 dl.wsu.freefiremobile.com
 0.0.0.0 event.freefiremobile.com
+0.0.0.0 ff-advance.ff.garena.com
 0.0.0.0 ff.garena.com
 0.0.0.0 ffguide.garena.com
 0.0.0.0 ff.rtc.grtc.garenanow.com

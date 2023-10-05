@@ -107,6 +107,7 @@
 0.0.0.0 conn-service-us-03.allawnos.com
 0.0.0.0 conn-service-us-04.allawnos.com
 0.0.0.0 conn-service-us-05.allawnos.com
+0.0.0.0 datasec-kmsex-sg.heytapmobi.com
 0.0.0.0 dc-dragate-sg.heytapmobile.com
 0.0.0.0 dc.foreign.oppomobile.com
 0.0.0.0 dcintl1.push.heytapmobile.com
@@ -138,6 +139,7 @@
 0.0.0.0 epoch-in.cdo.heytapmobile.com
 0.0.0.0 feedback-cn.heytapmobi.com
 0.0.0.0 feedback-gl.heytapmobi.com
+0.0.0.0 fourier-videoclip-sg.allawnos.com
 0.0.0.0 f.push.oppomobile.com
 0.0.0.0 gameimg.heytapimg.com
 0.0.0.0 games-common-sg.heytapmobile.com
@@ -210,6 +212,7 @@
 0.0.0.0 iopen.cdo.oppomobile.com
 0.0.0.0 i.ota.coloros.com
 0.0.0.0 i.ota.foreign.coloros.com
+0.0.0.0 iot-earbuds-sg.allawnos.com
 0.0.0.0 i.rus.coloros.com
 0.0.0.0 irus.coloros.com
 0.0.0.0 i.rus.foreign.coloros.com

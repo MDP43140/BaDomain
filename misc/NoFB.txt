@@ -1501,6 +1501,7 @@ free.facebook.com
 fr.facebook.com
 fr-fr.facebook.com
 gateway.facebook.com
+gateway-fallback.facebook.com
 gateway.instagram.com
 generalelectric.m.facebook.com
 genworth.facebook.com
@@ -1729,6 +1730,7 @@ instagram.fcgk39-1.fna.fbcdn.net
 instagram.fcgk40-1.fna.fbcdn.net
 instagram.fcgk41-1.fna.fbcdn.net
 instagram.fcgk4-2.fna.fbcdn.net
+instagram.fcgk43-1.fna.fbcdn.net
 instagram.fcgk4-3.fna.fbcdn.net
 instagram.fcgk4-4.fna.fbcdn.net
 instagram.fcgk4-5.fna.fbcdn.net
@@ -2275,6 +2277,7 @@ jetairways.m.facebook.com
 jll.facebook.com
 job.facebook.com
 ka-ge.facebook.com
+kaios-z.facebook.com
 kkr.facebook.com
 ko-kr.facebook.com
 kyivstar.m.facebook.com
@@ -3886,6 +3889,7 @@ social.facebook.com
 softtech.m.facebook.com
 sok.m.facebook.com
 sonar6-sea1-1.xx.fbcdn.net
+sonar6-xsp2-1.xx.fbcdn.net
 sonar6.xy.fbcdn.net
 sonar-ams2-1.xx.fbcdn.net
 sonar-ams4-1.xx.fbcdn.net
@@ -4043,6 +4047,7 @@ sonar-waw.cdn.whatsapp.net
 sonar-waw.xx.fbcdn.net
 sonar-xsp1-2.xx.fbcdn.net
 sonar-xsp1-3.xx.fbcdn.net
+sonar-xsp2-1.xx.fbcdn.net
 sonar-xsp.cdn.whatsapp.net
 sonar-xsp.xx.fbcdn.net
 sonar-zrh1-1.xx.fbcdn.net

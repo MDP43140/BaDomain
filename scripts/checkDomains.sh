@@ -5,6 +5,8 @@
 #  find if a domain exists or not
 #  and used to check BaDomain lists
 #
+#  TODO: how can i make dig command query both IPv4 and IPv6 answer
+#
 
 clear
 echo -e "[i] Initializing..."

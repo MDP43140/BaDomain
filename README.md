@@ -31,8 +31,8 @@ You can help improve this project by
 
 
 <details><summary>nonsense (u can safely ignore this :)</summary>
-I'm scraping the domains by deploying a free hotspot (at public places).
-with adblocking, using AdAway, with these hosts lists:
+I'm scraping the domains by deploying a free tethering (at public places).
+with ad-blocking, using AdAway, with these hosts lists:
 + [GoodByeAds + GoodbyeAds YouTube](https://github.com/jerryn70/GoodBye-Ads)
 + [DanHorton's TikTok Blocklist](https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt)
 + StevenBlack
@@ -42,7 +42,7 @@ then i use AdAway's DNS Activity tab to monitor DNS Activity then scrap any:
 - Chinese domains (where lots of bad stuff happening, eg. \*.cn, tiktok.com).
 - Russian domains (mostly gambling, porn, invasive tracking/advertising, etc. eg. \*.ru).
 - Advertising/Tracking/Malware domains (eg. adx.com, thinkingdata.cn, obstremswiev.site, just to name a few).
-- Game server domains (optional/miscellanous, eg. Free fire/garena, MLBB/moonton/youngjoygame/yuanzhan, COC, PUBG/tencent).
+- Game server domains (optional/miscellaneous, eg. Free fire/garena, MLBB/moonton/youngjoygame/yuanzhan, COC, PUBG/tencent).
 
 that are not on the hosts list listed above and:
 - add these to "private lists".

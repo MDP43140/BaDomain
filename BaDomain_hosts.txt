@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
-# Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.10.2023
+# Desc: An "add-on" to block even more domains that existing lists cover already
+# Version: 05.10.2023
 # Update: 1 day
 #
 
@@ -249,6 +249,7 @@
 0.0.0.0 ab.playgendary.com
 0.0.0.0 abroad.apilocate.amap.com
 0.0.0.0 abruptlyinstitution.com
+0.0.0.0 abtasty.com
 0.0.0.0 abtesting.ai
 0.0.0.0 abtest.tmtreader.com
 0.0.0.0 abubadu.com
@@ -274,6 +275,7 @@
 0.0.0.0 acs.youku.com
 0.0.0.0 activedating-24.online
 0.0.0.0 active-dating.online
+0.0.0.0 activity-api.wshareit.com
 0.0.0.0 activity.wps.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 ac.uwo56t.com
@@ -639,6 +641,7 @@
 0.0.0.0 api.facemojikeyboard.com
 0.0.0.0 api-fc.dutils.com
 0.0.0.0 api-fd.dutils.com
+0.0.0.0 api.firwinds.site
 0.0.0.0 api.floors.dev
 0.0.0.0 api.flx-vpn.com
 0.0.0.0 api.ftpub.net
@@ -770,6 +773,7 @@
 0.0.0.0 apis.pdnob.com
 0.0.0.0 api.sportskeeda.com
 0.0.0.0 apissug-sf.ucweb.com
+0.0.0.0 api.stabcool.tech
 0.0.0.0 api.staging.livechatinc.com
 0.0.0.0 api-stream.twitter.com
 0.0.0.0 api.superbig77.co
@@ -828,6 +832,7 @@
 0.0.0.0 api.zingnews.vn
 0.0.0.0 apkadmin.com
 0.0.0.0 apkeditorfree.com
+0.0.0.0 apkrep.avcdn.net
 0.0.0.0 apkssr.com
 0.0.0.0 apkstore888.net
 0.0.0.0 apk.tidakdijual.com
@@ -1532,6 +1537,7 @@
 0.0.0.0 cheapkey.net
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 checkip.amazonaws.com
+0.0.0.0 check-tcp.mtgglobals.com
 0.0.0.0 check-tcp.rayjump.com
 0.0.0.0 check.y5en.com
 0.0.0.0 chicoryapp.com
@@ -2106,6 +2112,7 @@
 0.0.0.0 e3log1.fineboost.com
 0.0.0.0 e3log2.fineboost.com
 0.0.0.0 e3log3.fineboost.com
+0.0.0.0 e5log1.fineboost.com
 0.0.0.0 e673.dsce9.akamaiedge.net
 0.0.0.0 e6987.dsce9.akamaiedge.net
 0.0.0.0 e69896.dscapi6.akamaiedge.net
@@ -2408,6 +2415,7 @@
 0.0.0.0 g3-sgp-cdn.snackvideo.in
 0.0.0.0 g4tagging.komando.com
 0.0.0.0 g.aaplimg.com
+0.0.0.0 gab.faceueditor.com
 0.0.0.0 gabrio.it
 0.0.0.0 ga.clearbit.com
 0.0.0.0 gaconnector.com
@@ -2556,6 +2564,7 @@
 0.0.0.0 gnpfesdk-pa.googleapis.com
 0.0.0.0 go2cloud.org
 0.0.0.0 go2s.co
+0.0.0.0 go.abtasty.com
 0.0.0.0 go.com
 0.0.0.0 gocrisp.com
 0.0.0.0 godaddy.com
@@ -3269,6 +3278,7 @@
 0.0.0.0 laz-dorangesource.alicdn.com
 0.0.0.0 laz-g-cdn.alicdn.com
 0.0.0.0 laz-img-cdn.alicdn.com
+0.0.0.0 lazy-tcp.mtgglobals.com
 0.0.0.0 lazy-tcp.rayjump.com
 0.0.0.0 lbs.like.video
 0.0.0.0 lbs.live.bigo.sg
@@ -3786,6 +3796,7 @@
 0.0.0.0 myim3.segisatu.com
 0.0.0.0 myjino.ru
 0.0.0.0 m.ykimg.com
+0.0.0.0 mynetfoldersip.cfd
 0.0.0.0 mynfwwk.com
 0.0.0.0 mypic.icu
 0.0.0.0 myqcloud.com
@@ -3994,6 +4005,7 @@
 0.0.0.0 ntp5.aliyun.com
 0.0.0.0 ntp6.aliyun.com
 0.0.0.0 ntp7.aliyun.com
+0.0.0.0 ntp.aliyun.com
 0.0.0.0 ntp.uvfuns.com
 0.0.0.0 nuomi.com
 0.0.0.0 nurd.com
@@ -4048,6 +4060,7 @@
 0.0.0.0 officeaddons.com
 0.0.0.0 officestoragebox.com
 0.0.0.0 official.downloadatoz.com
+0.0.0.0 offline-pkg-api.wshareit.com
 0.0.0.0 of.foldlife.net
 0.0.0.0 oficayuda.club
 0.0.0.0 ogepodownload.mediatek.com
@@ -4096,6 +4109,7 @@
 0.0.0.0 openapi.joox.com
 0.0.0.0 open-api.spot.im
 0.0.0.0 openapi.webull.com
+0.0.0.0 openchat-49af5.firebaseapp.com
 0.0.0.0 opendns.zendesk.com
 0.0.0.0 openfpcdn.io
 0.0.0.0 openlog.tap.io
@@ -4103,6 +4117,7 @@
 0.0.0.0 open.weixin.qq.com
 0.0.0.0 openwifi.ucweb.com
 0.0.0.0 opera.software
+0.0.0.0 operate-sdk-telemetry.unity3d.com
 0.0.0.0 operation-domain.palmplaystore.com
 0.0.0.0 oppomobile.com
 0.0.0.0 oppo-oem.avira-update.com
@@ -4262,6 +4277,7 @@
 0.0.0.0 pay4d.info
 0.0.0.0 pay-api.ahagamecenter.com
 0.0.0.0 pay.bignox.com
+0.0.0.0 payments.realms.minecraft.net
 0.0.0.0 paywall.fewcents.co
 0.0.0.0 pay.weixin.qq.com
 0.0.0.0 pay.yeshen.com
@@ -4388,6 +4404,7 @@
 0.0.0.0 pointone.tech
 0.0.0.0 pokigame.io
 0.0.0.0 polaris-static.kwai.net
+0.0.0.0 policy-tcp.mtgglobals.com
 0.0.0.0 policy-tcp.rayjump.com
 0.0.0.0 polussuo.com
 0.0.0.0 pool.apk.aptoide.com
@@ -4784,6 +4801,7 @@
 0.0.0.0 s1.peserv.ru
 0.0.0.0 s1s.af.outfit7.com
 0.0.0.0 s1.teraboxcdn.com
+0.0.0.0 s22.kwai.net
 0.0.0.0 s23.cnzz.com
 0.0.0.0 s2.daumcdn.net
 0.0.0.0 s2.dmcdn.net
@@ -4894,6 +4912,7 @@
 0.0.0.0 search.eportalmobile.com
 0.0.0.0 searchiq.co
 0.0.0.0 searchlite-pa.googleapis.com
+0.0.0.0 search.myway.com
 0.0.0.0 search-operate.cdn.bcebos.com
 0.0.0.0 search.securybrowse.com
 0.0.0.0 search.weixin.qq.com
@@ -5129,6 +5148,8 @@
 0.0.0.0 sourceslabs.com
 0.0.0.0 sp-497f6f2f.apkrep.avcdn.net
 0.0.0.0 sp-497f6f2f.honzik.avcdn.net
+0.0.0.0 sp-497f6f2f.vps-v4.u.avast.com
+0.0.0.0 sp-497f6f2f.vps-v4.u.avcdn.net
 0.0.0.0 sp-607ddbd2.honzik.avcdn.net
 0.0.0.0 sp-766ec786.apkrep.avcdn.net
 0.0.0.0 spacex.plus
@@ -5636,6 +5657,7 @@
 0.0.0.0 tru.am
 0.0.0.0 truepush.com
 0.0.0.0 trustarc.com
+0.0.0.0 try.abtasty.com
 0.0.0.0 tryemanagecrm.com
 0.0.0.0 tslaway.net
 0.0.0.0 ts.qq.com
@@ -6170,6 +6192,7 @@
 0.0.0.0 www101.nathanaeldan.pro
 0.0.0.0 www10.nathanaeldan.pro
 0.0.0.0 www11.nathanaeldan.pro
+0.0.0.0 www.123lpe.com
 0.0.0.0 www12.nathanaeldan.pro
 0.0.0.0 www13.nathanaeldan.pro
 0.0.0.0 www14.nathanaeldan.pro
@@ -6287,6 +6310,7 @@
 0.0.0.0 www.9apps.com
 0.0.0.0 www9.nathanaeldan.pro
 0.0.0.0 www.abadidana.com
+0.0.0.0 www.abtasty.com
 0.0.0.0 www.adapex.io
 0.0.0.0 www.adclound.com
 0.0.0.0 www.addtoany.com
@@ -6561,6 +6585,7 @@
 0.0.0.0 www.profitablecreativeformat.com
 0.0.0.0 www.profitwell.com
 0.0.0.0 www.propodsmax.co
+0.0.0.0 www.pullcf.com
 0.0.0.0 www.pullcm.com
 0.0.0.0 www.pulselive.com
 0.0.0.0 www.qfind.net

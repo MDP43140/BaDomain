@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
-# Desc: An "addon" to block even more domains that existing lists cover already
-# Version: 02.10.2023
+# Desc: An "add-on" to block even more domains that existing lists cover already
+# Version: 05.10.2023
 # Update: 1 day
 #
 
@@ -249,6 +249,7 @@ aboutads.net
 ab.playgendary.com
 abroad.apilocate.amap.com
 abruptlyinstitution.com
+abtasty.com
 abtesting.ai
 abtest.tmtreader.com
 abubadu.com
@@ -274,6 +275,7 @@ acs-m.lazada.sg
 acs.youku.com
 activedating-24.online
 active-dating.online
+activity-api.wshareit.com
 activity.wps.com
 acuityplatform.com
 ac.uwo56t.com
@@ -639,6 +641,7 @@ api.faceapp.io
 api.facemojikeyboard.com
 api-fc.dutils.com
 api-fd.dutils.com
+api.firwinds.site
 api.floors.dev
 api.flx-vpn.com
 api.ftpub.net
@@ -770,6 +773,7 @@ api.snapkit.com
 apis.pdnob.com
 api.sportskeeda.com
 apissug-sf.ucweb.com
+api.stabcool.tech
 api.staging.livechatinc.com
 api-stream.twitter.com
 api.superbig77.co
@@ -828,6 +832,7 @@ api.zigpoll.com
 api.zingnews.vn
 apkadmin.com
 apkeditorfree.com
+apkrep.avcdn.net
 apkssr.com
 apkstore888.net
 apk.tidakdijual.com
@@ -1532,6 +1537,7 @@ chatlayer.ai
 cheapkey.net
 checkappexec.microsoft.com
 checkip.amazonaws.com
+check-tcp.mtgglobals.com
 check-tcp.rayjump.com
 check.y5en.com
 chicoryapp.com
@@ -2106,6 +2112,7 @@ e2cs04.gcp.gvt2.com
 e3log1.fineboost.com
 e3log2.fineboost.com
 e3log3.fineboost.com
+e5log1.fineboost.com
 e673.dsce9.akamaiedge.net
 e6987.dsce9.akamaiedge.net
 e69896.dscapi6.akamaiedge.net
@@ -2408,6 +2415,7 @@ g2crowd.com
 g3-sgp-cdn.snackvideo.in
 g4tagging.komando.com
 g.aaplimg.com
+gab.faceueditor.com
 gabrio.it
 ga.clearbit.com
 gaconnector.com
@@ -2556,6 +2564,7 @@ gmscompliance-pa.googleapis.com
 gnpfesdk-pa.googleapis.com
 go2cloud.org
 go2s.co
+go.abtasty.com
 go.com
 gocrisp.com
 godaddy.com
@@ -3265,6 +3274,7 @@ layuicdn.com
 laz-dorangesource.alicdn.com
 laz-g-cdn.alicdn.com
 laz-img-cdn.alicdn.com
+lazy-tcp.mtgglobals.com
 lazy-tcp.rayjump.com
 lbs.like.video
 lbs.live.bigo.sg
@@ -3782,6 +3792,7 @@ myim3banner.kloc.co
 myim3.segisatu.com
 myjino.ru
 m.ykimg.com
+mynetfoldersip.cfd
 mynfwwk.com
 mypic.icu
 myqcloud.com
@@ -3990,6 +4001,7 @@ ntp4.aliyun.com
 ntp5.aliyun.com
 ntp6.aliyun.com
 ntp7.aliyun.com
+ntp.aliyun.com
 ntp.uvfuns.com
 nuomi.com
 nurd.com
@@ -4044,6 +4056,7 @@ offer.headlines.pw
 officeaddons.com
 officestoragebox.com
 official.downloadatoz.com
+offline-pkg-api.wshareit.com
 of.foldlife.net
 oficayuda.club
 ogepodownload.mediatek.com
@@ -4092,6 +4105,7 @@ openai.weixin.qq.com
 openapi.joox.com
 open-api.spot.im
 openapi.webull.com
+openchat-49af5.firebaseapp.com
 opendns.zendesk.com
 openfpcdn.io
 openlog.tap.io
@@ -4099,6 +4113,7 @@ open.toutiao.com
 open.weixin.qq.com
 openwifi.ucweb.com
 opera.software
+operate-sdk-telemetry.unity3d.com
 operation-domain.palmplaystore.com
 oppomobile.com
 oppo-oem.avira-update.com
@@ -4258,6 +4273,7 @@ patronus.idata.shopeemobile.com
 pay4d.info
 pay-api.ahagamecenter.com
 pay.bignox.com
+payments.realms.minecraft.net
 paywall.fewcents.co
 pay.weixin.qq.com
 pay.yeshen.com
@@ -4384,6 +4400,7 @@ point-of-entry.com
 pointone.tech
 pokigame.io
 polaris-static.kwai.net
+policy-tcp.mtgglobals.com
 policy-tcp.rayjump.com
 polussuo.com
 pool.apk.aptoide.com
@@ -4780,6 +4797,7 @@ s1.kwai.net
 s1.peserv.ru
 s1s.af.outfit7.com
 s1.teraboxcdn.com
+s22.kwai.net
 s23.cnzz.com
 s2.daumcdn.net
 s2.dmcdn.net
@@ -4890,6 +4908,7 @@ searchbestcolleges.com
 search.eportalmobile.com
 searchiq.co
 searchlite-pa.googleapis.com
+search.myway.com
 search-operate.cdn.bcebos.com
 search.securybrowse.com
 search.weixin.qq.com
@@ -5125,6 +5144,8 @@ source.servicewebly.com
 sourceslabs.com
 sp-497f6f2f.apkrep.avcdn.net
 sp-497f6f2f.honzik.avcdn.net
+sp-497f6f2f.vps-v4.u.avast.com
+sp-497f6f2f.vps-v4.u.avcdn.net
 sp-607ddbd2.honzik.avcdn.net
 sp-766ec786.apkrep.avcdn.net
 spacex.plus
@@ -5632,6 +5653,7 @@ trojanarticle.com
 tru.am
 truepush.com
 trustarc.com
+try.abtasty.com
 tryemanagecrm.com
 tslaway.net
 ts.qq.com
@@ -6166,6 +6188,7 @@ www100.nathanaeldan.pro
 www101.nathanaeldan.pro
 www10.nathanaeldan.pro
 www11.nathanaeldan.pro
+www.123lpe.com
 www12.nathanaeldan.pro
 www13.nathanaeldan.pro
 www14.nathanaeldan.pro
@@ -6283,6 +6306,7 @@ www99.nathanaeldan.pro
 www.9apps.com
 www9.nathanaeldan.pro
 www.abadidana.com
+www.abtasty.com
 www.adapex.io
 www.adclound.com
 www.addtoany.com
@@ -6557,6 +6581,7 @@ www.printer-helpnumber.com
 www.profitablecreativeformat.com
 www.profitwell.com
 www.propodsmax.co
+www.pullcf.com
 www.pullcm.com
 www.pulselive.com
 www.qfind.net

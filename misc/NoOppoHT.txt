@@ -107,6 +107,7 @@ conn-service-sg-05.allawnos.com
 conn-service-us-03.allawnos.com
 conn-service-us-04.allawnos.com
 conn-service-us-05.allawnos.com
+datasec-kmsex-sg.heytapmobi.com
 dc-dragate-sg.heytapmobile.com
 dc.foreign.oppomobile.com
 dcintl1.push.heytapmobile.com
@@ -138,6 +139,7 @@ epoch-in.cdo.heytapmobi.com
 epoch-in.cdo.heytapmobile.com
 feedback-cn.heytapmobi.com
 feedback-gl.heytapmobi.com
+fourier-videoclip-sg.allawnos.com
 f.push.oppomobile.com
 gameimg.heytapimg.com
 games-common-sg.heytapmobile.com
@@ -210,6 +212,7 @@ i.oau.foreign.oppomobile.com
 iopen.cdo.oppomobile.com
 i.ota.coloros.com
 i.ota.foreign.coloros.com
+iot-earbuds-sg.allawnos.com
 i.rus.coloros.com
 irus.coloros.com
 i.rus.foreign.coloros.com

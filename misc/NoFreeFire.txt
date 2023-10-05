@@ -27,6 +27,7 @@ dl.gmc.freefiremobile.com
 dl-sg-production.freefiremobile.com
 dl.wsu.freefiremobile.com
 event.freefiremobile.com
+ff-advance.ff.garena.com
 ff.garena.com
 ffguide.garena.com
 ff.rtc.grtc.garenanow.com

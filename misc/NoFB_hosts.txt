@@ -1502,6 +1502,7 @@
 0.0.0.0 fr.facebook.com
 0.0.0.0 fr-fr.facebook.com
 0.0.0.0 gateway.facebook.com
+0.0.0.0 gateway-fallback.facebook.com
 0.0.0.0 gateway.instagram.com
 0.0.0.0 generalelectric.m.facebook.com
 0.0.0.0 genworth.facebook.com
@@ -1730,6 +1731,7 @@
 0.0.0.0 instagram.fcgk40-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk41-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk4-2.fna.fbcdn.net
+0.0.0.0 instagram.fcgk43-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk4-3.fna.fbcdn.net
 0.0.0.0 instagram.fcgk4-4.fna.fbcdn.net
 0.0.0.0 instagram.fcgk4-5.fna.fbcdn.net
@@ -2276,6 +2278,7 @@
 0.0.0.0 jll.facebook.com
 0.0.0.0 job.facebook.com
 0.0.0.0 ka-ge.facebook.com
+0.0.0.0 kaios-z.facebook.com
 0.0.0.0 kkr.facebook.com
 0.0.0.0 ko-kr.facebook.com
 0.0.0.0 kyivstar.m.facebook.com
@@ -3896,6 +3899,7 @@
 0.0.0.0 softtech.m.facebook.com
 0.0.0.0 sok.m.facebook.com
 0.0.0.0 sonar6-sea1-1.xx.fbcdn.net
+0.0.0.0 sonar6-xsp2-1.xx.fbcdn.net
 0.0.0.0 sonar6.xy.fbcdn.net
 0.0.0.0 sonar-ams2-1.xx.fbcdn.net
 0.0.0.0 sonar-ams4-1.xx.fbcdn.net
@@ -4053,6 +4057,7 @@
 0.0.0.0 sonar-waw.xx.fbcdn.net
 0.0.0.0 sonar-xsp1-2.xx.fbcdn.net
 0.0.0.0 sonar-xsp1-3.xx.fbcdn.net
+0.0.0.0 sonar-xsp2-1.xx.fbcdn.net
 0.0.0.0 sonar-xsp.cdn.whatsapp.net
 0.0.0.0 sonar-xsp.xx.fbcdn.net
 0.0.0.0 sonar-zrh1-1.xx.fbcdn.net

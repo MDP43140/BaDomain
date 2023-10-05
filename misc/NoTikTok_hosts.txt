@@ -198,6 +198,7 @@
 0.0.0.0 api16-core-va.tiktokv.com.edgekey.net
 0.0.0.0 api16-event-sg.pangle.io
 0.0.0.0 api16-event-sg.pangle.io.edgekey.net
+0.0.0.0 api16-log-sg2.pangle.io
 0.0.0.0 api16-log-sg.pangle-b.io
 0.0.0.0 api16-log-sg.pangle.io
 0.0.0.0 api16-log-sg.pangle.io.edgekey.net
@@ -1039,6 +1040,7 @@
 0.0.0.0 equinix-sjc-v2.l.byteoversea.net
 0.0.0.0 es.bytedance.net
 0.0.0.0 e.snssdk.com
+0.0.0.0 ether-pack-sg.pangle.io
 0.0.0.0 e.tiktok.com
 0.0.0.0 e.toutiao.com
 0.0.0.0 et.snssdk.com
@@ -3321,6 +3323,7 @@
 0.0.0.0 srp4.snssdk.com
 0.0.0.0 ssa.bytedance.net
 0.0.0.0 ss.bytedance.net
+0.0.0.0 ssdk-sg.pangle.io
 0.0.0.0 s.sgpstatp.com
 0.0.0.0 ssl.bytedance.net
 0.0.0.0 ssl.cdn.tiktok.com.c.footprint.net
