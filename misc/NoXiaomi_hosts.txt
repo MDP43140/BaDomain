@@ -89,6 +89,7 @@
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.miui.com
+0.0.0.0 de-idm.api.io.mi.com
 0.0.0.0 de.pandora.xiaomi.com
 0.0.0.0 dev.api.zhuti.n.xiaomi.com
 0.0.0.0 dev.market.n.xiaomi.com

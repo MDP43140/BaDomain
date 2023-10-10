@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 05.10.2023
+# Version: 10.10.2023
 # Update: 1 day
 #
 
@@ -47,6 +47,7 @@
 19.ygti905ffth6.com
 1clickvpn.net
 1.cn.pool.ntp.org
+1fa0bd2e-2340-43b9-aa0c-2288ad78a34b.goliath.atlas.bi.miniclippt.com
 1g5k5w.com
 1q2w3e4r.vmfreevideo.top
 1r4zu.com
@@ -919,7 +920,6 @@ apptrace.guangzhuiyuan.com
 app.transacme.com
 app.wpsmail.net
 app.y5en.com
-apresolve.spotify.com
 aps.amap.com
 ap-southeast-1.alidns.com
 aptoide.com
@@ -1054,6 +1054,7 @@ axelspringerideas.de
 axiata-lk-43c53a330e9-he.fortumo.io
 b1.nel.goog
 b2.mail.ru
+b5vbk6-launches.appsflyersdk.com
 b6e881dd-dnsotls-ds.metric.gstatic.com
 b6s-api.snow.me
 b.6sc.co
@@ -1569,6 +1570,7 @@ clicken.us
 click.hm.baidu.com
 clientapi-sin.dtignite.com
 clientconfig.passport.net
+client.discovery.minecraft-services.net
 client-logger.beta.salemove.com
 client-metrics.prod.topeleven.com
 client.perimeterx.net
@@ -2296,6 +2298,7 @@ feebhax.com
 feed-7121.feedfinder23.info
 feed.bignox.com
 feed.chimukappa.com
+feed.playstream.media
 feed.rhino-news.com
 feeds.noice.id
 feedsonbudget.com
@@ -3045,6 +3048,7 @@ ip-api.com
 ipcdn.g.aaplimg.com
 ipchina163.com
 ipdata.co
+ipgeo.wlvpn.com
 ip.horizontegames.com
 ipify.org
 ipinfo.io
@@ -3254,6 +3258,7 @@ lajwaabculinaryart.com
 lamanlabuh.aduankonten.id
 lamida.id
 lan3rd.line.me
+lan.lionstudios.cc
 lanzou.com
 lanzouo.com
 lapaksebelahh.com
@@ -3613,6 +3618,7 @@ mergedocsonline.com
 mergedocsonline.dl.myway.com
 messagebird.com
 messaging.engagement.office.com
+messaging.insurads.com
 messaging.messagebird.com
 mesu.g.aaplimg.com
 metarouter.io
@@ -3640,6 +3646,7 @@ m.imdb.com
 mindmap.pdnob.com
 mindspark.com
 mindworks-creative.com
+minecraftprod.rtep.msgamestudios.com
 minecrafttweaker.net
 mingyi.sogou.com
 mini5.opera-mini.net
@@ -3792,6 +3799,7 @@ myim3banner.kloc.co
 myim3.segisatu.com
 myjino.ru
 m.ykimg.com
+mykonf.com
 mynetfoldersip.cfd
 mynfwwk.com
 mypic.icu
@@ -4115,6 +4123,7 @@ openwifi.ucweb.com
 opera.software
 operate-sdk-telemetry.unity3d.com
 operation-domain.palmplaystore.com
+op.mykonf.com
 oppomobile.com
 oppo-oem.avira-update.com
 oppo.telemetry.eyeo.com
@@ -4427,6 +4436,7 @@ pou.me
 poumod.com
 powerad.ai
 pppbr.com
+pps-token.feednews.com
 pps-token.op-mobile.opera.com
 pr46m.vps.myjino.ru
 pr76m.vps.myjino.ru
@@ -4445,6 +4455,7 @@ prismic-main.cdn.prismic.io
 privacy.kiwibrowser.org
 privacy-policy.truste.com
 privacy-portal.onetrust.com
+privacy.xboxlive.com
 private-58cec5-funsegmentsapi.apiary-mock.com
 private-da8bd3-funapi6.apiary-mock.com
 private.ilyon.net
@@ -4466,6 +4477,7 @@ product.instiengage.com
 production.kolbapps.com
 product.sn.eamobile.com
 prod-weblink.videmateshare.com
+profile.line-scdn.net
 profitablegatetocontent.com
 profitwell.com
 pro.ip-api.com
@@ -4797,6 +4809,7 @@ s1.kwai.net
 s1.peserv.ru
 s1s.af.outfit7.com
 s1.teraboxcdn.com
+s2-111426.kwimgs.com
 s22.kwai.net
 s23.cnzz.com
 s2.daumcdn.net
@@ -4963,6 +4976,7 @@ service.carlcare.com
 service.force.com
 servicegetbook.net
 service.pokigame.io
+services.insurads.com
 services.ludokingapi.com
 services.prod.ims.adobejanus.com
 sessions.bugsnag.com
@@ -5321,6 +5335,7 @@ stepsister.uno
 steveziogames.com
 st-hatena.com
 stickdix.com
+stickershop.line-scdn.net
 sticker.weixin.qq.com
 stickyadstv.com
 sti.dtignite.com
@@ -5828,6 +5843,7 @@ user-api.ucweb.com
 user.conscent.in
 userlocation.googleapis.com
 useroperation.wondershare.com
+userpresence.xboxlive.com
 user-snow-api.snow.me
 us.eufy.com
 ushareit.com
@@ -5936,6 +5952,7 @@ vom.lol
 vom.today
 von.lol
 vor.lol
+vos.line-scdn.net
 v.pinimg.com
 vpn2.supercell.com
 vpn.supercell.com

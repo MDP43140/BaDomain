@@ -655,7 +655,11 @@
 0.0.0.0 brn-cgk-v1.l.byteoversea.net
 0.0.0.0 bsdk.sgsnssdk.com
 0.0.0.0 bsdk.snssdk.com
+0.0.0.0 bsync16-normal-useast1a.tiktokv.com
+0.0.0.0 bsync22-normal-useast1a.tiktokv.com
+0.0.0.0 bsync31-normal-useast1a.tiktokv.com
 0.0.0.0 bsync-i18n.tiktokv.com
+0.0.0.0 bsync-normal.tiktokv.com
 0.0.0.0 business.bytedance.net
 0.0.0.0 business-sg.topbuzz.com
 0.0.0.0 business.tiktok.com

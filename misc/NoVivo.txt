@@ -38,6 +38,7 @@ asia-news-abroad.vivo.com
 asia-onrt-stsdk.vivoglobal.com
 asia-os-config-appstore.vivoglobal.com
 asia-overseavideoh5.vivoglobal.com
+asia-overseavideo.vivoglobal.com
 asia-pnrt-stsdk.vivoglobal.com
 asia-p.vivoglobal.com
 asia-rommc-api.vivoglobal.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 05.10.2023
+# Version: 10.10.2023
 # Update: 1 day
 #
 
@@ -47,6 +47,7 @@
 0.0.0.0 19.ygti905ffth6.com
 0.0.0.0 1clickvpn.net
 0.0.0.0 1.cn.pool.ntp.org
+0.0.0.0 1fa0bd2e-2340-43b9-aa0c-2288ad78a34b.goliath.atlas.bi.miniclippt.com
 0.0.0.0 1g5k5w.com
 0.0.0.0 1q2w3e4r.vmfreevideo.top
 0.0.0.0 1r4zu.com
@@ -919,7 +920,6 @@
 0.0.0.0 app.transacme.com
 0.0.0.0 app.wpsmail.net
 0.0.0.0 app.y5en.com
-0.0.0.0 apresolve.spotify.com
 0.0.0.0 aps.amap.com
 0.0.0.0 ap-southeast-1.alidns.com
 0.0.0.0 aptoide.com
@@ -1054,6 +1054,7 @@
 0.0.0.0 axiata-lk-43c53a330e9-he.fortumo.io
 0.0.0.0 b1.nel.goog
 0.0.0.0 b2.mail.ru
+0.0.0.0 b5vbk6-launches.appsflyersdk.com
 0.0.0.0 b6e881dd-dnsotls-ds.metric.gstatic.com
 0.0.0.0 b6s-api.snow.me
 0.0.0.0 b.6sc.co
@@ -1569,6 +1570,7 @@
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 clientapi-sin.dtignite.com
 0.0.0.0 clientconfig.passport.net
+0.0.0.0 client.discovery.minecraft-services.net
 0.0.0.0 client-logger.beta.salemove.com
 0.0.0.0 client-metrics.prod.topeleven.com
 0.0.0.0 client.perimeterx.net
@@ -2296,6 +2298,7 @@
 0.0.0.0 feed-7121.feedfinder23.info
 0.0.0.0 feed.bignox.com
 0.0.0.0 feed.chimukappa.com
+0.0.0.0 feed.playstream.media
 0.0.0.0 feed.rhino-news.com
 0.0.0.0 feeds.noice.id
 0.0.0.0 feedsonbudget.com
@@ -3049,6 +3052,7 @@
 0.0.0.0 ipcdn.g.aaplimg.com
 0.0.0.0 ipchina163.com
 0.0.0.0 ipdata.co
+0.0.0.0 ipgeo.wlvpn.com
 0.0.0.0 ip.horizontegames.com
 0.0.0.0 ipify.org
 0.0.0.0 ipinfo.io
@@ -3258,6 +3262,7 @@
 0.0.0.0 lamanlabuh.aduankonten.id
 0.0.0.0 lamida.id
 0.0.0.0 lan3rd.line.me
+0.0.0.0 lan.lionstudios.cc
 0.0.0.0 lanzou.com
 0.0.0.0 lanzouo.com
 0.0.0.0 lapaksebelahh.com
@@ -3617,6 +3622,7 @@
 0.0.0.0 mergedocsonline.dl.myway.com
 0.0.0.0 messagebird.com
 0.0.0.0 messaging.engagement.office.com
+0.0.0.0 messaging.insurads.com
 0.0.0.0 messaging.messagebird.com
 0.0.0.0 mesu.g.aaplimg.com
 0.0.0.0 metarouter.io
@@ -3644,6 +3650,7 @@
 0.0.0.0 mindmap.pdnob.com
 0.0.0.0 mindspark.com
 0.0.0.0 mindworks-creative.com
+0.0.0.0 minecraftprod.rtep.msgamestudios.com
 0.0.0.0 minecrafttweaker.net
 0.0.0.0 mingyi.sogou.com
 0.0.0.0 mini5.opera-mini.net
@@ -3796,6 +3803,7 @@
 0.0.0.0 myim3.segisatu.com
 0.0.0.0 myjino.ru
 0.0.0.0 m.ykimg.com
+0.0.0.0 mykonf.com
 0.0.0.0 mynetfoldersip.cfd
 0.0.0.0 mynfwwk.com
 0.0.0.0 mypic.icu
@@ -4119,6 +4127,7 @@
 0.0.0.0 opera.software
 0.0.0.0 operate-sdk-telemetry.unity3d.com
 0.0.0.0 operation-domain.palmplaystore.com
+0.0.0.0 op.mykonf.com
 0.0.0.0 oppomobile.com
 0.0.0.0 oppo-oem.avira-update.com
 0.0.0.0 oppo.telemetry.eyeo.com
@@ -4431,6 +4440,7 @@
 0.0.0.0 poumod.com
 0.0.0.0 powerad.ai
 0.0.0.0 pppbr.com
+0.0.0.0 pps-token.feednews.com
 0.0.0.0 pps-token.op-mobile.opera.com
 0.0.0.0 pr46m.vps.myjino.ru
 0.0.0.0 pr76m.vps.myjino.ru
@@ -4449,6 +4459,7 @@
 0.0.0.0 privacy.kiwibrowser.org
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacy-portal.onetrust.com
+0.0.0.0 privacy.xboxlive.com
 0.0.0.0 private-58cec5-funsegmentsapi.apiary-mock.com
 0.0.0.0 private-da8bd3-funapi6.apiary-mock.com
 0.0.0.0 private.ilyon.net
@@ -4470,6 +4481,7 @@
 0.0.0.0 production.kolbapps.com
 0.0.0.0 product.sn.eamobile.com
 0.0.0.0 prod-weblink.videmateshare.com
+0.0.0.0 profile.line-scdn.net
 0.0.0.0 profitablegatetocontent.com
 0.0.0.0 profitwell.com
 0.0.0.0 pro.ip-api.com
@@ -4801,6 +4813,7 @@
 0.0.0.0 s1.peserv.ru
 0.0.0.0 s1s.af.outfit7.com
 0.0.0.0 s1.teraboxcdn.com
+0.0.0.0 s2-111426.kwimgs.com
 0.0.0.0 s22.kwai.net
 0.0.0.0 s23.cnzz.com
 0.0.0.0 s2.daumcdn.net
@@ -4967,6 +4980,7 @@
 0.0.0.0 service.force.com
 0.0.0.0 servicegetbook.net
 0.0.0.0 service.pokigame.io
+0.0.0.0 services.insurads.com
 0.0.0.0 services.ludokingapi.com
 0.0.0.0 services.prod.ims.adobejanus.com
 0.0.0.0 sessions.bugsnag.com
@@ -5325,6 +5339,7 @@
 0.0.0.0 steveziogames.com
 0.0.0.0 st-hatena.com
 0.0.0.0 stickdix.com
+0.0.0.0 stickershop.line-scdn.net
 0.0.0.0 sticker.weixin.qq.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 sti.dtignite.com
@@ -5832,6 +5847,7 @@
 0.0.0.0 user.conscent.in
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 useroperation.wondershare.com
+0.0.0.0 userpresence.xboxlive.com
 0.0.0.0 user-snow-api.snow.me
 0.0.0.0 us.eufy.com
 0.0.0.0 ushareit.com
@@ -5940,6 +5956,7 @@
 0.0.0.0 vom.today
 0.0.0.0 von.lol
 0.0.0.0 vor.lol
+0.0.0.0 vos.line-scdn.net
 0.0.0.0 v.pinimg.com
 0.0.0.0 vpn2.supercell.com
 0.0.0.0 vpn.supercell.com

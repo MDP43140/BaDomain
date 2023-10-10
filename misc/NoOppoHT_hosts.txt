@@ -58,6 +58,7 @@
 0.0.0.0 bdapi-in.ads.heytapmobi.com
 0.0.0.0 bdapi-in.ads.heytapmobile.com
 0.0.0.0 brand.heytap.com
+0.0.0.0 browser-api-id.heytapmobile.com
 0.0.0.0 browser-i-gl.heytapmobile.com
 0.0.0.0 cdp-common-gl.heytapmobile.com
 0.0.0.0 cdp-common-id.heytapmobile.com

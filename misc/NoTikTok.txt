@@ -655,7 +655,11 @@ box.bytedance.net
 brn-cgk-v1.l.byteoversea.net
 bsdk.sgsnssdk.com
 bsdk.snssdk.com
+bsync16-normal-useast1a.tiktokv.com
+bsync22-normal-useast1a.tiktokv.com
+bsync31-normal-useast1a.tiktokv.com
 bsync-i18n.tiktokv.com
+bsync-normal.tiktokv.com
 business.bytedance.net
 business-sg.topbuzz.com
 business.tiktok.com
