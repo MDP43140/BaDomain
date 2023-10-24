@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 10.10.2023
+# Version: 25.10.2023
 # Update: 1 day
 #
 
@@ -839,6 +839,7 @@ apkstore888.net
 apk.tidakdijual.com
 aplhabet.applinzi.com
 ap.mobhey.com
+apm.tracking.shopee.co.id
 apollo.auto
 apolloprogram.io
 apollo.supercell.com
@@ -1031,6 +1032,7 @@ av2wg.rt14v.com
 ava-cdn.like-it.video
 avanquest.com
 avatar.pho.to
+avatars-live.pool.miniclippt.com
 avatars.mds.yandex.net
 a.vdo.ai
 avlsec.com
@@ -3802,6 +3804,7 @@ m.ykimg.com
 mykonf.com
 mynetfoldersip.cfd
 mynfwwk.com
+myphonenumbers-pa.googleapis.com
 mypic.icu
 myqcloud.com
 mywavehome.net
@@ -4795,6 +4798,7 @@ ryderlawnz.xyz
 s0s.af.outfit7.com
 s0.teraboxcdn.com
 s10.histats.com
+s1-111426.kwimgs.com
 s11.histats.com
 s15.kwai.net
 s160-ava-talk.zadn.vn
@@ -5066,6 +5070,7 @@ shreeganeshlab.co.in
 shy.elfsight.com
 sia.internet.apps.samsung.com
 sift-creatives.s3.amazonaws.com
+signal.franchise.minecraft-services.net
 signalfx.com
 sign-static.dreamriverclub.com
 simple-get.ilyon.net
@@ -5712,9 +5717,11 @@ tynt.com
 typeform.com
 typekit.net
 uadexchange.com
+uangteman.com
 uapi.afo2o.com
 ua.realtimely.io
 uat5-b.investingchannel.com
+ubt.tracking.shopee.co.id
 uc-0.telemetry.eyeo.com
 uc-11.telemetry.eyeo.com
 uc-12.telemetry.eyeo.com

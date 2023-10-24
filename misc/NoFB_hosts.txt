@@ -2278,6 +2278,7 @@
 0.0.0.0 jll.facebook.com
 0.0.0.0 job.facebook.com
 0.0.0.0 ka-ge.facebook.com
+0.0.0.0 kaios-d.facebook.com
 0.0.0.0 kaios-z.facebook.com
 0.0.0.0 kkr.facebook.com
 0.0.0.0 ko-kr.facebook.com

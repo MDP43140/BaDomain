@@ -2277,6 +2277,7 @@ jetairways.m.facebook.com
 jll.facebook.com
 job.facebook.com
 ka-ge.facebook.com
+kaios-d.facebook.com
 kaios-z.facebook.com
 kkr.facebook.com
 ko-kr.facebook.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 10.10.2023
+# Version: 25.10.2023
 # Update: 1 day
 #
 
@@ -839,6 +839,7 @@
 0.0.0.0 apk.tidakdijual.com
 0.0.0.0 aplhabet.applinzi.com
 0.0.0.0 ap.mobhey.com
+0.0.0.0 apm.tracking.shopee.co.id
 0.0.0.0 apollo.auto
 0.0.0.0 apolloprogram.io
 0.0.0.0 apollo.supercell.com
@@ -1031,6 +1032,7 @@
 0.0.0.0 ava-cdn.like-it.video
 0.0.0.0 avanquest.com
 0.0.0.0 avatar.pho.to
+0.0.0.0 avatars-live.pool.miniclippt.com
 0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 a.vdo.ai
 0.0.0.0 avlsec.com
@@ -3806,6 +3808,7 @@
 0.0.0.0 mykonf.com
 0.0.0.0 mynetfoldersip.cfd
 0.0.0.0 mynfwwk.com
+0.0.0.0 myphonenumbers-pa.googleapis.com
 0.0.0.0 mypic.icu
 0.0.0.0 myqcloud.com
 0.0.0.0 mywavehome.net
@@ -4799,6 +4802,7 @@
 0.0.0.0 s0s.af.outfit7.com
 0.0.0.0 s0.teraboxcdn.com
 0.0.0.0 s10.histats.com
+0.0.0.0 s1-111426.kwimgs.com
 0.0.0.0 s11.histats.com
 0.0.0.0 s15.kwai.net
 0.0.0.0 s160-ava-talk.zadn.vn
@@ -5070,6 +5074,7 @@
 0.0.0.0 shy.elfsight.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 sift-creatives.s3.amazonaws.com
+0.0.0.0 signal.franchise.minecraft-services.net
 0.0.0.0 signalfx.com
 0.0.0.0 sign-static.dreamriverclub.com
 0.0.0.0 simple-get.ilyon.net
@@ -5716,9 +5721,11 @@
 0.0.0.0 typeform.com
 0.0.0.0 typekit.net
 0.0.0.0 uadexchange.com
+0.0.0.0 uangteman.com
 0.0.0.0 uapi.afo2o.com
 0.0.0.0 ua.realtimely.io
 0.0.0.0 uat5-b.investingchannel.com
+0.0.0.0 ubt.tracking.shopee.co.id
 0.0.0.0 uc-0.telemetry.eyeo.com
 0.0.0.0 uc-11.telemetry.eyeo.com
 0.0.0.0 uc-12.telemetry.eyeo.com

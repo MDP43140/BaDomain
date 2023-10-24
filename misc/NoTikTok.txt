@@ -1561,6 +1561,7 @@ learning-lq.snssdk.com
 learning.snssdk.com
 legal.bytedance.net
 legroup21.gslb.cdnle.com
+lemon8-app.com
 letsencrypt.bytecdn.cn
 lf16-beecdn.ibytedtos.com
 lf16-capcut.faceueditorv.com
@@ -1731,6 +1732,7 @@ log16-normal-useast1a.tiktokv.com
 log16-normal-useast2a.tiktokv.com
 log-16.toutiao50.com
 log17-normal-useast2a.tiktokv.com
+log22-normal-alisg.lemon8-app.com
 log22-normal-alisg.tiktokv.com
 log22-normal-useast2a.tiktokv.com
 log2.musical.ly
@@ -2140,6 +2142,7 @@ p16-sg.tiktokcdn.com
 p16-sg.toutiao50.com
 p16-sg.xzcs3zlph.com
 p16-sg.xzcs3zlph.com.edgesuite.net
+p16-sign-sg.lemon8cdn.com
 p16-sign-sg.tiktokcdn.com
 p16-sign.tiktokcdn-us.com
 p16-sign-useast2a.tiktokcdn.com
@@ -2658,12 +2661,15 @@ pull-flv-f1.tiktokcdn.com.wsdvs.com
 pull-flv-f1-va01.tiktokcdn.com
 pull-flv-f1-xg.bytecdn.cn
 pull-flv-f61-va01.tiktokcdn.com
+pull-flv-f62-sg01.tiktokcdn.com
+pull-flv-f62-va01.tiktokcdn.com
 pull-flv-f6-hs.pstatp.com
 pull-flv-f6-xg.bytecdn.cn
 pull-flv-f77-gcp01.tiktokcdn.com
 pull-flv-f77-sg01.tiktokcdn.com
 pull-flv-f77-tt01.fcdn.us.tiktokv.com
 pull-flv-f77-tt01.tiktokcdn.com
+pull-flv-f77-tt01-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt02.fcdn.us.tiktokv.com
 pull-flv-f77-tt02.tiktokcdn.com
 pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com
@@ -2702,7 +2708,9 @@ pull-flv-l1-xg.bytecdn.cn
 pull-flv-l6-act.pstatp.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-xg.bytecdn.cn
+pull-flv-l77-gcp01.eu.tiktokcdn.com
 pull-flv-l77-gcp01.tiktokcdn.com
+pull-flv-l77-gcp01.tiktokcdn-us.com
 pull-flv-l77-va01.tiktokcdn.com
 pull-flv-l7.pstatp.com
 pull-hls-f11-ab.tiktokcdn.com
@@ -2780,15 +2788,19 @@ pull-lls-l11.tiktokcdn.com
 pull-o5-gcp01.tiktokcdn.com
 pull-o5-sg01.fcdn.eu.tiktokcdn.com
 pull-o5-sg01.tiktokcdn.com
+pull-o5-sg01.tiktokcdn-us.com
 pull-o5-va01.fcdn.eu.tiktokcdn.com
 pull-o5-va01.tiktokcdn.com
+pull-o5-va01.tiktokcdn-us.com
 pull-q5-gcp01.tiktokcdn.com
 pull-q5-sg01.fcdn.eu.tiktokcdn.com
 pull-q5-sg01.tiktokcdn.com
+pull-q5-sg01.tiktokcdn-us.com
 pull-q5.tiktokcdn.com
 pull-q5.tiktokcdn.com.c.worldfcdn.com
 pull-q5-va01.fcdn.eu.tiktokcdn.com
 pull-q5-va01.tiktokcdn.com
+pull-q5-va01.tiktokcdn-us.com
 pull-rtmp-f11-ab.tiktokcdn.com
 pull-rtmp-f11-gcp01.tiktokcdn.com
 pull-rtmp-f11-sg01.tiktokcdn.com
@@ -2836,10 +2848,12 @@ pull-source-cmaf-f5.hypstarcdn.com
 pull-w5-gcp01.tiktokcdn.com
 pull-w5-sg01.fcdn.eu.tiktokcdn.com
 pull-w5-sg01.tiktokcdn.com
+pull-w5-sg01.tiktokcdn-us.com
 pull-w5.tiktokcdn.com
 pull-w5.tiktokcdn.com.c.worldfcdn.com
 pull-w5-va01.fcdn.eu.tiktokcdn.com
 pull-w5-va01.tiktokcdn.com
+pull-w5-va01.tiktokcdn-us.com
 puppet.bytedance.net
 push-fcdn-base-oversea.s.worldfcdn.com
 push-fcdn.bytecdn.cn
@@ -3283,6 +3297,7 @@ s.ipstatp.com
 site.bytedance.net
 sites.bytedance.net
 slb-lb.bytedns.net
+s.lemon8-app.com
 slide.toutiao.com
 sm.bytedance.net
 smr-aliva.byteoversea.com
@@ -4215,6 +4230,7 @@ vigo-lb-alisg.byteoversea.net
 vigoreview.byteoversea.com
 vip.bytedance.net
 v.ipstatp.com
+v.lemon8-app.com
 vm.bytedance.net
 vm.tiktok.com
 vm.tiktok.com.edgesuite.net
@@ -4457,6 +4473,7 @@ www.iesdouyin.com
 www.ipstatp.com
 www.isnssdk.com
 www.ixigua.com
+www.lemon8-app.com
 www.muscdn.com
 www.musemuse.cn
 www.musical.ly
