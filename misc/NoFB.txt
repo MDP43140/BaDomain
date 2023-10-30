@@ -3889,7 +3889,10 @@ snr.whatsapp.net
 social.facebook.com
 softtech.m.facebook.com
 sok.m.facebook.com
+sonar6.fcgk37-1.fna.fbcdn.net
+sonar6-hkt1-1.xx.fbcdn.net
 sonar6-sea1-1.xx.fbcdn.net
+sonar6-sin6-1.xx.fbcdn.net
 sonar6-xsp2-1.xx.fbcdn.net
 sonar6.xy.fbcdn.net
 sonar-ams2-1.xx.fbcdn.net
@@ -5233,6 +5236,7 @@ vthumb.ak.fbcdn.net
 vthumb.xx.fbcdn.net
 vupload2.vvv.facebook.com
 vupload.facebook.com
+v.whatsapp.net
 w1527b17e1-gm3dcnrzguzdimru.snr.whatsapp.net
 w379e2e421-gmztcmbsha4tiobu.snr.whatsapp.net
 w414333631-gi3dknzzgyzdcoa.snr.whatsapp.net

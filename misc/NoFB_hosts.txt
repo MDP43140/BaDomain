@@ -3899,7 +3899,10 @@
 0.0.0.0 social.facebook.com
 0.0.0.0 softtech.m.facebook.com
 0.0.0.0 sok.m.facebook.com
+0.0.0.0 sonar6.fcgk37-1.fna.fbcdn.net
+0.0.0.0 sonar6-hkt1-1.xx.fbcdn.net
 0.0.0.0 sonar6-sea1-1.xx.fbcdn.net
+0.0.0.0 sonar6-sin6-1.xx.fbcdn.net
 0.0.0.0 sonar6-xsp2-1.xx.fbcdn.net
 0.0.0.0 sonar6.xy.fbcdn.net
 0.0.0.0 sonar-ams2-1.xx.fbcdn.net
@@ -5243,6 +5246,7 @@
 0.0.0.0 vthumb.xx.fbcdn.net
 0.0.0.0 vupload2.vvv.facebook.com
 0.0.0.0 vupload.facebook.com
+0.0.0.0 v.whatsapp.net
 0.0.0.0 w1527b17e1-gm3dcnrzguzdimru.snr.whatsapp.net
 0.0.0.0 w379e2e421-gmztcmbsha4tiobu.snr.whatsapp.net
 0.0.0.0 w414333631-gi3dknzzgyzdcoa.snr.whatsapp.net

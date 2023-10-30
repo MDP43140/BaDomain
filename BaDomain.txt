@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 25.10.2023
+# Version: 31.10.2023
 # Update: 1 day
 #
 
@@ -102,6 +102,7 @@
 38.ygti905ffth6.com
 39d0825d09f05.cdn.sohucs.com
 39.ygti905ffth6.com
+3bjjlx-cdn-settings.appsflyersdk.com
 3dsintegrator.com
 3lift.com
 3.ygti905ffth6.com
@@ -176,6 +177,7 @@
 6.ygti905ffth6.com
 6.zxczj.top
 756964-android-ds.metric.gstatic.com
+756-ads-info.xyz
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 7efc7eb08gtearevf.rarefix.info
 7.ygti905ffth6.com
@@ -248,6 +250,7 @@ aboutads.com
 aboutads.info
 aboutads.net
 ab.playgendary.com
+abre.bio
 abroad.apilocate.amap.com
 abruptlyinstitution.com
 abtasty.com
@@ -1280,6 +1283,7 @@ calendardate.online
 calibermind.com
 callmeooumou.com
 camera.magicutapp.com
+campaign-manager-production.s3.ap-southeast-1.amazonaws.com
 campaigns.zamsino.com
 camp.azgames.live
 canvaz.scdn.co
@@ -1380,7 +1384,6 @@ cdn.arcade.software
 cdn-asset.optimonk.com
 cdn-asset.zepeto.me
 cdn.audiate.me
-cdn.auth0.com
 cdn.avanquest.com
 cdn.avmws.com
 cdn.awsusor1.fds.api.mi-img.com
@@ -1738,6 +1741,7 @@ contextweb.com
 contivio.com
 control.aps.amap.com
 control.connectwise.com
+control.kochava.com
 conversations.app-us1.com
 conversions.appsflyersdk.com
 convertkit.com
@@ -2546,6 +2550,7 @@ global.albtls.t.co
 globalapi.facemojikeyboard.com
 global.apis.naver.com
 global-apm.as.r.appspot.com
+global-auni.checktrustworthiness.com
 global-auth-sg.sausage.xd.com
 globalcdnapi.appnext.com
 global-chat-sg.sausage.xd.com
@@ -2703,7 +2708,6 @@ helpscout.com
 helpscout.net
 help.sogou.com
 helpwhitetile21.ksmobile.com
-helpx.adobe.com
 here.com
 hermes2.grabtaxi.com # uhh really ??
 hermes.360safe.com
@@ -3198,6 +3202,7 @@ kaskustoto.com
 kastking.top
 kau.li
 kayumanis.detik.com
+keepasstacking.site
 kepler.51y5.net
 kepler.y5en.com
 kfmark.com
@@ -4414,6 +4419,7 @@ pokigame.io
 polaris-static.kwai.net
 policy-tcp.mtgglobals.com
 policy-tcp.rayjump.com
+poll.gras.samsungdm.com
 polussuo.com
 pool.apk.aptoide.com
 poormansguidetocasinogambling.com
@@ -4533,6 +4539,7 @@ pubs.contextads.live
 pub.searchiq.co
 pubstatus.sinaapp.com
 pubsub.beta.salemove.com
+pullcf.joyit.live
 pulselb.relap.info
 pulselive.com
 pushbrothers.com
@@ -4638,6 +4645,7 @@ reference.castle.io
 referralrock.com
 refersion.com
 refokus.com
+refreshmet.com
 region1.analytics.google.com
 register.appsflyersdk.com
 register.collector.scopely.io
@@ -5433,6 +5441,7 @@ syndication.twitter.com
 syn-dir.sn.eamobile.com
 sysstat.tildacdn.com
 system1.com
+sz-loc.joyit.live
 szmg.qq.com
 t0.api.kikakeyboard.com
 t1.daumcdn.net
@@ -5486,7 +5495,6 @@ t.bignox.com
 tbsandbox.com
 tch493077.tch.quora.com
 tch.quora.com
-tcr9i.chat.openai.com
 tdcv3.talkingdata.net
 teads.tv
 team.stagingapps.xyz
@@ -5514,6 +5522,7 @@ tenorshare.com
 tenor.wargaming.net
 tentaculos.net
 terabox.com
+terabox.fun
 terbaru.uzone.id
 termly.io
 terms.aliyun.com
@@ -5979,6 +5988,7 @@ vs3.wshareit.com
 vs4.wshareit.com
 vs5.wshareit.com
 vs6.wshareit.com
+vs-api.joyit.live
 vs-api.like-it.video
 vs-api.wshareit.com
 vsb96.tawk.to
@@ -7015,6 +7025,7 @@ yixiu-abtest.alicdn.com
 ykimg.alicdn.com
 ykimg.com
 ylx-aff.advertica-cdn.com
+ymg-api.terabox.com
 ymg.teraboxcdn.com
 ynuf.aliapp.org
 yodlee.com
