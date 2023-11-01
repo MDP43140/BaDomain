@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 31.10.2023
+# Version: 01.11.2023
 # Update: 1 day
 #
 
@@ -618,6 +618,7 @@
 0.0.0.0 api.black.riseup.net
 0.0.0.0 api.blocka.net
 0.0.0.0 api.boomplaymusic.com
+0.0.0.0 api.boyuanhulian.com
 0.0.0.0 api.buzzoola.com
 0.0.0.0 api.bytegle.tech
 0.0.0.0 api.castle.io
@@ -2188,6 +2189,7 @@
 0.0.0.0 endpoint.mms.shopee.co.id
 0.0.0.0 english.sogou.com
 0.0.0.0 engpicka.app.link
+0.0.0.0 en-in.picturestyle.net
 0.0.0.0 enjoyads.videoshowapp.com
 0.0.0.0 en.mxbc.com
 0.0.0.0 ensighten.com
@@ -2663,6 +2665,7 @@
 0.0.0.0 g-zt.uvfuns.com
 0.0.0.0 h2ocdn.lavasoft.com
 0.0.0.0 h2svr.info
+0.0.0.0 h5.boyuanhulian.com
 0.0.0.0 h5.eagllwin.com
 0.0.0.0 h5.tu.qq.com
 0.0.0.0 h5xyz.com
@@ -3228,6 +3231,7 @@
 0.0.0.0 kissmetrics.com
 0.0.0.0 kiwibrowser.org
 0.0.0.0 kiwiirc.com
+0.0.0.0 kix-api.kwai-pro.com
 0.0.0.0 kix-ulog.kwai-pro.com
 0.0.0.0 kix-ulog.kwaipros.com
 0.0.0.0 kj9atb.hai8j1.com
@@ -4802,6 +4806,7 @@
 0.0.0.0 rum-ingest.us1.signalfx.com
 0.0.0.0 rumt-sg.com
 0.0.0.0 ruplay.market
+0.0.0.0 rus-dsu.shalltry.com
 0.0.0.0 rustore.ru
 0.0.0.0 rvere.com
 0.0.0.0 rvlyuwtr.nlb.sgw.shopeemobile.com
