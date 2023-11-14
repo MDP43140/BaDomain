@@ -398,6 +398,7 @@
 0.0.0.0 careers.facebook.com
 0.0.0.0 ccamatil.m.facebook.com
 0.0.0.0 cdg2.fbcdn.net
+0.0.0.0 cdn-fallback.fbsbx.com
 0.0.0.0 cdw.facebook.com
 0.0.0.0 c.facebook.com
 0.0.0.0 cg.facebook.com
@@ -3870,12 +3871,14 @@
 0.0.0.0 scontent-vie.xx.fbcdn.net
 0.0.0.0 scontent-waw1-1.cdninstagram.com
 0.0.0.0 scontent-waw1-1.xx.fbcdn.net
+0.0.0.0 scontent.whatsapp.net
 0.0.0.0 scontent-xsp1-1.cdninstagram.com
 0.0.0.0 scontent-xsp1-1.xx.fbcdn.net
 0.0.0.0 scontent-xsp1-2.cdninstagram.com
 0.0.0.0 scontent-xsp1-2.xx.fbcdn.net
 0.0.0.0 scontent-xsp1-3.cdninstagram.com
 0.0.0.0 scontent-xsp1-3.xx.fbcdn.net
+0.0.0.0 scontent-xsp2-1.xx.fbcdn.net
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 scotiabank.m.facebook.com
 0.0.0.0 secure.facebook.com
@@ -3966,6 +3969,7 @@
 0.0.0.0 sonar.fcgk3-3.fna.fbcdn.net
 0.0.0.0 sonar.fcgk34-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk3-4.fna.fbcdn.net
+0.0.0.0 sonar.fcgk3-4.fna.whatsapp.net
 0.0.0.0 sonar.fcgk35-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk36-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk37-1.fna.fbcdn.net
@@ -4062,6 +4066,7 @@
 0.0.0.0 sonar-waw1-1.xx.fbcdn.net
 0.0.0.0 sonar-waw.cdn.whatsapp.net
 0.0.0.0 sonar-waw.xx.fbcdn.net
+0.0.0.0 sonar-xsp1-1.xx.fbcdn.net
 0.0.0.0 sonar-xsp1-2.xx.fbcdn.net
 0.0.0.0 sonar-xsp1-3.xx.fbcdn.net
 0.0.0.0 sonar-xsp2-1.xx.fbcdn.net

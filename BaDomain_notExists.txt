@@ -183,6 +183,7 @@ cdn3.uzone.id
 cdn5.uzone.id
 cdn6.uzone.id
 cdn77.org
+cdn-a.production.vidio.static6.com
 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 cdnhwc1.com
 cdnmore.com
@@ -702,6 +703,7 @@ sdk.iad-07.braze.com
 sdk.iad-09.braze.com
 sdk.open.inc2.igexin.com
 searchblox.site
+search.spotxchange.com
 sec.miui.com
 securebiz.org
 semasio.net
@@ -735,6 +737,8 @@ snowplow-mobile.wooga.sg
 sns.bignox.com
 sogrobartigg.monster
 solve.msg.xiaomi.net
+sonar6-xsp1-1.xx.fbcdn.net
+sonar6-xsp1-2.xx.fbcdn.net
 soundiradio.com
 space.toutiao.com
 spacex.plus

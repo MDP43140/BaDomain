@@ -397,6 +397,7 @@ cardinal.facebook.com
 careers.facebook.com
 ccamatil.m.facebook.com
 cdg2.fbcdn.net
+cdn-fallback.fbsbx.com
 cdw.facebook.com
 c.facebook.com
 cg.facebook.com
@@ -3860,12 +3861,14 @@ scontent-vie1-1.xx.fbcdn.net
 scontent-vie.xx.fbcdn.net
 scontent-waw1-1.cdninstagram.com
 scontent-waw1-1.xx.fbcdn.net
+scontent.whatsapp.net
 scontent-xsp1-1.cdninstagram.com
 scontent-xsp1-1.xx.fbcdn.net
 scontent-xsp1-2.cdninstagram.com
 scontent-xsp1-2.xx.fbcdn.net
 scontent-xsp1-3.cdninstagram.com
 scontent-xsp1-3.xx.fbcdn.net
+scontent-xsp2-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
 scotiabank.m.facebook.com
 secure.facebook.com
@@ -3956,6 +3959,7 @@ sonar.fcgk33-1.fna.fbcdn.net
 sonar.fcgk3-3.fna.fbcdn.net
 sonar.fcgk34-1.fna.fbcdn.net
 sonar.fcgk3-4.fna.fbcdn.net
+sonar.fcgk3-4.fna.whatsapp.net
 sonar.fcgk35-1.fna.fbcdn.net
 sonar.fcgk36-1.fna.fbcdn.net
 sonar.fcgk37-1.fna.fbcdn.net
@@ -4052,6 +4056,7 @@ sonar-vie1-1.xx.fbcdn.net
 sonar-waw1-1.xx.fbcdn.net
 sonar-waw.cdn.whatsapp.net
 sonar-waw.xx.fbcdn.net
+sonar-xsp1-1.xx.fbcdn.net
 sonar-xsp1-2.xx.fbcdn.net
 sonar-xsp1-3.xx.fbcdn.net
 sonar-xsp2-1.xx.fbcdn.net

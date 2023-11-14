@@ -17,6 +17,7 @@ api.fview.cn
 api.sina.com.cn
 api.unity.cn
 api.xintaicz.cn
+assets.cathaypacific.com
 assistant-dra.op.dbankcloud.cn
 atom-log.3.cn
 auto.itc.cn
@@ -197,6 +198,7 @@ www.12377.cn
 www.afirstsoft.cn
 www.baidu.cn
 www.baidu.com.cn
+www.cathaypacific.com
 www.cnr.cn
 www.cucloud.cn
 www.futurecommerce.cn

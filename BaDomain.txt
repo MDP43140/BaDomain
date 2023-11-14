@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 01.11.2023
+# Version: 14.11.2023
 # Update: 1 day
 #
 
@@ -109,6 +109,7 @@
 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
 40.ygti905ffth6.com
 41.ygti905ffth6.com
+425439.fs1.hubspotusercontent-na1.net
 426d5aa4.cubetecn.com
 42trck.com
 42.ygti905ffth6.com
@@ -329,6 +330,7 @@ ads20.adcolony.com
 ads2-adnow.com
 ads30.adcolony.com
 ads.adcolony.com
+ads.adnuntius.delivery
 ads.adpub.co
 ads.adscontrol.xyz
 adsafeprotected.com
@@ -405,6 +407,7 @@ a.fxltsbl.com
 agabreloomr.com
 agilitycms.com
 agnxomu.com
+agora.io
 ahagamecenter.com
 ahqxh2tiocdn54ld9vzqrytyjeivo8f9.yundunwaf3.com
 aicup.magicutapp.com
@@ -546,6 +549,7 @@ anymind360.com
 aoemo.cc
 aos.go2s.co
 ap1.agora.io
+ap1-ipv6.agora.io
 ap1-tls.agora.io
 ap2.agora.i
 ap2.agora.io
@@ -720,6 +724,7 @@ api.myadsget.com
 api.myip.com
 api.mythad.com
 api.mywavehome.net
+api-na1.hubapi.com
 api.na.chilipiper.com
 api.neverbounce.com
 api-new.bignox.com
@@ -800,6 +805,7 @@ api.tmtreader.com
 api.tnapps.xyz
 api.top.gg
 api.toponadss.com
+api.translasion.com
 api.tratao.com
 api.twibida.com
 api.urioy.com
@@ -865,6 +871,7 @@ appcfg.wetvinfo.com
 app.chaport.com
 appcloud.mcafee.com
 app.cove.chat
+app.directededge.com
 app.driftt.com
 apperr.log.mgtv.com
 appevent.cookappsgames.com
@@ -1059,6 +1066,7 @@ awxcdn.com
 axelspringerideas.de
 axiata-lk-43c53a330e9-he.fortumo.io
 b1.nel.goog
+b1t-sindc1.zemanta.com
 b2.mail.ru
 b5vbk6-launches.appsflyersdk.com
 b6e881dd-dnsotls-ds.metric.gstatic.com
@@ -1080,6 +1088,7 @@ baiducontent.com
 baidupcs.com
 baidustatic.com
 baike.sogou.com
+baishan.litatom.com
 b.alipay.com
 ballou.se
 bam-cell.nr-data.net
@@ -1227,6 +1236,7 @@ brainly.app.link
 braintreegateway.com
 branch.io
 brand-display.com
+braze.com
 braze-images.com
 brdsg.com
 brightcove.net
@@ -1337,6 +1347,7 @@ cd.connatix.com
 cdkeyoffer.com
 cdn0.docdoc.com
 cdn0.editmysite.com
+cdn0-production-assets-kly.akamaized.net
 cdn0-production-images-kly.akamaized.net
 cdn130.picsart.com
 cdn-146.privacy-mgmt.com
@@ -1344,6 +1355,7 @@ cdn1.affirm.com
 cdn1.codashop.com
 cdn1.editmysite.com
 cdn1.hubspot.net
+cdn1-production-assets-kly.akamaized.net
 cdn1-production-images-kly.akamaized.net
 cdn1.scooper.news
 cdn-1.tstatic.net
@@ -1996,6 +2008,7 @@ digitalriver.com
 digitaltarget.ru
 d.infeed.id
 dir-apis.samsungdm.com
+directededge.com
 direct.lc.chat
 direct.lc.chat.edgekey.net
 directory.cookieyes.com
@@ -2224,6 +2237,7 @@ esx.bigo.sg
 e.tapdb.net
 etpweb.doodoo.love
 etp.ytmp3.cc
+etslive-2-vidio-com.akamaized.net
 etsy.com
 etzndtcvqvyxajpcgwkzsoweaubilflh.com
 eu1.clevertap-prod.com
@@ -2297,6 +2311,12 @@ favicon.yandex.net
 fbads-tools.com
 fbh20.indosatooredoo.com
 f.cstpersl.com
+fcu5wl-cdn-settings.appsflyersdk.com
+fcu5wl-conversions.appsflyersdk.com
+fcu5wl-dlsdk.appsflyersdk.com
+fcu5wl-gcdsdk.appsflyersdk.com
+fcu5wl-inapps.appsflyersdk.com
+fcu5wl-launches.appsflyersdk.com
 feabtest.prod.tvlk-data.com
 feature-api.pa1mstore.com
 feature-api.palmplaystore.com
@@ -2334,6 +2354,7 @@ filmmogzivota.rs
 film.wetv.vip
 financialtrending.com
 firehose.eu-west-1.amazonaws.com
+fireworkapi1.com
 firstpage.kingsoft-office-service.com
 firstpromoter.com
 fk-new-cdn-eu-central-1a-hb.rayjump.com
@@ -2366,6 +2387,7 @@ forms.aweber.com
 forms.hscollectedforms.net
 forms.hsforms.com
 forms.hubspot.com
+forms-na1.hsforms.com
 forms.soundestlink.com
 fortawesome.com
 fortumo.com
@@ -2377,6 +2399,7 @@ fourier.taobao.com
 fout.jp
 foxdoing.com
 foxpush.net
+fpcdn.io
 fpcs-prod-wf.centurygames.com
 fpstool.com
 fr.4sync.com
@@ -2510,6 +2533,7 @@ gethouse.top
 getlasso.co
 getol88.co
 getryoko.com
+getsegdata.props.id
 getsitecontrol.com
 g.ezoic.net
 gfd-phinf.pstatic.net
@@ -2712,7 +2736,6 @@ helpscout.net
 help.sogou.com
 helpwhitetile21.ksmobile.com
 here.com
-hermes2.grabtaxi.com # uhh really ??
 hermes.360safe.com
 hermes-fs.wshareit.com
 heylink.me
@@ -2781,6 +2804,7 @@ http-inputs-notion.splunkcloud.com
 https-api.bigolive.tv
 https-api.like.video
 huatuo.qq.com
+hubapi.com
 hub.pcapredict.com
 hubspot.com
 hubspot-forms-static-embed.s3.amazonaws.com
@@ -3151,6 +3175,7 @@ js.chilipiper.com
 jsc.mgid.com
 js.cx
 js.datadome.co
+js.dc.apac.vesta.io
 js.digiads.co.id
 js.digitalriver.com
 js.driftt.com
@@ -3169,6 +3194,7 @@ js.hscollectedforms.net
 js.hsforms.net
 js.hsleadflows.net
 js.hs-scripts.com
+js.hubspot.com
 js.hubspotfeedback.com
 js.intercomcdn.com
 js.media-lab.ai
@@ -3723,6 +3749,7 @@ monetizer.com
 money-flow-5ecaa-default-rtdb.firebaseio.com
 moneytube.pro
 monitor.clickcease.com
+monitor.translasion.com
 monkeyibrowstudios.com
 montok.wapsite.info
 mookie1.com
@@ -3738,6 +3765,7 @@ mpd-designs.com
 mpraven.org
 mps.nbcuni.com
 mp.toutiao.com
+mpush-api.aliyun.com
 mp.weixin.qq.com
 mrbeastgiftscard.com
 mrbeast.site
@@ -4385,6 +4413,7 @@ placements.tapjoy.com
 plainbagel.notion.site
 plassets.ws.pho.to
 plat-api.bignox.com
+platform.apac.vesta.io
 platform-api.sharethis.com
 platform-cdn.sharethis.com
 platform-lookaside.fbsbx.com
@@ -4481,6 +4510,7 @@ prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 prod.cloud.rockstargames.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod-game.survivorio.com
+prod.litmatchs.com
 prod-lt-playstoregatewayadapter-pa.googleapis.com
 prod-mag-api.vidfree.net
 prod-mediate-events.applovin.com
@@ -4667,6 +4697,7 @@ rentahitman.com
 repair-system-phone.firebaseio.com
 repodownload.mediatek.com
 report.appmetrica.yandex.net
+report-edge.agora.io
 report-ps.meettech.net
 report.sc.funminigame.com
 report.tantanapp.com
@@ -4911,6 +4942,7 @@ sdk.bignox.com
 sdkconf.avlyun.com
 sdk-exchange.startappservice.com
 sdk.hdvietpro.com
+sdk.iad-01.braze.com
 sdk.iad-04.braze.com
 sdk.iad-05.braze.com
 sdk-monitoring.ogury.co
@@ -4979,6 +5011,7 @@ sentry.androidacy.com
 sentry.boomplaymusic.com
 sentry.ff.avast.com
 sentry.io
+sentry.ksztone.com
 sentry.kuaishou.com
 sentry.kumparan.com
 sentry.mncplus.com
@@ -5137,6 +5170,7 @@ snap.com
 snapengage.com
 snapgirls.date
 snapgirls.uno
+snapinsta.app
 snaptik.app
 sneaky.lordofthequietbadgers.com
 snid.snitcher.com
@@ -5320,7 +5354,6 @@ static-web.imoim.net
 static-web.likee.com
 static-web.likeevideo.com
 static-web.prod.vid.id
-static-web.prod.vidiocdn.com
 static.wetvinfo.com
 staticworld.net
 static.yximgs.com
@@ -5333,6 +5366,7 @@ statis.facemojikeyboard.com
 statistics-dot-calconic-app.appspot.com
 stats.cross-orbit.com
 stats.darkreader.app
+stats.ext.v35.us
 stats.gameguardian.net
 stats.seedr.com
 stats.wp.com
@@ -5532,6 +5566,7 @@ terbaru.uzone.id
 termly.io
 terms.aliyun.com
 terms.aliyun.com.danuoyi.alicdn.com
+ternakpark.site
 terpopuler.uzone.id
 terraclicks.com
 teslacoilapps.com
@@ -5562,6 +5597,7 @@ threadloom.com
 thrtle.com
 thumbnails3.opera.com
 thumbnails.opera.com
+thumbor.prod.vidiocdn.com
 thumbs1.2beeg.net
 thumbs2.2beeg.net
 thumb.viva.co.id
@@ -5904,6 +5940,7 @@ verify.uxcam.com
 version.common.redflamenco.com
 version.ffmax.pencilorange.com
 version.ffmax.purplevioleto.com
+vesta.io
 vfiles.wetvinfo.com
 vflat-8d597.firebaseio.com
 vgold.gameloft.com

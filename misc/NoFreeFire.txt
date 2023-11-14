@@ -24,6 +24,7 @@ dl.cvs.freefiremobile.com
 dl.dir.freefiremobile.com
 dl.gcp.freefiremobile.com
 dl.gmc.freefiremobile.com
+dl-patch-freefiremobile-com-sh.obs.myhuaweicloud.com
 dl-sg-production.freefiremobile.com
 dl.wsu.freefiremobile.com
 event.freefiremobile.com

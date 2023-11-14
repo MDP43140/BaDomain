@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 01.11.2023
+# Version: 14.11.2023
 # Update: 1 day
 #
 
@@ -109,6 +109,7 @@
 0.0.0.0 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 40.ygti905ffth6.com
 0.0.0.0 41.ygti905ffth6.com
+0.0.0.0 425439.fs1.hubspotusercontent-na1.net
 0.0.0.0 426d5aa4.cubetecn.com
 0.0.0.0 42trck.com
 0.0.0.0 42.ygti905ffth6.com
@@ -329,6 +330,7 @@
 0.0.0.0 ads2-adnow.com
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads.adcolony.com
+0.0.0.0 ads.adnuntius.delivery
 0.0.0.0 ads.adpub.co
 0.0.0.0 ads.adscontrol.xyz
 0.0.0.0 adsafeprotected.com
@@ -405,6 +407,7 @@
 0.0.0.0 agabreloomr.com
 0.0.0.0 agilitycms.com
 0.0.0.0 agnxomu.com
+0.0.0.0 agora.io
 0.0.0.0 ahagamecenter.com
 0.0.0.0 ahqxh2tiocdn54ld9vzqrytyjeivo8f9.yundunwaf3.com
 0.0.0.0 aicup.magicutapp.com
@@ -546,6 +549,7 @@
 0.0.0.0 aoemo.cc
 0.0.0.0 aos.go2s.co
 0.0.0.0 ap1.agora.io
+0.0.0.0 ap1-ipv6.agora.io
 0.0.0.0 ap1-tls.agora.io
 0.0.0.0 ap2.agora.i
 0.0.0.0 ap2.agora.io
@@ -720,6 +724,7 @@
 0.0.0.0 api.myip.com
 0.0.0.0 api.mythad.com
 0.0.0.0 api.mywavehome.net
+0.0.0.0 api-na1.hubapi.com
 0.0.0.0 api.na.chilipiper.com
 0.0.0.0 api.neverbounce.com
 0.0.0.0 api-new.bignox.com
@@ -800,6 +805,7 @@
 0.0.0.0 api.tnapps.xyz
 0.0.0.0 api.top.gg
 0.0.0.0 api.toponadss.com
+0.0.0.0 api.translasion.com
 0.0.0.0 api.tratao.com
 0.0.0.0 api.twibida.com
 0.0.0.0 api.urioy.com
@@ -865,6 +871,7 @@
 0.0.0.0 app.chaport.com
 0.0.0.0 appcloud.mcafee.com
 0.0.0.0 app.cove.chat
+0.0.0.0 app.directededge.com
 0.0.0.0 app.driftt.com
 0.0.0.0 apperr.log.mgtv.com
 0.0.0.0 appevent.cookappsgames.com
@@ -1059,6 +1066,7 @@
 0.0.0.0 axelspringerideas.de
 0.0.0.0 axiata-lk-43c53a330e9-he.fortumo.io
 0.0.0.0 b1.nel.goog
+0.0.0.0 b1t-sindc1.zemanta.com
 0.0.0.0 b2.mail.ru
 0.0.0.0 b5vbk6-launches.appsflyersdk.com
 0.0.0.0 b6e881dd-dnsotls-ds.metric.gstatic.com
@@ -1080,6 +1088,7 @@
 0.0.0.0 baidupcs.com
 0.0.0.0 baidustatic.com
 0.0.0.0 baike.sogou.com
+0.0.0.0 baishan.litatom.com
 0.0.0.0 b.alipay.com
 0.0.0.0 ballou.se
 0.0.0.0 bam-cell.nr-data.net
@@ -1227,6 +1236,7 @@
 0.0.0.0 braintreegateway.com
 0.0.0.0 branch.io
 0.0.0.0 brand-display.com
+0.0.0.0 braze.com
 0.0.0.0 braze-images.com
 0.0.0.0 brdsg.com
 0.0.0.0 brightcove.net
@@ -1337,6 +1347,7 @@
 0.0.0.0 cdkeyoffer.com
 0.0.0.0 cdn0.docdoc.com
 0.0.0.0 cdn0.editmysite.com
+0.0.0.0 cdn0-production-assets-kly.akamaized.net
 0.0.0.0 cdn0-production-images-kly.akamaized.net
 0.0.0.0 cdn130.picsart.com
 0.0.0.0 cdn-146.privacy-mgmt.com
@@ -1344,6 +1355,7 @@
 0.0.0.0 cdn1.codashop.com
 0.0.0.0 cdn1.editmysite.com
 0.0.0.0 cdn1.hubspot.net
+0.0.0.0 cdn1-production-assets-kly.akamaized.net
 0.0.0.0 cdn1-production-images-kly.akamaized.net
 0.0.0.0 cdn1.scooper.news
 0.0.0.0 cdn-1.tstatic.net
@@ -1996,6 +2008,7 @@
 0.0.0.0 digitaltarget.ru
 0.0.0.0 d.infeed.id
 0.0.0.0 dir-apis.samsungdm.com
+0.0.0.0 directededge.com
 0.0.0.0 direct.lc.chat
 0.0.0.0 direct.lc.chat.edgekey.net
 0.0.0.0 directory.cookieyes.com
@@ -2224,6 +2237,7 @@
 0.0.0.0 e.tapdb.net
 0.0.0.0 etpweb.doodoo.love
 0.0.0.0 etp.ytmp3.cc
+0.0.0.0 etslive-2-vidio-com.akamaized.net
 0.0.0.0 etsy.com
 0.0.0.0 etzndtcvqvyxajpcgwkzsoweaubilflh.com
 0.0.0.0 eu1.clevertap-prod.com
@@ -2297,6 +2311,12 @@
 0.0.0.0 fbads-tools.com
 0.0.0.0 fbh20.indosatooredoo.com
 0.0.0.0 f.cstpersl.com
+0.0.0.0 fcu5wl-cdn-settings.appsflyersdk.com
+0.0.0.0 fcu5wl-conversions.appsflyersdk.com
+0.0.0.0 fcu5wl-dlsdk.appsflyersdk.com
+0.0.0.0 fcu5wl-gcdsdk.appsflyersdk.com
+0.0.0.0 fcu5wl-inapps.appsflyersdk.com
+0.0.0.0 fcu5wl-launches.appsflyersdk.com
 0.0.0.0 feabtest.prod.tvlk-data.com
 0.0.0.0 feature-api.pa1mstore.com
 0.0.0.0 feature-api.palmplaystore.com
@@ -2334,6 +2354,7 @@
 0.0.0.0 film.wetv.vip
 0.0.0.0 financialtrending.com
 0.0.0.0 firehose.eu-west-1.amazonaws.com
+0.0.0.0 fireworkapi1.com
 0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 firstpromoter.com
 0.0.0.0 fk-new-cdn-eu-central-1a-hb.rayjump.com
@@ -2366,6 +2387,7 @@
 0.0.0.0 forms.hscollectedforms.net
 0.0.0.0 forms.hsforms.com
 0.0.0.0 forms.hubspot.com
+0.0.0.0 forms-na1.hsforms.com
 0.0.0.0 forms.soundestlink.com
 0.0.0.0 fortawesome.com
 0.0.0.0 fortumo.com
@@ -2377,6 +2399,7 @@
 0.0.0.0 fout.jp
 0.0.0.0 foxdoing.com
 0.0.0.0 foxpush.net
+0.0.0.0 fpcdn.io
 0.0.0.0 fpcs-prod-wf.centurygames.com
 0.0.0.0 fpstool.com
 0.0.0.0 fr.4sync.com
@@ -2510,6 +2533,7 @@
 0.0.0.0 getlasso.co
 0.0.0.0 getol88.co
 0.0.0.0 getryoko.com
+0.0.0.0 getsegdata.props.id
 0.0.0.0 getsitecontrol.com
 0.0.0.0 g.ezoic.net
 0.0.0.0 gfd-phinf.pstatic.net
@@ -2712,11 +2736,6 @@
 0.0.0.0 help.sogou.com
 0.0.0.0 helpwhitetile21.ksmobile.com
 0.0.0.0 here.com
-0.0.0.0 hermes2.grabtaxi.com
-0.0.0.0 #
-0.0.0.0 uhh
-0.0.0.0 really
-0.0.0.0 ??
 0.0.0.0 hermes.360safe.com
 0.0.0.0 hermes-fs.wshareit.com
 0.0.0.0 heylink.me
@@ -2785,6 +2804,7 @@
 0.0.0.0 https-api.bigolive.tv
 0.0.0.0 https-api.like.video
 0.0.0.0 huatuo.qq.com
+0.0.0.0 hubapi.com
 0.0.0.0 hub.pcapredict.com
 0.0.0.0 hubspot.com
 0.0.0.0 hubspot-forms-static-embed.s3.amazonaws.com
@@ -3155,6 +3175,7 @@
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js.cx
 0.0.0.0 js.datadome.co
+0.0.0.0 js.dc.apac.vesta.io
 0.0.0.0 js.digiads.co.id
 0.0.0.0 js.digitalriver.com
 0.0.0.0 js.driftt.com
@@ -3173,6 +3194,7 @@
 0.0.0.0 js.hsforms.net
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 js.hubspot.com
 0.0.0.0 js.hubspotfeedback.com
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 js.media-lab.ai
@@ -3727,6 +3749,7 @@
 0.0.0.0 money-flow-5ecaa-default-rtdb.firebaseio.com
 0.0.0.0 moneytube.pro
 0.0.0.0 monitor.clickcease.com
+0.0.0.0 monitor.translasion.com
 0.0.0.0 monkeyibrowstudios.com
 0.0.0.0 montok.wapsite.info
 0.0.0.0 mookie1.com
@@ -3742,6 +3765,7 @@
 0.0.0.0 mpraven.org
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 mp.toutiao.com
+0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 mp.weixin.qq.com
 0.0.0.0 mrbeastgiftscard.com
 0.0.0.0 mrbeast.site
@@ -4389,6 +4413,7 @@
 0.0.0.0 plainbagel.notion.site
 0.0.0.0 plassets.ws.pho.to
 0.0.0.0 plat-api.bignox.com
+0.0.0.0 platform.apac.vesta.io
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 platform-lookaside.fbsbx.com
@@ -4485,6 +4510,7 @@
 0.0.0.0 prod.cloud.rockstargames.com
 0.0.0.0 prod.detectportal.prod.cloudops.mozgcp.net
 0.0.0.0 prod-game.survivorio.com
+0.0.0.0 prod.litmatchs.com
 0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 prod-mag-api.vidfree.net
 0.0.0.0 prod-mediate-events.applovin.com
@@ -4671,6 +4697,7 @@
 0.0.0.0 repair-system-phone.firebaseio.com
 0.0.0.0 repodownload.mediatek.com
 0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 report-edge.agora.io
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report.sc.funminigame.com
 0.0.0.0 report.tantanapp.com
@@ -4915,6 +4942,7 @@
 0.0.0.0 sdkconf.avlyun.com
 0.0.0.0 sdk-exchange.startappservice.com
 0.0.0.0 sdk.hdvietpro.com
+0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-04.braze.com
 0.0.0.0 sdk.iad-05.braze.com
 0.0.0.0 sdk-monitoring.ogury.co
@@ -4983,6 +5011,7 @@
 0.0.0.0 sentry.boomplaymusic.com
 0.0.0.0 sentry.ff.avast.com
 0.0.0.0 sentry.io
+0.0.0.0 sentry.ksztone.com
 0.0.0.0 sentry.kuaishou.com
 0.0.0.0 sentry.kumparan.com
 0.0.0.0 sentry.mncplus.com
@@ -5141,6 +5170,7 @@
 0.0.0.0 snapengage.com
 0.0.0.0 snapgirls.date
 0.0.0.0 snapgirls.uno
+0.0.0.0 snapinsta.app
 0.0.0.0 snaptik.app
 0.0.0.0 sneaky.lordofthequietbadgers.com
 0.0.0.0 snid.snitcher.com
@@ -5324,7 +5354,6 @@
 0.0.0.0 static-web.likee.com
 0.0.0.0 static-web.likeevideo.com
 0.0.0.0 static-web.prod.vid.id
-0.0.0.0 static-web.prod.vidiocdn.com
 0.0.0.0 static.wetvinfo.com
 0.0.0.0 staticworld.net
 0.0.0.0 static.yximgs.com
@@ -5337,6 +5366,7 @@
 0.0.0.0 statistics-dot-calconic-app.appspot.com
 0.0.0.0 stats.cross-orbit.com
 0.0.0.0 stats.darkreader.app
+0.0.0.0 stats.ext.v35.us
 0.0.0.0 stats.gameguardian.net
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.wp.com
@@ -5536,6 +5566,7 @@
 0.0.0.0 termly.io
 0.0.0.0 terms.aliyun.com
 0.0.0.0 terms.aliyun.com.danuoyi.alicdn.com
+0.0.0.0 ternakpark.site
 0.0.0.0 terpopuler.uzone.id
 0.0.0.0 terraclicks.com
 0.0.0.0 teslacoilapps.com
@@ -5566,6 +5597,7 @@
 0.0.0.0 thrtle.com
 0.0.0.0 thumbnails3.opera.com
 0.0.0.0 thumbnails.opera.com
+0.0.0.0 thumbor.prod.vidiocdn.com
 0.0.0.0 thumbs1.2beeg.net
 0.0.0.0 thumbs2.2beeg.net
 0.0.0.0 thumb.viva.co.id
@@ -5908,6 +5940,7 @@
 0.0.0.0 version.common.redflamenco.com
 0.0.0.0 version.ffmax.pencilorange.com
 0.0.0.0 version.ffmax.purplevioleto.com
+0.0.0.0 vesta.io
 0.0.0.0 vfiles.wetvinfo.com
 0.0.0.0 vflat-8d597.firebaseio.com
 0.0.0.0 vgold.gameloft.com

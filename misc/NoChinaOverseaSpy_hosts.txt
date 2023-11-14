@@ -17,6 +17,7 @@
 0.0.0.0 api.sina.com.cn
 0.0.0.0 api.unity.cn
 0.0.0.0 api.xintaicz.cn
+0.0.0.0 assets.cathaypacific.com
 0.0.0.0 assistant-dra.op.dbankcloud.cn
 0.0.0.0 atom-log.3.cn
 0.0.0.0 auto.itc.cn
@@ -197,6 +198,7 @@
 0.0.0.0 www.afirstsoft.cn
 0.0.0.0 www.baidu.cn
 0.0.0.0 www.baidu.com.cn
+0.0.0.0 www.cathaypacific.com
 0.0.0.0 www.cnr.cn
 0.0.0.0 www.cucloud.cn
 0.0.0.0 www.futurecommerce.cn

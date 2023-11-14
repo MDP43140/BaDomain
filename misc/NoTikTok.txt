@@ -2623,6 +2623,7 @@ pull-f5.tiktokcdn.com.c.worldfcdn.com
 pull-f5-tt01.fcdn.eu.tiktokcdn.com
 pull-f5-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.tiktokcdn.com
+pull-f5-tt01.tiktokcdn-us.com
 pull-f5-tt02.fcdn.eu.tiktokcdn.com
 pull-f5-tt02.fcdn.us.tiktokv.com
 pull-f5-tt02-infra.fcdn.us.tiktokv.com
@@ -4167,6 +4168,7 @@ vc-mirror.snssdk.com
 vc-postal.snssdk.com
 vc-pservice.snssdk.com
 vcs-i18n.tiktokv.com
+vcs-sg.byteintl.com
 vcs-sg.byteoversea.com
 vcs-sg.byteoversea.com.edgekey.net
 vcs-sg.tiktokv.com

@@ -2623,6 +2623,7 @@
 0.0.0.0 pull-f5-tt01.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-f5-tt01.fcdn.us.tiktokv.com
 0.0.0.0 pull-f5-tt01.tiktokcdn.com
+0.0.0.0 pull-f5-tt01.tiktokcdn-us.com
 0.0.0.0 pull-f5-tt02.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-f5-tt02.fcdn.us.tiktokv.com
 0.0.0.0 pull-f5-tt02-infra.fcdn.us.tiktokv.com
@@ -4167,6 +4168,7 @@
 0.0.0.0 vc-postal.snssdk.com
 0.0.0.0 vc-pservice.snssdk.com
 0.0.0.0 vcs-i18n.tiktokv.com
+0.0.0.0 vcs-sg.byteintl.com
 0.0.0.0 vcs-sg.byteoversea.com
 0.0.0.0 vcs-sg.byteoversea.com.edgekey.net
 0.0.0.0 vcs-sg.tiktokv.com
