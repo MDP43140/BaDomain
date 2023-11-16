@@ -18,6 +18,8 @@
 # - ("scontent-",		"!ALL", "xx.fbcdn.net")
 # - ("scontent-",		"!ALL", "cdninstagram.com")
 # - ("z-m-scontent-","!ALL", "xx.fbcdn.net")
+# - ("sonar-",			"!ALL", "fna.fbcdn.net")
+# - ("sonar-",			"!ALL", "xx.fbcdn.net")
 # - ("sonar6-",			"!ALL", "fna.fbcdn.net")
 # - ("sonar6-",			"!ALL", "xx.fbcdn.net")
 # - ("video-",			"!ALL", "fna.fbcdn.net")

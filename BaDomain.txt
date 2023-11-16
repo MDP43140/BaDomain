@@ -1,12 +1,13 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 14.11.2023
+# Version: 17.11.2023
 # Update: 1 day
 #
 
 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
 05efspdbawfc.puscomosca.com
+0.datadog.pool.ntp.org
 0kczn7.l0fwny.com
 0.news20.biz
 0smfoo0924y8.puscomosca.com
@@ -47,6 +48,7 @@
 19.ygti905ffth6.com
 1clickvpn.net
 1.cn.pool.ntp.org
+1.datadog.pool.ntp.org
 1fa0bd2e-2340-43b9-aa0c-2288ad78a34b.goliath.atlas.bi.miniclippt.com
 1g5k5w.com
 1q2w3e4r.vmfreevideo.top
@@ -77,10 +79,12 @@
 29.ygti905ffth6.com
 2beeg.net
 2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
+2.datadog.pool.ntp.org
 2download.online
 2ktgy3.yw7nm3.com
 2tx120.1g5k5w.com
 2vn82gsvp8r2fwcoq1flij7h-wpengine.netdna-ssl.com
+2xbmcf-cdn-settings.appsflyersdk.com
 2.ygti905ffth6.com
 2.zxczj.top
 30.ygti905ffth6.com
@@ -103,6 +107,7 @@
 39d0825d09f05.cdn.sohucs.com
 39.ygti905ffth6.com
 3bjjlx-cdn-settings.appsflyersdk.com
+3.datadog.pool.ntp.org
 3dsintegrator.com
 3lift.com
 3.ygti905ffth6.com
@@ -610,6 +615,7 @@ api.appbazaar.com
 api-app.realme.com
 api.appsflyer.com
 api-assetstore.kinemasters.com
+api.atlassian.com
 api-auth.kinemasters.com
 api.automizely.com
 api.baca.co.id
@@ -648,6 +654,7 @@ api.ethyca.com
 api.eufylife.com
 api.faceapp.io
 api.facemojikeyboard.com
+api.fashionshow.club
 api-fc.dutils.com
 api-fd.dutils.com
 api.firwinds.site
@@ -765,6 +772,7 @@ api.renren.fan
 api.resso.app
 api.revenuecat.com
 api.rosecrab.com
+api.rudderlabs.com
 api.rvere.com
 api.saasexch.com
 api.salemove.com
@@ -899,6 +907,7 @@ app.overloop.com
 app.pou.me
 app.pushbrothers.com
 apps2.outfit7.com
+app.saygames.io
 apps.canva-apps.com
 app.securiti.ai
 appsflyer.com
@@ -949,6 +958,7 @@ artsai.com
 artwork-cdn.7static.com
 artwork.projectcarmen.com
 as.alipayobjects.com
+as.atlassian.com
 asaux1.contivio.com
 asia.csoversea.mbgame.anticheatexpert.com
 asia-live.inside-graph.com
@@ -988,7 +998,9 @@ assets.ludokingapi.com
 assets.manutd.com
 assets-marketing-site.calendly.com
 assets.mintegral.com
+assetsn.promediateknologi.id
 assets.playtech.com
+assets.prod.leanplum.com
 assets.promediateknologi.com
 assets.promediateknologi.id
 assets.queue-it.net
@@ -1017,6 +1029,7 @@ audaecity.org
 audaicity.org
 audid-api-sg.taobao.com
 audience.contextads.live
+audiencedata.im-apps.net
 audioplace.me
 auditrecording-pa.googleapis.com
 audit-tcfv2.cmp.quantcast.com
@@ -1027,6 +1040,7 @@ au.mayalaze.xyz
 australianmorningnews.com
 authapp.mob-sogood.com
 authapp.touchremix.com
+auth.atlassian.com
 auth-cloudfront.prod.ims.adobejanus.com
 auth.ff.avast.com
 auth.split.io
@@ -1068,6 +1082,7 @@ axiata-lk-43c53a330e9-he.fortumo.io
 b1.nel.goog
 b1t-sindc1.zemanta.com
 b2.mail.ru
+b5vbk6-cdn-settings.appsflyersdk.com
 b5vbk6-launches.appsflyersdk.com
 b6e881dd-dnsotls-ds.metric.gstatic.com
 b6s-api.snow.me
@@ -1293,6 +1308,7 @@ calconic.com
 calendardate.online
 calibermind.com
 callmeooumou.com
+cambridge.org
 camera.magicutapp.com
 campaign-manager-production.s3.ap-southeast-1.amazonaws.com
 campaigns.zamsino.com
@@ -1323,9 +1339,13 @@ car.weixin.qq.com
 carx-online.com
 casalemedia.com
 cashend.me
+catalog-backend.sgdn.io
+catalog.saygames.io
 catalog.supercell.com
+catalogue.sgdn.io
 catbox.moe
 cbsi.com
+cbsipv4.shuzilm.cn
 cbs.wondershare.com
 cc.163.com
 cc.loginfra.com
@@ -1390,6 +1410,7 @@ cdn8.editmysite.com
 cdn8.uzone.id
 cdn925.com
 cdn9.editmysite.com
+cdn-adn-https.mtgglobals.com
 cdn.adswizz.com
 cdn.agilitycms.com
 cdn.aihelp.net
@@ -1789,6 +1810,7 @@ cpahero.com
 cp.betweendigital.com
 cpmstar.com
 cpn.netcoresmartech.com
+cpt.geniee.jp
 cpx.to
 craft.pe
 crashlyticsreports-pa.googleapis.com
@@ -2038,6 +2060,7 @@ dl-xda.xposed.info
 dl.xposed.info
 dmcdn.net
 dmg.digitaltarget.ru
+dmp.im-apps.net
 dmp.truoptik.com
 dm.samsungdive.com
 dn.im-gb.com
@@ -2093,6 +2116,7 @@ downloads.mailchimp.com
 downloads.pcapredict.com
 download.wavebrowser.co
 downstairst.store
+down-tx-id.img.susercontent.com
 down-ws-id.img.susercontent.com
 dpdwnl.my-free.website
 draper.popcap.com
@@ -2200,6 +2224,7 @@ emxdgt.com
 en.4sync.com
 en.bignox.com
 endpoint.mms.shopee.co.id
+engagements.appsflyer.com
 english.sogou.com
 engpicka.app.link
 en-in.picturestyle.net
@@ -2266,6 +2291,7 @@ events.iap.unity3d.com
 events.launchdarkly.com
 events.mz.unity3d.com
 events.nordeus.com
+events.prod.anzu-cloud.com
 event.togothermany.com
 everflowclient.io
 everinform.com
@@ -2295,6 +2321,7 @@ ezojs.com
 f001.backblazeb2.com
 f2ecdn.com
 f.360safe.com
+F7s4U^@-dnsotls-ds.metric.gstatic.com
 fa.4sync.com
 factors.sofire.baidu.com
 fafa.bar
@@ -2500,6 +2527,7 @@ gbwhatsapp.download
 gcb-app.herokuapp.com
 gcmapi.like-it.video
 gcp.api.snapchat.com
+gcp-cdn-hct.icolor.app
 gcp-img.slatic.net
 gcs.sc-cdn.net
 gcsu.ucweb.com
@@ -2676,6 +2704,7 @@ gurume.screenconnect.com
 gvod.aiseejapp.atianqi.com
 gw.alicdn.com
 gw.alipayobjects.com
+gwbudgetali.iymedia.me
 gw-dana.ebuckler.com
 gw-napi.zepeto.io
 gw.ruangguru.com
@@ -3223,6 +3252,7 @@ k2.midasplayer.com
 kagaitiktok.net
 kaiyun.com
 kantora.ge
+k-api.adaether.com
 k-api.kwai-pro.com
 k-api.kwaipros.com
 kargo.com
@@ -3254,6 +3284,8 @@ kissmetrics.com
 kiwibrowser.org
 kiwiirc.com
 kix-api.kwai-pro.com
+kix-api.kwaipros.com
+kix-api.mythad.com
 kix-ulog.kwai-pro.com
 kix-ulog.kwaipros.com
 kj9atb.hai8j1.com
@@ -3397,6 +3429,7 @@ live.glance.com
 livejournal.naydex.net
 livelbs.dinoyy.xyz
 livelbs.ukyuh.tech
+live.saygames.io
 live.shopee.co.id
 livetech.live.shopee.co.id
 livetech.shopee.co.id
@@ -3422,8 +3455,10 @@ log-collector.shopee.co.id
 logging.baca.co.id
 log.goodnovel.com
 log.hm.baidu.com
+logic.anzuinfra.com
 login.360safe.com
 login5.spotify.com
+login.cambridge.org
 logindolar138.com
 login.im.qcloud.com
 login.sc.funminigame.com
@@ -3686,6 +3721,7 @@ mindworks-creative.com
 minecraftprod.rtep.msgamestudios.com
 minecrafttweaker.net
 mingyi.sogou.com
+mini5-1.opera-mini.net
 mini5.opera-mini.net
 mini.fbunion.com
 minonav.com
@@ -3879,6 +3915,7 @@ nepel50.1igry.com
 nestledmph.com
 netdna-ssl.com
 netflix-widget.metranet.co.id
+net.mtgglobals.com
 netpayjob.com
 net.simontok.site
 netstorage-legit.akamaized.net
@@ -4051,6 +4088,8 @@ ntp6.aliyun.com
 ntp7.aliyun.com
 ntp.aliyun.com
 ntp.uvfuns.com
+nts.netnod.se
+nts.sth1.ntp.se
 nuomi.com
 nurd.com
 nxtck.com
@@ -4189,6 +4228,7 @@ osb-eusvc.samsungqbe.com
 osfeature.shalltry.com
 osf.io
 oshola.shalltry.com
+osjs.netcoresmartech.com
 oslab.shalltry.com
 os-notice.shalltry.com
 oss-cdn.aliyun-inc.com
@@ -4360,6 +4400,7 @@ pgepodownload.mediatek.com
 phala.one
 ph.bignox.com
 phelp.pro
+phinf.wevpstatic.net
 phone-api.realme.com
 phone.bignox.com
 phonedeviceverification-pa.googleapis.com
@@ -4449,6 +4490,7 @@ pogoda.imgsmail.ru
 point-of-entry.com
 pointone.tech
 pokigame.io
+pok.mintegral.net
 polaris-static.kwai.net
 policy-tcp.mtgglobals.com
 policy-tcp.rayjump.com
@@ -4478,6 +4520,7 @@ pou.me
 poumod.com
 powerad.ai
 pppbr.com
+pps-log.feednews.com
 pps-token.feednews.com
 pps-token.op-mobile.opera.com
 pr46m.vps.myjino.ru
@@ -4582,6 +4625,7 @@ pushimg.com
 pushmart.net
 pushmessage.samsung.com
 pushprofit.net
+push-video.wshareit.com
 pushwoosh.com
 pushycat.net
 puui.wetvinfo.com
@@ -5393,6 +5437,7 @@ stickyadstv.com
 sti.dtignite.com
 stilfb.com
 st.like-it.video
+stonkstime.com
 stoomawy.net
 storage.billy.bendingspoons.com
 storage.pardot.com
@@ -5457,6 +5502,7 @@ s-usc1f-nss-2505.firebaseio.com
 s-usc1f-nss-2513.firebaseio.com
 s-usc1f-nss-2515.firebaseio.com
 s-usc1f-nss-2517.firebaseio.com
+s-usc1f-nss-2550.firebaseio.com
 s.usea01.idio.episerver.net
 s-v6exp1-ds.metric.gstatic.com
 svibeacon.onezapp.com
@@ -5515,6 +5561,8 @@ tapad.com
 tapfiliate.com
 t.api.kikakeyboard.com
 tap.io
+t-api-snack.kwai-pro.com
+t-api-snack.kwaipros.com
 tapjoy-docs-production.s3.us-east-2.amazonaws.com
 tappco.go2cloud.org
 t.appsflyer.com
@@ -5731,6 +5779,8 @@ ttdetect.staticimgfarm.com
 tubesex.uno
 tubia.com
 tui.bignox.com
+t-ulog-snack.kwai-pro.com
+t-ulog-snack.kwaipros.com
 tunaikilat.com
 tunnel.googlezip.net
 tuplgpub.bangcdn.net
@@ -6442,6 +6492,7 @@ www.braze.com
 www.buyquadair.com
 www.buyskyquad.com
 www.calconic.com
+www.cambridge.org
 www.carcflma.de
 www.caren.live
 www.carx-online.com
@@ -6689,6 +6740,7 @@ www.rollbit.com
 www.roobet.com
 www.royaldominos.com
 www.salesforce.com
+www.samsungknox.com
 www.sape.ru
 www.sas-autos.com
 www.sbw9188.com
@@ -6938,6 +6990,7 @@ www.zing.vn
 www.ziprararchiver.com
 www.zuiqiangyingyu.net
 wx.qq.com
+wzrkt.com
 w-zt.kwaipros.com
 x1.i.lencr.org
 x8sb.com
@@ -6991,6 +7044,7 @@ xf23f98c.app-ads-txt.com
 xgapromomanager-pa.googleapis.com
 x.glance-cdn.com
 x.glance-cdn.net
+xhr.invl.co
 x-id.ls.glanceapis.com
 x-id-mob.glance-cdn.com
 ximg.us
@@ -7051,6 +7105,7 @@ xyz.svr-algorix.com
 y2mate.com
 y5en.com
 yadro.ru
+yads.c.yimg.jp
 yandex.com
 yandex.net
 yandex.ru

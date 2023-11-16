@@ -803,6 +803,7 @@ et-ee.facebook.com
 expeditors.facebook.com
 external.ak.fbcdn.net
 external-cdt1-1.xx.fbcdn.net
+external-cgk1-1.xx.fbcdn.net
 external.facc1-1.fna.fbcdn.net
 external.fada1-10.fna.fbcdn.net
 external.fada1-1.fna.fbcdn.net
@@ -1674,6 +1675,7 @@ instagram.fbna1-1.fna.fbcdn.net
 instagram.fbom10-1.fna.fbcdn.net
 instagram.fbom11-1.fna.fbcdn.net
 instagram.fbom19-2.fna.fbcdn.net
+instagram.fbom3-2.fna.fbcdn.net
 instagram.fbru2-1.fna.fbcdn.net
 instagram.fbsb11-1.fna.fbcdn.net
 instagram.fbsb1-1.fna.fbcdn.net
@@ -3895,6 +3897,7 @@ snr.whatsapp.net
 social.facebook.com
 softtech.m.facebook.com
 sok.m.facebook.com
+sonar6-cgk1-1.xx.fbcdn.net
 sonar6.fcgk37-1.fna.fbcdn.net
 sonar6-hkt1-1.xx.fbcdn.net
 sonar6-sea1-1.xx.fbcdn.net
@@ -3953,8 +3956,10 @@ sonar.fcgk29-1.fna.fbcdn.net
 sonar.fcgk30-1.fna.fbcdn.net
 sonar.fcgk31-1.fna.fbcdn.net
 sonar.fcgk3-1.fna.fbcdn.net
+sonar.fcgk3-1.fna.whatsapp.net
 sonar.fcgk32-1.fna.fbcdn.net
 sonar.fcgk3-2.fna.fbcdn.net
+sonar.fcgk3-2.fna.whatsapp.net
 sonar.fcgk33-1.fna.fbcdn.net
 sonar.fcgk3-3.fna.fbcdn.net
 sonar.fcgk34-1.fna.fbcdn.net
@@ -4133,6 +4138,7 @@ static.fadl5-1.fna.fbcdn.net
 static.fadl6-1.fna.fbcdn.net
 static.fadl7-1.fna.fbcdn.net
 static.fadl7-2.fna.fbcdn.net
+static-fallback.xx.fbcdn.net
 static.faqa1-1.fna.fbcdn.net
 static.fauh1-1.fna.fbcdn.net
 static.fbdj1-1.fna.fbcdn.net
@@ -5879,6 +5885,7 @@ z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
 z-m-fbcdn-shv-01-frt3.fbcdn.net
 z-m-gateway.facebook.com
 z-m-graph.facebook.com
+z-m-graph-fallback.facebook.com
 z-m-lookaside.facebook.com
 z-m-portal.fb.com
 z-m-rupload.facebook.com
@@ -5894,6 +5901,7 @@ z-m-scontent-cai.xx.fbcdn.net
 z-m-scontent-cdg.xx.fbcdn.net
 z-m-scontent-cdt.xx.fbcdn.net
 z-m-scontent-cgk1-1.xx.fbcdn.net
+z-m-scontent-cgk1-2.xx.fbcdn.net
 z-m-scontent-dft.xx.fbcdn.net
 z-m-scontent-eze.xx.fbcdn.net
 z-m-scontent.facc1-1.fna.fbcdn.net

@@ -804,6 +804,7 @@
 0.0.0.0 expeditors.facebook.com
 0.0.0.0 external.ak.fbcdn.net
 0.0.0.0 external-cdt1-1.xx.fbcdn.net
+0.0.0.0 external-cgk1-1.xx.fbcdn.net
 0.0.0.0 external.facc1-1.fna.fbcdn.net
 0.0.0.0 external.fada1-10.fna.fbcdn.net
 0.0.0.0 external.fada1-1.fna.fbcdn.net
@@ -1675,6 +1676,7 @@
 0.0.0.0 instagram.fbom10-1.fna.fbcdn.net
 0.0.0.0 instagram.fbom11-1.fna.fbcdn.net
 0.0.0.0 instagram.fbom19-2.fna.fbcdn.net
+0.0.0.0 instagram.fbom3-2.fna.fbcdn.net
 0.0.0.0 instagram.fbru2-1.fna.fbcdn.net
 0.0.0.0 instagram.fbsb11-1.fna.fbcdn.net
 0.0.0.0 instagram.fbsb1-1.fna.fbcdn.net
@@ -3905,6 +3907,7 @@
 0.0.0.0 social.facebook.com
 0.0.0.0 softtech.m.facebook.com
 0.0.0.0 sok.m.facebook.com
+0.0.0.0 sonar6-cgk1-1.xx.fbcdn.net
 0.0.0.0 sonar6.fcgk37-1.fna.fbcdn.net
 0.0.0.0 sonar6-hkt1-1.xx.fbcdn.net
 0.0.0.0 sonar6-sea1-1.xx.fbcdn.net
@@ -3963,8 +3966,10 @@
 0.0.0.0 sonar.fcgk30-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk31-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk3-1.fna.fbcdn.net
+0.0.0.0 sonar.fcgk3-1.fna.whatsapp.net
 0.0.0.0 sonar.fcgk32-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk3-2.fna.fbcdn.net
+0.0.0.0 sonar.fcgk3-2.fna.whatsapp.net
 0.0.0.0 sonar.fcgk33-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk3-3.fna.fbcdn.net
 0.0.0.0 sonar.fcgk34-1.fna.fbcdn.net
@@ -4143,6 +4148,7 @@
 0.0.0.0 static.fadl6-1.fna.fbcdn.net
 0.0.0.0 static.fadl7-1.fna.fbcdn.net
 0.0.0.0 static.fadl7-2.fna.fbcdn.net
+0.0.0.0 static-fallback.xx.fbcdn.net
 0.0.0.0 static.faqa1-1.fna.fbcdn.net
 0.0.0.0 static.fauh1-1.fna.fbcdn.net
 0.0.0.0 static.fbdj1-1.fna.fbcdn.net
@@ -5889,6 +5895,7 @@
 0.0.0.0 z-m-fbcdn-shv-01-frt3.fbcdn.net
 0.0.0.0 z-m-gateway.facebook.com
 0.0.0.0 z-m-graph.facebook.com
+0.0.0.0 z-m-graph-fallback.facebook.com
 0.0.0.0 z-m-lookaside.facebook.com
 0.0.0.0 z-m-portal.fb.com
 0.0.0.0 z-m-rupload.facebook.com
@@ -5904,6 +5911,7 @@
 0.0.0.0 z-m-scontent-cdg.xx.fbcdn.net
 0.0.0.0 z-m-scontent-cdt.xx.fbcdn.net
 0.0.0.0 z-m-scontent-cgk1-1.xx.fbcdn.net
+0.0.0.0 z-m-scontent-cgk1-2.xx.fbcdn.net
 0.0.0.0 z-m-scontent-dft.xx.fbcdn.net
 0.0.0.0 z-m-scontent-eze.xx.fbcdn.net
 0.0.0.0 z-m-scontent.facc1-1.fna.fbcdn.net

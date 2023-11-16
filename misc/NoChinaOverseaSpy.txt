@@ -134,6 +134,7 @@ sdkserver-dra.op.dbankcloud.cn
 search.kuwo.cn
 sentry.zhaopin.com
 share.wedobest.com.cn
+shuzilm.cn
 sina.cn
 sina.com.cn
 sinaimg.cn

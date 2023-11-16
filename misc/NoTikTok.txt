@@ -1717,6 +1717,7 @@ live.tiktok.com
 l.l.bytedns.net
 lms-ns.byteoversea.com
 location-traceroute-sg.bytedance.com
+location-v6-va.tiktokv.com
 location-va.tiktokv.com
 loc.snssdk.com
 log15.byteoversea.com
@@ -1867,6 +1868,7 @@ mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-useast1a.tiktokv.com
 mon19-normal-useast1a.tiktokv.com
 mon22-normal-useast1a.tiktokv.com
+mon31-normal-useast1a.tiktokv.com
 mon-alias1.snssdk.com
 mon.byteoversea.com
 mon.byteoversea.com.edgesuite.net
@@ -2102,6 +2104,8 @@ p16-capcut-va.ibyteimg.com
 p16-capcut-va.ibyteimg.com.edgesuite.net
 p16-catalog-sg.ibyteimg.com
 p16-cg-gaudit.ibyteimg.com
+p16-g1-sign-sg.ibyteimg.com
+p16-g1-sign-va.ibyteimg.com
 p16-h1-sign-va.ibyteimg.com
 p16hypstarcdn-a.akamaihd.net
 p16hypstarcdn-a.akamaihd.net.edgesuite.net
@@ -2184,6 +2188,7 @@ p16-tk.tiktokcdn.com.edgesuite.net
 p16.toutiao50.com
 p16-ttam-va.ibyteimg.com
 p16-ulike-sg.ibyteimg.com
+p16-useast2a.tiktokcdn.com
 p16-va-default.akamaized.net
 p16-va-default.edgesuite.net
 p16-va.hypstarcdn.com
@@ -3243,6 +3248,7 @@ sf3-webcast-ttcdn.byteimg.com
 sf3-webcast-xgcdn.byteimg.com
 sf3-xgcdn-tos.pstatp.com
 sf4-ttcdn-tos.pstatp.com
+sf53-ies-music-sg.tiktokcdn.com
 sf53-ies-music-va.tiktokcdn.com
 sf53-sg.tiktokcdn.com
 sf53-va.tiktokcdn.com
@@ -4013,6 +4019,7 @@ v3-xg.ixigua.com.xi.zwtianshangm.com
 v3-xg-m.bytecdn.cn
 v3-xg-n.bytecdn.cn
 v3-xg-p.bytecdn.cn
+v45-p.tiktokcdn.com
 v4-dy.ixigua.com
 v4-dy.ixiguavideo.com
 v4-dy-x.ixigua.com

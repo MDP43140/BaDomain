@@ -224,6 +224,7 @@ collector-playground.lunalabs.uk
 company-target.com
 comsecurityessentials.support
 conf-snake.esa.heytapmobi.com
+conn-service-gl-03.allawntech.com
 consensu.org
 contextads.live
 convertexperiments.com
@@ -980,6 +981,7 @@ xdplt.com
 xitong.xiaomi.com
 xjke.xyz
 xlmc.sec.miui.com
+xn--80aa2cah8a7f73b.com
 xn--eepass-vbb.info
 xpush.site
 xshare.api.xiaomi.com

@@ -66,6 +66,7 @@
 0.0.0.0 asia-vcode-od.vivoglobal.com
 0.0.0.0 asia-vcode-or.vivoglobal.com
 0.0.0.0 asia-vnote.vivoglobal.com
+0.0.0.0 asia-vpush-static.vivoglobal.com
 0.0.0.0 asia-weather.vivoglobal.com
 0.0.0.0 asia-wifi.vivoglobal.com
 0.0.0.0 az.appstore.vivo.com

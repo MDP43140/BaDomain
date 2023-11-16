@@ -1717,6 +1717,7 @@
 0.0.0.0 l.l.bytedns.net
 0.0.0.0 lms-ns.byteoversea.com
 0.0.0.0 location-traceroute-sg.bytedance.com
+0.0.0.0 location-v6-va.tiktokv.com
 0.0.0.0 location-va.tiktokv.com
 0.0.0.0 loc.snssdk.com
 0.0.0.0 log15.byteoversea.com
@@ -1867,6 +1868,7 @@
 0.0.0.0 mon16-normal-useast1a.tiktokv.com
 0.0.0.0 mon19-normal-useast1a.tiktokv.com
 0.0.0.0 mon22-normal-useast1a.tiktokv.com
+0.0.0.0 mon31-normal-useast1a.tiktokv.com
 0.0.0.0 mon-alias1.snssdk.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.byteoversea.com.edgesuite.net
@@ -2102,6 +2104,8 @@
 0.0.0.0 p16-capcut-va.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-catalog-sg.ibyteimg.com
 0.0.0.0 p16-cg-gaudit.ibyteimg.com
+0.0.0.0 p16-g1-sign-sg.ibyteimg.com
+0.0.0.0 p16-g1-sign-va.ibyteimg.com
 0.0.0.0 p16-h1-sign-va.ibyteimg.com
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
 0.0.0.0 p16hypstarcdn-a.akamaihd.net.edgesuite.net
@@ -2184,6 +2188,7 @@
 0.0.0.0 p16.toutiao50.com
 0.0.0.0 p16-ttam-va.ibyteimg.com
 0.0.0.0 p16-ulike-sg.ibyteimg.com
+0.0.0.0 p16-useast2a.tiktokcdn.com
 0.0.0.0 p16-va-default.akamaized.net
 0.0.0.0 p16-va-default.edgesuite.net
 0.0.0.0 p16-va.hypstarcdn.com
@@ -3243,6 +3248,7 @@
 0.0.0.0 sf3-webcast-xgcdn.byteimg.com
 0.0.0.0 sf3-xgcdn-tos.pstatp.com
 0.0.0.0 sf4-ttcdn-tos.pstatp.com
+0.0.0.0 sf53-ies-music-sg.tiktokcdn.com
 0.0.0.0 sf53-ies-music-va.tiktokcdn.com
 0.0.0.0 sf53-sg.tiktokcdn.com
 0.0.0.0 sf53-va.tiktokcdn.com
@@ -4013,6 +4019,7 @@
 0.0.0.0 v3-xg-m.bytecdn.cn
 0.0.0.0 v3-xg-n.bytecdn.cn
 0.0.0.0 v3-xg-p.bytecdn.cn
+0.0.0.0 v45-p.tiktokcdn.com
 0.0.0.0 v4-dy.ixigua.com
 0.0.0.0 v4-dy.ixiguavideo.com
 0.0.0.0 v4-dy-x.ixigua.com
