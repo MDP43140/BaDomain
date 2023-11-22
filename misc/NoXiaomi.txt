@@ -247,6 +247,7 @@ sg-idm.api.io.mi.com
 sg.idm.iot.mi.com
 sgpac.account.xiaomi.com
 sgp-api.huangye.intl.miui.com
+sgp-cdn.video.intl.xiaomi.com
 sg-urc.io.mi.com
 shoes.app-xae.xiaomi.com
 srv.sec.intl.miui.com

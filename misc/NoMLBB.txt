@@ -22,4 +22,5 @@ play.mobilelegends.com
 report.ml.youngjoygame.com
 track.bi.moonton.com
 wscdn.ml.youngjoygame.com
+www.mobilelegends.com
 youngjoygame.com

@@ -1734,6 +1734,7 @@
 0.0.0.0 instagram.fcgk39-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk40-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk41-1.fna.fbcdn.net
+0.0.0.0 instagram.fcgk42-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk4-2.fna.fbcdn.net
 0.0.0.0 instagram.fcgk43-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk4-3.fna.fbcdn.net
@@ -2309,15 +2310,18 @@
 0.0.0.0 logger.instagram.com
 0.0.0.0 login.facebook.com
 0.0.0.0 lookaside.facebook.com
+0.0.0.0 lookaside-fallback.facebook.com
 0.0.0.0 lv-lv.facebook.com
 0.0.0.0 m2.facebook.com
 0.0.0.0 mahindra.m.facebook.com
+0.0.0.0 m.ak.fbcdn.net
 0.0.0.0 mapiliary.com
 0.0.0.0 maps.instagram.com
 0.0.0.0 marriott.facebook.com
 0.0.0.0 mbasic.facebook.com
 0.0.0.0 media-cgk1-1.cdn.whatsapp.net
 0.0.0.0 media-cgk1-2.cdn.whatsapp.net
+0.0.0.0 media-cgk1-3.cdn.whatsapp.net
 0.0.0.0 media.facc1-1.fna.whatsapp.net
 0.0.0.0 media.fadl3-1.fna.whatsapp.net
 0.0.0.0 media.fadl4-1.fna.whatsapp.net
@@ -3160,7 +3164,9 @@
 0.0.0.0 #
 0.0.0.0 not
 0.0.0.0 exist
+0.0.0.0 scontent-den4-1.cdninstagram.com
 0.0.0.0 scontent-dfw5-1.xx.fbcdn.net
+0.0.0.0 scontent-dfw5-2.xx.fbcdn.net
 0.0.0.0 scontent-dfw.xx.fbcdn.net
 0.0.0.0 scontent-d.xx.fbcdn.net
 0.0.0.0 #
@@ -3841,6 +3847,7 @@
 0.0.0.0 scontent-lga3-1.xx.fbcdn.net
 0.0.0.0 scontent-lga.xx.fbcdn.net
 0.0.0.0 scontent-lhr3-1.xx.fbcdn.net
+0.0.0.0 scontent-lhr8-2.cdninstagram.com
 0.0.0.0 scontent-lhr.xx.fbcdn.net
 0.0.0.0 scontent-lht6-1.xx.fbcdn.net
 0.0.0.0 scontent-mia.xx.fbcdn.net
@@ -3849,8 +3856,10 @@
 0.0.0.0 scontent-mxp.xx.fbcdn.net
 0.0.0.0 scontent-nrt1-1.cdninstagram.com
 0.0.0.0 scontent-nrt1-1.xx.fbcdn.net
+0.0.0.0 scontent-ord5-2.cdninstagram.com
 0.0.0.0 scontent-ord.xx.fbcdn.net
 0.0.0.0 scontent-otp1-1.xx.fbcdn.net
+0.0.0.0 scontent-sea1-1.cdninstagram.com
 0.0.0.0 scontent-sea1-1.xx.fbcdn.net
 0.0.0.0 scontent-sea.xx.fbcdn.net
 0.0.0.0 scontent-sin6-1.cdninstagram.com
@@ -3864,6 +3873,7 @@
 0.0.0.0 scontent-sin.xx.fbcdn.net
 0.0.0.0 scontent-sit4-1.xx.fbcdn.net
 0.0.0.0 scontent-sjc2-1.xx.fbcdn.net
+0.0.0.0 scontent-sjc3-1.cdninstagram.com
 0.0.0.0 scontent-sjc.xx.fbcdn.net
 0.0.0.0 scontent-sof1-1.xx.fbcdn.net
 0.0.0.0 scontent-ssn1-1.cdninstagram.com
@@ -3908,6 +3918,7 @@
 0.0.0.0 softtech.m.facebook.com
 0.0.0.0 sok.m.facebook.com
 0.0.0.0 sonar6-cgk1-1.xx.fbcdn.net
+0.0.0.0 sonar6-cgk1-3.xx.fbcdn.net
 0.0.0.0 sonar6.fcgk37-1.fna.fbcdn.net
 0.0.0.0 sonar6-hkt1-1.xx.fbcdn.net
 0.0.0.0 sonar6-sea1-1.xx.fbcdn.net
@@ -3929,6 +3940,7 @@
 0.0.0.0 sonar-cdt1-1.xx.fbcdn.net
 0.0.0.0 sonar-cgk1-1.xx.fbcdn.net
 0.0.0.0 sonar-cgk1-2.xx.fbcdn.net
+0.0.0.0 sonar-cgk1-3.xx.fbcdn.net
 0.0.0.0 sonar-cgk.cdn.whatsapp.net
 0.0.0.0 sonar-cgk.xx.fbcdn.net
 0.0.0.0 sonar-cph2-1.xx.fbcdn.net

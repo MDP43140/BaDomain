@@ -429,9 +429,11 @@ api.amemv.com.w.kunluncan.com
 api.amemv.com.xi.zwtianshangm.com
 api-bee.amemv.com
 api-bee-hl.amemv.com
+api-boot.tiktokv.com
 api.bytedance.net
 api-c.amemv.com
 api-c.amemv.com.w.kunluncan.com
+api-core-boot.tiktokv.com
 api-core.tiktokv.com
 api-core-va.tiktokv.com
 api-core-va.tiktokv.com.edgesuite.net
@@ -1145,6 +1147,7 @@ gecko16-normal-c-useast2a.tiktokv.com.edgesuite.net
 gecko16-normal-useast2a.tiktokv.com
 gecko22-normal-useast2a.tiktokv.com
 gecko31-normal-useast2a.tiktokv.com
+gecko-boot.tiktokv.com
 gecko-cold.snssdk.com
 gecko-hl.snssdk.com
 gecko-hl.snssdk.com.w.kunluncan.com
@@ -1196,6 +1199,7 @@ growingio.com
 gs.bytedance.net
 gsdk19-va.bytegsdk.com
 gsdk-quic-gcp-va.bytegsdk.com
+gsdk-sg.bytegsdk.com
 gsdk.sgsnssdk.com
 gsdk.snssdk.com
 gsdk-va.bytegsdk.com
@@ -1751,6 +1755,7 @@ log58-normal-c-alisg.tiktokv.com
 log77-normal-c-alisg.tiktokv.com
 log9-normal-c-alisg.tiktokv.com
 log.avlyun.com
+log-boot.tiktokv.com
 log.bytedance.net
 log.byteoversea.com
 log.byteoversea.com.edgekey.net
@@ -2104,7 +2109,9 @@ p16-capcut-va.ibyteimg.com
 p16-capcut-va.ibyteimg.com.edgesuite.net
 p16-catalog-sg.ibyteimg.com
 p16-cg-gaudit.ibyteimg.com
+p16-d1-sign-va.ibyteimg.com
 p16-g1-sign-sg.ibyteimg.com
+p16-g1-sign-useast2a.ibyteimg.com
 p16-g1-sign-va.ibyteimg.com
 p16-h1-sign-va.ibyteimg.com
 p16hypstarcdn-a.akamaihd.net
@@ -2125,6 +2132,7 @@ p16-musical-va-ab.ibyteimg.com
 p16-musical-va-ab.ibyteimg.com.edgesuite.net
 p16-musical-va.ibyteimg.com
 p16-musical-va.ibyteimg.com.edgesuite.net
+p16-novel-sg.ibyteimg.com
 p16-oec-common-useast2a.ibyteimg.com
 p16-oec-sg.ibyteimg.com
 p16-oec-sg.ibyteimg.com.edgesuite.net
@@ -2212,6 +2220,7 @@ p19-capcut-sg.ibyteimg.com
 p19-capcut-va.ibyteimg.com
 p19-catalog-sg.ibyteimg.com
 p19.hypstarcdn.com
+p19-novel-sg.ibyteimg.com
 p-19-oec-sg.ibyteimg.com
 p19-oec-sg.ibyteimg.com
 p19-oec-sg.ibyteimg.com.edgesuite.net
@@ -2272,6 +2281,7 @@ p1-xg.bytecdn.cn
 p1-xg.byteimg.com
 p1-xg.pstatp.com
 p1-xg.pstatp.com.wsglb0.com
+p21-ad-sg.ibyteimg.com
 p21-webcast.hypstarcdn.com
 p21-webcast.muscdn.com
 p21-webcast.tiktokcdn.com
@@ -3511,6 +3521,7 @@ tnc3-alisc1.bytedance.com
 tnc3-alisc1.snssdk.com
 tnc3-bjlgy.bytedance.com
 tnc3-bjlgy.snssdk.com
+tnc-boot.tiktokv.com
 tobapplog.ctobsnssdk.com
 tobapplog.snssdk.com
 tobapplog.snssdk.com.w.kunluncan.com
@@ -4174,6 +4185,7 @@ vcl-brain.snssdk.com
 vc-mirror.snssdk.com
 vc-postal.snssdk.com
 vc-pservice.snssdk.com
+vcs-boot.tiktokv.com
 vcs-i18n.tiktokv.com
 vcs-sg.byteintl.com
 vcs-sg.byteoversea.com
@@ -4403,6 +4415,7 @@ webcast3-ws-c-lq.amemv.com.w.cdngslb.com
 webcast.amemv.com
 webcast.amemv.com.w.kunluncan.com
 webcast.amemv.com.xi.zwtianshangm.com
+webcast-boot.tiktokv.com
 webcast-c.amemv.com
 webcast-c.amemv.com.w.cdngslb.com
 webcast-c-hl.amemv.com

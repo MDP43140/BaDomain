@@ -1733,6 +1733,7 @@ instagram.fcgk38-1.fna.fbcdn.net
 instagram.fcgk39-1.fna.fbcdn.net
 instagram.fcgk40-1.fna.fbcdn.net
 instagram.fcgk41-1.fna.fbcdn.net
+instagram.fcgk42-1.fna.fbcdn.net
 instagram.fcgk4-2.fna.fbcdn.net
 instagram.fcgk43-1.fna.fbcdn.net
 instagram.fcgk4-3.fna.fbcdn.net
@@ -2308,15 +2309,18 @@ lntinfotech.m.facebook.com
 logger.instagram.com
 login.facebook.com
 lookaside.facebook.com
+lookaside-fallback.facebook.com
 lv-lv.facebook.com
 m2.facebook.com
 mahindra.m.facebook.com
+m.ak.fbcdn.net
 mapiliary.com
 maps.instagram.com
 marriott.facebook.com
 mbasic.facebook.com
 media-cgk1-1.cdn.whatsapp.net
 media-cgk1-2.cdn.whatsapp.net
+media-cgk1-3.cdn.whatsapp.net
 media.facc1-1.fna.whatsapp.net
 media.fadl3-1.fna.whatsapp.net
 media.fadl4-1.fna.whatsapp.net
@@ -3156,7 +3160,9 @@ scontent-cgk1-1.xx.fbcdn.net
 scontent-cgk1-2.cdninstagram.com
 scontent-cgk1-2.xx.fbcdn.net
 scontent-c.xx.fbcdn.net # not exist
+scontent-den4-1.cdninstagram.com
 scontent-dfw5-1.xx.fbcdn.net
+scontent-dfw5-2.xx.fbcdn.net
 scontent-dfw.xx.fbcdn.net
 scontent-d.xx.fbcdn.net # not exist
 scontent-e.xx.fbcdn.net # not exist
@@ -3831,6 +3837,7 @@ scontent-lax.xx.fbcdn.net
 scontent-lga3-1.xx.fbcdn.net
 scontent-lga.xx.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net
+scontent-lhr8-2.cdninstagram.com
 scontent-lhr.xx.fbcdn.net
 scontent-lht6-1.xx.fbcdn.net
 scontent-mia.xx.fbcdn.net
@@ -3839,8 +3846,10 @@ scontent-mxp1-1.xx.fbcdn.net
 scontent-mxp.xx.fbcdn.net
 scontent-nrt1-1.cdninstagram.com
 scontent-nrt1-1.xx.fbcdn.net
+scontent-ord5-2.cdninstagram.com
 scontent-ord.xx.fbcdn.net
 scontent-otp1-1.xx.fbcdn.net
+scontent-sea1-1.cdninstagram.com
 scontent-sea1-1.xx.fbcdn.net
 scontent-sea.xx.fbcdn.net
 scontent-sin6-1.cdninstagram.com
@@ -3854,6 +3863,7 @@ scontent-sin6-4.xx.fbcdn.net
 scontent-sin.xx.fbcdn.net
 scontent-sit4-1.xx.fbcdn.net
 scontent-sjc2-1.xx.fbcdn.net
+scontent-sjc3-1.cdninstagram.com
 scontent-sjc.xx.fbcdn.net
 scontent-sof1-1.xx.fbcdn.net
 scontent-ssn1-1.cdninstagram.com
@@ -3898,6 +3908,7 @@ social.facebook.com
 softtech.m.facebook.com
 sok.m.facebook.com
 sonar6-cgk1-1.xx.fbcdn.net
+sonar6-cgk1-3.xx.fbcdn.net
 sonar6.fcgk37-1.fna.fbcdn.net
 sonar6-hkt1-1.xx.fbcdn.net
 sonar6-sea1-1.xx.fbcdn.net
@@ -3919,6 +3930,7 @@ sonar-cdg2-1.xx.fbcdn.net
 sonar-cdt1-1.xx.fbcdn.net
 sonar-cgk1-1.xx.fbcdn.net
 sonar-cgk1-2.xx.fbcdn.net
+sonar-cgk1-3.xx.fbcdn.net
 sonar-cgk.cdn.whatsapp.net
 sonar-cgk.xx.fbcdn.net
 sonar-cph2-1.xx.fbcdn.net

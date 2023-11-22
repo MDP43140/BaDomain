@@ -365,6 +365,7 @@ p65-escrowproxy.icloud.com
 p66-caldav.icloud.com
 p66-escrowproxy.icloud.com
 p66-keyvalueservice.icloud.com
+p67-bookmarks.icloud.com
 p67-caldav.icloud.com
 p67-escrowproxy.icloud.com
 p68-caldav.icloud.com
