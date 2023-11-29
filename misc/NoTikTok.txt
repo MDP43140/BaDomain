@@ -1746,6 +1746,7 @@ log2-useast1a.musical.ly
 log2-useast1a.musical.ly.edgekey.net
 log2-useast2a.musical.ly
 log2-useast2a.musical.ly.edgekey.net
+log31-normal-useast1a.tiktokv.com
 log3-ipv6.snssdk.com
 log3-normal-c-alisg.tiktokv.com
 log3-normal-c-useast1a.tiktokv.com
@@ -2812,6 +2813,7 @@ pull-q5-gcp01.tiktokcdn.com
 pull-q5-sg01.fcdn.eu.tiktokcdn.com
 pull-q5-sg01.tiktokcdn.com
 pull-q5-sg01.tiktokcdn-us.com
+pull-q5-sg01.ttlivecdn.com
 pull-q5.tiktokcdn.com
 pull-q5.tiktokcdn.com.c.worldfcdn.com
 pull-q5-va01.fcdn.eu.tiktokcdn.com
@@ -2865,6 +2867,7 @@ pull-w5-gcp01.tiktokcdn.com
 pull-w5-sg01.fcdn.eu.tiktokcdn.com
 pull-w5-sg01.tiktokcdn.com
 pull-w5-sg01.tiktokcdn-us.com
+pull-w5-sg01.ttlivecdn.com
 pull-w5.tiktokcdn.com
 pull-w5.tiktokcdn.com.c.worldfcdn.com
 pull-w5-va01.fcdn.eu.tiktokcdn.com

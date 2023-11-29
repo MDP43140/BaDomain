@@ -3923,6 +3923,9 @@
 0.0.0.0 sonar6-hkt1-1.xx.fbcdn.net
 0.0.0.0 sonar6-sea1-1.xx.fbcdn.net
 0.0.0.0 sonar6-sin6-1.xx.fbcdn.net
+0.0.0.0 sonar6-xsp1-1.xx.fbcdn.net
+0.0.0.0 sonar6-xsp1-2.xx.fbcdn.net
+0.0.0.0 sonar6-xsp1-3.xx.fbcdn.net
 0.0.0.0 sonar6-xsp2-1.xx.fbcdn.net
 0.0.0.0 sonar6.xy.fbcdn.net
 0.0.0.0 sonar-ams2-1.xx.fbcdn.net
