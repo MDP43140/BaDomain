@@ -160,6 +160,7 @@
 0.0.0.0 gallery.cdn.pandora.xiaomi.com
 0.0.0.0 gallery.pandora.xiaomi.com
 0.0.0.0 gallerysearchapi.micloud.xiaomi.net
+0.0.0.0 gamecenter.api.intl.miui.com
 0.0.0.0 game.xiaomi.com
 0.0.0.0 geofence.sys.miui.com
 0.0.0.0 g.galleryapi.micloud.xiaomi.net

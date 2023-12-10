@@ -100,11 +100,13 @@ amazon.hksupd.com
 amdc-wapa-akamai.lazada.com
 amgdgt.com
 amibios-updater.com
+amp.top
 analysis.mangatoon.mobi
 android.bignox.com
 antivirusphonenumber.org
 api-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
 api.admob.xiaomi.com
+api.amp.top
 api.aurogon.intl.miui.com
 api.chat.xiaomi.net
 api.cleanmaster.club
@@ -432,6 +434,7 @@ i.lencr.org
 ilovexclub.net
 image.pandora.xiaomi.com
 images.sc-cdn.net
+images.tokopedia.net.bplslb.com
 ime.api.xiaomi.com
 img.baca.co.id
 img-l.usicdn.com

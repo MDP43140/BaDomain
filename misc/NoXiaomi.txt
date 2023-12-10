@@ -160,6 +160,7 @@ g0.market.mi-img.com
 gallery.cdn.pandora.xiaomi.com
 gallery.pandora.xiaomi.com
 gallerysearchapi.micloud.xiaomi.net
+gamecenter.api.intl.miui.com
 game.xiaomi.com
 geofence.sys.miui.com
 g.galleryapi.micloud.xiaomi.net

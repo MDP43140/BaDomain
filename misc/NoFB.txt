@@ -357,6 +357,7 @@ beta-shv-03-lla1.facebook.com
 beta-shv-04-prn2.facebook.com
 beta-shv-09-frc1.facebook.com
 beta.vvv.facebook.com
+b-fallback.i.instagram.com
 bg-bg.facebook.com
 b-graph.facebook.com
 b-graph-fallback.facebook.com
@@ -520,6 +521,7 @@ edge-atlas-shv-13-frc1.facebook.com
 edge-atlas-shv-17-prn1.facebook.com
 edge-atlas-shv-18-prn1.facebook.com
 edge-chat.facebook.com
+edge-chat.instagram.com
 edge-liverail-shv-01-ams2.facebook.com
 edge-liverail-shv-01-ams3.facebook.com
 edge-liverail-shv-01-ash5.facebook.com
@@ -1470,6 +1472,7 @@ facebookmail.com
 facebook.net
 facebook-web-clients.appspot.com
 fa-ir.facebook.com
+faq.whatsapp.com
 fbcdn.com
 fbcdn.net
 fbcdn-profile-a.akamaihd.net
@@ -3908,7 +3911,9 @@ social.facebook.com
 softtech.m.facebook.com
 sok.m.facebook.com
 sonar6-cgk1-1.xx.fbcdn.net
+sonar6-cgk1-2.xx.fbcdn.net
 sonar6-cgk1-3.xx.fbcdn.net
+sonar6.fbth6-1.fna.fbcdn.net
 sonar6.fcgk37-1.fna.fbcdn.net
 sonar6-hkt1-1.xx.fbcdn.net
 sonar6-sea1-1.xx.fbcdn.net
@@ -3944,6 +3949,7 @@ sonar-dub4-1.xx.fbcdn.net
 sonar-dus1-1.xx.fbcdn.net
 sonar.fbdo3-1.fna.fbcdn.net
 sonar.fbsb1-1.fna.fbcdn.net
+sonar.fbth6-1.fna.fbcdn.net
 sonar.fcgk10-1.fna.fbcdn.net
 sonar.fcgk10-2.fna.fbcdn.net
 sonar.fcgk11-1.fna.fbcdn.net
@@ -5894,6 +5900,7 @@ zh-hk.facebook.com
 zh-tw.facebook.com
 z-m-api.facebook.com
 z-m.c10r.facebook.com
+z-m-external.fcgk3-1.fna.fbcdn.net
 z-m-external.fpku1-3.fna.fbcdn.net
 z-m.facebook.com
 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net

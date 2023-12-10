@@ -2593,8 +2593,10 @@
 0.0.0.0 pull-cmaf-f16.tiktokcdn.com.akamaized.net
 0.0.0.0 pull-cmaf-f16-tt01.fcdn.us.tiktokv.com
 0.0.0.0 pull-cmaf-f16-tt01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-tt01.tiktokcdn-us.com
 0.0.0.0 pull-cmaf-f16-tt02.fcdn.us.tiktokv.com
 0.0.0.0 pull-cmaf-f16-tt02.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-tt02.tiktokcdn-us.com
 0.0.0.0 pull-cmaf-f16-tt02-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-cmaf-f16-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-cmaf-f16-tt03.fcdn.us.tiktokcdn.com
@@ -2608,6 +2610,8 @@
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 pull-cmaf-f77-gcp01.tiktokcdn.com
 0.0.0.0 pull-cmaf-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f77-tt03.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-cmaf-f77-tt03.tiktokcdn.com
 0.0.0.0 pull-cmaf-f77-va01.tiktokcdn.com
 0.0.0.0 pull-cmaf-l10-gcp01.tiktokcdn.com
 0.0.0.0 pull-cmaf-l10-sg01.tiktokcdn.com
@@ -2632,6 +2636,7 @@
 0.0.0.0 pull-f5-sg01.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-f5-sg01.fcdn.us.tiktokv.com
 0.0.0.0 pull-f5-sg01.tiktokcdn.com
+0.0.0.0 pull-f5-sg01.tiktokcdn-us.com
 0.0.0.0 pull-f5-sg01.ttlivecdn.com
 0.0.0.0 pull-f5.tiktokcdn.com
 0.0.0.0 pull-f5.tiktokcdn.com.c.bytetcdn.com
@@ -2645,11 +2650,14 @@
 0.0.0.0 pull-f5-tt02-infra.fcdn.us.tiktokv.com
 0.0.0.0 pull-f5-tt02-intra.fcdn.us.tiktokv.com
 0.0.0.0 pull-f5-tt02.tiktokcdn.com
+0.0.0.0 pull-f5-tt02.tiktokcdn-us.com
 0.0.0.0 pull-f5-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-f5-tt03.tiktokcdn.com
+0.0.0.0 pull-f5-tt03.tiktokcdn-us.com
 0.0.0.0 pull-f5-va01.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-f5-va01.fcdn.us.tiktokv.com
 0.0.0.0 pull-f5-va01.tiktokcdn.com
+0.0.0.0 pull-f5-va01.tiktokcdn-us.com
 0.0.0.0 pull-f5-va01.ttlivecdn.com
 0.0.0.0 pull-f5-vr-gcp01.tiktokcdn.com
 0.0.0.0 pull-f5-vr-sg01.tiktokcdn.com
@@ -2686,9 +2694,11 @@
 0.0.0.0 pull-flv-f77-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-f77-tt01.fcdn.us.tiktokv.com
 0.0.0.0 pull-flv-f77-tt01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-tt01.tiktokcdn-us.com
 0.0.0.0 pull-flv-f77-tt01-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-flv-f77-tt02.fcdn.us.tiktokv.com
 0.0.0.0 pull-flv-f77-tt02.tiktokcdn.com
+0.0.0.0 pull-flv-f77-tt02.tiktokcdn-us.com
 0.0.0.0 pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-flv-f77-tt03.fcdn.us.tiktokcdn.com
@@ -2819,6 +2829,7 @@
 0.0.0.0 pull-q5-va01.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-q5-va01.tiktokcdn.com
 0.0.0.0 pull-q5-va01.tiktokcdn-us.com
+0.0.0.0 pull-q5-va01.ttlivecdn.com
 0.0.0.0 pull-rtmp-f11-ab.tiktokcdn.com
 0.0.0.0 pull-rtmp-f11-gcp01.tiktokcdn.com
 0.0.0.0 pull-rtmp-f11-sg01.tiktokcdn.com
@@ -2873,6 +2884,7 @@
 0.0.0.0 pull-w5-va01.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-w5-va01.tiktokcdn.com
 0.0.0.0 pull-w5-va01.tiktokcdn-us.com
+0.0.0.0 pull-w5-va01.ttlivecdn.com
 0.0.0.0 puppet.bytedance.net
 0.0.0.0 push-fcdn-base-oversea.s.worldfcdn.com
 0.0.0.0 push-fcdn.bytecdn.cn

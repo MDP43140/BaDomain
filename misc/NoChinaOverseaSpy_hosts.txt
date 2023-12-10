@@ -28,6 +28,7 @@
 0.0.0.0 campaign.zhaopin.com
 0.0.0.0 cdn.dms.eyewind.cn
 0.0.0.0 cdn-go.cn
+0.0.0.0 cdn.jagat.cn
 0.0.0.0 cdn.mirrors.com.cn
 0.0.0.0 cdp.cloud.unity.cn
 0.0.0.0 check.unity.cn

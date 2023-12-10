@@ -28,6 +28,7 @@ bounconser.cn
 campaign.zhaopin.com
 cdn.dms.eyewind.cn
 cdn-go.cn
+cdn.jagat.cn
 cdn.mirrors.com.cn
 cdp.cloud.unity.cn
 check.unity.cn

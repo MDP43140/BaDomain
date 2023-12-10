@@ -69,6 +69,7 @@ asia-vnote.vivoglobal.com
 asia-vpush-static.vivoglobal.com
 asia-weather.vivoglobal.com
 asia-wifi.vivoglobal.com
+attr-asia.vivoglobal.com
 az.appstore.vivo.com
 az.appstore.vivo.com.cn
 browserfiles.heytapimg.com
