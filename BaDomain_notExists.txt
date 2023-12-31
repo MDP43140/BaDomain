@@ -36,12 +36,15 @@ a05.uadexchange.com
 a1.applovin.com
 a2.applovin.com
 a3.applovin.com
+a.544002bd63edb7f467e7bd980b0cfffcfce735f84ed0412653c20b31.com
+a.7ad27d9e12b6498b866f609c26a678d8ae8617f4708459063305816d.com
 a.85656294e75e19a70450f62acbcbe68420fd28c93647ac9ddc797a0c.com
 aa-cj.com
 aadg.akadns.net
 a.ak.prd.aadg.trafficmanager.net
 aaplimg.com
 aaxads.com
+a.b94a5ba418783f3d3932956bcc24526579ced8cc72f1846cbec79b53.com
 abackup01.xyz
 abcqueueamax.asus.com
 abcsport3.com
@@ -102,6 +105,7 @@ amgdgt.com
 amibios-updater.com
 amp.top
 analysis.mangatoon.mobi
+analytics.orpheusdroid.com
 android.bignox.com
 antivirusphonenumber.org
 api-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
@@ -128,6 +132,7 @@ apps.ad-x.com
 apps.ad-x.co.uk
 apps.i59400f.xyz
 a.prd.aadg.trafficmanager.net
+apytbfdzy.com
 arstechnica.net
 asianteen.space
 associates-amazon.com
@@ -288,6 +293,7 @@ dt2lb.madfingergames.com
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 easymakesolution.com
 eb1f496297bccfe372065b770b4089c85356073772b9a425a81ec241.com
+ebgkrf-conversions.appsflyersdk.com
 echo-tcp-org.y5en.com
 ecs-110-238-109-184.compute.hwclouds-dns.com
 egirlsarehot.xyz
@@ -466,6 +472,7 @@ jhihfa.hhsjhfjkhffdhfjdjkhfy.xyz
 jixie.media
 jmacs.maribacaberita.com
 jpallnight.com
+jqcyacoxrvada.com
 jrostrogud.com
 jtvnw.net
 jwpcdn.com
@@ -901,6 +908,8 @@ wondersharefilmorasoftware.co
 wp20.ru
 wpscdn.com
 ws-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
+wsamrb-cdn-settings.appsflyersdk.com
+wsamrb-launches.appsflyersdk.com
 wsimg.com
 wuueqejuratzdz.com
 ww38.neimanmarcusshop.online
@@ -910,6 +919,7 @@ www.acckwmhi.com
 www.afterbern.live
 www.agencymrbeast.com
 www.antivirusphonenumber.org
+www.apytbfdzy.com
 www.a-techsolutions.us
 www.audacite.org
 www.audacitya.org
@@ -938,6 +948,7 @@ www.helping365.us
 www.implorewarn.shop
 www.intuitcdn.net
 www.iqzgqivb.com
+www.jqcyacoxrvada.com
 www.jquery.services
 www.livechat.comwww.livechat.com
 www.localnetwork.uop
