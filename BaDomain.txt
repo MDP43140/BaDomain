@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 31.12.2023
+# Version: 17.01.2024
 # Update: 1 day
 #
 
@@ -54,7 +54,6 @@
 1q2w3e4r.vmfreevideo.top
 1r4zu.com
 1.ssiloc.com
-1togel.com
 1.ygti905ffth6.com
 1.zxczj.top
 201205igp.gameloft.com
@@ -116,6 +115,7 @@
 40.ygti905ffth6.com
 41.ygti905ffth6.com
 425439.fs1.hubspotusercontent-na1.net
+4263724d8cad.cdn4.forter.com
 426d5aa4.cubetecn.com
 42trck.com
 42.ygti905ffth6.com
@@ -249,6 +249,7 @@ a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 a.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
 a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
+a.ab87cc9ec2c76f1c4f6d2703ef9e0d56008bc98b157cc3af10a5bfbd.com
 aacdn.nagich.com
 aa-cdn.net
 aadg.trafficmanager.net
@@ -372,6 +373,7 @@ ad-sniper.com
 ads.playground.xyz
 adsrvr.org
 ads.telkomsel.com
+adstub.net
 adsup.togothermany.com
 ads.vidoomy.com
 ads-website.ytsservice.com
@@ -808,6 +810,7 @@ api.samsungconsent.com
 api.sape.ru
 api.scooper.news
 api-sdk.datadome.co
+api-secure.rikka.hn2x.cn
 api.segment.io
 api.sg.mangatoon.mobi
 api-sg.xunyou.mobi
@@ -825,12 +828,6 @@ api.stabcool.tech
 api.stack-sonar.com
 api.staging.livechatinc.com
 api-stream.twitter.com
-api.superbig77.co
-api.superbig77.com
-api.superbig77.net
-api.superbig77.online
-api.superbig77.org
-api.superbig77.xyz
 apis.videorecorderglobalserver.com
 api-swype.swypeconnect.com
 api.taken.guru
@@ -905,6 +902,7 @@ app.bignox.com
 app.biliintl.com
 appbundledownload.com
 app.calconic.com
+app.cdn.lookbookhq.com
 appcfg.v.qq.com
 appcfg.wetvinfo.com
 app.chaport.com
@@ -1174,7 +1172,6 @@ bdimg.com
 bdimg.share.baidu.com
 bdstatic.com
 bdtjrcv.com
-be4242.rcr52.ams03.cdn112.com
 beacon-fra2.rubiconproject.com
 beacons2.gvt2.com
 beacons3.gvt2.com
@@ -1195,6 +1192,8 @@ beast.cash
 beautygirls.online
 beautyzone.cam
 beautyzone.com
+bebasindo.sds
+bebasindo.today
 bed.fyi
 beeline.ru
 begun-sync.rutarget.ru
@@ -1299,6 +1298,7 @@ brainly.app.link
 braintreegateway.com
 branch.io
 brand-display.com
+bravo.lyxoto.download
 braze.com
 braze-images.com
 brdsg.com
@@ -1469,6 +1469,7 @@ cdn.adswizz.com
 cdn.agilitycms.com
 cdn.aihelp.net
 cdn-apac.onetrust.com
+cdn-app.pathfactory.com
 cdn.arcade.software
 cdn-asset.optimonk.com
 cdn-asset.zepeto.me
@@ -1495,6 +1496,7 @@ cdn.cove.chat
 cdn.coveo.com
 cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com
 cdn.cxomedia.id
+cdn.d32jers.com
 cdn-dana.marmot-cloud.com
 cdn.devicevalidation.io
 cdn.dreamdata.cloud
@@ -1695,6 +1697,7 @@ cloudflare-content.easybrain.com
 cloudflareinsights.com
 cloudflare-sgp-cdn.snackvideo.in
 cloudflare-sgp-pic.snackvideo.in
+cloudfolder-api.palmplaystore.com
 cloudinary.com
 cloud.litatom.com
 cloudsaze.com
@@ -1753,6 +1756,7 @@ codashop.com
 code.createjs.com
 codepush.appcenter.ms
 code.tidio.co
+cognito-identity.ap-northeast-1.amazonaws.com
 cognito-identity.us-east-1.amazonaws.com
 cognito-identity.us-west-1.amazonaws.com
 coinbasesj.vip
@@ -1769,6 +1773,7 @@ collector-pxt6dy78t8.px-cloud.net
 collector.xhamster.com
 colortime-api.noxgroup.com
 combinatronics.io
+comepetec.click
 com.gds.alibabadns.com
 commercecore.zendesk.com
 commerce-i18n-api.faceucam.com
@@ -1843,6 +1848,7 @@ contextweb.com
 contivio.com
 control.aps.amap.com
 control.connectwise.com
+control.ctrl02.ru
 control.kochava.com
 conversations.app-us1.com
 conversions.appsflyersdk.com
@@ -1954,6 +1960,7 @@ c.y5en.com
 cy-api.tysondata.com
 cybertips.xyz
 d-03.winudf.com
+d0o0d.com
 d0zi.com
 d11yp7khhhspcr.cloudfront.net
 d178bchpnfmat.cloudfront.net
@@ -1976,6 +1983,7 @@ d2vm7.com
 d2war7j3gfrrus.cloudfront.net
 d31jprfuqiuu14.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
+d32jers.com
 d33wubrfki0l68.cloudfront.net
 d34chcsvb7ug62.cloudfront.net
 d.360safe.com
@@ -2175,8 +2183,12 @@ domain.zongg.top
 do-not-tracker.org
 doodb.pro
 doodoo.love
+dood.re
+dood.so
 doods.pro
 doodstream.top
+dood.watch
+dood.wf
 dooood.com
 dosgen.monster
 dosya.tc
@@ -2206,6 +2218,7 @@ dpdwnl.my-free.website
 dp.tracking.shopee.co.id
 draper.popcap.com
 dreamdata.cloud
+dreamsofcryingf.com
 drift.com
 driftracingonline.com
 driftt.com
@@ -2291,6 +2304,7 @@ egas.easybrain.com
 ei.phncdn.com
 ejvonlyrik.com
 ekiga.net
+eknwtqklee.com
 ekomlita.everflowclient.io
 ekr.zdassets.com
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
@@ -2472,6 +2486,7 @@ filehostpro.xyz
 filelink.ru
 filelions.live
 filelions.online
+filemoon.sx
 files.catbox.moe
 files.elfsight.com
 files.osf.io
@@ -2523,6 +2538,7 @@ forms.hubspot.com
 forms-na1.hsforms.com
 forms.soundestlink.com
 fortawesome.com
+forter.com
 fortumo.com
 fortumo.io
 forum.supercell.com
@@ -2646,6 +2662,7 @@ gdl.bigo.sg
 gdpr.adjust.com
 gds.alibabadns.com
 geclose2eu.info
+geekcareonline.co
 g.ekatox.com
 genieesspv.jp
 geniustracking.xyz
@@ -2669,7 +2686,6 @@ getecoplus.com
 getgo.com
 gethouse.top
 getlasso.co
-getol88.co
 getryoko.com
 getsegdata.props.id
 getsitecontrol.com
@@ -2905,6 +2921,8 @@ hitech365.net
 hitlog.viva.co.id
 hk.api.unipay.qq.com
 hk.app.joox.com
+hkbchat.aws-cloudstoragedatafile.com
+hkbchat.com
 hk-h5-cdn.levect.com
 hk.pool.ntp.org
 hk.slb.mob.com
@@ -2920,7 +2938,6 @@ hockeyapp.net
 homecash1.com
 homer.supercell.com
 homesbeautiful.us
-home.viva9988.com
 honeybadger.io
 hopexos.vip
 horizonme.net
@@ -3095,6 +3112,8 @@ img4.daumcdn.net
 img53.ropose.com
 img.alicdn.com
 img.a.transfermarkt.technology
+imgavtub.com
+imgavtub.net
 imgcache.joox.com
 img.cdn.baca.co.id
 imgcdn.ymstatic.com
@@ -3138,6 +3157,7 @@ img.wattpad.com
 img.ws.mms.shopee.co.id
 imgx.gridoto.com
 img.y5en.com
+img.yzcdn.cn
 immr-uhl-tvm.elasticbeanstalk.com
 imoim.net
 impactradius-go.com
@@ -3299,6 +3319,7 @@ j19544519.pr46m.vps.myjino.ru
 j.6sc.co
 ja.4sync.com
 jads.co
+jambulmemek.ink
 japangamemarket.com
 java303.homes
 javwall.net
@@ -3380,6 +3401,7 @@ js.wpadmngr.com
 js.zohocdn.com
 jtracking-gate.lulusoft.com
 juicyads.com
+jukebox.pathfactory.com
 jump.ogtrk.net
 junglefrog.com
 jungroup.com
@@ -3396,13 +3418,13 @@ kantora.ge
 k-api.adaether.com
 k-api.kwai-pro.com
 k-api.kwaipros.com
+kaptcha.com
 kargo.com
-kaskustoto88.id
-kaskustoto.com
 kastking.top
 kau.li
 kayumanis.detik.com
 keepasstacking.site
+kepersaonwho.org
 kepler.51y5.net
 kepler.y5en.com
 ketchcdn.com
@@ -3481,6 +3503,7 @@ lar83.s3.amazonaws.com
 latestmodapks.com
 la-ucc-upaas.ucweb.com
 laucenter.ucweb.com
+laudiana.com
 laugoust.com
 launchdarkly.com
 launchdarkly-marketingsite.cdn.prismic.io
@@ -3502,7 +3525,6 @@ lbs-ru1.ads.betweendigital.com
 lbs-ru2.ads.betweendigital.com
 lbs-ru3.ads.betweendigital.com
 lbs-ru4.ads.betweendigital.com
-lbstatic.superdominator88.vip
 lbs-zaizai.netease.im
 lby2kd27c.com
 lc.chat
@@ -3560,6 +3582,7 @@ lirik.live
 lisa.supercell.com
 list-manage.com
 listoffreeware.com
+lita.onelink.me
 litatom.com
 litatom.oss-cn-hongkong.aliyuncs.com
 liteapi.ekatox.com
@@ -3616,6 +3639,7 @@ login.sina.com
 login.supercell.com
 login.tim.qq.com
 login.wmtransfer.com
+log.klook.com
 log.kzvepo.com
 logly.co.jp
 log.mmstat.com
@@ -3646,12 +3670,11 @@ loklok.tv
 loli.net
 london.cybertips.xyz
 lontaranews.com
+lookbookhq.com
 loomi.tv
 loptelink.pro
 lordofthequietbadgers.com
 l.otidapi.com
-lotteryfoapi.superdominator88.vip
-lotteryfos.superdominator88.vip
 lottiefiles.com
 lovejojoy.com
 lovelybabestu.com
@@ -3773,9 +3796,9 @@ ma.swiftypecdn.com
 mat1.gtimg.com
 mathtag.com
 matomo.y8.com
+maukaiko.fun
 mauth.chinanetcenter.com
 ma.wattpad.com
-maxgacor.click
 mayalaze.xyz
 maze.co
 m.baidu.com
@@ -3956,7 +3979,6 @@ motogp.api.weplay.media
 mp3.zing.vn
 mp-comm-db-3.firebaseio.com
 mpd-designs.com
-mplay88.xyz
 mpraven.org
 mps.nbcuni.com
 mp.toutiao.com
@@ -4003,6 +4025,7 @@ mtg-h5.rayjump.com
 m.toutiaocdn.com
 m.toutiao.com
 mtrace.wetvinfo.com
+mucoidsparged.life
 mufsdk.funminigame.com
 mukaqq.center
 multimedia.pulse.mail.ru
@@ -4524,6 +4547,8 @@ partnerlinks.io
 partnerstack.ada.support
 partnerstack.com
 partner.toutiao.com
+pascol.fun
+pascol.rest
 passfab.com
 passport.bignox.com
 passport.biliintl.com
@@ -4540,6 +4565,7 @@ path4.xtracloud.net
 path5.xtracloud.net
 path6.xtracloud.net
 path7.xtracloud.net
+pathfactory.com
 patronus.idata.shopeemobile.com
 pay4d.info
 pay-api.ahagamecenter.com
@@ -4584,6 +4610,7 @@ phala.one
 phasotsu.com
 ph.bignox.com
 phelp.pro
+phesheet.net
 phinf.wevpstatic.net
 phone-api.realme.com
 phone.bignox.com
@@ -4690,7 +4717,6 @@ policy-tcp.rayjump.com
 poll.gras.samsungdm.com
 polussuo.com
 pool.apk.aptoide.com
-poormansguidetocasinogambling.com
 pop3.bestappsale.com
 pop3.bignox.com
 popcash.net
@@ -4845,6 +4871,7 @@ qcloud.com
 qcloudimg.com
 qcloudimg.tencentcs.com
 qepodownload.mediatek.com
+qftwqoss.com
 qgepodownload.mediatek.com
 qhloury.com
 qidian.qq.com
@@ -5074,8 +5101,6 @@ rtc.youme.im
 rt.foldlife.net
 rtlog.resso.app
 rtmark.net
-rtplivevegas88.org
-rtpsuperbig.com
 rtrack.degreematcher.org
 rtsyx.higgsyx.com
 ru.4sync.com
@@ -5169,6 +5194,7 @@ sateliteforeverorbiting.com
 satgasjudi.b-cdn.net
 satismeter.com
 sausage-global-cdn.sausage.xd.com
+savetub.com
 saya.ucweb.com
 sba.yandex.net
 sbl.onfastspring.com
@@ -5197,6 +5223,7 @@ sdk.51.la
 sdk-android.ad.smaato.net
 sdk-api.kidoz.net
 sdkapi.wifimap.io
+sdk.atomhike.com
 sdk.bignox.com
 sdkconf.avlyun.com
 sdk-exchange.startappservice.com
@@ -5391,7 +5418,9 @@ sift-creatives.s3.amazonaws.com
 signal.franchise.minecraft-services.net
 signalfx.com
 sign-static.dreamriverclub.com
+silencyboubous.space
 simantan.cfd
+simontok.vc
 simple-get.ilyon.net
 simplelocalize.io
 simpli.fi
@@ -5495,6 +5524,7 @@ spam.supercell.com
 spanishcoursesunamuno.com
 spatial.fineboost.com
 spclient.wg.spotify.com
+spcollector.pathfactory.com
 spdn.poumod.com
 specialdate.my.id
 specificclick.net
@@ -5522,6 +5552,7 @@ s.relap.mail.ru
 srv1.bilikfilm.xyz
 srv214-h-st.jino.ru
 srv2.bilikfilm.xyz
+srv2.lyxoto.download
 srv-mobile-version-validator.services.z-dn.net
 srv.mp3.zing.vn
 srv-ocr-api-logged.z-dn.net
@@ -5532,6 +5563,7 @@ srvsynd.com
 ss.getecoplus.com
 ssl.captcha.qq.com
 ss.litatom.com
+ssl.kaptcha.com
 ssl.p.jwpcdn.com
 ssl.pstatic.net
 sso.supercell.com
@@ -5712,12 +5744,6 @@ suggests.go.mail.ru
 sumo.com
 sun.mv
 supapush.net
-superbig77.co
-superbig77.com
-superbig77.net
-superbig77.online
-superbig77.org
-superbig77.xyz
 supercell.com
 supercell.helpshift.com
 supercent.io
@@ -5799,6 +5825,7 @@ tags.rvere.com
 tags.tiqcdn.com
 taichi.y5en.com
 taken.guru
+takspggjne.com
 talaria.online
 talenta-production.firebaseio.com
 t.alipayobjects.com
@@ -5873,6 +5900,7 @@ ternakpark.site
 terpopuler.uzone.id
 terraclicks.com
 teslacoilapps.com
+test140.hkbchat.com
 test.cmp.quantcast.com
 testedforyou.net
 test.supercell.com
@@ -5965,8 +5993,6 @@ topgirls.uno
 topic-sticker-vending.snapchat.com
 topmongo.com
 toptradeguru.com
-topvegas88.org
-topvegs88.vip
 tor-browser.io
 torbrowser.io
 torproect.org
@@ -6018,6 +6044,7 @@ transsion.com
 transsion-miniapp-android-cdn.oss-eu-central-1.aliyuncs.com
 transsnet.com
 tra.translatemoneykilat.com
+traumaticpower.com
 travel.rakuten.com
 tr.bignox.com
 trclips.com
@@ -6196,6 +6223,7 @@ us1.clevertap-prod.com
 usa.ime.cdn.cootekservice.com
 usa.ime.cootek.com
 us.alibabacloud.com
+usapi.blahfaw.com
 us.api.fc.mob.com
 us.api.fd.mob.com
 us-api.mcsvc.samsung.com
@@ -6257,9 +6285,6 @@ vay.rent
 vbucks22.com
 vdo.ai
 veedi.com
-vegas88.asia
-vegas8.biz
-vegs88.biz
 vendorlist.dmcdn.net
 verify.uxcam.com
 version.common.redflamenco.com
@@ -6319,9 +6344,6 @@ visteme.mx
 visualstudiofactory.com
 visualwebsiteoptimizer.com
 vitals.vercel-insights.com
-viva9988.com
-viva99.com
-viva99.xn--tckwe
 vivomaa.chinanetcenter.com
 vivosec.baidu.com
 vjs.zencdn.net
@@ -6947,6 +6969,7 @@ www.livechat.com
 www.livechatinc.com
 www.livejournal.com
 www.lovelybabestu.com
+www.lyxoto.download
 www.magnite.com
 www.manbetx.uk
 www.manbrandsonline.com
@@ -6999,7 +7022,6 @@ www.pfmverify.ca
 www.phelp.pro
 www.playtech.com
 www.polussuo.com
-www.poormansguidetocasinogambling.com
 www.popcap.com
 www.porn.com
 www.pornhub.com
@@ -7093,12 +7115,6 @@ www.start1password.com
 www.steveziogames.com
 www.stormcleanerapp.com
 www.stream2watch.me
-www.superbig77.co
-www.superbig77.com
-www.superbig77.net
-www.superbig77.online
-www.superbig77.org
-www.superbig77.xyz
 www.supercell.com
 www.supercent.io
 www.supremocontrol.com
@@ -7150,99 +7166,6 @@ www.uzone.id
 www.vdo.ai
 www.viber.com
 www.vidmateapp.com
-www.viva99.com
-www.viva99.xn--tckwe
-www-viva-x108.xyz
-www-viva-x10.xyz
-www-viva-x11.xyz
-www-viva-x12.xyz
-www-viva-x13.xyz
-www-viva-x14.xyz
-www-viva-x15.xyz
-www-viva-x16.xyz
-www-viva-x17.xyz
-www-viva-x18.xyz
-www-viva-x19.xyz
-www-viva-x1.xyz
-www-viva-x20.xyz
-www-viva-x21.xyz
-www-viva-x22.xyz
-www-viva-x23.xyz
-www-viva-x24.xyz
-www-viva-x25.xyz
-www-viva-x26.xyz
-www-viva-x27.xyz
-www-viva-x28.xyz
-www-viva-x29.xyz
-www-viva-x2.xyz
-www-viva-x30.xyz
-www-viva-x31.xyz
-www-viva-x32.xyz
-www-viva-x33.xyz
-www-viva-x34.xyz
-www-viva-x35.xyz
-www-viva-x36.xyz
-www-viva-x37.xyz
-www-viva-x38.xyz
-www-viva-x39.xyz
-www-viva-x3.xyz
-www-viva-x40.xyz
-www-viva-x41.xyz
-www-viva-x42.xyz
-www-viva-x43.xyz
-www-viva-x44.xyz
-www-viva-x45.xyz
-www-viva-x46.xyz
-www-viva-x47.xyz
-www-viva-x48.xyz
-www-viva-x49.xyz
-www-viva-x4.xyz
-www-viva-x50.xyz
-www-viva-x51.xyz
-www-viva-x52.xyz
-www-viva-x53.xyz
-www-viva-x54.xyz
-www-viva-x55.xyz
-www-viva-x56.xyz
-www-viva-x57.xyz
-www-viva-x58.xyz
-www-viva-x59.xyz
-www-viva-x5.xyz
-www-viva-x60.xyz
-www-viva-x61.xyz
-www-viva-x62.xyz
-www-viva-x63.xyz
-www-viva-x64.xyz
-www-viva-x65.xyz
-www-viva-x66.xyz
-www-viva-x67.xyz
-www-viva-x68.xyz
-www-viva-x69.xyz
-www-viva-x6.xyz
-www-viva-x77.xyz
-www-viva-x7.xyz
-www-viva-x80.xyz
-www-viva-x81.xyz
-www-viva-x82.xyz
-www-viva-x83.xyz
-www-viva-x84.xyz
-www-viva-x85.xyz
-www-viva-x86.xyz
-www-viva-x87.xyz
-www-viva-x88.xyz
-www-viva-x89.xyz
-www-viva-x8.xyz
-www-viva-x90.xyz
-www-viva-x91.xyz
-www-viva-x92.xyz
-www-viva-x93.xyz
-www-viva-x94.xyz
-www-viva-x95.xyz
-www-viva-x96.xyz
-www-viva-x97.xyz
-www-viva-x98.xyz
-www-viva-x99.xyz
-www-viva-x9.xyz
 www.vk.com
 www.voovlive.com
 www.vum.fyi

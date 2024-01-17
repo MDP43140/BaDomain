@@ -73,7 +73,7 @@ SFB_REGIONCODE=(
 	"kgf" "khi" "kix" "kno" "kul" "kut" "kwi"
 	"lim" "lis" "lpb" "lwo"
 	"maa" "mam" "mba" "mdc" "mea" "mex" "mga" "mia" "mla" "mnl" "mof"
-	"nag" "ncg" "ngo"
+	"nag" "ncg" "ngo" "nrt"
 	"osl"
 	"pac" "pbc" "pdg" "pen" "pfb" "phl" "pku" "pky" "plm" "plu" "poa" "pra"
 	"qpa"

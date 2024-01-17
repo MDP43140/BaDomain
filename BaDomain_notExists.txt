@@ -10,6 +10,7 @@
 0523da02.api.splkmobile.com
 100000.miniapp.transsion.com
 1000-beasts.com
+11b0ed9125.31433ebfed.com
 123fix.co
 13e109f68a.03bdb617ed.com
 18cams.xyz
@@ -20,13 +21,17 @@
 247extratech.com
 247hacks.net
 2mdn.net
+333d629107.ee625e4b1d.com
 55bie1v.50zo.com
 61kx.uk-insolvencydirect.com
 655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
 666palm.com
+7660e42567.edeb873154.com
 777palm.com
 81e98c5a38.aac585e70c.com
+83ec6eb409.35b889100e.com
 87f2b771-b56e-407e-bc49-30d521c09b95.is-doh.help.every1dns.net
+92e2e3e863.5a6c114183.com
 943.engine.mobileapptracking.com
 95-217-35-153.serverhub.ru
 9appsdownloading.com
@@ -35,6 +40,7 @@ a04.uadexchange.com
 a05.uadexchange.com
 a1.applovin.com
 a2.applovin.com
+a388f2a7d8.0d76bd13e8.com
 a3.applovin.com
 a.544002bd63edb7f467e7bd980b0cfffcfce735f84ed0412653c20b31.com
 a.7ad27d9e12b6498b866f609c26a678d8ae8617f4708459063305816d.com
@@ -288,6 +294,7 @@ dns.oppomobile.com
 dot.iq.com
 download.get-report.site
 download-portal.net
+dreamsofcryingf.com
 dspunion.com
 dt2lb.madfingergames.com
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
@@ -297,6 +304,7 @@ ebgkrf-conversions.appsflyersdk.com
 echo-tcp-org.y5en.com
 ecs-110-238-109-184.compute.hwclouds-dns.com
 egirlsarehot.xyz
+eknwtqklee.com
 elb-babe-934876860.ap-southeast-1.elb.amazonaws.com
 elb-for-cdn-1922253052.ap-southeast-1.elb.amazonaws.com
 embedcdn.com
@@ -354,6 +362,7 @@ fywkuzp.ru
 galleryjs.io
 game.bignox.com
 gate.hockeyapp.net
+gc.24s.help
 gd.xjke.xyz
 geeksquad2.com
 germs-love.store
@@ -478,6 +487,7 @@ jtvnw.net
 jwpcdn.com
 keep2.xyz
 kendedes.uzone.id
+kepersaonwho.org
 ketchjs.com
 kika-backend.com
 kikakeyboard.com
@@ -489,6 +499,7 @@ krxd.net
 ks-sgp-origin-pull.snackvideo.in
 kucoin-sso.com
 laptops.offers247.online
+latkelotong.top
 leonard.faceapp.ai
 lg-bgp.pandora.xiaomi.com
 liadm.com
@@ -633,6 +644,7 @@ pdfcylsmo.com
 pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
 permutive.app
 pglstatp.com
+phesheet.net
 phncdn.com
 piglinbrute.com
 ping.baca.co.id
@@ -666,6 +678,7 @@ pro.kikakeyboard.com
 pro-market.net
 promo-canon.shop
 pthikipet.com
+ptompeer.net
 pubmine.com
 pub.network
 puscomosca.com
@@ -674,6 +687,7 @@ push.heytapmobile.com
 pushpromjs.messagebird.com
 pxf.io
 qbox.me
+qftwqoss.com
 qfyf1toi.com
 qhimg.com
 qiniuapi.com
@@ -775,6 +789,7 @@ static.mibi.xiaomi.com
 stat.xiaomi.com
 st.bignox.com
 storage.jquery.services
+storage.multstorage.com
 strpst.com
 stuart.faceapp.ai
 stydodo.ru
@@ -790,6 +805,7 @@ swiftypecdn.com
 syszalive.uksouth.cloudapp.azure.com
 tads.mobadvent.com
 tajs.qq.com
+takspggjne.com
 taobao.net
 tc.hd.xiaomi.com
 tdsjsext3.com
@@ -850,6 +866,7 @@ usemessages.com
 user.bignox.com
 user.haokan.mobi
 usicdn.com
+ut.ammannests.com
 u-zone.id
 v1.fchbwme.ru
 v1.flkpuod.ru

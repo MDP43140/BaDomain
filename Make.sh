@@ -8,6 +8,7 @@ HOSTSFILE_TYPES=(
 	"misc/NoApple"
 	"misc/NoChinaOverseaSpy"
 	"misc/NoFB"
+	"misc/NoGambling"
 	"misc/NoFreeFire"
 	"misc/NoMLBB"
 	"misc/NoRoblox"

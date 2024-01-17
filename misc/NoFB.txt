@@ -3180,6 +3180,7 @@ scontent.fadl6-1.fna.fbcdn.net
 scontent.fadl7-1.fna.fbcdn.net
 scontent.fadl7-2.fna.fbcdn.net
 scontent-fallback.cdninstagram.com
+scontent-fallback.xx.fbcdn.net
 scontent.fams1-2.fna.fbcdn.net
 scontent.fapa1-1.fna.fbcdn.net
 scontent.faqa1-1.fna.fbcdn.net
@@ -3686,6 +3687,10 @@ scontent.fpoa11-1.fna.fbcdn.net
 scontent.fpoa1-1.fna.fbcdn.net
 scontent.fpra1-1.fna.fbcdn.net
 scontent.fqpa1-1.fna.fbcdn.net
+scontent-fra3-1.cdninstagram.com
+scontent-fra3-2.cdninstagram.com
+scontent-fra5-1.cdninstagram.com
+scontent-fra5-2.cdninstagram.com
 scontent-fra.xx.fbcdn.net
 scontent.frec10-1.fna.fbcdn.net
 scontent.frec11-1.fna.fbcdn.net
@@ -3920,6 +3925,7 @@ sonar6.fcgk37-1.fna.fbcdn.net
 sonar6-hkg4-1.xx.fbcdn.net
 sonar6-hkt1-1.xx.fbcdn.net
 sonar6-kul2-2.xx.fbcdn.net
+sonar6-nrt1-2.xx.fbcdn.net
 sonar6-sea1-1.xx.fbcdn.net
 sonar6-sin6-1.xx.fbcdn.net
 sonar6-sin6-3.xx.fbcdn.net
