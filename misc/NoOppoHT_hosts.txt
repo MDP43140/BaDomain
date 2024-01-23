@@ -340,6 +340,7 @@
 0.0.0.0 shortintl.push.heytapmobile.com
 0.0.0.0 shortintl.push.oppomobile.com
 0.0.0.0 slb-apisnd-in.heytapmobile.com
+0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 smartcardf-eu.apps.coloros.com
 0.0.0.0 stat-cn.dc.oppomobile.com
 0.0.0.0 stat-in.dc.oppomobile.com
@@ -382,6 +383,7 @@
 0.0.0.0 videoclipf.apps.coloros.com
 0.0.0.0 videoeditor-sg.soloop.heytapmobile.com
 0.0.0.0 vip-client.heytapmobi.com
+0.0.0.0 virusinfo-cloudscan-sn.heytapmobile.com
 0.0.0.0 weather-server-eu.allawnos.com
 0.0.0.0 weather-server-in.allawnos.com
 0.0.0.0 weather-server-sg.allawnos.com

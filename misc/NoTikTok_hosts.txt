@@ -2119,6 +2119,9 @@
 0.0.0.0 p16hypstarcdn-a.akamaihd.net.edgesuite.net
 0.0.0.0 p16.hypstarcdn.com
 0.0.0.0 p16.hypstarcdn.com.edgesuite.net
+0.0.0.0 p16-k1-sign-sg.ibyteimg.com
+0.0.0.0 p16-k1-sign-useast2a.ibyteimg.com
+0.0.0.0 p16-k1-sign-va.ibyteimg.com
 0.0.0.0 p16-mt-sg-a.ibyteimg.com
 0.0.0.0 p16-mt-sg-b.ibyteimg.com
 0.0.0.0 p16-mt-sg.ibyteimg.com
@@ -2142,6 +2145,7 @@
 0.0.0.0 p16.pstatp.com
 0.0.0.0 p16.pstatp.com.edgekey.net
 0.0.0.0 p16.pstatp.com.w.alikunlun.com
+0.0.0.0 p16-pu-sign-ie.tiktokcdn-eu.com
 0.0.0.0 p16-security-sg.ibyteimg.com
 0.0.0.0 p16-security-sg.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-security-va.ibyteimg.com
@@ -2227,6 +2231,7 @@
 0.0.0.0 p19-oec-sg.ibyteimg.com.edgesuite.net
 0.0.0.0 p19-oec-va.ibyteimg.com
 0.0.0.0 p19-oec-va.ibyteimg.com.edgesuite.net
+0.0.0.0 p19-pu-sign-ie.tiktokcdn-eu.com
 0.0.0.0 p19-security-sg.ibyteimg.com
 0.0.0.0 p19-security-va.ibyteimg.com
 0.0.0.0 p19-sign-sg.tiktokcdn.com
@@ -2688,6 +2693,8 @@
 0.0.0.0 pull-flv-f61-va01.tiktokcdn.com
 0.0.0.0 pull-flv-f62-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-f62-va01.tiktokcdn.com
+0.0.0.0 pull-flv-f64-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f64-va01.tiktokcdn.com
 0.0.0.0 pull-flv-f6-hs.pstatp.com
 0.0.0.0 pull-flv-f6-xg.bytecdn.cn
 0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
@@ -4202,6 +4209,7 @@
 0.0.0.0 vc-pservice.snssdk.com
 0.0.0.0 vcs-boot.tiktokv.com
 0.0.0.0 vcs-i18n.tiktokv.com
+0.0.0.0 vcs-mya.byteintl.com
 0.0.0.0 vcs-sg.byteintl.com
 0.0.0.0 vcs-sg.byteoversea.com
 0.0.0.0 vcs-sg.byteoversea.com.edgekey.net

@@ -3384,6 +3384,7 @@
 0.0.0.0 scontent.fcwb1-1.fna.fbcdn.net
 0.0.0.0 scontent.fdac1-1.fna.fbcdn.net
 0.0.0.0 scontent.fdac24-1.fna.fbcdn.net
+0.0.0.0 scontent.fdad1-4.fna.fbcdn.net
 0.0.0.0 scontent.fdel10-1.fna.fbcdn.net
 0.0.0.0 scontent.fdel11-1.fna.fbcdn.net
 0.0.0.0 scontent.fdla1-1.fna.fbcdn.net
@@ -3932,12 +3933,14 @@
 0.0.0.0 sonar6.fbth6-1.fna.fbcdn.net
 0.0.0.0 sonar6.fcgk12-1.fna.fbcdn.net
 0.0.0.0 sonar6.fcgk37-1.fna.fbcdn.net
+0.0.0.0 sonar6.fsrg5-1.fna.fbcdn.net
 0.0.0.0 sonar6-hkg4-1.xx.fbcdn.net
 0.0.0.0 sonar6-hkt1-1.xx.fbcdn.net
 0.0.0.0 sonar6-kul2-2.xx.fbcdn.net
 0.0.0.0 sonar6-nrt1-2.xx.fbcdn.net
 0.0.0.0 sonar6-sea1-1.xx.fbcdn.net
 0.0.0.0 sonar6-sin6-1.xx.fbcdn.net
+0.0.0.0 sonar6-sin6-2.xx.fbcdn.net
 0.0.0.0 sonar6-sin6-3.xx.fbcdn.net
 0.0.0.0 sonar6-xsp1-1.xx.fbcdn.net
 0.0.0.0 sonar6-xsp1-2.xx.fbcdn.net
@@ -4038,6 +4041,7 @@
 0.0.0.0 sonar-frt3-2.xx.fbcdn.net
 0.0.0.0 sonar-frx5-1.xx.fbcdn.net
 0.0.0.0 sonar.fsea1-1.fna.fbcdn.net
+0.0.0.0 sonar.fsrg5-1.fna.fbcdn.net
 0.0.0.0 sonar.fsub2-2.fna.fbcdn.net
 0.0.0.0 sonar.ftpa1-1.fna.fbcdn.net
 0.0.0.0 sonar-gmp1-1.xx.fbcdn.net
@@ -4045,6 +4049,8 @@
 0.0.0.0 sonar-ham3-1.xx.fbcdn.net
 0.0.0.0 sonar-hel3-1.xx.fbcdn.net
 0.0.0.0 sonar-hel.xx.fbcdn.net
+0.0.0.0 sonar-hkg1-1.xx.fbcdn.net
+0.0.0.0 sonar-hkg1-2.xx.fbcdn.net
 0.0.0.0 sonar-hkg4-1.xx.fbcdn.net
 0.0.0.0 sonar-hkg4-2.xx.fbcdn.net
 0.0.0.0 sonar-hkg.xx.fbcdn.net
@@ -4080,6 +4086,7 @@
 0.0.0.0 sonar-muc2-1.xx.fbcdn.net
 0.0.0.0 sonar-mxp1-1.xx.fbcdn.net
 0.0.0.0 sonar-mxp2-1.xx.fbcdn.net
+0.0.0.0 sonar-nrt1-1.xx.fbcdn.net
 0.0.0.0 sonar-nrt1-2.xx.fbcdn.net
 0.0.0.0 sonar-otp1-1.xx.fbcdn.net
 0.0.0.0 sonar-pmo1-1.xx.fbcdn.net
