@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 17.01.2024
+# Version: 25.01.2024
 # Update: 1 day
 #
 
@@ -21,6 +21,7 @@
 10.zxczj.top
 1111210941.rsc.cdn77.org
 114dns.com
+11b0ed9125.31433ebfed.com
 11.ygti905ffth6.com
 11.zxczj.top
 123.sogou.com
@@ -195,6 +196,7 @@
 829395.smushcdn.com
 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
+83ec6eb409.35b889100e.com
 845257-android-ds.metric.gstatic.com
 8b2a.playfabapi.com
 8.bignox.com
@@ -204,6 +206,7 @@
 9199.us
 91busgame.com
 91.com
+92e2e3e863.5a6c114183.com
 92image.levect.com
 9410194.fls.doubleclick.net
 94.110.204.35.bc.googleusercontent.com
@@ -231,6 +234,7 @@ a.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
 a.3261b6f1aadcad16eb6c015373786fd9ef0e4e2dd7b1ad544e17db83.com
 a.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
+a388f2a7d8.0d76bd13e8.com
 a3f76b6ab2ad3a9c94588dea7f599848.safeframe.googlesyndication.com
 a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
 a4.applovin.com
@@ -253,6 +257,7 @@ a.ab87cc9ec2c76f1c4f6d2703ef9e0d56008bc98b157cc3af10a5bfbd.com
 aacdn.nagich.com
 aa-cdn.net
 aadg.trafficmanager.net
+a.adskeeper.com
 a.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 aaid.umeng.com
 aaplimg.com
@@ -315,6 +320,7 @@ adcs-ue.myappsget.com
 addedvalue.net
 addthis.com
 addtoany.com
+adela.live
 adexchanger.com
 adf.ly
 adgoal.com
@@ -368,6 +374,7 @@ ads.grid.id
 adsimg.kompas.com
 ads.indosatooredoo.com
 ads-interfaces.sc-cdn.net
+adskeeper.com
 ads.net.id
 ad-sniper.com
 ads.playground.xyz
@@ -486,6 +493,7 @@ alms.demo.ckg.hk
 alogin01.to
 alog.umeng.com
 aloha46.viber.com
+alokastore.com
 aloofvest.com
 alphonso.tv
 alsterpainting.xyz
@@ -514,6 +522,7 @@ amung.us
 amzgame.com
 analytic.detik.com
 analytics.163.com
+analytics.adskeeper.com
 analytics.churnzero.net
 analytics-debugger.com
 analytics.edgekey.net
@@ -628,6 +637,7 @@ api-ad-adapter.wps.com
 api.adaether.com
 api.adapty.io
 api.adclound.com
+api.adskeeper.com
 api.ads.yahoo.com
 api.ahagamecenter.com
 api.airtable.com
@@ -787,6 +797,7 @@ api.picsart.com
 api.pinterest.com
 api.playgendary.com
 api.plg.dev
+api.popin.cc
 api.poster.appsinnova.com
 api-prod.chikiigame.com
 api-project-652995075284.firebaseio.com
@@ -849,6 +860,7 @@ api-us.bidmachine.io
 api.useinsider.com
 api.ushareit.com
 api-v2.apkssr.com
+apiv2.popupsmart.com
 api-va.tmtreader.com
 api.videorecorderglobalserver.com
 api.vishavideo.com
@@ -1354,6 +1366,7 @@ cabinet.taximaxim.ru
 cabinet.taxsee.ru
 cachefly.net
 cadmoremedia.com
+c.adskeeper.com
 caduceus.online
 cahoots.com
 calconic.com
@@ -1464,6 +1477,7 @@ cdn8.uzone.id
 cdn925.com
 cdn9.editmysite.com
 cdn-adn-https.mtgglobals.com
+cdn.adskeeper.com
 cdn.adsninja.ca
 cdn.adswizz.com
 cdn.agilitycms.com
@@ -1550,6 +1564,7 @@ cdn.outfit7.com
 cdn-page.orderonline.id
 cdn-page-ssr.orderonline.id
 cdn.pdst.fm
+cdn.popupsmart.com
 cdn.privacy-mgmt.com
 cdn-prod.securiti.ai
 cdn-production-assets-kly.akamaized.net
@@ -1664,6 +1679,7 @@ cl2.g.aaplimg.com
 cl4.g.aaplimg.com
 clarity.ms
 c.lazada.co.id
+clck.adskeeper.com
 cldapi.net
 cleanapps.org
 clearbit.com
@@ -1671,6 +1687,7 @@ clearbitjs.com
 clearbitscripts.com
 cleverpush.com
 clevertap-prod.com
+click-advertnative-com.cdn.ampproject.org
 clickagy.com
 clicken.us
 click.hm.baidu.com
@@ -1722,6 +1739,7 @@ cloud.typography.com
 cloud.wpscdn.com
 clucoin.com
 clupekfv.tweb.sched.ovscdns.com
+cm.adskeeper.com
 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 cmbchina.com
 cm.bilibili.com
@@ -1952,6 +1970,7 @@ curse.com
 custhelp.com
 cutegirl.my.id
 cuttlela.ucweb.com
+cv.shopee.co.id
 c.wbmkr.com
 c.wcetb.com
 c.webengage.com
@@ -2196,6 +2215,8 @@ dotmetrics.net
 doubleclick.net
 down-aka-id.img.susercontent.com
 down.anticheatexpert.com
+down-bs-id.img.susercontent.com
+down-cvs-id.vod.susercontent.com
 down-id.img.susercontent.com
 download.alicdn.com
 download.anydesk.com
@@ -2333,6 +2354,7 @@ emxdgt.com
 en.4sync.com
 en.bignox.com
 endpoint.mms.shopee.co.id
+endpoint.mms.shopee.sg
 engagements.appsflyer.com
 english.sogou.com
 engpicka.app.link
@@ -2497,6 +2519,7 @@ file.update.miui.com
 filmmogzivota.rs
 film.wetv.vip
 financialtrending.com
+firebase-settings.crashlytics.com
 firehose.eu-west-1.amazonaws.com
 fireworkapi1.com
 firstpage.kingsoft-office-service.com
@@ -2522,6 +2545,8 @@ fnasmpygwa.com
 fnjxpwy.com
 focusmedica.in
 fo.iemiq.com
+food-metric.shopee.co.id
+foody.shopee.co.id
 footprints-pa.googleapis.com
 force.com
 forepl4y.com
@@ -2551,6 +2576,7 @@ foxpush.net
 foxus.tagger.opecloud.com
 fpcdn.io
 fpcs-prod-wf.centurygames.com
+f-p.sgsnssdk.com
 fpstool.com
 fr.4sync.com
 fr.bignox.com
@@ -2707,7 +2733,6 @@ giipm.org
 gilimp.com
 gimmehost.org
 giocdn.com
-giphy.com
 girlfriend.host
 git99.com
 github.phala.one
@@ -2860,6 +2885,7 @@ haasscripts.com
 h-adashx4sg.ut.taobao.com
 h-adashx.ut.lazada.com
 hammergamer.com
+handler-api.popupsmart.com
 handoff-cdn.appadvice.com
 hansel-testsdk.tokopedia.com
 hanyu.sogou.com
@@ -3110,6 +3136,7 @@ img36.ropose.com
 img3.daumcdn.net
 img4.daumcdn.net
 img53.ropose.com
+img.adskeeper.com
 img.alicdn.com
 img.a.transfermarkt.technology
 imgavtub.com
@@ -3356,7 +3383,9 @@ js3.loklok.tv
 js5.loklok.tv
 js8.loklok.tv
 js9.loklok.tv
+js.adskeeper.com
 js.afterpay.com
+jsc.adskeeper.com
 js.captcha-display.com
 js.chargebee.com
 js.chilipiper.com
@@ -3395,6 +3424,7 @@ js.qualified.com
 js.rfp.fout.jp
 js-sec.indexww.com
 jstrack1.club
+jsu.adskeeper.com
 js.usemessages.com
 js.users.51.la
 js.wpadmngr.com
@@ -3473,6 +3503,7 @@ kr.bignox.com
 krisp.ai
 ksmobile.net
 ks-sgp-cdn.snackvideo.in
+ku42hjr2e.com
 kuaishou.com
 k-ulog.kwai-pro.com
 k-ulog.kwaipros.com
@@ -3501,6 +3532,7 @@ l-api.livejournal.com
 laquesis.data.olxcdn.com
 lar83.s3.amazonaws.com
 latestmodapks.com
+latkelotong.top
 la-ucc-upaas.ucweb.com
 laucenter.ucweb.com
 laudiana.com
@@ -3824,12 +3856,8 @@ me.apple-dns.net
 medallia.com
 medals.bizrate.com
 med.dtblt.com
-media0.giphy.com
-media1.giphy.com
 media1.s-nbcnews.com
-media2.giphy.com
 media2.s-nbcnews.com
-media3.giphy.com
 media3.s-nbcnews.com
 media4.s-nbcnews.com
 media6degrees.com
@@ -3874,6 +3902,7 @@ metarouter.io
 meteor.shalltry.com
 metricreceiver.cellrebel.com
 metrics-twoplayers.junglefrog.com
+mg.adskeeper.com
 mgen.fast-dl.xyz
 mgenfast-dlxyz.imageshack.host
 mgid.com
@@ -4124,6 +4153,7 @@ news.hastopic.com
 news-id.feednews.com
 newsmaticaapp.com
 news-muxeta.cc
+newsvaults.com
 news.zing.vn
 new-ui.mobbo.com
 nexage.com
@@ -4159,6 +4189,7 @@ northbeam.io
 norton67.webnode.page
 noss.litatom.com
 notif.quizizz.com
+notify.adskeeper.com
 notiv.id
 notix.io
 notix-tag.com
@@ -4299,6 +4330,7 @@ o425163.ingest.sentry.io
 o43841.ingest.sentry.io
 o446669.ingest.sentry.io
 o4504598522363904.ingest.sentry.io
+o468184.ingest.sentry.io
 o495157.ingest.sentry.io
 o519366.ingest.sentry.io
 o64315.ingest.sentry.io
@@ -4426,6 +4458,7 @@ orgotitedu.info
 os-aibox.shalltry.com
 osano.com
 osb-eusvc.samsungqbe.com
+o-sdk.mediation.unity3d.com
 osfeature.shalltry.com
 osf.io
 oshola.shalltry.com
@@ -4571,6 +4604,7 @@ pay4d.info
 pay-api.ahagamecenter.com
 pay.bignox.com
 payments.realms.minecraft.net
+pay.shopee.sg
 paywall.fewcents.co
 pay.weixin.qq.com
 pay.yeshen.com
@@ -4870,6 +4904,7 @@ qb0bi1a7.tweb.sched.ovscdns.com
 qcloud.com
 qcloudimg.com
 qcloudimg.tencentcs.com
+qdown-sp-id.vod.susercontent.com
 qepodownload.mediatek.com
 qftwqoss.com
 qgepodownload.mediatek.com
@@ -5196,6 +5231,7 @@ satismeter.com
 sausage-global-cdn.sausage.xd.com
 savetub.com
 saya.ucweb.com
+sazi.info
 sba.yandex.net
 sbl.onfastspring.com
 sbw9188.com
@@ -5315,6 +5351,7 @@ service.carlcare.com
 service.force.com
 servicegetbook.net
 service.pokigame.io
+servicer.adskeeper.com
 services.insurads.com
 services.ludokingapi.com
 services.prod.ims.adobejanus.com
@@ -5420,6 +5457,7 @@ signalfx.com
 sign-static.dreamriverclub.com
 silencyboubous.space
 simantan.cfd
+s-img.adskeeper.com
 simontok.vc
 simple-get.ilyon.net
 simplelocalize.io
@@ -5689,6 +5727,7 @@ stats.gameguardian.net
 stats.kaltura.com
 stats.seedr.com
 stats.wp.com
+stats.wpmucdn.com
 stat.tiara.tistory.com
 stat.tildacdn.com
 stat.tpns.sgp.tencent.com
@@ -5979,6 +6018,7 @@ tokentax.co
 tongdun.net
 tonrino.info
 toolbox.com
+tools.adskeeper.com
 tools.refokus.com
 toomics.com
 tooncoin.com
@@ -6116,6 +6156,7 @@ uangteman.com
 uapi.afo2o.com
 ua.realtimely.io
 uat5-b.investingchannel.com
+ubta.tracking.shopee.co.id
 ubt.tracking.shopee.co.id
 uc-0.telemetry.eyeo.com
 uc-11.telemetry.eyeo.com
@@ -6157,6 +6198,7 @@ ummydownloader.com
 u.mobsrvapi.com
 unblockia.com
 undertone.com
+unibotscdn.com
 uniconsent.com
 uniid.lol
 union.bignox.com
@@ -6258,6 +6300,7 @@ u.startup.mobile.webvisor.com
 us.tk0x1.com
 us.urmyromance.com
 us.ynuf.aliapp.org
+ut.ammannests.com
 utoken.umeng.com
 u.uc123.com
 uuitwxg.com
@@ -6570,6 +6613,7 @@ wrapper-api.sp-prod.net
 wsamrb-cdn-settings.appsflyersdk.com
 wsamrb-launches.appsflyersdk.com
 wsapi.master.live
+wsa.spm.shopee.co.id
 wscdn.hanilink.com
 ws.flv.nimo.tv
 wshareit.com
@@ -6751,6 +6795,7 @@ www.adjeleycctv.us
 www.adlook.me
 www.adscontrol.xyz
 www.ad-score.com
+www.adskeeper.com
 www.adups.com
 www.adventureacademy.com
 www.ad-x.com
@@ -6885,10 +6930,10 @@ www.gamev6.com
 www.garagewestrotterdam.nl
 www.gbwhatsapp.download
 www.geowf.ge
-www.giphy.com
 www.glamour.com
 www.glassbox.com
 www.glia.com
+www.globaltimes.cn
 www.gmail-support.uk
 www.go2cloud.org
 www.golden-hoyeah.com

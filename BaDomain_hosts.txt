@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 24.01.2024
+# Version: 25.01.2024
 # Update: 1 day
 #
 
@@ -257,6 +257,7 @@
 0.0.0.0 aacdn.nagich.com
 0.0.0.0 aa-cdn.net
 0.0.0.0 aadg.trafficmanager.net
+0.0.0.0 a.adskeeper.com
 0.0.0.0 a.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 0.0.0.0 aaid.umeng.com
 0.0.0.0 aaplimg.com
@@ -373,6 +374,7 @@
 0.0.0.0 adsimg.kompas.com
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads-interfaces.sc-cdn.net
+0.0.0.0 adskeeper.com
 0.0.0.0 ads.net.id
 0.0.0.0 ad-sniper.com
 0.0.0.0 ads.playground.xyz
@@ -520,6 +522,7 @@
 0.0.0.0 amzgame.com
 0.0.0.0 analytic.detik.com
 0.0.0.0 analytics.163.com
+0.0.0.0 analytics.adskeeper.com
 0.0.0.0 analytics.churnzero.net
 0.0.0.0 analytics-debugger.com
 0.0.0.0 analytics.edgekey.net
@@ -634,6 +637,7 @@
 0.0.0.0 api.adaether.com
 0.0.0.0 api.adapty.io
 0.0.0.0 api.adclound.com
+0.0.0.0 api.adskeeper.com
 0.0.0.0 api.ads.yahoo.com
 0.0.0.0 api.ahagamecenter.com
 0.0.0.0 api.airtable.com
@@ -1258,8 +1262,6 @@
 0.0.0.0 block.uzone.id
 0.0.0.0 blogblog.com
 0.0.0.0 blog.castle.io
-0.0.0.0 blog.cove.id
-0.0.0.0 blog.evermos.com
 0.0.0.0 blog.health-blog.asia
 0.0.0.0 blog.manualesaqui.online
 0.0.0.0 blog.pcapredict.com
@@ -1364,6 +1366,7 @@
 0.0.0.0 cabinet.taxsee.ru
 0.0.0.0 cachefly.net
 0.0.0.0 cadmoremedia.com
+0.0.0.0 c.adskeeper.com
 0.0.0.0 caduceus.online
 0.0.0.0 cahoots.com
 0.0.0.0 calconic.com
@@ -1474,6 +1477,7 @@
 0.0.0.0 cdn925.com
 0.0.0.0 cdn9.editmysite.com
 0.0.0.0 cdn-adn-https.mtgglobals.com
+0.0.0.0 cdn.adskeeper.com
 0.0.0.0 cdn.adsninja.ca
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.agilitycms.com
@@ -1539,7 +1543,6 @@
 0.0.0.0 cdn.kidozplayer.com
 0.0.0.0 cdn.klimg.com
 0.0.0.0 cdn.klimg.com.akamaized.net
-0.0.0.0 cdn.klook.com
 0.0.0.0 cdn.landbot.io
 0.0.0.0 cdn.liftoff-creatives.io
 0.0.0.0 cdn.link4app.com
@@ -1676,6 +1679,7 @@
 0.0.0.0 cl4.g.aaplimg.com
 0.0.0.0 clarity.ms
 0.0.0.0 c.lazada.co.id
+0.0.0.0 clck.adskeeper.com
 0.0.0.0 cldapi.net
 0.0.0.0 cleanapps.org
 0.0.0.0 clearbit.com
@@ -1735,6 +1739,7 @@
 0.0.0.0 cloud.wpscdn.com
 0.0.0.0 clucoin.com
 0.0.0.0 clupekfv.tweb.sched.ovscdns.com
+0.0.0.0 cm.adskeeper.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 0.0.0.0 cmbchina.com
 0.0.0.0 cm.bilibili.com
@@ -1890,7 +1895,6 @@
 0.0.0.0 country-ID-1.mini5.opera-mini.net
 0.0.0.0 count-server.sharethis.com
 0.0.0.0 coupon-code.4wps.net
-0.0.0.0 cove-blog-id.sgp1.cdn.digitaloceanspaces.com
 0.0.0.0 cove-cdn.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 cove.chat
 0.0.0.0 coveo.com
@@ -2424,8 +2428,6 @@
 0.0.0.0 event.togothermany.com
 0.0.0.0 everflowclient.io
 0.0.0.0 everinform.com
-0.0.0.0 evermos.com
-0.0.0.0 evermos.onelink.me
 0.0.0.0 everzones.com
 0.0.0.0 evidon.com
 0.0.0.0 eviltracker.net
@@ -2440,7 +2442,6 @@
 0.0.0.0 exponential.com
 0.0.0.0 exportinvest.ge
 0.0.0.0 extranet.supercell.com
-0.0.0.0 extremelandings.rortosservices.com
 0.0.0.0 extremetech.com
 0.0.0.0 eyeonsight.net
 0.0.0.0 eyeota.net
@@ -2518,6 +2519,7 @@
 0.0.0.0 filmmogzivota.rs
 0.0.0.0 film.wetv.vip
 0.0.0.0 financialtrending.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firehose.eu-west-1.amazonaws.com
 0.0.0.0 fireworkapi1.com
 0.0.0.0 firstpage.kingsoft-office-service.com
@@ -2731,7 +2733,6 @@
 0.0.0.0 gilimp.com
 0.0.0.0 gimmehost.org
 0.0.0.0 giocdn.com
-0.0.0.0 giphy.com
 0.0.0.0 girlfriend.host
 0.0.0.0 git99.com
 0.0.0.0 github.phala.one
@@ -2884,6 +2885,7 @@
 0.0.0.0 h-adashx4sg.ut.taobao.com
 0.0.0.0 h-adashx.ut.lazada.com
 0.0.0.0 hammergamer.com
+0.0.0.0 handler-api.popupsmart.com
 0.0.0.0 handoff-cdn.appadvice.com
 0.0.0.0 hansel-testsdk.tokopedia.com
 0.0.0.0 hanyu.sogou.com
@@ -3134,6 +3136,7 @@
 0.0.0.0 img3.daumcdn.net
 0.0.0.0 img4.daumcdn.net
 0.0.0.0 img53.ropose.com
+0.0.0.0 img.adskeeper.com
 0.0.0.0 img.alicdn.com
 0.0.0.0 img.a.transfermarkt.technology
 0.0.0.0 imgavtub.com
@@ -3380,7 +3383,9 @@
 0.0.0.0 js5.loklok.tv
 0.0.0.0 js8.loklok.tv
 0.0.0.0 js9.loklok.tv
+0.0.0.0 js.adskeeper.com
 0.0.0.0 js.afterpay.com
+0.0.0.0 jsc.adskeeper.com
 0.0.0.0 js.captcha-display.com
 0.0.0.0 js.chargebee.com
 0.0.0.0 js.chilipiper.com
@@ -3419,6 +3424,7 @@
 0.0.0.0 js.rfp.fout.jp
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 jstrack1.club
+0.0.0.0 jsu.adskeeper.com
 0.0.0.0 js.usemessages.com
 0.0.0.0 js.users.51.la
 0.0.0.0 js.wpadmngr.com
@@ -3483,7 +3489,6 @@
 0.0.0.0 klink.kwai-pro.com
 0.0.0.0 klink.snackvideo.com
 0.0.0.0 kloc.co
-0.0.0.0 klook.com
 0.0.0.0 knd32k.com
 0.0.0.0 knorex.com
 0.0.0.0 ko.4sync.com
@@ -3851,14 +3856,9 @@
 0.0.0.0 medallia.com
 0.0.0.0 medals.bizrate.com
 0.0.0.0 med.dtblt.com
-0.0.0.0 media0.giphy.com
-0.0.0.0 media1.giphy.com
 0.0.0.0 media1.s-nbcnews.com
-0.0.0.0 media2.giphy.com
 0.0.0.0 media2.s-nbcnews.com
-0.0.0.0 media3.giphy.com
 0.0.0.0 media3.s-nbcnews.com
-0.0.0.0 media4.giphy.com
 0.0.0.0 media4.s-nbcnews.com
 0.0.0.0 media6degrees.com
 0.0.0.0 mediacategory.com
@@ -3902,6 +3902,7 @@
 0.0.0.0 meteor.shalltry.com
 0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 metrics-twoplayers.junglefrog.com
+0.0.0.0 mg.adskeeper.com
 0.0.0.0 mgen.fast-dl.xyz
 0.0.0.0 mgenfast-dlxyz.imageshack.host
 0.0.0.0 mgid.com
@@ -4188,6 +4189,7 @@
 0.0.0.0 norton67.webnode.page
 0.0.0.0 noss.litatom.com
 0.0.0.0 notif.quizizz.com
+0.0.0.0 notify.adskeeper.com
 0.0.0.0 notiv.id
 0.0.0.0 notix.io
 0.0.0.0 notix-tag.com
@@ -5031,7 +5033,6 @@
 0.0.0.0 res.gametoolboostestwell.com
 0.0.0.0 res-global-sg-master.sausage.xd.com
 0.0.0.0 res-global-sg-slave.sausage.xd.com
-0.0.0.0 res.klook.com
 0.0.0.0 res.noxmobi.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 reson8.com
@@ -5350,6 +5351,7 @@
 0.0.0.0 service.force.com
 0.0.0.0 servicegetbook.net
 0.0.0.0 service.pokigame.io
+0.0.0.0 servicer.adskeeper.com
 0.0.0.0 services.insurads.com
 0.0.0.0 services.ludokingapi.com
 0.0.0.0 services.prod.ims.adobejanus.com
@@ -5455,6 +5457,7 @@
 0.0.0.0 sign-static.dreamriverclub.com
 0.0.0.0 silencyboubous.space
 0.0.0.0 simantan.cfd
+0.0.0.0 s-img.adskeeper.com
 0.0.0.0 simontok.vc
 0.0.0.0 simple-get.ilyon.net
 0.0.0.0 simplelocalize.io
@@ -5724,6 +5727,7 @@
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.wp.com
+0.0.0.0 stats.wpmucdn.com
 0.0.0.0 stat.tiara.tistory.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.tpns.sgp.tencent.com
@@ -6014,6 +6018,7 @@
 0.0.0.0 tongdun.net
 0.0.0.0 tonrino.info
 0.0.0.0 toolbox.com
+0.0.0.0 tools.adskeeper.com
 0.0.0.0 tools.refokus.com
 0.0.0.0 toomics.com
 0.0.0.0 tooncoin.com
@@ -6193,6 +6198,7 @@
 0.0.0.0 u.mobsrvapi.com
 0.0.0.0 unblockia.com
 0.0.0.0 undertone.com
+0.0.0.0 unibotscdn.com
 0.0.0.0 uniconsent.com
 0.0.0.0 uniid.lol
 0.0.0.0 union.bignox.com
@@ -6789,6 +6795,7 @@
 0.0.0.0 www.adlook.me
 0.0.0.0 www.adscontrol.xyz
 0.0.0.0 www.ad-score.com
+0.0.0.0 www.adskeeper.com
 0.0.0.0 www.adups.com
 0.0.0.0 www.adventureacademy.com
 0.0.0.0 www.ad-x.com
@@ -6923,7 +6930,6 @@
 0.0.0.0 www.garagewestrotterdam.nl
 0.0.0.0 www.gbwhatsapp.download
 0.0.0.0 www.geowf.ge
-0.0.0.0 www.giphy.com
 0.0.0.0 www.glamour.com
 0.0.0.0 www.glassbox.com
 0.0.0.0 www.glia.com
@@ -6985,9 +6991,7 @@
 0.0.0.0 www.jyh88802.cc
 0.0.0.0 www.kagaitiktok.net
 0.0.0.0 www.kastking.top
-0.0.0.0 www.kgnow.com
 0.0.0.0 www.king.com
-0.0.0.0 www.klook.com
 0.0.0.0 www.knd32k.com
 0.0.0.0 www.kommo.com
 0.0.0.0 www.kustens.com

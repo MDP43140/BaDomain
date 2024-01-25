@@ -42,6 +42,7 @@ a1.applovin.com
 a2.applovin.com
 a388f2a7d8.0d76bd13e8.com
 a3.applovin.com
+a.4b1b5677193b53828020053ae4a0c9d2dec12ef98fe68dc0f880d08c.com
 a.544002bd63edb7f467e7bd980b0cfffcfce735f84ed0412653c20b31.com
 a.7ad27d9e12b6498b866f609c26a678d8ae8617f4708459063305816d.com
 a.85656294e75e19a70450f62acbcbe68420fd28c93647ac9ddc797a0c.com
@@ -294,6 +295,7 @@ dns.oppomobile.com
 dot.iq.com
 download.get-report.site
 download-portal.net
+down-ws-sg.com
 dreamsofcryingf.com
 dspunion.com
 dt2lb.madfingergames.com
@@ -983,6 +985,7 @@ www.notifa.info
 www.pdfcylsmo.com
 www.plg.dev
 www.printertechnicahelp.com
+www.qftwqoss.com
 www.quickbooktechnicalsupport.org
 www.ralijqugghwqil.com
 www.ripple-event.one
