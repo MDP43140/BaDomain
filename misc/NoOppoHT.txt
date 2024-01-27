@@ -264,6 +264,7 @@ log-eap-in.coloros.com
 log-eap-sg.coloros.com
 magazine-api-gl.heytapmobile.com
 magazine-api-in.heytapmobile.com
+mail-abd.coloros.com
 mdp-appconf-eu.heytapdl.com
 mdp-appconf-gb.heytapdl.com
 mdp-appconf-gl.heytapdl.com

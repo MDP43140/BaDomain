@@ -264,6 +264,7 @@
 0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 magazine-api-gl.heytapmobile.com
 0.0.0.0 magazine-api-in.heytapmobile.com
+0.0.0.0 mail-abd.coloros.com
 0.0.0.0 mdp-appconf-eu.heytapdl.com
 0.0.0.0 mdp-appconf-gb.heytapdl.com
 0.0.0.0 mdp-appconf-gl.heytapdl.com

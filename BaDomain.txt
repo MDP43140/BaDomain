@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 25.01.2024
+# Version: 27.01.2024
 # Update: 1 day
 #
 
@@ -794,7 +794,6 @@ api.paynicorn.com
 api.pho.to
 api.pico.bendingspoonsapps.com
 api.picsart.com
-api.pinterest.com
 api.playgendary.com
 api.plg.dev
 api.popin.cc
@@ -993,6 +992,7 @@ ar.4sync.com
 ar.bignox.com
 arcade.software
 arcai.com
+a.rfihub.com
 arkahost.com
 arms-retcode-sg.aliyuncs.com
 artas.biz
@@ -2509,6 +2509,7 @@ filelink.ru
 filelions.live
 filelions.online
 filemoon.sx
+filerep-replica.ff.avast.com
 files.catbox.moe
 files.elfsight.com
 files.osf.io
@@ -3032,7 +3033,6 @@ i.appbundledownload.com
 ibet789.com
 ibikini.cyou
 ib.isappcloud.com
-ibispaint.com
 ibnads.xl.co.id
 i.bosboslink.net
 ibuhaughuss.com
@@ -3980,6 +3980,7 @@ mobile.pipe.aria.microsoft.com
 mobilesearchers.com
 mobile-tracker-free.com
 mobile.useinsider.com
+mobile.yandexadexchange.net
 mobile.yandex.net
 mobiztsunami.appspot.com
 mobredirect.net
@@ -5374,6 +5375,7 @@ sf.ezoiccdn.com
 sf.napi.ucweb.com
 sf-syn.com
 sg01-cdn.rayjump.com
+sg01.dspunion.com
 sg12.zopim.com
 sg16.zopim.com
 sg1-b6s-api.snow.me.akadns.net
@@ -7339,6 +7341,7 @@ xml.opera.com
 xnet.da.mgtv.com
 xn--rtptrislt-d7a4a.com
 xnxx.com
+xofes.com
 xplayer-42f31.web.app
 xpromo-api.plg.dev
 xray.mail.ru

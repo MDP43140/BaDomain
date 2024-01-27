@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 25.01.2024
+# Version: 27.01.2024
 # Update: 1 day
 #
 
@@ -794,7 +794,6 @@
 0.0.0.0 api.pho.to
 0.0.0.0 api.pico.bendingspoonsapps.com
 0.0.0.0 api.picsart.com
-0.0.0.0 api.pinterest.com
 0.0.0.0 api.playgendary.com
 0.0.0.0 api.plg.dev
 0.0.0.0 api.popin.cc
@@ -993,6 +992,7 @@
 0.0.0.0 ar.bignox.com
 0.0.0.0 arcade.software
 0.0.0.0 arcai.com
+0.0.0.0 a.rfihub.com
 0.0.0.0 arkahost.com
 0.0.0.0 arms-retcode-sg.aliyuncs.com
 0.0.0.0 artas.biz
@@ -2509,6 +2509,7 @@
 0.0.0.0 filelions.live
 0.0.0.0 filelions.online
 0.0.0.0 filemoon.sx
+0.0.0.0 filerep-replica.ff.avast.com
 0.0.0.0 files.catbox.moe
 0.0.0.0 files.elfsight.com
 0.0.0.0 files.osf.io
@@ -3032,7 +3033,6 @@
 0.0.0.0 ibet789.com
 0.0.0.0 ibikini.cyou
 0.0.0.0 ib.isappcloud.com
-0.0.0.0 ibispaint.com
 0.0.0.0 ibnads.xl.co.id
 0.0.0.0 i.bosboslink.net
 0.0.0.0 ibuhaughuss.com
@@ -3980,6 +3980,7 @@
 0.0.0.0 mobilesearchers.com
 0.0.0.0 mobile-tracker-free.com
 0.0.0.0 mobile.useinsider.com
+0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mobile.yandex.net
 0.0.0.0 mobiztsunami.appspot.com
 0.0.0.0 mobredirect.net
@@ -5374,6 +5375,7 @@
 0.0.0.0 sf.napi.ucweb.com
 0.0.0.0 sf-syn.com
 0.0.0.0 sg01-cdn.rayjump.com
+0.0.0.0 sg01.dspunion.com
 0.0.0.0 sg12.zopim.com
 0.0.0.0 sg16.zopim.com
 0.0.0.0 sg1-b6s-api.snow.me.akadns.net
@@ -7339,6 +7341,7 @@
 0.0.0.0 xnet.da.mgtv.com
 0.0.0.0 xn--rtptrislt-d7a4a.com
 0.0.0.0 xnxx.com
+0.0.0.0 xofes.com
 0.0.0.0 xplayer-42f31.web.app
 0.0.0.0 xpromo-api.plg.dev
 0.0.0.0 xray.mail.ru

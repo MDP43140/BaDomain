@@ -2226,6 +2226,7 @@
 0.0.0.0 p19-catalog-sg.ibyteimg.com
 0.0.0.0 p19.hypstarcdn.com
 0.0.0.0 p19-novel-sg.ibyteimg.com
+0.0.0.0 p19-oec-common-useast2a.ibyteimg.com
 0.0.0.0 p-19-oec-sg.ibyteimg.com
 0.0.0.0 p19-oec-sg.ibyteimg.com
 0.0.0.0 p19-oec-sg.ibyteimg.com.edgesuite.net
@@ -3219,6 +3220,7 @@
 0.0.0.0 sf16-webcast-useast2a.muscdn.com
 0.0.0.0 sf16-webcast-useast2a.muscdn.com.edgesuite.net
 0.0.0.0 sf19-geckocdn.tiktokcdn.com
+0.0.0.0 sf19-music-sign.tiktokcdn.com
 0.0.0.0 sf19-scmcdn-sg.ibytedtos.com
 0.0.0.0 sf19-scmcdn-va.ibytedtos.com
 0.0.0.0 sf19-va.tiktokcdn.com
