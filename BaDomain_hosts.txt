@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 27.01.2024
+# Version: 30.01.2024
 # Update: 1 day
 #
 
@@ -516,6 +516,7 @@
 0.0.0.0 amplitude.com
 0.0.0.0 amplitude.life360.com
 0.0.0.0 ampltd.top.gg
+0.0.0.0 amp.tidio.com
 0.0.0.0 am-static.com
 0.0.0.0 amsterdam.xhamster.com
 0.0.0.0 amung.us
@@ -697,6 +698,7 @@
 0.0.0.0 api-fc.dutils.com
 0.0.0.0 api-fd.dutils.com
 0.0.0.0 api.firwinds.site
+0.0.0.0 api.flat-ads.com
 0.0.0.0 api.floors.dev
 0.0.0.0 api.flx-vpn.com
 0.0.0.0 api.ftpub.net
@@ -1177,6 +1179,7 @@
 0.0.0.0 bcehost.com
 0.0.0.0 bc.game
 0.0.0.0 bc.imgix.net
+0.0.0.0 bclugu.com
 0.0.0.0 b.cn846.com
 0.0.0.0 bcs.amanotes.net
 0.0.0.0 bdain11112.pcapredict.com
@@ -1435,6 +1438,7 @@
 0.0.0.0 cdn0.editmysite.com
 0.0.0.0 cdn0-production-assets-kly.akamaized.net
 0.0.0.0 cdn0-production-images-kly.akamaized.net
+0.0.0.0 cdn11.bigcommerce.com
 0.0.0.0 cdn130.picsart.com
 0.0.0.0 cdn-146.privacy-mgmt.com
 0.0.0.0 cdn1.affirm.com
@@ -1848,6 +1852,8 @@
 0.0.0.0 connperf.tantanapp.com
 0.0.0.0 conscent.ai
 0.0.0.0 conscent.in
+0.0.0.0 consentcdn.cookiebot.com
+0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent-manager.confirmic.com
 0.0.0.0 consent.trustarc.com
 0.0.0.0 console.gadsme.com
@@ -2052,6 +2058,7 @@
 0.0.0.0 data-rep.livetech.shopee.co.id
 0.0.0.0 datasink.analysis.mangatoon.mobi
 0.0.0.0 datasinksensorsdata.51tracking.com
+0.0.0.0 datatest.hiido.com
 0.0.0.0 dataupdate.survivorio.com
 0.0.0.0 datk.anythinktech.com
 0.0.0.0 datting.click
@@ -2254,6 +2261,7 @@
 0.0.0.0 dsail-tech.com
 0.0.0.0 dsid.nos.wjv-1.neo.id
 0.0.0.0 dsms0mj1bbhn4.cloudfront.net
+0.0.0.0 dsp-adcreative.mobshark.net
 0.0.0.0 dsp.baidu.com
 0.0.0.0 ds.shalltry.com
 0.0.0.0 ds-test.shalltry.com
@@ -2530,6 +2538,7 @@
 0.0.0.0 fl466op.video-delivery.net
 0.0.0.0 flag.bigo.sg
 0.0.0.0 flashtalking.com
+0.0.0.0 flat-ads.com
 0.0.0.0 flbk2.izooto.com
 0.0.0.0 flbk.izooto.com
 0.0.0.0 flirtingtest-eng.picka.app
@@ -2770,6 +2779,7 @@
 0.0.0.0 global.ketchcdn.com
 0.0.0.0 globalmsg.facemojikeyboard.com
 0.0.0.0 globalnass.ru
+0.0.0.0 global-pushsdk.ihago.net
 0.0.0.0 global.quadairdrone.com
 0.0.0.0 global.rakuten.com
 0.0.0.0 global-rank-sg.sausage.xd.com
@@ -2877,6 +2887,7 @@
 0.0.0.0 h2svr.info
 0.0.0.0 h5.boyuanhulian.com
 0.0.0.0 h5.eagllwin.com
+0.0.0.0 h5ecom.com
 0.0.0.0 h5.rp77715.com
 0.0.0.0 h5.tu.qq.com
 0.0.0.0 h5xyz.com
@@ -2938,6 +2949,7 @@
 0.0.0.0 highcharts.com
 0.0.0.0 highcpmrevenuenetwork.com
 0.0.0.0 hi.hellobar.com
+0.0.0.0 hiido.com
 0.0.0.0 hiperfdhaus.com
 0.0.0.0 hippoobox.com
 0.0.0.0 hippy.stream.kg.qq.com
@@ -2955,6 +2967,7 @@
 0.0.0.0 hk.slb.mob.com
 0.0.0.0 hkspeed.igamecj.com
 0.0.0.0 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
+0.0.0.0 hlog.bclugu.com
 0.0.0.0 hls-hw.others-cdn.com
 0.0.0.0 hm2.yrnykx.com
 0.0.0.0 hmapp.pvpchat.com
@@ -2963,6 +2976,7 @@
 0.0.0.0 hmma.baidu.com
 0.0.0.0 hockeyapp.net
 0.0.0.0 homecash1.com
+0.0.0.0 homepage-cdn.tidio.com
 0.0.0.0 homer.supercell.com
 0.0.0.0 homesbeautiful.us
 0.0.0.0 honeybadger.io
@@ -3023,7 +3037,10 @@
 0.0.0.0 i3.hdslb.com
 0.0.0.0 i6e7aabybyc.co.com
 0.0.0.0 i.7gb3.com
+0.0.0.0 i-863.ihago.net
+0.0.0.0 i-881.ihago.net
 0.0.0.0 i.8s5q.com
+0.0.0.0 iab.ihago.net
 0.0.0.0 i.aecoapps.com
 0.0.0.0 iam.tryemanagecrm.com
 0.0.0.0 iap.etm.tech
@@ -3088,6 +3105,7 @@
 0.0.0.0 i.git99.com
 0.0.0.0 ign.com
 0.0.0.0 igofun.mobi
+0.0.0.0 ihago.net
 0.0.0.0 i.higgsradio.com
 0.0.0.0 i.jpallnight.com
 0.0.0.0 i.kissmetrics.com
@@ -3578,7 +3596,9 @@
 0.0.0.0 lf16-geckocdn.anotecdn.com
 0.0.0.0 lf16-oversea.goofy-cdn.com
 0.0.0.0 l-files.livejournal.net
+0.0.0.0 l.flat-ads.com
 0.0.0.0 l.getsitecontrol.com
+0.0.0.0 lgglobal.ihago.net
 0.0.0.0 l.gotube.pro
 0.0.0.0 liangcang-material.alicdn.com
 0.0.0.0 library.supercell.com
@@ -3674,6 +3694,7 @@
 0.0.0.0 log.klook.com
 0.0.0.0 log.kzvepo.com
 0.0.0.0 logly.co.jp
+0.0.0.0 log.mediation.onebooster.me
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.modtechbig.com
 0.0.0.0 logo.clearbit.com
@@ -3984,6 +4005,7 @@
 0.0.0.0 mobile.yandex.net
 0.0.0.0 mobiztsunami.appspot.com
 0.0.0.0 mobredirect.net
+0.0.0.0 mobshark.net
 0.0.0.0 mobvista.com
 0.0.0.0 moddroid.co
 0.0.0.0 modgen.uno
@@ -4018,6 +4040,7 @@
 0.0.0.0 mrbeast.site
 0.0.0.0 ms1800.com
 0.0.0.0 ms4.applovin.com
+0.0.0.0 ms4.applvn.com
 0.0.0.0 ms.4sync.com
 0.0.0.0 ms672812254.site
 0.0.0.0 ms.bignox.com
@@ -4323,6 +4346,7 @@
 0.0.0.0 o13824.ingest.sentry.io
 0.0.0.0 o13855.ingest.sentry.io
 0.0.0.0 o155150.ingest.sentry.io
+0.0.0.0 o17124.ingest.sentry.io
 0.0.0.0 o209266.ingest.sentry.io
 0.0.0.0 o33249.ingest.sentry.io
 0.0.0.0 o370407.ingest.sentry.io
@@ -4472,6 +4496,7 @@
 0.0.0.0 oss-eu-central-1.aliyuncs.com
 0.0.0.0 ossgw.alicdn.com
 0.0.0.0 ossweb-img.qq.com
+0.0.0.0 o-static.ihago.net
 0.0.0.0 osupdate2020.shalltry.com
 0.0.0.0 otakudesu.org
 0.0.0.0 ota.lokalise.co
@@ -4639,6 +4664,7 @@
 0.0.0.0 personyze.com
 0.0.0.0 pes22-game.cs.konami.net
 0.0.0.0 pf.daerisoft.com
+0.0.0.0 pfew.nl
 0.0.0.0 pfmverify.ca
 0.0.0.0 pgepodownload.mediatek.com
 0.0.0.0 phala.one
@@ -4878,6 +4904,7 @@
 0.0.0.0 pullcm.mymuslimdaily.com
 0.0.0.0 pulselb.relap.info
 0.0.0.0 pulselive.com
+0.0.0.0 push-api.ihago.net
 0.0.0.0 pushbrothers.com
 0.0.0.0 push.idtopnews.com
 0.0.0.0 pushimg.com
@@ -5034,6 +5061,7 @@
 0.0.0.0 res.gametoolboostestwell.com
 0.0.0.0 res-global-sg-master.sausage.xd.com
 0.0.0.0 res-global-sg-slave.sausage.xd.com
+0.0.0.0 res.h5ecom.com
 0.0.0.0 res.noxmobi.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 reson8.com
@@ -5076,6 +5104,7 @@
 0.0.0.0 rise-ai.com
 0.0.0.0 riseup.net
 0.0.0.0 risk.clearbit.com
+0.0.0.0 risksdk.ihago.net
 0.0.0.0 river-mobile.data.ea.com
 0.0.0.0 riversnails.club
 0.0.0.0 rkdms.com
@@ -5622,6 +5651,7 @@
 0.0.0.0 s.swiftypecdn.com
 0.0.0.0 st001004gj-apm.instabug.com
 0.0.0.0 st001004gj.instabug.com
+0.0.0.0 stablegrowthexchange.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 stage-ms4.applovin.com
 0.0.0.0 stagepopkek.com
@@ -5670,6 +5700,7 @@
 0.0.0.0 static.hdslb.com
 0.0.0.0 static.hippoobox.com
 0.0.0.0 static.hsappstatic.net
+0.0.0.0 static.ihago.net
 0.0.0.0 static.imghst-de.com
 0.0.0.0 static.intercomassets.com
 0.0.0.0 static.jpallnight.com
@@ -6920,6 +6951,7 @@
 0.0.0.0 www.feedsonbudget.com
 0.0.0.0 www.filmmogzivota.rs
 0.0.0.0 www.financialtrending.com
+0.0.0.0 www.flat-ads.com
 0.0.0.0 www.fliplineads.com
 0.0.0.0 www.flx-vpn.com
 0.0.0.0 www.fnaim.ru
@@ -6946,6 +6978,7 @@
 0.0.0.0 www.gosupportnow.com
 0.0.0.0 www.goyangfc.com
 0.0.0.0 www.h2svr.info
+0.0.0.0 www.h5ecom.com
 0.0.0.0 www.haasonline.com
 0.0.0.0 www.haasscripts.com
 0.0.0.0 www.haokan.mobi
@@ -6969,6 +7002,7 @@
 0.0.0.0 www.ibuhaughuss.com
 0.0.0.0 www.iconsdb.com
 0.0.0.0 www.iflix.com
+0.0.0.0 www.ihago.net
 0.0.0.0 www.iklankami.com
 0.0.0.0 www.ilyon.net
 0.0.0.0 www.infinitespy.com
@@ -7403,6 +7437,7 @@
 0.0.0.0 yieldmo.com
 0.0.0.0 yingxiao.baidu.com
 0.0.0.0 yixiu-abtest.alicdn.com
+0.0.0.0 yjd-turnover.ihago.net
 0.0.0.0 ykimg.alicdn.com
 0.0.0.0 ykimg.com
 0.0.0.0 ylx-aff.advertica-cdn.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 27.01.2024
+# Version: 30.01.2024
 # Update: 1 day
 #
 
@@ -516,6 +516,7 @@ ampcid.google.com
 amplitude.com
 amplitude.life360.com
 ampltd.top.gg
+amp.tidio.com
 am-static.com
 amsterdam.xhamster.com
 amung.us
@@ -697,6 +698,7 @@ api.fashionshow.club
 api-fc.dutils.com
 api-fd.dutils.com
 api.firwinds.site
+api.flat-ads.com
 api.floors.dev
 api.flx-vpn.com
 api.ftpub.net
@@ -1177,6 +1179,7 @@ bce.baidu.com
 bcehost.com
 bc.game
 bc.imgix.net
+bclugu.com
 b.cn846.com
 bcs.amanotes.net
 bdain11112.pcapredict.com
@@ -1435,6 +1438,7 @@ cdn0.docdoc.com
 cdn0.editmysite.com
 cdn0-production-assets-kly.akamaized.net
 cdn0-production-images-kly.akamaized.net
+cdn11.bigcommerce.com
 cdn130.picsart.com
 cdn-146.privacy-mgmt.com
 cdn1.affirm.com
@@ -1848,6 +1852,8 @@ connectzoomdownload.com
 connperf.tantanapp.com
 conscent.ai
 conscent.in
+consentcdn.cookiebot.com
+consent.cookiebot.com
 consent-manager.confirmic.com
 consent.trustarc.com
 console.gadsme.com
@@ -2052,6 +2058,7 @@ datamixer-pa.googleapis.com
 data-rep.livetech.shopee.co.id
 datasink.analysis.mangatoon.mobi
 datasinksensorsdata.51tracking.com
+datatest.hiido.com
 dataupdate.survivorio.com
 datk.anythinktech.com
 datting.click
@@ -2254,6 +2261,7 @@ ds2.shalltry.com
 dsail-tech.com
 dsid.nos.wjv-1.neo.id
 dsms0mj1bbhn4.cloudfront.net
+dsp-adcreative.mobshark.net
 dsp.baidu.com
 ds.shalltry.com
 ds-test.shalltry.com
@@ -2530,6 +2538,7 @@ fkvufv-cdn-settings.appsflyersdk.com
 fl466op.video-delivery.net
 flag.bigo.sg
 flashtalking.com
+flat-ads.com
 flbk2.izooto.com
 flbk.izooto.com
 flirtingtest-eng.picka.app
@@ -2770,6 +2779,7 @@ global.ilovexclub.net
 global.ketchcdn.com
 globalmsg.facemojikeyboard.com
 globalnass.ru
+global-pushsdk.ihago.net
 global.quadairdrone.com
 global.rakuten.com
 global-rank-sg.sausage.xd.com
@@ -2877,6 +2887,7 @@ h2ocdn.lavasoft.com
 h2svr.info
 h5.boyuanhulian.com
 h5.eagllwin.com
+h5ecom.com
 h5.rp77715.com
 h5.tu.qq.com
 h5xyz.com
@@ -2938,6 +2949,7 @@ higgsgamestudio.com
 highcharts.com
 highcpmrevenuenetwork.com
 hi.hellobar.com
+hiido.com
 hiperfdhaus.com
 hippoobox.com
 hippy.stream.kg.qq.com
@@ -2955,6 +2967,7 @@ hk.pool.ntp.org
 hk.slb.mob.com
 hkspeed.igamecj.com
 hkxpqdtgsucylodaejmzmtnkpfvojabe.com
+hlog.bclugu.com
 hls-hw.others-cdn.com
 hm2.yrnykx.com
 hmapp.pvpchat.com
@@ -2963,6 +2976,7 @@ hm.e.shifen.com
 hmma.baidu.com
 hockeyapp.net
 homecash1.com
+homepage-cdn.tidio.com
 homer.supercell.com
 homesbeautiful.us
 honeybadger.io
@@ -3023,7 +3037,10 @@ i2-peyeofyttwvlktcdycpmezebwshibx.init.cedexis-radar.net
 i3.hdslb.com
 i6e7aabybyc.co.com
 i.7gb3.com
+i-863.ihago.net
+i-881.ihago.net
 i.8s5q.com
+iab.ihago.net
 i.aecoapps.com
 iam.tryemanagecrm.com
 iap.etm.tech
@@ -3088,6 +3105,7 @@ igapromomanager-pa.googleapis.com
 i.git99.com
 ign.com
 igofun.mobi
+ihago.net
 i.higgsradio.com
 i.jpallnight.com
 i.kissmetrics.com
@@ -3578,7 +3596,9 @@ levect.com
 lf16-geckocdn.anotecdn.com
 lf16-oversea.goofy-cdn.com
 l-files.livejournal.net
+l.flat-ads.com
 l.getsitecontrol.com
+lgglobal.ihago.net
 l.gotube.pro
 liangcang-material.alicdn.com
 library.supercell.com
@@ -3674,6 +3694,7 @@ login.wmtransfer.com
 log.klook.com
 log.kzvepo.com
 logly.co.jp
+log.mediation.onebooster.me
 log.mmstat.com
 log.modtechbig.com
 logo.clearbit.com
@@ -3984,6 +4005,7 @@ mobile.yandexadexchange.net
 mobile.yandex.net
 mobiztsunami.appspot.com
 mobredirect.net
+mobshark.net
 mobvista.com
 moddroid.co
 modgen.uno
@@ -4018,6 +4040,7 @@ mrbeastgiftscard.com
 mrbeast.site
 ms1800.com
 ms4.applovin.com
+ms4.applvn.com
 ms.4sync.com
 ms672812254.site
 ms.bignox.com
@@ -4323,6 +4346,7 @@ o1160911.ingest.sentry.io
 o13824.ingest.sentry.io
 o13855.ingest.sentry.io
 o155150.ingest.sentry.io
+o17124.ingest.sentry.io
 o209266.ingest.sentry.io
 o33249.ingest.sentry.io
 o370407.ingest.sentry.io
@@ -4472,6 +4496,7 @@ oss-cn-hongkong.aliyuncs.com
 oss-eu-central-1.aliyuncs.com
 ossgw.alicdn.com
 ossweb-img.qq.com
+o-static.ihago.net
 osupdate2020.shalltry.com
 otakudesu.org
 ota.lokalise.co
@@ -4639,6 +4664,7 @@ person-stream.clearbit.com
 personyze.com
 pes22-game.cs.konami.net
 pf.daerisoft.com
+pfew.nl
 pfmverify.ca
 pgepodownload.mediatek.com
 phala.one
@@ -4878,6 +4904,7 @@ pullcf.joyit.live
 pullcm.mymuslimdaily.com
 pulselb.relap.info
 pulselive.com
+push-api.ihago.net
 pushbrothers.com
 push.idtopnews.com
 pushimg.com
@@ -5034,6 +5061,7 @@ res.feednews.com
 res.gametoolboostestwell.com
 res-global-sg-master.sausage.xd.com
 res-global-sg-slave.sausage.xd.com
+res.h5ecom.com
 res.noxmobi.com
 resolver.gslb.mi-idc.com
 reson8.com
@@ -5076,6 +5104,7 @@ riperfienwa.com
 rise-ai.com
 riseup.net
 risk.clearbit.com
+risksdk.ihago.net
 river-mobile.data.ea.com
 riversnails.club
 rkdms.com
@@ -5622,6 +5651,7 @@ sstatic1.histats.com
 s.swiftypecdn.com
 st001004gj-apm.instabug.com
 st001004gj.instabug.com
+stablegrowthexchange.com
 stack-sonar.com
 stage-ms4.applovin.com
 stagepopkek.com
@@ -5670,6 +5700,7 @@ static.flx-vpn.com
 static.hdslb.com
 static.hippoobox.com
 static.hsappstatic.net
+static.ihago.net
 static.imghst-de.com
 static.intercomassets.com
 static.jpallnight.com
@@ -6920,6 +6951,7 @@ www.fbads-tools.com
 www.feedsonbudget.com
 www.filmmogzivota.rs
 www.financialtrending.com
+www.flat-ads.com
 www.fliplineads.com
 www.flx-vpn.com
 www.fnaim.ru
@@ -6946,6 +6978,7 @@ www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.gosupportnow.com
 www.goyangfc.com
 www.h2svr.info
+www.h5ecom.com
 www.haasonline.com
 www.haasscripts.com
 www.haokan.mobi
@@ -6969,6 +7002,7 @@ www.ibet789.com
 www.ibuhaughuss.com
 www.iconsdb.com
 www.iflix.com
+www.ihago.net
 www.iklankami.com
 www.ilyon.net
 www.infinitespy.com
@@ -7403,6 +7437,7 @@ yieldlove.com
 yieldmo.com
 yingxiao.baidu.com
 yixiu-abtest.alicdn.com
+yjd-turnover.ihago.net
 ykimg.alicdn.com
 ykimg.com
 ylx-aff.advertica-cdn.com
