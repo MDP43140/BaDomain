@@ -1367,7 +1367,6 @@
 0.0.0.0 cabinet.taximaxim.com
 0.0.0.0 cabinet.taximaxim.ru
 0.0.0.0 cabinet.taxsee.ru
-0.0.0.0 cachefly.net
 0.0.0.0 cadmoremedia.com
 0.0.0.0 c.adskeeper.com
 0.0.0.0 caduceus.online
