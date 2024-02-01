@@ -2175,6 +2175,7 @@
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 p16.tiktokcdn.com.edgesuite.net
 0.0.0.0 p16-tiktokcdn-com.toutiao50.com
+0.0.0.0 p16-tiktok-dm-sticker-euttp-sign-useast2a.ibyteimg.com
 0.0.0.0 p16-tiktok-sg-ab.ibyteimg.com
 0.0.0.0 p16-tiktok-sg-ab.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-tiktok-sg-h2.ibyteimg.com
@@ -2680,6 +2681,7 @@
 0.0.0.0 pull-flv-f11-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-f11.tiktokcdn.com
 0.0.0.0 pull-flv-f11.tiktokcdn.liveplay.myqcloud.com
+0.0.0.0 pull-flv-f11-tt01.tiktokcdn.com
 0.0.0.0 pull-flv-f11-va01.tiktokcdn.com
 0.0.0.0 pull-flv-f1-ab.tiktokcdn.com
 0.0.0.0 pull-flv-f1-ab.tiktokcdn.com.wsdvs.com
