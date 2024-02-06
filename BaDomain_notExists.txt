@@ -142,6 +142,7 @@ a.prd.aadg.trafficmanager.net
 apytbfdzy.com
 arstechnica.net
 asianteen.space
+assets-jpcust.jwpsrv.com
 associates-amazon.com
 a-techsolutions.us
 att-citrix.com
@@ -246,6 +247,7 @@ conn-service-gl-03.allawntech.com
 consensu.org
 contextads.live
 convertexperiments.com
+cookie-consent.iametza.eus
 copyandcats.online
 copyrightform-helpcenter.tk
 correos.esentregas.ga
@@ -659,6 +661,7 @@ placements.tapjoyads.com
 platform.hicloud.com
 player.bignox.com
 playmakerservices.com
+play.vidyard.com
 plg.dev
 pmall.migc.xiaomi.com
 pn.api.micloud.mi.com
@@ -889,6 +892,7 @@ vg88.pro
 video-edge-6f5d8d.pdx01.abs.hls.ttvnw.net
 video.intl.xiaomi.com
 video-l.usicdn.com
+videos-cloudfront-usp.jwpsrv.com
 videos.sc-cdn.net
 vindicosuite.com
 vlitag.com

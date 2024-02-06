@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 30.01.2024
+# Version: 06.02.2024
 # Update: 1 day
 #
 
@@ -237,6 +237,7 @@
 0.0.0.0 a388f2a7d8.0d76bd13e8.com
 0.0.0.0 a3f76b6ab2ad3a9c94588dea7f599848.safeframe.googlesyndication.com
 0.0.0.0 a.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
+0.0.0.0 a.480bbdf9664629877bc67d2094ca011cc759f779887c3337e8ae8bfd.com
 0.0.0.0 a4.applovin.com
 0.0.0.0 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 0.0.0.0 a.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
@@ -251,6 +252,7 @@
 0.0.0.0 a.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 0.0.0.0 a.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 a.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
+0.0.0.0 a.954ea5dcf2a4676c48b30de1262ab03e10a4ae8a82d3e73908fa4653.com
 0.0.0.0 a.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 0.0.0.0 a.a99a6986ec21da4e788175eab688505c303b15e51653736d53df5d6c.com
 0.0.0.0 a.ab87cc9ec2c76f1c4f6d2703ef9e0d56008bc98b157cc3af10a5bfbd.com
@@ -371,6 +373,7 @@
 0.0.0.0 ads.gadsme.com
 0.0.0.0 ads-geo.appia.com
 0.0.0.0 ads.grid.id
+0.0.0.0 ads.id
 0.0.0.0 adsimg.kompas.com
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads-interfaces.sc-cdn.net
@@ -1255,6 +1258,7 @@
 0.0.0.0 bingapis.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 bizconfig.palmplaystore.com
+0.0.0.0 bizibaratzea.eus
 0.0.0.0 bizible.com
 0.0.0.0 bizscene.palmplaystore.com
 0.0.0.0 black.riseup.net
@@ -2060,6 +2064,7 @@
 0.0.0.0 datatest.hiido.com
 0.0.0.0 dataupdate.survivorio.com
 0.0.0.0 datk.anythinktech.com
+0.0.0.0 datk.toponadss.com
 0.0.0.0 datting.click
 0.0.0.0 datting.link
 0.0.0.0 datting.online
@@ -3062,6 +3067,7 @@
 0.0.0.0 ic-vt-lm.xhcdn.com
 0.0.0.0 id2.sv.rkdms.com
 0.0.0.0 id-a.kakaopagecdn.com
+0.0.0.0 id.analytics.glance.inmobi.com
 0.0.0.0 id.bignox.com
 0.0.0.0 id-comet.z-dn.net
 0.0.0.0 idea5.xyz
@@ -3536,6 +3542,7 @@
 0.0.0.0 la4-userver-upaas.ucweb.com
 0.0.0.0 laamor.uno
 0.0.0.0 lab-js-abtest.lazada.com
+0.0.0.0 labur.eus
 0.0.0.0 ladepeche.fr
 0.0.0.0 lajwaabculinaryart.com
 0.0.0.0 lamanlabuh.aduankonten.id
@@ -4869,6 +4876,7 @@
 0.0.0.0 ps.eyeota.net
 0.0.0.0 pseyumd.ru
 0.0.0.0 pshmetrk.com
+0.0.0.0 ps.wshareit.com
 0.0.0.0 pt188.vip
 0.0.0.0 pt.bignox.com
 0.0.0.0 ptlinknettbk.my.salesforce.com
@@ -4911,6 +4919,7 @@
 0.0.0.0 pushmart.net
 0.0.0.0 pushmessage.samsung.com
 0.0.0.0 pushprofit.net
+0.0.0.0 push-video.dalyfeds.com
 0.0.0.0 push-video.wshareit.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 pushycat.net
@@ -7318,6 +7327,7 @@
 0.0.0.0 x-apac.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 0.0.0.0 x-apac.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 x-apac.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
+0.0.0.0 x-apac.954ea5dcf2a4676c48b30de1262ab03e10a4ae8a82d3e73908fa4653.com
 0.0.0.0 x-apac.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 0.0.0.0 x-apac.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 0.0.0.0 x-apac.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
@@ -7328,11 +7338,13 @@
 0.0.0.0 xdg-1c20f-intl.xd.com
 0.0.0.0 xdg-2fc4a-intl.xd.com
 0.0.0.0 xdg-3da8a-intl.xd.com
+0.0.0.0 x-emea.954ea5dcf2a4676c48b30de1262ab03e10a4ae8a82d3e73908fa4653.com
 0.0.0.0 x-emea.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 0.0.0.0 x-eu.06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com
 0.0.0.0 x-eu.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 0.0.0.0 x-eu.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
 0.0.0.0 x-eu.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
+0.0.0.0 x-eu.480bbdf9664629877bc67d2094ca011cc759f779887c3337e8ae8bfd.com
 0.0.0.0 x-eu.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 0.0.0.0 x-eu.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
 0.0.0.0 x-eu.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
@@ -7343,6 +7355,7 @@
 0.0.0.0 x-eu.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 0.0.0.0 x-eu.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 x-eu.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
+0.0.0.0 x-eu.954ea5dcf2a4676c48b30de1262ab03e10a4ae8a82d3e73908fa4653.com
 0.0.0.0 x-eu.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 0.0.0.0 x-eu.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 0.0.0.0 x-eu.c0095429bf665cd7f772fcfffe07a604076362ff251b9d4466a4afbd.com
@@ -7365,12 +7378,14 @@
 0.0.0.0 x-in-mob.glance-cdn.com
 0.0.0.0 xjp-jmacs.m.taobao.com
 0.0.0.0 xjp-msgacs.m.taobao.com
+0.0.0.0 x-latam.954ea5dcf2a4676c48b30de1262ab03e10a4ae8a82d3e73908fa4653.com
 0.0.0.0 x-latam.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com
 0.0.0.0 xlaxiata2.md-apis.medallia.com
 0.0.0.0 xlaxiata-resources.digital-cloud-sin1.medallia.com
 0.0.0.0 xlaxiata-udc.digital-cloud-sin1.medallia.com
 0.0.0.0 xlgmedia.com
 0.0.0.0 xml.opera.com
+0.0.0.0 x-na.954ea5dcf2a4676c48b30de1262ab03e10a4ae8a82d3e73908fa4653.com
 0.0.0.0 xnet.da.mgtv.com
 0.0.0.0 xn--rtptrislt-d7a4a.com
 0.0.0.0 xnxx.com
@@ -7397,6 +7412,7 @@
 0.0.0.0 x-us.2d76ef947212061a3254b5abf6e412a80623ce72dd9fdfce706ce2b9.com
 0.0.0.0 x-us.360099c2c5edb743b5a2abd52c1941d813efefd1752a7249d54d300c.com
 0.0.0.0 x-us.479e8d0d656384fb22b087cfaa2334ee02e952cbd52c4db3a089aa14.com
+0.0.0.0 x-us.480bbdf9664629877bc67d2094ca011cc759f779887c3337e8ae8bfd.com
 0.0.0.0 x-us.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 0.0.0.0 x-us.4fa3df6bdd29062d8558b55bb06fb2885592fcf83cf99e4909483c81.com
 0.0.0.0 x-us.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
@@ -7407,6 +7423,7 @@
 0.0.0.0 x-us.6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com
 0.0.0.0 x-us.8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 x-us.93cae558b644d2041eb2ae87388b949411828e3941b8029ca11bf069.com
+0.0.0.0 x-us.954ea5dcf2a4676c48b30de1262ab03e10a4ae8a82d3e73908fa4653.com
 0.0.0.0 x-us.a9578781b503d168069d979b9403961d411db5f2495fe956cd410157.com
 0.0.0.0 x-us.aece742329cf1498efb3307a1222e9419141490a55473ac02ec63e36.com
 0.0.0.0 x-us.fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com

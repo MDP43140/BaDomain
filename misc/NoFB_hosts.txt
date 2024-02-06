@@ -4788,6 +4788,7 @@
 0.0.0.0 stryker.facebook.com
 0.0.0.0 student.facebook.com
 0.0.0.0 studio.facebook.com
+0.0.0.0 stun.fbsbx.com
 0.0.0.0 survey.instagram.com
 0.0.0.0 sv.facebook.com
 0.0.0.0 sv-se.facebook.com
@@ -5356,6 +5357,7 @@
 0.0.0.0 whatsapp-cdn-shv-01-sjc2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-vie1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-sin6.fbcdn.net
+0.0.0.0 whatsapp-chatd-edge-shv-01-sjc3.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-02-sin6.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-03-sin6.facebook.com
 0.0.0.0 white.ish.instagram.com

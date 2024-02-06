@@ -385,6 +385,7 @@ videoclipf.apps.coloros.com
 videoeditor-sg.soloop.heytapmobile.com
 vip-client.heytapmobi.com
 virusinfo-cloudscan-sn.heytapmobile.com
+weather-server.allawnos.com
 weather-server-eu.allawnos.com
 weather-server-in.allawnos.com
 weather-server-sg.allawnos.com

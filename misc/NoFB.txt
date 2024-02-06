@@ -4779,6 +4779,7 @@ stormberg.m.facebook.com
 stryker.facebook.com
 student.facebook.com
 studio.facebook.com
+stun.fbsbx.com
 survey.instagram.com
 sv.facebook.com
 sv-se.facebook.com
@@ -5347,6 +5348,7 @@ whatsapp-cdn-shv-01-sit4.fbcdn.net
 whatsapp-cdn-shv-01-sjc2.fbcdn.net
 whatsapp-cdn-shv-01-vie1.fbcdn.net
 whatsapp-cdn-shv-02-sin6.fbcdn.net
+whatsapp-chatd-edge-shv-01-sjc3.facebook.com
 whatsapp-chatd-edge-shv-02-sin6.facebook.com
 whatsapp-chatd-edge-shv-03-sin6.facebook.com
 white.ish.instagram.com
