@@ -343,6 +343,7 @@ shortintl.push.oppomobile.com
 slb-apisnd-in.heytapmobile.com
 smartcardf.apps.coloros.com
 smartcardf-eu.apps.coloros.com
+sms-sg.ads.heytapmobile.com
 stat-cn.dc.oppomobile.com
 stat-in.dc.oppomobile.com
 stat-sg.dc.oppomobile.com

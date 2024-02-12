@@ -66,6 +66,7 @@ asia-vcode-api.vivoglobal.com
 asia-vcode-od.vivoglobal.com
 asia-vcode-or.vivoglobal.com
 asia-vnote.vivoglobal.com
+asia-vpushonrt-stsdk.vivoglobal.com
 asia-vpush-static.vivoglobal.com
 asia-weather.vivoglobal.com
 asia-wifi.vivoglobal.com

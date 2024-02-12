@@ -8,6 +8,7 @@
 #
 
 0pbxmo-useast2a.xzcs3zlph.com
+0p16-c1-sg.ibyteimg.com
 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 0pbxmo.xzcs3zlph.com
 0pbxmo.xzcs3zlph.com.edgesuite.net
@@ -1417,6 +1418,7 @@ in.tiktok.com
 invoice.bytedance.net
 io.bytedance.net
 io.snssdk.com
+ipolyfill-origin-sg.byteintlapi.com
 i.pstatp.com
 ipstatp.com
 ipstatp.com.edgekey.net
@@ -1579,6 +1581,7 @@ lf16-geckocdn-sg.ibytedtos.com
 lf16-geckocdn-sg.ibytedtos.com.edgesuite.net
 lf16-geckocdn-sg.tiktokcdn.com
 lf16-geckocdn-sg.tiktokcdn.com.edgesuite.net
+lf16-inspirecloud.ibytedtos.com
 lf16-lark-va.ibytedtos.com
 lf16-lark-va.ibytedtos.com.edgekey.net
 lf16-mt-va.ibytedtos.com
@@ -2103,6 +2106,9 @@ p16a.tiktokcdn.com.edgesuite.net
 p16b.hypstarcdn.com
 p16b.tiktokcdn.com
 p16b.tiktokcdn.com.edgesuite.net
+p16-c1-sg.ibyteimg.com
+p16-c1-useast2a.ibyteimg.com
+p16-c1-va.ibyteimg.com
 p16-capcut-sg.ibyteimg.com
 p16-capcut-sg.ibyteimg.com.edgesuite.net
 p16-capcut-sign-sg.ibyteimg.com
@@ -2146,6 +2152,8 @@ p16.pstatp.com
 p16.pstatp.com.edgekey.net
 p16.pstatp.com.w.alikunlun.com
 p16-pu-sign-ie.tiktokcdn-eu.com
+p16-retouch-file-sign-sg.ibyteimg.com
+p16-retouch-sign-sg.ibyteimg.com
 p16-security-sg.ibyteimg.com
 p16-security-sg.ibyteimg.com.edgesuite.net
 p16-security-va.ibyteimg.com
@@ -2234,6 +2242,8 @@ p19-oec-sg.ibyteimg.com.edgesuite.net
 p19-oec-va.ibyteimg.com
 p19-oec-va.ibyteimg.com.edgesuite.net
 p19-pu-sign-ie.tiktokcdn-eu.com
+p19-retouch-sign-sg.ibyteimg.com
+p19-retouch-va-file-sign-va.ibyteimg.com
 p19-security-sg.ibyteimg.com
 p19-security-va.ibyteimg.com
 p19-sign-sg.tiktokcdn.com
@@ -2511,6 +2521,7 @@ pb3.pstatp.com
 pb3.pstatp.com.w.kunlungr.com
 pb9.pstatp.com
 pb9.pstatp.com.bsgslb.com
+pbxmo-useast2a.xzcs3zlph.com
 p.bytedance.net
 pearl.bytedance.net
 pg.bytedance.net
@@ -3184,6 +3195,7 @@ sf16-lark-va.ibytedtos.com
 sf16-lark-va.ibytedtos.com.edgekey.net
 sf16-muse-va.ibytedtos.com
 sf16-muse-va.ibytedtos.com.edgekey.net
+sf16-music-sign.tiktokcdn.com
 sf16-passport-sg.ibytedtos.com
 sf16-passport-sg.ibytedtos.com.edgekey.net
 sf16-passport-va.ibytedtos.com

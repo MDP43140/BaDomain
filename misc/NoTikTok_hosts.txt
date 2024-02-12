@@ -8,6 +8,7 @@
 #
 
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com
+0.0.0.0 0p16-c1-sg.ibyteimg.com
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 0.0.0.0 0pbxmo.xzcs3zlph.com
 0.0.0.0 0pbxmo.xzcs3zlph.com.edgesuite.net
@@ -1417,6 +1418,7 @@
 0.0.0.0 invoice.bytedance.net
 0.0.0.0 io.bytedance.net
 0.0.0.0 io.snssdk.com
+0.0.0.0 ipolyfill-origin-sg.byteintlapi.com
 0.0.0.0 i.pstatp.com
 0.0.0.0 ipstatp.com
 0.0.0.0 ipstatp.com.edgekey.net
@@ -1579,6 +1581,7 @@
 0.0.0.0 lf16-geckocdn-sg.ibytedtos.com.edgesuite.net
 0.0.0.0 lf16-geckocdn-sg.tiktokcdn.com
 0.0.0.0 lf16-geckocdn-sg.tiktokcdn.com.edgesuite.net
+0.0.0.0 lf16-inspirecloud.ibytedtos.com
 0.0.0.0 lf16-lark-va.ibytedtos.com
 0.0.0.0 lf16-lark-va.ibytedtos.com.edgekey.net
 0.0.0.0 lf16-mt-va.ibytedtos.com
@@ -2103,6 +2106,9 @@
 0.0.0.0 p16b.hypstarcdn.com
 0.0.0.0 p16b.tiktokcdn.com
 0.0.0.0 p16b.tiktokcdn.com.edgesuite.net
+0.0.0.0 p16-c1-sg.ibyteimg.com
+0.0.0.0 p16-c1-useast2a.ibyteimg.com
+0.0.0.0 p16-c1-va.ibyteimg.com
 0.0.0.0 p16-capcut-sg.ibyteimg.com
 0.0.0.0 p16-capcut-sg.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-capcut-sign-sg.ibyteimg.com
@@ -2146,6 +2152,8 @@
 0.0.0.0 p16.pstatp.com.edgekey.net
 0.0.0.0 p16.pstatp.com.w.alikunlun.com
 0.0.0.0 p16-pu-sign-ie.tiktokcdn-eu.com
+0.0.0.0 p16-retouch-file-sign-sg.ibyteimg.com
+0.0.0.0 p16-retouch-sign-sg.ibyteimg.com
 0.0.0.0 p16-security-sg.ibyteimg.com
 0.0.0.0 p16-security-sg.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-security-va.ibyteimg.com
@@ -2234,6 +2242,8 @@
 0.0.0.0 p19-oec-va.ibyteimg.com
 0.0.0.0 p19-oec-va.ibyteimg.com.edgesuite.net
 0.0.0.0 p19-pu-sign-ie.tiktokcdn-eu.com
+0.0.0.0 p19-retouch-sign-sg.ibyteimg.com
+0.0.0.0 p19-retouch-va-file-sign-va.ibyteimg.com
 0.0.0.0 p19-security-sg.ibyteimg.com
 0.0.0.0 p19-security-va.ibyteimg.com
 0.0.0.0 p19-sign-sg.tiktokcdn.com
@@ -2511,6 +2521,7 @@
 0.0.0.0 pb3.pstatp.com.w.kunlungr.com
 0.0.0.0 pb9.pstatp.com
 0.0.0.0 pb9.pstatp.com.bsgslb.com
+0.0.0.0 pbxmo-useast2a.xzcs3zlph.com
 0.0.0.0 p.bytedance.net
 0.0.0.0 pearl.bytedance.net
 0.0.0.0 pg.bytedance.net
@@ -3184,6 +3195,7 @@
 0.0.0.0 sf16-lark-va.ibytedtos.com.edgekey.net
 0.0.0.0 sf16-muse-va.ibytedtos.com
 0.0.0.0 sf16-muse-va.ibytedtos.com.edgekey.net
+0.0.0.0 sf16-music-sign.tiktokcdn.com
 0.0.0.0 sf16-passport-sg.ibytedtos.com
 0.0.0.0 sf16-passport-sg.ibytedtos.com.edgekey.net
 0.0.0.0 sf16-passport-va.ibytedtos.com

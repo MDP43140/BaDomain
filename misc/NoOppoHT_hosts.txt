@@ -343,6 +343,7 @@
 0.0.0.0 slb-apisnd-in.heytapmobile.com
 0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 smartcardf-eu.apps.coloros.com
+0.0.0.0 sms-sg.ads.heytapmobile.com
 0.0.0.0 stat-cn.dc.oppomobile.com
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat-sg.dc.oppomobile.com
