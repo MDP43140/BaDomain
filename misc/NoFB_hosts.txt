@@ -1464,6 +1464,8 @@
 0.0.0.0 external-xsp1-2.xx.fbcdn.net
 0.0.0.0 external-xsp1-3.xx.fbcdn.net
 0.0.0.0 external.xx.fbcdn.net
+0.0.0.0 f353e1a9680-szxrohos1707750321-sonar.xz.fbcdn.net
+0.0.0.0 f3820fd4380-geojjcel1707728796-sonar.snr.fbcdn.net
 0.0.0.0 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 0.0.0.0 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
 0.0.0.0 facebookcareers.com
@@ -3954,6 +3956,7 @@
 0.0.0.0 sonar6.fsub6-5.fna.fbcdn.net
 0.0.0.0 sonar6.fsub6-6.fna.fbcdn.net
 0.0.0.0 sonar6.fsub6-7.fna.fbcdn.net
+0.0.0.0 sonar6-hkg1-1.xx.fbcdn.net
 0.0.0.0 sonar6-hkg4-1.xx.fbcdn.net
 0.0.0.0 sonar6-hkg4-2.xx.fbcdn.net
 0.0.0.0 sonar6-hkt1-1.xx.fbcdn.net

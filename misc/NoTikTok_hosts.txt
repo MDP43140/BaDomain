@@ -7,8 +7,8 @@
 # https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt
 #
 
-0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com
 0.0.0.0 0p16-c1-sg.ibyteimg.com
+0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
 0.0.0.0 0pbxmo.xzcs3zlph.com
 0.0.0.0 0pbxmo.xzcs3zlph.com.edgesuite.net
