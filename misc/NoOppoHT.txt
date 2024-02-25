@@ -76,6 +76,7 @@ cdp-common-my.heytapmobile.com
 classify.apps.coloros.com
 classify-f.apps.coloros.com
 cl-data-id.ads.heytapmobi.com
+cl-data-id.ads.heytapmobile.com
 cl-data-in.ads.heytapmobi.com
 cl-data-sg.ads.heytapmobi.com
 client-uc.heytapmobi.com
@@ -182,6 +183,7 @@ globalcolor-service-eu.allawnos.com
 globalcolor-service-in.allawnos.com
 globalcolor-service-sg.allawnos.com
 globalcolor-service-us.allawnos.com
+global-search-id.heytapmobile.com
 gslb.cdo.oppomobile.com
 gslb-cn.cdo.heytapmobi.com
 gslb-gl.cdo.heytapmobi.com

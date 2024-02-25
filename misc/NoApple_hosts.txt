@@ -124,6 +124,8 @@
 0.0.0.0 cl4-cdn-us.origin-apple.com.akadns.net
 0.0.0.0 cl5.apple.com
 0.0.0.0 cma.itunes.apple.com
+0.0.0.0 comm-cohort.ess.apple.com
+0.0.0.0 comm-main.ess.apple.com
 0.0.0.0 commnat-cohort-gc.ess.apple.com
 0.0.0.0 commnat-main-gc.ess.apple.com
 0.0.0.0 configuration.apple.com
@@ -139,6 +141,7 @@
 0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 fides-pol.apple.com
 0.0.0.0 fmfmobile.fe.apple-dns.net
+0.0.0.0 gateway.fe2.apple-dns.net
 0.0.0.0 gateway.fe.apple-dns.net
 0.0.0.0 gateway.icloud.com
 0.0.0.0 gdmf.apple.com

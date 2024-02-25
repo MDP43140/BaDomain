@@ -76,6 +76,7 @@
 0.0.0.0 classify.apps.coloros.com
 0.0.0.0 classify-f.apps.coloros.com
 0.0.0.0 cl-data-id.ads.heytapmobi.com
+0.0.0.0 cl-data-id.ads.heytapmobile.com
 0.0.0.0 cl-data-in.ads.heytapmobi.com
 0.0.0.0 cl-data-sg.ads.heytapmobi.com
 0.0.0.0 client-uc.heytapmobi.com
@@ -182,6 +183,7 @@
 0.0.0.0 globalcolor-service-in.allawnos.com
 0.0.0.0 globalcolor-service-sg.allawnos.com
 0.0.0.0 globalcolor-service-us.allawnos.com
+0.0.0.0 global-search-id.heytapmobile.com
 0.0.0.0 gslb.cdo.oppomobile.com
 0.0.0.0 gslb-cn.cdo.heytapmobi.com
 0.0.0.0 gslb-gl.cdo.heytapmobi.com

@@ -1076,6 +1076,7 @@
 0.0.0.0 fcdn.us.tiktokv.com
 0.0.0.0 f-charge-fee.snssdk.com
 0.0.0.0 fddfafhadd.temp.p23.tc.cdntip.com
+0.0.0.0 feed-api.capcutapi.com
 0.0.0.0 feed-api-gcp.capcut.com
 0.0.0.0 feed-api-sg.capcutapi.com
 0.0.0.0 feed-api-sg.capcut.com
@@ -2042,6 +2043,7 @@
 0.0.0.0 o.bytedance.net
 0.0.0.0 oceanengine.com
 0.0.0.0 oec16-normal-alisg.tiktokv.com
+0.0.0.0 oec16-normal-gquic-alisg.tiktokv.com
 0.0.0.0 oec16-normal-gquic-useast1a.tiktokv.com
 0.0.0.0 oec16-normal-useast1a.tiktokv.com
 0.0.0.0 oec22-normal-alisg.tiktokv.com
@@ -2112,6 +2114,7 @@
 0.0.0.0 p16-capcut-sg.ibyteimg.com
 0.0.0.0 p16-capcut-sg.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-capcut-sign-sg.ibyteimg.com
+0.0.0.0 p16-capcut-sign-va.ibyteimg.com
 0.0.0.0 p16-capcut-va.ibyteimg.com
 0.0.0.0 p16-capcut-va.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-catalog-sg.ibyteimg.com
@@ -2184,6 +2187,8 @@
 0.0.0.0 p16.tiktokcdn.com.edgesuite.net
 0.0.0.0 p16-tiktokcdn-com.toutiao50.com
 0.0.0.0 p16-tiktok-dm-sticker-euttp-sign-useast2a.ibyteimg.com
+0.0.0.0 p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
+0.0.0.0 p16-tiktok-dm-sticker-sign-va.ibyteimg.com
 0.0.0.0 p16-tiktok-sg-ab.ibyteimg.com
 0.0.0.0 p16-tiktok-sg-ab.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-tiktok-sg-h2.ibyteimg.com
@@ -2712,6 +2717,7 @@
 0.0.0.0 pull-flv-f6-hs.pstatp.com
 0.0.0.0 pull-flv-f6-xg.bytecdn.cn
 0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-sg01.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-flv-f77-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-f77-tt01.fcdn.us.tiktokv.com
 0.0.0.0 pull-flv-f77-tt01.tiktokcdn.com
@@ -2724,6 +2730,7 @@
 0.0.0.0 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-flv-f77-tt03.fcdn.us.tiktokcdn.com
 0.0.0.0 pull-flv-f77-tt03.tiktokcdn.com
+0.0.0.0 pull-flv-f77-va01.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-flv-f77-va01.tiktokcdn.com
 0.0.0.0 pull-flv-l10-gcp01.tiktokcdn.com
 0.0.0.0 pull-flv-l10-sg01.tiktokcdn.com
