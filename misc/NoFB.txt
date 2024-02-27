@@ -3124,6 +3124,7 @@ scontent-a-lga.xx.fbcdn.net
 scontent-a-lhr.xx.fbcdn.net
 scontent-a-mad.xx.fbcdn.net
 scontent-a-mia.xx.fbcdn.net
+scontent-ams2-1.cdninstagram.com
 scontent-ams.xx.fbcdn.net
 scontent-amt2-1.xx.fbcdn.net
 scontent-a-mxp.xx.fbcdn.net

@@ -3125,6 +3125,7 @@
 0.0.0.0 scontent-a-lhr.xx.fbcdn.net
 0.0.0.0 scontent-a-mad.xx.fbcdn.net
 0.0.0.0 scontent-a-mia.xx.fbcdn.net
+0.0.0.0 scontent-ams2-1.cdninstagram.com
 0.0.0.0 scontent-ams.xx.fbcdn.net
 0.0.0.0 scontent-amt2-1.xx.fbcdn.net
 0.0.0.0 scontent-a-mxp.xx.fbcdn.net

@@ -1,7 +1,6 @@
 #
-# This is the fork of llabc's TikTok Block, with MORE domains to block.
-# Use this list to totally block access to
-# any bytedance products (including TikTok, CapCut, Pangle, Lemon8, etc...) on your network.
+# This list blocks access to any Bytedance owned domains & softwares
+# (including TikTok, CapCut, Pangle, Lemon8, etc...).
 #
 # I recommend using this with DanHorton's TikTok blocklist:
 # https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt
@@ -1675,6 +1674,7 @@ lf-ipv6.snssdk.com
 lf-lf.snssdk.com
 lf-lq.snssdk.com
 lf-n.snssdk.com
+lf-pc-app.ttwstatic.com
 lf.snssdk.com
 lf.snssdk.com.bytedns.net
 lf.snssdk.com.xi.zwtianshangm.com
@@ -4219,6 +4219,7 @@ vas-maliva-useast2a.byteoversea.com
 vas.sgsnssdk.com
 vas.snssdk.com
 vas.tiktokcdn.com
+vas-va.tiktokv.com
 v.bsgslb.com
 v.bytedance.net
 vc-brain.snssdk.com

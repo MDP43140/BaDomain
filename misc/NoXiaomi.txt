@@ -1,5 +1,6 @@
 #
-# This hosts file blocks all xiaomi-related domains (Xiaomi,Mi,MiUi,Mi-Img,MiWiFi,MiRouter. Including its CDNs,advertising server,etc...)
+# This hosts file blocks all xiaomi-related domains (Xiaomi,Mi,MiUi,Mi-Img,MiWiFi,MiRouter.
+# Including its CDNs,advertising server,etc...)
 #
 
 10046.mi.com
@@ -222,6 +223,7 @@ ots.io.mi.com
 ott.io.mi.com
 pdc.micloud.xiaomi.net
 phonecallapi.micloud.xiaomi.net
+pi.ias.xiaomi.com
 port.sec.intl.miui.com
 privacy.api.intl.miui.com
 privacy.miui.com
@@ -244,6 +246,7 @@ sec-cdn.static.xiaomi.net
 secode2.hd.xiaomi.com
 sf0.market.xiaomi.com
 sfsapi.micloud.xiaomi.net
+sg.api.io.mi.com
 sg-idm.api.io.mi.com
 sg.idm.iot.mi.com
 sgpac.account.xiaomi.com
