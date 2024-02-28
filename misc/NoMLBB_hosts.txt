@@ -22,6 +22,7 @@
 0.0.0.0 play.mobilelegends.com
 0.0.0.0 report.ml.youngjoygame.com
 0.0.0.0 track.bi.moonton.com
+0.0.0.0 wsavatar.yuanzhanapp.com
 0.0.0.0 wscdn.ml.youngjoygame.com
 0.0.0.0 www.mobilelegends.com
 0.0.0.0 youngjoygame.com

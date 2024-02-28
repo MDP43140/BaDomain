@@ -342,6 +342,7 @@ sgp-img-c.heytapimg.com
 shortintl.push.heytapmobi.com
 shortintl.push.heytapmobile.com
 shortintl.push.oppomobile.com
+sidebar-apps-sg.allawnos.com
 slb-apisnd-in.heytapmobile.com
 smartcardf.apps.coloros.com
 smartcardf-eu.apps.coloros.com

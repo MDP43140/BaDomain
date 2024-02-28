@@ -5392,6 +5392,9 @@ workplace.facebook.com
 ww.facebook.com
 www2.facebook.com
 www.facebook.com
+www-fallback.facebook.com
+www-fallback.instagram.com
+www-fallback.whatsapp.com
 www.fbcdn.com
 www.fbcdn.net
 www.instagram.com

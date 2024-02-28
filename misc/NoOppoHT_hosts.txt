@@ -342,6 +342,7 @@
 0.0.0.0 shortintl.push.heytapmobi.com
 0.0.0.0 shortintl.push.heytapmobile.com
 0.0.0.0 shortintl.push.oppomobile.com
+0.0.0.0 sidebar-apps-sg.allawnos.com
 0.0.0.0 slb-apisnd-in.heytapmobile.com
 0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 smartcardf-eu.apps.coloros.com

@@ -203,6 +203,7 @@ api16-log-sg.pangle-b.io
 api16-log-sg.pangle.io
 api16-log-sg.pangle.io.edgekey.net
 api16-log-va.pangle.io
+api16-normal-alisg.capcut.com
 api16-normal-alisg.helo-api.com
 api16-normal-alisg.tiktokv.com
 api16-normal-c-alisg.tiktokv.com
@@ -3150,6 +3151,7 @@ search19-normal-c-useast2a.tiktokv.com
 search21-normal-c-alisg.tiktokv.com
 search22-normal-c-alisg.tiktokv.com
 search22-normal-c-useast1a.tiktokv.com
+search22-normal-idtest-useast1a.tiktokv.com
 search22-normal-useast2a.tiktokv.com
 search.amemv.com
 search.amemv.com.w.cdngslb.com

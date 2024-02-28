@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 06.02.2024
+# Version: 28.02.2024
 # Update: 1 day
 #
 
@@ -6042,7 +6042,6 @@
 0.0.0.0 tinder-hot.xyz
 0.0.0.0 tinders.club
 0.0.0.0 tips-res-dra.dbankcdn.com
-0.0.0.0 tirto.id
 0.0.0.0 tistory1.daumcdn.net
 0.0.0.0 tistory.com
 0.0.0.0 tjinit-global.babybus.com

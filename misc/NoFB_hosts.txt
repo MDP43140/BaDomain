@@ -5402,6 +5402,9 @@
 0.0.0.0 ww.facebook.com
 0.0.0.0 www2.facebook.com
 0.0.0.0 www.facebook.com
+0.0.0.0 www-fallback.facebook.com
+0.0.0.0 www-fallback.instagram.com
+0.0.0.0 www-fallback.whatsapp.com
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
 0.0.0.0 www.instagram.com

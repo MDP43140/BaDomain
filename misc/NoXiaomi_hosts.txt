@@ -202,6 +202,7 @@
 0.0.0.0 market.xiaomi.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 m.bss.pandora.xiaomi.com
+0.0.0.0 mcc-intl.inf.miui.com
 0.0.0.0 mcc.intl.inf.miui.com
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 mibi.api.xiaomi.com
@@ -340,6 +341,7 @@
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 test.e.ad.xiaomi.com
 0.0.0.0 test.log.ad.xiaomi.com
+0.0.0.0 theme.cdn.intl.miui.com
 0.0.0.0 thm.market.intl.xiaomi.com
 0.0.0.0 thm.market.xiaomi.com
 0.0.0.0 tracking.india.miui.com
