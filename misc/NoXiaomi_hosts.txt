@@ -79,6 +79,7 @@
 0.0.0.0 cia.sec.miui.com
 0.0.0.0 c.id.mi.com
 0.0.0.0 cn.app.chat.xiaomi.net
+0.0.0.0 cn.find.api.micloud.xiaomi.net
 0.0.0.0 connect.intl.rom.miui.com
 0.0.0.0 connect-milink.g.mi.com
 0.0.0.0 connect.rom.miui.com
@@ -158,6 +159,7 @@
 0.0.0.0 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 0.0.0.0 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 0.0.0.0 g0.market.mi-img.com
+0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gallery.cdn.pandora.xiaomi.com
 0.0.0.0 gallery.pandora.xiaomi.com
 0.0.0.0 gallerysearchapi.micloud.xiaomi.net

@@ -14,6 +14,8 @@
 0.0.0.0 5-edge-chat.facebook.com
 0.0.0.0 6-act.channel.facebook.com
 0.0.0.0 6-edge-chat.facebook.com
+0.0.0.0 7F532F3C-386E-40AF-8677-F470AB807C7E-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 7F532F3C-386E-40AF-8677-F470AB807C7E-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 a1qa.m.facebook.com
 0.0.0.0 a3.sphotos.ak.fbcdn.net
 0.0.0.0 aa.facebook.com
@@ -305,6 +307,7 @@
 0.0.0.0 api.facebook.com
 0.0.0.0 api.fbcdn.net
 0.0.0.0 api.instagram.com
+0.0.0.0 api.metastatus.com
 0.0.0.0 api-read.facebook.com
 0.0.0.0 apollo.facebook.com
 0.0.0.0 app.facebook.com
@@ -1471,6 +1474,7 @@
 0.0.0.0 facebookcareers.com
 0.0.0.0 facebook.com
 0.0.0.0 facebook.facebook.com
+0.0.0.0 facebook-login.api.metastatus.com
 0.0.0.0 facebookmail.com
 0.0.0.0 facebook.net
 0.0.0.0 facebook-web-clients.appspot.com
@@ -2937,6 +2941,7 @@
 0.0.0.0 media-xsp2-1.cdn.whatsapp.net
 0.0.0.0 meli.m.facebook.com
 0.0.0.0 metacareers.com
+0.0.0.0 metastatus.com
 0.0.0.0 m.facebook.com
 0.0.0.0 mgmresorts.facebook.com
 0.0.0.0 mia1.fbcdn.net
@@ -3167,6 +3172,7 @@
 0.0.0.0 scontent-cgk1-1.xx.fbcdn.net
 0.0.0.0 scontent-cgk1-2.cdninstagram.com
 0.0.0.0 scontent-cgk1-2.xx.fbcdn.net
+0.0.0.0 scontent-cgk1-3.cdninstagram.com
 0.0.0.0 scontent-c.xx.fbcdn.net
 0.0.0.0 #
 0.0.0.0 not

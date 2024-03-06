@@ -117,6 +117,7 @@ cl2.apple.com.c.footprint.net
 cl2-cdn-us.origin-apple.com.akadns.net
 cl3.apple.com
 cl3-cdn.origin-apple.com.akadns.net
+cl3.g.aaplimg.com
 cl4.apple.com
 cl4.apple.com.c.footprint.net
 cl4-cdn.origin-apple.com.akadns.net
@@ -401,6 +402,7 @@ safebrowsing-proxy.g.aaplimg.com
 sandbox.itunes.apple.com
 sandbox.itunes-apple.com.akadns.net
 se2.itunes.apple.com
+setup.fe2.apple-dns.net
 setup.fe.apple-dns.net
 setup.icloud.com
 sf-api-token-service.itunes.apple.com

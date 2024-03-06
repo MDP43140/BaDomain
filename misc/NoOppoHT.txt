@@ -74,6 +74,7 @@ cdp-common-id.heytapmobile.com
 cdp-common-in.heytapmobile.com
 cdp-common-my.heytapmobile.com
 classify.apps.coloros.com
+classify-app-sg.allawnos.com
 classify-f.apps.coloros.com
 cl-data-id.ads.heytapmobi.com
 cl-data-id.ads.heytapmobile.com
@@ -360,7 +361,9 @@ stg-data-my.ads.heytapmobile.com
 stg-data-sg.ads.heytapmobi.com
 stg-data-sg.ads.heytapmobile.com
 sticker.apps.oppomobile.com
+sticker-apps-sg.heytapmobile.com
 stickerf.apps.oppomobile.com
+stickerfsf.oppomobile.com
 storedl3.f.oppomobile.com
 storedl4.f.oppomobile.com
 storedl5.f.oppomobile.com

@@ -13,6 +13,8 @@
 5-edge-chat.facebook.com
 6-act.channel.facebook.com
 6-edge-chat.facebook.com
+7F532F3C-386E-40AF-8677-F470AB807C7E-netseer-ipaddr-assoc.xy.fbcdn.net
+7F532F3C-386E-40AF-8677-F470AB807C7E-netseer-ipaddr-assoc.xz.fbcdn.net
 a1qa.m.facebook.com
 a3.sphotos.ak.fbcdn.net
 aa.facebook.com
@@ -304,6 +306,7 @@ api.connect.facebook.com
 api.facebook.com
 api.fbcdn.net
 api.instagram.com
+api.metastatus.com
 api-read.facebook.com
 apollo.facebook.com
 app.facebook.com
@@ -1470,6 +1473,7 @@ f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
 facebookcareers.com
 facebook.com
 facebook.facebook.com
+facebook-login.api.metastatus.com
 facebookmail.com
 facebook.net
 facebook-web-clients.appspot.com
@@ -2936,6 +2940,7 @@ media-xsp1-3.cdn.whatsapp.net
 media-xsp2-1.cdn.whatsapp.net
 meli.m.facebook.com
 metacareers.com
+metastatus.com
 m.facebook.com
 mgmresorts.facebook.com
 mia1.fbcdn.net
@@ -3166,6 +3171,7 @@ scontent-cgk1-1.cdninstagram.com
 scontent-cgk1-1.xx.fbcdn.net
 scontent-cgk1-2.cdninstagram.com
 scontent-cgk1-2.xx.fbcdn.net
+scontent-cgk1-3.cdninstagram.com
 scontent-c.xx.fbcdn.net # not exist
 scontent-den4-1.cdninstagram.com
 scontent-dfw5-1.xx.fbcdn.net
