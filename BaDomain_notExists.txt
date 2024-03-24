@@ -431,6 +431,7 @@ hs-scripts.net
 hsstatic.net
 https:\/\/app-measurement.com\/sdk-exp
 https:\/\/ynuf.aliapp.org\/saveWb.json?
+huatuocode.huatuo.qq.com
 huaweiuniversity.com
 hub2.com.pl
 hubspotfeedback.com
@@ -936,6 +937,7 @@ ws-819f0a56-46b4-4bc0-b64f-53e9d8deaf56.sendbird.com
 wsamrb-cdn-settings.appsflyersdk.com
 wsamrb-launches.appsflyersdk.com
 wsimg.com
+wspeed.qq.com
 wuueqejuratzdz.com
 ww38.neimanmarcusshop.online
 ww.happymod.cloud

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 06.03.2024
+# Version: 24.03.2024
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -554,6 +554,7 @@ analytics.mncdigital.id
 analytics.neliti.com
 analytics.nodecraft.com
 analytics.panzoid.com
+analytics.plasmic.app
 analytics.quizizz.com
 analytics.rctiplus.com
 analytics.rocks
@@ -654,6 +655,7 @@ api.4shared.com
 api.4sync.com
 api-7739323866949324662-136565.appspot.com
 api.9apps.com
+api-access.pangolin-sdk-toutiao-b.com
 apiact.imoim.net
 api-ad-adapter-ff.wps.com
 api-ad-adapter-sg.wps.com
@@ -678,6 +680,7 @@ api-assetstore.kinemasters.com
 api.atlassian.com
 api-auth.kinemasters.com
 api.automizely.com
+api.b3mxnuvcer.com
 api.baca.co.id
 api.beta.salemove.com
 api.bidmachine.io
@@ -958,12 +961,14 @@ app.directededge.com
 app.driftt.com
 apperr.log.mgtv.com
 appevent.cookappsgames.com
+app.gsxnj.cn
 app.happymodapp.com
 app.happymod.com
 app.hubspot.com
 apph.wpsmail.net
 appia.com
 appinference-distribute2.guangzhuiyuan.com
+appinfo.adop.cc
 app-info-cdn.ezjojoy.com
 appinfo-s3.eagllwin.com
 appjustable.com
@@ -984,6 +989,7 @@ app.overloop.com
 app.pou.me
 apppromoteapi.babybus.com
 app.pushbrothers.com
+app.revenuehero.io
 apps2.outfit7.com
 apps4flip.nyc3.cdn.digitaloceanspaces.com
 app.saygames.io
@@ -1016,6 +1022,7 @@ app.split.io
 appspot.com
 apps.samsung.com
 app.static.bignox.com
+appsupport.qq.com
 app.test.bignox.com
 app.toutiao.com
 apptrace.guangzhuiyuan.com
@@ -1056,6 +1063,7 @@ asset-1.tstatic.net
 asset-2.tstatic.net
 asset-3.tstatic.net
 asset-a.grid.id
+asset.b3mxnuvcer.com
 asset-cdn.samsungvisioncloud.com
 assets10.lottiefiles.com
 assets16.resso.app
@@ -1175,9 +1183,13 @@ aws-static.snackvideo.in
 awxcdn.com
 axelspringerideas.de
 axiata-lk-43c53a330e9-he.fortumo.io
+az2-api-kixsnack.kwai-pro.com
+az2-api-txsnack.kwai-pro.com
+az2-api-txsnack.kwaipros.com
 b1.nel.goog
 b1t-sindc1.zemanta.com
 b2.mail.ru
+b3mxnuvcer.com
 b5vbk6-cdn-settings.appsflyersdk.com
 b5vbk6-launches.appsflyersdk.com
 b6e881dd-dnsotls-ds.metric.gstatic.com
@@ -1570,8 +1582,6 @@ cdn.euc-freshbots.ai
 cdn-eu.eufylife.com
 cdn.evgnet.com
 cdn.ezjojoy.com
-cdn.fbsbx.com
-cdn-f.heylink.me
 cdn.firstpromoter.com
 cdn.fluidplayer.com
 cdn-fm.shalltry.com
@@ -1798,6 +1808,7 @@ cm.adskeeper.com
 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 cmbchina.com
 cm.bilibili.com
+cmp.inmobi.com
 cmp.osano.com
 cm.pos.baidu.com
 cmp.quantcast.com
@@ -2130,6 +2141,7 @@ dc.albtls.t.co
 dcb.fortumo.com
 dc.chillyroom.com
 dc.di.atlas.samsung.com
+dcdn.appmarket.api.gsxnj.cn
 dc.dqa.samsung.com
 dc.kika-backend.com
 dcmdaa.y5en.com
@@ -2442,6 +2454,7 @@ epomads2.4shared.com
 eportalmobile.com
 epss.alibaba-inc.com
 erotic-massagenn.com
+errnewlog.umeng.com
 errors.figma.com
 es.4sync.com
 es.bignox.com
@@ -2599,6 +2612,7 @@ firehose.eu-west-1.amazonaws.com
 fireworkapi1.com
 firstpage.kingsoft-office-service.com
 firstpromoter.com
+fiwom.com
 fk-new-cdn-eu-central-1a-hb.rayjump.com
 fkvufv-cdn-settings.appsflyersdk.com
 fkvufv-launches.appsflyersdk.com
@@ -2928,6 +2942,7 @@ gsmlog.cscmobicorp.com
 gso.amocrm.ru
 gso.kommo.com
 gstaticadssl.l.google.com
+gsxnj.cn
 gtglobal.intl.miui.com
 gtm.oasisfeng.com
 gtq3.sct.sc-prod.net
@@ -3018,7 +3033,6 @@ here.com
 her-libido.com
 hermes.360safe.com
 hermes-fs.wshareit.com
-heylink.me
 hhhh.uno
 hicloud.com
 hidester.postaffiliatepro.com
@@ -3195,6 +3209,7 @@ igapromomanager-pa.googleapis.com
 i.git99.com
 ign.com
 igofun.mobi
+ig-us-sdkapi.igamecj.com
 ihago.net
 i.higgsradio.com
 i.jpallnight.com
@@ -3253,6 +3268,7 @@ img.a.transfermarkt.technology
 imgavtub.com
 imgavtub.net
 imgcache.joox.com
+imgcache.qq.com
 img.cdn.baca.co.id
 imgcdn.ymstatic.com
 img.connatix.com
@@ -3533,6 +3549,7 @@ js.hubspotfeedback.com
 js.intercomcdn.com
 js.juicyads.com
 js.media-lab.ai
+js.memberful.com
 js.monitor.azure.com
 js.na.chilipiper.com
 json.ludokingapi.com
@@ -3607,6 +3624,7 @@ kj9atb.hai8j1.com
 klaviyo.com
 klimg.com
 klink.kwai-pro.com
+klink-me.kwai-pro.com
 klink.snackvideo.com
 kloc.co
 knd32k.com
@@ -4137,6 +4155,7 @@ mores.baby
 mothima.com
 motivedtheatre.cfd
 motogp.api.weplay.media
+movie-info-5b984.firebaseapp.com
 mp3.zing.vn
 mp-comm-db-3.firebaseio.com
 mpd-designs.com
@@ -4566,6 +4585,7 @@ openchat-49af5.firebaseapp.com
 opendns.zendesk.com
 openfpcdn.io
 openlog.tap.io
+openmobile.qq.com
 openrtb-banner.com
 open.toutiao.com
 open.weixin.qq.com
@@ -4761,6 +4781,7 @@ pcoptimizerpro.com
 pc.pay.youku.com
 pcs3img.d2vm7.com
 pc.weixin.qq.com
+pc.woozooo.com
 pdnob.com
 pdst.fm
 pedulilindungi.com
@@ -4851,7 +4872,6 @@ plat-api.bignox.com
 platform.apac.vesta.io
 platform-api.sharethis.com
 platform-cdn.sharethis.com
-platform-lookaside.fbsbx.com
 plausible.chmod777.ltd
 playable.mintegral.com
 playable-stats.mindworks-creative.com
@@ -4931,6 +4951,7 @@ prchecker.info
 prd1.personalization.centech.glulive.com
 prd1.session.centech.glulive.com
 prd.jwpltx.com
+prebid.deepintent.com
 prebid.jixie.io
 preferences.clearbit.com
 premierleague.com
@@ -4985,6 +5006,7 @@ propsid.b-cdn.net
 proservice.ge
 prospector.clearbit.com
 pro-threats.nbowree.com
+proton-me.cdn.prismic.io
 proximacentauri.it
 proxy.aoemo.cc
 proxy.link.app
@@ -5163,6 +5185,7 @@ repair-system-phone.firebaseio.com
 repodownload.mediatek.com
 report.appmetrica.yandex.net
 report-edge.agora.io
+report.gsxnj.cn
 report-ps.meettech.net
 report.sc.funminigame.com
 report.tantanapp.com
@@ -5215,6 +5238,7 @@ retcode.alicdn.com
 retcode-sg-lazada.arms.aliyuncs.com
 retrogamerclassics.com
 reveal.clearbit.com
+revenuehero.io
 revolvermaps.com
 rewards-cards.org
 rewardsgiantca.com
@@ -5423,6 +5447,7 @@ s.dessaly.com
 sdk-01.moengage.com
 sdk.51.la
 sdk-android.ad.smaato.net
+sdk.apester.com
 sdk-api.kidoz.net
 sdkapi.wifimap.io
 sdk.atomhike.com
@@ -5461,6 +5486,7 @@ searchbestcolleges.com
 search-center.apkomega.com
 search.eportalmobile.com
 searchiq.co
+searchlabspartnerservice-pa.googleapis.com
 searchlite-pa.googleapis.com
 search.myway.com
 search-operate.cdn.bcebos.com
@@ -5488,6 +5514,7 @@ seedr.com
 segment.com
 segment.io
 seiya.tantanapp.com
+selfcarecms.gammasprint.com
 self.events.data.microsoft.com
 selfishsnake.com
 seller.shopee.sg
@@ -5540,6 +5567,7 @@ sexxdating.site
 sexxo.baby
 sexy-dating.uno
 seznam.cz
+sf3-fe-tos.pglstatp-toutiao.com
 sfdict.com
 sfepodownload.mediatek.com
 sf.ezoiccdn.com
@@ -6109,6 +6137,7 @@ tenantlinet22.com
 tencent-cloud.com
 tencent.com
 tencentcs.com
+tencentgames.helpshift.com
 tengame.net
 tenjin.com
 tenjin.io
@@ -6122,6 +6151,9 @@ terabox.app
 terabox.com
 terabox.fun
 terbaru.uzone.id
+terbit21.live
+terbit21.mov
+terbit21.net
 termly.io
 terms.aliyun.com
 terms.aliyun.com.danuoyi.alicdn.com
@@ -6284,6 +6316,7 @@ travel.rakuten.com
 tr.bignox.com
 trclips.com
 tremorvideo.com
+trends.glance.com
 tria.ge
 tribalfusion.com
 tribl.io
@@ -6319,6 +6352,9 @@ tu.qq.com
 turbobit.net
 turbotax.com
 turbotax.intuit.com
+tv1.terbit21.team
+tv2.terbit21.team
+tv3.terbit21.team
 tv.bignox.com
 tv.jwplayer.com
 tvpixel.com
@@ -6549,6 +6585,7 @@ videodownloader.ummy.net
 video.gumlet.io
 video-g.usicdn.com
 videohub.tv
+videokini.com
 video.kompas.com
 videomin.ru
 videoplayerhub.com
@@ -6592,6 +6629,7 @@ visualwebsiteoptimizer.com
 vitals.vercel-insights.com
 vivomaa.chinanetcenter.com
 vivosec.baidu.com
+vivo.telemetry.eyeo.com
 vjs.zencdn.net
 vk.com
 v.lsttnews.com
@@ -7151,6 +7189,7 @@ www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 www.gosupportnow.com
 www.goyangfc.com
+www.gsxnj.cn
 www.h2svr.info
 www.h5ecom.com
 www.haasonline.com
@@ -7309,6 +7348,7 @@ www.renowncomputer.com
 www.renowninfotech.com
 www.requesteasy.com
 www.res-x.com
+www.revenuehero.io
 www.rewards-cards.org
 www.reytesla.com
 www.rhino-news.com

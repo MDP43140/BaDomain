@@ -402,6 +402,7 @@ careers.facebook.com
 ccamatil.m.facebook.com
 cdg2.fbcdn.net
 cdn-fallback.fbsbx.com
+cdn.fbsbx.com
 cdw.facebook.com
 c.facebook.com
 cg.facebook.com
@@ -3058,6 +3059,7 @@ photos-h.ak.fbcdn.net
 photos-snc1.fbcdn.net
 pixel.facebook.com
 platform.instagram.com
+platform-lookaside.fbsbx.com
 pl-pl.facebook.com
 polaris.facebook.com
 portal.facebook.com
@@ -5359,6 +5361,7 @@ webmail.facebook.com
 wellcare.facebook.com
 wellsfargo.facebook.com
 wf2d4f1c61-ge2dmmbyhezdkojv.snr.whatsapp.net
+wf6dad0d91-gi3tamrvge2dimzy.snr.whatsapp.net
 wfa974b891-gmytgnrwgu3tomrt.snr.whatsapp.net
 w.facebook.com
 whatsapp-cdn-shv-01-arn2.fbcdn.net

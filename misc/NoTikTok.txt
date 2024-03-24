@@ -2215,6 +2215,7 @@ p16-tk.tiktokcdn.com
 p16-tk.tiktokcdn.com.edgesuite.net
 p16.toutiao50.com
 p16-ttam-va.ibyteimg.com
+p16-ttec-va.ibyteimg.com
 p16-ulike-sg.ibyteimg.com
 p16-useast2a.tiktokcdn.com
 p16-va-default.akamaized.net
@@ -2644,6 +2645,7 @@ pull-cmaf-l16-sg01.tiktokcdn.com
 pull-cmaf-l16-tt01.tiktokcdn-us.com
 pull-cmaf-l16-va01.tiktokcdn.com
 pull-cmaf-l77-gcp01.tiktokcdn.com
+pull-cmaf-l77-sg01.tiktokcdn.com
 pull-cmaf-l77-va01.tiktokcdn.com
 pull-f3-hs.pstatp.com
 pull-f3-hs.pstatp.com.w.alikunlun.net
@@ -2767,6 +2769,13 @@ pull-flv-l6-xg.bytecdn.cn
 pull-flv-l77-gcp01.eu.tiktokcdn.com
 pull-flv-l77-gcp01.tiktokcdn.com
 pull-flv-l77-gcp01.tiktokcdn-us.com
+pull-flv-l77-sg01.eu.tiktokcdn.com
+pull-flv-l77-sg01.tiktokcdn.com
+pull-flv-l77-tt01.eu.tiktokcdn.com
+pull-flv-l77-tt01.tiktokcdn.com
+pull-flv-l77-tt02.eu.tiktokcdn.com
+pull-flv-l77-tt02.tiktokcdn.com
+pull-flv-l77-va01.eu.tiktokcdn.com
 pull-flv-l77-va01.tiktokcdn.com
 pull-flv-l7.pstatp.com
 pull-hls-f11-ab.tiktokcdn.com
@@ -2819,6 +2828,7 @@ pull-hls-l1-va01.tiktokcdn.com
 pull-hls-l1-va01.ttlivecdn.com
 pull-hls-l6-hs.pstatp.com
 pull-hls-l77-gcp01.tiktokcdn.com
+pull-hls-l77-sg01.tiktokcdn.com
 pull-hls-l77-va01.tiktokcdn.com
 pull-hls-q16-gcp01.tiktokcdn.com
 pull-hls-q16-sg01.tiktokcdn.com
