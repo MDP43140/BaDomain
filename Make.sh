@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 clear
 [ "$1" ] || (echo -e "Arguments required. no argument was given.\ntry -h to show help page.";exit 1);
-VERSION=`date +%d.%m.%Y`
-UPDATE_FREQ="1 day" # unused
+VERSION=$(date +%d.%m.%Y)
+UPDATE_FREQ="7 days" # unused
 HOSTSFILE_TYPES=(
 	"BaDomain"
 	"misc/NoApple"
@@ -11,6 +11,7 @@ HOSTSFILE_TYPES=(
 	"misc/NoGambling"
 	"misc/NoFreeFire"
 	"misc/NoMLBB"
+	"misc/NoNSFW"
 	"misc/NoRoblox"
 	"misc/NoTikTok"
 	"misc/NoOppoHT"
@@ -39,12 +40,12 @@ for i in "$@";do
 			done
 			echo "[i] Removing dupes..."
 			for i in $HOSTSFILE_TYPES;do
-				scripts/sortAndRemoveDupe.sh $i
+				$SHELL scripts/sortAndRemoveDupe.sh $i
 			done
-			scripts/sortAndRemoveDupe.sh BaDomain_notExists
+			$SHELL scripts/sortAndRemoveDupe.sh BaDomain_notExists
 			echo "[i] Creating hosts..."
 			for i in $HOSTSFILE_TYPES;do
-				scripts/mkHosts.sh $i
+				$SHELL scripts/domain2hosts.sh $i
 			done
 			echo "[i] Updating 'BaDomain_Uncensor' date..."
 			sed -ri 's/Version: [0-9]{2}\.[0-9]{2}\.[0-9]{2,4}/Version: '$VERSION'/i' BaDomain_Uncensor.txt

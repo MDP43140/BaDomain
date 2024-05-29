@@ -69,13 +69,13 @@ asia-vcode-od.vivoglobal.com
 asia-vcode-or.vivoglobal.com
 asia-vnote.vivoglobal.com
 asia-vpushonrt-stsdk.vivoglobal.com
+asia-vpushort-stsdk.vivoglobal.com
 asia-vpush-static.vivoglobal.com
 asia-weather.vivoglobal.com
 asia-wifi.vivoglobal.com
 attr-asia.vivoglobal.com
 az.appstore.vivo.com
 az.appstore.vivo.com.cn
-browserfiles.heytapimg.com
 browserplat.vivo.com
 browserplat.vivo.com.cn
 comm.api.vivoglobal.com
@@ -100,6 +100,7 @@ in-joviexscene.vivoglobal.com
 in-news-abroad-backstage-interface.vivoglobal.com
 in-os-config-appstore.vivoglobal.com
 in-third-appstore.vivoglobal.com
+iqoo.com
 news-abroad.vivo.com
 pay.vivoglobal.com
 ro.up.vivoglobal.com
@@ -112,3 +113,5 @@ weatherapi.vivo.com
 weatherapi.vivo.com.cn
 wifi.vivo.com
 wifi.vivo.com.cn
+www.iqoo.com
+www.vivo.com

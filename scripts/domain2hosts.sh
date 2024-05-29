@@ -1,3 +1,10 @@
+#!/usr/bin/env bash
+[ $# = 1 ] || {
+  echo "This scripts converts lists domains into usable hosts file"
+  echo "Usage: $0 [file]"
+  echo "input is [file].txt, output is [file]_hosts.txt"
+  exit 1
+}
 if [ -f $1.txt -a ! -f $1_hosts.txt ];then
 	echo -en "\r[+] Creating hosts file of $1...\e[0K"
 	sed '/^#/d' $1.txt | sed -r '/^(\b25[0-5]|\b2[0-4][0-9]|\b[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/d' > $1.tx0

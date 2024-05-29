@@ -1,3 +1,13 @@
+#
+# This list blocks access to any Moonton owned
+# domains & softwares (primarily focuses on Mobile legends,
+# an extremely popular online mobile MOBA games)
+#
+# Notice: MLBB primarily uses static IP address,
+# so simply blocking DNS query is'nt enough,
+# you will need IP blocking, but i wont provide it here
+# as its out of scope of this project (atleast not yet)
+#
 
 0.0.0.0 akmcdn.ml.youngjoygame.com
 0.0.0.0 akmpicture.youngjoygame.com

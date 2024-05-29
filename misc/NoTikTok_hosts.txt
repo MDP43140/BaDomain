@@ -12,7 +12,6 @@
 0.0.0.0 0pbxmo.xzcs3zlph.com
 0.0.0.0 0pbxmo.xzcs3zlph.com.edgesuite.net
 0.0.0.0 0rutzab.qfyf1toi.com
-0.0.0.0 1006686430.rsc.cdn77.org
 0.0.0.0 1uipkgq.mzfvozqybf.com
 0.0.0.0 3dokby.toutiao50.com
 0.0.0.0 5412ac7a44c679ea291e43368cac45de.byteoversea.com
@@ -127,7 +126,6 @@
 0.0.0.0 all.webcast-lb-hl.l.bytedns.net
 0.0.0.0 all.webcast-lb-lf.l.bytedns.net
 0.0.0.0 all.webcast-lb-lq-ttgw.l.bytedns.net
-0.0.0.0 alog.umeng.com
 0.0.0.0 amazex-aggdsz.snssdk.com
 0.0.0.0 amazex-agjsnj.snssdk.com
 0.0.0.0 amazex-aglnsy.snssdk.com
@@ -196,6 +194,7 @@
 0.0.0.0 api16-core-useast2a.tiktokv.com
 0.0.0.0 api16-core-va.tiktokv.com
 0.0.0.0 api16-core-va.tiktokv.com.edgekey.net
+0.0.0.0 api16-event-sg2.pangle.io
 0.0.0.0 api16-event-sg.pangle.io
 0.0.0.0 api16-event-sg.pangle.io.edgekey.net
 0.0.0.0 api16-log-sg2.pangle.io
@@ -204,7 +203,6 @@
 0.0.0.0 api16-log-sg.pangle.io.edgekey.net
 0.0.0.0 api16-log-va.pangle.io
 0.0.0.0 api16-normal-alisg.capcut.com
-0.0.0.0 api16-normal-alisg.helo-api.com
 0.0.0.0 api16-normal-alisg.tiktokv.com
 0.0.0.0 api16-normal-c-alisg.tiktokv.com
 0.0.0.0 api16-normal-c-alisg.tiktokv.com.edgekey.net
@@ -218,6 +216,7 @@
 0.0.0.0 api16-normal-c-useast2a.tiktokv.com.edgekey.net
 0.0.0.0 api16-normal-h2.sgsnssdk.com
 0.0.0.0 api16-normal-i-alisg.sgsnssdk.com
+0.0.0.0 api16-normal-i-alisg.tiktokv.com
 0.0.0.0 api16-normal-ipv4.sgsnssdk.com
 0.0.0.0 api16-normal-ipv6.sgsnssdk.com
 0.0.0.0 api16-normal-i-sg.sgsnssdk.com
@@ -330,7 +329,6 @@
 0.0.0.0 api22-core-n-alisg.tiktokv.com
 0.0.0.0 api22-core.tiktokv.com
 0.0.0.0 api22-core-va.tiktokv.com
-0.0.0.0 api22-normal-alisg.helo-api.com
 0.0.0.0 api22-normal-c-alisg.tiktokv.com
 0.0.0.0 api22-normal-c-useast1a.musical.ly
 0.0.0.0 api22-normal-c-useast1a.tiktokv.com
@@ -431,6 +429,7 @@
 0.0.0.0 api-bee.amemv.com
 0.0.0.0 api-bee-hl.amemv.com
 0.0.0.0 api-boot.tiktokv.com
+0.0.0.0 api.byte-app.com
 0.0.0.0 api.bytedance.net
 0.0.0.0 api-c.amemv.com
 0.0.0.0 api-c.amemv.com.w.kunluncan.com
@@ -500,6 +499,7 @@
 0.0.0.0 api-spe-ttl.ipstatp.com
 0.0.0.0 api-spe-ttl.sgpstatp.com
 0.0.0.0 api-spw-b.snssdk.com
+0.0.0.0 api-static.byte-app.com
 0.0.0.0 api-swan.amemv.com
 0.0.0.0 api-swan.amemv.com.download.ks-cdn.com
 0.0.0.0 api-swan.amemv.com.w.kunluncan.com
@@ -541,6 +541,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 app.musemuse.cn
 0.0.0.0 app.musical.ly
+0.0.0.0 app-oss.byte-app.com
 0.0.0.0 app.snssdk.com
 0.0.0.0 app-test.musemuse.cn
 0.0.0.0 app.toutiao.com
@@ -708,6 +709,10 @@
 0.0.0.0 bytps.snssdk.com
 0.0.0.0 c01.i07.arnic.lv3.cloudglb.com
 0.0.0.0 c1.l.bytedns.net
+0.0.0.0 c1.ttcache.com
+0.0.0.0 c2.ttcache.com
+0.0.0.0 c3.ttcache.com
+0.0.0.0 c4.ttcache.com
 0.0.0.0 ca.bytedance.net
 0.0.0.0 calender.snssdk.com
 0.0.0.0 cam.bytedance.net
@@ -782,6 +787,7 @@
 0.0.0.0 cognition-va.bytedance.com
 0.0.0.0 collect-elb-1844102569.us-east-1.elb.amazonaws.com
 0.0.0.0 comic.snssdk.com
+0.0.0.0 commerce-api.capcutapi.com
 0.0.0.0 commerce-api-sg.capcutapi.com
 0.0.0.0 commerce-api-sg.capcut.com
 0.0.0.0 community.bytedance.net
@@ -811,24 +817,10 @@
 0.0.0.0 cv.bytedance.net
 0.0.0.0 c.worldfcdn.com
 0.0.0.0 d0gsjbullz.xzcs3zlph.com
-0.0.0.0 d10br2bir1hdgs.cloudfront.net
-0.0.0.0 d1fet3u01ea8tr.cloudfront.net
 0.0.0.0 d1.l.bytedns.net
-0.0.0.0 d1p5t7ayuzmgma.cloudfront.net
-0.0.0.0 d1q3ka81k9jzg1.cloudfront.net
-0.0.0.0 d1tl82f62uycur.cloudfront.net
-0.0.0.0 d1urvv9m2chg9l.cloudfront.net
-0.0.0.0 d271osm3r86e5v.cloudfront.net
-0.0.0.0 d273c72xo36dwp.cloudfront.net
-0.0.0.0 d2mmxl4tf8u5lc.cloudfront.net
-0.0.0.0 d2ojit41ttaj0e.cloudfront.net
 0.0.0.0 d2.pstatp.com
 0.0.0.0 d2.pstatp.com.cloudcdn.net
 0.0.0.0 d2.pstatp.com.cloudglb.com
-0.0.0.0 d2zoqe1q7uv743.cloudfront.net
-0.0.0.0 d3a5g80vg31har.cloudfront.net
-0.0.0.0 d3rbtc9rqobfk5.cloudfront.net
-0.0.0.0 d9xr2nrl1eodo.cloudfront.net
 0.0.0.0 d.amemv.com
 0.0.0.0 d.amemv.com.w.kunlunca.com
 0.0.0.0 danpin.snssdk.com
@@ -978,13 +970,11 @@
 0.0.0.0 d.snssdk.com
 0.0.0.0 dsp.toutiao.com
 0.0.0.0 d.toutiao.com
-0.0.0.0 dttorhs584ri4.cloudfront.net
 0.0.0.0 dynamic-amemv.com.edgekey.net
 0.0.0.0 dynamic-comm2.snssdk.com.bdgslb.com
 0.0.0.0 dynamic-comm3.snssdk.com.bdgslb.com
 0.0.0.0 dynamic-comm.snssdk.com.bdgslb.com
 0.0.0.0 dynamic-d5snssdk.bwhero.com.bdgslb.com
-0.0.0.0 dzsu313agxr9l.cloudfront.net
 0.0.0.0 e35058.a.akamaiedge.net
 0.0.0.0 e35058.api2.akamaiedge.net
 0.0.0.0 eagleye.snssdk.com
@@ -1076,7 +1066,10 @@
 0.0.0.0 fcdn.us.tiktokv.com
 0.0.0.0 f-charge-fee.snssdk.com
 0.0.0.0 fddfafhadd.temp.p23.tc.cdntip.com
+0.0.0.0 feed16-normal-sg.capcutapi.com
+0.0.0.0 feed32-normal-sg.capcutapi.com
 0.0.0.0 feed-api.capcutapi.com
+0.0.0.0 feed-api.capcut.com
 0.0.0.0 feed-api-gcp.capcut.com
 0.0.0.0 feed-api-sg.capcutapi.com
 0.0.0.0 feed-api-sg.capcut.com
@@ -1101,6 +1094,7 @@
 0.0.0.0 fortune.snssdk.com.w.kunluncan.com
 0.0.0.0 f-pay-rp.snssdk.com
 0.0.0.0 f-p-sandbox.snssdk.com
+0.0.0.0 f-p.sgsnssdk.com
 0.0.0.0 f-p-va.isnssdk.com
 0.0.0.0 f-p-va.isnssdk.com.edgekey.net
 0.0.0.0 fr4.byteoversea.com
@@ -1136,6 +1130,7 @@
 0.0.0.0 fusioncdn-lf.snssdk.com
 0.0.0.0 fxj-boe.snssdk.com
 0.0.0.0 gababhhcehc.temp.p23.tc.cdntip.com
+0.0.0.0 gab.faceueditor.com
 0.0.0.0 gallery.bytedance.net
 0.0.0.0 game.bytedance.net
 0.0.0.0 game.snssdk.com
@@ -1409,6 +1404,7 @@
 0.0.0.0 index.toutiao.com
 0.0.0.0 inf-portal-boe.byted.org
 0.0.0.0 insgame-api-sg.tiktokv.com
+0.0.0.0 i-n.sgsnssdk.com
 0.0.0.0 insight.bytedance.net
 0.0.0.0 insurance.snssdk.com
 0.0.0.0 int.bytedance.net
@@ -2051,7 +2047,6 @@
 0.0.0.0 oec22-normal-useast1a.tiktokv.com
 0.0.0.0 omega.bytedance.net
 0.0.0.0 one.bytedance.net
-0.0.0.0 onelink-1664648862.eu-west-1.elb.amazonaws.com
 0.0.0.0 op.bytedance.net
 0.0.0.0 open16-va.tiktokv.com
 0.0.0.0 open16-va.tiktokv.com.edgekey.net
@@ -2132,6 +2127,7 @@
 0.0.0.0 p16-k1-sign-sg.ibyteimg.com
 0.0.0.0 p16-k1-sign-useast2a.ibyteimg.com
 0.0.0.0 p16-k1-sign-va.ibyteimg.com
+0.0.0.0 p16-m-sign-va.ibyteimg.com
 0.0.0.0 p16-mt-sg-a.ibyteimg.com
 0.0.0.0 p16-mt-sg-b.ibyteimg.com
 0.0.0.0 p16-mt-sg.ibyteimg.com
@@ -2240,6 +2236,7 @@
 0.0.0.0 p19-capcut-sg.ibyteimg.com
 0.0.0.0 p19-capcut-va.ibyteimg.com
 0.0.0.0 p19-catalog-sg.ibyteimg.com
+0.0.0.0 p19-cp-game-img-sign-sg.tiktokcdn.com
 0.0.0.0 p19.hypstarcdn.com
 0.0.0.0 p19-novel-sg.ibyteimg.com
 0.0.0.0 p19-oec-common-useast2a.ibyteimg.com
@@ -2510,6 +2507,7 @@
 0.0.0.0 partner.toutiao.com
 0.0.0.0 partner.toutiao.com.bytedns.net
 0.0.0.0 passport-alisg.byteoversea.com
+0.0.0.0 passport-api.capcutapi.com
 0.0.0.0 passport-api-sg.capcutapi.com
 0.0.0.0 passport-api-sg.capcut.com
 0.0.0.0 passport-maliva.byteoversea.com
@@ -2607,6 +2605,7 @@
 0.0.0.0 pull-a5-tt01.fcdn.us.tiktokv.com
 0.0.0.0 pull-a5-tt02-infra.fcdn.us.tiktokv.com
 0.0.0.0 pull-a5-va01.tiktokcdn.com
+0.0.0.0 pull-c5-gcp01.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-c5-gcp01.tiktokcdn.com
 0.0.0.0 pull-c5-va01.tiktokcdn.com
 0.0.0.0 pull-cmaf-f16-ab.tiktokcdn.com
@@ -2629,10 +2628,13 @@
 0.0.0.0 pull-cmaf-f16-va01.tiktokcdn.com
 0.0.0.0 pull-cmaf-f16-va01.ttlivecdn.com
 0.0.0.0 pull-cmaf-f58-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f58-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-cmaf-f5-mus.pstatp.com
+0.0.0.0 pull-cmaf-f5-sg01.tiktokcdn.com
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com.akamaized.net
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 pull-cmaf-f5-va01.tiktokcdn.com
 0.0.0.0 pull-cmaf-f77-gcp01.tiktokcdn.com
 0.0.0.0 pull-cmaf-f77-sg01.tiktokcdn.com
 0.0.0.0 pull-cmaf-f77-tt03.fcdn.eu.tiktokcdn.com
@@ -2712,11 +2714,14 @@
 0.0.0.0 pull-flv-f1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-flv-f1-va01.tiktokcdn.com
 0.0.0.0 pull-flv-f1-xg.bytecdn.cn
+0.0.0.0 pull-flv-f58-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-flv-f61-va01.tiktokcdn.com
 0.0.0.0 pull-flv-f62-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-f62-va01.tiktokcdn.com
 0.0.0.0 pull-flv-f64-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-f64-va01.tiktokcdn.com
+0.0.0.0 pull-flv-f65-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f65-va01.tiktokcdn.com
 0.0.0.0 pull-flv-f6-hs.pstatp.com
 0.0.0.0 pull-flv-f6-xg.bytecdn.cn
 0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
@@ -2778,6 +2783,18 @@
 0.0.0.0 pull-flv-l77-va01.eu.tiktokcdn.com
 0.0.0.0 pull-flv-l77-va01.tiktokcdn.com
 0.0.0.0 pull-flv-l7.pstatp.com
+0.0.0.0 pull-flv-o77-sg01.eu.tiktokcdn.com
+0.0.0.0 pull-flv-o77-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-o77-va01.eu.tiktokcdn.com
+0.0.0.0 pull-flv-o77-va01.tiktokcdn.com
+0.0.0.0 pull-flv-q77-sg01.eu.tiktokcdn.com
+0.0.0.0 pull-flv-q77-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-q77-va01.eu.tiktokcdn.com
+0.0.0.0 pull-flv-q77-va01.tiktokcdn.com
+0.0.0.0 pull-flv-w77-sg01.eu.tiktokcdn.com
+0.0.0.0 pull-flv-w77-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-w77-va01.eu.tiktokcdn.com
+0.0.0.0 pull-flv-w77-va01.tiktokcdn.com
 0.0.0.0 pull-hls-f11-ab.tiktokcdn.com
 0.0.0.0 pull-hls-f11-gcp01.tiktokcdn.com
 0.0.0.0 pull-hls-f11-sg01.tiktokcdn.com
@@ -3156,6 +3173,7 @@
 0.0.0.0 search16-normal-c-useast2a.tiktokv.com
 0.0.0.0 search16-normal-c-useast2a.tiktokv.com.edgekey.net
 0.0.0.0 search16-normal-useast2a.tiktokv.com
+0.0.0.0 search19-normal-alisg.tiktokv.com
 0.0.0.0 search19-normal-c-useast1a.tiktokv.com
 0.0.0.0 search19-normal-c-useast2a.tiktokv.com
 0.0.0.0 search21-normal-c-alisg.tiktokv.com
@@ -3361,6 +3379,7 @@
 0.0.0.0 sgsnssdk.com
 0.0.0.0 share-1070666956.ap-northeast-1.elb.amazonaws.com
 0.0.0.0 share.musemuse.cn
+0.0.0.0 share-sg.isnssdk.com
 0.0.0.0 share-sg.snssdk.com
 0.0.0.0 share-test.musemuse.cn
 0.0.0.0 shell.bytedance.net
@@ -3383,8 +3402,6 @@
 0.0.0.0 sms-callback.byteoversea.com
 0.0.0.0 s.musemuse.cn
 0.0.0.0 sniper-boe.byted.org
-0.0.0.0 snssdk1180.onelink.me
-0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 snssdk.com
 0.0.0.0 snssdk.com.bdgslb.com
 0.0.0.0 snssdk.com.bsgslb.com
@@ -3579,6 +3596,8 @@
 0.0.0.0 tnc3-bjlgy.bytedance.com
 0.0.0.0 tnc3-bjlgy.snssdk.com
 0.0.0.0 tnc-boot.tiktokv.com
+0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-va.capcutapi.com
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 tobapplog.snssdk.com
 0.0.0.0 tobapplog.snssdk.com.w.kunluncan.com
@@ -3895,6 +3914,7 @@
 0.0.0.0 v16-default.byteoversea.com
 0.0.0.0 v16-dy.byteoversea.com
 0.0.0.0 v16-dy.byteoversea.com.edgesuite.net
+0.0.0.0 v16e.tiktokcdn.com
 0.0.0.0 v16.hypstarcdn.com
 0.0.0.0 v16.hypstarcdn.com.edgesuite.net
 0.0.0.0 v16-ipv6.tiktokcdn.com
@@ -4025,6 +4045,7 @@
 0.0.0.0 v39-dynamic-cgk3.tiktokcdn.com
 0.0.0.0 v39-dynamic-cgk4.tiktokcdn.com
 0.0.0.0 v39-eu.tiktokcdn.com
+0.0.0.0 v39-id-telin.tiktokcdn.com
 0.0.0.0 v39-id.tiktokcdn.com
 0.0.0.0 v39.muscdn.com
 0.0.0.0 v39.tiktokcdn.com
@@ -4064,6 +4085,7 @@
 0.0.0.0 v3-dy-z.bytecdn.cn
 0.0.0.0 v3-dy-z.ixigua.com
 0.0.0.0 v3-dy-z.ixigua.com.xi.zwtianshangm.com
+0.0.0.0 v3e.tiktokcdn.com
 0.0.0.0 v3-hs.bytecdn.cn
 0.0.0.0 v3-hs.ixigua.com.xi.zwtianshangm.com
 0.0.0.0 v3-hs-m.bytecdn.cn
@@ -4100,6 +4122,7 @@
 0.0.0.0 v51.tiktokcdn.com
 0.0.0.0 v53-a.tiktokcdn.com
 0.0.0.0 v53-b.tiktokcdn.com
+0.0.0.0 v53e.tiktokcdn.com
 0.0.0.0 v53.tiktokcdn.com
 0.0.0.0 v58.tiktokcdn.com
 0.0.0.0 v5-dy.bytecdn.cn
@@ -4172,6 +4195,7 @@
 0.0.0.0 v9-dy-z.bytecdn.cn
 0.0.0.0 v9-dy-z.ixigua.com
 0.0.0.0 v9-dy-z.ixigua.com.bsgslb.com
+0.0.0.0 v9e.tiktokcdn.com
 0.0.0.0 v9-hs.bytecdn.cn
 0.0.0.0 v9-hs.ixigua.com.bsgslb.com
 0.0.0.0 v9-id-a.tiktokcdn.com
@@ -4212,6 +4236,7 @@
 0.0.0.0 vas-alisg16.byteoversea.com.edgesuite.net
 0.0.0.0 vas-alisg16.tiktokcdn.com
 0.0.0.0 vas-alisg16.tiktokcdn.com.edgesuite.net
+0.0.0.0 vas-alisg16.tiktokv.com
 0.0.0.0 vas-alisg19.byteoversea.com
 0.0.0.0 vas-alisg21.byteoversea.com
 0.0.0.0 vas-alisg22-quic.byteoversea.com
@@ -4391,6 +4416,7 @@
 0.0.0.0 webcast16-useast2a.musical.ly.edgekey.net
 0.0.0.0 webcast16-va.tiktokv.com
 0.0.0.0 webcast16-va.tiktokv.com.edgekey.net
+0.0.0.0 webcast16-ws-useast1a.tiktokv.com
 0.0.0.0 webcast16-ws-useast2a.tiktokv.com
 0.0.0.0 webcast19.musical.ly
 0.0.0.0 webcast19-normal-c-alisg.tiktokv.com
@@ -4411,6 +4437,7 @@
 0.0.0.0 webcast22-normal-c-useast1a.tiktokv.com
 0.0.0.0 webcast22-normal-c-useast2a.tiktokv.com
 0.0.0.0 webcast22-open-useast2a.tiktokv.com
+0.0.0.0 webcast22-ws-useast1a.tiktokv.com
 0.0.0.0 webcast22-ws-useast2a.tiktokv.com
 0.0.0.0 webcast26.amemv.com
 0.0.0.0 webcast26-c.amemv.com

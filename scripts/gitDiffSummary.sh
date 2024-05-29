@@ -1,9 +1,11 @@
-#!/bin/bash
-# TODO: this cant detect newly added/removed file, only changed contents
+#!/usr/bin/env bash
+# TODO: this cant detect newly added/removed
+# files, only changed contents
+# and also cant detect staged changes (in my case with git-cola)
 echo "File	Added	Removed"
 for file in $(git diff --name-only);do
 	file_diff=$(git diff --minimal -p --raw --color=never "../$file")
-	lines_added=$(($(echo "$file_diff" | grep '^+' | wc -l) - 1))
-	lines_removed=$(($(echo "$file_diff" | grep '^-' | wc -l) - 1))
-	echo "$file	$lines_added	$lines_removed"
+	added=$(($(echo "$file_diff" | grep '^+' | wc -l) - 1))
+	removed=$(($(echo "$file_diff" | grep '^-' | wc -l) - 1))
+	echo "$file	$added	$removed"
 done

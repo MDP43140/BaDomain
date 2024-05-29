@@ -1,12 +1,14 @@
 #
-# This will block gambling websites,
-# especially Indonesians oriented gambling sites
-# I recommend using this if you have a
-# shared network or don't want your close relatives
-# to become another victim of "The Gambling Gods"
+# This will block gambling websites
+# (especially Indonesians oriented ones)
+# I recommend using this if you have a shared
+# local network that other people use or you
+# don't want your close relatives to
+# become yet another victim of "The Gambling Gods"
 #
 
 1togel.com
+333casino.net
 8togel.com
 afafreedom.com
 afamaxpro.com
@@ -21,6 +23,7 @@ api.superbig77.online
 api.superbig77.org
 api.superbig77.xyz
 atgpromax.com
+atozlottery.com
 batikpkfresh.com
 batikpoker.com
 bimabet.live
@@ -72,6 +75,7 @@ maxgacor.click
 meyerweb.com
 monyetkota.biz
 mplay88.xyz
+online-ideal-casino.nl
 pbx256.xyz
 pokerboya.com
 polamenang8t.com
@@ -184,6 +188,7 @@ www9.rgolaptopku.com
 www9.texas-2024.com
 www.eyangtogel.com
 www.idtgacornew2024.com
+www.online-ideal-casino.nl
 www.poormansguidetocasinogambling.com
 www.slot1m.com
 www.superbig77.co

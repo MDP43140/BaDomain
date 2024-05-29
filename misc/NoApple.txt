@@ -1,3 +1,8 @@
+#
+# This list blocks connection to Apple domains
+# (apple.com, their services, etc...)
+#
+
 0-courier.push.apple.com
 10-courier.push.apple.com
 10.courier-push-apple.com.akadns.net
@@ -107,7 +112,9 @@ bag.itunes.apple.com
 bag-smoot.v.aaplimg.com
 buy.itunes-apple.com.akadns.net
 caldav.fe.apple-dns.net
+c.apple.news
 captive.apple.com
+captive.g.aaplimg.com
 cdn.apple-mapkit.com
 cdn-icloud-content.g.aaplimg.com
 cf.iadsdk.apple.com
@@ -115,6 +122,7 @@ cl1.apple.com
 cl2.apple.com
 cl2.apple.com.c.footprint.net
 cl2-cdn-us.origin-apple.com.akadns.net
+cl2.g.aaplimg.com
 cl3.apple.com
 cl3-cdn.origin-apple.com.akadns.net
 cl3.g.aaplimg.com
@@ -122,6 +130,7 @@ cl4.apple.com
 cl4.apple.com.c.footprint.net
 cl4-cdn.origin-apple.com.akadns.net
 cl4-cdn-us.origin-apple.com.akadns.net
+cl4.g.aaplimg.com
 cl5.apple.com
 cma.itunes.apple.com
 comm-cohort.ess.apple.com
@@ -141,11 +150,13 @@ edge-102.sesto4.icloud-content.com
 fbs.smoot.apple.com
 fides-pol.apple.com
 fmfmobile.fe.apple-dns.net
+g.aaplimg.com
 gateway.fe2.apple-dns.net
 gateway.fe.apple-dns.net
 gateway.icloud.com
 gdmf.apple.com
 gdmf.v.aaplimg.com
+get-bx.g.aaplimg.com
 gsa.apple.com
 gsa.idms-apple.com.akadns.net
 gsas.apple.com
@@ -223,6 +234,7 @@ init-p01st.push.apple.com
 init.push.apple.com
 init.push-apple.com.akadns.net
 ipcdn.apple.com
+ipcdn.g.aaplimg.com
 ipcdn-lb.apple.com.akadns.net
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
@@ -237,10 +249,12 @@ mask-api.icloud.com
 me.apple-dns.net
 mesu.apple.com
 mesu-cdn.origin-apple.com.akadns.net
+mesu.g.aaplimg.com
 musicstatus.itunes.apple.com
 mzstatic.com
 netcts.cdn-apple.com
 ocsp2.apple.com
+ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 p10-caldav.icloud.com
 p10-escrowproxy.icloud.com
@@ -388,6 +402,7 @@ p98-caldav.icloud.com
 p98-escrowproxy.icloud.com
 pancake.apple.com
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 pds-init.ess.apple.com
@@ -419,6 +434,7 @@ stocks-sparkline.apple.com
 su.itunes.apple.com
 time.apple.com
 time.euro.apple.com
+time-osx.g.aaplimg.com
 token.safebrowsing.apple
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net

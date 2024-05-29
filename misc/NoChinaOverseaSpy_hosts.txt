@@ -22,7 +22,6 @@
 0.0.0.0 atom-log.3.cn
 0.0.0.0 auto.itc.cn
 0.0.0.0 bdtj.infinities.com.cn
-0.0.0.0 beacon.cdn.qq.com
 0.0.0.0 beian.miit.gov.cn
 0.0.0.0 bounconser.cn
 0.0.0.0 campaign.zhaopin.com
@@ -72,7 +71,6 @@
 0.0.0.0 hahr.hazq.com
 0.0.0.0 hebyz2023.zhaopin.com
 0.0.0.0 highpin.zhaopin.com
-0.0.0.0 h.trace.qq.com
 0.0.0.0 image.thinkingdata.cn
 0.0.0.0 img001.fview.cn
 0.0.0.0 img002.fview.cn
@@ -98,7 +96,6 @@
 0.0.0.0 m3.auto.itc.cn
 0.0.0.0 m4.auto.itc.cn
 0.0.0.0 mipunet.cn
-0.0.0.0 mp.weixin.qq.com
 0.0.0.0 m.toutiaocdn.cn
 0.0.0.0 mvconf.f.360.cn
 0.0.0.0 mypics.zhaopin.cn
@@ -107,7 +104,6 @@
 0.0.0.0 ntp.ntsc.ac.cn
 0.0.0.0 ntp.sjtu.edu.cn
 0.0.0.0 oppo.wifi.teddymobile.cn
-0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 overseas.zhaopin.com
 0.0.0.0 p0.itc.cn
 0.0.0.0 p11.itc.cn
@@ -127,7 +123,6 @@
 0.0.0.0 qcloudimg.tencent-cloud.cn
 0.0.0.0 qcloudimg.tencentcs.cn
 0.0.0.0 qpic.cn
-0.0.0.0 qq.com
 0.0.0.0 rd6.zhaopin.com
 0.0.0.0 receiver.ta.thinkingdata.cn
 0.0.0.0 restapi.amap.com
@@ -191,7 +186,6 @@
 0.0.0.0 vfiles-raw.gtimg.cn
 0.0.0.0 vivo.com.cn
 0.0.0.0 vm.gtimg.cn
-0.0.0.0 v.qq.com
 0.0.0.0 wenjuan.com
 0.0.0.0 wifi.teddymobile.cn
 0.0.0.0 wjx.cn

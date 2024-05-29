@@ -60,6 +60,7 @@
 0.0.0.0 apisnd.heytapmobi.com
 0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 appconf-ocs-sgp.heytapdl.com
+0.0.0.0 appconf-ocs-us.heytapdl.com
 0.0.0.0 appconf-sgp.heytapdl.com
 0.0.0.0 avlconf.coloros.com
 0.0.0.0 bdapi-id.ads.heytapmobi.com
@@ -68,6 +69,7 @@
 0.0.0.0 bdapi-in.ads.heytapmobile.com
 0.0.0.0 brand.heytap.com
 0.0.0.0 browser-api-id.heytapmobile.com
+0.0.0.0 browserfiles.heytapimg.com
 0.0.0.0 browser-i-gl.heytapmobile.com
 0.0.0.0 cdp-common-gl.heytapmobile.com
 0.0.0.0 cdp-common-id.heytapmobile.com
@@ -324,6 +326,7 @@
 0.0.0.0 pguard-cdnfs-eu.coloros.com
 0.0.0.0 pguard-cdnfs-in.coloros.com
 0.0.0.0 pguard-cdnfs-sg.coloros.com
+0.0.0.0 ph-store.oppomobile.com
 0.0.0.0 play0.heytapimg.com
 0.0.0.0 proxy.apps.oppomobile.com
 0.0.0.0 proxyf.apps.oppomobile.com
@@ -351,6 +354,7 @@
 0.0.0.0 stat-cn.dc.oppomobile.com
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat-sg.dc.oppomobile.com
+0.0.0.0 stg-data-f.ads.heytapmobile.com
 0.0.0.0 stg-data-id.ads.heytapmobi.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com
 0.0.0.0 stg-data-in.ads.heytapmobi.com

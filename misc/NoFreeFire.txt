@@ -1,3 +1,9 @@
+#
+# This list blocks access to Free Fire,
+# a popular online multiplayer game (in Asia),
+# owned by Garena, a Singapore company (ehm, affiliated with China in some ways of course...)
+#
+
 100067.connect.garena.com
 100067.msdk.garena.com
 api-otrs.garena.co.id
@@ -24,11 +30,13 @@ dl.cvs.freefiremobile.com
 dl.dir.freefiremobile.com
 dl.gcp.freefiremobile.com
 dl.gmc.freefiremobile.com
+dl.hw.freefiremobile.com
 dl-patch-freefiremobile-com-sh.obs.myhuaweicloud.com
 dl-sg-production.freefiremobile.com
 dl.wsu.freefiremobile.com
 event.freefiremobile.com
 ff-advance.ff.garena.com
+ff.dr.grtc.garenanow.com
 ff.garena.com
 ffguide.garena.com
 ff.rtc.grtc.garenanow.com
@@ -59,4 +67,5 @@ testconnect.garenanow.com
 version.common.ffmax.garena.com
 version.common.freefiremobile.com
 web.cdn.id.garenanow.com
+weeklytopup.ff.garena.co.id
 ws.garena.com

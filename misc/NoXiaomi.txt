@@ -4,6 +4,7 @@
 #
 
 10046.mi.com
+abroad.api.comm.intl.miui.com
 abtest.mistat.xiaomi.com
 account.preview.n.xiaomi.net
 account.xiaomi.com
@@ -73,12 +74,14 @@ cdn.ad.xiaomi.com
 cdn.alsgp0.fds.api.mi-img.com
 cdn.awsde0-fusion.fds.api.mi-img.com
 cdn.awsind0-fusion.fds.api.mi-img.com
+cdn.awsusor1.fds.api.mi-img.com
 cdn.cnbj1.fds.api.mi-img.com
 cdn.exp.xiaomi.com
 cdn.fds-ssl.api.xiaomi.com
 cia.sec.miui.com
 c.id.mi.com
 cn.app.chat.xiaomi.net
+cnbj1.fds.api.xiaomi.com
 cn.find.api.micloud.xiaomi.net
 connect.intl.rom.miui.com
 connect-milink.g.mi.com
@@ -151,6 +154,7 @@ fe02.lg.xiaomi.com
 feedback.intl.miui.com
 feedback.miui.com
 file.market.xiaomi.com
+file.update.miui.com
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 flash.sec.intl.miui.com
@@ -172,6 +176,8 @@ global.developer.xiaomi.com
 global.market.xiaomi.com
 globalnileapi.market.xiaomi.com
 global.search.xiaomi.net
+go.buy.mi.com
+gtglobal.intl.miui.com
 heyue.xiaomi.com
 hk.mibi.xiaomi.com
 home.miui.com
@@ -255,6 +261,8 @@ sg.idm.iot.mi.com
 sgpac.account.xiaomi.com
 sgp-api.huangye.intl.miui.com
 sgp-cdn.video.intl.xiaomi.com
+sgp-l7-apm.slb.xiaomi.com
+sgp-push.api.intl.miui.com
 sg-urc.io.mi.com
 shoes.app-xae.xiaomi.com
 srv.sec.intl.miui.com
@@ -374,7 +382,9 @@ wap.game.xiaomi.com
 weatherapi.intl.xiaomi.com
 weatherapi.market.xiaomi.com
 weather.pandora.xiaomi.com
+widget.cdn.intl.miui.com
 wifiapi.micloud.xiaomi.net
+www.mi.com
 www.xiaomi.com
 xiaomi.com
 xiaomi.net

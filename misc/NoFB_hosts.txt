@@ -1,3 +1,7 @@
+#
+# This list blocks access to any Meta owned domains & softwares
+# (including Facebook, Instagram, Messenger, (some) WhatsApp, Oculus, Meta AI, etc...).
+#
 
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0.beta.facebook.com
@@ -315,7 +319,6 @@
 0.0.0.0 apps.facebook.com
 0.0.0.0 apps.fbcdn.net
 0.0.0.0 ar-ar.facebook.com
-0.0.0.0 ar-ar.fr-fr.es-es.prod.facebook.com
 0.0.0.0 ash1.fbcdn.net
 0.0.0.0 asos.m.facebook.com
 0.0.0.0 asurion.m.facebook.com
@@ -439,6 +442,7 @@
 0.0.0.0 connect.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.facebook.net.edgekey.net
+0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 cs-cz.facebook.com
 0.0.0.0 cs.facebook.com
@@ -578,6 +582,7 @@
 0.0.0.0 edge-liverail-shv-17-prn1.facebook.com
 0.0.0.0 edge-liverail-shv-18-prn1.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-mqtt-fallback.facebook.com
 0.0.0.0 edge-mqtt-shv-01-ams2.facebook.com
 0.0.0.0 edge-mqtt-shv-01-ams3.facebook.com
 0.0.0.0 edge-mqtt-shv-01-ash5.facebook.com
@@ -793,7 +798,6 @@
 0.0.0.0 el-gr.facebook.com
 0.0.0.0 elkjopnordic.m.facebook.com
 0.0.0.0 en-gb.facebook.com
-0.0.0.0 en-gb.th-th.fbjs.facebook.com
 0.0.0.0 engineering.fb.com
 0.0.0.0 ent-a.xx.fbcdn.net
 0.0.0.0 ent-b.xx.fbcdn.net
@@ -804,7 +808,6 @@
 0.0.0.0 error.facebook.com
 0.0.0.0 es-es.facebook.com
 0.0.0.0 es.facebook.com
-0.0.0.0 es-la.es-es.de-de.fbjs.facebook.com
 0.0.0.0 es-la.facebook.com
 0.0.0.0 et-ee.facebook.com
 0.0.0.0 expeditors.facebook.com
@@ -1682,6 +1685,7 @@
 0.0.0.0 instagram.fbkk8-4.fna.fbcdn.net
 0.0.0.0 instagram.fbkk9-2.fna.fbcdn.net
 0.0.0.0 instagram.fbkk9-3.fna.fbcdn.net
+0.0.0.0 instagram.fblr4-4.fna.fbcdn.net
 0.0.0.0 instagram.fbma1-1.fna.fbcdn.net
 0.0.0.0 instagram.fbna1-1.fna.fbcdn.net
 0.0.0.0 instagram.fbom10-1.fna.fbcdn.net
@@ -2333,6 +2337,7 @@
 0.0.0.0 media-cgk1-1.cdn.whatsapp.net
 0.0.0.0 media-cgk1-2.cdn.whatsapp.net
 0.0.0.0 media-cgk1-3.cdn.whatsapp.net
+0.0.0.0 media-cgk2-1.cdn.whatsapp.net
 0.0.0.0 media.facc1-1.fna.whatsapp.net
 0.0.0.0 media.fadl3-1.fna.whatsapp.net
 0.0.0.0 media.fadl4-1.fna.whatsapp.net
@@ -2941,6 +2946,7 @@
 0.0.0.0 media-xsp1-3.cdn.whatsapp.net
 0.0.0.0 media-xsp2-1.cdn.whatsapp.net
 0.0.0.0 meli.m.facebook.com
+0.0.0.0 meta.ai
 0.0.0.0 metacareers.com
 0.0.0.0 metastatus.com
 0.0.0.0 m.facebook.com
@@ -3975,6 +3981,7 @@
 0.0.0.0 sonar6-sin6-1.xx.fbcdn.net
 0.0.0.0 sonar6-sin6-2.xx.fbcdn.net
 0.0.0.0 sonar6-sin6-3.xx.fbcdn.net
+0.0.0.0 sonar6-sin6-4.xx.fbcdn.net
 0.0.0.0 sonar6-xsp1-1.xx.fbcdn.net
 0.0.0.0 sonar6-xsp1-2.xx.fbcdn.net
 0.0.0.0 sonar6-xsp1-3.xx.fbcdn.net
@@ -4043,12 +4050,14 @@
 0.0.0.0 sonar.fcgk3-2.fna.whatsapp.net
 0.0.0.0 sonar.fcgk33-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk3-3.fna.fbcdn.net
+0.0.0.0 sonar.fcgk3-3.fna.whatsapp.net
 0.0.0.0 sonar.fcgk34-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk3-4.fna.fbcdn.net
 0.0.0.0 sonar.fcgk3-4.fna.whatsapp.net
 0.0.0.0 sonar.fcgk35-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk36-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk37-1.fna.fbcdn.net
+0.0.0.0 sonar.fcgk37-1.fna.whatsapp.net
 0.0.0.0 sonar.fcgk37-2.fna.fbcdn.net
 0.0.0.0 sonar.fcgk38-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk39-1.fna.fbcdn.net
@@ -4109,6 +4118,7 @@
 0.0.0.0 sonar-ist1-1.xx.fbcdn.net
 0.0.0.0 sonar-itm1-1.xx.fbcdn.net
 0.0.0.0 sonar-jnb.xx.fbcdn.net
+0.0.0.0 sonar-kul2-1.xx.fbcdn.net
 0.0.0.0 sonar-kul2-2.xx.fbcdn.net
 0.0.0.0 sonar-kul3-1.xx.fbcdn.net
 0.0.0.0 sonar-kul.cdn.whatsapp.net
@@ -5418,7 +5428,7 @@
 0.0.0.0 www.fbcdn.net
 0.0.0.0 www.instagram.com
 0.0.0.0 www.mapiliary.com
-0.0.0.0 www.prod.facebook.com
+0.0.0.0 www.meta.ai
 0.0.0.0 wwww.facebook.com
 0.0.0.0 xerox.facebook.com
 0.0.0.0 x.facebook.com

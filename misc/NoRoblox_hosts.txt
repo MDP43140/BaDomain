@@ -1,3 +1,8 @@
+#
+# This list blocks access to Roblox, an online
+# Muliplayer pay-to-win minigame designed
+# primarily just for kids
+#
 
 0.0.0.0 abtesting.roblox.com
 0.0.0.0 accountinformation.roblox.com
@@ -21,6 +26,7 @@
 0.0.0.0 catalog.roblox.com
 0.0.0.0 chat.roblox.com
 0.0.0.0 clientsettingscdn.roblox.com
+0.0.0.0 clientsettings.roblox.com
 0.0.0.0 contacts.roblox.com
 0.0.0.0 css.rbxcdn.com
 0.0.0.0 dfw1-128-116-125-3.roblox.com
@@ -29,6 +35,7 @@
 0.0.0.0 ephemeralcounters.api.roblox.com
 0.0.0.0 fra2-128-116-123-3.roblox.com
 0.0.0.0 friends.roblox.com
+0.0.0.0 gamejoin.roblox.com
 0.0.0.0 games.roblox.com
 0.0.0.0 hkg1-128-116-118-3.roblox.com
 0.0.0.0 iad4-128-116-102-3.roblox.com

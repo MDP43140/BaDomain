@@ -60,6 +60,7 @@ api.snake.oppomobile.com
 apisnd.heytapmobi.com
 appconf.heytapdownload.com
 appconf-ocs-sgp.heytapdl.com
+appconf-ocs-us.heytapdl.com
 appconf-sgp.heytapdl.com
 avlconf.coloros.com
 bdapi-id.ads.heytapmobi.com
@@ -68,6 +69,7 @@ bdapi-in.ads.heytapmobi.com
 bdapi-in.ads.heytapmobile.com
 brand.heytap.com
 browser-api-id.heytapmobile.com
+browserfiles.heytapimg.com
 browser-i-gl.heytapmobile.com
 cdp-common-gl.heytapmobile.com
 cdp-common-id.heytapmobile.com
@@ -324,6 +326,7 @@ pguard-cdnfs-cn.coloros.com
 pguard-cdnfs-eu.coloros.com
 pguard-cdnfs-in.coloros.com
 pguard-cdnfs-sg.coloros.com
+ph-store.oppomobile.com
 play0.heytapimg.com
 proxy.apps.oppomobile.com
 proxyf.apps.oppomobile.com
@@ -351,6 +354,7 @@ sms-sg.ads.heytapmobile.com
 stat-cn.dc.oppomobile.com
 stat-in.dc.oppomobile.com
 stat-sg.dc.oppomobile.com
+stg-data-f.ads.heytapmobile.com
 stg-data-id.ads.heytapmobi.com
 stg-data-id.ads.heytapmobile.com
 stg-data-in.ads.heytapmobi.com

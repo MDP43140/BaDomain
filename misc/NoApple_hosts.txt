@@ -1,3 +1,7 @@
+#
+# This list blocks connection to Apple domains
+# (apple.com, their services, etc...)
+#
 
 0.0.0.0 0-courier.push.apple.com
 0.0.0.0 10-courier.push.apple.com
@@ -108,7 +112,9 @@
 0.0.0.0 bag-smoot.v.aaplimg.com
 0.0.0.0 buy.itunes-apple.com.akadns.net
 0.0.0.0 caldav.fe.apple-dns.net
+0.0.0.0 c.apple.news
 0.0.0.0 captive.apple.com
+0.0.0.0 captive.g.aaplimg.com
 0.0.0.0 cdn.apple-mapkit.com
 0.0.0.0 cdn-icloud-content.g.aaplimg.com
 0.0.0.0 cf.iadsdk.apple.com
@@ -116,6 +122,7 @@
 0.0.0.0 cl2.apple.com
 0.0.0.0 cl2.apple.com.c.footprint.net
 0.0.0.0 cl2-cdn-us.origin-apple.com.akadns.net
+0.0.0.0 cl2.g.aaplimg.com
 0.0.0.0 cl3.apple.com
 0.0.0.0 cl3-cdn.origin-apple.com.akadns.net
 0.0.0.0 cl3.g.aaplimg.com
@@ -123,6 +130,7 @@
 0.0.0.0 cl4.apple.com.c.footprint.net
 0.0.0.0 cl4-cdn.origin-apple.com.akadns.net
 0.0.0.0 cl4-cdn-us.origin-apple.com.akadns.net
+0.0.0.0 cl4.g.aaplimg.com
 0.0.0.0 cl5.apple.com
 0.0.0.0 cma.itunes.apple.com
 0.0.0.0 comm-cohort.ess.apple.com
@@ -142,11 +150,13 @@
 0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 fides-pol.apple.com
 0.0.0.0 fmfmobile.fe.apple-dns.net
+0.0.0.0 g.aaplimg.com
 0.0.0.0 gateway.fe2.apple-dns.net
 0.0.0.0 gateway.fe.apple-dns.net
 0.0.0.0 gateway.icloud.com
 0.0.0.0 gdmf.apple.com
 0.0.0.0 gdmf.v.aaplimg.com
+0.0.0.0 get-bx.g.aaplimg.com
 0.0.0.0 gsa.apple.com
 0.0.0.0 gsa.idms-apple.com.akadns.net
 0.0.0.0 gsas.apple.com
@@ -224,6 +234,7 @@
 0.0.0.0 init.push.apple.com
 0.0.0.0 init.push-apple.com.akadns.net
 0.0.0.0 ipcdn.apple.com
+0.0.0.0 ipcdn.g.aaplimg.com
 0.0.0.0 ipcdn-lb.apple.com.akadns.net
 0.0.0.0 iphone-ld.apple.com
 0.0.0.0 iphone-ld.origin-apple.com.akadns.net
@@ -238,10 +249,12 @@
 0.0.0.0 me.apple-dns.net
 0.0.0.0 mesu.apple.com
 0.0.0.0 mesu-cdn.origin-apple.com.akadns.net
+0.0.0.0 mesu.g.aaplimg.com
 0.0.0.0 musicstatus.itunes.apple.com
 0.0.0.0 mzstatic.com
 0.0.0.0 netcts.cdn-apple.com
 0.0.0.0 ocsp2.apple.com
+0.0.0.0 ocsp2.g.aaplimg.com
 0.0.0.0 ocsp2-lb.apple.com.akadns.net
 0.0.0.0 p10-caldav.icloud.com
 0.0.0.0 p10-escrowproxy.icloud.com
@@ -389,6 +402,7 @@
 0.0.0.0 p98-escrowproxy.icloud.com
 0.0.0.0 pancake.apple.com
 0.0.0.0 pancake.cdn-apple.com.akadns.net
+0.0.0.0 pancake.g.aaplimg.com
 0.0.0.0 partiality.itunes.apple.com
 0.0.0.0 partiality.itunes-apple.com.akadns.net
 0.0.0.0 pds-init.ess.apple.com
@@ -420,6 +434,7 @@
 0.0.0.0 su.itunes.apple.com
 0.0.0.0 time.apple.com
 0.0.0.0 time.euro.apple.com
+0.0.0.0 time-osx.g.aaplimg.com
 0.0.0.0 token.safebrowsing.apple
 0.0.0.0 updates.cdn-apple.com
 0.0.0.0 updates.cdn-apple.com.akadns.net

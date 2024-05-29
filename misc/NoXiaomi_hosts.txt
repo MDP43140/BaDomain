@@ -4,6 +4,7 @@
 #
 
 0.0.0.0 10046.mi.com
+0.0.0.0 abroad.api.comm.intl.miui.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 account.preview.n.xiaomi.net
 0.0.0.0 account.xiaomi.com
@@ -73,12 +74,14 @@
 0.0.0.0 cdn.alsgp0.fds.api.mi-img.com
 0.0.0.0 cdn.awsde0-fusion.fds.api.mi-img.com
 0.0.0.0 cdn.awsind0-fusion.fds.api.mi-img.com
+0.0.0.0 cdn.awsusor1.fds.api.mi-img.com
 0.0.0.0 cdn.cnbj1.fds.api.mi-img.com
 0.0.0.0 cdn.exp.xiaomi.com
 0.0.0.0 cdn.fds-ssl.api.xiaomi.com
 0.0.0.0 cia.sec.miui.com
 0.0.0.0 c.id.mi.com
 0.0.0.0 cn.app.chat.xiaomi.net
+0.0.0.0 cnbj1.fds.api.xiaomi.com
 0.0.0.0 cn.find.api.micloud.xiaomi.net
 0.0.0.0 connect.intl.rom.miui.com
 0.0.0.0 connect-milink.g.mi.com
@@ -151,6 +154,7 @@
 0.0.0.0 feedback.intl.miui.com
 0.0.0.0 feedback.miui.com
 0.0.0.0 file.market.xiaomi.com
+0.0.0.0 file.update.miui.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 findapi.micloud.xiaomi.net
 0.0.0.0 flash.sec.intl.miui.com
@@ -172,6 +176,8 @@
 0.0.0.0 global.market.xiaomi.com
 0.0.0.0 globalnileapi.market.xiaomi.com
 0.0.0.0 global.search.xiaomi.net
+0.0.0.0 go.buy.mi.com
+0.0.0.0 gtglobal.intl.miui.com
 0.0.0.0 heyue.xiaomi.com
 0.0.0.0 hk.mibi.xiaomi.com
 0.0.0.0 home.miui.com
@@ -255,6 +261,8 @@
 0.0.0.0 sgpac.account.xiaomi.com
 0.0.0.0 sgp-api.huangye.intl.miui.com
 0.0.0.0 sgp-cdn.video.intl.xiaomi.com
+0.0.0.0 sgp-l7-apm.slb.xiaomi.com
+0.0.0.0 sgp-push.api.intl.miui.com
 0.0.0.0 sg-urc.io.mi.com
 0.0.0.0 shoes.app-xae.xiaomi.com
 0.0.0.0 srv.sec.intl.miui.com
@@ -374,7 +382,9 @@
 0.0.0.0 weatherapi.intl.xiaomi.com
 0.0.0.0 weatherapi.market.xiaomi.com
 0.0.0.0 weather.pandora.xiaomi.com
+0.0.0.0 widget.cdn.intl.miui.com
 0.0.0.0 wifiapi.micloud.xiaomi.net
+0.0.0.0 www.mi.com
 0.0.0.0 www.xiaomi.com
 0.0.0.0 xiaomi.com
 0.0.0.0 xiaomi.net
