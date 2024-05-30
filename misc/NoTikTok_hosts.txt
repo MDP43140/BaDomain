@@ -2868,6 +2868,7 @@
 0.0.0.0 pull-l3-xg.ixigua.com.xi.zwtianshangm.com
 0.0.0.0 pull-lls-l11-sg01.tiktokcdn.com
 0.0.0.0 pull-lls-l11.tiktokcdn.com
+0.0.0.0 pull-lls-l11-va01.tiktokcdn.com
 0.0.0.0 pull-o5-gcp01.tiktokcdn.com
 0.0.0.0 pull-o5-sg01.fcdn.eu.tiktokcdn.com
 0.0.0.0 pull-o5-sg01.tiktokcdn.com

@@ -17,6 +17,7 @@
 0.0.0.0 api.account.xiaomi.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.aurogon.intl.miui.com
 0.0.0.0 api.comm.miui.com
 0.0.0.0 api.developer.xiaomi.com
 0.0.0.0 api.device.xiaomi.net
@@ -82,6 +83,7 @@
 0.0.0.0 c.id.mi.com
 0.0.0.0 cn.app.chat.xiaomi.net
 0.0.0.0 cnbj1.fds.api.xiaomi.com
+0.0.0.0 cnbj3-fusion.fds.api.xiaomi.com
 0.0.0.0 cn.find.api.micloud.xiaomi.net
 0.0.0.0 connect.intl.rom.miui.com
 0.0.0.0 connect-milink.g.mi.com
@@ -266,9 +268,11 @@
 0.0.0.0 sg-urc.io.mi.com
 0.0.0.0 shoes.app-xae.xiaomi.com
 0.0.0.0 srv.sec.intl.miui.com
+0.0.0.0 ssl-cdn.static.browser.mi-img.com
 0.0.0.0 staging.ai.api.xiaomi.com
 0.0.0.0 staging.api.zhuti.n.xiaomi.com
 0.0.0.0 staging.appapi.n.xiaomi.com
+0.0.0.0 staging.market.n.xiaomi.com
 0.0.0.0 starfish.pandora.xiaomi.com
 0.0.0.0 static.game.xiaomi.com
 0.0.0.0 stat.pandora.xiaomi.com

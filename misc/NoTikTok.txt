@@ -2868,6 +2868,7 @@ pull-l3.hypstarcdn.com
 pull-l3-xg.ixigua.com.xi.zwtianshangm.com
 pull-lls-l11-sg01.tiktokcdn.com
 pull-lls-l11.tiktokcdn.com
+pull-lls-l11-va01.tiktokcdn.com
 pull-o5-gcp01.tiktokcdn.com
 pull-o5-sg01.fcdn.eu.tiktokcdn.com
 pull-o5-sg01.tiktokcdn.com

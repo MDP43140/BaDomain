@@ -3181,6 +3181,7 @@ scontent-cgk1-1.xx.fbcdn.net
 scontent-cgk1-2.cdninstagram.com
 scontent-cgk1-2.xx.fbcdn.net
 scontent-cgk1-3.cdninstagram.com
+scontent-cgk2-1.cdninstagram.com
 scontent-c.xx.fbcdn.net # not exist
 scontent-den4-1.cdninstagram.com
 scontent-dfw5-1.xx.fbcdn.net

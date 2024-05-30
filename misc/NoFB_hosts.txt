@@ -3181,6 +3181,7 @@
 0.0.0.0 scontent-cgk1-2.cdninstagram.com
 0.0.0.0 scontent-cgk1-2.xx.fbcdn.net
 0.0.0.0 scontent-cgk1-3.cdninstagram.com
+0.0.0.0 scontent-cgk2-1.cdninstagram.com
 0.0.0.0 scontent-c.xx.fbcdn.net
 0.0.0.0 #
 0.0.0.0 not

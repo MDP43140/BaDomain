@@ -62,9 +62,11 @@ while IFS= read -r line;do
 		;;
 		*bet*|\
 		*casino*|\
+		*domino*|\
 		*gacha*|\
 		*gacor*|\
 		*jackpot*|\
+		*judi*|\
 		*kaskus*toto*|\
 		*lottery*|\
 		*poker*|\
@@ -206,6 +208,7 @@ while IFS= read -r line;do
 		*memek*|\
 		*montok*|\
 		*naught*|\
+		*nude*|\
 		*tante*|\
 		*porn*|\
 		*seks*|\
