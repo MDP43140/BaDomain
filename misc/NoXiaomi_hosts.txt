@@ -79,6 +79,8 @@
 0.0.0.0 cdn.cnbj1.fds.api.mi-img.com
 0.0.0.0 cdn.exp.xiaomi.com
 0.0.0.0 cdn.fds-ssl.api.xiaomi.com
+0.0.0.0 cdn-file.hyperos.mi.com
+0.0.0.0 cdn.web-global.fds.api.mi-img.com
 0.0.0.0 cia.sec.miui.com
 0.0.0.0 c.id.mi.com
 0.0.0.0 cn.app.chat.xiaomi.net
@@ -103,6 +105,7 @@
 0.0.0.0 dev.staging.api.developer.n.xiaomi.com
 0.0.0.0 d.g.mi.com
 0.0.0.0 dotomi.com
+0.0.0.0 download.appmifile.com
 0.0.0.0 drm.market.xiaomi.com
 0.0.0.0 dvb.pandora.xiaomi.com
 0.0.0.0 d.xiaomi.com
@@ -160,6 +163,7 @@
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 findapi.micloud.xiaomi.net
 0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 font.sec.miui.com
 0.0.0.0 fr.app.chat.global.xiaomi.net
 0.0.0.0 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 0.0.0.0 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
@@ -186,6 +190,9 @@
 0.0.0.0 huangye.intl.miui.com
 0.0.0.0 huodong.xiaomi.com
 0.0.0.0 huosai.xiaomi.com
+0.0.0.0 i01.appmifile.com
+0.0.0.0 i02.appmifile.com
+0.0.0.0 i05.appmifile.com
 0.0.0.0 i2.api.io.mi.com
 0.0.0.0 i2-idm.api.io.mi.com
 0.0.0.0 id-connect.sms.intl.xiaomi.com
@@ -249,6 +256,8 @@
 0.0.0.0 router.miwifi.com
 0.0.0.0 r.sg.sec.miui.com
 0.0.0.0 ruac.account.xiaomi.com
+0.0.0.0 s03.appmifile.com
+0.0.0.0 s05.appmifile.com
 0.0.0.0 sandbox.xmpush.xiaomi.com
 0.0.0.0 sdkconfig.ad.india.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com

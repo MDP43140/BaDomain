@@ -6,7 +6,6 @@
 # eg. tiktok related domains will go to NoTikTok.txt,
 # so does facebook, oppo/ht, vivo, and others...
 #
-input_file="$1"
 service_output_folder="../misc"
 # clear all temp files
 > ${service_output_folder}/aa2.tmp
@@ -65,14 +64,19 @@ while IFS= read -r line;do
 		*domino*|\
 		*gacha*|\
 		*gacor*|\
+		*higgs*|\
 		*jackpot*|\
 		*judi*|\
 		*kaskus*toto*|\
 		*lottery*|\
+		*macau*|\
 		*poker*|\
 		*rgo*|\
 		*rtp*|\
 		*rtg*|\
+		*slot*|\
+		*trio*|\
+		*triple*|\
 		*togel*|\
 		*vegas*|\
 		*viva*)
@@ -172,7 +176,6 @@ while IFS= read -r line;do
 		*.toutiao50.com|\
 		*.toutiaocloud.com|\
 		*.toutiao.com|\
-		*.ttcache.com|\
 		*.ttdns2.com|\
 		*.ttlivecdn.com|\
 		*.ttwstatic.com)
@@ -183,6 +186,7 @@ while IFS= read -r line;do
 		*.vivoglobal.com)
 			echo "$line" >> ${service_output_folder}/NoVivo.tmp
 		;;
+		*.appmifile.com|\
 		*.mi.com|\
 		*.mi-img.com|\
 		*.miui.com|\
@@ -194,6 +198,7 @@ while IFS= read -r line;do
 		*adult*|\
 		*babe*|\
 		*bacol*|\
+		*bikini*|\
 		*bokep*|\
 		*cewek*|\
 		*coli*|\
@@ -214,18 +219,20 @@ while IFS= read -r line;do
 		*seks*|\
 		*sex*|\
 		*tinder*hot*|\
+		*.ttcache.com|\
 		*vrbanger*|\
 		*wanita*|\
 		*xxx*|\
 		*xnxx*|\
-		*xhamster*)
+		*xhamster*|\
+		*xvideos*)
 			echo "$line" >> ${service_output_folder}/NoNSFW.tmp
 		;;
 		*)
 			echo "$line" >> ../aa2.tmp
 		;;
 	esac
-done < "$input_file"
+done < "$1" # cant handle pipe stream, in case anyone tried
 insertFilteredToOrig(){
 	# basically temporary file containing the filtered domains
 	filtered="$1"
@@ -238,7 +245,7 @@ insertFilteredToOrig(){
 	# append orig list to temp & replace orig with temp
 	cat "$orig" >> "$filtered" && mv -f "$filtered" "$orig"
 }
-insertFilteredToOrig ${service_output_folder}/aa2.tmp       ../BaDomain.txt
+insertFilteredToOrig ${service_output_folder}/aa2.tmp        ../BaDomain.txt
 insertFilteredToOrig ${service_output_folder}/NoApple.tmp    ${service_output_folder}/NoApple.txt
 insertFilteredToOrig ${service_output_folder}/NoFB.tmp       ${service_output_folder}/NoFB.txt
 insertFilteredToOrig ${service_output_folder}/NoFreeFire.tmp ${service_output_folder}/NoFreeFire.txt
