@@ -10,6 +10,7 @@ service_output_folder="../misc"
 # clear all temp files
 > ${service_output_folder}/aa2.tmp
 > ${service_output_folder}/NoApple.tmp
+> ${service_output_folder}/NoChinaOverseaSpy.tmp
 > ${service_output_folder}/NoFB.tmp
 > ${service_output_folder}/NoFreeFire.tmp
 > ${service_output_folder}/NoGambling.tmp
@@ -17,6 +18,7 @@ service_output_folder="../misc"
 > ${service_output_folder}/NoNSFW.tmp
 > ${service_output_folder}/NoOppoHT.tmp
 > ${service_output_folder}/NoRoblox.tmp
+> ${service_output_folder}/NoSamsung.tmp
 > ${service_output_folder}/NoTikTok.tmp
 > ${service_output_folder}/NoVivo.tmp
 > ${service_output_folder}/NoXiaomi.tmp
@@ -25,16 +27,20 @@ while IFS= read -r line;do
 	case "$line" in
 		*.aaplimg.com|\
 		*.apple.com|\
-		*.apple.com.akadns.net|\
 		*.apple.com.cn|\
 		*.apple-dns.net|\
 		*.apple-mapkit.com|\
+		*.apple.map.fastly.net|\
 		*.apple.news|\
 		*.cdn-apple.com|\
 		*.icloud.com|\
 		*.icloud-content.com|\
-		*.safebrowsing.apple)
+		*.safebrowsing.apple|\
+		*apple.com.akadns.net)
 			echo "$line" >> ${service_output_folder}/NoApple.tmp
+		;;
+		*.steamchina.com)
+			echo "$line" >> ${service_output_folder}/NoChinaOverseaSpy.tmp
 		;;
 		*.cdninstagram.com|\
 		*.facebookcareers.com|\
@@ -42,6 +48,7 @@ while IFS= read -r line;do
 		*.facebookmail.com|\
 		*.fbcdn.net|\
 		*.fb.com|\
+		*.fbpigeon.com|\
 		*.fbsbx.com|\
 		*.instagram.com|\
 		*.mapiliary.com|\
@@ -56,7 +63,10 @@ while IFS= read -r line;do
 		*.garena.com|\
 		*.garena.co.id|\
 		*.garenanow.com|\
-		*.ggbluefox.com)
+		*.ggbluefox.com|\
+		*.ggblueshark.com|\
+		*.pencilorange.com|\
+		*.purplevioleto.com)
 			echo "$line" >> ${service_output_folder}/NoFreeFire.tmp
 		;;
 		*bet*|\
@@ -112,6 +122,25 @@ while IFS= read -r line;do
 		*.roblox.com)
 			echo "$line" >> ${service_output_folder}/NoRoblox.tmp
 		;;
+		*.samsung.com|\
+		*.samsung-gamelauncher.com|\
+		*.samsungapps.com|\
+		*.samsungcloud.com|\
+		*.samsungcloudsolution.com|\
+		*.samsungconsent.com|\
+		*.samsungdive.com|\
+		*.samsungdm.com|\
+		*.samsungknox.com|\
+		*.samsungosp.com|\
+		*.samsungpositioning.com|\
+		*.samsungqbe.com|\
+		*.samsungrs.com|\
+		*.samsungsds.com|\
+		*.samsungtvplus.com|\
+		*.samsungvisioncloud.com|\
+		*.samsungweather.com)
+			echo "$line" >> ${service_output_folder}/NoSamsung.tmp
+		;;
 		*.bsgslb.com|\
 		*.byteadverts.com|\
 		*.byte-app.com|\
@@ -122,6 +151,7 @@ while IFS= read -r line;do
 		*.bytedance.net|\
 		*.bytedapm.com|\
 		*.bytedns.com|\
+		*.bytednsdoc.com|\
 		*.bytedns.net|\
 		*.byted.org|\
 		*.byted-static.com|\
@@ -142,6 +172,7 @@ while IFS= read -r line;do
 		*.bytevcloud.com|\
 		*.capcutapi.com|\
 		*.capcut.com|\
+		*.douyinstatic.com|\
 		*.ibytedapm.com|\
 		*.ibytedos.com|\
 		*.ibytedtos.com|\
@@ -166,6 +197,7 @@ while IFS= read -r line;do
 		*.tiktokcdn.com.edgesuite.net|\
 		*.tiktokcdn-eu.com|\
 		*.tiktokcdn-us.com|\
+		*.tiktokmusic.app|\
 		*.tiktok.com|\
 		*.tiktok.com.edgekey.net|\
 		*.tiktok.com.edgesuite.net|\
@@ -179,6 +211,10 @@ while IFS= read -r line;do
 		*.ttdns2.com|\
 		*.ttlivecdn.com|\
 		*.ttwstatic.com)
+			# Yup no joke, bytedance (just like other chinese services)
+			# literally just bought 70 domains, no one does this
+			# with Apple + Facebook + Roblox + Samsung (12 + 15 + 3 + 17 = 47, all of them are not china btw)
+			# combined, they just 50% of domains owned by bytedance
 			echo "$line" >> ${service_output_folder}/NoTikTok.tmp
 		;;
 		*.vivo.com|\
@@ -216,6 +252,7 @@ while IFS= read -r line;do
 		*nude*|\
 		*tante*|\
 		*porn*|\
+		*.sb-cd.com|\
 		*seks*|\
 		*sex*|\
 		*tinder*hot*|\
@@ -225,6 +262,7 @@ while IFS= read -r line;do
 		*xxx*|\
 		*xnxx*|\
 		*xhamster*|\
+		*.xv-cdn.net|\
 		*xvideos*)
 			echo "$line" >> ${service_output_folder}/NoNSFW.tmp
 		;;
@@ -247,6 +285,7 @@ insertFilteredToOrig(){
 }
 insertFilteredToOrig ${service_output_folder}/aa2.tmp        ../BaDomain.txt
 insertFilteredToOrig ${service_output_folder}/NoApple.tmp    ${service_output_folder}/NoApple.txt
+insertFilteredToOrig ${service_output_folder}/NoChinaOverseaSpy.tmp ${service_output_folder}/NoChinaOverseaSpy.txt
 insertFilteredToOrig ${service_output_folder}/NoFB.tmp       ${service_output_folder}/NoFB.txt
 insertFilteredToOrig ${service_output_folder}/NoFreeFire.tmp ${service_output_folder}/NoFreeFire.txt
 insertFilteredToOrig ${service_output_folder}/NoGambling.tmp ${service_output_folder}/NoGambling.txt
@@ -254,6 +293,7 @@ insertFilteredToOrig ${service_output_folder}/NoMLBB.tmp     ${service_output_fo
 insertFilteredToOrig ${service_output_folder}/NoNSFW.tmp     ${service_output_folder}/NoNSFW.txt
 insertFilteredToOrig ${service_output_folder}/NoOppoHT.tmp   ${service_output_folder}/NoOppoHT.txt
 insertFilteredToOrig ${service_output_folder}/NoRoblox.tmp   ${service_output_folder}/NoRoblox.txt
+insertFilteredToOrig ${service_output_folder}/NoSamsung.tmp  ${service_output_folder}/NoSamsung.txt
 insertFilteredToOrig ${service_output_folder}/NoTikTok.tmp   ${service_output_folder}/NoTikTok.txt
 insertFilteredToOrig ${service_output_folder}/NoVivo.tmp     ${service_output_folder}/NoVivo.txt
 insertFilteredToOrig ${service_output_folder}/NoXiaomi.tmp   ${service_output_folder}/NoXiaomi.txt

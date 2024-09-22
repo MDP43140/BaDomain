@@ -12,9 +12,10 @@ HOSTSFILE_TYPES=(
 	"misc/NoFreeFire"
 	"misc/NoMLBB"
 	"misc/NoNSFW"
-	"misc/NoRoblox"
-	"misc/NoTikTok"
 	"misc/NoOppoHT"
+	"misc/NoRoblox"
+	"misc/NoSamsung"
+	"misc/NoTikTok"
 	"misc/NoVivo"
 	"misc/NoXiaomi"
 )

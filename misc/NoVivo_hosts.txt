@@ -64,6 +64,7 @@
 0.0.0.0 asia-update-appstore.vivoglobal.com
 0.0.0.0 asia-upload-appstore.vivoglobal.com
 0.0.0.0 asia-usrsys-api.vivoglobal.com
+0.0.0.0 asia-vcm-api.vivoglobal.com
 0.0.0.0 asia-vcode-api.vivoglobal.com
 0.0.0.0 asia-vcode-od.vivoglobal.com
 0.0.0.0 asia-vcode-or.vivoglobal.com
@@ -82,6 +83,7 @@
 0.0.0.0 domaincfg.vivoglobal.com
 0.0.0.0 download0.vivo.com
 0.0.0.0 download0.vivo.com.cn
+0.0.0.0 excfgfile-vivofs-asia.vivo.com.cn
 0.0.0.0 external.appstore.vivo.com
 0.0.0.0 external.appstore.vivo.com.cn
 0.0.0.0 homepage.vivo.com
@@ -90,6 +92,7 @@
 0.0.0.0 id-info-appstore.vivoglobal.com
 0.0.0.0 id-main-appstore.vivoglobal.com
 0.0.0.0 id-search-appstore.vivoglobal.com
+0.0.0.0 id-third-appstore.vivoglobal.com
 0.0.0.0 id-timer-appstore.vivoglobal.com
 0.0.0.0 id-update-appstore.vivoglobal.com
 0.0.0.0 id-upload-appstore.vivoglobal.com

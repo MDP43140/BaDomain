@@ -234,6 +234,7 @@ a-techsolutions.us
 atlasstart.online
 att-citrix.com
 attention-system-warning.com
+attr.union.ucweb.com
 atwola.com
 auction-load-tpsc.unityads.unity3d.com
 audacite.org
@@ -374,6 +375,7 @@ collect-elb-1844102569.us-east-1.elb.amazonaws.com
 collector-playground.lunalabs.uk
 comepetec.click
 com.gds.alibabadns.com
+commercial-ad-sg.finosfin.com
 company-target.com
 comsecurityessentials.support
 config.metomic.io
@@ -474,6 +476,7 @@ download.get-report.site
 download-portal.net
 download-sin.dtignite.com
 downstairst.store
+dr.huittmore.com
 druglike.com
 ds-test.shalltry.com
 dt2lb.madfingergames.com
@@ -747,6 +750,7 @@ ipfs.clucoin.com
 ipredictive.com
 ipv4.koula.testdebit.info
 iqzgqivb.com
+irdb.tk
 iresearch.vip
 ir.sogou.com
 isdspeed.qq.com
@@ -799,6 +803,7 @@ likeevideo.com
 like-video.com
 liliy9aydje10.com
 line-scdn.net
+link.mposporteuro.xyz
 link.mposporteuro.xyzregister
 linkserverluar.live
 linksynergy.com
@@ -1195,6 +1200,7 @@ sg-dm.newsmaticaapp.com
 sg.omlet.me
 sgp.tencent.com
 share-1070666956.ap-northeast-1.elb.amazonaws.com
+shark.uoocool.com
 sheldon.faceapp.ai
 sheldon.faceapp.io
 shenghuo.xiaomi.com
@@ -1310,6 +1316,7 @@ tm.ak.prd.aadg.akadns.net
 tm.ak.prd.aadg.trafficmanager.net
 tm.a.prd.aadg.trafficmanager.net
 tmdak.top
+tmdr7.mom
 t-mobile-okta.com
 tm.prd.ags.akadns.net
 toprbx.best
@@ -1376,6 +1383,7 @@ v3.mercusuar.u-zone.id
 v3.mercusuar.uzone.id
 v.aaplimg.com
 vagenor.space
+vaniloin.fun
 vast-events.inner-active.mobi
 vaw.fy
 vaw.fyi
@@ -1509,6 +1517,7 @@ www.hwclouds-dns.com
 www.implorewarn.shop
 www.intuitcdn.net
 www.iqzgqivb.com
+www.irdb.tk
 www.javwall.net
 www.jqcyacoxrvada.com
 www.linkserverluar.live

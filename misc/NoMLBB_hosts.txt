@@ -26,6 +26,7 @@
 0.0.0.0 m.mobilelegends.com
 0.0.0.0 mobilelegends.com
 0.0.0.0 moonton.com
+0.0.0.0 mtacc.mobilelegends.com
 0.0.0.0 newlogin.ml.mlbangbang.com
 0.0.0.0 newlogin.ml.youngjoygame.com
 0.0.0.0 pconn.ml.youngjoygame.com

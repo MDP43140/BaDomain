@@ -1,0 +1,54 @@
+#
+# This hosts file blocks all Samsung domains
+# Recommended to use for Samsung devices
+#
+
+0.0.0.0 api.glb.samsung-gamelauncher.com
+0.0.0.0 api.gras.samsungdm.com
+0.0.0.0 api.mop.apps.samsung.com
+0.0.0.0 api.samsungcloud.com
+0.0.0.0 api.samsungconsent.com
+0.0.0.0 api.samsungtvplus.com
+0.0.0.0 apps.samsung.com
+0.0.0.0 asset-cdn.samsungvisioncloud.com
+0.0.0.0 asset.samsungvisioncloud.com
+0.0.0.0 auth2.samsungosp.com
+0.0.0.0 capi.samsungcloud.com
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 config-api.internet.apps.samsung.com
+0.0.0.0 configprd.samsungcloudsolution.net
+0.0.0.0 dc.di.atlas.samsung.com
+0.0.0.0 dc.dqa.samsung.com
+0.0.0.0 diagmon-policy.samsungdm.com
+0.0.0.0 diagmon-serviceapi.samsungdm.com
+0.0.0.0 dir-apis.samsungdm.com
+0.0.0.0 dls.di.atlas.samsung.com
+0.0.0.0 dls-udc.dqa.samsung.com
+0.0.0.0 dm.samsungdive.com
+0.0.0.0 ers.samsungcloud.com
+0.0.0.0 eu-api.samsungpositioning.com
+0.0.0.0 eu-auth2.samsungosp.com
+0.0.0.0 eu-kaf.samsungknox.com
+0.0.0.0 id-odc.samsungapps.com
+0.0.0.0 img.samsungapps.com
+0.0.0.0 loc.samsungdive.com
+0.0.0.0 osb-eusvc.samsungqbe.com
+0.0.0.0 play.samsungcloud.com
+0.0.0.0 policies.account.samsung.com
+0.0.0.0 poll.gras.samsungdm.com
+0.0.0.0 pushmessage.samsung.com
+0.0.0.0 rc.samsungweather.com
+0.0.0.0 samsung-callerprofile.edge.hiyaapi.com
+0.0.0.0 samsungnewsapi.picks.my
+0.0.0.0 sdk.pushmessage.samsung.com
+0.0.0.0 sia.internet.apps.samsung.com
+0.0.0.0 sspapi-prd.samsungrs.com
+0.0.0.0 ureca.samsungapps.com
+0.0.0.0 us-api.mcsvc.samsung.com
+0.0.0.0 us-api.rewards.svc.samsung.com
+0.0.0.0 us-auth2.samsungosp.com
+0.0.0.0 vas.samsungapps.com
+0.0.0.0 www.internet.apps.samsung.com
+0.0.0.0 www.samsungknox.com
+0.0.0.0 www.samsungsds.com
+0.0.0.0 www.tizen.org

@@ -11,6 +11,7 @@ bdversion.ggbluefox.com
 castle.freefiremobile.com
 cdngarenanow-a.akamaihd.net
 clientbp.common.ggbluefox.com
+clientbp.ggblueshark.com
 client.common.freefiremobile.com
 common.freefiremobile.com
 connect.garena.com
@@ -52,6 +53,7 @@ id.event.freefiremobile.com
 id.network.freefiremobile.com
 logcollector.data.garenanow.com
 loginbp.common.ggbluefox.com
+loginbp.ggblueshark.com
 login.common.freefiremobile.com
 ludofire1.1.sea.freefiremobile.com
 network.freefiremobile.com
@@ -66,6 +68,8 @@ testconnect.garena.com
 testconnect.garenanow.com
 version.common.ffmax.garena.com
 version.common.freefiremobile.com
+version.ffmax.pencilorange.com
+version.ffmax.purplevioleto.com
 web.cdn.id.garenanow.com
 weeklytopup.ff.garena.co.id
 ws.garena.com

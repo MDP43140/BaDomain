@@ -26,6 +26,7 @@ mlapi.mobilelegends.com
 m.mobilelegends.com
 mobilelegends.com
 moonton.com
+mtacc.mobilelegends.com
 newlogin.ml.mlbangbang.com
 newlogin.ml.youngjoygame.com
 pconn.ml.youngjoygame.com

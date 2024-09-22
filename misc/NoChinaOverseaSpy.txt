@@ -250,6 +250,7 @@ storedl6f.nearme.cn
 storedl6f.nearme.com.cn
 storedl8f.nearme.cn
 storefsf.nearme.com.cn
+store.steamchina.com
 sucimg.itc.cn
 support.weixin.qq.com
 sxh.zhaopin.com

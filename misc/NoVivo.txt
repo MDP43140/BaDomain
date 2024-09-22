@@ -64,6 +64,7 @@ asia-timesync.vivoglobal.com
 asia-update-appstore.vivoglobal.com
 asia-upload-appstore.vivoglobal.com
 asia-usrsys-api.vivoglobal.com
+asia-vcm-api.vivoglobal.com
 asia-vcode-api.vivoglobal.com
 asia-vcode-od.vivoglobal.com
 asia-vcode-or.vivoglobal.com
@@ -82,6 +83,7 @@ comm.api.vivoglobal.com
 domaincfg.vivoglobal.com
 download0.vivo.com
 download0.vivo.com.cn
+excfgfile-vivofs-asia.vivo.com.cn
 external.appstore.vivo.com
 external.appstore.vivo.com.cn
 homepage.vivo.com
@@ -90,6 +92,7 @@ id-config-appstore.vivoglobal.com
 id-info-appstore.vivoglobal.com
 id-main-appstore.vivoglobal.com
 id-search-appstore.vivoglobal.com
+id-third-appstore.vivoglobal.com
 id-timer-appstore.vivoglobal.com
 id-update-appstore.vivoglobal.com
 id-upload-appstore.vivoglobal.com

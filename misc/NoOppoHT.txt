@@ -71,6 +71,7 @@ brand.heytap.com
 browser-api-id.heytapmobile.com
 browserfiles.heytapimg.com
 browser-i-gl.heytapmobile.com
+browser-sdk-gl.heytapmobile.com
 cdp-common-gl.heytapmobile.com
 cdp-common-id.heytapmobile.com
 cdp-common-in.heytapmobile.com
@@ -135,6 +136,7 @@ conn-service-us-05.allawnos.com
 conn-service-us-07.allawnos.com
 datasec-kmsex-cn.heytapmobi.com
 datasec-kmsex-sg.heytapmobi.com
+dc-conf-sg.heytapmobile.com
 dc-dragate-sg.heytapmobile.com
 dc.foreign.oppomobile.com
 dcintl1.push.heytapmobile.com
@@ -260,6 +262,7 @@ i.sau.foreign.coloros.com
 i-sg01a.ocloud.heytapmobi.com
 i-sg.browser.heytapmobile.com
 i-th.browser.oppomobile.com
+i.warranty.oppo.com
 iweather.oppomobile.com
 lang-f.coloros.com
 languagef.coloros.com
@@ -293,6 +296,8 @@ moa-upload-us.allawnos.com
 my-store.oppomobile.com
 newds01.myoppo.com
 newds02.myoppo.com
+obus-config-sg.heytapmobile.com
+obus-dc121100-sg.heytapmobile.com
 obus-dc20123-in.heytapmobile.com
 obus-dc20123-sg.heytapmobile.com
 obus-dc20305-in.heytapmobile.com
@@ -303,6 +308,7 @@ obus-dctech-in.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
 obus-in.dc.heytapmobile.com
 obus-sg.dc.heytapmobile.com
+ocloud-api-sg.heytapmobile.com
 ocloud-backup-in.heytapmobile.com
 ocloud-backup-sg.heytapmobile.com
 ocloud-httpdns-in.heytapmobile.com

@@ -14,12 +14,20 @@
 3-edge-chat.facebook.com
 4-act.channel.facebook.com
 4-edge-chat.facebook.com
+5096977E-E5AB-4031-B1DD-A4CE73668575-netseer-ipaddr-assoc.xy.fbcdn.net
+5096977E-E5AB-4031-B1DD-A4CE73668575-netseer-ipaddr-assoc.xz.fbcdn.net
 5-act.channel.facebook.com
 5-edge-chat.facebook.com
 6-act.channel.facebook.com
 6-edge-chat.facebook.com
+73E6F188-1395-4533-B4B1-5649DED81621-netseer-ipaddr-assoc.xy.fbcdn.net
+73E6F188-1395-4533-B4B1-5649DED81621-netseer-ipaddr-assoc.xz.fbcdn.net
 7F532F3C-386E-40AF-8677-F470AB807C7E-netseer-ipaddr-assoc.xy.fbcdn.net
 7F532F3C-386E-40AF-8677-F470AB807C7E-netseer-ipaddr-assoc.xz.fbcdn.net
+844D7EB4-161E-4B72-999A-EA4596B9CA88-netseer-ipaddr-assoc.xy.fbcdn.net
+844D7EB4-161E-4B72-999A-EA4596B9CA88-netseer-ipaddr-assoc.xz.fbcdn.net
+8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xy.fbcdn.net
+8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xz.fbcdn.net
 a1qa.m.facebook.com
 a3.sphotos.ak.fbcdn.net
 aa.facebook.com
@@ -421,7 +429,9 @@ channel-staging-ecmp-05-ash3.facebook.com
 channel-testing-ecmp-05-ash3.facebook.com
 chat.cdn.whatsapp.net
 chat-e2ee.facebook.com
+chat-e2ee-ig-p42.fallback.c10r.facebook.com
 chat-e2ee-mini.facebook.com
+chat-e2ee-mini-fallback.facebook.com
 check4.facebook.com
 check6.facebook.com
 chevron.facebook.com
@@ -448,10 +458,14 @@ cs-cz.facebook.com
 cs.facebook.com
 csf.facebook.com
 ct-m-fbx.fbsbx.com
+D242F54E-631B-4933-B1B0-570FC76CD24A-netseer-ipaddr-assoc.xy.fbcdn.net
+D242F54E-631B-4933-B1B0-570FC76CD24A-netseer-ipaddr-assoc.xz.fbcdn.net
 da-dk.facebook.com
 da.facebook.com
 danone.m.facebook.com
 davivienda.m.facebook.com
+DC7F3A12-11D5-4B85-89A7-61DDECBB83E2-netseer-ipaddr-assoc.xy.fbcdn.net
+DC7F3A12-11D5-4B85-89A7-61DDECBB83E2-netseer-ipaddr-assoc.xz.fbcdn.net
 de-de.facebook.com
 de.facebook.com
 deloitte.m.facebook.com
@@ -759,6 +773,8 @@ edge-sonar-shv-17-prn1.fbcdn.net
 edge-sonar-shv-18-prn1.fbcdn.net
 edge-star-shv-12-frc3.facebook.com
 edge-stun.facebook.com
+edgetee-upload-kul3-1.xx.fbcdn.net
+edgetee-upload-sin6-4.xx.fbcdn.net
 edge-video-shv-01-ams2.fbcdn.net
 edge-video-shv-01-ams3.fbcdn.net
 edge-video-shv-01-arn2.fbcdn.net
@@ -1613,7 +1629,9 @@ instagram.fbdo9-1.fna.fbcdn.net
 instagram.fbek1-1.fna.fbcdn.net
 instagram.fbek1-2.fna.fbcdn.net
 instagram.fbek1-3.fna.fbcdn.net
+instagram.fbel1-1.fna.fbcdn.net
 instagram.fbga1-1.fna.fbcdn.net
+instagram.fbho1-2.fna.fbcdn.net
 instagram.fbkk10-1.fna.fbcdn.net
 instagram.fbkk11-1.fna.fbcdn.net
 instagram.fbkk12-1.fna.fbcdn.net
@@ -1707,6 +1725,7 @@ instagram.fceb1-1.fna.fbcdn.net
 instagram.fcgb1-1.fna.fbcdn.net
 instagram.fcgh10-1.fna.fbcdn.net
 instagram.fcgh11-1.fna.fbcdn.net
+instagram.fcgh71-1.fna.fbcdn.net
 instagram.fcgk10-1.fna.fbcdn.net
 instagram.fcgk10-2.fna.fbcdn.net
 instagram.fcgk11-1.fna.fbcdn.net
@@ -1765,7 +1784,9 @@ instagram.fcgk9-1.fna.fbcdn.net
 instagram.fcgk9-2.fna.fbcdn.net
 instagram.fcha1-1.fna.fbcdn.net
 instagram.fcia1-1.fna.fbcdn.net
+instagram.fcks2-1.fna.fbcdn.net
 instagram.fcmb1-1.fna.fbcdn.net
+instagram.fcor11-1.fna.fbcdn.net
 instagram.fcpq5-1.fna.fbcdn.net
 instagram.fcrk1-1.fna.fbcdn.net
 instagram.fcrk1-2.fna.fbcdn.net
@@ -1785,6 +1806,7 @@ instagram.fdac1-1.fna.fbcdn.net
 instagram.fdac24-1.fna.fbcdn.net
 instagram.fdel10-1.fna.fbcdn.net
 instagram.fdel11-1.fna.fbcdn.net
+instagram.fdel3-5.fna.fbcdn.net
 instagram.fdla1-1.fna.fbcdn.net
 instagram.fdnk1-1.fna.fbcdn.net
 instagram.fdpa1-1.fna.fbcdn.net
@@ -1830,9 +1852,11 @@ instagram.fevn7-1.fna.fbcdn.net
 instagram.fevn8-1.fna.fbcdn.net
 instagram.fevn9-1.fna.fbcdn.net
 instagram.ffco3-1.fna.fbcdn.net
+instagram.ffec1-1.fna.fbcdn.net
 instagram.ffor10-1.fna.fbcdn.net
 instagram.ffor11-1.fna.fbcdn.net
 instagram.ffru1-1.fna.fbcdn.net
+instagram.ffru5-1.fna.fbcdn.net
 instagram.fgdl5-1.fna.fbcdn.net
 instagram.fgua1-1.fna.fbcdn.net
 instagram.fhdy1-1.fna.fbcdn.net
@@ -1864,6 +1888,7 @@ instagram.fhyd16-1.fna.fbcdn.net
 instagram.fhyd17-1.fna.fbcdn.net
 instagram.fhyd2-1.fna.fbcdn.net
 instagram.fhyd2-2.fna.fbcdn.net
+instagram.fhyd2-3.fna.fbcdn.net
 instagram.fhyd3-1.fna.fbcdn.net
 instagram.fhyd4-1.fna.fbcdn.net
 instagram.fhyd5-1.fna.fbcdn.net
@@ -2068,6 +2093,7 @@ instagram.fpdg2-1.fna.fbcdn.net
 instagram.fpen1-1.fna.fbcdn.net
 instagram.fpen1-2.fna.fbcdn.net
 instagram.fpen2-1.fna.fbcdn.net
+instagram.fpew3-1.fna.fbcdn.net
 instagram.fpfb1-1.fna.fbcdn.net
 instagram.fphl2-2.fna.fbcdn.net
 instagram.fpku1-1.fna.fbcdn.net
@@ -2279,6 +2305,7 @@ instagram-shv-17-prn1.fbcdn.net
 instagram-shv-18-prn1.fbcdn.net
 instagramstatic-a.akamaihd.net
 instagramstatic-a.akamaihd.net.edgesuite.net
+instagram.xx.fbcdn.net
 interncache-atn.fbcdn.net
 interncache-ldc.fbcdn.net
 interncache-ncg.fbcdn.net
@@ -2936,6 +2963,9 @@ media.fwaw3-2.fna.whatsapp.net
 media.fwaw7-1.fna.whatsapp.net
 media.fwaw8-1.fna.whatsapp.net
 media.fwbw1-1.fna.whatsapp.net
+media-kul2-1.cdn.whatsapp.net
+media-kul2-2.cdn.whatsapp.net
+media-kul3-1.cdn.whatsapp.net
 media-sea1-1.cdn.whatsapp.net
 media-sin6-1.cdn.whatsapp.net
 media-sin6-2.cdn.whatsapp.net
@@ -2960,7 +2990,9 @@ miroglio.m.facebook.com
 mis.facebook.com
 m.me
 mmg-fallback.whatsapp.net
+mmg.whatsapp.net
 mm.m.facebook.com
+mmx-ds.cdn.whatsapp.net
 mobile.beta.facebook.com
 mobile.facebook.com
 moelven.m.facebook.com
@@ -2980,6 +3012,8 @@ nationwide.facebook.com
 nb-no.facebook.com
 ncontent.xx.fbcdn.net
 netapp.facebook.com
+netseer-ipaddr-assoc.xy.fbcdn.net
+netseer-ipaddr-assoc.xz.fbcdn.net
 new.facebook.com
 newscorp.facebook.com
 newsec.facebook.com
@@ -3139,6 +3173,7 @@ scontent-a-lhr.xx.fbcdn.net
 scontent-a-mad.xx.fbcdn.net
 scontent-a-mia.xx.fbcdn.net
 scontent-ams2-1.cdninstagram.com
+scontent-ams4-1.cdninstagram.com
 scontent-ams.xx.fbcdn.net
 scontent-amt2-1.xx.fbcdn.net
 scontent-a-mxp.xx.fbcdn.net
@@ -3164,6 +3199,7 @@ scontent-b-lhr.xx.fbcdn.net
 scontent-b-mad.xx.fbcdn.net
 scontent-b-mia.xx.fbcdn.net
 scontent-b-mxp.xx.fbcdn.net
+scontent-bog2-2.cdninstagram.com
 scontent-bom1-1.xx.fbcdn.net
 scontent-b-ord.xx.fbcdn.net
 scontent-b-pao.xx.fbcdn.net
@@ -3182,6 +3218,7 @@ scontent-cgk1-2.cdninstagram.com
 scontent-cgk1-2.xx.fbcdn.net
 scontent-cgk1-3.cdninstagram.com
 scontent-cgk2-1.cdninstagram.com
+scontent-cgk2-1.xx.fbcdn.net
 scontent-c.xx.fbcdn.net # not exist
 scontent-den4-1.cdninstagram.com
 scontent-dfw5-1.xx.fbcdn.net
@@ -3361,7 +3398,9 @@ scontent.fcgk38-1.fna.fbcdn.net
 scontent.fcgk39-1.fna.fbcdn.net
 scontent.fcgk40-1.fna.fbcdn.net
 scontent.fcgk41-1.fna.fbcdn.net
+scontent.fcgk42-1.fna.fbcdn.net
 scontent.fcgk4-2.fna.fbcdn.net
+scontent.fcgk43-1.fna.fbcdn.net
 scontent.fcgk4-3.fna.fbcdn.net
 scontent.fcgk4-4.fna.fbcdn.net
 scontent.fcgk4-5.fna.fbcdn.net
@@ -3808,6 +3847,7 @@ scontent.fsub6-3.fna.fbcdn.net
 scontent.fsub6-4.fna.fbcdn.net
 scontent.fsub6-5.fna.fbcdn.net
 scontent.fsub6-6.fna.fbcdn.net
+scontent.fsub6-7.fna.fbcdn.net
 scontent.fsub7-1.fna.fbcdn.net
 scontent.fsub8-1.fna.fbcdn.net
 scontent.fsub8-2.fna.fbcdn.net
@@ -3860,15 +3900,23 @@ scontent-hkt1-2.xx.fbcdn.net
 scontent-iad3-1.cdninstagram.com
 scontent-iad3-1.xx.fbcdn.net
 scontent-icn1-1.xx.fbcdn.net
+scontent-kul2-1.cdninstagram.com
+scontent-kul2-1.xx.fbcdn.net
+scontent-kul2-2.cdninstagram.com
+scontent-kul2-2.xx.fbcdn.net
+scontent-kul3-1.cdninstagram.com
+scontent-kul3-1.xx.fbcdn.net
 scontent-lax3-1.xx.fbcdn.net
 scontent-lax3-2.xx.fbcdn.net
 scontent-lax.xx.fbcdn.net
 scontent-lga3-1.xx.fbcdn.net
+scontent-lga3-2.cdninstagram.com
 scontent-lga.xx.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net
 scontent-lhr8-2.cdninstagram.com
 scontent-lhr.xx.fbcdn.net
 scontent-lht6-1.xx.fbcdn.net
+scontent-mad2-1.cdninstagram.com
 scontent-mia.xx.fbcdn.net
 scontent-mxp1-1.cdninstagram.com
 scontent-mxp1-1.xx.fbcdn.net
@@ -3893,6 +3941,7 @@ scontent-sin.xx.fbcdn.net
 scontent-sit4-1.xx.fbcdn.net
 scontent-sjc2-1.xx.fbcdn.net
 scontent-sjc3-1.cdninstagram.com
+scontent-sjc3-1.xx.fbcdn.net
 scontent-sjc.xx.fbcdn.net
 scontent-sof1-1.xx.fbcdn.net
 scontent-ssn1-1.cdninstagram.com
@@ -3995,6 +4044,7 @@ sonar-cdt1-1.xx.fbcdn.net
 sonar-cgk1-1.xx.fbcdn.net
 sonar-cgk1-2.xx.fbcdn.net
 sonar-cgk1-3.xx.fbcdn.net
+sonar-cgk2-1.xx.fbcdn.net
 sonar-cgk.cdn.whatsapp.net
 sonar-cgk.xx.fbcdn.net
 sonar-cph2-1.xx.fbcdn.net
@@ -4824,6 +4874,7 @@ static.fwaw3-2.fna.fbcdn.net
 static.fwaw7-1.fna.fbcdn.net
 static.fwaw8-1.fna.fbcdn.net
 static.fwbw1-1.fna.fbcdn.net
+static.whatsapp.net
 staticxx.facebook.com
 static.xx.fbcdn.net
 st.facebook.com
@@ -4866,6 +4917,7 @@ vega.facebook.com
 venteprivee.m.facebook.com
 viacom.facebook.com
 video.cdninstagram.com
+video-cgk1-1.xx.fbcdn.net
 video.facc1-1.fna.fbcdn.net
 video.fada1-10.fna.fbcdn.net
 video.fada1-1.fna.fbcdn.net
@@ -5356,6 +5408,8 @@ vupload2.vvv.facebook.com
 vupload.facebook.com
 v.whatsapp.net
 w1527b17e1-gm3dcnrzguzdimru.snr.whatsapp.net
+w2ca4d0631-ge3dqmbug4ytsnjw.snr.whatsapp.net
+w2db198aa1-gezdkmzsguzdqmjs.snr.whatsapp.net
 w379e2e421-gmztcmbsha4tiobu.snr.whatsapp.net
 w414333631-gi3dknzzgyzdcoa.snr.whatsapp.net
 w468cf83b1-gqytsmjzgy4tmmzy.snr.whatsapp.net
@@ -5376,6 +5430,7 @@ webmail.facebook.com
 wellcare.facebook.com
 wellsfargo.facebook.com
 wf2d4f1c61-ge2dmmbyhezdkojv.snr.whatsapp.net
+wf516fa351-giztinjrgm4dqnbs.snr.whatsapp.net
 wf6dad0d91-gi3tamrvge2dimzy.snr.whatsapp.net
 wfa974b891-gmytgnrwgu3tomrt.snr.whatsapp.net
 w.facebook.com
@@ -7242,11 +7297,14 @@ z-p3-scontent-lax3-1.xx.fbcdn.net
 z-p3-scontent.xx.fbcdn.net
 z-p3-static.xx.fbcdn.net
 z-p3-upload.facebook.com
+z-p3-video.fcgk24-2.fna.fbcdn.net
+z-p3-video.fcgk3-1.fna.fbcdn.net
 z-p3-video.flpb1-1.fna.fbcdn.net
 z-p3-video.fpfb1-1.fna.fbcdn.net
 z-p3-video.fsea1-1.fna.fbcdn.net
 z-p3-video-vie1-1.xx.fbcdn.net
 z-p42-chat-e2ee-ig.facebook.com
+z-p42-chat-e2ee-ig-fallback.facebook.com
 z-p4-api.facebook.com
 z-p4.facebook.com
 z-p4-graph.facebook.com

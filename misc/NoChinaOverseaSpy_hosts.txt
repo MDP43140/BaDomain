@@ -250,6 +250,7 @@
 0.0.0.0 storedl6f.nearme.com.cn
 0.0.0.0 storedl8f.nearme.cn
 0.0.0.0 storefsf.nearme.com.cn
+0.0.0.0 store.steamchina.com
 0.0.0.0 sucimg.itc.cn
 0.0.0.0 support.weixin.qq.com
 0.0.0.0 sxh.zhaopin.com

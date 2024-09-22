@@ -58,6 +58,7 @@
 0.0.0.0 eypsakti.com
 0.0.0.0 freefoodsnyc.com
 0.0.0.0 freestarburstslot.com
+0.0.0.0 fun88.com
 0.0.0.0 fyrewin.net
 0.0.0.0 gacorbgt.com
 0.0.0.0 getol88.co
@@ -81,6 +82,7 @@
 0.0.0.0 ini5.serverterbaik.com
 0.0.0.0 iniporsche.com
 0.0.0.0 invictusgames2018.org
+0.0.0.0 jaminanterbaik.site
 0.0.0.0 java303.homes
 0.0.0.0 jayamonas.com
 0.0.0.0 jayaparty.com
