@@ -72,6 +72,7 @@
 0.0.0.0 cdn-thumbs.pornerbros.com
 0.0.0.0 cdn.xgroovy.com
 0.0.0.0 cewekgenit.sbs
+0.0.0.0 cnt.hd21.net
 0.0.0.0 collector.xhamster.com
 0.0.0.0 comet.xhamsterlive.com
 0.0.0.0 content.vrbangers.com
@@ -106,6 +107,17 @@
 0.0.0.0 dood.yt
 0.0.0.0 dooood.com
 0.0.0.0 duniabokep.fun
+0.0.0.0 e0.hdpsn21.com
+0.0.0.0 e1.hdpsn21.com
+0.0.0.0 e2.hdpsn21.com
+0.0.0.0 e3.hdpsn21.com
+0.0.0.0 e4.hdpsn21.com
+0.0.0.0 e5.hdpsn21.com
+0.0.0.0 e6.hdpsn21.com
+0.0.0.0 e7.hdpsn21.com
+0.0.0.0 e8.hdpsn21.com
+0.0.0.0 e9.hdpsn21.com
+0.0.0.0 ecdn.hd21.net
 0.0.0.0 esearch.youjizz.com
 0.0.0.0 exoclick.com
 0.0.0.0 fp.metricswpsh.com
@@ -116,6 +128,8 @@
 0.0.0.0 gcore-vid.xnxx-cdn.com
 0.0.0.0 girlfriend.host
 0.0.0.0 go.theyarehuge.net
+0.0.0.0 hd21.net
+0.0.0.0 hdpsn21.com
 0.0.0.0 hls-uranus.sb-cd.com
 0.0.0.0 hot-girls18.com
 0.0.0.0 hotlove.uno
@@ -272,6 +286,7 @@
 0.0.0.0 ww1.bigosext1.com
 0.0.0.0 www.bellesa.co
 0.0.0.0 www.eporner.com
+0.0.0.0 www.hd21.net
 0.0.0.0 www.ladyboytube.tv
 0.0.0.0 www.lovelybabestu.com
 0.0.0.0 www.porn.com

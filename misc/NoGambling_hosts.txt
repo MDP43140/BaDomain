@@ -43,6 +43,7 @@
 0.0.0.0 casinousagevacant.com
 0.0.0.0 charlottechurchmusic.com
 0.0.0.0 clayartwebguide.com
+0.0.0.0 d1qqphfd8m4kq0.cloudfront.net
 0.0.0.0 delapanmaju.com
 0.0.0.0 dewacdn.club
 0.0.0.0 dewafortune.asia
@@ -87,6 +88,8 @@
 0.0.0.0 jayamonas.com
 0.0.0.0 jayaparty.com
 0.0.0.0 jayapoker.com
+0.0.0.0 jayaslotagent.com
+0.0.0.0 jayaslotr.com
 0.0.0.0 jbmaxwin500.com
 0.0.0.0 jkbwinner.com
 0.0.0.0 jokerbet888.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 22.09.2024
+# Version: 24.09.2024
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -712,6 +712,7 @@ api.gameanalytics.com
 api.game-sdk.com
 api.gamesystem.zepeto.run
 apigateway.tmctool.com
+api.getkoala.com
 api.glance.inmobi.com
 api.goads2023.com
 api.gotinder.com
@@ -1331,6 +1332,7 @@ boomplaymusic.com
 booster.palmpal.net
 boot.pbstck.com
 bootstrap.smartsuppchat.com
+bopako.com
 bosbosgames.com
 bossinema.com
 botsrv2.com
@@ -1558,6 +1560,7 @@ cdn-fm.shalltry.com
 cdn-for-hk.img-sys.com
 cdn.foxpush.net
 cdn.geozo.com
+cdn.getkoala.com
 cdn-graphql-v4.kumparan.com
 cdn.heapanalytics.com
 cdn.iads.unity3d.com
@@ -2986,6 +2989,7 @@ highcharts.com
 highcpmrevenuenetwork.com
 hi.hellobar.com
 hiido.com
+hijici.xyz
 hippoobox.com
 hips.hearstapps.com
 histats.com
@@ -3918,6 +3922,7 @@ mee6.xyz
 meetingrailroad.com
 meetquality-pa.googleapis.com
 megaphone.fm
+meiqia-static-overseas.oss-accelerate.aliyuncs.com
 member.lazada.co.id
 members.pfmverify.ca
 memex-pa.googleapis.com
@@ -6426,6 +6431,7 @@ v4.freeterabox.com
 v55-mobile-live-config.pool.miniclippt.com
 v57.genieesspv.jp
 vaexposed.weishu.me
+vaheka.uno
 valipl.cp31.ott.cibntv.net
 vast.vokepedia.com
 vasundharaapps.com

@@ -43,6 +43,7 @@ campaigns.zamsino.com
 casinousagevacant.com
 charlottechurchmusic.com
 clayartwebguide.com
+d1qqphfd8m4kq0.cloudfront.net # used for jayaslotr.com to host their shitty gambling apks
 delapanmaju.com
 dewacdn.club
 dewafortune.asia
@@ -87,6 +88,8 @@ java303.homes
 jayamonas.com
 jayaparty.com
 jayapoker.com
+jayaslotagent.com # redirect to jayaslotr.com
+jayaslotr.com
 jbmaxwin500.com
 jkbwinner.com
 jokerbet888.com

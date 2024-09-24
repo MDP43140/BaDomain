@@ -1902,6 +1902,7 @@
 0.0.0.0 instagram.fiev8-1.fna.fbcdn.net
 0.0.0.0 instagram.fisb1-1.fna.fbcdn.net
 0.0.0.0 instagram.fisb5-1.fna.fbcdn.net
+0.0.0.0 instagram.fjau4-1.fna.fbcdn.net
 0.0.0.0 instagram.fjib1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjnb1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjnb3-1.fna.fbcdn.net
@@ -3219,13 +3220,13 @@
 0.0.0.0 scontent-cgk1-3.cdninstagram.com
 0.0.0.0 scontent-cgk2-1.cdninstagram.com
 0.0.0.0 scontent-cgk2-1.xx.fbcdn.net
-0.0.0.0 scontent-c.xx.fbcdn.net # not exist
+0.0.0.0 scontent-c.xx.fbcdn.net
 0.0.0.0 scontent-den4-1.cdninstagram.com
 0.0.0.0 scontent-dfw5-1.xx.fbcdn.net
 0.0.0.0 scontent-dfw5-2.xx.fbcdn.net
 0.0.0.0 scontent-dfw.xx.fbcdn.net
-0.0.0.0 scontent-d.xx.fbcdn.net # not exist
-0.0.0.0 scontent-e.xx.fbcdn.net # not exist
+0.0.0.0 scontent-d.xx.fbcdn.net
+0.0.0.0 scontent-e.xx.fbcdn.net
 0.0.0.0 scontent.facc1-1.fna.fbcdn.net
 0.0.0.0 scontent.fada1-10.fna.fbcdn.net
 0.0.0.0 scontent.fada1-1.fna.fbcdn.net

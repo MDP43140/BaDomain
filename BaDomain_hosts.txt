@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 22.09.2024
+# Version: 24.09.2024
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -712,6 +712,7 @@
 0.0.0.0 api.game-sdk.com
 0.0.0.0 api.gamesystem.zepeto.run
 0.0.0.0 apigateway.tmctool.com
+0.0.0.0 api.getkoala.com
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 api.goads2023.com
 0.0.0.0 api.gotinder.com
@@ -1331,6 +1332,7 @@
 0.0.0.0 booster.palmpal.net
 0.0.0.0 boot.pbstck.com
 0.0.0.0 bootstrap.smartsuppchat.com
+0.0.0.0 bopako.com
 0.0.0.0 bosbosgames.com
 0.0.0.0 bossinema.com
 0.0.0.0 botsrv2.com
@@ -1558,6 +1560,7 @@
 0.0.0.0 cdn-for-hk.img-sys.com
 0.0.0.0 cdn.foxpush.net
 0.0.0.0 cdn.geozo.com
+0.0.0.0 cdn.getkoala.com
 0.0.0.0 cdn-graphql-v4.kumparan.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.iads.unity3d.com
@@ -2986,6 +2989,7 @@
 0.0.0.0 highcpmrevenuenetwork.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hiido.com
+0.0.0.0 hijici.xyz
 0.0.0.0 hippoobox.com
 0.0.0.0 hips.hearstapps.com
 0.0.0.0 histats.com
@@ -3918,6 +3922,7 @@
 0.0.0.0 meetingrailroad.com
 0.0.0.0 meetquality-pa.googleapis.com
 0.0.0.0 megaphone.fm
+0.0.0.0 meiqia-static-overseas.oss-accelerate.aliyuncs.com
 0.0.0.0 member.lazada.co.id
 0.0.0.0 members.pfmverify.ca
 0.0.0.0 memex-pa.googleapis.com
@@ -6426,6 +6431,7 @@
 0.0.0.0 v55-mobile-live-config.pool.miniclippt.com
 0.0.0.0 v57.genieesspv.jp
 0.0.0.0 vaexposed.weishu.me
+0.0.0.0 vaheka.uno
 0.0.0.0 valipl.cp31.ott.cibntv.net
 0.0.0.0 vast.vokepedia.com
 0.0.0.0 vasundharaapps.com
