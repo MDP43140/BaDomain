@@ -15,6 +15,7 @@ auth.roblox.com
 avatar.roblox.com
 aws-eu-west-2c-lms.rbx.com
 aws-us-west-2a-lms.rbx.com
+badges.roblox.com
 bom1-128-116-104-4.roblox.com
 c0ak.rbxcdn.com
 c0cfly.rbxcdn.com
@@ -33,10 +34,13 @@ dfw1-128-116-125-3.roblox.com
 economy.roblox.com
 ecsv2.roblox.com
 ephemeralcounters.api.roblox.com
+followings.roblox.com
 fra2-128-116-123-3.roblox.com
 friends.roblox.com
+gameinternationalization.roblox.com
 gamejoin.roblox.com
 games.roblox.com
+groups.roblox.com
 hkg1-128-116-118-3.roblox.com
 iad4-128-116-102-3.roblox.com
 images.rbxcdn.com
@@ -51,6 +55,7 @@ privatemessages.roblox.com
 realtime.roblox.com
 realtime-signalr.roblox.com
 roblox.com
+sc3.rbxcdn.com
 sea1-128-116-100-3.roblox.com
 static.rbxcdn.com
 t0.rbxcdn.com
@@ -65,5 +70,7 @@ t8.rbxcdn.com
 thumbnails.roblox.com
 trades.roblox.com
 tr.rbxcdn.com
+usermoderation.roblox.com
 users.roblox.com
+voice.roblox.com
 www.roblox.com

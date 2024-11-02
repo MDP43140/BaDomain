@@ -6,6 +6,7 @@
 
 100067.connect.garena.com
 100067.msdk.garena.com
+absenharian.ff.garena.co.id
 api-otrs.garena.co.id
 bdversion.ggbluefox.com
 castle.freefiremobile.com
@@ -17,6 +18,7 @@ common.freefiremobile.com
 connect.garena.com
 connect.garenanow.com
 content.garena.com
+crystalroyale.ff.garena.co.id
 csoversea.castle.freefiremobile.com
 csoversea.stronghold.freefiremobile.com
 ctlin.freefiremobile.com
@@ -50,7 +52,9 @@ gcp.freefiremobile.com
 gin.freefiremobile.com
 help.garena.co.id
 id.event.freefiremobile.com
+idevent.ggblueshark.com
 id.network.freefiremobile.com
+idnetwork.ggblueshark.com
 logcollector.data.garenanow.com
 loginbp.common.ggbluefox.com
 loginbp.ggblueshark.com
@@ -71,5 +75,6 @@ version.common.freefiremobile.com
 version.ffmax.pencilorange.com
 version.ffmax.purplevioleto.com
 web.cdn.id.garenanow.com
+webid.cdn.garenanow.com
 weeklytopup.ff.garena.co.id
 ws.garena.com

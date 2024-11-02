@@ -19,6 +19,7 @@
 0.0.0.0 aka.stream.kg.qq.com
 0.0.0.0 aka.tsmusic.kg.qq.com
 0.0.0.0 alicdn.com
+0.0.0.0 all.biliintl.com.w.kunlunsl.com
 0.0.0.0 amap.com
 0.0.0.0 api.afdback.iq.com
 0.0.0.0 api.bilibili.com
@@ -189,6 +190,7 @@
 0.0.0.0 passport.zhaopin.com
 0.0.0.0 pay-sg.wsds.cn
 0.0.0.0 pay.weixin.qq.com
+0.0.0.0 p.bstarstatic.com.w.kunlunsl.com
 0.0.0.0 pc.weixin.qq.com
 0.0.0.0 pingfore.qq.com
 0.0.0.0 ping.huatuo.qq.com
@@ -279,6 +281,7 @@
 0.0.0.0 uc.cn
 0.0.0.0 unity.cn
 0.0.0.0 unity-cn-prd.cdn.unity.cn
+0.0.0.0 upos-sz-mirrorasiabstar1.bilivideo.com
 0.0.0.0 vfiles.gtimg.cn
 0.0.0.0 vfiles-raw.gtimg.cn
 0.0.0.0 vivo.com.cn

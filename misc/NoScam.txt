@@ -1,0 +1,39 @@
+#
+# This list blocks sites that
+# tries to scam users by pretending
+# to be real websites to steal
+# personal information or login credential
+#
+ada.support # unconfirmed
+allsupport.me # unconfirmed
+antivirus-helpnumber.com
+appleindo.store
+bharatearns.top
+bhelps.info # unconfirmed
+bigsalemalaysia.asia
+custhelp.com # unconfirmed
+dell-support.co.uk
+ggsupport.com # unconfirmed
+gosupportnow.com # unconfirmed
+helponline123.com
+ibox-store.online
+marshall-th-official.com
+norton-uk.uk
+pahelp.us # unconfirmed
+partnerstack.ada.support # unconfirmed
+printer-helpnumber.com
+software-network-service.com
+tollfree-help.number.com
+usps-helpsend-info.com
+www.antivirus-helpnumber.com
+www.appleindo.store
+www.bigsalemalaysia.asia
+www.gosupportnow.com # unconfirmed
+www.helponline123.com
+www.ibox-store.online
+www.marshall-th-official.com
+www.norton-uk.uk
+www.printer-helpnumber.com
+www.software-network-service.com
+www.tollfree-help.number.com
+www.usps-helpsend-info.com

@@ -91,6 +91,7 @@
 49.courier-push-apple.com.akadns.net
 4-courier.push.apple.com
 4.courier-push-apple.com.akadns.net
+4-courier.sandbox.push.apple.com
 50-courier.push.apple.com
 50.courier-push-apple.com.akadns.net
 52-courier.push.apple.com
@@ -102,8 +103,10 @@
 7.courier-push-apple.com.akadns.net
 8-courier.push.apple.com
 8.courier-push-apple.com.akadns.net
+8-courier.sandbox.push.apple.com
 9-courier.push.apple.com
 9.courier-push-apple.com.akadns.net
+9-courier.sandbox.push.apple.com
 acsegateway.fe2.apple-dns.net
 aidc.apple.com
 amp-api.apps.apple.com
@@ -126,6 +129,7 @@ apple.tt.omtrdc.net
 app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 apptrailers.itunes.apple.com
+autolinkmaker.itunes.apple.com
 bag-cdn.itunes-apple.com.akadns.net
 bag-cdn-lb.itunes-apple.com.akadns.net
 bag.itunes.apple.com
@@ -384,6 +388,7 @@ p43-caldav.icloud.com
 p43-escrowproxy.icloud.com
 p44-caldav.icloud.com
 p44-escrowproxy.icloud.com
+p45-acsegateway.icloud.com
 p45-caldav.icloud.com
 p45-escrowproxy.icloud.com
 p45-fmf.icloud.com
@@ -500,6 +505,7 @@ stocks-sparkline.apple.com
 su.itunes.apple.com
 swallow.apple.com
 time.apple.com
+time.asia.apple.com
 time.euro.apple.com
 time-ios.apple.com
 time-osx.g.aaplimg.com

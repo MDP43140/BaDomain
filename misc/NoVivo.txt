@@ -6,6 +6,8 @@ artpp-vivofs.vivoglobal.com
 asai-file-wlanapkcdn2.vivoglobal.com
 asia-adlog.vivoglobal.com
 asia-album-api.vivoglobal.com
+asia-apkselfdl.vivoglobal.com
+asia-artpp-vivofs.vivoglobal.com
 asia-assistant-sports.vivoglobal.com
 asia-browserplat.vivoglobal.com
 asia-browserstatic.vivoglobal.com
@@ -83,9 +85,11 @@ comm.api.vivoglobal.com
 domaincfg.vivoglobal.com
 download0.vivo.com
 download0.vivo.com.cn
+ex-adreq-asia.vivoglobal.com
 excfgfile-vivofs-asia.vivo.com.cn
 external.appstore.vivo.com
 external.appstore.vivo.com.cn
+globalscan.vivo.com.cn
 homepage.vivo.com
 id-analyzer-appstore.vivoglobal.com
 id-config-appstore.vivoglobal.com
@@ -109,6 +113,7 @@ pay.vivoglobal.com
 ro.up.vivoglobal.com
 st-exbrowser.vivoglobal.com
 sysupgrade.api.vivoglobal.com
+timesync.vivo.com.cn
 vbw.vivoglobal.com
 vivo.com.cn
 vnotestatic.vivoglobal.com

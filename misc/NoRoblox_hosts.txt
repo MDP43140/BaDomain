@@ -15,6 +15,7 @@
 0.0.0.0 avatar.roblox.com
 0.0.0.0 aws-eu-west-2c-lms.rbx.com
 0.0.0.0 aws-us-west-2a-lms.rbx.com
+0.0.0.0 badges.roblox.com
 0.0.0.0 bom1-128-116-104-4.roblox.com
 0.0.0.0 c0ak.rbxcdn.com
 0.0.0.0 c0cfly.rbxcdn.com
@@ -33,10 +34,13 @@
 0.0.0.0 economy.roblox.com
 0.0.0.0 ecsv2.roblox.com
 0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 followings.roblox.com
 0.0.0.0 fra2-128-116-123-3.roblox.com
 0.0.0.0 friends.roblox.com
+0.0.0.0 gameinternationalization.roblox.com
 0.0.0.0 gamejoin.roblox.com
 0.0.0.0 games.roblox.com
+0.0.0.0 groups.roblox.com
 0.0.0.0 hkg1-128-116-118-3.roblox.com
 0.0.0.0 iad4-128-116-102-3.roblox.com
 0.0.0.0 images.rbxcdn.com
@@ -51,6 +55,7 @@
 0.0.0.0 realtime.roblox.com
 0.0.0.0 realtime-signalr.roblox.com
 0.0.0.0 roblox.com
+0.0.0.0 sc3.rbxcdn.com
 0.0.0.0 sea1-128-116-100-3.roblox.com
 0.0.0.0 static.rbxcdn.com
 0.0.0.0 t0.rbxcdn.com
@@ -65,5 +70,7 @@
 0.0.0.0 thumbnails.roblox.com
 0.0.0.0 trades.roblox.com
 0.0.0.0 tr.rbxcdn.com
+0.0.0.0 usermoderation.roblox.com
 0.0.0.0 users.roblox.com
+0.0.0.0 voice.roblox.com
 0.0.0.0 www.roblox.com

@@ -69,32 +69,11 @@ while IFS= read -r line;do
 		*.purplevioleto.com)
 			echo "$line" >> ${service_output_folder}/NoFreeFire.tmp
 		;;
-		*bet*|\
-		*casino*|\
-		*domino*|\
-		*gacha*|\
-		*gacor*|\
-		*higgs*|\
-		*jackpot*|\
-		*judi*|\
-		*kaskus*toto*|\
-		*lottery*|\
-		*macau*|\
-		*poker*|\
-		*rgo*|\
-		*rtp*|\
-		*rtg*|\
-		*slot*|\
-		*trio*|\
-		*triple*|\
-		*togel*|\
-		*vegas*|\
-		*viva*)
-			echo "$line" >> ${service_output_folder}/NoGambling.tmp
-		;;
 		*.mlbangbang.com|\
 		*.mobilelegends.com|\
 		*.moonton.com|\
+		*.moonton.org|\
+		*.moontonsafe.com|\
 		*.youngjoygame.com|\
 		*.yuanzhanapp.com)
 			echo "$line" >> ${service_output_folder}/NoMLBB.tmp
@@ -122,6 +101,7 @@ while IFS= read -r line;do
 		*.roblox.com)
 			echo "$line" >> ${service_output_folder}/NoRoblox.tmp
 		;;
+		*.remotesamsung.com|\
 		*.samsung.com|\
 		*.samsung-gamelauncher.com|\
 		*.samsungapps.com|\
@@ -231,9 +211,35 @@ while IFS= read -r line;do
 		*.xiaomi.net)
 			echo "$line" >> ${service_output_folder}/NoXiaomi.tmp
 		;;
+		*bet*|\
+		*casino*|\
+		*domino*|\
+		*gacha*|\
+		*gacor*|\
+		*higgs*|\
+		*jackpot*|\
+		*judi*|\
+		*kaskus*toto*|\
+		*lottery*|\
+		*macau*|\
+		*poker*|\
+		*rgo*|\
+		*rtp*|\
+		*rtg*|\
+		*slot*|\
+		*trio*|\
+		*triple*|\
+		*togel*|\
+		*vegas*|\
+		*viva*)
+			echo "$line" >> ${service_output_folder}/NoGambling.tmp
+		;;
 		*adult*|\
 		*babe*|\
 		*bacol*|\
+		*.bigo.sg*|\
+		*.bigo.tv*|\
+		*.bigolive.tv*|\
 		*bikini*|\
 		*bokep*|\
 		*cewek*|\
@@ -257,6 +263,7 @@ while IFS= read -r line;do
 		*sex*|\
 		*tinder*hot*|\
 		*.ttcache.com|\
+		*viral*|\
 		*vrbanger*|\
 		*wanita*|\
 		*xxx*|\

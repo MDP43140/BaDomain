@@ -21,6 +21,7 @@ api.ad.intl.xiaomi.com
 api.ad.xiaomi.com
 api.aurogon.intl.miui.com
 api.comm.miui.com
+api.competition.intl.miui.com
 api.developer.xiaomi.com
 api.device.xiaomi.net
 apidevicexiaominet-1824452031.ap-south-1.elb.amazonaws.com
@@ -232,7 +233,9 @@ login.game.xiaomi.com
 logupdate.avlyun.sec.miui.com
 market.xiaomi.com
 mazu.sec.miui.com
+mb.resolver.msg.global.xiaomi.net
 m.bss.pandora.xiaomi.com
+mcc.inf.miui.com
 mcc-intl.inf.miui.com
 mcc.intl.inf.miui.com
 metok.sys.miui.com
@@ -281,6 +284,7 @@ sandbox.xmpush.xiaomi.com
 sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
+sdkconfig.intl.xiaomi.com
 sec-cdn.static.xiaomi.net
 secode2.hd.xiaomi.com
 sentry.d.xiaomi.net
@@ -397,6 +401,7 @@ tracking.india.miui.com
 tracking.intl.miui.com
 tracking.miui.com
 trial.api.huangye.miui.com
+ts.market.mi-img.com
 tv.app.migc.xiaomi.com
 tvepg.pandora.xiaomi.com
 tz.sec.xiaomi.com

@@ -91,6 +91,7 @@
 0.0.0.0 49.courier-push-apple.com.akadns.net
 0.0.0.0 4-courier.push.apple.com
 0.0.0.0 4.courier-push-apple.com.akadns.net
+0.0.0.0 4-courier.sandbox.push.apple.com
 0.0.0.0 50-courier.push.apple.com
 0.0.0.0 50.courier-push-apple.com.akadns.net
 0.0.0.0 52-courier.push.apple.com
@@ -102,8 +103,10 @@
 0.0.0.0 7.courier-push-apple.com.akadns.net
 0.0.0.0 8-courier.push.apple.com
 0.0.0.0 8.courier-push-apple.com.akadns.net
+0.0.0.0 8-courier.sandbox.push.apple.com
 0.0.0.0 9-courier.push.apple.com
 0.0.0.0 9.courier-push-apple.com.akadns.net
+0.0.0.0 9-courier.sandbox.push.apple.com
 0.0.0.0 acsegateway.fe2.apple-dns.net
 0.0.0.0 aidc.apple.com
 0.0.0.0 amp-api.apps.apple.com
@@ -126,6 +129,7 @@
 0.0.0.0 app-site-association.cdn-apple.com
 0.0.0.0 app-site-association.g.aaplimg.com
 0.0.0.0 apptrailers.itunes.apple.com
+0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 bag-cdn.itunes-apple.com.akadns.net
 0.0.0.0 bag-cdn-lb.itunes-apple.com.akadns.net
 0.0.0.0 bag.itunes.apple.com
@@ -384,6 +388,7 @@
 0.0.0.0 p43-escrowproxy.icloud.com
 0.0.0.0 p44-caldav.icloud.com
 0.0.0.0 p44-escrowproxy.icloud.com
+0.0.0.0 p45-acsegateway.icloud.com
 0.0.0.0 p45-caldav.icloud.com
 0.0.0.0 p45-escrowproxy.icloud.com
 0.0.0.0 p45-fmf.icloud.com
@@ -500,6 +505,7 @@
 0.0.0.0 su.itunes.apple.com
 0.0.0.0 swallow.apple.com
 0.0.0.0 time.apple.com
+0.0.0.0 time.asia.apple.com
 0.0.0.0 time.euro.apple.com
 0.0.0.0 time-ios.apple.com
 0.0.0.0 time-osx.g.aaplimg.com

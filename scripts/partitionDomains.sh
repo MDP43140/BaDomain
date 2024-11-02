@@ -13,7 +13,7 @@ tmp1=$(mktemp)
 tmp2=$(mktemp)
 echo "${txt1}" | while IFS= read -r;do
 	# TODO: should match by end word (eg. sub.adserver.com matches adserver.com)
-	if echo "${REPLY}" | grep -qE "${txt1}$";then
+	if grep -qE "${txt1}$" <<< "${REPLY}";then
 		echo "$REPLY" >> "$tmp1"
 	else
 		echo "$REPLY" >> "$tmp2"

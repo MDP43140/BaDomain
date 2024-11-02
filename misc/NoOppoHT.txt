@@ -72,6 +72,7 @@ browser-api-id.heytapmobile.com
 browserfiles.heytapimg.com
 browser-i-gl.heytapmobile.com
 browser-sdk-gl.heytapmobile.com
+cdopic.f.oppomobile.com
 cdp-common-gl.heytapmobile.com
 cdp-common-id.heytapmobile.com
 cdp-common-in.heytapmobile.com
@@ -221,6 +222,7 @@ id.push.oppomobile.com
 id-store.oppomobile.com
 ie-front-gl.heytapimg.com
 if.browser.oppomobile.com
+i.feedback.foreign.coloros.com
 iflowf.browser.oppomobile.com
 iflowf-sg.browser.oppomobile.com
 iflow-in.browser.heytapmobile.com

@@ -21,6 +21,7 @@
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.aurogon.intl.miui.com
 0.0.0.0 api.comm.miui.com
+0.0.0.0 api.competition.intl.miui.com
 0.0.0.0 api.developer.xiaomi.com
 0.0.0.0 api.device.xiaomi.net
 0.0.0.0 apidevicexiaominet-1824452031.ap-south-1.elb.amazonaws.com
@@ -232,7 +233,9 @@
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 market.xiaomi.com
 0.0.0.0 mazu.sec.miui.com
+0.0.0.0 mb.resolver.msg.global.xiaomi.net
 0.0.0.0 m.bss.pandora.xiaomi.com
+0.0.0.0 mcc.inf.miui.com
 0.0.0.0 mcc-intl.inf.miui.com
 0.0.0.0 mcc.intl.inf.miui.com
 0.0.0.0 metok.sys.miui.com
@@ -281,6 +284,7 @@
 0.0.0.0 sdkconfig.ad.india.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdkconfig.intl.xiaomi.com
 0.0.0.0 sec-cdn.static.xiaomi.net
 0.0.0.0 secode2.hd.xiaomi.com
 0.0.0.0 sentry.d.xiaomi.net
@@ -397,6 +401,7 @@
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 trial.api.huangye.miui.com
+0.0.0.0 ts.market.mi-img.com
 0.0.0.0 tv.app.migc.xiaomi.com
 0.0.0.0 tvepg.pandora.xiaomi.com
 0.0.0.0 tz.sec.xiaomi.com

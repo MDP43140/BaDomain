@@ -5,7 +5,10 @@
 #  find if a domain exists or not
 #  and used to check BaDomain lists
 #
-#  TODO: how can i make dig command query both IPv4 and IPv6 answer
+#  TODO:
+#  - make dig command query both IPv4 and IPv6 answers
+#  - detect nonexistent sites by detecting redirects from www.domain.com
+#    to ww123456.domain.com (put in other script to avoid accidental domain contact)
 #
 
 clear
@@ -46,26 +49,26 @@ for i in $DOMAIN_LISTS;do
 	result=`dig $DNS_PROVIDER $i`
 	exitcode="$?"
 	if [ ! "$result" ];then
-		echo -e "\r[!] No answer for $i.\e[0K"
+		echo -e "\r[!] No output for $i.\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif echo "$result" | grep -q 'restricted\|internetpositif\|trustpositif\|blockpage\|aduankonten\|116.206.10.31\|36.86.63.185';then
+	elif grep -q 'restricted\|internetpositif\|trustpositif\|blockpage\|aduankonten\|116.206.10.31\|36.86.63.185' <<< "$result";then
 		echo -e "\r[!] $i censored by government\e[0K"
-		echo $i >> "$LOG_EXISTS_FILE"
+		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif echo "$result" | grep -q ', status: SERVFAIL';then
+	elif grep -q ', status: SERVFAIL' <<< "$result";then
 		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif echo "$result" | grep -q '; no servers could be reached';then
+	elif grep -q '; no servers could be reached' <<< "$result";then
 		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif echo "$result" | grep -q ';; communications error to ';then
+	elif grep -q ';; communications error to ' <<< "$result";then
 		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif echo "$result" | grep -q ';; connection timed out ';then
+	elif grep -q ';; connection timed out ' <<< "$result";then
 		echo -e "\r[!] Server unable to query $i\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
@@ -77,7 +80,7 @@ for i in $DOMAIN_LISTS;do
 		echo -e "\r[!] Internal error when querying $i!\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif ! echo "$result" | grep -q 'ANSWER: 0' && [ $exitcode -eq 0 ];then
+	elif ! grep -q 'ANSWER: 0' <<< "$result" && [ $exitcode -eq 0 ];then
 		echo -e "\r[+] $i exists\e[0K"
 		echo $i >> "$LOG_EXISTS_FILE"
 		PROGRESS_EXIST=$((PROGRESS_EXIST+1))

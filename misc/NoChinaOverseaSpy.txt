@@ -19,6 +19,7 @@ afirstsoft.cn
 aka.stream.kg.qq.com
 aka.tsmusic.kg.qq.com
 alicdn.com
+all.biliintl.com.w.kunlunsl.com
 amap.com
 api.afdback.iq.com
 api.bilibili.com
@@ -189,6 +190,7 @@ passport.iq.com
 passport.zhaopin.com
 pay-sg.wsds.cn
 pay.weixin.qq.com
+p.bstarstatic.com.w.kunlunsl.com
 pc.weixin.qq.com
 pingfore.qq.com
 ping.huatuo.qq.com
@@ -279,6 +281,7 @@ u3.teddymobile.cn
 uc.cn
 unity.cn
 unity-cn-prd.cdn.unity.cn
+upos-sz-mirrorasiabstar1.bilivideo.com
 vfiles.gtimg.cn
 vfiles-raw.gtimg.cn
 vivo.com.cn

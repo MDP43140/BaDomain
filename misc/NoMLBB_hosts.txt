@@ -9,6 +9,7 @@
 # as its out of scope of this project (atleast not yet)
 #
 
+0.0.0.0 61.moontonsafe.com
 0.0.0.0 akmcdn.ml.youngjoygame.com
 0.0.0.0 akmpicture.youngjoygame.com
 0.0.0.0 akmstatic.ml.youngjoygame.com
@@ -31,6 +32,7 @@
 0.0.0.0 newlogin.ml.youngjoygame.com
 0.0.0.0 pconn.ml.youngjoygame.com
 0.0.0.0 play.mobilelegends.com
+0.0.0.0 proxytest89.moonton.org
 0.0.0.0 report.ml.youngjoygame.com
 0.0.0.0 track.bi.moonton.com
 0.0.0.0 wsavatar.yuanzhanapp.com

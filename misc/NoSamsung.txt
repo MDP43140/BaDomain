@@ -3,6 +3,7 @@
 # Recommended to use for Samsung devices
 #
 
+account.samsung.com
 api.glb.samsung-gamelauncher.com
 api.gras.samsungdm.com
 api.mop.apps.samsung.com
@@ -10,6 +11,7 @@ api.samsungcloud.com
 api.samsungconsent.com
 api.samsungtvplus.com
 apps.samsung.com
+ap.remotesamsung.com
 asset-cdn.samsungvisioncloud.com
 asset.samsungvisioncloud.com
 auth2.samsungosp.com
@@ -38,6 +40,7 @@ policies.account.samsung.com
 poll.gras.samsungdm.com
 pushmessage.samsung.com
 rc.samsungweather.com
+resources.samsungosp.com
 samsung-callerprofile.edge.hiyaapi.com
 samsungnewsapi.picks.my
 sdk.pushmessage.samsung.com
