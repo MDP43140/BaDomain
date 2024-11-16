@@ -2086,6 +2086,7 @@
 0.0.0.0 oec16-normal-useast1a.tiktokv.com
 0.0.0.0 oec22-normal-alisg.tiktokv.com
 0.0.0.0 oec22-normal-useast1a.tiktokv.com
+0.0.0.0 oec-api.tiktokv.com
 0.0.0.0 omega.bytedance.net
 0.0.0.0 one.bytedance.net
 0.0.0.0 op.bytedance.net
@@ -2285,6 +2286,7 @@
 0.0.0.0 p-19-oec-sg.ibyteimg.com
 0.0.0.0 p19-oec-sg.ibyteimg.com
 0.0.0.0 p19-oec-sg.ibyteimg.com.edgesuite.net
+0.0.0.0 p19-oec-tracks-picture-sign-sg.ibyteimg.com
 0.0.0.0 p19-oec-va.ibyteimg.com
 0.0.0.0 p19-oec-va.ibyteimg.com.edgesuite.net
 0.0.0.0 p19-pu-sign-ie.tiktokcdn-eu.com
@@ -2775,6 +2777,7 @@
 0.0.0.0 pull-flv-f1-va01.tiktokcdn.com
 0.0.0.0 pull-flv-f1-xg.bytecdn.cn
 0.0.0.0 pull-flv-f58-tt03.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-flv-f58-tt04.tiktokcdn-eu.com
 0.0.0.0 pull-flv-f61-va01.tiktokcdn.com
 0.0.0.0 pull-flv-f62-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-f62-va01.tiktokcdn.com
@@ -3892,6 +3895,7 @@
 0.0.0.0 tos-useast2a.muscdn.com
 0.0.0.0 tos-useast2a.tiktokcdn.com
 0.0.0.0 tosv.byted.org
+0.0.0.0 tosv-va.tiktok-row.org
 0.0.0.0 toutiao50.com
 0.0.0.0 toutiaocloud.com
 0.0.0.0 toutiaocloud.net

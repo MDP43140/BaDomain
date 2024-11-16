@@ -21,6 +21,7 @@
 0.0.0.0 img-cdn.mobilelegends.com
 0.0.0.0 img.mobilelegends.com
 0.0.0.0 ip.ml.youngjoygame.com
+0.0.0.0 loginclientversion.ml.youngjoygame.com
 0.0.0.0 login.ml.youngjoygame.com
 0.0.0.0 mapi.mobilelegends.com
 0.0.0.0 mlapi.mobilelegends.com

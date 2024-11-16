@@ -2086,6 +2086,7 @@ oec16-normal-gquic-useast1a.tiktokv.com
 oec16-normal-useast1a.tiktokv.com
 oec22-normal-alisg.tiktokv.com
 oec22-normal-useast1a.tiktokv.com
+oec-api.tiktokv.com
 omega.bytedance.net
 one.bytedance.net
 op.bytedance.net
@@ -2285,6 +2286,7 @@ p19-oec-common-useast2a.ibyteimg.com
 p-19-oec-sg.ibyteimg.com
 p19-oec-sg.ibyteimg.com
 p19-oec-sg.ibyteimg.com.edgesuite.net
+p19-oec-tracks-picture-sign-sg.ibyteimg.com
 p19-oec-va.ibyteimg.com
 p19-oec-va.ibyteimg.com.edgesuite.net
 p19-pu-sign-ie.tiktokcdn-eu.com
@@ -2775,6 +2777,7 @@ pull-flv-f1.tiktokcdn.com.wsdvs.com
 pull-flv-f1-va01.tiktokcdn.com
 pull-flv-f1-xg.bytecdn.cn
 pull-flv-f58-tt03.fcdn.eu.tiktokcdn.com
+pull-flv-f58-tt04.tiktokcdn-eu.com
 pull-flv-f61-va01.tiktokcdn.com
 pull-flv-f62-sg01.tiktokcdn.com
 pull-flv-f62-va01.tiktokcdn.com
@@ -3892,6 +3895,7 @@ tos-useast2a21-up.tiktokcdn.com
 tos-useast2a.muscdn.com
 tos-useast2a.tiktokcdn.com
 tosv.byted.org
+tosv-va.tiktok-row.org
 toutiao50.com
 toutiaocloud.com
 toutiaocloud.net

@@ -18,6 +18,7 @@
 0.0.0.0 gosupportnow.com
 0.0.0.0 helponline123.com
 0.0.0.0 ibox-store.online
+0.0.0.0 infosec.rm-it.de
 0.0.0.0 marshall-th-official.com
 0.0.0.0 norton-uk.uk
 0.0.0.0 pahelp.us
@@ -32,6 +33,7 @@
 0.0.0.0 www.gosupportnow.com
 0.0.0.0 www.helponline123.com
 0.0.0.0 www.ibox-store.online
+0.0.0.0 www.infosec.rm-it.de
 0.0.0.0 www.marshall-th-official.com
 0.0.0.0 www.norton-uk.uk
 0.0.0.0 www.printer-helpnumber.com

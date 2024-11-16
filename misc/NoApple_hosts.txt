@@ -172,6 +172,8 @@
 0.0.0.0 contacts.fe.apple-dns.net
 0.0.0.0 courier2.push.apple.com
 0.0.0.0 courier-ab-vs.push.apple.com
+0.0.0.0 cstat.cdn-apple.com
+0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 dns.apple.com.v.aaplimg.com
 0.0.0.0 doh.dns.apple.com
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com

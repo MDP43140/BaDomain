@@ -21,6 +21,7 @@ face.yuanzhanapp.com
 img-cdn.mobilelegends.com
 img.mobilelegends.com
 ip.ml.youngjoygame.com
+loginclientversion.ml.youngjoygame.com
 login.ml.youngjoygame.com
 mapi.mobilelegends.com
 mlapi.mobilelegends.com

@@ -4,6 +4,7 @@
 #
 
 0.0.0.0 account.samsung.com
+0.0.0.0 api.account.samsung.com
 0.0.0.0 api.glb.samsung-gamelauncher.com
 0.0.0.0 api.gras.samsungdm.com
 0.0.0.0 api.mop.apps.samsung.com
@@ -15,6 +16,7 @@
 0.0.0.0 asset-cdn.samsungvisioncloud.com
 0.0.0.0 asset.samsungvisioncloud.com
 0.0.0.0 auth2.samsungosp.com
+0.0.0.0 btc-use2.mgmt.aibixby.com
 0.0.0.0 capi.samsungcloud.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 config-api.internet.apps.samsung.com
@@ -28,11 +30,13 @@
 0.0.0.0 dls-udc.dqa.samsung.com
 0.0.0.0 dm.samsungdive.com
 0.0.0.0 ers.samsungcloud.com
+0.0.0.0 ers.samsungcloudplatform.com
 0.0.0.0 eu-api.samsungpositioning.com
 0.0.0.0 eu-auth2.samsungosp.com
 0.0.0.0 eu-kaf.samsungknox.com
 0.0.0.0 id-odc.samsungapps.com
 0.0.0.0 img.samsungapps.com
+0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 loc.samsungdive.com
 0.0.0.0 osb-eusvc.samsungqbe.com
 0.0.0.0 play.samsungcloud.com
@@ -44,8 +48,12 @@
 0.0.0.0 samsung-callerprofile.edge.hiyaapi.com
 0.0.0.0 samsungnewsapi.picks.my
 0.0.0.0 sdk.pushmessage.samsung.com
+0.0.0.0 shealth-api.samsunghealth.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 sspapi-prd.samsungrs.com
+0.0.0.0 tos-dev-getdata.samsung-dict.com
+0.0.0.0 tos-prod-getdata.samsung-dict.com
+0.0.0.0 tos-stg-getdata.samsung-dict.com
 0.0.0.0 ureca.samsungapps.com
 0.0.0.0 us-api.mcsvc.samsung.com
 0.0.0.0 us-api.rewards.svc.samsung.com

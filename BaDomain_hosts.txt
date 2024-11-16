@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 02.11.2024
+# Version: 16.11.2024
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -12,6 +12,7 @@
 0.0.0.0 05efspdbawfc.puscomosca.com
 0.0.0.0 07c225f3.online
 0.0.0.0 0.datadog.pool.ntp.org
+0.0.0.0 0ea631b8-dnsotls-ds.metric.gstatic.com
 0.0.0.0 0kczn7.l0fwny.com
 0.0.0.0 0.news20.biz
 0.0.0.0 0smfoo0924y8.puscomosca.com
@@ -117,6 +118,8 @@
 0.0.0.0 3.datadog.pool.ntp.org
 0.0.0.0 3dsintegrator.com
 0.0.0.0 3frow3-cdn-settings.appsflyersdk.com
+0.0.0.0 3frow3-gcdsdk.appsflyersdk.com
+0.0.0.0 3frow3-launches.appsflyersdk.com
 0.0.0.0 3lift.com
 0.0.0.0 3.ygti905ffth6.com
 0.0.0.0 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
@@ -168,6 +171,7 @@
 0.0.0.0 53.appmeasurements.com
 0.0.0.0 53.ygti905ffth6.com
 0.0.0.0 54.appmeasurements.com
+0.0.0.0 54ty7j-launches.appsflyersdk.com
 0.0.0.0 54.ygti905ffth6.com
 0.0.0.0 55a-8ballpool-mobile-live.pool.miniclippt.com
 0.0.0.0 55.appmeasurements.com
@@ -192,6 +196,7 @@
 0.0.0.0 613d89bc71.com
 0.0.0.0 64a9.playfabapi.com
 0.0.0.0 65c6.playfabapi.com
+0.0.0.0 6d06a247-dnsotls-ds.metric.gstatic.com
 0.0.0.0 6mbr.com
 0.0.0.0 6mqlzt-cdn-settings.appsflyersdk.com
 0.0.0.0 6mqlzt-inapps.appsflyersdk.com
@@ -203,6 +208,7 @@
 0.0.0.0 79423.analytics.edgekey.net
 0.0.0.0 7b2ca39378.com
 0.0.0.0 7CwQ6q-dnsotls-ds.metric.gstatic.com
+0.0.0.0 7L2yL6-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7.ygti905ffth6.com
 0.0.0.0 7zstX8-dnsotls-ds.metric.gstatic.com
 0.0.0.0 81e98c5a38.aac585e70c.com
@@ -530,6 +536,7 @@
 0.0.0.0 analytics.adskeeper.com
 0.0.0.0 analytics.amiunique.org
 0.0.0.0 analytics-api-s.cloudinary.com
+0.0.0.0 analytics-beacon.msha.ke
 0.0.0.0 analytics.churnzero.net
 0.0.0.0 analytics-debugger.com
 0.0.0.0 analytics.edgekey.net
@@ -2311,6 +2318,7 @@
 0.0.0.0 dtc0bd-launches.appsflyersdk.com
 0.0.0.0 d.terabox.com
 0.0.0.0 dts.like-it.video
+0.0.0.0 DTzdzT-dnsotls-ds.metric.gstatic.com
 0.0.0.0 duelbits.com
 0.0.0.0 dueros.baidu.com
 0.0.0.0 dum5uv7xb9d66.cloudfront.net
@@ -2364,6 +2372,7 @@
 0.0.0.0 ecommplugins-scripts.trustpilot.com
 0.0.0.0 econenectedith.info
 0.0.0.0 ecs-110-238-109-184.compute.hwclouds-dns.com
+0.0.0.0 eCSPkN-dnsotls-ds.metric.gstatic.com
 0.0.0.0 ed9605fe75.7b2ca39378.com
 0.0.0.0 edge1.certona.net
 0.0.0.0 edge-api.meiqia.com
@@ -2504,6 +2513,7 @@
 0.0.0.0 exponea.com
 0.0.0.0 exponential.com
 0.0.0.0 exportinvest.ge
+0.0.0.0 exTCBv-dnsotls-ds.metric.gstatic.com
 0.0.0.0 extranet.supercell.com
 0.0.0.0 extremetech.com
 0.0.0.0 eyeota-match.dotomi.com
@@ -2516,6 +2526,8 @@
 0.0.0.0 ezoic.net
 0.0.0.0 ezojs.com
 0.0.0.0 f001.backblazeb2.com
+0.0.0.0 f1nna8-inapps.appsflyersdk.com
+0.0.0.0 f1nna8-launches.appsflyersdk.com
 0.0.0.0 f2ecdn.com
 0.0.0.0 f.360safe.com
 0.0.0.0 F7s4U^@-dnsotls-ds.metric.gstatic.com
@@ -3422,6 +3434,7 @@
 0.0.0.0 japangamemarket.com
 0.0.0.0 jarlio-cdn-settings.appsflyersdk.com
 0.0.0.0 jarlio-inapps.appsflyersdk.com
+0.0.0.0 jarlio-launches.appsflyersdk.com
 0.0.0.0 jd.com
 0.0.0.0 jeeng.com
 0.0.0.0 jetengine.it
@@ -4205,6 +4218,7 @@
 0.0.0.0 na.albtls.t.co
 0.0.0.0 nablons.com
 0.0.0.0 nadaring.mademoiselleosaki.com
+0.0.0.0 nAeT72-dnsotls-ds.metric.gstatic.com
 0.0.0.0 nagich.com
 0.0.0.0 nagios.dreamvps.com
 0.0.0.0 na.glbtls.t.co
@@ -4871,8 +4885,6 @@
 0.0.0.0 policy.rayjump.com
 0.0.0.0 policy-tcp.mtgglobals.com
 0.0.0.0 policy-tcp.rayjump.com
-0.0.0.0 polyfill.io
-0.0.0.0 polyfill.io.bsclink.cn
 0.0.0.0 pool.apk.aptoide.com
 0.0.0.0 pop3.bestappsale.com
 0.0.0.0 pop3.bignox.com
@@ -6346,6 +6358,7 @@
 0.0.0.0 ucweb.com
 0.0.0.0 udp-dispatch.ucweb.com
 0.0.0.0 ug-api.sv.shopee.co.id
+0.0.0.0 uhzgj5-launches.appsflyersdk.com
 0.0.0.0 ui.ff.avast.com
 0.0.0.0 ujdstl-cdn-settings.appsflyersdk.com
 0.0.0.0 ujdstl-inapps.appsflyersdk.com
@@ -6471,6 +6484,8 @@
 0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 utoken.umeng.com
 0.0.0.0 utw71z-cdn-settings.appsflyersdk.com
+0.0.0.0 utw71z-inapps.appsflyersdk.com
+0.0.0.0 utw71z-launches.appsflyersdk.com
 0.0.0.0 u.uc123.com
 0.0.0.0 u.ucfly.com
 0.0.0.0 uvfuns.com
@@ -6514,6 +6529,7 @@
 0.0.0.0 vg-new-hb-bid-feedback.mtgglobals.com
 0.0.0.0 vgold.gameloft.com
 0.0.0.0 vg-rule.detailroi.com
+0.0.0.0 vhd6JY-dnsotls-ds.metric.gstatic.com
 0.0.0.0 vi.4sync.com
 0.0.0.0 vibeacon.onezapp.com
 0.0.0.0 vibeaconstr.onezapp.com
@@ -7508,6 +7524,7 @@
 0.0.0.0 y2mate.com
 0.0.0.0 y5en.com
 0.0.0.0 y6gqab-inapps.appsflyersdk.com
+0.0.0.0 y6gqab-launches.appsflyersdk.com
 0.0.0.0 yadro.ru
 0.0.0.0 yads.c.yimg.jp
 0.0.0.0 yandex.com
@@ -7586,6 +7603,7 @@
 0.0.0.0 zing.vn
 0.0.0.0 zipoapps.com
 0.0.0.0 ziprararchiver.com
+0.0.0.0 ZIX4Lj-dnsotls-ds.metric.gstatic.com
 0.0.0.0 zjs.zingcdn.me
 0.0.0.0 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 0.0.0.0 z.moatads.com

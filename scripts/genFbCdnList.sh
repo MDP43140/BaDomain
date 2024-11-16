@@ -101,7 +101,7 @@ SFB_MAINDOMAIN=(
 gen(){
 	# this will generate "1 2 ... 43 44"
 	SFB_BRUTEFORCERANGE_1=`echo {1..44}`
-	SFB_BRUTEFORCERANGE_2=`echo {1..7}`
+	SFB_BRUTEFORCERANGE_2=`echo {1..10}` # highest peak found 27-7 & 1-10
 
 	# Join array to string divided by spaces
 	SFB_TYPES="${SFB_TYPES[@]}"

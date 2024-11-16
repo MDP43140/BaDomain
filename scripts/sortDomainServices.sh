@@ -101,15 +101,19 @@ while IFS= read -r line;do
 		*.roblox.com)
 			echo "$line" >> ${service_output_folder}/NoRoblox.tmp
 		;;
+		*.aibixby.com|\
 		*.remotesamsung.com|\
 		*.samsung.com|\
+		*.samsung-dict.com|\
 		*.samsung-gamelauncher.com|\
 		*.samsungapps.com|\
 		*.samsungcloud.com|\
+		*.samsungcloudplatform.com|\
 		*.samsungcloudsolution.com|\
 		*.samsungconsent.com|\
 		*.samsungdive.com|\
 		*.samsungdm.com|\
+		*.samsunghealth.com|\
 		*.samsungknox.com|\
 		*.samsungosp.com|\
 		*.samsungpositioning.com|\
@@ -182,6 +186,7 @@ while IFS= read -r line;do
 		*.tiktok.com.edgekey.net|\
 		*.tiktok.com.edgesuite.net|\
 		*.tiktok-shops.com|\
+		*.tiktok-row.org|\
 		*.tiktokv.com|\
 		*.tiktokv.com.edgekey.net|\
 		*.tiktokv.com.edgesuite.net|\
@@ -205,6 +210,7 @@ while IFS= read -r line;do
 		*.appmifile.com|\
 		*.mi.com|\
 		*.mi-img.com|\
+		*.mifile.cn|\
 		*.miui.com|\
 		*.miwifi.com|\
 		*.xiaomi.com|\

@@ -14,9 +14,13 @@
 0.0.0.0 2-edge-chat.facebook.com
 0.0.0.0 323720A2-D7EE-45E0-9BEE-A35FA00AE231-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 323720A2-D7EE-45E0-9BEE-A35FA00AE231-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 33268061-0699-44E5-9240-135C44974BAC-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 33268061-0699-44E5-9240-135C44974BAC-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 3-act.channel.facebook.com
 0.0.0.0 3-edge-chat.facebook.com
 0.0.0.0 4-act.channel.facebook.com
+0.0.0.0 4B03F74C-AB9A-4E3C-B478-2B6257C03C83-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 4B03F74C-AB9A-4E3C-B478-2B6257C03C83-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 4-edge-chat.facebook.com
 0.0.0.0 5096977E-E5AB-4031-B1DD-A4CE73668575-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 5096977E-E5AB-4031-B1DD-A4CE73668575-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -25,6 +29,8 @@
 0.0.0.0 6562EE4A-E11A-4709-A6D2-D68E04A1E578-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 6562EE4A-E11A-4709-A6D2-D68E04A1E578-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 6-act.channel.facebook.com
+0.0.0.0 6B78662A-6205-4E84-9366-7E0753CEBAE5-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 6B78662A-6205-4E84-9366-7E0753CEBAE5-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 6-edge-chat.facebook.com
 0.0.0.0 73E6F188-1395-4533-B4B1-5649DED81621-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 73E6F188-1395-4533-B4B1-5649DED81621-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -493,6 +499,8 @@
 0.0.0.0 dns.facebook.com
 0.0.0.0 d.ns.whatsapp.net
 0.0.0.0 d.vvv.facebook.com
+0.0.0.0 E39436BF-76CF-4D5F-8A5A-2069E99B2269-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 E39436BF-76CF-4D5F-8A5A-2069E99B2269-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 echo.facebook.com
 0.0.0.0 ed.facebook.com
 0.0.0.0 edge-atlas-proxyprotocol-shv-01-ash5.facebook.com
@@ -991,6 +999,7 @@
 0.0.0.0 external.fbkk27-1.fna.fbcdn.net
 0.0.0.0 external.fbkk2-7.fna.fbcdn.net
 0.0.0.0 external.fbkk28-1.fna.fbcdn.net
+0.0.0.0 external.fbkk2-8.fna.fbcdn.net
 0.0.0.0 external.fbkk29-1.fna.fbcdn.net
 0.0.0.0 external.fbkk29-2.fna.fbcdn.net
 0.0.0.0 external.fbkk29-3.fna.fbcdn.net
@@ -1019,6 +1028,7 @@
 0.0.0.0 external.fbkk5-5.fna.fbcdn.net
 0.0.0.0 external.fbkk5-6.fna.fbcdn.net
 0.0.0.0 external.fbkk5-7.fna.fbcdn.net
+0.0.0.0 external.fbkk5-8.fna.fbcdn.net
 0.0.0.0 external.fbkk6-1.fna.fbcdn.net
 0.0.0.0 external.fbkk6-2.fna.fbcdn.net
 0.0.0.0 external.fbkk7-2.fna.fbcdn.net
@@ -1029,11 +1039,14 @@
 0.0.0.0 external.fbkk8-4.fna.fbcdn.net
 0.0.0.0 external.fbkk9-2.fna.fbcdn.net
 0.0.0.0 external.fbkk9-3.fna.fbcdn.net
+0.0.0.0 external.fblr1-10.fna.fbcdn.net
 0.0.0.0 external.fblr1-3.fna.fbcdn.net
 0.0.0.0 external.fblr1-4.fna.fbcdn.net
 0.0.0.0 external.fblr1-5.fna.fbcdn.net
 0.0.0.0 external.fblr1-6.fna.fbcdn.net
 0.0.0.0 external.fblr1-7.fna.fbcdn.net
+0.0.0.0 external.fblr1-8.fna.fbcdn.net
+0.0.0.0 external.fblr1-9.fna.fbcdn.net
 0.0.0.0 external.fblr2-2.fna.fbcdn.net
 0.0.0.0 external.fblr2-3.fna.fbcdn.net
 0.0.0.0 external.fblr3-2.fna.fbcdn.net
@@ -1504,6 +1517,7 @@
 0.0.0.0 external.fdel1-6.fna.fbcdn.net
 0.0.0.0 external.fdel1-7.fna.fbcdn.net
 0.0.0.0 external.fdel18-1.fna.fbcdn.net
+0.0.0.0 external.fdel1-8.fna.fbcdn.net
 0.0.0.0 external.fdel20-1.fna.fbcdn.net
 0.0.0.0 external.fdel21-1.fna.fbcdn.net
 0.0.0.0 external.fdel22-1.fna.fbcdn.net
@@ -1732,12 +1746,15 @@
 0.0.0.0 external.fhan4-4.fna.fbcdn.net
 0.0.0.0 external.fhan4-5.fna.fbcdn.net
 0.0.0.0 external.fhan4-6.fna.fbcdn.net
+0.0.0.0 external.fhan5-10.fna.fbcdn.net
 0.0.0.0 external.fhan5-1.fna.fbcdn.net
 0.0.0.0 external.fhan5-2.fna.fbcdn.net
 0.0.0.0 external.fhan5-3.fna.fbcdn.net
 0.0.0.0 external.fhan5-5.fna.fbcdn.net
 0.0.0.0 external.fhan5-6.fna.fbcdn.net
 0.0.0.0 external.fhan5-7.fna.fbcdn.net
+0.0.0.0 external.fhan5-8.fna.fbcdn.net
+0.0.0.0 external.fhan5-9.fna.fbcdn.net
 0.0.0.0 external.fhan6-1.fna.fbcdn.net
 0.0.0.0 external.fhan7-1.fna.fbcdn.net
 0.0.0.0 external.fhan8-1.fna.fbcdn.net
@@ -2069,6 +2086,7 @@
 0.0.0.0 external.fmaa2-4.fna.fbcdn.net
 0.0.0.0 external.fmaa3-2.fna.fbcdn.net
 0.0.0.0 external.fmaa3-3.fna.fbcdn.net
+0.0.0.0 external.fmaa41-6.fna.fbcdn.net
 0.0.0.0 external.fmaa5-1.fna.fbcdn.net
 0.0.0.0 external.fmaa6-1.fna.fbcdn.net
 0.0.0.0 external.fmaa8-1.fna.fbcdn.net
@@ -2230,6 +2248,7 @@
 0.0.0.0 external.fmnl4-5.fna.fbcdn.net
 0.0.0.0 external.fmnl4-6.fna.fbcdn.net
 0.0.0.0 external.fmnl4-7.fna.fbcdn.net
+0.0.0.0 external.fmnl4-8.fna.fbcdn.net
 0.0.0.0 external.fmnl5-2.fna.fbcdn.net
 0.0.0.0 external.fmnl6-1.fna.fbcdn.net
 0.0.0.0 external.fmnl6-2.fna.fbcdn.net
@@ -2747,6 +2766,7 @@
 0.0.0.0 fbpigeon.com
 0.0.0.0 fbsbx.com
 0.0.0.0 fb.watch
+0.0.0.0 fd8181ff680-wiflbott1731569131-sonar.xz.fbcdn.net
 0.0.0.0 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 0.0.0.0 feedback.facebook.com
 0.0.0.0 fi-fi.facebook.com
@@ -2981,6 +3001,7 @@
 0.0.0.0 instagram.fbkk27-1.fna.fbcdn.net
 0.0.0.0 instagram.fbkk2-7.fna.fbcdn.net
 0.0.0.0 instagram.fbkk28-1.fna.fbcdn.net
+0.0.0.0 instagram.fbkk2-8.fna.fbcdn.net
 0.0.0.0 instagram.fbkk29-1.fna.fbcdn.net
 0.0.0.0 instagram.fbkk29-2.fna.fbcdn.net
 0.0.0.0 instagram.fbkk29-3.fna.fbcdn.net
@@ -3009,6 +3030,7 @@
 0.0.0.0 instagram.fbkk5-5.fna.fbcdn.net
 0.0.0.0 instagram.fbkk5-6.fna.fbcdn.net
 0.0.0.0 instagram.fbkk5-7.fna.fbcdn.net
+0.0.0.0 instagram.fbkk5-8.fna.fbcdn.net
 0.0.0.0 instagram.fbkk6-1.fna.fbcdn.net
 0.0.0.0 instagram.fbkk6-2.fna.fbcdn.net
 0.0.0.0 instagram.fbkk7-2.fna.fbcdn.net
@@ -3019,11 +3041,14 @@
 0.0.0.0 instagram.fbkk8-4.fna.fbcdn.net
 0.0.0.0 instagram.fbkk9-2.fna.fbcdn.net
 0.0.0.0 instagram.fbkk9-3.fna.fbcdn.net
+0.0.0.0 instagram.fblr1-10.fna.fbcdn.net
 0.0.0.0 instagram.fblr1-3.fna.fbcdn.net
 0.0.0.0 instagram.fblr1-4.fna.fbcdn.net
 0.0.0.0 instagram.fblr1-5.fna.fbcdn.net
 0.0.0.0 instagram.fblr1-6.fna.fbcdn.net
 0.0.0.0 instagram.fblr1-7.fna.fbcdn.net
+0.0.0.0 instagram.fblr1-8.fna.fbcdn.net
+0.0.0.0 instagram.fblr1-9.fna.fbcdn.net
 0.0.0.0 instagram.fblr2-2.fna.fbcdn.net
 0.0.0.0 instagram.fblr2-3.fna.fbcdn.net
 0.0.0.0 instagram.fblr3-2.fna.fbcdn.net
@@ -3345,6 +3370,7 @@
 0.0.0.0 instagram.fcia7-2.fna.fbcdn.net
 0.0.0.0 instagram.fcia8-1.fna.fbcdn.net
 0.0.0.0 instagram.fcia8-2.fna.fbcdn.net
+0.0.0.0 instagram.fcjb3-3.fna.fbcdn.net
 0.0.0.0 instagram.fcks1-1.fna.fbcdn.net
 0.0.0.0 instagram.fcks2-1.fna.fbcdn.net
 0.0.0.0 instagram.fcks3-1.fna.fbcdn.net
@@ -3507,6 +3533,7 @@
 0.0.0.0 instagram.fdel1-6.fna.fbcdn.net
 0.0.0.0 instagram.fdel1-7.fna.fbcdn.net
 0.0.0.0 instagram.fdel18-1.fna.fbcdn.net
+0.0.0.0 instagram.fdel1-8.fna.fbcdn.net
 0.0.0.0 instagram.fdel20-1.fna.fbcdn.net
 0.0.0.0 instagram.fdel21-1.fna.fbcdn.net
 0.0.0.0 instagram.fdel22-1.fna.fbcdn.net
@@ -3621,6 +3648,7 @@
 0.0.0.0 instagram.feoh8-1.fna.fbcdn.net
 0.0.0.0 instagram.feoh9-1.fna.fbcdn.net
 0.0.0.0 instagram.feoh9-2.fna.fbcdn.net
+0.0.0.0 instagram.fepa7-1.fna.fbcdn.net
 0.0.0.0 instagram.fevn10-1.fna.fbcdn.net
 0.0.0.0 instagram.fevn11-1.fna.fbcdn.net
 0.0.0.0 instagram.fevn1-1.fna.fbcdn.net
@@ -3738,11 +3766,14 @@
 0.0.0.0 instagram.fhan4-4.fna.fbcdn.net
 0.0.0.0 instagram.fhan4-5.fna.fbcdn.net
 0.0.0.0 instagram.fhan4-6.fna.fbcdn.net
+0.0.0.0 instagram.fhan5-10.fna.fbcdn.net
 0.0.0.0 instagram.fhan5-1.fna.fbcdn.net
 0.0.0.0 instagram.fhan5-3.fna.fbcdn.net
 0.0.0.0 instagram.fhan5-5.fna.fbcdn.net
 0.0.0.0 instagram.fhan5-6.fna.fbcdn.net
 0.0.0.0 instagram.fhan5-7.fna.fbcdn.net
+0.0.0.0 instagram.fhan5-8.fna.fbcdn.net
+0.0.0.0 instagram.fhan5-9.fna.fbcdn.net
 0.0.0.0 instagram.fhan6-1.fna.fbcdn.net
 0.0.0.0 instagram.fhan7-1.fna.fbcdn.net
 0.0.0.0 instagram.fhan8-1.fna.fbcdn.net
@@ -4240,6 +4271,7 @@
 0.0.0.0 instagram.fmnl4-5.fna.fbcdn.net
 0.0.0.0 instagram.fmnl4-6.fna.fbcdn.net
 0.0.0.0 instagram.fmnl4-7.fna.fbcdn.net
+0.0.0.0 instagram.fmnl4-8.fna.fbcdn.net
 0.0.0.0 instagram.fmnl5-2.fna.fbcdn.net
 0.0.0.0 instagram.fmnl6-1.fna.fbcdn.net
 0.0.0.0 instagram.fmnl6-2.fna.fbcdn.net
@@ -4496,6 +4528,7 @@
 0.0.0.0 instagram.fsjo6-1.fna.fbcdn.net
 0.0.0.0 instagram.fsjo7-1.fna.fbcdn.net
 0.0.0.0 instagram.fsjo8-1.fna.fbcdn.net
+0.0.0.0 instagram.fsjp5-1.fna.fbcdn.net
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
 0.0.0.0 instagram.fsnc2-1.fna.fbcdn.net
 0.0.0.0 instagram.fsnc3-1.fna.fbcdn.net
@@ -5683,6 +5716,7 @@
 0.0.0.0 scontent-b-vie.xx.fbcdn.net
 0.0.0.0 scontent-b.xx.fbcdn.net
 0.0.0.0 scontent-cdg2-1.xx.fbcdn.net
+0.0.0.0 scontent-cdg4-3.cdninstagram.com
 0.0.0.0 scontent-cdg.xx.fbcdn.net
 0.0.0.0 scontent.cdninstagram.com
 0.0.0.0 scontent-cdt1-1.xx.fbcdn.net
@@ -5694,6 +5728,7 @@
 0.0.0.0 scontent-cgk2-1.cdninstagram.com
 0.0.0.0 scontent-cgk2-1.xx.fbcdn.net
 0.0.0.0 scontent-c.xx.fbcdn.net
+0.0.0.0 scontent-den2-1.cdninstagram.com
 0.0.0.0 scontent-den4-1.cdninstagram.com
 0.0.0.0 scontent-dfw5-1.cdninstagram.com
 0.0.0.0 scontent-dfw5-1.xx.fbcdn.net
@@ -5856,6 +5891,7 @@
 0.0.0.0 scontent.fbkk27-1.fna.fbcdn.net
 0.0.0.0 scontent.fbkk2-7.fna.fbcdn.net
 0.0.0.0 scontent.fbkk28-1.fna.fbcdn.net
+0.0.0.0 scontent.fbkk2-8.fna.fbcdn.net
 0.0.0.0 scontent.fbkk29-1.fna.fbcdn.net
 0.0.0.0 scontent.fbkk29-2.fna.fbcdn.net
 0.0.0.0 scontent.fbkk29-3.fna.fbcdn.net
@@ -5884,6 +5920,7 @@
 0.0.0.0 scontent.fbkk5-5.fna.fbcdn.net
 0.0.0.0 scontent.fbkk5-6.fna.fbcdn.net
 0.0.0.0 scontent.fbkk5-7.fna.fbcdn.net
+0.0.0.0 scontent.fbkk5-8.fna.fbcdn.net
 0.0.0.0 scontent.fbkk6-1.fna.fbcdn.net
 0.0.0.0 scontent.fbkk6-2.fna.fbcdn.net
 0.0.0.0 scontent.fbkk7-2.fna.fbcdn.net
@@ -5894,11 +5931,14 @@
 0.0.0.0 scontent.fbkk8-4.fna.fbcdn.net
 0.0.0.0 scontent.fbkk9-2.fna.fbcdn.net
 0.0.0.0 scontent.fbkk9-3.fna.fbcdn.net
+0.0.0.0 scontent.fblr1-10.fna.fbcdn.net
 0.0.0.0 scontent.fblr1-3.fna.fbcdn.net
 0.0.0.0 scontent.fblr1-4.fna.fbcdn.net
 0.0.0.0 scontent.fblr1-5.fna.fbcdn.net
 0.0.0.0 scontent.fblr1-6.fna.fbcdn.net
 0.0.0.0 scontent.fblr1-7.fna.fbcdn.net
+0.0.0.0 scontent.fblr1-8.fna.fbcdn.net
+0.0.0.0 scontent.fblr1-9.fna.fbcdn.net
 0.0.0.0 scontent.fblr2-2.fna.fbcdn.net
 0.0.0.0 scontent.fblr2-3.fna.fbcdn.net
 0.0.0.0 scontent.fblr3-2.fna.fbcdn.net
@@ -6372,6 +6412,7 @@
 0.0.0.0 scontent.fdel1-6.fna.fbcdn.net
 0.0.0.0 scontent.fdel1-7.fna.fbcdn.net
 0.0.0.0 scontent.fdel18-1.fna.fbcdn.net
+0.0.0.0 scontent.fdel1-8.fna.fbcdn.net
 0.0.0.0 scontent.fdel20-1.fna.fbcdn.net
 0.0.0.0 scontent.fdel21-1.fna.fbcdn.net
 0.0.0.0 scontent.fdel22-1.fna.fbcdn.net
@@ -6601,12 +6642,15 @@
 0.0.0.0 scontent.fhan4-4.fna.fbcdn.net
 0.0.0.0 scontent.fhan4-5.fna.fbcdn.net
 0.0.0.0 scontent.fhan4-6.fna.fbcdn.net
+0.0.0.0 scontent.fhan5-10.fna.fbcdn.net
 0.0.0.0 scontent.fhan5-1.fna.fbcdn.net
 0.0.0.0 scontent.fhan5-2.fna.fbcdn.net
 0.0.0.0 scontent.fhan5-3.fna.fbcdn.net
 0.0.0.0 scontent.fhan5-5.fna.fbcdn.net
 0.0.0.0 scontent.fhan5-6.fna.fbcdn.net
 0.0.0.0 scontent.fhan5-7.fna.fbcdn.net
+0.0.0.0 scontent.fhan5-8.fna.fbcdn.net
+0.0.0.0 scontent.fhan5-9.fna.fbcdn.net
 0.0.0.0 scontent.fhan6-1.fna.fbcdn.net
 0.0.0.0 scontent.fhan7-1.fna.fbcdn.net
 0.0.0.0 scontent.fhan8-1.fna.fbcdn.net
@@ -7100,6 +7144,7 @@
 0.0.0.0 scontent.fmnl4-5.fna.fbcdn.net
 0.0.0.0 scontent.fmnl4-6.fna.fbcdn.net
 0.0.0.0 scontent.fmnl4-7.fna.fbcdn.net
+0.0.0.0 scontent.fmnl4-8.fna.fbcdn.net
 0.0.0.0 scontent.fmnl5-2.fna.fbcdn.net
 0.0.0.0 scontent.fmnl6-1.fna.fbcdn.net
 0.0.0.0 scontent.fmnl6-2.fna.fbcdn.net
@@ -7610,6 +7655,7 @@
 0.0.0.0 scontent-lax3-1.xx.fbcdn.net
 0.0.0.0 scontent-lax3-2.xx.fbcdn.net
 0.0.0.0 scontent-lax.xx.fbcdn.net
+0.0.0.0 scontent-lga3-1.cdninstagram.com
 0.0.0.0 scontent-lga3-1.xx.fbcdn.net
 0.0.0.0 scontent-lga3-2.cdninstagram.com
 0.0.0.0 scontent-lga.xx.fbcdn.net
@@ -7885,6 +7931,8 @@
 0.0.0.0 sonar-mct1-1.xx.fbcdn.net
 0.0.0.0 sonar-mia.xx.fbcdn.net
 0.0.0.0 sonar-mrs2-1.xx.fbcdn.net
+0.0.0.0 sonar-mrs2-2.xx.fbcdn.net
+0.0.0.0 sonar-mrs2-3.xx.fbcdn.net
 0.0.0.0 sonar-muc2-1.xx.fbcdn.net
 0.0.0.0 sonar-mxp1-1.xx.fbcdn.net
 0.0.0.0 sonar-mxp2-1.xx.fbcdn.net
@@ -7898,6 +7946,7 @@
 0.0.0.0 sonar-scl.xx.fbcdn.net
 0.0.0.0 sonar-sea.cdn.whatsapp.net
 0.0.0.0 sonar-sea.xx.fbcdn.net
+0.0.0.0 sonar-sin11-1.xx.fbcdn.net
 0.0.0.0 sonar-sin6-1.xx.fbcdn.net
 0.0.0.0 sonar-sin6-2.xx.fbcdn.net
 0.0.0.0 sonar-sin6-3.xx.fbcdn.net
@@ -7977,6 +8026,7 @@
 0.0.0.0 star.fallback.c10r.facebook.com
 0.0.0.0 star.fallback.c10r.instagram.com
 0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 star-mini.fallback.c10r.facebook.com
 0.0.0.0 static.ak.connect.facebook.com
 0.0.0.0 static-ak.facebook.com
 0.0.0.0 static.ak.facebook.com
@@ -8051,6 +8101,7 @@
 0.0.0.0 static.fbkk2-6.fna.fbcdn.net
 0.0.0.0 static.fbkk27-1.fna.fbcdn.net
 0.0.0.0 static.fbkk28-1.fna.fbcdn.net
+0.0.0.0 static.fbkk2-8.fna.fbcdn.net
 0.0.0.0 static.fbkk29-1.fna.fbcdn.net
 0.0.0.0 static.fbkk29-2.fna.fbcdn.net
 0.0.0.0 static.fbkk29-3.fna.fbcdn.net
@@ -8078,6 +8129,7 @@
 0.0.0.0 static.fbkk5-4.fna.fbcdn.net
 0.0.0.0 static.fbkk5-5.fna.fbcdn.net
 0.0.0.0 static.fbkk5-6.fna.fbcdn.net
+0.0.0.0 static.fbkk5-8.fna.fbcdn.net
 0.0.0.0 static.fbkk6-1.fna.fbcdn.net
 0.0.0.0 static.fbkk6-2.fna.fbcdn.net
 0.0.0.0 static.fbkk7-2.fna.fbcdn.net
@@ -8088,6 +8140,9 @@
 0.0.0.0 static.fbkk8-4.fna.fbcdn.net
 0.0.0.0 static.fbkk9-2.fna.fbcdn.net
 0.0.0.0 static.fbkk9-3.fna.fbcdn.net
+0.0.0.0 static.fblr1-10.fna.fbcdn.net
+0.0.0.0 static.fblr1-8.fna.fbcdn.net
+0.0.0.0 static.fblr1-9.fna.fbcdn.net
 0.0.0.0 static.fbom10-1.fna.fbcdn.net
 0.0.0.0 static.fbom11-1.fna.fbcdn.net
 0.0.0.0 static.fbot.me
@@ -8174,6 +8229,7 @@
 0.0.0.0 static.fdac24-1.fna.fbcdn.net
 0.0.0.0 static.fdel10-1.fna.fbcdn.net
 0.0.0.0 static.fdel11-1.fna.fbcdn.net
+0.0.0.0 static.fdel1-8.fna.fbcdn.net
 0.0.0.0 static.fdla1-1.fna.fbcdn.net
 0.0.0.0 static.fdps10-1.fna.fbcdn.net
 0.0.0.0 static.fdps11-1.fna.fbcdn.net
@@ -8219,7 +8275,10 @@
 0.0.0.0 static.ffor11-1.fna.fbcdn.net
 0.0.0.0 static.fgdl5-1.fna.fbcdn.net
 0.0.0.0 static.fgua1-1.fna.fbcdn.net
+0.0.0.0 static.fhan5-10.fna.fbcdn.net
 0.0.0.0 static.fhan5-2.fna.fbcdn.net
+0.0.0.0 static.fhan5-8.fna.fbcdn.net
+0.0.0.0 static.fhan5-9.fna.fbcdn.net
 0.0.0.0 static.fhdy1-1.fna.fbcdn.net
 0.0.0.0 static.fhdy2-1.fna.fbcdn.net
 0.0.0.0 static.fhdy3-1.fna.fbcdn.net
@@ -8392,6 +8451,7 @@
 0.0.0.0 static.fmnl4-4.fna.fbcdn.net
 0.0.0.0 static.fmnl4-5.fna.fbcdn.net
 0.0.0.0 static.fmnl4-6.fna.fbcdn.net
+0.0.0.0 static.fmnl4-8.fna.fbcdn.net
 0.0.0.0 static.fmnl5-2.fna.fbcdn.net
 0.0.0.0 static.fmnl7-1.fna.fbcdn.net
 0.0.0.0 static.fmnl8-1.fna.fbcdn.net
@@ -8716,6 +8776,7 @@
 0.0.0.0 video.fcgk3-3.fna.fbcdn.net
 0.0.0.0 video.fcgk3-4.fna.fbcdn.net
 0.0.0.0 video.fcgk35-1.fna.fbcdn.net
+0.0.0.0 video.fcgk38-1.fna.fbcdn.net
 0.0.0.0 video.fcgk4-2.fna.fbcdn.net
 0.0.0.0 video.fcgk43-1.fna.fbcdn.net
 0.0.0.0 video.fcgk4-3.fna.fbcdn.net
@@ -9129,12 +9190,14 @@
 0.0.0.0 wa.me
 0.0.0.0 wave.facebook.com
 0.0.0.0 wb05f755b1-gm3tanrxgi4dcnzw.snr.whatsapp.net
+0.0.0.0 wb996a8d11-ge2dmnrxgi4tsmzv.snr.whatsapp.net
 0.0.0.0 wd5e721751-gmytomryhe2tambv.snr.whatsapp.net
 0.0.0.0 web.beta.facebook.com
 0.0.0.0 webdav.facebook.com
 0.0.0.0 web.facebook.com
 0.0.0.0 web-fallback.facebook.com
 0.0.0.0 webmail.facebook.com
+0.0.0.0 wec1556971-giytsobxga4dkojy.snr.whatsapp.net
 0.0.0.0 wellcare.facebook.com
 0.0.0.0 wellsfargo.facebook.com
 0.0.0.0 wf2d4f1c61-ge2dmmbyhezdkojv.snr.whatsapp.net

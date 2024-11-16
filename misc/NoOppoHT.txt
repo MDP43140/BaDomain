@@ -345,6 +345,7 @@ report.uc.heytapmobi.com
 rest-in-feedback.heytapmobile.com
 rest-sg-feedback.heytapmobile.com
 rusfsg.coloros.com
+rus-service-sg.allawnos.com
 saserver.search.oppomobile.com
 sau-server-eu.allawnos.com
 sau-server-in.allawnos.com

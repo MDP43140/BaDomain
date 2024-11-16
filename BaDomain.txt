@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 02.11.2024
+# Version: 16.11.2024
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -12,6 +12,7 @@
 05efspdbawfc.puscomosca.com
 07c225f3.online
 0.datadog.pool.ntp.org
+0ea631b8-dnsotls-ds.metric.gstatic.com
 0kczn7.l0fwny.com
 0.news20.biz
 0smfoo0924y8.puscomosca.com
@@ -117,6 +118,8 @@
 3.datadog.pool.ntp.org
 3dsintegrator.com
 3frow3-cdn-settings.appsflyersdk.com
+3frow3-gcdsdk.appsflyersdk.com
+3frow3-launches.appsflyersdk.com
 3lift.com
 3.ygti905ffth6.com
 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
@@ -168,6 +171,7 @@
 53.appmeasurements.com
 53.ygti905ffth6.com
 54.appmeasurements.com
+54ty7j-launches.appsflyersdk.com
 54.ygti905ffth6.com
 55a-8ballpool-mobile-live.pool.miniclippt.com
 55.appmeasurements.com
@@ -192,6 +196,7 @@
 613d89bc71.com
 64a9.playfabapi.com
 65c6.playfabapi.com
+6d06a247-dnsotls-ds.metric.gstatic.com
 6mbr.com
 6mqlzt-cdn-settings.appsflyersdk.com
 6mqlzt-inapps.appsflyersdk.com
@@ -203,6 +208,7 @@
 79423.analytics.edgekey.net
 7b2ca39378.com
 7CwQ6q-dnsotls-ds.metric.gstatic.com
+7L2yL6-dnsotls-ds.metric.gstatic.com
 7.ygti905ffth6.com
 7zstX8-dnsotls-ds.metric.gstatic.com
 81e98c5a38.aac585e70c.com
@@ -530,6 +536,7 @@ analytics.163.com
 analytics.adskeeper.com
 analytics.amiunique.org
 analytics-api-s.cloudinary.com
+analytics-beacon.msha.ke
 analytics.churnzero.net
 analytics-debugger.com
 analytics.edgekey.net
@@ -2311,6 +2318,7 @@ dtc0bd-inapps.appsflyersdk.com
 dtc0bd-launches.appsflyersdk.com
 d.terabox.com
 dts.like-it.video
+DTzdzT-dnsotls-ds.metric.gstatic.com
 duelbits.com
 dueros.baidu.com
 dum5uv7xb9d66.cloudfront.net
@@ -2364,6 +2372,7 @@ ecommerce.nanosystems.it
 ecommplugins-scripts.trustpilot.com
 econenectedith.info
 ecs-110-238-109-184.compute.hwclouds-dns.com
+eCSPkN-dnsotls-ds.metric.gstatic.com
 ed9605fe75.7b2ca39378.com
 edge1.certona.net
 edge-api.meiqia.com
@@ -2504,6 +2513,7 @@ experts-exchange.com
 exponea.com
 exponential.com
 exportinvest.ge
+exTCBv-dnsotls-ds.metric.gstatic.com
 extranet.supercell.com
 extremetech.com
 eyeota-match.dotomi.com
@@ -2516,6 +2526,8 @@ ezoiccdn.com
 ezoic.net
 ezojs.com
 f001.backblazeb2.com
+f1nna8-inapps.appsflyersdk.com
+f1nna8-launches.appsflyersdk.com
 f2ecdn.com
 f.360safe.com
 F7s4U^@-dnsotls-ds.metric.gstatic.com
@@ -3422,6 +3434,7 @@ janama-cdn-settings.appsflyersdk.com
 japangamemarket.com
 jarlio-cdn-settings.appsflyersdk.com
 jarlio-inapps.appsflyersdk.com
+jarlio-launches.appsflyersdk.com
 jd.com
 jeeng.com
 jetengine.it
@@ -4205,6 +4218,7 @@ n5t8v6w3.stackpathcdn.com
 na.albtls.t.co
 nablons.com
 nadaring.mademoiselleosaki.com
+nAeT72-dnsotls-ds.metric.gstatic.com
 nagich.com
 nagios.dreamvps.com
 na.glbtls.t.co
@@ -4871,8 +4885,6 @@ policy.app.cookieinformation.com
 policy.rayjump.com
 policy-tcp.mtgglobals.com
 policy-tcp.rayjump.com
-polyfill.io
-polyfill.io.bsclink.cn
 pool.apk.aptoide.com
 pop3.bestappsale.com
 pop3.bignox.com
@@ -6346,6 +6358,7 @@ uc.ucweb.com
 ucweb.com
 udp-dispatch.ucweb.com
 ug-api.sv.shopee.co.id
+uhzgj5-launches.appsflyersdk.com
 ui.ff.avast.com
 ujdstl-cdn-settings.appsflyersdk.com
 ujdstl-inapps.appsflyersdk.com
@@ -6471,6 +6484,8 @@ us.urmyromance.com
 us.ynuf.aliapp.org
 utoken.umeng.com
 utw71z-cdn-settings.appsflyersdk.com
+utw71z-inapps.appsflyersdk.com
+utw71z-launches.appsflyersdk.com
 u.uc123.com
 u.ucfly.com
 uvfuns.com
@@ -6514,6 +6529,7 @@ vg-api-receiver.detailroi.com
 vg-new-hb-bid-feedback.mtgglobals.com
 vgold.gameloft.com
 vg-rule.detailroi.com
+vhd6JY-dnsotls-ds.metric.gstatic.com
 vi.4sync.com
 vibeacon.onezapp.com
 vibeaconstr.onezapp.com
@@ -7508,6 +7524,7 @@ xzwnrj-launches.appsflyersdk.com
 y2mate.com
 y5en.com
 y6gqab-inapps.appsflyersdk.com
+y6gqab-launches.appsflyersdk.com
 yadro.ru
 yads.c.yimg.jp
 yandex.com
@@ -7586,6 +7603,7 @@ zingnews.vn
 zing.vn
 zipoapps.com
 ziprararchiver.com
+ZIX4Lj-dnsotls-ds.metric.gstatic.com
 zjs.zingcdn.me
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com

@@ -54,6 +54,7 @@ app.market.xiaomi.com
 app.migc.xiaomi.com
 appstore.cdn.pandora.xiaomi.com
 appstore.pandora.xiaomi.com
+appvault-s.cdn.intl.miui.com
 app.xiaomi.com
 assistant.pandora.xiaomi.com
 a.stat.xiaomi.com
@@ -70,6 +71,8 @@ bigota.d.miui.com
 browser.cdn.intl.miui.com
 brs.api.intl.miui.com
 bss.pandora.xiaomi.com
+buy.mi.com
+captcha.hd.mi.com
 cc2.sys.intl.xiaomi.com
 cc2.sys.miui.com
 ccc.sys.intl.xiaomi.com
@@ -195,6 +198,7 @@ global.search.xiaomi.net
 go.buy.mi.com
 gtglobal.intl.miui.com
 h3.market.xiaomi.com
+h5.app.intl.miui.com
 h6.market.xiaomi.com
 heyue.xiaomi.com
 hk.mibi.xiaomi.com
@@ -278,6 +282,7 @@ router.miwifi.com
 r.sg.sec.miui.com
 ruac.account.xiaomi.com
 s01.appmifile.com
+s01.mifile.cn
 s03.appmifile.com
 s05.appmifile.com
 sandbox.xmpush.xiaomi.com
