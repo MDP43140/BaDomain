@@ -6,11 +6,15 @@
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0.beta.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
+0.0.0.0 1AB39CF2-B71D-471C-B6FB-D89A2A882A02-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 1AB39CF2-B71D-471C-B6FB-D89A2A882A02-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 1-act.channel.facebook.com
 0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 24A25202-5902-471C-B042-7D0E1944F775-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 24A25202-5902-471C-B042-7D0E1944F775-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 2-act.channel.facebook.com
+0.0.0.0 2D1B7EAD-D26C-491C-9087-B7CFE4DB1823-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 2D1B7EAD-D26C-491C-9087-B7CFE4DB1823-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 2-edge-chat.facebook.com
 0.0.0.0 323720A2-D7EE-45E0-9BEE-A35FA00AE231-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 323720A2-D7EE-45E0-9BEE-A35FA00AE231-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -18,6 +22,8 @@
 0.0.0.0 33268061-0699-44E5-9240-135C44974BAC-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 3-act.channel.facebook.com
 0.0.0.0 3-edge-chat.facebook.com
+0.0.0.0 3F516A7D-F2FD-4778-AF03-98F6FFB1ECD0-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 3F516A7D-F2FD-4778-AF03-98F6FFB1ECD0-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 4-act.channel.facebook.com
 0.0.0.0 4B03F74C-AB9A-4E3C-B478-2B6257C03C83-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 4B03F74C-AB9A-4E3C-B478-2B6257C03C83-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -32,12 +38,18 @@
 0.0.0.0 6B78662A-6205-4E84-9366-7E0753CEBAE5-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 6B78662A-6205-4E84-9366-7E0753CEBAE5-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 6-edge-chat.facebook.com
+0.0.0.0 72EBE610-DBEB-462F-ADF2-40985E9ED17C-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 72EBE610-DBEB-462F-ADF2-40985E9ED17C-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 73E6F188-1395-4533-B4B1-5649DED81621-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 73E6F188-1395-4533-B4B1-5649DED81621-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 767E78C0-3846-4E58-BC70-4119816642DF-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 767E78C0-3846-4E58-BC70-4119816642DF-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 7F532F3C-386E-40AF-8677-F470AB807C7E-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 7F532F3C-386E-40AF-8677-F470AB807C7E-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 844D7EB4-161E-4B72-999A-EA4596B9CA88-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 844D7EB4-161E-4B72-999A-EA4596B9CA88-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 85C886DF-0A5C-4B22-98DC-21D28945E910-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 85C886DF-0A5C-4B22-98DC-21D28945E910-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 a1qa.m.facebook.com
@@ -441,6 +453,7 @@
 0.0.0.0 channel-testing-ecmp-05-ash3.facebook.com
 0.0.0.0 chat.cdn.whatsapp.net
 0.0.0.0 chat-e2ee.facebook.com
+0.0.0.0 chat-e2ee-ig-p42.c10r.facebook.com
 0.0.0.0 chat-e2ee-ig-p42.fallback.c10r.facebook.com
 0.0.0.0 chat-e2ee-mini.facebook.com
 0.0.0.0 chat-e2ee-mini-fallback.facebook.com
@@ -478,6 +491,8 @@
 0.0.0.0 davivienda.m.facebook.com
 0.0.0.0 DC7F3A12-11D5-4B85-89A7-61DDECBB83E2-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 DC7F3A12-11D5-4B85-89A7-61DDECBB83E2-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 DD198729-7B3F-4E23-BA3C-5AD97EC08E5C-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 DD198729-7B3F-4E23-BA3C-5AD97EC08E5C-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 de-de.facebook.com
 0.0.0.0 DEF97A87-1D6E-44D1-AF8F-E632C443EA33-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 DEF97A87-1D6E-44D1-AF8F-E632C443EA33-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -492,6 +507,7 @@
 0.0.0.0 dev.facebook.com
 0.0.0.0 dev.vvv.facebook.com
 0.0.0.0 d.facebook.com
+0.0.0.0 dgw.c10r.facebook.com
 0.0.0.0 dish.facebook.com
 0.0.0.0 dixonscarphone.m.facebook.com
 0.0.0.0 dm.m.facebook.com
@@ -837,6 +853,12 @@
 0.0.0.0 ent-d.xx.fbcdn.net
 0.0.0.0 entergy.facebook.com
 0.0.0.0 ent-e.xx.fbcdn.net
+0.0.0.0 ep1.facebook.com
+0.0.0.0 ep2.facebook.com
+0.0.0.0 ep6.facebook.com
+0.0.0.0 ep7.facebook.com
+0.0.0.0 ep8.facebook.com
+0.0.0.0 ep9.facebook.com
 0.0.0.0 error.facebook.com
 0.0.0.0 es-es.facebook.com
 0.0.0.0 es.facebook.com
@@ -2742,6 +2764,8 @@
 0.0.0.0 f3820fd4380-geojjcel1707728796-sonar.snr.fbcdn.net
 0.0.0.0 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 0.0.0.0 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
+0.0.0.0 F9936664-3E6E-4A82-A123-740542737AE9-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 F9936664-3E6E-4A82-A123-740542737AE9-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 fac3d4eef80-fjotkxjz1730179645-sonar.xz.fbcdn.net
 0.0.0.0 facebookcareers.com
 0.0.0.0 facebook.com
@@ -2766,6 +2790,8 @@
 0.0.0.0 fbpigeon.com
 0.0.0.0 fbsbx.com
 0.0.0.0 fb.watch
+0.0.0.0 FC8A2226-81CB-470D-9473-A451CA0A1853-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 FC8A2226-81CB-470D-9473-A451CA0A1853-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 fd8181ff680-wiflbott1731569131-sonar.xz.fbcdn.net
 0.0.0.0 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 0.0.0.0 feedback.facebook.com
@@ -2874,6 +2900,7 @@
 0.0.0.0 instagram.fadl7-1.fna.fbcdn.net
 0.0.0.0 instagram.fadl7-2.fna.fbcdn.net
 0.0.0.0 instagram.fadl8-1.fna.fbcdn.net
+0.0.0.0 instagram.fakl4-1.fna.fbcdn.net
 0.0.0.0 instagram.fams1-2.fna.fbcdn.net
 0.0.0.0 instagram.fams2-1.fna.fbcdn.net
 0.0.0.0 instagram.fams2-2.fna.fbcdn.net
@@ -5472,6 +5499,8 @@
 0.0.0.0 media-kul3-1.cdn.whatsapp.net
 0.0.0.0 media-sea1-1.cdn.whatsapp.net
 0.0.0.0 media-sin11-1.cdn.whatsapp.net
+0.0.0.0 media-sin11-2.cdn.whatsapp.net
+0.0.0.0 media-sin2-2.cdn.whatsapp.net
 0.0.0.0 media-sin6-1.cdn.whatsapp.net
 0.0.0.0 media-sin6-2.cdn.whatsapp.net
 0.0.0.0 media-sin6-3.cdn.whatsapp.net
@@ -6231,6 +6260,7 @@
 0.0.0.0 scontent.fcgk4-4.fna.fbcdn.net
 0.0.0.0 scontent.fcgk4-5.fna.fbcdn.net
 0.0.0.0 scontent.fcgk4-6.fna.fbcdn.net
+0.0.0.0 scontent.fcgk49-1.fna.fbcdn.net
 0.0.0.0 scontent.fcgk6-2.fna.fbcdn.net
 0.0.0.0 scontent.fcgk6-3.fna.fbcdn.net
 0.0.0.0 scontent.fcgk7-1.fna.fbcdn.net
@@ -6482,6 +6512,7 @@
 0.0.0.0 scontent.fdps12-1.fna.fbcdn.net
 0.0.0.0 scontent.fdps13-1.fna.fbcdn.net
 0.0.0.0 scontent.fdps14-1.fna.fbcdn.net
+0.0.0.0 scontent.fdps17-1.fna.fbcdn.net
 0.0.0.0 scontent.fdps2-1.fna.fbcdn.net
 0.0.0.0 scontent.fdps3-1.fna.fbcdn.net
 0.0.0.0 scontent.fdps4-1.fna.fbcdn.net
@@ -7653,6 +7684,7 @@
 0.0.0.0 scontent-kul3-1.cdninstagram.com
 0.0.0.0 scontent-kul3-1.xx.fbcdn.net
 0.0.0.0 scontent-lax3-1.xx.fbcdn.net
+0.0.0.0 scontent-lax3-2.cdninstagram.com
 0.0.0.0 scontent-lax3-2.xx.fbcdn.net
 0.0.0.0 scontent-lax.xx.fbcdn.net
 0.0.0.0 scontent-lga3-1.cdninstagram.com
@@ -9184,6 +9216,7 @@
 0.0.0.0 w490d9fe31-g44tqnbugq4dqob.snr.whatsapp.net
 0.0.0.0 w4d0429661-gqzdqojrge3tema.snr.whatsapp.net
 0.0.0.0 w7b88d4f11-gyzdsmbvg42dd.snr.whatsapp.net
+0.0.0.0 w8bb22b3b1-gi3tonjvg4zdqobv.snr.whatsapp.net
 0.0.0.0 w9b8dc53b1-gm2tamrrgqydknrq.snr.whatsapp.net
 0.0.0.0 wallets.instagram.com
 0.0.0.0 walmart.facebook.com

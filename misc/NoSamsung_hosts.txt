@@ -21,6 +21,7 @@
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 configprd.samsungcloudsolution.net
+0.0.0.0 consent.samsungrs.com
 0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 diagmon-policy.samsungdm.com

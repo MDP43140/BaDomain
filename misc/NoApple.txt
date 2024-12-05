@@ -5,8 +5,10 @@
 
 0-courier.push.apple.com
 0.courier-push-apple.com.akadns.net
+0-courier.sandbox.push.apple.com
 10-courier.push.apple.com
 10.courier-push-apple.com.akadns.net
+10-courier.sandbox.push.apple.com
 11-courier.push.apple.com
 11.courier-push-apple.com.akadns.net
 12-courier.push.apple.com
@@ -69,6 +71,7 @@
 39.courier-push-apple.com.akadns.net
 3-courier.push.apple.com
 3.courier-push-apple.com.akadns.net
+3-courier.sandbox.push.apple.com
 40-courier.push.apple.com
 40.courier-push-apple.com.akadns.net
 41-courier.push.apple.com
@@ -97,10 +100,13 @@
 52-courier.push.apple.com
 5-courier.push.apple.com
 5.courier-push-apple.com.akadns.net
+5-courier.sandbox.push.apple.com
 6-courier.push.apple.com
 6.courier-push-apple.com.akadns.net
+6-courier.sandbox.push.apple.com
 7-courier.push.apple.com
 7.courier-push-apple.com.akadns.net
+7-courier.sandbox.push.apple.com
 8-courier.push.apple.com
 8.courier-push-apple.com.akadns.net
 8-courier.sandbox.push.apple.com
@@ -230,6 +236,7 @@ gsp53-ssl.ls.apple.com
 gsp56-ssl.ls.apple.com
 gsp57-ssl-background.ls.apple.com
 gsp57-ssl-background.ls-apple.com.akadns.net
+gsp57-ssl-locus.ls.apple.com
 gsp57-ssl.ls.apple.com
 gsp57-ssl-revgeo.ls.apple.com
 gsp64-ssl.ls.apple.com
@@ -313,6 +320,8 @@ ontology.health.apple.com
 p105-sharedstreams.icloud.com
 p10-caldav.icloud.com
 p10-escrowproxy.icloud.com
+p111-fmfmobile.icloud.com
+p111-quota.icloud.com
 p113-caldav.icloud.com
 p119-fmfmobile.icloud.com
 p11-caldav.icloud.com
@@ -492,6 +501,8 @@ setup.fe2.apple-dns.net
 setup.fe.apple-dns.net
 setup.icloud.com
 sf-api-token-service.itunes.apple.com
+sgsin8.ce.apple-dns.net
+sgsin8.icloud-content.com
 smoot-feedback.v.aaplimg.com
 smoot-searchv2-aapse1c.v.aaplimg.com
 smp-device-content.apple.com

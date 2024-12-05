@@ -300,6 +300,7 @@ bilikfilm.xyz
 bingapi.com
 bingapis.com
 biposou.online
+bitscrunnch.linkpc.net
 biz.itc.cn
 bk01.hh.xiaomi.com
 bksdksp.wetvinfo.com
@@ -476,6 +477,7 @@ danuoyi.tbcache.com
 dash.nian9.win
 datalake.gameloft.com
 data.mistat.us.xiaomi.com
+datasend.linkpc.net
 dat.gen.in
 datting.click
 datting.online
@@ -550,6 +552,7 @@ echo-tcp-org.y5en.com
 ecosustain.digital
 edaukooru.net
 edgeupdate.com
+editproai.pro
 effecttec.shop
 effuelofficial.com
 efromob.site
@@ -591,6 +594,7 @@ everyday.cf
 evgnet.com
 ew1.api.cfpd.bdp.samsung.com
 execute-api.eu-west-1.amazonaws.com
+exodus.linkpc.net
 exploitbyte.net
 expose.uzone.id
 exp.xiaomi.com
@@ -891,6 +895,8 @@ jhihfa.hhsjhfjkhffdhfjdjkhfy.xyz
 jhokes39jo.ml
 jixie.media
 jmacs.maribacaberita.com
+jobdescription.linkpc.net
+jobintro.linkpc.net
 jointhedark.site
 jpallnight.com
 jpserver.site
@@ -1217,6 +1223,7 @@ pamelarioss.uno
 pangle-b.io
 pangle.io
 parsec.id
+pascol.fun
 passportlab.xyz
 pastibisajual.online
 patienciaspider.org
@@ -1693,6 +1700,7 @@ vor.monster
 votedigit.shop
 vozvrec.store
 vpdcp.com
+vpn108.pro
 vps.myjino.ru
 vpsvc.com
 vs3.wshareit.com

@@ -75,6 +75,7 @@ cdn77-vid-mp4.xnxx-cdn.com
 cdn77-vid.others-cdn.com
 cdn-b.videopool.h5xyz.com
 cdne-pics.youjizz.com
+cdn.golgemez.stream # assumption, when opened its not found, opened www.* gives cloudflare error
 cdn.jizzberry.com
 cdn.ladyboytube.tv
 cdnl.tnaflix.com
@@ -153,6 +154,7 @@ fp.metricswpsh.com
 freeporno.xxx
 fs.calldev.bigo.sg
 fto.to
+fyne.short.gy
 gcore-pic.xnxx-cdn.com
 gcore--pic-xnxx--cdn-com.cdn.ampproject.org
 gcore-pic.xvideos-cdn.com
@@ -203,6 +205,7 @@ jizzberry.com
 jto.to
 lbs.live.bigo.sg
 linkbacol.pro
+live69.linkpc.net
 livecrot.fun
 livecrot.mom
 livecrot.shop
@@ -218,6 +221,7 @@ mangatoto.org
 media.porndudecdn.com
 media.sexvr.com
 metricswpsh.com
+momoogi.site # no nsfw homepage, but shows nsfw queries
 montokcrot.cfd
 montokcrot.one
 montokcrot.vip
@@ -233,6 +237,8 @@ nobokep.art
 nontonasyik.xyz
 nude.snapgirls.today
 odw7bf.dood.video
+pascol.rest
+pascol.website
 pecintabokep.lol
 pecintabokep.shop
 pics.viptube.com
@@ -394,6 +400,7 @@ xbato.com
 xbato.net
 xbato.org
 xbokep321.net
+xgames.wapkiz.com
 xgroovy.com
 xhamster2.com
 xhamster3.com

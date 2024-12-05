@@ -59,9 +59,11 @@
 0.0.0.0 pricetool.store
 0.0.0.0 printer-helpnumber.com
 0.0.0.0 prodovjtec.shop
+0.0.0.0 pypcare.help
 0.0.0.0 ragutech.shop
 0.0.0.0 samknut.click
 0.0.0.0 sasaiso.cfd
+0.0.0.0 sgcare.help
 0.0.0.0 shakorot.site
 0.0.0.0 shotsmob.sbs
 0.0.0.0 software-network-service.com

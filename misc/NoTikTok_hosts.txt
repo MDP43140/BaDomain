@@ -813,6 +813,7 @@
 0.0.0.0 corp.bytedance.net
 0.0.0.0 corporate.toutiao.com
 0.0.0.0 cp.bytedance.net
+0.0.0.0 cp-rp16-normal-useast1a.tiktokv.com
 0.0.0.0 c.pstatp.com
 0.0.0.0 c.pstatp.com.w.cdngslb.com
 0.0.0.0 crash.snssdk.com
@@ -2194,6 +2195,7 @@
 0.0.0.0 p16.pstatp.com.edgekey.net
 0.0.0.0 p16.pstatp.com.w.alikunlun.com
 0.0.0.0 p16-pu-sign-ie.tiktokcdn-eu.com
+0.0.0.0 p16-pu-sign-no.tiktokcdn-eu.com
 0.0.0.0 p16-retouch-file-sign-sg.ibyteimg.com
 0.0.0.0 p16-retouch-sign-sg.ibyteimg.com
 0.0.0.0 p16-security-sg.ibyteimg.com
@@ -2558,6 +2560,7 @@
 0.0.0.0 passport-api-sg.capcutapi.com
 0.0.0.0 passport-api-sg.capcut.com
 0.0.0.0 passport-maliva.byteoversea.com
+0.0.0.0 passport-normal.capcutapi.com
 0.0.0.0 passport.snssdk.com
 0.0.0.0 patrol-sg.isnssdk.com
 0.0.0.0 patrol-sg.snssdk.com
@@ -3449,6 +3452,7 @@
 0.0.0.0 sf9-webcast-xgcdn.byteimg.com
 0.0.0.0 sf-hs-sg.ibytedtos.com
 0.0.0.0 sf-hs-sg.ibytedtos.com.edgekey.net
+0.0.0.0 sf-ssp.tiktokcdn.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 sf-tb-sg.ibytedtos.com.edgesuite.net
 0.0.0.0 sf-tk-sg.ibytedtos.com

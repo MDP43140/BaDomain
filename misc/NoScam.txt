@@ -58,9 +58,11 @@ partnerstack.ada.support # unconfirmed
 pricetool.store
 printer-helpnumber.com
 prodovjtec.shop
+pypcare.help
 ragutech.shop
 samknut.click
 sasaiso.cfd
+sgcare.help
 shakorot.site
 shotsmob.sbs
 software-network-service.com

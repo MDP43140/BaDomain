@@ -171,6 +171,7 @@
 0.0.0.0 epoch-my.cdo.heytapmobile.com
 0.0.0.0 feedback-cn.heytapmobi.com
 0.0.0.0 feedback-gl.heytapmobi.com
+0.0.0.0 file-intl-push.heytapdl.com
 0.0.0.0 fourier-videoclip-eu.allawnos.com
 0.0.0.0 fourier-videoclip-in.allawnos.com
 0.0.0.0 fourier-videoclip-sg.allawnos.com
@@ -181,6 +182,7 @@
 0.0.0.0 games-community-gl.heytapmobile.com
 0.0.0.0 games-community-sg.heytapmobile.com
 0.0.0.0 gauss-sauapkcostauto-cn.allawnfs.com
+0.0.0.0 gauss-sauapkcostmanual-sg.allawnofs.com
 0.0.0.0 gauss-sauoldcostmanual-cn.allawnfs.com
 0.0.0.0 gauss-sauoldcostmanual-eu.allawnofs.com
 0.0.0.0 gauss-sauoldcostmanual-in.allawnofs.com
@@ -351,6 +353,7 @@
 0.0.0.0 sau-server-in.allawnos.com
 0.0.0.0 sau-server-sg.allawnos.com
 0.0.0.0 sau-server-us.allawnos.com
+0.0.0.0 sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 sgp-img-c.heytapimg.com
 0.0.0.0 shortintl.push.heytapmobi.com
 0.0.0.0 shortintl.push.heytapmobile.com

@@ -5,8 +5,10 @@
 
 0.0.0.0 0-courier.push.apple.com
 0.0.0.0 0.courier-push-apple.com.akadns.net
+0.0.0.0 0-courier.sandbox.push.apple.com
 0.0.0.0 10-courier.push.apple.com
 0.0.0.0 10.courier-push-apple.com.akadns.net
+0.0.0.0 10-courier.sandbox.push.apple.com
 0.0.0.0 11-courier.push.apple.com
 0.0.0.0 11.courier-push-apple.com.akadns.net
 0.0.0.0 12-courier.push.apple.com
@@ -69,6 +71,7 @@
 0.0.0.0 39.courier-push-apple.com.akadns.net
 0.0.0.0 3-courier.push.apple.com
 0.0.0.0 3.courier-push-apple.com.akadns.net
+0.0.0.0 3-courier.sandbox.push.apple.com
 0.0.0.0 40-courier.push.apple.com
 0.0.0.0 40.courier-push-apple.com.akadns.net
 0.0.0.0 41-courier.push.apple.com
@@ -97,10 +100,13 @@
 0.0.0.0 52-courier.push.apple.com
 0.0.0.0 5-courier.push.apple.com
 0.0.0.0 5.courier-push-apple.com.akadns.net
+0.0.0.0 5-courier.sandbox.push.apple.com
 0.0.0.0 6-courier.push.apple.com
 0.0.0.0 6.courier-push-apple.com.akadns.net
+0.0.0.0 6-courier.sandbox.push.apple.com
 0.0.0.0 7-courier.push.apple.com
 0.0.0.0 7.courier-push-apple.com.akadns.net
+0.0.0.0 7-courier.sandbox.push.apple.com
 0.0.0.0 8-courier.push.apple.com
 0.0.0.0 8.courier-push-apple.com.akadns.net
 0.0.0.0 8-courier.sandbox.push.apple.com
@@ -230,6 +236,7 @@
 0.0.0.0 gsp56-ssl.ls.apple.com
 0.0.0.0 gsp57-ssl-background.ls.apple.com
 0.0.0.0 gsp57-ssl-background.ls-apple.com.akadns.net
+0.0.0.0 gsp57-ssl-locus.ls.apple.com
 0.0.0.0 gsp57-ssl.ls.apple.com
 0.0.0.0 gsp57-ssl-revgeo.ls.apple.com
 0.0.0.0 gsp64-ssl.ls.apple.com
@@ -313,6 +320,8 @@
 0.0.0.0 p105-sharedstreams.icloud.com
 0.0.0.0 p10-caldav.icloud.com
 0.0.0.0 p10-escrowproxy.icloud.com
+0.0.0.0 p111-fmfmobile.icloud.com
+0.0.0.0 p111-quota.icloud.com
 0.0.0.0 p113-caldav.icloud.com
 0.0.0.0 p119-fmfmobile.icloud.com
 0.0.0.0 p11-caldav.icloud.com
@@ -492,6 +501,8 @@
 0.0.0.0 setup.fe.apple-dns.net
 0.0.0.0 setup.icloud.com
 0.0.0.0 sf-api-token-service.itunes.apple.com
+0.0.0.0 sgsin8.ce.apple-dns.net
+0.0.0.0 sgsin8.icloud-content.com
 0.0.0.0 smoot-feedback.v.aaplimg.com
 0.0.0.0 smoot-searchv2-aapse1c.v.aaplimg.com
 0.0.0.0 smp-device-content.apple.com

@@ -21,6 +21,7 @@ capi.samsungcloud.com
 cdn.samsungcloudsolution.com
 config-api.internet.apps.samsung.com
 configprd.samsungcloudsolution.net
+consent.samsungrs.com
 dc.di.atlas.samsung.com
 dc.dqa.samsung.com
 diagmon-policy.samsungdm.com
