@@ -1,3 +1,7 @@
+#
+# SPDX-FileCopyrightText: 2021-2024 MDP43140
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
 import sys
 
 if len(sys.argv) < 2:

@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 #
+#  SPDX-FileCopyrightText: 2021-2024 MDP43140
+#  SPDX-License-Identifier: GPL-3.0-or-later
+#
 #  What this script does?
 #  just recursively generate tiktok domain using very complex pattern (fuck chinese)
 #  the output can be piped to checkDomains.sh (./genTiktokCdnList.sh | ./checkDomains.sh)

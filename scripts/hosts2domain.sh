@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 #
+#  SPDX-FileCopyrightText: 2021-2024 MDP43140
+#  SPDX-License-Identifier: GPL-3.0-or-later
+#
 #  What this script does?
 #  it simply reverses the host file to regular txt file without those loopback ips
 #

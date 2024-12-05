@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+#
+# SPDX-FileCopyrightText: 2021-2024 MDP43140
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
 [ $? -ne 2 ] && {
 	echo 'This script "partitions" text (word taken from Kotlin ArrayList.partition {} function)'
 	echo 'mostly used to put bad domains on top (less likely checked), and domains that should be checked'

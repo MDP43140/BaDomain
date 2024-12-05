@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+#
+# SPDX-FileCopyrightText: 2021-2024 MDP43140
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
 [ $# = 2 ] || {
   echo "This scripts adds extra newline every [splitEvery] lines"
   echo "Usage: $0 [file] [splitEvery]"
