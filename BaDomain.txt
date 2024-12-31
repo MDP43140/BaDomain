@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 05.12.2024
+# Version: 31.12.2024
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -712,6 +712,7 @@ api.dcp.vpdcp.com
 api-d.dutils.com
 api.deathwing.me
 api.decisionnowlive.com
+api.devicenative.com
 api-differences-android.easybrain.com
 api.dkyweipsds.com
 api.dollphoin.site
@@ -772,6 +773,7 @@ api.jetgadget.xyz
 api.joinbudapp.com
 api-js-log.trustarc.com
 api.kastking.top
+api.kickoffo.site
 api.kika-backend.com
 api-kinemaster.nexstreaming.com
 api.kuaishouzt.com
@@ -846,6 +848,7 @@ api.rb.sbixby.com
 api.red.wemesh.ca
 api.renren.com
 api.resso.app
+api.revenuads.com
 api.revenuecat.com
 api.rosecrab.com
 api.rudderlabs.com
@@ -954,6 +957,7 @@ app.adjust.net.in
 app.advertizer.com
 appadvice.com
 app-analytics-services-att.com
+app-analytics.trustwallet.com
 appannie.com
 app.apkliquid.com
 app.appsflyer.com
@@ -991,6 +995,7 @@ apple-finance.query.yahoo.com
 app.link
 applink.jp
 applinzi.com
+app-log-lab.immomo.com
 app-manage-api-static.shalltry.com
 app-measurement.com
 app-mgr.noxgroup.com
@@ -1283,7 +1288,6 @@ beacons.page
 beacon-v2.helpscout.net
 beagles.cookappsgames.com
 beamngdrive.net
-beast.cash
 beautyzone.cam
 beautyzone.com
 bebasindo.today
@@ -1488,12 +1492,12 @@ catalog-backend.sgdn.io
 catalog.saygames.io
 catalog.supercell.com
 catalogue.sgdn.io
-catbox.moe
 cbsi.com
 cbsipv4.shuzilm.cn
 cbs.wondershare.com
 cc.163.com
 cc507rr.video-delivery.net
+cc-api.hisavana.com
 cc.loginfra.com
 ccms.shopee.io
 c.cnzz.com
@@ -1572,7 +1576,6 @@ cdn.avanquest.com
 cdn.avmws.com
 cdn.bc0a.com
 cdn.beacons.ai
-cdn.bharatearns.top
 cdn.bizible.com
 cdn.calibermind.com
 cdn.chillyroom.com
@@ -1594,6 +1597,7 @@ cdn.euc-freshbots.ai
 cdn-eu.eufylife.com
 cdn.evgnet.com
 cdn.ezjojoy.com
+cdn.facemojikeyboard.com
 cdn.firstpromoter.com
 cdn.fluidplayer.com
 cdn-fm.shalltry.com
@@ -1831,6 +1835,7 @@ clupekfv.tweb.sched.ovscdns.com
 cm.adskeeper.com
 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 cmbchina.com
+cm.immomo.com
 cmp.inmobi.com
 cmp.osano.com
 cm.pos.baidu.com
@@ -2042,7 +2047,6 @@ crwdcntrl.net
 cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
 cryptonewssite.com
-cryptozoo.co
 crystal-blocker.com
 cs14.livetex.ru
 cs491.wac.edgecastcdn.net
@@ -2534,6 +2538,7 @@ events.mz.unity3d.com
 events.nordeus.com
 events.roposo.com
 event.togothermany.com
+event-tracking.decryptplan.com
 event-tracking-project.log-global.aliyuncs.com
 everflowclient.io
 everinform.com
@@ -2633,7 +2638,6 @@ filelions.live
 filelions.online
 filemoon.sx
 filerep-replica.ff.avast.com
-files.catbox.moe
 files.elfsight.com
 files.osf.io
 files.smartsuppcdn.com
@@ -2729,7 +2733,6 @@ ftblltrck.com
 ftp9ql.tdum.alibaba.com
 ftp.bestappsale.com
 ftp.ipchina163.com
-ftp.lysator.liu.se
 fullstory.com
 fumacrom.com
 funnel.orderonline.id
@@ -3083,6 +3086,7 @@ hosts.faceapp.io
 hosupshunk.com
 hotbit.io
 hotjar.com
+hotoole.online
 hp.myway.com
 hrtechprivacy.com
 hr.tencent.com
@@ -3753,6 +3757,7 @@ likee.com
 likee.video
 likeitlite.com
 like-it.video
+likelbs.ukyuh.tech
 likemore-go.imgsmail.ru
 likes.services.livejournal.com
 like.video
@@ -3763,6 +3768,10 @@ line.me
 linkedin.com
 linkvertise.com
 linkvertize.com
+liogr8-gcdsdk.appsflyersdk.com
+liogr8-inapps.appsflyersdk.com
+liogr8-launches.appsflyersdk.com
+liogr8-register.appsflyersdk.com
 lirik.live
 lisa.supercell.com
 list-manage.com
@@ -3892,7 +3901,6 @@ m2.caping.co.id
 ma312-r.analytics.edgesuite.net
 macworld.go-vip.net
 mademoiselleosaki.com
-mafiacash.co
 magic.cmcm.com
 magneto.api.halodoc.com
 magnifier.sng.link
@@ -4093,6 +4101,7 @@ mobcloud.1-saku.com
 mob.com
 mobfox.com
 mobiappnews.appspot.com
+mobile-api.lepou.top
 mobile-ap.spotify.com
 mobileassets.gopaylater.findaya.co.id
 mobilecrush.king.com
@@ -4100,6 +4109,8 @@ mobile-data.onetrust.io
 mobile-gw.spot.im
 mobileimg.useinsider.com
 mobile.launchdarkly.com
+mobile.likee.video
+mobile.likeevideo.ru
 mobile.like.video
 mobilemlaccelerationcompatibility.googleapis.com
 mobile.pipe.aria.microsoft.com
@@ -4139,7 +4150,6 @@ mpraven.org
 mps.nbcuni.com
 mpush-api.aliyun.com
 mqtt.transsion-os.com
-mrbeastgiftscard.com
 ms4.applovin.com
 ms4.applvn.com
 ms.4sync.com
@@ -4195,7 +4205,6 @@ mundoparachicas.space
 mup.amp.mcafee.com
 mu.se
 musicradio.com
-muskusa.com
 muslim-pro-app.firebaseio.com
 muslimpro.com
 muslimpro.zendesk.com
@@ -4325,6 +4334,7 @@ newrelic.com
 newsaggreg.shalltry.com
 news-api.fnyfeds.com
 news.baidu.com
+news-cdn.hotoole.online
 newscloud.or.kr
 new-sentry.gitlab.net
 newsfeed.miniclippt.com
@@ -4521,6 +4531,7 @@ o446669.ingest.sentry.io
 o4504136533147648.ingest.us.sentry.io
 o4504598522363904.ingest.sentry.io
 o4504695552606208.ingest.sentry.io
+o4507686279512064.ingest.us.sentry.io
 o468184.ingest.sentry.io
 o495157.ingest.sentry.io
 o519366.ingest.sentry.io
@@ -5456,6 +5467,7 @@ sbw9188.com
 scaleway.testdebit.info
 scarabresearch.com
 s.cdy.ai
+schedule-media.immomo.com
 schemas.casa
 sck.io
 scmplayer.net
@@ -5626,6 +5638,7 @@ sg-o-cms-ps.allsaints.tv
 sg-o-dws.allsaints.tv
 s.goodappforyou.com
 sg-o-static1.allsaints.tv
+sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
 sgp-appstore-global-quic-S6TN1Dt-0bee020b86358d85.elb.ap-southeast-1.amazonaws.com
 sgp-conf.dropz-k.com
 sgp.imo.im
@@ -5706,6 +5719,7 @@ sk.ru
 sky-quad.com
 skyquaddrone.com
 sla-intl.trustlook.com
+sla-media.immomo.com
 slant-api.com
 slashdotmedia.com
 slickstream.com
@@ -5862,6 +5876,7 @@ static2.cbrimages.com
 static3.cbrimages.com
 static.4sync.com
 static-act.imoim.net
+static-act.likeevideo.ru
 static-act.like-video.com
 static.addtoany.com
 static.ads-twitter.com
@@ -5928,6 +5943,7 @@ static-web.hzmk.site
 static-web.imoim.net
 static-web.likee.com
 static-web.likeevideo.com
+static-web.likeevideo.ru
 static.wetvinfo.com
 staticworld.net
 static.wshareit.com
@@ -6434,6 +6450,8 @@ uc.ucweb.com
 ucweb.com
 udp-dispatch.ucweb.com
 ug-api.sv.shopee.co.id
+uhzgj5-cdn-settings.appsflyersdk.com
+uhzgj5-inapps.appsflyersdk.com
 uhzgj5-launches.appsflyersdk.com
 ui.ff.avast.com
 ujdstl-cdn-settings.appsflyersdk.com
@@ -6571,6 +6589,11 @@ uwnxnw-conversions.appsflyersdk.com
 uwnxnw-gcdsdk.appsflyersdk.com
 uwnxnw-launches.appsflyersdk.com
 uwnxnw-register.appsflyersdk.com
+uym9cg-cdn-settings.appsflyersdk.com
+uym9cg-conversions.appsflyersdk.com
+uym9cg-gcdsdk.appsflyersdk.com
+uym9cg-inapps.appsflyersdk.com
+uym9cg-launches.appsflyersdk.com
 uzone.id
 v15-feed-ad.ap4r.com
 v16-audio.fizzo.org
@@ -6621,6 +6644,7 @@ video-g.usicdn.com
 videohub.tv
 videokini.com
 video.kompas.com
+video.like.video
 videomin.ru
 videoplayerhub.com
 videoroll.net
@@ -7114,7 +7138,6 @@ www.cambridge.org
 www.carcflma.de
 www.carx-online.com
 www.castle.io
-www.catbox.moe
 www.cdkeyoffer.com
 www.cdn925.com
 www.cdnmore.com

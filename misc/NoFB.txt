@@ -5494,6 +5494,7 @@ media.fwaw3-2.fna.whatsapp.net
 media.fwaw7-1.fna.whatsapp.net
 media.fwaw8-1.fna.whatsapp.net
 media.fwbw1-1.fna.whatsapp.net
+media-hkg1-2.cdn.whatsapp.net
 media-kul2-1.cdn.whatsapp.net
 media-kul2-2.cdn.whatsapp.net
 media-kul3-1.cdn.whatsapp.net

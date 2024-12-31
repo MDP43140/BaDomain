@@ -24,6 +24,7 @@ configprd.samsungcloudsolution.net
 consent.samsungrs.com
 dc.di.atlas.samsung.com
 dc.dqa.samsung.com
+ddf.di.atlas.samsung.com
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 dir-apis.samsungdm.com
@@ -35,6 +36,7 @@ ers.samsungcloudplatform.com
 eu-api.samsungpositioning.com
 eu-auth2.samsungosp.com
 eu-kaf.samsungknox.com
+gmp.samsungapps.com
 id-odc.samsungapps.com
 img.samsungapps.com
 lbs-samsung.swypeconnect.com

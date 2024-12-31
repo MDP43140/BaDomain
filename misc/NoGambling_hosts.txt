@@ -37,6 +37,8 @@
 0.0.0.0 batikpoker.com
 0.0.0.0 bermaindarigotopublicinter.xyz
 0.0.0.0 betbola7.us
+0.0.0.0 bharatclub.bet
+0.0.0.0 bharatearns.top
 0.0.0.0 bimabet.live
 0.0.0.0 blessing8080.com
 0.0.0.0 bolafree.com
@@ -46,6 +48,7 @@
 0.0.0.0 brovegastop.com
 0.0.0.0 campaigns.zamsino.com
 0.0.0.0 casinousagevacant.com
+0.0.0.0 cdn.bharatearns.top
 0.0.0.0 chance-for-bigwin.com
 0.0.0.0 charlottechurchmusic.com
 0.0.0.0 clayartwebguide.com
@@ -123,9 +126,11 @@
 0.0.0.0 linkunovegas.bio
 0.0.0.0 lmcau.vip
 0.0.0.0 logindolar138.com
+0.0.0.0 login.gxshd8-hb.com
 0.0.0.0 lotteryfoapi.superdominator88.vip
 0.0.0.0 lotteryfos.superdominator88.vip
 0.0.0.0 luckymania.info
+0.0.0.0 mafiacash.co
 0.0.0.0 manbetx.uk
 0.0.0.0 maxgacor.click
 0.0.0.0 media.arss-sakti.info
@@ -220,6 +225,7 @@
 0.0.0.0 triple777.club
 0.0.0.0 triple777.info
 0.0.0.0 triple777.live
+0.0.0.0 ulti99.org
 0.0.0.0 unovegas.com
 0.0.0.0 unovegas.shop
 0.0.0.0 unvegasmain.xyz
@@ -420,3 +426,4 @@
 0.0.0.0 www-viva-x99.xyz
 0.0.0.0 www-viva-x9.xyz
 0.0.0.0 xn--rtptrislt-d7a4a.com
+0.0.0.0 yes11.vip

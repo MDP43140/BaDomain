@@ -3,6 +3,7 @@
 # contains adult, and not-safe-for-work contents
 #
 
+0.0.0.0 4dgames.tumblr.com
 0.0.0.0 4khotvideo.com
 0.0.0.0 4kporn.xxx
 0.0.0.0 abgcrot.run
@@ -55,6 +56,7 @@
 0.0.0.0 bokeptop.mom
 0.0.0.0 bokepweb.com
 0.0.0.0 bongacams8.com
+0.0.0.0 brazzer.com
 0.0.0.0 bunnygirlss.site
 0.0.0.0 c1.ttcache.com
 0.0.0.0 c2.ttcache.com
@@ -210,6 +212,7 @@
 0.0.0.0 livecrot.mom
 0.0.0.0 livecrot.shop
 0.0.0.0 log.4khotvideo.com
+0.0.0.0 loveapp.tumblr.com
 0.0.0.0 lovelybabestu.com
 0.0.0.0 loveme.uno
 0.0.0.0 lulustream.com
@@ -270,6 +273,7 @@
 0.0.0.0 sexy-dating.uno
 0.0.0.0 simantan.store
 0.0.0.0 simontok.vc
+0.0.0.0 site-ma.brazzer.com
 0.0.0.0 siviral.com
 0.0.0.0 sl102.tnaflix.com
 0.0.0.0 sl103.tnaflix.com

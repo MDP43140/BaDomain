@@ -50,6 +50,7 @@ garena.com
 garenanow.com
 gcp.freefiremobile.com
 gin.freefiremobile.com
+grouptopup.ff.garena.co.id
 help.garena.co.id
 id.event.freefiremobile.com
 idevent.ggblueshark.com

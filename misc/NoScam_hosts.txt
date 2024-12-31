@@ -5,21 +5,22 @@
 # personal information or login credential
 #
 
-0.0.0.0 ada.support
 0.0.0.0 allsupport.me
 0.0.0.0 antivirus-helpnumber.com
 0.0.0.0 appleindo.store
 0.0.0.0 arastek.online
 0.0.0.0 avordic.site
+0.0.0.0 beast.cash
 0.0.0.0 becasotec.site
 0.0.0.0 bharatearns.top
-0.0.0.0 bhelps.info
 0.0.0.0 bibstele.online
 0.0.0.0 bigsalemalaysia.asia
 0.0.0.0 bolotoc.store
 0.0.0.0 bulkmob.store
 0.0.0.0 calcdigit.pics
+0.0.0.0 com-zkoptrqt.vip
 0.0.0.0 cosmafit.click
+0.0.0.0 cryptozoo.co
 0.0.0.0 custhelp.com
 0.0.0.0 cutele.shop
 0.0.0.0 dell-support.co.uk
@@ -32,7 +33,6 @@
 0.0.0.0 frodetraho.click
 0.0.0.0 genlytec.us
 0.0.0.0 genodigit.store
-0.0.0.0 ggsupport.com
 0.0.0.0 goponl.online
 0.0.0.0 gosupportnow.com
 0.0.0.0 helostop.shop
@@ -49,13 +49,13 @@
 0.0.0.0 kurkumin.click
 0.0.0.0 marshall-th-official.com
 0.0.0.0 miskotec.store
+0.0.0.0 mrbeastgiftscard.com
+0.0.0.0 muskusa.com
 0.0.0.0 nemojmob.online
 0.0.0.0 nepochtec.shop
 0.0.0.0 norton-uk.uk
 0.0.0.0 obomob.site
 0.0.0.0 oifilon.site
-0.0.0.0 pahelp.us
-0.0.0.0 partnerstack.ada.support
 0.0.0.0 pricetool.store
 0.0.0.0 printer-helpnumber.com
 0.0.0.0 prodovjtec.shop
@@ -70,12 +70,14 @@
 0.0.0.0 sourite.online
 0.0.0.0 stelor.shop
 0.0.0.0 telehub.shop
+0.0.0.0 teslausd.net
 0.0.0.0 tollfree-help.number.com
 0.0.0.0 tuchtoch.shop
 0.0.0.0 tuchtok.site
 0.0.0.0 tuctec.site
 0.0.0.0 tululudoc.online
 0.0.0.0 udamos.online
+0.0.0.0 usps.com-zkoptrqt.vip
 0.0.0.0 usps-helpsend-info.com
 0.0.0.0 vedldeno.store
 0.0.0.0 voouvdigit.site

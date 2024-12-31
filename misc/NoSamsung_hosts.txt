@@ -24,6 +24,7 @@
 0.0.0.0 consent.samsungrs.com
 0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 dc.dqa.samsung.com
+0.0.0.0 ddf.di.atlas.samsung.com
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 dir-apis.samsungdm.com
@@ -35,6 +36,7 @@
 0.0.0.0 eu-api.samsungpositioning.com
 0.0.0.0 eu-auth2.samsungosp.com
 0.0.0.0 eu-kaf.samsungknox.com
+0.0.0.0 gmp.samsungapps.com
 0.0.0.0 id-odc.samsungapps.com
 0.0.0.0 img.samsungapps.com
 0.0.0.0 lbs-samsung.swypeconnect.com

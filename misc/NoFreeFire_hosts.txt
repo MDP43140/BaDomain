@@ -50,6 +50,7 @@
 0.0.0.0 garenanow.com
 0.0.0.0 gcp.freefiremobile.com
 0.0.0.0 gin.freefiremobile.com
+0.0.0.0 grouptopup.ff.garena.co.id
 0.0.0.0 help.garena.co.id
 0.0.0.0 id.event.freefiremobile.com
 0.0.0.0 idevent.ggblueshark.com

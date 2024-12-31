@@ -406,6 +406,7 @@
 0.0.0.0 p46-caldav.icloud.com
 0.0.0.0 p46-escrowproxy.icloud.com
 0.0.0.0 p47-acsegateway.icloud.com
+0.0.0.0 p47-buy.itunes.apple.com
 0.0.0.0 p47-caldav.icloud.com
 0.0.0.0 p47-contacts.icloud.com
 0.0.0.0 p47-escrowproxy.icloud.com

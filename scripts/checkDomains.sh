@@ -23,7 +23,8 @@ INPUT_FILE="$1"
 LOG_NONE_FILE="resultNone.log"
 LOG_SERVFAIL_FILE="resultServFail.log"
 LOG_EXISTS_FILE="resultExists.log"
-DOMAIN_LISTS="google.com reddit.com example.com ThisDomainDoesntExistAtAll.dontreturnsomethingok adultpornographygamblingsexgaylgbtq.testcategory.com xijinpingputintiannamensquaremassacre.testcategory.com" # just for an example (standard,censored in Indonesia,example,not exist,DPI standard,DPI in China)
+# just for an example (standard,censored in Indonesia,example,not exist,DPI adult content,DPI gambling content,DPI in China/Russia)
+DOMAIN_LISTS="google.com reddit.com example.com ThisDomainDoesntExistAtAll.dontreturnsomethingok adultpornosexgaylgbtq.testcategory.com judijudolbigamblingacortbetwinmaxslotogelsabungayampokerhiggsuper.testcategory.com xijinpingputintiannamensquaremassacre.testcategory.com"
 
 ## Query domain lists, remove previous log, and stuff... ##
 echo "[i] Querying ${INPUT_FILE:-StandardInput} domain lists..."
@@ -55,7 +56,7 @@ for i in $DOMAIN_LISTS;do
 		echo -e "\r[!] No output for $i.\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))
-	elif grep -q 'restricted\|internetpositif\|trustpositif\|blockpage\|aduankonten\|116.206.10.31\|36.86.63.185' <<< "$result";then
+	elif grep -q 'restricted\|internetpositif\|trustpositif\|blockpage\|aduankonten\|blacklist\|116.206.10.31\|36.86.63.185\|202.3.218.137' <<< "$result";then
 		echo -e "\r[!] $i censored by government\e[0K"
 		echo $i >> "$LOG_SERVFAIL_FILE"
 		PROGRESS_FAILED=$((PROGRESS_FAILED+1))

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 05.12.2024
+# Version: 31.12.2024
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -712,6 +712,7 @@
 0.0.0.0 api-d.dutils.com
 0.0.0.0 api.deathwing.me
 0.0.0.0 api.decisionnowlive.com
+0.0.0.0 api.devicenative.com
 0.0.0.0 api-differences-android.easybrain.com
 0.0.0.0 api.dkyweipsds.com
 0.0.0.0 api.dollphoin.site
@@ -772,6 +773,7 @@
 0.0.0.0 api.joinbudapp.com
 0.0.0.0 api-js-log.trustarc.com
 0.0.0.0 api.kastking.top
+0.0.0.0 api.kickoffo.site
 0.0.0.0 api.kika-backend.com
 0.0.0.0 api-kinemaster.nexstreaming.com
 0.0.0.0 api.kuaishouzt.com
@@ -846,6 +848,7 @@
 0.0.0.0 api.red.wemesh.ca
 0.0.0.0 api.renren.com
 0.0.0.0 api.resso.app
+0.0.0.0 api.revenuads.com
 0.0.0.0 api.revenuecat.com
 0.0.0.0 api.rosecrab.com
 0.0.0.0 api.rudderlabs.com
@@ -954,6 +957,7 @@
 0.0.0.0 app.advertizer.com
 0.0.0.0 appadvice.com
 0.0.0.0 app-analytics-services-att.com
+0.0.0.0 app-analytics.trustwallet.com
 0.0.0.0 appannie.com
 0.0.0.0 app.apkliquid.com
 0.0.0.0 app.appsflyer.com
@@ -991,6 +995,7 @@
 0.0.0.0 app.link
 0.0.0.0 applink.jp
 0.0.0.0 applinzi.com
+0.0.0.0 app-log-lab.immomo.com
 0.0.0.0 app-manage-api-static.shalltry.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-mgr.noxgroup.com
@@ -1283,7 +1288,6 @@
 0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beagles.cookappsgames.com
 0.0.0.0 beamngdrive.net
-0.0.0.0 beast.cash
 0.0.0.0 beautyzone.cam
 0.0.0.0 beautyzone.com
 0.0.0.0 bebasindo.today
@@ -1488,12 +1492,12 @@
 0.0.0.0 catalog.saygames.io
 0.0.0.0 catalog.supercell.com
 0.0.0.0 catalogue.sgdn.io
-0.0.0.0 catbox.moe
 0.0.0.0 cbsi.com
 0.0.0.0 cbsipv4.shuzilm.cn
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cc.163.com
 0.0.0.0 cc507rr.video-delivery.net
+0.0.0.0 cc-api.hisavana.com
 0.0.0.0 cc.loginfra.com
 0.0.0.0 ccms.shopee.io
 0.0.0.0 c.cnzz.com
@@ -1572,7 +1576,6 @@
 0.0.0.0 cdn.avmws.com
 0.0.0.0 cdn.bc0a.com
 0.0.0.0 cdn.beacons.ai
-0.0.0.0 cdn.bharatearns.top
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.calibermind.com
 0.0.0.0 cdn.chillyroom.com
@@ -1594,6 +1597,7 @@
 0.0.0.0 cdn-eu.eufylife.com
 0.0.0.0 cdn.evgnet.com
 0.0.0.0 cdn.ezjojoy.com
+0.0.0.0 cdn.facemojikeyboard.com
 0.0.0.0 cdn.firstpromoter.com
 0.0.0.0 cdn.fluidplayer.com
 0.0.0.0 cdn-fm.shalltry.com
@@ -1831,6 +1835,7 @@
 0.0.0.0 cm.adskeeper.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 0.0.0.0 cmbchina.com
+0.0.0.0 cm.immomo.com
 0.0.0.0 cmp.inmobi.com
 0.0.0.0 cmp.osano.com
 0.0.0.0 cm.pos.baidu.com
@@ -2042,7 +2047,6 @@
 0.0.0.0 cryptauthdevicesync.googleapis.com
 0.0.0.0 cryptauthenrollment.googleapis.com
 0.0.0.0 cryptonewssite.com
-0.0.0.0 cryptozoo.co
 0.0.0.0 crystal-blocker.com
 0.0.0.0 cs14.livetex.ru
 0.0.0.0 cs491.wac.edgecastcdn.net
@@ -2534,6 +2538,7 @@
 0.0.0.0 events.nordeus.com
 0.0.0.0 events.roposo.com
 0.0.0.0 event.togothermany.com
+0.0.0.0 event-tracking.decryptplan.com
 0.0.0.0 event-tracking-project.log-global.aliyuncs.com
 0.0.0.0 everflowclient.io
 0.0.0.0 everinform.com
@@ -2633,7 +2638,6 @@
 0.0.0.0 filelions.online
 0.0.0.0 filemoon.sx
 0.0.0.0 filerep-replica.ff.avast.com
-0.0.0.0 files.catbox.moe
 0.0.0.0 files.elfsight.com
 0.0.0.0 files.osf.io
 0.0.0.0 files.smartsuppcdn.com
@@ -2729,7 +2733,6 @@
 0.0.0.0 ftp9ql.tdum.alibaba.com
 0.0.0.0 ftp.bestappsale.com
 0.0.0.0 ftp.ipchina163.com
-0.0.0.0 ftp.lysator.liu.se
 0.0.0.0 fullstory.com
 0.0.0.0 fumacrom.com
 0.0.0.0 funnel.orderonline.id
@@ -3083,6 +3086,7 @@
 0.0.0.0 hosupshunk.com
 0.0.0.0 hotbit.io
 0.0.0.0 hotjar.com
+0.0.0.0 hotoole.online
 0.0.0.0 hp.myway.com
 0.0.0.0 hrtechprivacy.com
 0.0.0.0 hr.tencent.com
@@ -3753,6 +3757,7 @@
 0.0.0.0 likee.video
 0.0.0.0 likeitlite.com
 0.0.0.0 like-it.video
+0.0.0.0 likelbs.ukyuh.tech
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 likes.services.livejournal.com
 0.0.0.0 like.video
@@ -3763,6 +3768,10 @@
 0.0.0.0 linkedin.com
 0.0.0.0 linkvertise.com
 0.0.0.0 linkvertize.com
+0.0.0.0 liogr8-gcdsdk.appsflyersdk.com
+0.0.0.0 liogr8-inapps.appsflyersdk.com
+0.0.0.0 liogr8-launches.appsflyersdk.com
+0.0.0.0 liogr8-register.appsflyersdk.com
 0.0.0.0 lirik.live
 0.0.0.0 lisa.supercell.com
 0.0.0.0 list-manage.com
@@ -3892,7 +3901,6 @@
 0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 macworld.go-vip.net
 0.0.0.0 mademoiselleosaki.com
-0.0.0.0 mafiacash.co
 0.0.0.0 magic.cmcm.com
 0.0.0.0 magneto.api.halodoc.com
 0.0.0.0 magnifier.sng.link
@@ -4093,6 +4101,7 @@
 0.0.0.0 mob.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobiappnews.appspot.com
+0.0.0.0 mobile-api.lepou.top
 0.0.0.0 mobile-ap.spotify.com
 0.0.0.0 mobileassets.gopaylater.findaya.co.id
 0.0.0.0 mobilecrush.king.com
@@ -4100,6 +4109,8 @@
 0.0.0.0 mobile-gw.spot.im
 0.0.0.0 mobileimg.useinsider.com
 0.0.0.0 mobile.launchdarkly.com
+0.0.0.0 mobile.likee.video
+0.0.0.0 mobile.likeevideo.ru
 0.0.0.0 mobile.like.video
 0.0.0.0 mobilemlaccelerationcompatibility.googleapis.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
@@ -4139,7 +4150,6 @@
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 mqtt.transsion-os.com
-0.0.0.0 mrbeastgiftscard.com
 0.0.0.0 ms4.applovin.com
 0.0.0.0 ms4.applvn.com
 0.0.0.0 ms.4sync.com
@@ -4195,7 +4205,6 @@
 0.0.0.0 mup.amp.mcafee.com
 0.0.0.0 mu.se
 0.0.0.0 musicradio.com
-0.0.0.0 muskusa.com
 0.0.0.0 muslim-pro-app.firebaseio.com
 0.0.0.0 muslimpro.com
 0.0.0.0 muslimpro.zendesk.com
@@ -4325,6 +4334,7 @@
 0.0.0.0 newsaggreg.shalltry.com
 0.0.0.0 news-api.fnyfeds.com
 0.0.0.0 news.baidu.com
+0.0.0.0 news-cdn.hotoole.online
 0.0.0.0 newscloud.or.kr
 0.0.0.0 new-sentry.gitlab.net
 0.0.0.0 newsfeed.miniclippt.com
@@ -4521,6 +4531,7 @@
 0.0.0.0 o4504136533147648.ingest.us.sentry.io
 0.0.0.0 o4504598522363904.ingest.sentry.io
 0.0.0.0 o4504695552606208.ingest.sentry.io
+0.0.0.0 o4507686279512064.ingest.us.sentry.io
 0.0.0.0 o468184.ingest.sentry.io
 0.0.0.0 o495157.ingest.sentry.io
 0.0.0.0 o519366.ingest.sentry.io
@@ -5456,6 +5467,7 @@
 0.0.0.0 scaleway.testdebit.info
 0.0.0.0 scarabresearch.com
 0.0.0.0 s.cdy.ai
+0.0.0.0 schedule-media.immomo.com
 0.0.0.0 schemas.casa
 0.0.0.0 sck.io
 0.0.0.0 scmplayer.net
@@ -5626,6 +5638,7 @@
 0.0.0.0 sg-o-dws.allsaints.tv
 0.0.0.0 s.goodappforyou.com
 0.0.0.0 sg-o-static1.allsaints.tv
+0.0.0.0 sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 sgp-appstore-global-quic-S6TN1Dt-0bee020b86358d85.elb.ap-southeast-1.amazonaws.com
 0.0.0.0 sgp-conf.dropz-k.com
 0.0.0.0 sgp.imo.im
@@ -5706,6 +5719,7 @@
 0.0.0.0 sky-quad.com
 0.0.0.0 skyquaddrone.com
 0.0.0.0 sla-intl.trustlook.com
+0.0.0.0 sla-media.immomo.com
 0.0.0.0 slant-api.com
 0.0.0.0 slashdotmedia.com
 0.0.0.0 slickstream.com
@@ -5862,6 +5876,7 @@
 0.0.0.0 static3.cbrimages.com
 0.0.0.0 static.4sync.com
 0.0.0.0 static-act.imoim.net
+0.0.0.0 static-act.likeevideo.ru
 0.0.0.0 static-act.like-video.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.ads-twitter.com
@@ -5928,6 +5943,7 @@
 0.0.0.0 static-web.imoim.net
 0.0.0.0 static-web.likee.com
 0.0.0.0 static-web.likeevideo.com
+0.0.0.0 static-web.likeevideo.ru
 0.0.0.0 static.wetvinfo.com
 0.0.0.0 staticworld.net
 0.0.0.0 static.wshareit.com
@@ -6434,6 +6450,8 @@
 0.0.0.0 ucweb.com
 0.0.0.0 udp-dispatch.ucweb.com
 0.0.0.0 ug-api.sv.shopee.co.id
+0.0.0.0 uhzgj5-cdn-settings.appsflyersdk.com
+0.0.0.0 uhzgj5-inapps.appsflyersdk.com
 0.0.0.0 uhzgj5-launches.appsflyersdk.com
 0.0.0.0 ui.ff.avast.com
 0.0.0.0 ujdstl-cdn-settings.appsflyersdk.com
@@ -6571,6 +6589,11 @@
 0.0.0.0 uwnxnw-gcdsdk.appsflyersdk.com
 0.0.0.0 uwnxnw-launches.appsflyersdk.com
 0.0.0.0 uwnxnw-register.appsflyersdk.com
+0.0.0.0 uym9cg-cdn-settings.appsflyersdk.com
+0.0.0.0 uym9cg-conversions.appsflyersdk.com
+0.0.0.0 uym9cg-gcdsdk.appsflyersdk.com
+0.0.0.0 uym9cg-inapps.appsflyersdk.com
+0.0.0.0 uym9cg-launches.appsflyersdk.com
 0.0.0.0 uzone.id
 0.0.0.0 v15-feed-ad.ap4r.com
 0.0.0.0 v16-audio.fizzo.org
@@ -6621,6 +6644,7 @@
 0.0.0.0 videohub.tv
 0.0.0.0 videokini.com
 0.0.0.0 video.kompas.com
+0.0.0.0 video.like.video
 0.0.0.0 videomin.ru
 0.0.0.0 videoplayerhub.com
 0.0.0.0 videoroll.net
@@ -7114,7 +7138,6 @@
 0.0.0.0 www.carcflma.de
 0.0.0.0 www.carx-online.com
 0.0.0.0 www.castle.io
-0.0.0.0 www.catbox.moe
 0.0.0.0 www.cdkeyoffer.com
 0.0.0.0 www.cdn925.com
 0.0.0.0 www.cdnmore.com

@@ -48,6 +48,7 @@ while IFS= read -r line;do
 		*.cdninstagram.com|\
 		*.facebookcareers.com|\
 		*.facebook.com|\
+		*.facebook.net|\
 		*.facebookmail.com|\
 		*.fbcdn.net|\
 		*.fb.com|\

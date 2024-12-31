@@ -1,6 +1,7 @@
 #
 # This list blocks access to any Bytedance owned domains & softwares
-# (including TikTok, CapCut, Pangle, Lemon8, etc...).
+# (including TikTok, CapCut, Pangle, Lemon8, etc...),
+# And (partially) Tokopedia (as much TikTok Shop related things as possible).
 #
 # I recommend using this with DanHorton's TikTok blocklist:
 # https://github.com/danhorton7/pihole-block-tiktok/blob/main/tiktok.txt
@@ -1220,6 +1221,7 @@
 0.0.0.0 gplog-va.byteoversea.com
 0.0.0.0 gpm-mon-va.bytegsdk.com
 0.0.0.0 gppg-sg.byteintl.com
+0.0.0.0 gpsdk-sg.bytegsdk.com
 0.0.0.0 grafana-boe.byted.org
 0.0.0.0 grelationship-sg.snssdk.com
 0.0.0.0 growingio.com
@@ -3364,6 +3366,7 @@
 0.0.0.0 sf16-webcast-useast1a.muscdn.com.edgesuite.net
 0.0.0.0 sf16-webcast-useast2a.muscdn.com
 0.0.0.0 sf16-webcast-useast2a.muscdn.com.edgesuite.net
+0.0.0.0 sf16-website-login.neutral.ttwstatic.com
 0.0.0.0 sf19-geckocdn.tiktokcdn.com
 0.0.0.0 sf19-music-sign.tiktokcdn.com
 0.0.0.0 sf19-scmcdn-sg.ibytedtos.com
@@ -3479,6 +3482,7 @@
 0.0.0.0 share-sg.snssdk.com
 0.0.0.0 share-test.musemuse.cn
 0.0.0.0 shell.bytedance.net
+0.0.0.0 shop-id.tokopedia.com
 0.0.0.0 shop.musical.ly
 0.0.0.0 shop.snssdk.com
 0.0.0.0 shop.tiktok.com
@@ -3589,6 +3593,7 @@
 0.0.0.0 tcs-maliva-lb-useast2a.byteoversea.net
 0.0.0.0 techblog.toutiao.com
 0.0.0.0 tech.bytedance.net
+0.0.0.0 teko31-normal-useast1a.tiktokv.com
 0.0.0.0 telecom.aweme-core-lb-hl.l.bytedns.net
 0.0.0.0 telecom.b.l.bytedns.net
 0.0.0.0 telecom.c.l.bytedns.net
@@ -4479,6 +4484,7 @@
 0.0.0.0 v.tiktokv.com
 0.0.0.0 vt.tiktok.com
 0.0.0.0 vt.tiktok.com.edgesuite.net
+0.0.0.0 vt.tokopedia.com
 0.0.0.0 vv1.ipstatp.com
 0.0.0.0 vv.ipstatp.com
 0.0.0.0 vv-t1.ipstatp.com
