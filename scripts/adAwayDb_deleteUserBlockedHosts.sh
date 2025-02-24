@@ -1,6 +1,6 @@
 #!/bin/env sh
 #
-# SPDX-FileCopyrightText: 2021-2024 MDP43140
+# SPDX-FileCopyrightText: 2021-2025 MDP43140
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
 su -c "PATH=\"$PATH\" sqlite3 \
