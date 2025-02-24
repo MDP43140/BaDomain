@@ -172,6 +172,8 @@ epoch-my.cdo.heytapmobile.com
 feedback-cn.heytapmobi.com
 feedback-gl.heytapmobi.com
 file-intl-push.heytapdl.com
+fourier-newds01-sg.allawnos.com
+fourier-newds02-sg.allawnos.com
 fourier-videoclip-eu.allawnos.com
 fourier-videoclip-in.allawnos.com
 fourier-videoclip-sg.allawnos.com

@@ -24,6 +24,8 @@ asia-exappupgrade.vivoglobal.com
 asia-exdmp.vivoglobal.com
 asia-exmagazineunlock-proxy.vivoglobal.com
 asia-expweb.vivo.com
+asia-exstatic-vivofs.vivo.com
+asia-exstatic.vivoglobal.com
 asia-exstsdk.vivoglobal.com
 asia-f-up.vivoglobal.com
 asia-gamecenter-vivofs.vivoglobal.com
@@ -52,6 +54,7 @@ asia-ro-up.vivoglobal.com
 asia-sms-api.vivoglobal.com
 asia-static-vp.vivoglobal.com
 asia-st-exappupgrade.vivoglobal.com
+asia-st-expc.vivo.com
 asia-stp.vivoglobal.com
 asia-st-romsp.vivoglobal.com
 asia-stsdk.vivoglobal.com
@@ -111,10 +114,12 @@ iqoo.com
 news-abroad.vivo.com
 pay.vivoglobal.com
 ro.up.vivoglobal.com
+shop.vivo.com
 st-exbrowser.vivoglobal.com
 sysupgrade.api.vivoglobal.com
 timesync.vivo.com.cn
 vbw.vivoglobal.com
+vcm-static.vivo.com
 vivo.com.cn
 vnotestatic.vivoglobal.com
 weatherapi.vivo.com

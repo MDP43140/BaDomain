@@ -26,11 +26,13 @@ cutele.shop
 dell-support.co.uk
 denetok.site
 deshvoc.store
+digicarepro.com
 djutech.online
 donashhack.online
 enisemol.click
 fasfad.site
 frodetraho.click
+geeksprosoftwareprints.org
 genlytec.us
 genodigit.store
 goponl.online
@@ -50,6 +52,7 @@ kurkumin.click
 marshall-th-official.com
 miskotec.store
 mrbeastgiftscard.com
+msmostsimple.online
 muskusa.com
 nemojmob.online
 nepochtec.shop
@@ -72,6 +75,7 @@ stelor.shop
 telehub.shop
 teslausd.net
 tollfree-help.number.com
+tricountybusinessmachines.com
 tuchtoch.shop
 tuchtok.site
 tuctec.site
@@ -84,15 +88,19 @@ voouvdigit.site
 www.antivirus-helpnumber.com
 www.appleindo.store
 www.bigsalemalaysia.asia
+www.digicarepro.com
+www.geeksprosoftwareprints.org
 www.gosupportnow.com # unconfirmed
 www.helponline123.com
 www.ibox-store.online
 www.infosec.rm-it.de
 www.marshall-th-official.com
+www.msmostsimple.online
 www.norton-uk.uk
 www.printer-helpnumber.com
 www.software-network-service.com
 www.tollfree-help.number.com
+www.tricountybusinessmachines.com
 www.usps-helpsend-info.com
 yukmob.store
 zizitok.shop

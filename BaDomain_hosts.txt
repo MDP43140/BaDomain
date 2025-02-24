@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 31.12.2024
+# Version: 24.02.2025
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -233,6 +233,7 @@
 0.0.0.0 9410194.fls.doubleclick.net
 0.0.0.0 94.110.204.35.bc.googleusercontent.com
 0.0.0.0 9933gg.com
+0.0.0.0 9a8d27bd-dnsotls-ds.metric.gstatic.com
 0.0.0.0 9apps.com
 0.0.0.0 9C8B0AE1.dr.youme.im
 0.0.0.0 9C8B0AE1.rtc.youme.im
@@ -252,6 +253,7 @@
 0.0.0.0 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 0.0.0.0 a.2d45b3cf2299d8ba038f45cb38aca4f2ecfbcb8d264ba28432ae5c51.com
 0.0.0.0 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
+0.0.0.0 a.2eb0d31b2536bb67875b2462382c545cd3648869c41358b76440ff13.com
 0.0.0.0 a.2fac37d3043958c40b070aa9e03761887235aae62f9a51e2caa649f9.com
 0.0.0.0 a2tnxf-cdn-settings.appsflyersdk.com
 0.0.0.0 a.3850274698301a9ed25f86e97b2ea9eee4cc8f893e6a78e42006f4fb.com
@@ -291,6 +293,7 @@
 0.0.0.0 abtest.tantanapp.com
 0.0.0.0 abtest.tmtreader.com
 0.0.0.0 abubadu.com
+0.0.0.0 a.c3fd8b192106f87b1b753a5cc8ecb81a66c2076071cf0bf9ae15564e.com
 0.0.0.0 ac.alipay.com
 0.0.0.0 access1.tpns.sgp.tencent.com
 0.0.0.0 access.line.me
@@ -438,6 +441,7 @@
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 adyoulike.com
 0.0.0.0 adz.wattpad.com
+0.0.0.0 a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com
 0.0.0.0 ae9b110-dnsotls-ds.metric.gstatic.com
 0.0.0.0 aeef1b033fe9c48ada6c559fb84854f1-86e0a8e50803f25c.elb.ap-northeast-2.amazonaws.com
 0.0.0.0 ae.iads.unity3d.com
@@ -717,6 +721,7 @@
 0.0.0.0 api.dkyweipsds.com
 0.0.0.0 api.dollphoin.site
 0.0.0.0 api.eagllwin.com
+0.0.0.0 api.edgeoffer.microsoft.com
 0.0.0.0 api.ematicsolutions.com
 0.0.0.0 api.enginemob.me
 0.0.0.0 api.enginemob.xyz
@@ -1324,6 +1329,8 @@
 0.0.0.0 billigrefinansiering.com
 0.0.0.0 bimages.gamescdn.top
 0.0.0.0 bimatri.gghype.com
+0.0.0.0 bingadsedgeextension-prod.azurewebsites.net
+0.0.0.0 bingadsedgeextension-prod.trafficmanager.net
 0.0.0.0 bi.yeshen.com
 0.0.0.0 bizconfig.palmplaystore.com
 0.0.0.0 bizibaratzea.eus
@@ -2213,6 +2220,7 @@
 0.0.0.0 device-sg.hypic.com
 0.0.0.0 devs-data.dutils.com
 0.0.0.0 dev.tapjoy.com
+0.0.0.0 dev.zopim.com
 0.0.0.0 dexeqbeb7giwr.cloudfront.net
 0.0.0.0 dfile.su
 0.0.0.0 df.infra.sz.shopee.co.id
@@ -2370,6 +2378,7 @@
 0.0.0.0 e10204.dsca.akamaiedge.net
 0.0.0.0 e10499.dsce9.akamaiedge.net
 0.0.0.0 e12919.dscd.akamaiedge.net
+0.0.0.0 e295d42c-dnsotls-ds.metric.gstatic.com
 0.0.0.0 e2c18.gcp.gvt2.com
 0.0.0.0 e2c35.gcp.gvt2.com
 0.0.0.0 e2cs04.gcp.gvt2.com
@@ -3201,6 +3210,7 @@
 0.0.0.0 id-ws-edge001.itoon.org
 0.0.0.0 id-ws-edge002.itoon.org
 0.0.0.0 id-xl.rcs.telephony.goog
+0.0.0.0 id.zopim.com
 0.0.0.0 ieee.org
 0.0.0.0 ie.sogou.com
 0.0.0.0 i.establishedtitles.com
@@ -4089,6 +4099,7 @@
 0.0.0.0 ml-sessions-v3-dot-events-dot-o7apps.appspot.com
 0.0.0.0 ml-sessions-v3.events.o7apps.appspot.com
 0.0.0.0 mman.kr
+0.0.0.0 mmd-aoc2.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 mmfiles.amp.mcafee.com
 0.0.0.0 mml1.melia.com
 0.0.0.0 mmmediainc-trebel.adsbynimbus.com
@@ -4510,40 +4521,108 @@
 0.0.0.0 nxtck.com
 0.0.0.0 Ny6TWF-dnsotls-ds.metric.gstatic.com
 0.0.0.0 n.zing.vn
+0.0.0.0 o1069899.ingest.de.sentry.io
 0.0.0.0 o1069899.ingest.sentry.io
+0.0.0.0 o1069899.ingest.us.sentry.io
+0.0.0.0 o108552.ingest.de.sentry.io
 0.0.0.0 o108552.ingest.sentry.io
+0.0.0.0 o108552.ingest.us.sentry.io
+0.0.0.0 o1160911.ingest.de.sentry.io
 0.0.0.0 o1160911.ingest.sentry.io
+0.0.0.0 o1160911.ingest.us.sentry.io
+0.0.0.0 o13824.ingest.de.sentry.io
 0.0.0.0 o13824.ingest.sentry.io
+0.0.0.0 o13824.ingest.us.sentry.io
+0.0.0.0 o13855.ingest.de.sentry.io
 0.0.0.0 o13855.ingest.sentry.io
+0.0.0.0 o13855.ingest.us.sentry.io
+0.0.0.0 o155150.ingest.de.sentry.io
 0.0.0.0 o155150.ingest.sentry.io
+0.0.0.0 o155150.ingest.us.sentry.io
+0.0.0.0 o17124.ingest.de.sentry.io
 0.0.0.0 o17124.ingest.sentry.io
+0.0.0.0 o17124.ingest.us.sentry.io
+0.0.0.0 o209266.ingest.de.sentry.io
 0.0.0.0 o209266.ingest.sentry.io
 0.0.0.0 o209266.ingest.us.sentry.io
+0.0.0.0 o24257.ingest.de.sentry.io
 0.0.0.0 o24257.ingest.sentry.io
+0.0.0.0 o24257.ingest.us.sentry.io
+0.0.0.0 o284490.ingest.de.sentry.io
 0.0.0.0 o284490.ingest.sentry.io
+0.0.0.0 o284490.ingest.us.sentry.io
+0.0.0.0 o315582.ingest.de.sentry.io
 0.0.0.0 o315582.ingest.sentry.io
+0.0.0.0 o315582.ingest.us.sentry.io
+0.0.0.0 o33249.ingest.de.sentry.io
 0.0.0.0 o33249.ingest.sentry.io
+0.0.0.0 o33249.ingest.us.sentry.io
+0.0.0.0 o370407.ingest.de.sentry.io
 0.0.0.0 o370407.ingest.sentry.io
+0.0.0.0 o370407.ingest.us.sentry.io
+0.0.0.0 o393859.ingest.de.sentry.io
 0.0.0.0 o393859.ingest.sentry.io
+0.0.0.0 o393859.ingest.us.sentry.io
+0.0.0.0 o425163.ingest.de.sentry.io
 0.0.0.0 o425163.ingest.sentry.io
+0.0.0.0 o425163.ingest.us.sentry.io
+0.0.0.0 o43841.ingest.de.sentry.io
 0.0.0.0 o43841.ingest.sentry.io
+0.0.0.0 o43841.ingest.us.sentry.io
+0.0.0.0 o446669.ingest.de.sentry.io
 0.0.0.0 o446669.ingest.sentry.io
+0.0.0.0 o446669.ingest.us.sentry.io
+0.0.0.0 o4504136533147648.ingest.de.sentry.io
+0.0.0.0 o4504136533147648.ingest.sentry.io
 0.0.0.0 o4504136533147648.ingest.us.sentry.io
+0.0.0.0 o4504598522363904.ingest.de.sentry.io
 0.0.0.0 o4504598522363904.ingest.sentry.io
+0.0.0.0 o4504598522363904.ingest.us.sentry.io
+0.0.0.0 o4504695552606208.ingest.de.sentry.io
 0.0.0.0 o4504695552606208.ingest.sentry.io
+0.0.0.0 o4504695552606208.ingest.us.sentry.io
+0.0.0.0 o4507686279512064.ingest.de.sentry.io
+0.0.0.0 o4507686279512064.ingest.sentry.io
 0.0.0.0 o4507686279512064.ingest.us.sentry.io
+0.0.0.0 o4508376470126592.ingest.de.sentry.io
+0.0.0.0 o4508376470126592.ingest.sentry.io
+0.0.0.0 o4508376470126592.ingest.us.sentry.io
+0.0.0.0 o468184.ingest.de.sentry.io
 0.0.0.0 o468184.ingest.sentry.io
+0.0.0.0 o468184.ingest.us.sentry.io
+0.0.0.0 o495157.ingest.de.sentry.io
 0.0.0.0 o495157.ingest.sentry.io
+0.0.0.0 o495157.ingest.us.sentry.io
+0.0.0.0 o519366.ingest.de.sentry.io
 0.0.0.0 o519366.ingest.sentry.io
+0.0.0.0 o519366.ingest.us.sentry.io
+0.0.0.0 o55978.ingest.de.sentry.io
 0.0.0.0 o55978.ingest.sentry.io
+0.0.0.0 o55978.ingest.us.sentry.io
+0.0.0.0 o58477.ingest.de.sentry.io
 0.0.0.0 o58477.ingest.sentry.io
+0.0.0.0 o58477.ingest.us.sentry.io
+0.0.0.0 o64315.ingest.de.sentry.io
 0.0.0.0 o64315.ingest.sentry.io
+0.0.0.0 o64315.ingest.us.sentry.io
+0.0.0.0 o64374.ingest.de.sentry.io
 0.0.0.0 o64374.ingest.sentry.io
+0.0.0.0 o64374.ingest.us.sentry.io
+0.0.0.0 o915751.ingest.de.sentry.io
 0.0.0.0 o915751.ingest.sentry.io
+0.0.0.0 o915751.ingest.us.sentry.io
+0.0.0.0 o937343.ingest.de.sentry.io
 0.0.0.0 o937343.ingest.sentry.io
+0.0.0.0 o937343.ingest.us.sentry.io
+0.0.0.0 o968153.ingest.de.sentry.io
 0.0.0.0 o968153.ingest.sentry.io
+0.0.0.0 o968153.ingest.us.sentry.io
+0.0.0.0 o984659.ingest.de.sentry.io
 0.0.0.0 o984659.ingest.sentry.io
+0.0.0.0 o984659.ingest.us.sentry.io
+0.0.0.0 o993586.ingest.de.sentry.io
 0.0.0.0 o993586.ingest.sentry.io
+0.0.0.0 o993586.ingest.us.sentry.io
 0.0.0.0 o-adq.mediation.unity3d.com
 0.0.0.0 o.alicdn.com
 0.0.0.0 oauth2.opera-api.com
@@ -4646,6 +4725,7 @@
 0.0.0.0 opps-api.getwarmly.com
 0.0.0.0 opps-widget.getwarmly.com
 0.0.0.0 opr.adx.opera.com
+0.0.0.0 ops.gx.nvidia.com
 0.0.0.0 opswat.info
 0.0.0.0 optad360.io
 0.0.0.0 opta.net
@@ -5011,6 +5091,7 @@
 0.0.0.0 pro-a-seracc-cdn.im-gb.com
 0.0.0.0 pro-a-user-avatar-cdn.im-gb.com
 0.0.0.0 probe.twitter.com
+0.0.0.0 prod-5c1.rewardsplatform.microsoft.com
 0.0.0.0 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 0.0.0.0 prod.cloud.rockstargames.com
 0.0.0.0 prod.detectportal.prod.cloudops.mozgcp.net
@@ -5021,6 +5102,7 @@
 0.0.0.0 prod-mag-api.vidfree.net
 0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 prod-ms4.applovin.com
+0.0.0.0 prod.rewardsplatform.microsoft.com
 0.0.0.0 prod-socket.survivorio.com
 0.0.0.0 product.instiengage.com
 0.0.0.0 production.kolbapps.com
@@ -5284,6 +5366,7 @@
 0.0.0.0 revolvermaps.com
 0.0.0.0 rewards-cards.org
 0.0.0.0 rewardsgiantca.com
+0.0.0.0 rewardsprod.trafficmanager.net
 0.0.0.0 rgepodownload.mediatek.com
 0.0.0.0 rgeredrubygs.info
 0.0.0.0 richapp1.com
@@ -5829,6 +5912,7 @@
 0.0.0.0 srvsynd.com
 0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 ss.getecoplus.com
+0.0.0.0 ssl.bingadsedgeextension-prod.azurewebsites.net
 0.0.0.0 ss.litatom.com
 0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.p.jwpcdn.com

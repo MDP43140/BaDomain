@@ -148,6 +148,7 @@ while IFS= read -r line;do
 		*.bytegsdk.com|\
 		*.byteicdn.com|\
 		*.byteimg.com|\
+		*.byteintl.com|\
 		*.byteintlapi.com|\
 		*.byteoversea.com|\
 		*.byteoversea.com.edgekey.net|\
@@ -191,6 +192,8 @@ while IFS= read -r line;do
 		*.tiktok.com.edgesuite.net|\
 		*.tiktok-shops.com|\
 		*.tiktok-row.org|\
+		*.tiktokrow-cdn.com|\
+		*.tiktokeu-cdn.com|\
 		*.tiktokv.com|\
 		*.tiktokv.com.edgekey.net|\
 		*.tiktokv.com.edgesuite.net|\
@@ -199,7 +202,8 @@ while IFS= read -r line;do
 		*.toutiao.com|\
 		*.ttdns2.com|\
 		*.ttlivecdn.com|\
-		*.ttwstatic.com)
+		*.ttwstatic.com|\
+		*.trae.ai)
 			# Yup no joke, bytedance (just like other chinese services)
 			# literally just bought 70 domains, no one does this
 			# with Apple + Facebook + Roblox + Samsung (12 + 15 + 3 + 17 = 47, all of them are not china btw)

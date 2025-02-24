@@ -59,6 +59,7 @@
 0.0.0.0 abc.facebook.com
 0.0.0.0 about.facebook.com
 0.0.0.0 about.instagram.com
+0.0.0.0 accountscenter.facebook.com
 0.0.0.0 act.channel.facebook.com
 0.0.0.0 actcorp.m.facebook.com
 0.0.0.0 act.facebook.com
@@ -3916,6 +3917,7 @@
 0.0.0.0 instagram.fisb6-2.fna.fbcdn.net
 0.0.0.0 instagram.fisb7-1.fna.fbcdn.net
 0.0.0.0 instagram.fisb9-1.fna.fbcdn.net
+0.0.0.0 instagram.fixm4-4.fna.fbcdn.net
 0.0.0.0 instagram.fjau1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjau2-1.fna.fbcdn.net
 0.0.0.0 instagram.fjau3-1.fna.fbcdn.net
@@ -4081,6 +4083,7 @@
 0.0.0.0 instagram.flim7-1.fna.fbcdn.net
 0.0.0.0 instagram.flim8-1.fna.fbcdn.net
 0.0.0.0 instagram.flim9-1.fna.fbcdn.net
+0.0.0.0 instagram.flio1-1.fna.fbcdn.net
 0.0.0.0 instagram.flis10-1.fna.fbcdn.net
 0.0.0.0 instagram.flis11-1.fna.fbcdn.net
 0.0.0.0 instagram.flis11-2.fna.fbcdn.net
@@ -4359,6 +4362,7 @@
 0.0.0.0 instagram.fpac1-4.fna.fbcdn.net
 0.0.0.0 instagram.fpac2-2.fna.fbcdn.net
 0.0.0.0 instagram.fpac4-1.fna.fbcdn.net
+0.0.0.0 instagram.fpat3-3.fna.fbcdn.net
 0.0.0.0 instagram.fpbc1-1.fna.fbcdn.net
 0.0.0.0 instagram.fpbc1-2.fna.fbcdn.net
 0.0.0.0 instagram.fpbc2-1.fna.fbcdn.net
@@ -4667,6 +4671,7 @@
 0.0.0.0 instagram.ftbs8-1.fna.fbcdn.net
 0.0.0.0 instagram.ftbs9-1.fna.fbcdn.net
 0.0.0.0 instagram.ftbs9-2.fna.fbcdn.net
+0.0.0.0 instagram.ftij1-3.fna.fbcdn.net
 0.0.0.0 instagram.ftkg1-1.fna.fbcdn.net
 0.0.0.0 instagram.ftkg2-1.fna.fbcdn.net
 0.0.0.0 instagram.ftkg3-1.fna.fbcdn.net
@@ -7888,8 +7893,10 @@
 0.0.0.0 sonar.fcgk40-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk41-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk4-2.fna.fbcdn.net
+0.0.0.0 sonar.fcgk4-2.fna.whatsapp.net
 0.0.0.0 sonar.fcgk4-3.fna.fbcdn.net
 0.0.0.0 sonar.fcgk4-4.fna.fbcdn.net
+0.0.0.0 sonar.fcgk4-4.fna.whatsapp.net
 0.0.0.0 sonar.fcgk4-5.fna.fbcdn.net
 0.0.0.0 sonar.fcgk4-6.fna.fbcdn.net
 0.0.0.0 sonar.fcgk6-2.fna.fbcdn.net
@@ -7980,6 +7987,7 @@
 0.0.0.0 sonar-sea.cdn.whatsapp.net
 0.0.0.0 sonar-sea.xx.fbcdn.net
 0.0.0.0 sonar-sin11-1.xx.fbcdn.net
+0.0.0.0 sonar-sin2-2.xx.fbcdn.net
 0.0.0.0 sonar-sin6-1.xx.fbcdn.net
 0.0.0.0 sonar-sin6-2.xx.fbcdn.net
 0.0.0.0 sonar-sin6-3.xx.fbcdn.net

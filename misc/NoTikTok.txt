@@ -1,6 +1,6 @@
 #
 # This list blocks access to any Bytedance owned domains & softwares
-# (including TikTok, CapCut, Pangle, Lemon8, etc...),
+# (including TikTok, CapCut, Pangle, Lemon8, Trae, etc...),
 # And (partially) Tokopedia (as much TikTok Shop related things as possible).
 #
 # I recommend using this with DanHorton's TikTok blocklist:
@@ -522,6 +522,7 @@ api.tiktokv.com
 api.tiktokv.com.edgekey.net
 api.toutiao50.com
 api.toutiao50.com.edgesuite.net
+api.trae.ai
 api-t.tiktok.com
 api-t.tiktokv.com
 api-t.tiktokv.com.edgekey.net
@@ -928,6 +929,7 @@ docs-crc-frontier.snssdk.com
 docs-frontier-hl.snssdk.com
 docs-frontier-sg.byteoversea.com
 docs-frontier.snssdk.com
+docs.trae.ai
 doc.toutiao.com
 doh.byteoversea.com
 dolphin.bytedance.net
@@ -1691,6 +1693,7 @@ lf9-effectcdn-tos.pstatp.com.bsgslb.com
 lf9-geckocdn.tiktokcdn.com
 lf9-geckocdn-tos.pstatp.com.bsgslb.com
 lf9-tk-tos.tiktokcdn.com
+lf-cdn.trae.ai
 lf-c-flwb.bytetos.com
 lf-cold.snssdk.com
 lf-c.snssdk.com
@@ -2727,6 +2730,7 @@ pull-f5-sg01.fcdn.us.tiktokv.com
 pull-f5-sg01.tiktokcdn.com
 pull-f5-sg01.tiktokcdn-eu.com
 pull-f5-sg01.tiktokcdn-us.com
+pull-f5-sg01.tiktokrow-cdn.com
 pull-f5-sg01.ttlivecdn.com
 pull-f5.tiktokcdn.com
 pull-f5.tiktokcdn.com.c.bytetcdn.com
@@ -2809,20 +2813,25 @@ pull-flv-f77-tt02-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
 pull-flv-f77-tt03.fcdn.us.tiktokcdn.com
 pull-flv-f77-tt03.tiktokcdn.com
+pull-flv-f77-tt03.tiktokeu-cdn.com
 pull-flv-f77-tt04.tiktokcdn.com
 pull-flv-f77-tt04.tiktokcdn-eu.com
+pull-flv-f77-tt04.tiktokeu-cdn.com
 pull-flv-f77-va01.fcdn.eu.tiktokcdn.com
 pull-flv-f77-va01.tiktokcdn.com
 pull-flv-f77-va01.tiktokcdn-eu.com
 pull-flv-l10-gcp01.tiktokcdn.com
 pull-flv-l10-sg01.tiktokcdn.com
 pull-flv-l10-va01.tiktokcdn.com
+pull-flv-l10-va01.tiktokrow-cdn.com
 pull-flv-l11-gcp01.tiktokcdn.com
 pull-flv-l11-gcp01.ttlivecdn.com
 pull-flv-l11-sg01.tiktokcdn.com
+pull-flv-l11-sg01.tiktokrow-cdn.com
 pull-flv-l11-sg01.ttlivecdn.com
 pull-flv-l11.tiktokcdn.com
 pull-flv-l11-va01.tiktokcdn.com
+pull-flv-l11-va01.tiktokrow-cdn.com
 pull-flv-l11-va01.ttlivecdn.com
 pull-flv-l16-gcp01.tiktokcdn.com
 pull-flv-l16-sg01.tiktokcdn.com
@@ -2840,6 +2849,7 @@ pull-flv-l1-sg01.ttlivecdn.com
 pull-flv-l1.tiktokcdn.com
 pull-flv-l1.tiktokcdn.com.wsdvs.com
 pull-flv-l1-va01.tiktokcdn.com
+pull-flv-l1-va01.tiktokrow-cdn.com
 pull-flv-l1-va01.ttlivecdn.com
 pull-flv-l1-xg.bytecdn.cn
 pull-flv-l6-act.pstatp.com
@@ -2966,6 +2976,7 @@ pull-o5-sg01.tiktokcdn-us.com
 pull-o5-va01.fcdn.eu.tiktokcdn.com
 pull-o5-va01.tiktokcdn.com
 pull-o5-va01.tiktokcdn-us.com
+pull-o5-va01.tiktokrow-cdn.com
 pull-q5-gcp01.tiktokcdn.com
 pull-q5-sg01.fcdn.eu.tiktokcdn.com
 pull-q5-sg01.tiktokcdn.com
@@ -2976,6 +2987,7 @@ pull-q5.tiktokcdn.com.c.worldfcdn.com
 pull-q5-va01.fcdn.eu.tiktokcdn.com
 pull-q5-va01.tiktokcdn.com
 pull-q5-va01.tiktokcdn-us.com
+pull-q5-va01.tiktokrow-cdn.com
 pull-q5-va01.ttlivecdn.com
 pull-rtmp-f11-ab.tiktokcdn.com
 pull-rtmp-f11-gcp01.tiktokcdn.com
@@ -3025,6 +3037,7 @@ pull-w5-gcp01.tiktokcdn.com
 pull-w5-sg01.fcdn.eu.tiktokcdn.com
 pull-w5-sg01.tiktokcdn.com
 pull-w5-sg01.tiktokcdn-us.com
+pull-w5-sg01.tiktokrow-cdn.com
 pull-w5-sg01.ttlivecdn.com
 pull-w5.tiktokcdn.com
 pull-w5.tiktokcdn.com.c.worldfcdn.com
@@ -3060,6 +3073,7 @@ push-rtmp-f5-vr-va01.tiktokcdn.com
 push-rtmp-f5-xg.bytecdn.cn
 push-rtmp-l10-gcp01.tiktokcdn.com
 push-rtmp-l10-sg01.tiktokcdn.com
+push-rtmp-l10-sg01.tiktokrow-cdn.com
 push-rtmp-l10-va01.tiktokcdn.com
 push-rtmp-l11-gcp01.tiktokcdn.com
 push-rtmp-l11-gcp01.ttlivecdn.com
@@ -3078,6 +3092,7 @@ push-rtmp-l1-hs.pstatp.com
 push-rtmp-l1.hypstarcdn.com
 push-rtmp-l1-mus.pstatp.com
 push-rtmp-l1-sg01.tiktokcdn.com
+push-rtmp-l1-sg01.tiktokrow-cdn.com
 push-rtmp-l1-sg01.ttlivecdn.com
 push-rtmp-l1.tiktokcdn.com
 push-rtmp-l1.tiktokcdn.com.wsdvs.com
@@ -3453,6 +3468,7 @@ sf9-webcast-dycdn.byteimg.com
 sf9-webcast-dycdn.byteimg.com.bsgslb.com
 sf9-webcast-ttcdn.byteimg.com
 sf9-webcast-xgcdn.byteimg.com
+sf-arcosite.ibytedtos.com
 sf-hs-sg.ibytedtos.com
 sf-hs-sg.ibytedtos.com.edgekey.net
 sf-ssp.tiktokcdn.com
@@ -4393,6 +4409,7 @@ vcs-sg.byteoversea.com.edgekey.net
 vcs-sg.tiktokv.com
 vcs-sg.tiktokv.com.edgekey.net
 vcs.snssdk.com
+vcs-s-sg.byteintl.com
 vcs-va.byteoversea.com
 vcs-va.tiktokv.com
 vc-tantan.snssdk.com
@@ -4719,6 +4736,7 @@ www.tiktokv.com
 www.tiktokv.com.edgesuite.net
 www.toutiao.com
 www.toutiao.com.bytedns.net
+www.trae.ai
 www.worldfcdn.com
 www.wshifen.com
 www.xzcs3zlph.com

@@ -24,6 +24,8 @@
 0.0.0.0 asia-exdmp.vivoglobal.com
 0.0.0.0 asia-exmagazineunlock-proxy.vivoglobal.com
 0.0.0.0 asia-expweb.vivo.com
+0.0.0.0 asia-exstatic-vivofs.vivo.com
+0.0.0.0 asia-exstatic.vivoglobal.com
 0.0.0.0 asia-exstsdk.vivoglobal.com
 0.0.0.0 asia-f-up.vivoglobal.com
 0.0.0.0 asia-gamecenter-vivofs.vivoglobal.com
@@ -52,6 +54,7 @@
 0.0.0.0 asia-sms-api.vivoglobal.com
 0.0.0.0 asia-static-vp.vivoglobal.com
 0.0.0.0 asia-st-exappupgrade.vivoglobal.com
+0.0.0.0 asia-st-expc.vivo.com
 0.0.0.0 asia-stp.vivoglobal.com
 0.0.0.0 asia-st-romsp.vivoglobal.com
 0.0.0.0 asia-stsdk.vivoglobal.com
@@ -111,10 +114,12 @@
 0.0.0.0 news-abroad.vivo.com
 0.0.0.0 pay.vivoglobal.com
 0.0.0.0 ro.up.vivoglobal.com
+0.0.0.0 shop.vivo.com
 0.0.0.0 st-exbrowser.vivoglobal.com
 0.0.0.0 sysupgrade.api.vivoglobal.com
 0.0.0.0 timesync.vivo.com.cn
 0.0.0.0 vbw.vivoglobal.com
+0.0.0.0 vcm-static.vivo.com
 0.0.0.0 vivo.com.cn
 0.0.0.0 vnotestatic.vivoglobal.com
 0.0.0.0 weatherapi.vivo.com

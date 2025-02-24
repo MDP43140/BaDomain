@@ -172,6 +172,8 @@
 0.0.0.0 feedback-cn.heytapmobi.com
 0.0.0.0 feedback-gl.heytapmobi.com
 0.0.0.0 file-intl-push.heytapdl.com
+0.0.0.0 fourier-newds01-sg.allawnos.com
+0.0.0.0 fourier-newds02-sg.allawnos.com
 0.0.0.0 fourier-videoclip-eu.allawnos.com
 0.0.0.0 fourier-videoclip-in.allawnos.com
 0.0.0.0 fourier-videoclip-sg.allawnos.com
