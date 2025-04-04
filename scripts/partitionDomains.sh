@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# shellcheck disable=SC2166
 #
 # SPDX-FileCopyrightText: 2021-2025 MDP43140
 # SPDX-License-Identifier: GPL-3.0-or-later
@@ -11,13 +12,13 @@
 [ -r "$1" -a -r "$1" ] || {
 	echo "File A/B doesnt exist or cant be read!"
 }
-text1=$(sort -ui $1 | sed '/^#/d') # eg. brave.com a.ads.co youtube.com b.ads.co
-text1=$(sort -ui $2 | sed '/^#/d') # eg. ads.co
+text1=$(sort -ui "$1" | sed '/^#/d') # eg. brave.com a.ads.co youtube.com b.ads.co
+text1=$(sort -ui "$2" | sed '/^#/d') # eg. ads.co
 tmp1=$(mktemp)
 tmp2=$(mktemp)
-echo "${txt1}" | while IFS= read -r;do
+echo "${text1}" | while IFS= read -r;do
 	# TODO: should match by end word (eg. sub.adserver.com matches adserver.com)
-	if grep -qE "${txt1}$" <<< "${REPLY}";then
+	if grep -qE "${text1}$" <<< "${REPLY}";then
 		echo "$REPLY" >> "$tmp1"
 	else
 		echo "$REPLY" >> "$tmp2"

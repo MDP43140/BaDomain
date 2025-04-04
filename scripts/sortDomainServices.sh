@@ -11,20 +11,20 @@
 #
 service_output_folder="../misc"
 # clear all temp files
-> ${service_output_folder}/aa2.tmp
-> ${service_output_folder}/NoApple.tmp
-> ${service_output_folder}/NoChinaOverseaSpy.tmp
-> ${service_output_folder}/NoFB.tmp
-> ${service_output_folder}/NoFreeFire.tmp
-> ${service_output_folder}/NoGambling.tmp
-> ${service_output_folder}/NoMLBB.tmp
-> ${service_output_folder}/NoNSFW.tmp
-> ${service_output_folder}/NoOppoHT.tmp
-> ${service_output_folder}/NoRoblox.tmp
-> ${service_output_folder}/NoSamsung.tmp
-> ${service_output_folder}/NoTikTok.tmp
-> ${service_output_folder}/NoVivo.tmp
-> ${service_output_folder}/NoXiaomi.tmp
+true > ${service_output_folder}/aa2.tmp
+true > ${service_output_folder}/NoApple.tmp
+true > ${service_output_folder}/NoChinaOverseaSpy.tmp
+true > ${service_output_folder}/NoFB.tmp
+true > ${service_output_folder}/NoFreeFire.tmp
+true > ${service_output_folder}/NoGambling.tmp
+true > ${service_output_folder}/NoMLBB.tmp
+true > ${service_output_folder}/NoNSFW.tmp
+true > ${service_output_folder}/NoOppoHT.tmp
+true > ${service_output_folder}/NoRoblox.tmp
+true > ${service_output_folder}/NoSamsung.tmp
+true > ${service_output_folder}/NoTikTok.tmp
+true > ${service_output_folder}/NoVivo.tmp
+true > ${service_output_folder}/NoXiaomi.tmp
 # main sorting code
 while IFS= read -r line;do
 	case "$line" in
@@ -261,7 +261,6 @@ while IFS= read -r line;do
 		*crot*|\
 		*genit*|\
 		*girl*|\
-		*hot*girl*|\
 		*hot*love|\
 		*hot*teen*|\
 		*hot*woman*|\

@@ -10,7 +10,7 @@
 echo "File	Added	Removed"
 for file in $(git diff --name-only);do
 	file_diff=$(git diff --minimal --color=never "../$file")
-	added=$(echo "$file_diff" | grep '^+' | grep -v '^+++ ' | wc -l)
-	removed=$(echo "$file_diff" | grep '^-' | grep -v '^--- ' | wc -l)
+	added=$(echo "$file_diff" | grep '^+' | grep -cv '^+++ ')
+	removed=$(echo "$file_diff" | grep '^-' | grep -cv '^--- ')
 	echo "$file	$added	$removed"
 done

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# shellcheck disable=SC2068
 #
 #  SPDX-FileCopyrightText: 2021-2025 MDP43140
 #  SPDX-License-Identifier: GPL-3.0-or-later
@@ -53,6 +54,6 @@ AF_ID=(
 
 for id in ${AF_ID[@]};do
 	for sub in ${AF_KNOWN_SUBDOMAIN[@]};do
-		echo $id-$sub.appsflyersdk.com # output example: msbipz-conversions.appsflyersdk.com
+		echo "${id}-${sub}.appsflyersdk.com" # output example: msbipz-conversions.appsflyersdk.com
 	done
 done

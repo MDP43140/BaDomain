@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# shellcheck disable=SC2068
 #
 # SPDX-FileCopyrightText: 2021-2025 MDP43140
 # SPDX-License-Identifier: GPL-3.0-or-later

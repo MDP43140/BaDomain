@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# shellcheck disable=SC2128,SC2178
 #
 #  SPDX-FileCopyrightText: 2021-2025 MDP43140
 #  SPDX-License-Identifier: GPL-3.0-or-later
@@ -102,14 +103,14 @@ SFB_MAINDOMAIN=(
 
 ## Main script ##
 gen(){
-	# this will generate "1 2 ... 43 44"
-	SFB_BRUTEFORCERANGE_1=`echo {1..44}`
-	SFB_BRUTEFORCERANGE_2=`echo {1..10}` # highest peak found 27-7 & 1-10
+	# this will generate "1 2 ... 48 49"
+	SFB_BRUTEFORCERANGE_1=$(echo {1..49})
+	SFB_BRUTEFORCERANGE_2=$(echo {1..10}) # highest peak found 27-7 & 1-10
 
 	# Join array to string divided by spaces
-	SFB_TYPES="${SFB_TYPES[@]}"
-	SFB_REGIONCODE="${SFB_REGIONCODE[@]}"
-	SFB_MAINDOMAIN="${SFB_MAINDOMAIN[@]}"
+	SFB_TYPES="${SFB_TYPES[*]}"
+	SFB_REGIONCODE="${SFB_REGIONCODE[*]}"
+	SFB_MAINDOMAIN="${SFB_MAINDOMAIN[*]}"
 
 	for type in $SFB_TYPES;do
 		for region in $SFB_REGIONCODE;do

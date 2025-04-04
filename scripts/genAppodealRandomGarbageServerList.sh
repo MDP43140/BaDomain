@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# shellcheck disable=SC2068
 #
 #  SPDX-FileCopyrightText: 2021-2025 MDP43140
 #  SPDX-License-Identifier: GPL-3.0-or-later
@@ -95,6 +96,6 @@ APD_KNOWN_DOMAIN=(
 
 for sub in ${APD_KNOWN_SUBDOMAIN[@]};do
 	for domain in ${APD_KNOWN_DOMAIN[@]};do
-		echo $sub.$domain.com # output example: a.479e{..}aa14.com
+		echo "${sub}.${domain}.com" # output example: a.479e{..}aa14.com
 	done
 done

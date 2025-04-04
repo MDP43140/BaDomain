@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# shellcheck disable=SC2048,SC2086
 #
 # SPDX-FileCopyrightText: 2021-2025 MDP43140
 # SPDX-License-Identifier: GPL-3.0-or-later
@@ -7,6 +8,6 @@
 # Usage: $0 [files]"
 #        tcpdump | $0"
 #
-grep -oE 'A\? (.+)\. ' $@ \
+grep -oE 'A\? (.+)\. ' $* \
  | sed -E 's/^A\? //;s/\. $//' \
  | sort -ui;

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# shellcheck disable=SC2048,SC2128,SC2178
 #
 # SPDX-FileCopyrightText: 2021-2025 MDP43140
 # SPDX-License-Identifier: GPL-3.0-or-later
@@ -6,7 +7,7 @@
 clear
 [ "$1" ] || (echo -e "Arguments required. no argument was given.\ntry -h to show help page.";exit 1);
 VERSION=$(date +%d.%m.%Y)
-UPDATE_FREQ="7 days" # unused
+#UPDATE_FREQ="7 days" # unused
 HOSTSFILE_TYPES=(
 	"BaDomain"
 	"misc/NoApple"
@@ -25,9 +26,9 @@ HOSTSFILE_TYPES=(
 	"misc/NoVivo"
 	"misc/NoXiaomi"
 )
-HOSTSFILE_TYPES="${HOSTSFILE_TYPES[@]}"
-for i in "$@";do
-	case "${i,,}" in
+HOSTSFILE_TYPES="${HOSTSFILE_TYPES[*]}"
+for a in $*;do
+	case "${a,,}" in
 		-h|--help|h)
 			echo
 			echo " HostsBuilder (Usage: $0 [action])"
@@ -41,32 +42,32 @@ for i in "$@";do
 		;;
 		b)
 			echo "[!] This will delete/override .old backups! Renaming old hosts..."
-			for i in $HOSTSFILE_TYPES;do
-				rm -f $i{,_hosts}.txt.old
+			for i in ${HOSTSFILE_TYPES};do
+				rm -f "$i"{,_hosts}.txt.old
 				[ -f "${i}_hosts.txt" ] && mv "${i}_hosts.txt"{,.old}
 			done
 			echo "[i] Removing dupes..."
-			for i in $HOSTSFILE_TYPES;do
-				$SHELL scripts/sortAndRemoveDupe.sh $i
+			for i in ${HOSTSFILE_TYPES};do
+				${SHELL} scripts/sortAndRemoveDupe.sh "${i}"
 			done
-			$SHELL scripts/sortAndRemoveDupe.sh BaDomain_notExists
+			${SHELL} scripts/sortAndRemoveDupe.sh BaDomain_notExists
 			echo "[i] Creating hosts..."
-			for i in $HOSTSFILE_TYPES;do
-				$SHELL scripts/domain2hosts.sh $i
+			for i in ${HOSTSFILE_TYPES};do
+				${SHELL} scripts/domain2hosts.sh "${i}"
 			done
 			echo "[i] Updating 'BaDomain_Uncensor' date..."
-			sed -ri 's/Version: [0-9]{2}\.[0-9]{2}\.[0-9]{2,4}/Version: '$VERSION'/i' BaDomain_Uncensor.txt
+			sed -ri "s/Version: [0-9]{2}\.[0-9]{2}\.[0-9]{2,4}/Version: ${VERSION}/i" BaDomain_Uncensor.txt
 			echo -n "[i] Cleaning..."
-			rm $(ls *.old misc/*.old)
+			rm ./*.old misc/*.old
 			echo -e "\r[+] Done!\e[0K"
 		;;
 		c)
 			echo "Cleaning..."
-			rm $(ls *.old misc/*.old)
+			rm ./*.old misc/*.old
 		;;
 		ca)
 			echo "Cleaning..."
-			rm $(ls *.old misc/*.old *hosts.txt misc/*hosts.txt)
+			rm ./*.old misc/*.old ./*hosts.txt misc/*hosts.txt
 		;;
 		*)
 			echo "Invalid argument. try -h to show help page."
