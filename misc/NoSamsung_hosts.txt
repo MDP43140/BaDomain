@@ -63,6 +63,7 @@
 0.0.0.0 us-auth2.samsungosp.com
 0.0.0.0 vas.samsungapps.com
 0.0.0.0 www.internet.apps.samsung.com
+0.0.0.0 www.samsung.com
 0.0.0.0 www.samsungknox.com
 0.0.0.0 www.samsungsds.com
 0.0.0.0 www.tizen.org

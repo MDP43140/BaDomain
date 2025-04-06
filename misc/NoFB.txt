@@ -8697,6 +8697,7 @@ tech.facebook.com
 teem.m.facebook.com
 telegraph-ash.instagram.com
 telenor.m.facebook.com
+test-gateway.instagram.com
 t.facebook.com
 thermofisher.facebook.com
 th-th.facebook.com
@@ -9224,6 +9225,7 @@ w414333631-gi3dknzzgyzdcoa.snr.whatsapp.net
 w468cf83b1-gqytsmjzgy4tmmzy.snr.whatsapp.net
 w490d9fe31-g44tqnbugq4dqob.snr.whatsapp.net
 w4d0429661-gqzdqojrge3tema.snr.whatsapp.net
+w7640cea61-gi4tomztgq4dgmjw.snr.whatsapp.net
 w7b88d4f11-gyzdsmbvg42dd.snr.whatsapp.net
 w8bb22b3b1-gi3tonjvg4zdqobv.snr.whatsapp.net
 w9b8dc53b1-gm2tamrrgqydknrq.snr.whatsapp.net
@@ -9383,6 +9385,7 @@ xx-fbcdn-shv-06-dfw1.fbcdn.net
 xx-fbcdn-shv-06-lga1.fbcdn.net
 xx-fbcdn-shv-11-lhr3.fbcdn.net
 xy.fbcdn.net
+yolo.dhgamesdownload.comscontent-atl3-3.cdninstagram.com
 z-1.c10r.facebook.com
 z-1-external.fsea1-1.fna.fbcdn.net
 z-1.facebook.com

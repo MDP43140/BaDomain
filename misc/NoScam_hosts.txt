@@ -5,6 +5,7 @@
 # personal information or login credential
 #
 
+0.0.0.0 9convert.com
 0.0.0.0 allsupport.me
 0.0.0.0 antivirus-helpnumber.com
 0.0.0.0 appleindo.store
@@ -18,7 +19,14 @@
 0.0.0.0 bolotoc.store
 0.0.0.0 bulkmob.store
 0.0.0.0 calcdigit.pics
+0.0.0.0 casescrown.com
 0.0.0.0 com-zkoptrqt.vip
+0.0.0.0 convertallfiles.com
+0.0.0.0 convertisseurs-pdf.com
+0.0.0.0 convertitoremp3.it
+0.0.0.0 convertix-api.xyz
+0.0.0.0 convertpro.org
+0.0.0.0 convertscloud.com
 0.0.0.0 cosmafit.click
 0.0.0.0 cryptozoo.co
 0.0.0.0 custhelp.com
@@ -28,13 +36,17 @@
 0.0.0.0 deshvoc.store
 0.0.0.0 digicarepro.com
 0.0.0.0 djutech.online
+0.0.0.0 domen4.icu
 0.0.0.0 donashhack.online
 0.0.0.0 enisemol.click
 0.0.0.0 fasfad.site
+0.0.0.0 freejpgtopdfconverter.com
 0.0.0.0 frodetraho.click
 0.0.0.0 geeksprosoftwareprints.org
 0.0.0.0 genlytec.us
 0.0.0.0 genodigit.store
+0.0.0.0 googleaiinvestment.vip
+0.0.0.0 g-oogle.com
 0.0.0.0 goponl.online
 0.0.0.0 gosupportnow.com
 0.0.0.0 helostop.shop
@@ -42,6 +54,7 @@
 0.0.0.0 ibox-store.online
 0.0.0.0 ifilone.site
 0.0.0.0 igusfil.shop
+0.0.0.0 imageconvertors.com
 0.0.0.0 imperel.site
 0.0.0.0 infosec.rm-it.de
 0.0.0.0 jujoc.online
@@ -57,9 +70,11 @@
 0.0.0.0 nemojmob.online
 0.0.0.0 nepochtec.shop
 0.0.0.0 norton-uk.uk
+0.0.0.0 nrt.ekhelp.net
 0.0.0.0 obomob.site
 0.0.0.0 oifilon.site
 0.0.0.0 pricetool.store
+0.0.0.0 primeconvertapp.com
 0.0.0.0 printer-helpnumber.com
 0.0.0.0 prodovjtec.shop
 0.0.0.0 pypcare.help
@@ -72,6 +87,7 @@
 0.0.0.0 software-network-service.com
 0.0.0.0 sourite.online
 0.0.0.0 stelor.shop
+0.0.0.0 telegram-cn.top
 0.0.0.0 telehub.shop
 0.0.0.0 teslausd.net
 0.0.0.0 tollfree-help.number.com
@@ -85,6 +101,7 @@
 0.0.0.0 usps-helpsend-info.com
 0.0.0.0 vedldeno.store
 0.0.0.0 voouvdigit.site
+0.0.0.0 web.telegram-cn.top
 0.0.0.0 www.antivirus-helpnumber.com
 0.0.0.0 www.appleindo.store
 0.0.0.0 www.bigsalemalaysia.asia

@@ -8,6 +8,8 @@
 
 03tr.info
 0523da02.api.splkmobile.com
+0google.com
+0oogle.com
 100000.miniapp.transsion.com
 1000-beasts.com
 101help.xyz
@@ -61,6 +63,8 @@
 95-217-35-153.serverhub.ru
 9appsdownloading.com
 9appsinstall.com
+9google.com
+9oogle.com
 9.zxczj.top
 a04.uadexchange.com
 a05.uadexchange.com
@@ -170,6 +174,7 @@ alogin01.to
 alsterpainting.xyz
 althroc.com
 amaazoon.org
+amason.com
 amazonfraudprotection.com
 amazon.hksupd.com
 amdc-wapa-akamai.lazada.com
@@ -299,6 +304,7 @@ bigmir.space
 bilikfilm.xyz
 bingapi.com
 bingapis.com
+bipcare.help
 biposou.online
 bitscrunnch.linkpc.net
 biz.itc.cn
@@ -315,6 +321,7 @@ boroshtic.click
 bosbosupdate.com
 bottracker.site
 brightcove.net
+brrcare.help
 b.sogou.com
 bstarstatic.com
 bt-cfm.io
@@ -334,6 +341,7 @@ caren.live
 carphonewarehous.co
 carphonewarehouseorg.co.uk
 carphonewarehouseproducts.co.uk
+caserevs.com
 cashend.me
 cashgame88vvip.com
 ccgateway.net
@@ -549,6 +557,7 @@ dzelonline.shop
 e93003fd416fd80413300f99e131bo3d41b18cd7a62b4b2b398ca8b4f.com
 easymakesolution.com
 eb1f496297bccfe372065b770b4089c85356073772b9a425a81ec241.com
+ebaay.com
 echo-tcp-org.y5en.com
 ecosustain.digital
 edaukooru.net
@@ -606,6 +615,7 @@ fadyit.pics
 faecesjazies.top
 fankui.help.sogou.com
 fantodelt.sbs
+fastsuppirt.com
 fe05.lg.xiaomi.com
 feed1.yukbacaberita.com
 feed.bignox.com
@@ -682,6 +692,7 @@ genertech.pw
 genimmob.online
 geniustracking.xyz
 genstech.shop
+geogle.com
 geoip-db.com
 gerelec.site
 germs-love.store
@@ -700,6 +711,8 @@ giipm.org
 gilimp.com
 gilimp.org
 gimp.monster
+github-com-auth-secure-access-token.onrender.com
+githubjobs-8p8e.onrender.com
 github.phala.one
 givmehdc.com
 gjapplog.ucweb.col
@@ -708,6 +721,8 @@ glamorousfeeds.com
 glanceapis.com
 glanceseg.blob.core.windows.net
 glass3.xyz
+glassdoor.com.pl
+glassdooruk.com
 glb.samsung-gamelauncher.com
 gld1.samsungchaton.com
 glentanks.xyz
@@ -850,6 +865,9 @@ implorewarn.shop
 imrworldwide.com
 inbox.clashofclans.com
 ind65.notesbook.in
+indeed-bio.com
+indeedjobs.online
+indeeduae.com
 indriverapp.com
 infeng.site
 info.bignox.com
@@ -948,6 +966,7 @@ lemtok.store
 lenosmac.shop
 leonard.faceapp.ai
 leonard.faceapp.io
+leostop.com
 leritgo.sbs
 lg-bgp.pandora.xiaomi.com
 liadm.com
@@ -957,6 +976,8 @@ likeevideo.com
 like-video.com
 liliy9aydje10.com
 line-scdn.net
+linkedin2.tech
+linkedini.com
 link.mposporteuro.xyz
 link.mposporteuro.xyzregister
 linkserverluar.live
@@ -1058,6 +1079,7 @@ microsoftfile.ml
 microsoft-office365.zip
 microsoft-office.zip
 midasplayer.com
+migcare.help
 mihayam.shop
 mi-img.com
 miit.gov.cn
@@ -1216,6 +1238,7 @@ otpusmob.shop
 oumymob.shop
 owap.bar
 owneriq.net
+oyoutube.com
 ozap.bar
 ozwvd.com
 p01.notifa.info
@@ -1240,6 +1263,7 @@ pcs3img.d2vm7.com
 pdfcylsmo.com
 pelstec.online
 pentatonic.cyou
+perent1.ganderbrisklyonly.shop
 pershtec.click
 perstech.shop
 petlelec.quest
@@ -1276,6 +1300,7 @@ polussuo.com
 popin.cc
 poptec.sbs
 pos3img.4ubnsy.com
+possibles-x.com
 poumod.com
 povomob.shop
 ppurifier.game.xiaomi.com
@@ -1345,6 +1370,7 @@ rebomob.quest
 rebuilt.pro.ilovexclub.net
 redalerts.me
 redventures.io
+reeddit.com
 reikoo.uno
 rekingfluty.top
 relaycdn.anchor.fm
@@ -1412,6 +1438,7 @@ search.spotxchange.com
 sec.miui.com
 secreelec.shop
 secreporter.test.susercontent.com
+secretlinkedin.ca
 securebiz.org
 selentech.click
 seletech.markets
@@ -1991,8 +2018,11 @@ zamlmob.pics
 zara-store.site
 zcnewy.com
 zdassets.com
+zddcare.help
 zeus.ad.intl.xiaomi.com
 ziffstatic.com
+zipperrecruiter.com
+ziprecruiter.vegas
 zligaton.com
 zongg.top
 zoom.voyage

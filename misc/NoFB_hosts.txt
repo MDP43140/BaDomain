@@ -8697,6 +8697,7 @@
 0.0.0.0 teem.m.facebook.com
 0.0.0.0 telegraph-ash.instagram.com
 0.0.0.0 telenor.m.facebook.com
+0.0.0.0 test-gateway.instagram.com
 0.0.0.0 t.facebook.com
 0.0.0.0 thermofisher.facebook.com
 0.0.0.0 th-th.facebook.com
@@ -9224,6 +9225,7 @@
 0.0.0.0 w468cf83b1-gqytsmjzgy4tmmzy.snr.whatsapp.net
 0.0.0.0 w490d9fe31-g44tqnbugq4dqob.snr.whatsapp.net
 0.0.0.0 w4d0429661-gqzdqojrge3tema.snr.whatsapp.net
+0.0.0.0 w7640cea61-gi4tomztgq4dgmjw.snr.whatsapp.net
 0.0.0.0 w7b88d4f11-gyzdsmbvg42dd.snr.whatsapp.net
 0.0.0.0 w8bb22b3b1-gi3tonjvg4zdqobv.snr.whatsapp.net
 0.0.0.0 w9b8dc53b1-gm2tamrrgqydknrq.snr.whatsapp.net
@@ -9383,6 +9385,7 @@
 0.0.0.0 xx-fbcdn-shv-06-lga1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-11-lhr3.fbcdn.net
 0.0.0.0 xy.fbcdn.net
+0.0.0.0 yolo.dhgamesdownload.comscontent-atl3-3.cdninstagram.com
 0.0.0.0 z-1.c10r.facebook.com
 0.0.0.0 z-1-external.fsea1-1.fna.fbcdn.net
 0.0.0.0 z-1.facebook.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 24.02.2025
+# Version: 06.04.2025
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -209,8 +209,10 @@
 0.0.0.0 6.ygti905ffth6.com
 0.0.0.0 756964-android-ds.metric.gstatic.com
 0.0.0.0 7660e42567.edeb873154.com
+0.0.0.0 769b53a4-dnsotls-ds.metric.gstatic.com
 0.0.0.0 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 0.0.0.0 79423.analytics.edgekey.net
+0.0.0.0 796294e0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7b2ca39378.com
 0.0.0.0 7CwQ6q-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7L2yL6-dnsotls-ds.metric.gstatic.com
@@ -1568,6 +1570,7 @@
 0.0.0.0 cdn925.com
 0.0.0.0 cdn9.editmysite.com
 0.0.0.0 cdn-adn-https.mtgglobals.com
+0.0.0.0 cdn.adscale.com
 0.0.0.0 cdn.adskeeper.com
 0.0.0.0 cdn.adsninja.ca
 0.0.0.0 cdn.adswizz.com
@@ -1814,7 +1817,6 @@
 0.0.0.0 cloudflare-sgp-cdn.snackvideo.in
 0.0.0.0 cloudflare-sgp-pic.snackvideo.in
 0.0.0.0 cloudfolder-api.palmplaystore.com
-0.0.0.0 cloudinary.com
 0.0.0.0 cloud-inject-global.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 cloud.litatom.com
 0.0.0.0 cloudsaze.com
@@ -2503,6 +2505,7 @@
 0.0.0.0 epsilon.com
 0.0.0.0 epss.alibaba-inc.com
 0.0.0.0 errnewlog.umeng.com
+0.0.0.0 error-analytics-sessions-production.shopifysvc.com
 0.0.0.0 errors.figma.com
 0.0.0.0 es.4sync.com
 0.0.0.0 es.bignox.com
@@ -2828,10 +2831,12 @@
 0.0.0.0 geo.cnbc.com
 0.0.0.0 geo.dailymotion.com
 0.0.0.0 geo.geo-svc.com
+0.0.0.0 geoip.apps.getjoy.ai
 0.0.0.0 geoip.hotstar.com
 0.0.0.0 geojs.io
 0.0.0.0 geolocation-db.com
 0.0.0.0 geolocation.onetrust.com
+0.0.0.0 geolocation-recommendations.shopifyapps.com
 0.0.0.0 geo.napster.com
 0.0.0.0 geo.tildacdn.com
 0.0.0.0 geowf.ge
@@ -4685,6 +4690,8 @@
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 one.confbesttop.com
 0.0.0.0 one.cryptonomiconf.com
+0.0.0.0 onelinkalb.customlinks.appsflyer.com
+0.0.0.0 onelinkalb.customlinks.appsflyer.com.cdn.cloudflare.net
 0.0.0.0 one.progmxs.com
 0.0.0.0 onesignal.com
 0.0.0.0 onesoft.com.vn
@@ -5333,7 +5340,6 @@
 0.0.0.0 res.9appsinstall.com
 0.0.0.0 res.adx.opera.com
 0.0.0.0 res.bignox.com
-0.0.0.0 res.cloudinary.com
 0.0.0.0 res.feednews.com
 0.0.0.0 res.gametoolboostestwell.com
 0.0.0.0 res-global-sg-master.sausage.xd.com
@@ -6534,6 +6540,7 @@
 0.0.0.0 ucweb.com
 0.0.0.0 udp-dispatch.ucweb.com
 0.0.0.0 ug-api.sv.shopee.co.id
+0.0.0.0 u.heatmap.it
 0.0.0.0 uhzgj5-cdn-settings.appsflyersdk.com
 0.0.0.0 uhzgj5-inapps.appsflyersdk.com
 0.0.0.0 uhzgj5-launches.appsflyersdk.com

@@ -14,11 +14,13 @@
 0.0.0.0 7meterace.cc
 0.0.0.0 7meterku.org
 0.0.0.0 8togel.com
+0.0.0.0 9ad69f1f-65d0-48dd-ba3c-c194cbd9bf18.snippet.anjouangaming.org
 0.0.0.0 afafreedom.com
 0.0.0.0 afamaxpro.com
 0.0.0.0 afatogel.com
 0.0.0.0 ahabetrtp2024.com
 0.0.0.0 ahamoon.com
+0.0.0.0 anjouangaming.org
 0.0.0.0 antirungkatjpk.com
 0.0.0.0 api.superbig77.co
 0.0.0.0 api.superbig77.com
@@ -73,6 +75,7 @@
 0.0.0.0 freestarburstslot.com
 0.0.0.0 fun88.com
 0.0.0.0 fyrewin.net
+0.0.0.0 g9oogle.com
 0.0.0.0 gacorbgt.com
 0.0.0.0 getol88.co
 0.0.0.0 gitarhebat.com
@@ -107,6 +110,7 @@
 0.0.0.0 jkbwinner.com
 0.0.0.0 jokerbet888.com
 0.0.0.0 jokerbet-spinmax500.com
+0.0.0.0 joya.casino
 0.0.0.0 jpkblash.com
 0.0.0.0 kampungrtpbtp.com
 0.0.0.0 kaskustoto88.id

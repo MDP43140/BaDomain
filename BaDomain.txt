@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 24.02.2025
+# Version: 06.04.2025
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -209,8 +209,10 @@
 6.ygti905ffth6.com
 756964-android-ds.metric.gstatic.com
 7660e42567.edeb873154.com
+769b53a4-dnsotls-ds.metric.gstatic.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 79423.analytics.edgekey.net
+796294e0-dnsotls-ds.metric.gstatic.com
 7b2ca39378.com
 7CwQ6q-dnsotls-ds.metric.gstatic.com
 7L2yL6-dnsotls-ds.metric.gstatic.com
@@ -1568,6 +1570,7 @@ cdn8.uzone.id
 cdn925.com
 cdn9.editmysite.com
 cdn-adn-https.mtgglobals.com
+cdn.adscale.com
 cdn.adskeeper.com
 cdn.adsninja.ca
 cdn.adswizz.com
@@ -1814,7 +1817,6 @@ cloudflareinsights.com
 cloudflare-sgp-cdn.snackvideo.in
 cloudflare-sgp-pic.snackvideo.in
 cloudfolder-api.palmplaystore.com
-cloudinary.com
 cloud-inject-global.oss-cn-hongkong.aliyuncs.com
 cloud.litatom.com
 cloudsaze.com
@@ -2503,6 +2505,7 @@ epsilon.6sense.com
 epsilon.com
 epss.alibaba-inc.com
 errnewlog.umeng.com
+error-analytics-sessions-production.shopifysvc.com
 errors.figma.com
 es.4sync.com
 es.bignox.com
@@ -2828,10 +2831,12 @@ geo.captcha-delivery.com
 geo.cnbc.com
 geo.dailymotion.com
 geo.geo-svc.com
+geoip.apps.getjoy.ai
 geoip.hotstar.com
 geojs.io
 geolocation-db.com
 geolocation.onetrust.com
+geolocation-recommendations.shopifyapps.com
 geo.napster.com
 geo.tildacdn.com
 geowf.ge
@@ -4685,6 +4690,8 @@ onclickads.net
 oneclient.sfx.ms
 one.confbesttop.com
 one.cryptonomiconf.com
+onelinkalb.customlinks.appsflyer.com
+onelinkalb.customlinks.appsflyer.com.cdn.cloudflare.net
 one.progmxs.com
 onesignal.com
 onesoft.com.vn
@@ -5333,7 +5340,6 @@ res.6chcdn.feednews.com
 res.9appsinstall.com
 res.adx.opera.com
 res.bignox.com
-res.cloudinary.com
 res.feednews.com
 res.gametoolboostestwell.com
 res-global-sg-master.sausage.xd.com
@@ -6534,6 +6540,7 @@ uc.ucweb.com
 ucweb.com
 udp-dispatch.ucweb.com
 ug-api.sv.shopee.co.id
+u.heatmap.it
 uhzgj5-cdn-settings.appsflyersdk.com
 uhzgj5-inapps.appsflyersdk.com
 uhzgj5-launches.appsflyersdk.com
