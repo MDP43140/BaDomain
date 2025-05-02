@@ -10,6 +10,7 @@ VERSION=$(date +%d.%m.%Y)
 #UPDATE_FREQ="7 days" # unused
 HOSTSFILE_TYPES=(
 	"BaDomain"
+	"misc/Advanced"
 	"misc/NoApple"
 	"misc/NoChinaOverseaSpy"
 	"misc/NoFB"

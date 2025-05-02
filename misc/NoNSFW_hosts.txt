@@ -74,6 +74,7 @@
 0.0.0.0 cdn77--pic-xnxx--cdn-com.cdn.ampproject.org
 0.0.0.0 cdn77-pic.xvideos-cdn.com
 0.0.0.0 cdn77-vid-mp4.xnxx-cdn.com
+0.0.0.0 cdn77-vid-mp4.xvideos-cdn.com
 0.0.0.0 cdn77-vid.others-cdn.com
 0.0.0.0 cdn-b.videopool.h5xyz.com
 0.0.0.0 cdne-pics.youjizz.com
@@ -161,6 +162,7 @@
 0.0.0.0 gcore--pic-xnxx--cdn-com.cdn.ampproject.org
 0.0.0.0 gcore-pic.xvideos-cdn.com
 0.0.0.0 gcore-vid.xnxx-cdn.com
+0.0.0.0 gcore-vid.xvideos-cdn.com
 0.0.0.0 gdl.bigo.sg
 0.0.0.0 giftesx2.bigo.sg
 0.0.0.0 giftesx.bigolive.tv
@@ -332,6 +334,7 @@
 0.0.0.0 value.vrbangers.com
 0.0.0.0 vcdn.xozilla.xxx
 0.0.0.0 vdownload-12.sb-cd.com
+0.0.0.0 vdownload-1.sb-cd.com
 0.0.0.0 vdownload-34.sb-cd.com
 0.0.0.0 vdownload-37.sb-cd.com
 0.0.0.0 vdownload-44.sb-cd.com
@@ -356,6 +359,7 @@
 0.0.0.0 vp1.vjav.com
 0.0.0.0 vrbangers.com
 0.0.0.0 vstream-12.sb-cd.com
+0.0.0.0 vstream-1.sb-cd.com
 0.0.0.0 vstream-34.sb-cd.com
 0.0.0.0 vstream-37.sb-cd.com
 0.0.0.0 vstream-44.sb-cd.com

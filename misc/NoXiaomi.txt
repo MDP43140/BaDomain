@@ -85,10 +85,10 @@ cdn.awsde0-fusion.fds.api.mi-img.com
 cdn.awsind0-fusion.fds.api.mi-img.com
 cdn.awsusor1.fds.api.mi-img.com
 cdn.cnbj1.fds.api.mi-img.com
-cdn.ekatox.com                                        cdnorg.d.miui.com
 cdn.exp.xiaomi.com
 cdn.fds-ssl.api.xiaomi.com
 cdn-file.hyperos.mi.com
+cdnorg.d.miui.com
 cdn.web-global.fds.api.mi-img.com
 cia.sec.miui.com
 c.id.mi.com

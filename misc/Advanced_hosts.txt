@@ -1,0 +1,102 @@
+#
+# Name: BaDomain
+# Desc: Another "add-on" on top of BaDomain that blocks even more things (that you may not want)
+# Version: 08.05.2025
+# Update: 1 day
+#
+#cf.shopee.co.id
+#endpoint.mms.shopee.co.id
+#msdk.shopee.co.id
+
+0.0.0.0 101.249.211.130.bc.googleusercontent.com
+0.0.0.0 232.138.196.35.bc.googleusercontent.com
+0.0.0.0 23609470.fs1.hubspotusercontent-na1.net
+0.0.0.0 2474026.fs1.hubspotusercontent-na1.net
+0.0.0.0 2742438.fs1.hubspotusercontent-na1.net
+0.0.0.0 2828691.group41.sites.hubspot.net
+0.0.0.0 2912187.fs1.hubspotusercontent-na1.net
+0.0.0.0 302335.fs1.hubspotusercontent-na1.net
+0.0.0.0 3842749.fs1.hubspotusercontent-na1.net
+0.0.0.0 425439.fs1.hubspotusercontent-na1.net
+0.0.0.0 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
+0.0.0.0 4835415.fs1.hubspotusercontent-na1.net
+0.0.0.0 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
+0.0.0.0 94.110.204.35.bc.googleusercontent.com
+0.0.0.0 acs-m.lazada.co.id
+0.0.0.0 acs-m.lazada.sg
+0.0.0.0 adashx.ut.lazada.com
+0.0.0.0 amdc.lazada.com
+0.0.0.0 amdc-wapa-alicdn.lazada.com
+0.0.0.0 amdc-wapa.lazada.com
+0.0.0.0 api.snapchat.com
+0.0.0.0 apollo.supercell.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com
+0.0.0.0 atu-server.herokuapp.com
+0.0.0.0 autodiscover.supercell.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 aws-proxy-gcp.api.snapchat.com
+0.0.0.0 backup.supercell.com
+0.0.0.0 barracuda.supercell.com
+0.0.0.0 catalog.supercell.com
+0.0.0.0 cdn.id.supercell.com
+0.0.0.0 cdn.supercell.com
+0.0.0.0 chronos.supercell.com
+0.0.0.0 clashofclans.inbox.supercell.com
+0.0.0.0 c.lazada.co.id
+0.0.0.0 dl.dropboxusercontent.com
+0.0.0.0 drive-thirdparty.googleusercontent.com
+0.0.0.0 enterpriseenrollment.supercell.com
+0.0.0.0 e.supercell.com
+0.0.0.0 extranet.supercell.com
+0.0.0.0 filebroker-cdn.lazada.co.id
+0.0.0.0 forum.supercell.com
+0.0.0.0 gcb-app.herokuapp.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 h-adashx.ut.lazada.com
+0.0.0.0 homer.supercell.com
+0.0.0.0 id.supercell.com
+0.0.0.0 intranet.supercell.com
+0.0.0.0 intra.supercell.com
+0.0.0.0 jira.supercell.com
+0.0.0.0 jmacs-m.lazada.co.id
+0.0.0.0 learning.supercell.com
+0.0.0.0 library.supercell.com
+0.0.0.0 lisa.supercell.com
+0.0.0.0 login.supercell.com
+0.0.0.0 mail.supercell.com
+0.0.0.0 mdm.supercell.com
+0.0.0.0 member.lazada.co.id
+0.0.0.0 meritbadge.herokuapp.com
+0.0.0.0 msgacs-m.lazada.co.id
+0.0.0.0 mvm.snapchat.com
+0.0.0.0 myaccount.supercell.com
+0.0.0.0 orange-dc.lazada.com
+0.0.0.0 outlook.supercell.com
+0.0.0.0 pages.lazada.co.id
+0.0.0.0 pro-accounts.snapchat.com
+0.0.0.0 pvc-app.herokuapp.com
+0.0.0.0 ra.supercell.com
+0.0.0.0 snapchat.com
+0.0.0.0 spam.supercell.com
+0.0.0.0 sso.supercell.com
+0.0.0.0 store.supercell.com
+0.0.0.0 stream.supercell.com
+0.0.0.0 supercell.com
+0.0.0.0 support.supercell.com
+0.0.0.0 test.supercell.com
+0.0.0.0 topic-sticker-vending.snapchat.com
+0.0.0.0 usc1-gcp-v61.api.snapchat.com
+0.0.0.0 usc1-gcp-v62.api.snapchat.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 us-east1-aws-acc.api.snapchat.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 us-east1-gcp.api.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 video.supercell.com
+0.0.0.0 vpn2.supercell.com
+0.0.0.0 vpn.supercell.com
+0.0.0.0 wiki.supercell.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 www.supercell.com

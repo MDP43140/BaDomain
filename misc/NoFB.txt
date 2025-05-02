@@ -60,6 +60,7 @@ abc.facebook.com
 about.facebook.com
 about.instagram.com
 accountscenter.facebook.com
+acs.whatsapp.com
 act.channel.facebook.com
 actcorp.m.facebook.com
 act.facebook.com
@@ -7827,11 +7828,13 @@ sonar-bru2-1.xx.fbcdn.net
 sonar-bru.xx.fbcdn.net
 sonar-ccu1-1.xx.fbcdn.net
 sonar-cdg2-1.xx.fbcdn.net
+sonar-cdg4-2.xx.fbcdn.net
 sonar-cdt1-1.xx.fbcdn.net
 sonar-cgk1-1.xx.fbcdn.net
 sonar-cgk1-2.xx.fbcdn.net
 sonar-cgk1-3.xx.fbcdn.net
 sonar-cgk2-1.xx.fbcdn.net
+sonar-cgk2-2.xx.fbcdn.net
 sonar-cgk.cdn.whatsapp.net
 sonar-cgk.xx.fbcdn.net
 sonar-cph2-1.xx.fbcdn.net
@@ -7987,7 +7990,10 @@ sonar-scl.xx.fbcdn.net
 sonar-sea.cdn.whatsapp.net
 sonar-sea.xx.fbcdn.net
 sonar-sin11-1.xx.fbcdn.net
+sonar-sin11-2.xx.fbcdn.net
+sonar-sin2-1.xx.fbcdn.net
 sonar-sin2-2.xx.fbcdn.net
+sonar-sin2-3.xx.fbcdn.net
 sonar-sin6-1.xx.fbcdn.net
 sonar-sin6-2.xx.fbcdn.net
 sonar-sin6-3.xx.fbcdn.net
@@ -9292,6 +9298,7 @@ www-fallback.instagram.com
 www-fallback.whatsapp.com
 www.fbcdn.com
 www.fbcdn.net
+www.fbsbx.com
 www.instagram.com
 www.mapiliary.com
 www.meta.ai

@@ -60,6 +60,7 @@
 0.0.0.0 about.facebook.com
 0.0.0.0 about.instagram.com
 0.0.0.0 accountscenter.facebook.com
+0.0.0.0 acs.whatsapp.com
 0.0.0.0 act.channel.facebook.com
 0.0.0.0 actcorp.m.facebook.com
 0.0.0.0 act.facebook.com
@@ -7827,11 +7828,13 @@
 0.0.0.0 sonar-bru.xx.fbcdn.net
 0.0.0.0 sonar-ccu1-1.xx.fbcdn.net
 0.0.0.0 sonar-cdg2-1.xx.fbcdn.net
+0.0.0.0 sonar-cdg4-2.xx.fbcdn.net
 0.0.0.0 sonar-cdt1-1.xx.fbcdn.net
 0.0.0.0 sonar-cgk1-1.xx.fbcdn.net
 0.0.0.0 sonar-cgk1-2.xx.fbcdn.net
 0.0.0.0 sonar-cgk1-3.xx.fbcdn.net
 0.0.0.0 sonar-cgk2-1.xx.fbcdn.net
+0.0.0.0 sonar-cgk2-2.xx.fbcdn.net
 0.0.0.0 sonar-cgk.cdn.whatsapp.net
 0.0.0.0 sonar-cgk.xx.fbcdn.net
 0.0.0.0 sonar-cph2-1.xx.fbcdn.net
@@ -7987,7 +7990,10 @@
 0.0.0.0 sonar-sea.cdn.whatsapp.net
 0.0.0.0 sonar-sea.xx.fbcdn.net
 0.0.0.0 sonar-sin11-1.xx.fbcdn.net
+0.0.0.0 sonar-sin11-2.xx.fbcdn.net
+0.0.0.0 sonar-sin2-1.xx.fbcdn.net
 0.0.0.0 sonar-sin2-2.xx.fbcdn.net
+0.0.0.0 sonar-sin2-3.xx.fbcdn.net
 0.0.0.0 sonar-sin6-1.xx.fbcdn.net
 0.0.0.0 sonar-sin6-2.xx.fbcdn.net
 0.0.0.0 sonar-sin6-3.xx.fbcdn.net
@@ -9292,6 +9298,7 @@
 0.0.0.0 www-fallback.whatsapp.com
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
+0.0.0.0 www.fbsbx.com
 0.0.0.0 www.instagram.com
 0.0.0.0 www.mapiliary.com
 0.0.0.0 www.meta.ai

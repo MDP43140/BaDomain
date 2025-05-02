@@ -1047,6 +1047,7 @@ mageants.sbs
 mail.aparthotelmx.ge
 mail.bignox.com
 mailchimp-help.com
+mailchimp-sso.com
 mail.growin.ge
 mail.hbmtours.com
 malidili.com
@@ -1290,6 +1291,7 @@ player.bignox.com
 player.tubia.com
 playmakerservices.com
 plg.dev
+pls.help20.top
 pmall.migc.xiaomi.com
 pn.api.micloud.mi.com
 p-n.io
@@ -1303,6 +1305,7 @@ pos3img.4ubnsy.com
 possibles-x.com
 poumod.com
 povomob.shop
+ppls.help20.top
 ppurifier.game.xiaomi.com
 pp.xpush.site
 prd.aadg.akadns.net
@@ -1792,6 +1795,7 @@ ww38.neimanmarcusshop.online
 ww.happymod.cloud
 ww.qlogo.cn
 www.18000.me
+www.4rhelp.top
 www.69cnu.com
 www.8876555.com
 www.acckwmhi.com
@@ -1834,6 +1838,7 @@ www.foddylearn.com
 www.ftblltrck.com
 www.furnitureshopone.us
 www.garagewestrotterdam.nl
+www.gbcare.help
 www.glamorousfeeds.com
 www.gmail-support.uk
 www.google.com.id.4irlkkz6.28gejt.2b99df1a.cn
