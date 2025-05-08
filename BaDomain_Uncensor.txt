@@ -1,5 +1,5 @@
 #
-#  BaDomain Uncensored (Version: 10.12.2023)
+#  BaDomain Uncensored (Version: 08.05.2025)
 #  This hosts file tries to unblock big websites from goverment censorshit
 #  (mostly blocked from Indonesia)
 #
@@ -48,6 +48,12 @@
 162.159.1.33 ns2.cloudflare-dns.com
 162.159.2.9 ns3.cloudflare-dns.com
 86.109.1.91 proxy.odoh.cloudflare-dns.com
+
+# [DuckDuckGo.com]
+20.43.161.105 duck.ai
+20.43.161.105 duckduckgo.com
+20.43.161.105 www.duckduckgo.com
+20.43.161.105 safe.duckduckgo.com
 
 # [PayPal.com] (dirty copy-paste from bebasid, w/ long subdomain removed)
 64.4.250.37 paypal.com

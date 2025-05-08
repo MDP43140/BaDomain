@@ -4,8 +4,7 @@
 #       Will block malware domains, tracking domains, anything bad that can't be
 #       blocked from dns request by hosts file (includes MLBB, FF, TikTok, Facebook products..., *indonesian* Gambling sites, which is notorious for using ip to evade Kominfo ban)
 #       i put it here just to simplify my workflow (especially in hosts conversion).
-# Version: 07.12.21
-# Update: 1 days
+# Version: 07.05.2025
 #
 
 140.120
@@ -66,7 +65,7 @@
 216.58.207.0
 224.0.0.0
 
-# gambling sites
+# gambling sites (some has no domain)
 139.59.110.248
 139.162.13.187
 141.164.58.5
@@ -92,3 +91,21 @@
 128.199.249.99
 3.0.11.134
 51.79.194.94
+
+# bytedance IPs
+161.117.70.136
+161.117.70.145
+161.117.70.68
+161.117.70.89
+161.117.71.34
+161.117.71.35
+161.117.71.73
+161.117.71.74
+34.196.79.125
+47.252.102.182
+47.252.102.193
+47.252.102.198
+47.252.102.48
+47.252.102.50
+47.252.50.101
+47.252.50.157
