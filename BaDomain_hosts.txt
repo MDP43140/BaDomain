@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 08.05.2025
+# Version: 12.06.2025
 # Update: 1 day
 #
 
@@ -679,7 +679,6 @@
 0.0.0.0 api.bidmachine.io
 0.0.0.0 api.bignox.com
 0.0.0.0 api.black.riseup.net
-0.0.0.0 api.blocka.net
 0.0.0.0 api.bobble.ai
 0.0.0.0 api.boomplaymusic.com
 0.0.0.0 api.boyuanhulian.com
@@ -1474,6 +1473,7 @@
 0.0.0.0 carx-online.com
 0.0.0.0 casalemedia.com
 0.0.0.0 casinousagevacant.com
+0.0.0.0 cat07k-inapps.appsflyersdk.com
 0.0.0.0 cat2.hbwrapper.com
 0.0.0.0 catalog-backend.sgdn.io
 0.0.0.0 catalog.saygames.io
@@ -2127,7 +2127,6 @@
 0.0.0.0 data-api.geniex.com
 0.0.0.0 data.appsinnova.com
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
-0.0.0.0 datadoghq.com
 0.0.0.0 datadome.co
 0.0.0.0 data-edge.smartscreen.microsoft.com
 0.0.0.0 data.emb-api.com
@@ -2988,6 +2987,7 @@
 0.0.0.0 h-adashx4sg.ut.taobao.com
 0.0.0.0 handler-api.popupsmart.com
 0.0.0.0 handoff-cdn.appadvice.com
+0.0.0.0 hangmytracking.com
 0.0.0.0 hansel-sdk.tokopedia.com
 0.0.0.0 hansel-testsdk.tokopedia.com
 0.0.0.0 hanyu.sogou.com
@@ -4314,7 +4314,6 @@
 0.0.0.0 new.bestageoffers2022.com
 0.0.0.0 newpic.wetvinfo.com
 0.0.0.0 newplayable.mintegral.com
-0.0.0.0 newrelic.com
 0.0.0.0 newsaggreg.shalltry.com
 0.0.0.0 news-api.fnyfeds.com
 0.0.0.0 news.baidu.com
@@ -6072,7 +6071,6 @@
 0.0.0.0 streamrail.net
 0.0.0.0 strn.rise-ai.com
 0.0.0.0 str.rise-ai.com
-0.0.0.0 stun.ekiga.net
 0.0.0.0 stun.ssp.rambler.ru
 0.0.0.0 stup5.appmeasurements.com
 0.0.0.0 stupidityscream.com
@@ -6387,6 +6385,7 @@
 0.0.0.0 track.gaconnector.com
 0.0.0.0 tracking.apptrackerlink.com
 0.0.0.0 tracking.g2crowd.com
+0.0.0.0 tracking.hangmytracking.com
 0.0.0.0 tracking.ksztone.com
 0.0.0.0 trackingrevenuetds.com
 0.0.0.0 tracking.smartconnect-sg.net

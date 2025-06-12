@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 08.05.2025
+# Version: 12.06.2025
 # Update: 1 day
 #
 
@@ -679,7 +679,6 @@ api.beta.salemove.com
 api.bidmachine.io
 api.bignox.com
 api.black.riseup.net
-api.blocka.net
 api.bobble.ai
 api.boomplaymusic.com
 api.boyuanhulian.com
@@ -1474,6 +1473,7 @@ carsphonewarehouse.com
 carx-online.com
 casalemedia.com
 casinousagevacant.com
+cat07k-inapps.appsflyersdk.com
 cat2.hbwrapper.com
 catalog-backend.sgdn.io
 catalog.saygames.io
@@ -2127,7 +2127,6 @@ data.aldagames.com
 data-api.geniex.com
 data.appsinnova.com
 datacollector-drru.dt.dbankcloud.ru
-datadoghq.com
 datadome.co
 data-edge.smartscreen.microsoft.com
 data.emb-api.com
@@ -2988,6 +2987,7 @@ haasscripts.com
 h-adashx4sg.ut.taobao.com
 handler-api.popupsmart.com
 handoff-cdn.appadvice.com
+hangmytracking.com
 hansel-sdk.tokopedia.com
 hansel-testsdk.tokopedia.com
 hanyu.sogou.com
@@ -4314,7 +4314,6 @@ new-api.meiqia.com
 new.bestageoffers2022.com
 newpic.wetvinfo.com
 newplayable.mintegral.com
-newrelic.com
 newsaggreg.shalltry.com
 news-api.fnyfeds.com
 news.baidu.com
@@ -6072,7 +6071,6 @@ streaming.split.io
 streamrail.net
 strn.rise-ai.com
 str.rise-ai.com
-stun.ekiga.net
 stun.ssp.rambler.ru
 stup5.appmeasurements.com
 stupidityscream.com
@@ -6387,6 +6385,7 @@ trackersimulator.org
 track.gaconnector.com
 tracking.apptrackerlink.com
 tracking.g2crowd.com
+tracking.hangmytracking.com
 tracking.ksztone.com
 trackingrevenuetds.com
 tracking.smartconnect-sg.net

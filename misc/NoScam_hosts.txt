@@ -9,6 +9,7 @@
 0.0.0.0 allsupport.me
 0.0.0.0 antivirus-helpnumber.com
 0.0.0.0 appleindo.store
+0.0.0.0 appsneak.com
 0.0.0.0 arastek.online
 0.0.0.0 avordic.site
 0.0.0.0 beast.cash
@@ -18,6 +19,7 @@
 0.0.0.0 bigsalemalaysia.asia
 0.0.0.0 bolotoc.store
 0.0.0.0 bulkmob.store
+0.0.0.0 c1ikweb-id.cx6cz1.me
 0.0.0.0 calcdigit.pics
 0.0.0.0 casescrown.com
 0.0.0.0 com-zkoptrqt.vip
@@ -45,6 +47,7 @@
 0.0.0.0 geeksprosoftwareprints.org
 0.0.0.0 genlytec.us
 0.0.0.0 genodigit.store
+0.0.0.0 giveawaytoday.icu
 0.0.0.0 googleaiinvestment.vip
 0.0.0.0 g-oogle.com
 0.0.0.0 goponl.online
@@ -94,6 +97,7 @@
 0.0.0.0 quicxkbooks-accounting.com
 0.0.0.0 quirckbooks-accounting.com
 0.0.0.0 ragutech.shop
+0.0.0.0 redeemall.store
 0.0.0.0 samknut.click
 0.0.0.0 sasaiso.cfd
 0.0.0.0 sgcare.help
@@ -115,10 +119,13 @@
 0.0.0.0 usps.com-zkoptrqt.vip
 0.0.0.0 usps-helpsend-info.com
 0.0.0.0 vedldeno.store
+0.0.0.0 verification.appsneak.com
+0.0.0.0 vikingmedia.net
 0.0.0.0 voouvdigit.site
 0.0.0.0 web.telegram-cn.top
 0.0.0.0 www.antivirus-helpnumber.com
 0.0.0.0 www.appleindo.store
+0.0.0.0 www.appsneak.com
 0.0.0.0 www.bigsalemalaysia.asia
 0.0.0.0 www.digicarepro.com
 0.0.0.0 www.geeksprosoftwareprints.org

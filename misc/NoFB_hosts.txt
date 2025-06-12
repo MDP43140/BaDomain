@@ -2765,6 +2765,7 @@
 0.0.0.0 f353e1a9680-szxrohos1707750321-sonar.xz.fbcdn.net
 0.0.0.0 f3820fd4380-geojjcel1707728796-sonar.snr.fbcdn.net
 0.0.0.0 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
+0.0.0.0 f6ffa8b9780-obfszkgb1747662656-sonar.xz.fbcdn.net
 0.0.0.0 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
 0.0.0.0 F9936664-3E6E-4A82-A123-740542737AE9-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 F9936664-3E6E-4A82-A123-740542737AE9-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -4901,6 +4902,7 @@
 0.0.0.0 media-cgk1-2.cdn.whatsapp.net
 0.0.0.0 media-cgk1-3.cdn.whatsapp.net
 0.0.0.0 media-cgk2-1.cdn.whatsapp.net
+0.0.0.0 media-cgk2-2.cdn.whatsapp.net
 0.0.0.0 media.facc1-1.fna.whatsapp.net
 0.0.0.0 media.fadl3-1.fna.whatsapp.net
 0.0.0.0 media.fadl4-1.fna.whatsapp.net
@@ -7716,6 +7718,7 @@
 0.0.0.0 scontent-sea1-1.xx.fbcdn.net
 0.0.0.0 scontent-sea.xx.fbcdn.net
 0.0.0.0 scontent-sin11-1.cdninstagram.com
+0.0.0.0 scontent-sin11-1.xx.fbcdn.net
 0.0.0.0 scontent-sin6-1.cdninstagram.com
 0.0.0.0 scontent-sin6-1.xx.fbcdn.net
 0.0.0.0 scontent-sin6-2.cdninstagram.com
@@ -7828,6 +7831,7 @@
 0.0.0.0 sonar-bru.xx.fbcdn.net
 0.0.0.0 sonar-ccu1-1.xx.fbcdn.net
 0.0.0.0 sonar-cdg2-1.xx.fbcdn.net
+0.0.0.0 sonar-cdg4-1.xx.fbcdn.net
 0.0.0.0 sonar-cdg4-2.xx.fbcdn.net
 0.0.0.0 sonar-cdt1-1.xx.fbcdn.net
 0.0.0.0 sonar-cgk1-1.xx.fbcdn.net
