@@ -56,8 +56,6 @@ for a in $*;do
 			for i in ${HOSTSFILE_TYPES};do
 				${SHELL} scripts/domain2hosts.sh "${i}"
 			done
-			echo "[i] Updating 'BaDomain_Uncensor' date..."
-			sed -ri "s/Version: [0-9]{2}\.[0-9]{2}\.[0-9]{2,4}/Version: ${VERSION}/i" BaDomain_Uncensor.txt
 			echo -n "[i] Cleaning..."
 			rm ./*.old misc/*.old
 			echo -e "\r[+] Done!\e[0K"
