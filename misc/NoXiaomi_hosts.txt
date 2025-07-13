@@ -283,6 +283,7 @@
 0.0.0.0 ruac.account.xiaomi.com
 0.0.0.0 s01.appmifile.com
 0.0.0.0 s01.mifile.cn
+0.0.0.0 s02.mifile.cn
 0.0.0.0 s03.appmifile.com
 0.0.0.0 s05.appmifile.com
 0.0.0.0 sandbox.xmpush.xiaomi.com

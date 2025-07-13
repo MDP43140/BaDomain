@@ -61,6 +61,7 @@
 0.0.0.0 loginbp.ggblueshark.com
 0.0.0.0 login.common.freefiremobile.com
 0.0.0.0 ludofire1.1.sea.freefiremobile.com
+0.0.0.0 mkz.ff.garena.co.id
 0.0.0.0 network.freefiremobile.com
 0.0.0.0 networkselftest.ff.garena.com
 0.0.0.0 poisontail.sea.freefiremobile.com

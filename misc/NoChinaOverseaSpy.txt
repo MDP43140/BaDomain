@@ -124,6 +124,7 @@ fuwu.weixin.qq.com
 fview.cn
 g.alicdn.com
 gamedot.afafb.com
+gamehub.xiaoji.com
 game.qq.com
 game.weixin.qq.com
 gaodun.com
@@ -442,8 +443,10 @@ www.uc.cn
 www.welive.mobi
 www.wenjuan.com
 www.wjx.cn
+www.xiaoji.com
 www.zhaopin.com
 wx.qq.com
+xiaoji.com
 xiaoyuan.zhaopin.com
 xloadu.oss-ap-northeast-1.aliyuncs.com
 xnimg.cn

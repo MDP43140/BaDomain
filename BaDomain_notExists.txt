@@ -682,6 +682,7 @@ garnimob.sbs
 gastdigit.quest
 gate.hockeyapp.net
 gateway.upush.englory.net
+gbcare.help
 gc.24s.help
 gds.alibabadns.com
 gd.xjke.xyz
@@ -2032,6 +2033,7 @@ ziffstatic.com
 zipperrecruiter.com
 ziprecruiter.vegas
 zligaton.com
+zmhelp9.top
 zongg.top
 zoom.voyage
 zqtk.net

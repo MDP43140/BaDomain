@@ -124,6 +124,7 @@
 0.0.0.0 fview.cn
 0.0.0.0 g.alicdn.com
 0.0.0.0 gamedot.afafb.com
+0.0.0.0 gamehub.xiaoji.com
 0.0.0.0 game.qq.com
 0.0.0.0 game.weixin.qq.com
 0.0.0.0 gaodun.com
@@ -442,8 +443,10 @@
 0.0.0.0 www.welive.mobi
 0.0.0.0 www.wenjuan.com
 0.0.0.0 www.wjx.cn
+0.0.0.0 www.xiaoji.com
 0.0.0.0 www.zhaopin.com
 0.0.0.0 wx.qq.com
+0.0.0.0 xiaoji.com
 0.0.0.0 xiaoyuan.zhaopin.com
 0.0.0.0 xloadu.oss-ap-northeast-1.aliyuncs.com
 0.0.0.0 xnimg.cn

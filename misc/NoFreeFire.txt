@@ -61,6 +61,7 @@ loginbp.common.ggbluefox.com
 loginbp.ggblueshark.com
 login.common.freefiremobile.com
 ludofire1.1.sea.freefiremobile.com
+mkz.ff.garena.co.id
 network.freefiremobile.com
 networkselftest.ff.garena.com
 poisontail.sea.freefiremobile.com

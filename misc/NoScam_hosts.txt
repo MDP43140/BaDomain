@@ -12,6 +12,7 @@
 0.0.0.0 appsneak.com
 0.0.0.0 arastek.online
 0.0.0.0 avordic.site
+0.0.0.0 bcaco.shop
 0.0.0.0 beast.cash
 0.0.0.0 becasotec.site
 0.0.0.0 bharatearns.top

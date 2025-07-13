@@ -13,6 +13,7 @@ api.samsungconsent.com
 api.samsungtvplus.com
 apps.samsung.com
 ap.remotesamsung.com
+as2rgn-down.file.samsungcloud.com
 asset-cdn.samsungvisioncloud.com
 asset.samsungvisioncloud.com
 auth2.samsungosp.com
@@ -36,6 +37,7 @@ ers.samsungcloudplatform.com
 eu-api.samsungpositioning.com
 eu-auth2.samsungosp.com
 eu-kaf.samsungknox.com
+exp.samsungosp.com
 gmp.samsungapps.com
 id-odc.samsungapps.com
 img.samsungapps.com
@@ -45,15 +47,18 @@ osb-eusvc.samsungqbe.com
 play.samsungcloud.com
 policies.account.samsung.com
 poll.gras.samsungdm.com
+privacy.samsung.com
 pushmessage.samsung.com
 rc.samsungweather.com
 resources.samsungosp.com
 samsung-callerprofile.edge.hiyaapi.com
 samsungnewsapi.picks.my
+sapp.privacy.samsung.com
 sdk.pushmessage.samsung.com
 shealth-api.samsunghealth.com
 sia.internet.apps.samsung.com
 sspapi-prd.samsungrs.com
+terms.samsungconsent.com
 tos-dev-getdata.samsung-dict.com
 tos-prod-getdata.samsung-dict.com
 tos-stg-getdata.samsung-dict.com
@@ -61,6 +66,7 @@ ureca.samsungapps.com
 us-api.mcsvc.samsung.com
 us-api.rewards.svc.samsung.com
 us-auth2.samsungosp.com
+v3.account.samsung.com
 vas.samsungapps.com
 www.internet.apps.samsung.com
 www.samsung.com

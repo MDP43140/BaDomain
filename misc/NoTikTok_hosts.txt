@@ -527,6 +527,7 @@
 0.0.0.0 api-live-hl.amemv.com.w.kunluncan.com
 0.0.0.0 api-lq.amemv.com
 0.0.0.0 api-lq.amemv.com.w.cdngslb.com
+0.0.0.0 api.marscode.cn
 0.0.0.0 api-mo.snssdk.com
 0.0.0.0 api-m.tiktok.com
 0.0.0.0 api.musical.ly
@@ -585,11 +586,13 @@
 0.0.0.0 api.toutiao50.com
 0.0.0.0 api.toutiao50.com.edgesuite.net
 0.0.0.0 api.trae.ai
+0.0.0.0 api.trae.cn
 0.0.0.0 api-t.tiktok.com
 0.0.0.0 api-t.tiktokv.com
 0.0.0.0 api-t.tiktokv.com.edgekey.net
 0.0.0.0 api-useast2a.toutiao50.com
 0.0.0.0 api-useast2a.toutiao50.com.edgesuite.net
+0.0.0.0 api-us-east.trae.ai
 0.0.0.0 api-va.tiktokv.com
 0.0.0.0 api-va.tiktokv.com.edgekey.net
 0.0.0.0 api-yak.amemv.com
@@ -1923,6 +1926,7 @@
 0.0.0.0 lf3-ttcdn-tos.pstatp.com
 0.0.0.0 lf3-xgcdn-tos.pstatp.com
 0.0.0.0 lf6-cdn-tos.bytescm.com
+0.0.0.0 lf6-config.bytetcc.com
 0.0.0.0 lf6-dycdn-tos.pstatp.com
 0.0.0.0 lf6-geckocdn-tos.pstatp.com
 0.0.0.0 lf6-hscdn-tos.pstatp.com
@@ -1935,6 +1939,7 @@
 0.0.0.0 lf9-geckocdn-tos.pstatp.com.bsgslb.com
 0.0.0.0 lf9-tk-tos.tiktokcdn.com
 0.0.0.0 lf-cdn.trae.ai
+0.0.0.0 lf-cdn.trae.com.cn
 0.0.0.0 lf-c-flwb.bytetos.com
 0.0.0.0 lf-cold.snssdk.com
 0.0.0.0 lf-c.snssdk.com
@@ -2208,6 +2213,7 @@
 0.0.0.0 luckycat-power.snssdk.com
 0.0.0.0 lvres.muscdn.com
 0.0.0.0 lv.ulikecam.com
+0.0.0.0 mail.trae.cn
 0.0.0.0 main.bytedance.net
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 maliva-mcs.byteoversea.com.edgesuite.net
@@ -4015,6 +4021,8 @@
 0.0.0.0 sf16-short-sg.bytedapm.com
 0.0.0.0 sf16-short-va.bytedapm.com
 0.0.0.0 sf16-static.i18n-pglstatp.com
+0.0.0.0 sf16-tcc-tos-sg.byteoversea.com
+0.0.0.0 sf16-tcc-tos-va.byteoversea.com
 0.0.0.0 sf16-tk-m.tiktokcdn.com
 0.0.0.0 sf16-tk-m.tiktokcdn.com.edgesuite.net
 0.0.0.0 sf16-tk.tiktokcdn.com
@@ -4621,6 +4629,9 @@
 0.0.0.0 tracking.bytedance.net
 0.0.0.0 track.toutiao.com
 0.0.0.0 trade.bytedance.net
+0.0.0.0 trae.ai
+0.0.0.0 trae.cn
+0.0.0.0 trae.com.cn
 0.0.0.0 transfer.bytedance.net
 0.0.0.0 travel.bytedance.net
 0.0.0.0 ts.bytedance.net
@@ -5466,6 +5477,7 @@
 0.0.0.0 www.toutiao.com
 0.0.0.0 www.toutiao.com.bytedns.net
 0.0.0.0 www.trae.ai
+0.0.0.0 www.trae.cn
 0.0.0.0 www.worldfcdn.com
 0.0.0.0 www.wshifen.com
 0.0.0.0 www.xzcs3zlph.com
@@ -5525,6 +5537,7 @@
 0.0.0.0 xzcs3zlph.com
 0.0.0.0 xzcs3zlph.com.akamaized.net
 0.0.0.0 xzzfz.toutiao.com
+0.0.0.0 yhgfb-cn-static.com
 0.0.0.0 y.l.bytedns.net
 0.0.0.0 youdianyisi.com
 0.0.0.0 yuntu.toutiao.com

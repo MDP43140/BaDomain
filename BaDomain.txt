@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 12.06.2025
+# Version: 13.07.2025
 # Update: 1 day
 #
 
@@ -382,6 +382,7 @@ ad-score.com
 adsensecamp.com
 adserver.adverty.com
 adserver.kl-youniverse.com
+adservice.cm.bloomberg.com
 adservice.google.co.id
 ads.flurry.com
 ads.gadsme.com
@@ -692,6 +693,7 @@ api.clucoin.com
 api.coin.baca.co.id
 api-config.babybus.com
 api.conscent.in
+api.countapi.xyzmobile-download-f-app.com
 api.cupid.ptqy.gitv.tv
 api.customers.guardsquare.com
 api.data.appsinnova.com
@@ -899,6 +901,7 @@ api.ushareit.com
 api-v2.apkssr.com
 apiv2.popupsmart.com
 api-va.tmtreader.com
+api.viafoura.co
 api.videorecorderglobalserver.com
 api.vishavideo.com
 api-visitor-analytics.intercom.com
@@ -960,6 +963,7 @@ appcfg.wetvinfo.com
 app.chaport.com
 appcloud.mcafee.com
 app.cove.chat
+appcues.com
 app.directededge.com
 app.driftt.com
 appealtime.com
@@ -991,6 +995,7 @@ app-measurement.com
 appmetrica.yandex.ru
 app-mgr.noxgroup.com
 app.monetizer.com
+app.navattic.com
 appnext.com
 appodeal.com
 appodealstack.com
@@ -1099,6 +1104,7 @@ assets.giocdn.com
 assets-global.website-files.com
 assets.hellobar.com
 assets-jpcust.jwpsrv.com
+assets.koala.live
 assets.ludokingapi.com
 assets.manutd.com
 assets.mintegral.com
@@ -1460,6 +1466,7 @@ capi-tier-2-us-east-2.connatix.com
 capndr.com
 captcha.gtimg.com
 capterra.com
+capture.navattic.com
 carbonads.com
 carcflma.de
 cardboard.ge
@@ -1680,6 +1687,7 @@ cdn.unblockia.com
 cdn.unibotscdn.com
 cdn.useproof.com
 cdn-us.eufylife.com
+cdn.vuukle.com
 cdn-v.videopool.h5xyz.com
 cdn.walkme.com
 cdnwidget.com
@@ -1705,6 +1713,7 @@ cf-st.sc-cdn.net
 c.ftblltrck.com
 cf.vskitcdn.com
 cf.way2muchnoise.eu
+c.gass.co.id
 chandashi.com
 changelog.announcekit.app
 chaport.com
@@ -1836,6 +1845,7 @@ cnam4c-inapps.appsflyersdk.com
 cnam4c-launches.appsflyersdk.com
 cname-china.vercel-dns.com
 cname.vercel-dns.com
+c.navattic.com
 cn.e.pic.ak.mangatoon.akamaized.net
 cn-e-pic-aliyun.mangatoon.mobi
 cn-e-pic.mangatoon.mobi
@@ -2309,6 +2319,7 @@ dpdwnl.my-free.website
 dp.tracking.shopee.co.id
 draper.popcap.com
 dreamdata.cloud
+dreamdata.io
 dreamsofcryingf.com
 drift.com
 driftracingonline.com
@@ -2486,6 +2497,8 @@ es.4sync.com
 es.bignox.com
 escolhatecnologia.com
 escolhatecnologia.com.br
+esmwxy-conversions.appsflyersdk.com
+esmwxy-dlsdk.appsflyersdk.com
 es.rakuten.tv
 es.slideshare.net
 establishedtitles.com
@@ -2575,6 +2588,7 @@ fantasyland.bio
 fanyi.baidu.com
 farmcityer.com
 farsroid.com
+fast.appcues.com
 fast-dl.xyz
 fastlane.rubiconproject.com
 fastspring.com
@@ -2583,6 +2597,7 @@ favicon.yandex.net
 fbads-tools.com
 fbappi.co
 fbh20.indosatooredoo.com
+fblhbt-conversions.appsflyersdk.com
 f.cstpersl.com
 fcu5wl-cdn-settings.appsflyersdk.com
 fcu5wl-conversions.appsflyersdk.com
@@ -2775,6 +2790,8 @@ g-api.snackvideo.com
 garagewestrotterdam.nl
 garud.jp
 garusoft.com
+gass.co.id
+gass.innerfit.id
 gate.upclick.com
 gateway.ea.com
 gateway.gadsme.com
@@ -2845,6 +2862,7 @@ glassbox.com
 g.lazcdn.com
 glcs.listdl.com
 gliavideo.com
+gli.id
 gllto1.glpals.com
 gllto2.glpals.com
 global-4-lvs-odra.opera-mini.net
@@ -3403,6 +3421,7 @@ ipapi.co
 ip-api.com
 ipchina163.com
 ipdata.co
+ip.gass.co.id
 ip-geo.iqiyi.com
 ipgeo.wlvpn.com
 ip.horizontegames.com
@@ -3540,8 +3559,10 @@ js.intercomcdn.com
 js.juicyads.com
 js.media-lab.ai
 js.memberful.com
+js.mobileoffers-pre-download.com
 js.monitor.azure.com
 js.na.chilipiper.com
+js.navattic.com
 json.ludokingapi.com
 js.pookcdn.com
 js.qualified.com
@@ -3757,6 +3778,7 @@ line.me
 linkedin.com
 linkvertise.com
 linkvertize.com
+lintvdve.com
 liogr8-gcdsdk.appsflyersdk.com
 liogr8-inapps.appsflyersdk.com
 liogr8-launches.appsflyersdk.com
@@ -3778,6 +3800,7 @@ live.chartboost.com
 livechat.com
 livechat.containers.piwik.pro
 livechatinc.com
+livecomments.viafoura.co
 livedatacdn.ilivedata.com
 livedispatcher.omiapp.me
 live.glance.com
@@ -3801,6 +3824,7 @@ lobby.igamecj.com
 localdate.monster
 localhost.ipchina163.com
 locate.measurementlab.net
+location.cm.bloomberg.com
 lockersatelic.cam
 loc.map.baidu.com
 log.48play.com
@@ -3921,6 +3945,7 @@ map.baidu.com
 mapi.langitmusik.co.id
 mapi.langitmusik.com
 marchex.io
+marketing.doverunner.com
 marketing.halodoc.com
 marketinguiproduction.gatsbyjs.io
 marketing.visionplus.id
@@ -3934,6 +3959,7 @@ mars.gamegamb.com
 marvel-b2-cdn.bc0a.com
 ma.swiftypecdn.com
 mat1.gtimg.com
+mataharistore.api.useinsider.com
 match.deepintent.com
 mathtag.com
 matomo.y8.com
@@ -3959,6 +3985,7 @@ mc.us18.list-manage.com
 mc.yandex.ru
 m-d76ce7ee-a2ca-4e94-b0c8-b9af8529d793.as.omnichannelengagementhub.com
 mdap.alipay.com
+mdigi.umundus.net
 mdn.alipayobjects.com
 md-usdt.com
 medallia.com
@@ -4285,6 +4312,7 @@ nathanaeldan.pro
 nativehub.com
 nativepu.sh
 nav-assets.zuora.life
+navattic.com
 nav-edge.smartscreen.microsoft.com
 naydex.net
 nbcu.demdex.net
@@ -4361,6 +4389,7 @@ noss.litatom.com
 nostra.glance.com
 notificationsacademy.com
 notifications-gke-sdk-bidding.fyber.com
+notifications.viafoura.co
 notif.quizizz.com
 notify.adskeeper.com
 notin.tokyo
@@ -4828,6 +4857,7 @@ palmpal.net
 palmpay.com
 palmplaystore.com
 pan-el.com
+panel.gass.co.id
 panel.wibuku.app
 pa.netcoresmartech.com
 pantip.com
@@ -5052,6 +5082,7 @@ prd.jwpltx.com
 prebid.deepintent.com
 prebid.jixie.io
 preferences.clearbit.com
+premcdn.swymrelay.com
 premierleague.com
 preview-kly.akamaized.net
 p.rfihub.com
@@ -5248,9 +5279,11 @@ rcc-software.com
 r.clarity.ms
 rcmjs.rambler.ru
 rcs.easybrain.com
+rd.one-mob-app-k.com
 rdr.mobiletime.net
 realistic-negotiation.com
 realmoneybiz.com
+realtimeeventfeeds.viafoura.co
 rebuilt.pro.ilovexclub.com
 receiver.habby.mobi
 receiver-metis.infeng.site
@@ -5369,6 +5402,8 @@ rkdms.com
 rkgwzfwjgk.com
 rmb.ops.beeline.ru
 r.mee6.xyz
+rmoacx-conversions.appsflyersdk.com
+rmoacx-dlsdk.appsflyersdk.com
 r.mradx.net
 robotaset.com
 robuxweb.pro
@@ -6036,6 +6071,7 @@ status.castle.io
 statwup.nimo.tv
 stat.xdplt.com
 staudsees.net
+stautsoarsoaw.net
 stay.decentralappps.com
 stc-sp.zadn.vn
 stc.sp.zdn.vn
@@ -6065,6 +6101,7 @@ stpphi-conversions.appsflyersdk.com
 stpphi-dlsdk.appsflyersdk.com
 stpphi-inapps.appsflyersdk.com
 stpphi-launches.appsflyersdk.com
+stpphi-onelink.appsflyersdk.com
 stpphi-register.appsflyersdk.com
 streamback.ff.avast.com
 streaming.split.io
@@ -6145,6 +6182,7 @@ switch.babybus.com
 s.w.org
 swpsvc.com
 swymstore-v3free-01.swymrelay.com
+swymstore-v3premium-01.swymrelay.com
 swymv3free-01.azureedge.net
 s.xlgmedia.com
 sync.adkernel.com
@@ -6177,6 +6215,7 @@ tag.clearbitscripts.com
 tag.researchnow.com
 tags.rvere.com
 tags.tiqcdn.com
+tag.unifyintent.com
 tag.wknd.ai
 taichi.y5en.com
 talaria.online
@@ -6540,6 +6579,7 @@ undertone.com
 unduh.happymod.com
 unibotscdn.com
 uniconsent.com
+unifyintent.com
 uNiKCj-dnsotls-ds.metric.gstatic.com
 unipin.com
 unite.ai
@@ -6687,6 +6727,7 @@ vgold.gameloft.com
 vg-rule.detailroi.com
 vhd6JY-dnsotls-ds.metric.gstatic.com
 vi.4sync.com
+viafoura.com
 vibeacon.onezapp.com
 vibeaconstr.onezapp.com
 vibecdn.contextads.live
@@ -6802,6 +6843,7 @@ vun.fyi
 vungle2-cdn-prod.s3.amazonaws.com
 vungle.com
 vur.fyi
+vuukle.com
 vv9.link
 vyn.fyi
 v.youku.com
@@ -7161,6 +7203,7 @@ www.aplikasichat.com
 www.app-ads-txt.com
 www.appadvice.com
 www.appbazaar.com
+www.appcues.com
 www.appjustable.com
 www.applilink.jp
 www.arcade.software
@@ -7366,6 +7409,7 @@ www.mvpconsultant.us
 www.mxbc.com
 www.mxj5trk.com
 www.narratorsvoice.com
+www.navattic.com
 www.noxgroup.com
 www.noxinfluencer.com
 www.oklahomacasinoguru.com
@@ -7757,6 +7801,7 @@ zipoapps.com
 ziprararchiver.com
 ZIX4Lj-dnsotls-ds.metric.gstatic.com
 zjs.zingcdn.me
+zlyer-cdn-comps-en.bigeyes.com
 zmienkoloryab01e201fb80b834d5967466e0d97aae.blogspot.com
 z.moatads.com
 zn5keqwrrrcgs4np-xla.siteintercept.qualtrics.com

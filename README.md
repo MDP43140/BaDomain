@@ -28,6 +28,7 @@ Optional (included as separate misc hosts file):
 + [Roblox](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoRoblox_hosts.txt)
 + [Free Fire](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoFreeFire_hosts.txt)
 + [Apple](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoApple_hosts.txt)
++ [Advanced](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/Advanced_hosts.txt)
 + [Chinese domains](https://raw.githubusercontent.com/mdp43140/BaDomain/main/misc/NoChinaOverseaSpy_hosts.txt)
 
 ## Contributing

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
-# Desc: Another "add-on" on top of BaDomain that blocks even more things (that you may not want)
-# Version: 08.05.2025
+# Desc: Another "add-on" on top of BaDomain that blocks even more things (that you may not want or could potentially cause causes)
+# Version: 13.07.2025
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -25,6 +25,7 @@
 0.0.0.0 acs-m.lazada.co.id
 0.0.0.0 acs-m.lazada.sg
 0.0.0.0 adashx.ut.lazada.com
+0.0.0.0 amdb.alice.licelus.com
 0.0.0.0 amdc.lazada.com
 0.0.0.0 amdc-wapa-alicdn.lazada.com
 0.0.0.0 amdc-wapa.lazada.com
@@ -36,17 +37,20 @@
 0.0.0.0 autodiscover.supercell.com
 0.0.0.0 aws.api.snapchat.com
 0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 aws-gate.licelus.com
 0.0.0.0 aws-proxy-gcp.api.snapchat.com
 0.0.0.0 backup.supercell.com
 0.0.0.0 barracuda.supercell.com
 0.0.0.0 catalog.supercell.com
 0.0.0.0 cdn.id.supercell.com
 0.0.0.0 cdn.supercell.com
+0.0.0.0 cdn.zimperium.com
 0.0.0.0 chronos.supercell.com
 0.0.0.0 clashofclans.inbox.supercell.com
 0.0.0.0 c.lazada.co.id
 0.0.0.0 dl.dropboxusercontent.com
 0.0.0.0 drive-thirdparty.googleusercontent.com
+0.0.0.0 edge.zimperium.com
 0.0.0.0 enterpriseenrollment.supercell.com
 0.0.0.0 e.supercell.com
 0.0.0.0 extranet.supercell.com
@@ -100,3 +104,4 @@
 0.0.0.0 wiki.supercell.com
 0.0.0.0 www.snapchat.com
 0.0.0.0 www.supercell.com
+0.0.0.0 ziap.zimperium.com

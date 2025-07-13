@@ -283,6 +283,7 @@ r.sg.sec.miui.com
 ruac.account.xiaomi.com
 s01.appmifile.com
 s01.mifile.cn
+s02.mifile.cn
 s03.appmifile.com
 s05.appmifile.com
 sandbox.xmpush.xiaomi.com

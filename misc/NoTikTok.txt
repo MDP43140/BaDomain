@@ -527,6 +527,7 @@ api-live-hl.amemv.com
 api-live-hl.amemv.com.w.kunluncan.com
 api-lq.amemv.com
 api-lq.amemv.com.w.cdngslb.com
+api.marscode.cn
 api-mo.snssdk.com
 api-m.tiktok.com
 api.musical.ly
@@ -585,11 +586,13 @@ api.tiktokv.com.edgekey.net
 api.toutiao50.com
 api.toutiao50.com.edgesuite.net
 api.trae.ai
+api.trae.cn
 api-t.tiktok.com
 api-t.tiktokv.com
 api-t.tiktokv.com.edgekey.net
 api-useast2a.toutiao50.com
 api-useast2a.toutiao50.com.edgesuite.net
+api-us-east.trae.ai
 api-va.tiktokv.com
 api-va.tiktokv.com.edgekey.net
 api-yak.amemv.com
@@ -1923,6 +1926,7 @@ lf3-tccdn-tos.pstatp.com
 lf3-ttcdn-tos.pstatp.com
 lf3-xgcdn-tos.pstatp.com
 lf6-cdn-tos.bytescm.com
+lf6-config.bytetcc.com
 lf6-dycdn-tos.pstatp.com
 lf6-geckocdn-tos.pstatp.com
 lf6-hscdn-tos.pstatp.com
@@ -1935,6 +1939,7 @@ lf9-geckocdn.tiktokcdn.com
 lf9-geckocdn-tos.pstatp.com.bsgslb.com
 lf9-tk-tos.tiktokcdn.com
 lf-cdn.trae.ai
+lf-cdn.trae.com.cn
 lf-c-flwb.bytetos.com
 lf-cold.snssdk.com
 lf-c.snssdk.com
@@ -2208,6 +2213,7 @@ luckycat-power-lq.snssdk.com
 luckycat-power.snssdk.com
 lvres.muscdn.com
 lv.ulikecam.com
+mail.trae.cn
 main.bytedance.net
 maliva-mcs.byteoversea.com
 maliva-mcs.byteoversea.com.edgesuite.net
@@ -4015,6 +4021,8 @@ sf16-sg.tiktokcdn.com
 sf16-short-sg.bytedapm.com
 sf16-short-va.bytedapm.com
 sf16-static.i18n-pglstatp.com
+sf16-tcc-tos-sg.byteoversea.com
+sf16-tcc-tos-va.byteoversea.com
 sf16-tk-m.tiktokcdn.com
 sf16-tk-m.tiktokcdn.com.edgesuite.net
 sf16-tk.tiktokcdn.com
@@ -4621,6 +4629,9 @@ track.bytedance.net
 tracking.bytedance.net
 track.toutiao.com
 trade.bytedance.net
+trae.ai
+trae.cn
+trae.com.cn
 transfer.bytedance.net
 travel.bytedance.net
 ts.bytedance.net
@@ -5466,6 +5477,7 @@ www.tiktokv.com.edgesuite.net
 www.toutiao.com
 www.toutiao.com.bytedns.net
 www.trae.ai
+www.trae.cn
 www.worldfcdn.com
 www.wshifen.com
 www.xzcs3zlph.com
@@ -5525,6 +5537,7 @@ xxz.toutiao.com
 xzcs3zlph.com
 xzcs3zlph.com.akamaized.net
 xzzfz.toutiao.com
+yhgfb-cn-static.com
 y.l.bytedns.net
 youdianyisi.com
 yuntu.toutiao.com
