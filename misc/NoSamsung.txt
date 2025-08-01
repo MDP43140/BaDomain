@@ -68,6 +68,7 @@ us-api.rewards.svc.samsung.com
 us-auth2.samsungosp.com
 v3.account.samsung.com
 vas.samsungapps.com
+wu2z-api.samsungcloud.com
 www.internet.apps.samsung.com
 www.samsung.com
 www.samsungknox.com

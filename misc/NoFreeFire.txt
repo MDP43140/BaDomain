@@ -8,6 +8,7 @@
 100067.msdk.garena.com
 absenharian.ff.garena.co.id
 api-otrs.garena.co.id
+assets.cdn.garenanow.com
 bdversion.ggbluefox.com
 castle.freefiremobile.com
 cdngarenanow-a.akamaihd.net
@@ -70,6 +71,7 @@ reward.ff.garena.com
 sdk.garena.com
 sea.freefiremobile.com
 supportadm.garena.co.id
+surprisespin.ff.gameid.garena.co.id
 testconnect.garena.com
 testconnect.garenanow.com
 version.common.ffmax.garena.com

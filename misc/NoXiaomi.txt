@@ -257,6 +257,7 @@ miuirom.xiaomi.com
 m.zhuti.xiaomi.com
 new.c.mi.com
 newsfeed.api.intl.miui.com
+newsfeed-s.api.intl.miui.com
 notice.game.xiaomi.com
 o2o.api.xiaomi.com
 ot.io.mi.com

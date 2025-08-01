@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: Another "add-on" on top of BaDomain that blocks even more things (that you may not want or could potentially cause causes)
-# Version: 13.07.2025
+# Version: 01.08.2025
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -48,8 +48,10 @@
 0.0.0.0 chronos.supercell.com
 0.0.0.0 clashofclans.inbox.supercell.com
 0.0.0.0 c.lazada.co.id
+0.0.0.0 copilot.microsoft.com
 0.0.0.0 dl.dropboxusercontent.com
 0.0.0.0 drive-thirdparty.googleusercontent.com
+0.0.0.0 durev.online
 0.0.0.0 edge.zimperium.com
 0.0.0.0 enterpriseenrollment.supercell.com
 0.0.0.0 e.supercell.com

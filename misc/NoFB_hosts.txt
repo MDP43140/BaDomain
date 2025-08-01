@@ -52,6 +52,8 @@
 0.0.0.0 85C886DF-0A5C-4B22-98DC-21D28945E910-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 9B63CEC5-6059-46CF-92BE-59C2F6E8086E-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 9B63CEC5-6059-46CF-92BE-59C2F6E8086E-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 a1qa.m.facebook.com
 0.0.0.0 a3.sphotos.ak.fbcdn.net
 0.0.0.0 aa.facebook.com
@@ -442,6 +444,8 @@
 0.0.0.0 cdn-fallback.fbsbx.com
 0.0.0.0 cdn.fbsbx.com
 0.0.0.0 cdw.facebook.com
+0.0.0.0 CE7212CC-D4B1-40D2-A01B-8D814FA93A12-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 CE7212CC-D4B1-40D2-A01B-8D814FA93A12-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 c.facebook.com
 0.0.0.0 cg.facebook.com
 0.0.0.0 cgi.facebook.com
@@ -457,7 +461,9 @@
 0.0.0.0 chat-e2ee.facebook.com
 0.0.0.0 chat-e2ee-ig-p42.c10r.facebook.com
 0.0.0.0 chat-e2ee-ig-p42.fallback.c10r.facebook.com
+0.0.0.0 chat-e2ee-mini.c10r.facebook.com
 0.0.0.0 chat-e2ee-mini.facebook.com
+0.0.0.0 chat-e2ee-mini.fallback.c10r.facebook.com
 0.0.0.0 chat-e2ee-mini-fallback.facebook.com
 0.0.0.0 check4.facebook.com
 0.0.0.0 check6.facebook.com
@@ -3962,6 +3968,7 @@
 0.0.0.0 instagram.fjpa7-1.fna.fbcdn.net
 0.0.0.0 instagram.fjpa8-1.fna.fbcdn.net
 0.0.0.0 instagram.fjpa9-1.fna.fbcdn.net
+0.0.0.0 instagram.fkdi3-1.fna.fbcdn.net
 0.0.0.0 instagram.fkgf1-1.fna.fbcdn.net
 0.0.0.0 instagram.fkgf1-2.fna.fbcdn.net
 0.0.0.0 instagram.fkgf2-1.fna.fbcdn.net
@@ -4161,6 +4168,7 @@
 0.0.0.0 instagram.fmea2-2.fna.fbcdn.net
 0.0.0.0 instagram.fmea3-1.fna.fbcdn.net
 0.0.0.0 instagram.fmea4-1.fna.fbcdn.net
+0.0.0.0 instagram.fmel15-2.fna.fbcdn.net
 0.0.0.0 instagram.fmex10-1.fna.fbcdn.net
 0.0.0.0 instagram.fmex10-2.fna.fbcdn.net
 0.0.0.0 instagram.fmex10-3.fna.fbcdn.net
@@ -5509,7 +5517,9 @@
 0.0.0.0 media-sea1-1.cdn.whatsapp.net
 0.0.0.0 media-sin11-1.cdn.whatsapp.net
 0.0.0.0 media-sin11-2.cdn.whatsapp.net
+0.0.0.0 media-sin2-1.cdn.whatsapp.net
 0.0.0.0 media-sin2-2.cdn.whatsapp.net
+0.0.0.0 media-sin2-3.cdn.whatsapp.net
 0.0.0.0 media-sin6-1.cdn.whatsapp.net
 0.0.0.0 media-sin6-2.cdn.whatsapp.net
 0.0.0.0 media-sin6-3.cdn.whatsapp.net
@@ -5541,6 +5551,7 @@
 0.0.0.0 moelven.m.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt.facebook.com
+0.0.0.0 mqtt.fallback.c10r.facebook.com
 0.0.0.0 mqtt-ig-p4.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mqtt-p4.facebook.com
@@ -5765,6 +5776,7 @@
 0.0.0.0 scontent-cgk1-3.cdninstagram.com
 0.0.0.0 scontent-cgk2-1.cdninstagram.com
 0.0.0.0 scontent-cgk2-1.xx.fbcdn.net
+0.0.0.0 scontent-cgk2-2.cdninstagram.com
 0.0.0.0 scontent-c.xx.fbcdn.net
 0.0.0.0 scontent-den2-1.cdninstagram.com
 0.0.0.0 scontent-den4-1.cdninstagram.com
@@ -5804,6 +5816,7 @@
 0.0.0.0 scontent.fadl8-1.fna.fbcdn.net
 0.0.0.0 scontent-fallback.cdninstagram.com
 0.0.0.0 scontent-fallback.xx.fbcdn.net
+0.0.0.0 scontent.fallback.xx.fbcdn.net
 0.0.0.0 scontent.fams1-2.fna.fbcdn.net
 0.0.0.0 scontent.fams2-1.fna.fbcdn.net
 0.0.0.0 scontent.fams2-2.fna.fbcdn.net
@@ -7719,6 +7732,14 @@
 0.0.0.0 scontent-sea.xx.fbcdn.net
 0.0.0.0 scontent-sin11-1.cdninstagram.com
 0.0.0.0 scontent-sin11-1.xx.fbcdn.net
+0.0.0.0 scontent-sin11-2.cdninstagram.com
+0.0.0.0 scontent-sin11-2.xx.fbcdn.net
+0.0.0.0 scontent-sin2-1.cdninstagram.com
+0.0.0.0 scontent-sin2-1.xx.fbcdn.net
+0.0.0.0 scontent-sin2-2.cdninstagram.com
+0.0.0.0 scontent-sin2-2.xx.fbcdn.net
+0.0.0.0 scontent-sin2-3.cdninstagram.com
+0.0.0.0 scontent-sin2-3.xx.fbcdn.net
 0.0.0.0 scontent-sin6-1.cdninstagram.com
 0.0.0.0 scontent-sin6-1.xx.fbcdn.net
 0.0.0.0 scontent-sin6-2.cdninstagram.com
@@ -8078,6 +8099,7 @@
 0.0.0.0 star.fallback.c10r.instagram.com
 0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 star-mini.fallback.c10r.facebook.com
+0.0.0.0 star-nohsts.c10r.facebook.com
 0.0.0.0 static.ak.connect.facebook.com
 0.0.0.0 static-ak.facebook.com
 0.0.0.0 static.ak.facebook.com
@@ -8716,7 +8738,6 @@
 0.0.0.0 tl-ph.facebook.com
 0.0.0.0 tmp.facebook.com
 0.0.0.0 tools.facebook.com
-0.0.0.0 tos-quic-gcpid.tiktokcdn.com
 0.0.0.0 touch.facebook.com
 0.0.0.0 trac.facebook.com
 0.0.0.0 traffic-nts-ip-assoc.xy.fbcdn.net

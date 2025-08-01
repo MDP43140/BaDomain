@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: Another "add-on" on top of BaDomain that blocks even more things (that you may not want or could potentially cause causes)
-# Version: 13.07.2025
+# Version: 01.08.2025
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -48,8 +48,10 @@ cdn.zimperium.com
 chronos.supercell.com
 clashofclans.inbox.supercell.com
 c.lazada.co.id
+copilot.microsoft.com # Legitimate Microsoft AI service, but phoning home even when not used
 dl.dropboxusercontent.com
 drive-thirdparty.googleusercontent.com
+durev.online # Russian VPN spam
 edge.zimperium.com
 enterpriseenrollment.supercell.com
 e.supercell.com

@@ -27,6 +27,7 @@ asia-expweb.vivo.com
 asia-exstatic-vivofs.vivo.com
 asia-exstatic.vivoglobal.com
 asia-exstsdk.vivoglobal.com
+asia-exthemewsdl.vivoglobal.com
 asia-f-up.vivoglobal.com
 asia-gamecenter-vivofs.vivoglobal.com
 asia-gamecenter.vivoglobal.com

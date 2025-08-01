@@ -1,10 +1,11 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 13.07.2025
+# Version: 01.08.2025
 # Update: 1 day
 #
 
+0.0.0.0 022ac7be-dnsotls-ds.metric.gstatic.com
 0.0.0.0 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
 0.0.0.0 05efspdbawfc.puscomosca.com
 0.0.0.0 07c225f3.online
@@ -93,6 +94,7 @@
 0.0.0.0 31.ygti905ffth6.com
 0.0.0.0 320volt.com
 0.0.0.0 3290bce0-dnsotls-ds.metric.gstatic.com
+0.0.0.0 32b5a0a4-dnsotls-ds.metric.gstatic.com
 0.0.0.0 32.ygti905ffth6.com
 0.0.0.0 333d629107.ee625e4b1d.com
 0.0.0.0 33across.com
@@ -103,6 +105,7 @@
 0.0.0.0 35cce65a-dnsotls-ds.metric.gstatic.com
 0.0.0.0 35.ygti905ffth6.com
 0.0.0.0 360stat.org
+0.0.0.0 36c3476e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 36.ygti905ffth6.com
 0.0.0.0 37.ygti905ffth6.com
 0.0.0.0 38.ygti905ffth6.com
@@ -123,6 +126,7 @@
 0.0.0.0 4180.vehiclevault.autos
 0.0.0.0 41.ygti905ffth6.com
 0.0.0.0 4263724d8cad.cdn4.forter.com
+0.0.0.0 42d73553-dnsotls-ds.metric.gstatic.com
 0.0.0.0 42trck.com
 0.0.0.0 42.ygti905ffth6.com
 0.0.0.0 43ors1osh.com
@@ -136,6 +140,7 @@
 0.0.0.0 48.ygti905ffth6.com
 0.0.0.0 49.ygti905ffth6.com
 0.0.0.0 4ae9.playfabapi.com
+0.0.0.0 4bd5fc97-dnsotls-ds.metric.gstatic.com
 0.0.0.0 4ced22ca066d4ca4a7726c9afff8c039.us-east-1.aws.found.io
 0.0.0.0 4cinsights.com
 0.0.0.0 4gnetfree.top
@@ -155,6 +160,7 @@
 0.0.0.0 50.ygti905ffth6.com
 0.0.0.0 5140.deeginews.com
 0.0.0.0 51.appmeasurements.com
+0.0.0.0 51dbc273-dnsotls-ds.metric.gstatic.com
 0.0.0.0 51.la
 0.0.0.0 51tracking.com
 0.0.0.0 51.ygti905ffth6.com
@@ -162,6 +168,7 @@
 0.0.0.0 52.ygti905ffth6.com
 0.0.0.0 531840-android-ds.metric.gstatic.com
 0.0.0.0 53.appmeasurements.com
+0.0.0.0 53b29b38-dnsotls-ds.metric.gstatic.com
 0.0.0.0 53.ygti905ffth6.com
 0.0.0.0 54.appmeasurements.com
 0.0.0.0 54ty7j-launches.appsflyersdk.com
@@ -186,8 +193,10 @@
 0.0.0.0 5.ygti905ffth6.com
 0.0.0.0 5yme8j.xxobs5.com
 0.0.0.0 602467.theirbellstudio.co
+0.0.0.0 604dc41a-dnsotls-ds.metric.gstatic.com
 0.0.0.0 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 0.0.0.0 613d89bc71.com
+0.0.0.0 6490ff6c-dnsotls-ds.metric.gstatic.com
 0.0.0.0 64a9.playfabapi.com
 0.0.0.0 65c6.playfabapi.com
 0.0.0.0 6d06a247-dnsotls-ds.metric.gstatic.com
@@ -199,6 +208,7 @@
 0.0.0.0 756964-android-ds.metric.gstatic.com
 0.0.0.0 7660e42567.edeb873154.com
 0.0.0.0 769b53a4-dnsotls-ds.metric.gstatic.com
+0.0.0.0 777143a85df57285154f5648a3583ce3.safeframe.googlesyndication.com
 0.0.0.0 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 0.0.0.0 79423.analytics.edgekey.net
 0.0.0.0 796294e0-dnsotls-ds.metric.gstatic.com
@@ -390,6 +400,7 @@
 0.0.0.0 ads.grid.id
 0.0.0.0 ads.id
 0.0.0.0 adsimg.kompas.com
+0.0.0.0 adsimg.kompas.com.0d0007d9.cdnhwc8.cn
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 adskeeper.com
@@ -432,6 +443,7 @@
 0.0.0.0 a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com
 0.0.0.0 ae9b110-dnsotls-ds.metric.gstatic.com
 0.0.0.0 aeef1b033fe9c48ada6c559fb84854f1-86e0a8e50803f25c.elb.ap-northeast-2.amazonaws.com
+0.0.0.0 aefd.nelreports.net
 0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 aeis.alicdn.com
 0.0.0.0 aeu.alicdn.com
@@ -759,6 +771,7 @@
 0.0.0.0 api-in.xunyou.mobi
 0.0.0.0 api.ipdata.co
 0.0.0.0 api.ipify.org
+0.0.0.0 api.ipregistry.co
 0.0.0.0 api.isharingapp.com
 0.0.0.0 api.jetengine.be
 0.0.0.0 api.jetgadget.me
@@ -886,6 +899,7 @@
 0.0.0.0 apitm.toolmatrix.plus
 0.0.0.0 api.tmtreader.com
 0.0.0.0 api.tnapps.xyz
+0.0.0.0 api-tones-hk.transsion.com
 0.0.0.0 api.top.gg
 0.0.0.0 api.toponadss.com
 0.0.0.0 api.tracking.al-array.com
@@ -1214,6 +1228,7 @@
 0.0.0.0 b6s-static.snow.me
 0.0.0.0 b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
 0.0.0.0 b85K^@f-dnsotls-ds.metric.gstatic.com
+0.0.0.0 b973f95f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 babaoss.oss-accelerate-overseas.aliyuncs.com
 0.0.0.0 babf3423-dnsotls-ds.metric.gstatic.com
 0.0.0.0 babyzee.uno
@@ -1255,6 +1270,7 @@
 0.0.0.0 bc.imgix.net
 0.0.0.0 b.cn846.com
 0.0.0.0 bcs.amanotes.net
+0.0.0.0 bda30581-dnsotls-ds.metric.gstatic.com
 0.0.0.0 bdain11112.pcapredict.com
 0.0.0.0 bdimg.com
 0.0.0.0 bdimg.share.baidu.com
@@ -1485,6 +1501,7 @@
 0.0.0.0 catalog-backend.sgdn.io
 0.0.0.0 catalog.saygames.io
 0.0.0.0 catalogue.sgdn.io
+0.0.0.0 cb4c1ea3-dnsotls-ds.metric.gstatic.com
 0.0.0.0 cbsi.com
 0.0.0.0 cbsipv4.shuzilm.cn
 0.0.0.0 cbs.wondershare.com
@@ -1610,6 +1627,7 @@
 0.0.0.0 cdn.innity.net
 0.0.0.0 cdn.insurads.com
 0.0.0.0 cdn.invitereferrals.com
+0.0.0.0 cdn.ipregistry.co
 0.0.0.0 cdn.isx.unity3d.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.jifo.co
@@ -2201,6 +2219,7 @@
 0.0.0.0 developers.is.com
 0.0.0.0 developers.pcapredict.com
 0.0.0.0 developers.pho.to
+0.0.0.0 developer.transsion.com
 0.0.0.0 d.everestop.io
 0.0.0.0 device-api.palmplaystore.com
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
@@ -2210,6 +2229,7 @@
 0.0.0.0 dev.tapjoy.com
 0.0.0.0 dev.zopim.com
 0.0.0.0 dexeqbeb7giwr.cloudfront.net
+0.0.0.0 df41e5ec-dnsotls-ds.metric.gstatic.com
 0.0.0.0 dfile.su
 0.0.0.0 df.infra.sz.shopee.co.id
 0.0.0.0 dialog-api.transsion-os.com
@@ -3006,6 +3026,7 @@
 0.0.0.0 handler-api.popupsmart.com
 0.0.0.0 handoff-cdn.appadvice.com
 0.0.0.0 hangmytracking.com
+0.0.0.0 hangup.palmplaystore.com
 0.0.0.0 hansel-sdk.tokopedia.com
 0.0.0.0 hansel-testsdk.tokopedia.com
 0.0.0.0 hanyu.sogou.com
@@ -3429,6 +3450,7 @@
 0.0.0.0 ipinfo.io
 0.0.0.0 i.pinimg.com
 0.0.0.0 ipods.pro
+0.0.0.0 ipregistry.co
 0.0.0.0 ipromote.com
 0.0.0.0 ipv4-c003-mkz001-telekommalaysia-isp.1.oca.nflxvideo.net
 0.0.0.0 ipv4.tap.io
@@ -3874,6 +3896,7 @@
 0.0.0.0 loklok.com
 0.0.0.0 loklok.tv
 0.0.0.0 loli.net
+0.0.0.0 lol.pussmptriller.lol
 0.0.0.0 london.cybertips.xyz
 0.0.0.0 lontaranews.com
 0.0.0.0 lookbookhq.com
@@ -4163,6 +4186,7 @@
 0.0.0.0 mpraven.org
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 mpush-api.aliyun.com
+0.0.0.0 mqtt-cluster06.transsion-os.com
 0.0.0.0 mqtt.transsion-os.com
 0.0.0.0 ms4.applovin.com
 0.0.0.0 ms4.applvn.com
@@ -4523,6 +4547,7 @@
 0.0.0.0 nxtck.com
 0.0.0.0 Ny6TWF-dnsotls-ds.metric.gstatic.com
 0.0.0.0 n.zing.vn
+0.0.0.0 o100521.ingest.sentry.io
 0.0.0.0 o1069899.ingest.de.sentry.io
 0.0.0.0 o1069899.ingest.sentry.io
 0.0.0.0 o1069899.ingest.us.sentry.io
@@ -5748,6 +5773,7 @@
 0.0.0.0 sg-res.9appsinstall.com
 0.0.0.0 sg.tdatamaster.com
 0.0.0.0 sg-test-11.slatic.net
+0.0.0.0 sg-vip001.taboola.com
 0.0.0.0 sg-vivo-api-server.allsaints.tv
 0.0.0.0 sg-vivo-dws.allsaints.tv
 0.0.0.0 shake-body.com
@@ -5986,6 +6012,7 @@
 0.0.0.0 static.cdn.prismic.io
 0.0.0.0 static-cdn.strpst.com
 0.0.0.0 static.cdntap.com
+0.0.0.0 static.chavoads.com
 0.0.0.0 static.cloud.coveo.com
 0.0.0.0 static-cms.aa-cdn.net
 0.0.0.0 static.dable.io
@@ -6372,6 +6399,7 @@
 0.0.0.0 tmdb.org
 0.0.0.0 tmge.alicdn.com
 0.0.0.0 tmp.cnam3.com
+0.0.0.0 tms2.palmplaystore.com
 0.0.0.0 tms-api.shalltry.com
 0.0.0.0 tm.tobeno1pinjam.com
 0.0.0.0 tnc16-sg.hypic.com
@@ -6573,12 +6601,15 @@
 0.0.0.0 u.mobsrvapi.com
 0.0.0.0 ums.acuityplatform.com
 0.0.0.0 um.simpli.fi
+0.0.0.0 un0yh0-launches.appsflyersdk.com
+0.0.0.0 un0yh0-skadsdkless.appsflyersdk.com
 0.0.0.0 unauthorizedsufficientlysensitivity.com
 0.0.0.0 unblockia.com
 0.0.0.0 undertone.com
 0.0.0.0 unduh.happymod.com
 0.0.0.0 unibotscdn.com
 0.0.0.0 uniconsent.com
+0.0.0.0 unif-id.ssp.inmobi.com
 0.0.0.0 unifyintent.com
 0.0.0.0 uNiKCj-dnsotls-ds.metric.gstatic.com
 0.0.0.0 unipin.com
@@ -6754,6 +6785,7 @@
 0.0.0.0 vidfree.net
 0.0.0.0 vidhide.com
 0.0.0.0 vidhidepro.com
+0.0.0.0 v-id.ls.glanceapis.com
 0.0.0.0 vidmateapp.com
 0.0.0.0 vidoomy.com
 0.0.0.0 vidyard.com
@@ -7319,6 +7351,7 @@
 0.0.0.0 www.google.ru
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+0.0.0.0 www.gotube.pro
 0.0.0.0 www.gsxnj.cn
 0.0.0.0 www.h5ecom.com
 0.0.0.0 www.haasonline.com

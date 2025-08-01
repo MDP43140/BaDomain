@@ -257,6 +257,7 @@
 0.0.0.0 m.zhuti.xiaomi.com
 0.0.0.0 new.c.mi.com
 0.0.0.0 newsfeed.api.intl.miui.com
+0.0.0.0 newsfeed-s.api.intl.miui.com
 0.0.0.0 notice.game.xiaomi.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 ot.io.mi.com

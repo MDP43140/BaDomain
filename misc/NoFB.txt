@@ -52,6 +52,8 @@
 85C886DF-0A5C-4B22-98DC-21D28945E910-netseer-ipaddr-assoc.xz.fbcdn.net
 8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xy.fbcdn.net
 8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xz.fbcdn.net
+9B63CEC5-6059-46CF-92BE-59C2F6E8086E-netseer-ipaddr-assoc.xy.fbcdn.net
+9B63CEC5-6059-46CF-92BE-59C2F6E8086E-netseer-ipaddr-assoc.xz.fbcdn.net
 a1qa.m.facebook.com
 a3.sphotos.ak.fbcdn.net
 aa.facebook.com
@@ -442,6 +444,8 @@ cdg2.fbcdn.net
 cdn-fallback.fbsbx.com
 cdn.fbsbx.com
 cdw.facebook.com
+CE7212CC-D4B1-40D2-A01B-8D814FA93A12-netseer-ipaddr-assoc.xy.fbcdn.net
+CE7212CC-D4B1-40D2-A01B-8D814FA93A12-netseer-ipaddr-assoc.xz.fbcdn.net
 c.facebook.com
 cg.facebook.com
 cgi.facebook.com
@@ -457,7 +461,9 @@ chat.cdn.whatsapp.net
 chat-e2ee.facebook.com
 chat-e2ee-ig-p42.c10r.facebook.com
 chat-e2ee-ig-p42.fallback.c10r.facebook.com
+chat-e2ee-mini.c10r.facebook.com
 chat-e2ee-mini.facebook.com
+chat-e2ee-mini.fallback.c10r.facebook.com
 chat-e2ee-mini-fallback.facebook.com
 check4.facebook.com
 check6.facebook.com
@@ -3962,6 +3968,7 @@ instagram.fjpa6-1.fna.fbcdn.net
 instagram.fjpa7-1.fna.fbcdn.net
 instagram.fjpa8-1.fna.fbcdn.net
 instagram.fjpa9-1.fna.fbcdn.net
+instagram.fkdi3-1.fna.fbcdn.net
 instagram.fkgf1-1.fna.fbcdn.net
 instagram.fkgf1-2.fna.fbcdn.net
 instagram.fkgf2-1.fna.fbcdn.net
@@ -4161,6 +4168,7 @@ instagram.fmea2-1.fna.fbcdn.net
 instagram.fmea2-2.fna.fbcdn.net
 instagram.fmea3-1.fna.fbcdn.net
 instagram.fmea4-1.fna.fbcdn.net
+instagram.fmel15-2.fna.fbcdn.net
 instagram.fmex10-1.fna.fbcdn.net
 instagram.fmex10-2.fna.fbcdn.net
 instagram.fmex10-3.fna.fbcdn.net
@@ -5509,7 +5517,9 @@ media-kul3-1.cdn.whatsapp.net
 media-sea1-1.cdn.whatsapp.net
 media-sin11-1.cdn.whatsapp.net
 media-sin11-2.cdn.whatsapp.net
+media-sin2-1.cdn.whatsapp.net
 media-sin2-2.cdn.whatsapp.net
+media-sin2-3.cdn.whatsapp.net
 media-sin6-1.cdn.whatsapp.net
 media-sin6-2.cdn.whatsapp.net
 media-sin6-3.cdn.whatsapp.net
@@ -5541,6 +5551,7 @@ mobile.facebook.com
 moelven.m.facebook.com
 mqtt.c10r.facebook.com
 mqtt.facebook.com
+mqtt.fallback.c10r.facebook.com
 mqtt-ig-p4.facebook.com
 mqtt-mini.facebook.com
 mqtt-p4.facebook.com
@@ -5765,6 +5776,7 @@ scontent-cgk1-2.xx.fbcdn.net
 scontent-cgk1-3.cdninstagram.com
 scontent-cgk2-1.cdninstagram.com
 scontent-cgk2-1.xx.fbcdn.net
+scontent-cgk2-2.cdninstagram.com
 scontent-c.xx.fbcdn.net # not exist
 scontent-den2-1.cdninstagram.com
 scontent-den4-1.cdninstagram.com
@@ -5804,6 +5816,7 @@ scontent.fadl7-2.fna.fbcdn.net
 scontent.fadl8-1.fna.fbcdn.net
 scontent-fallback.cdninstagram.com
 scontent-fallback.xx.fbcdn.net
+scontent.fallback.xx.fbcdn.net
 scontent.fams1-2.fna.fbcdn.net
 scontent.fams2-1.fna.fbcdn.net
 scontent.fams2-2.fna.fbcdn.net
@@ -7719,6 +7732,14 @@ scontent-sea1-1.xx.fbcdn.net
 scontent-sea.xx.fbcdn.net
 scontent-sin11-1.cdninstagram.com
 scontent-sin11-1.xx.fbcdn.net
+scontent-sin11-2.cdninstagram.com
+scontent-sin11-2.xx.fbcdn.net
+scontent-sin2-1.cdninstagram.com
+scontent-sin2-1.xx.fbcdn.net
+scontent-sin2-2.cdninstagram.com
+scontent-sin2-2.xx.fbcdn.net
+scontent-sin2-3.cdninstagram.com
+scontent-sin2-3.xx.fbcdn.net
 scontent-sin6-1.cdninstagram.com
 scontent-sin6-1.xx.fbcdn.net
 scontent-sin6-2.cdninstagram.com
@@ -8078,6 +8099,7 @@ star.fallback.c10r.facebook.com
 star.fallback.c10r.instagram.com
 star-mini.c10r.facebook.com
 star-mini.fallback.c10r.facebook.com
+star-nohsts.c10r.facebook.com
 static.ak.connect.facebook.com
 static-ak.facebook.com
 static.ak.facebook.com
@@ -8716,7 +8738,6 @@ time.facebook.com
 tl-ph.facebook.com
 tmp.facebook.com
 tools.facebook.com
-tos-quic-gcpid.tiktokcdn.com
 touch.facebook.com
 trac.facebook.com
 traffic-nts-ip-assoc.xy.fbcdn.net

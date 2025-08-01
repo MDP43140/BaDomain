@@ -1,10 +1,11 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 13.07.2025
+# Version: 01.08.2025
 # Update: 1 day
 #
 
+022ac7be-dnsotls-ds.metric.gstatic.com
 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
 05efspdbawfc.puscomosca.com
 07c225f3.online
@@ -93,6 +94,7 @@
 31.ygti905ffth6.com
 320volt.com
 3290bce0-dnsotls-ds.metric.gstatic.com
+32b5a0a4-dnsotls-ds.metric.gstatic.com
 32.ygti905ffth6.com
 333d629107.ee625e4b1d.com
 33across.com
@@ -103,6 +105,7 @@
 35cce65a-dnsotls-ds.metric.gstatic.com
 35.ygti905ffth6.com
 360stat.org
+36c3476e-dnsotls-ds.metric.gstatic.com
 36.ygti905ffth6.com
 37.ygti905ffth6.com
 38.ygti905ffth6.com
@@ -123,6 +126,7 @@
 4180.vehiclevault.autos
 41.ygti905ffth6.com
 4263724d8cad.cdn4.forter.com
+42d73553-dnsotls-ds.metric.gstatic.com
 42trck.com
 42.ygti905ffth6.com
 43ors1osh.com
@@ -136,6 +140,7 @@
 48.ygti905ffth6.com
 49.ygti905ffth6.com
 4ae9.playfabapi.com
+4bd5fc97-dnsotls-ds.metric.gstatic.com
 4ced22ca066d4ca4a7726c9afff8c039.us-east-1.aws.found.io
 4cinsights.com
 4gnetfree.top
@@ -155,6 +160,7 @@
 50.ygti905ffth6.com
 5140.deeginews.com
 51.appmeasurements.com
+51dbc273-dnsotls-ds.metric.gstatic.com
 51.la
 51tracking.com
 51.ygti905ffth6.com
@@ -162,6 +168,7 @@
 52.ygti905ffth6.com
 531840-android-ds.metric.gstatic.com
 53.appmeasurements.com
+53b29b38-dnsotls-ds.metric.gstatic.com
 53.ygti905ffth6.com
 54.appmeasurements.com
 54ty7j-launches.appsflyersdk.com
@@ -186,8 +193,10 @@
 5.ygti905ffth6.com
 5yme8j.xxobs5.com
 602467.theirbellstudio.co
+604dc41a-dnsotls-ds.metric.gstatic.com
 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 613d89bc71.com
+6490ff6c-dnsotls-ds.metric.gstatic.com
 64a9.playfabapi.com
 65c6.playfabapi.com
 6d06a247-dnsotls-ds.metric.gstatic.com
@@ -199,6 +208,7 @@
 756964-android-ds.metric.gstatic.com
 7660e42567.edeb873154.com
 769b53a4-dnsotls-ds.metric.gstatic.com
+777143a85df57285154f5648a3583ce3.safeframe.googlesyndication.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 79423.analytics.edgekey.net
 796294e0-dnsotls-ds.metric.gstatic.com
@@ -390,6 +400,7 @@ ads-geo.appia.com
 ads.grid.id
 ads.id
 adsimg.kompas.com
+adsimg.kompas.com.0d0007d9.cdnhwc8.cn
 ads.indosatooredoo.com
 ads-interfaces.sc-cdn.net
 adskeeper.com
@@ -432,6 +443,7 @@ adz.wattpad.com
 a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com
 ae9b110-dnsotls-ds.metric.gstatic.com
 aeef1b033fe9c48ada6c559fb84854f1-86e0a8e50803f25c.elb.ap-northeast-2.amazonaws.com
+aefd.nelreports.net
 ae.iads.unity3d.com
 aeis.alicdn.com
 aeu.alicdn.com
@@ -759,6 +771,7 @@ api.intellimize.co
 api-in.xunyou.mobi
 api.ipdata.co
 api.ipify.org
+api.ipregistry.co
 api.isharingapp.com
 api.jetengine.be
 api.jetgadget.me
@@ -886,6 +899,7 @@ api.tmdak.top
 apitm.toolmatrix.plus
 api.tmtreader.com
 api.tnapps.xyz
+api-tones-hk.transsion.com
 api.top.gg
 api.toponadss.com
 api.tracking.al-array.com
@@ -1214,6 +1228,7 @@ b.6sc.co
 b6s-static.snow.me
 b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
 b85K^@f-dnsotls-ds.metric.gstatic.com
+b973f95f-dnsotls-ds.metric.gstatic.com
 babaoss.oss-accelerate-overseas.aliyuncs.com
 babf3423-dnsotls-ds.metric.gstatic.com
 babyzee.uno
@@ -1255,6 +1270,7 @@ bc.game
 bc.imgix.net
 b.cn846.com
 bcs.amanotes.net
+bda30581-dnsotls-ds.metric.gstatic.com
 bdain11112.pcapredict.com
 bdimg.com
 bdimg.share.baidu.com
@@ -1485,6 +1501,7 @@ cat2.hbwrapper.com
 catalog-backend.sgdn.io
 catalog.saygames.io
 catalogue.sgdn.io
+cb4c1ea3-dnsotls-ds.metric.gstatic.com
 cbsi.com
 cbsipv4.shuzilm.cn
 cbs.wondershare.com
@@ -1610,6 +1627,7 @@ cdn-images.mailchimp.com
 cdn.innity.net
 cdn.insurads.com
 cdn.invitereferrals.com
+cdn.ipregistry.co
 cdn.isx.unity3d.com
 cdn.iubenda.com
 cdn.jifo.co
@@ -2201,6 +2219,7 @@ developers.ironsrc.com
 developers.is.com
 developers.pcapredict.com
 developers.pho.to
+developer.transsion.com
 d.everestop.io
 device-api.palmplaystore.com
 deviceintegritytokens-pa.googleapis.com
@@ -2210,6 +2229,7 @@ devs-data.dutils.com
 dev.tapjoy.com
 dev.zopim.com
 dexeqbeb7giwr.cloudfront.net
+df41e5ec-dnsotls-ds.metric.gstatic.com
 dfile.su
 df.infra.sz.shopee.co.id
 dialog-api.transsion-os.com
@@ -3006,6 +3026,7 @@ h-adashx4sg.ut.taobao.com
 handler-api.popupsmart.com
 handoff-cdn.appadvice.com
 hangmytracking.com
+hangup.palmplaystore.com
 hansel-sdk.tokopedia.com
 hansel-testsdk.tokopedia.com
 hanyu.sogou.com
@@ -3429,6 +3450,7 @@ ipify.org
 ipinfo.io
 i.pinimg.com
 ipods.pro
+ipregistry.co
 ipromote.com
 ipv4-c003-mkz001-telekommalaysia-isp.1.oca.nflxvideo.net
 ipv4.tap.io
@@ -3874,6 +3896,7 @@ loki.wattpad.com
 loklok.com
 loklok.tv
 loli.net
+lol.pussmptriller.lol
 london.cybertips.xyz
 lontaranews.com
 lookbookhq.com
@@ -4163,6 +4186,7 @@ mpd-designs.com
 mpraven.org
 mps.nbcuni.com
 mpush-api.aliyun.com
+mqtt-cluster06.transsion-os.com
 mqtt.transsion-os.com
 ms4.applovin.com
 ms4.applvn.com
@@ -4523,6 +4547,7 @@ nx-cdn.trgwl.com
 nxtck.com
 Ny6TWF-dnsotls-ds.metric.gstatic.com
 n.zing.vn
+o100521.ingest.sentry.io
 o1069899.ingest.de.sentry.io
 o1069899.ingest.sentry.io
 o1069899.ingest.us.sentry.io
@@ -5748,6 +5773,7 @@ sg-res.9appsdownloading.com
 sg-res.9appsinstall.com
 sg.tdatamaster.com
 sg-test-11.slatic.net
+sg-vip001.taboola.com
 sg-vivo-api-server.allsaints.tv
 sg-vivo-dws.allsaints.tv
 shake-body.com
@@ -5986,6 +6012,7 @@ static-cdn.cdkeyoffer.com
 static.cdn.prismic.io
 static-cdn.strpst.com
 static.cdntap.com
+static.chavoads.com
 static.cloud.coveo.com
 static-cms.aa-cdn.net
 static.dable.io
@@ -6372,6 +6399,7 @@ tl.bignox.com
 tmdb.org
 tmge.alicdn.com
 tmp.cnam3.com
+tms2.palmplaystore.com
 tms-api.shalltry.com
 tm.tobeno1pinjam.com
 tnc16-sg.hypic.com
@@ -6573,12 +6601,15 @@ ummydownloader.com
 u.mobsrvapi.com
 ums.acuityplatform.com
 um.simpli.fi
+un0yh0-launches.appsflyersdk.com
+un0yh0-skadsdkless.appsflyersdk.com
 unauthorizedsufficientlysensitivity.com
 unblockia.com
 undertone.com
 unduh.happymod.com
 unibotscdn.com
 uniconsent.com
+unif-id.ssp.inmobi.com
 unifyintent.com
 uNiKCj-dnsotls-ds.metric.gstatic.com
 unipin.com
@@ -6754,6 +6785,7 @@ video.unrulymedia.com
 vidfree.net
 vidhide.com
 vidhidepro.com
+v-id.ls.glanceapis.com
 vidmateapp.com
 vidoomy.com
 vidyard.com
@@ -7319,6 +7351,7 @@ www.goobers.net
 www.google.ru
 www.googletagmanager.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+www.gotube.pro
 www.gsxnj.cn
 www.h5ecom.com
 www.haasonline.com

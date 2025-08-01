@@ -122,6 +122,8 @@ amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 apac-asia-courier-4.push-apple.com.akadns.net
 apac-mask.wrr.mask.apple-dns.net
+apac-mask.wrr.me.apple-dns.net
+api-glb-aapne1c.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
 api.smoot.apple.com
 apple.co
@@ -175,6 +177,7 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration.ls.apple.com
+configuration.ls.v.aaplimg.com
 contacts.fe.apple-dns.net
 courier2.push.apple.com
 courier-ab-vs.push.apple.com
@@ -182,6 +185,7 @@ cstat.cdn-apple.com
 cstat.g.aaplimg.com
 dns.apple.com.v.aaplimg.com
 doh.dns.apple.com
+doh-dns-apple-com.v.aaplimg.com
 doh.dns.apple.com.v.aaplimg.com
 downloaddispatch.itunes.apple.com
 edge-102.sesto4.icloud-content.com
@@ -259,6 +263,7 @@ gspe35-ssl.ls-apple.com.akadns.net
 gspe48-ssl.ls.apple.com
 gspe72-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com

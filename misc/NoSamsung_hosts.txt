@@ -68,6 +68,7 @@
 0.0.0.0 us-auth2.samsungosp.com
 0.0.0.0 v3.account.samsung.com
 0.0.0.0 vas.samsungapps.com
+0.0.0.0 wu2z-api.samsungcloud.com
 0.0.0.0 www.internet.apps.samsung.com
 0.0.0.0 www.samsung.com
 0.0.0.0 www.samsungknox.com
