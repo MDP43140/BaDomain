@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 01.08.2025
+# Version: 27.08.2025
 # Update: 1 day
 #
 
@@ -2233,6 +2233,7 @@ df41e5ec-dnsotls-ds.metric.gstatic.com
 dfile.su
 df.infra.sz.shopee.co.id
 dialog-api.transsion-os.com
+dialogue.ireland.ai-transsion.com
 diametricblip.com
 diamylmorcote.shop
 dictionary.map.fastly.net
@@ -3700,6 +3701,8 @@ kwai.com
 kwai.net
 kwai-pro.com
 kxcdn.com
+kxevij-inapps.appsflyersdk.com
+kxevij-launches.appsflyersdk.com
 kyty1234.cc
 l86iug.xjwi5.com
 l9vjgt-cdn-settings.appsflyersdk.com
@@ -4791,6 +4794,7 @@ oss-eu-central-1.aliyuncs.com
 ossgw.alicdn.com
 o-static.ihago.net
 osupdate2020.shalltry.com
+ota-checker.transsion-os.com
 otakudesu.org
 ota.lokalise.co
 otm-r.com
@@ -5247,6 +5251,7 @@ qcloud.com
 qcloudimg.com
 qcloudimg.tencentcs.com
 qdown-sp-id.vod.susercontent.com
+qe0qqo-inapps.appsflyersdk.com
 qepodownload.mediatek.com
 qgepodownload.mediatek.com
 qnp16tstw.com
@@ -5408,6 +5413,7 @@ rgepodownload.mediatek.com
 rgeredrubygs.info
 richapp1.com
 richinfo.co
+r-id-appswitch.glance-cdn.com
 r-id.ls.glanceapis.com
 r-id-mob-game-cdn.glance-cdn.com
 r-id-mob.glance-cdn.com

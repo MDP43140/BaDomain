@@ -334,10 +334,16 @@
 0.0.0.0 txxx.com
 0.0.0.0 value.vrbangers.com
 0.0.0.0 vcdn.xozilla.xxx
+0.0.0.0 vdownload-10.sb-cd.com
+0.0.0.0 vdownload-11.sb-cd.com
 0.0.0.0 vdownload-12.sb-cd.com
+0.0.0.0 vdownload-13.sb-cd.com
 0.0.0.0 vdownload-1.sb-cd.com
+0.0.0.0 vdownload-30.sb-cd.com
+0.0.0.0 vdownload-31.sb-cd.com
 0.0.0.0 vdownload-34.sb-cd.com
 0.0.0.0 vdownload-37.sb-cd.com
+0.0.0.0 vdownload-43.sb-cd.com
 0.0.0.0 vdownload-44.sb-cd.com
 0.0.0.0 vdownload-45.sb-cd.com
 0.0.0.0 vdownload-46.sb-cd.com
@@ -347,6 +353,7 @@
 0.0.0.0 video3.homepornking.com
 0.0.0.0 video.4kporn.xxx
 0.0.0.0 videoassets.porndig.com
+0.0.0.0 video.pornfhd.com
 0.0.0.0 videoreddit.edu.vn
 0.0.0.0 videosnap.esx.bigo.sg
 0.0.0.0 videos.porndig.com

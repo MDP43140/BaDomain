@@ -54,6 +54,7 @@
 0.0.0.0 app.migc.xiaomi.com
 0.0.0.0 appstore.cdn.pandora.xiaomi.com
 0.0.0.0 appstore.pandora.xiaomi.com
+0.0.0.0 appvault-s.api.intl.miui.com
 0.0.0.0 appvault-s.cdn.intl.miui.com
 0.0.0.0 app.xiaomi.com
 0.0.0.0 assistant.pandora.xiaomi.com
@@ -85,6 +86,7 @@
 0.0.0.0 cdn.awsind0-fusion.fds.api.mi-img.com
 0.0.0.0 cdn.awsusor1.fds.api.mi-img.com
 0.0.0.0 cdn.cnbj1.fds.api.mi-img.com
+0.0.0.0 cdn-exp-sg-recommend.pt.xiaomi.com
 0.0.0.0 cdn.exp.xiaomi.com
 0.0.0.0 cdn.fds-ssl.api.xiaomi.com
 0.0.0.0 cdn-file.hyperos.mi.com
@@ -305,6 +307,7 @@
 0.0.0.0 sgp-api.buy.mi.com
 0.0.0.0 sgp-api.huangye.intl.miui.com
 0.0.0.0 sgp-cdn.video.intl.xiaomi.com
+0.0.0.0 sgp-howl.api.intl.miui.com
 0.0.0.0 sgp-l7-apm.slb.xiaomi.com
 0.0.0.0 sgp.lp.account.xiaomi.com
 0.0.0.0 sgp-push.api.intl.miui.com

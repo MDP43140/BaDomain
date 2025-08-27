@@ -8,6 +8,7 @@ api.account.samsung.com
 api.glb.samsung-gamelauncher.com
 api.gras.samsungdm.com
 api.mop.apps.samsung.com
+api.runestone.samsung.com
 api.samsungcloud.com
 api.samsungconsent.com
 api.samsungtvplus.com
@@ -43,6 +44,7 @@ id-odc.samsungapps.com
 img.samsungapps.com
 lbs-samsung.swypeconnect.com
 loc.samsungdive.com
+orsdls.di.runestone.samsung.com
 osb-eusvc.samsungqbe.com
 play.samsungcloud.com
 policies.account.samsung.com

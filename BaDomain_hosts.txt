@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 01.08.2025
+# Version: 27.08.2025
 # Update: 1 day
 #
 
@@ -2233,6 +2233,7 @@
 0.0.0.0 dfile.su
 0.0.0.0 df.infra.sz.shopee.co.id
 0.0.0.0 dialog-api.transsion-os.com
+0.0.0.0 dialogue.ireland.ai-transsion.com
 0.0.0.0 diametricblip.com
 0.0.0.0 diamylmorcote.shop
 0.0.0.0 dictionary.map.fastly.net
@@ -3700,6 +3701,8 @@
 0.0.0.0 kwai.net
 0.0.0.0 kwai-pro.com
 0.0.0.0 kxcdn.com
+0.0.0.0 kxevij-inapps.appsflyersdk.com
+0.0.0.0 kxevij-launches.appsflyersdk.com
 0.0.0.0 kyty1234.cc
 0.0.0.0 l86iug.xjwi5.com
 0.0.0.0 l9vjgt-cdn-settings.appsflyersdk.com
@@ -4791,6 +4794,7 @@
 0.0.0.0 ossgw.alicdn.com
 0.0.0.0 o-static.ihago.net
 0.0.0.0 osupdate2020.shalltry.com
+0.0.0.0 ota-checker.transsion-os.com
 0.0.0.0 otakudesu.org
 0.0.0.0 ota.lokalise.co
 0.0.0.0 otm-r.com
@@ -5247,6 +5251,7 @@
 0.0.0.0 qcloudimg.com
 0.0.0.0 qcloudimg.tencentcs.com
 0.0.0.0 qdown-sp-id.vod.susercontent.com
+0.0.0.0 qe0qqo-inapps.appsflyersdk.com
 0.0.0.0 qepodownload.mediatek.com
 0.0.0.0 qgepodownload.mediatek.com
 0.0.0.0 qnp16tstw.com
@@ -5408,6 +5413,7 @@
 0.0.0.0 rgeredrubygs.info
 0.0.0.0 richapp1.com
 0.0.0.0 richinfo.co
+0.0.0.0 r-id-appswitch.glance-cdn.com
 0.0.0.0 r-id.ls.glanceapis.com
 0.0.0.0 r-id-mob-game-cdn.glance-cdn.com
 0.0.0.0 r-id-mob.glance-cdn.com

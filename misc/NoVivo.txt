@@ -8,6 +8,7 @@ asia-adlog.vivoglobal.com
 asia-album-api.vivoglobal.com
 asia-apkselfdl.vivoglobal.com
 asia-artpp-vivofs.vivoglobal.com
+asia-assistant-ent.vivoglobal.com
 asia-assistant-sports.vivoglobal.com
 asia-browserplat.vivoglobal.com
 asia-browserstatic.vivoglobal.com
@@ -46,6 +47,7 @@ asia-os-config-appstore.vivoglobal.com
 asia-overseavideoh5.vivoglobal.com
 asia-overseavideo.vivoglobal.com
 asia-pnrt-stsdk.vivoglobal.com
+asia-preload-cdn.vivo.com
 asia-prt-stsdk.vivoglobal.com
 asia-p.vivoglobal.com
 asia-rommc-api.vivoglobal.com

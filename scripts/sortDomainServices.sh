@@ -159,8 +159,9 @@ while IFS= read -r line;do
 		*.bytetcdn.com|\
 		*.bytetos.com|\
 		*.bytevcloud.com|\
-		*.capcutapi.com|\
 		*.capcut.com|\
+		*.capcutapi.com|\
+		*.capcutstatic.com|\
 		*.douyinstatic.com|\
 		*.ibytedapm.com|\
 		*.ibytedos.com|\

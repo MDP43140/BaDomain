@@ -3,6 +3,7 @@
 #
 
 0.0.0.0 actimg.heytapimg.com
+0.0.0.0 adps-cdn-sg.allawnofs.com
 0.0.0.0 adsfs-id.heytapimg.com
 0.0.0.0 adsfs-in.heytapimg.com
 0.0.0.0 adx-id.ads.heytapmobi.com
@@ -382,6 +383,7 @@
 0.0.0.0 sticker-apps-sg.heytapmobile.com
 0.0.0.0 stickerf.apps.oppomobile.com
 0.0.0.0 stickerfsf.oppomobile.com
+0.0.0.0 store-cfg-gl.heytapmobile.com
 0.0.0.0 storedl3.f.oppomobile.com
 0.0.0.0 storedl4.f.oppomobile.com
 0.0.0.0 storedl5.f.oppomobile.com

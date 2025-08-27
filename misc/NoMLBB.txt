@@ -15,6 +15,7 @@ akmpicture.youngjoygame.com
 akmstatic.ml.youngjoygame.com
 akmweb.youngjoygame.com
 alxdlml.yuanzhanapp.com
+api.mobilelegends.com
 bi.moonton.com
 cycdn.ml.youngjoygame.com
 face.yuanzhanapp.com

@@ -15,6 +15,7 @@
 0.0.0.0 akmstatic.ml.youngjoygame.com
 0.0.0.0 akmweb.youngjoygame.com
 0.0.0.0 alxdlml.yuanzhanapp.com
+0.0.0.0 api.mobilelegends.com
 0.0.0.0 bi.moonton.com
 0.0.0.0 cycdn.ml.youngjoygame.com
 0.0.0.0 face.yuanzhanapp.com
