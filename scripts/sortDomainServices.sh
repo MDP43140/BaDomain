@@ -106,6 +106,8 @@ while IFS= read -r line;do
 			echo "$line" >> ${service_output_folder}/NoRoblox.tmp
 		;;
 		*.aibixby.com|\
+		*.bixbyllm.com|\
+		*.galaxyappstore.com|\
 		*.remotesamsung.com|\
 		*.samsung.com|\
 		*.samsung-dict.com|\
@@ -118,7 +120,9 @@ while IFS= read -r line;do
 		*.samsungdive.com|\
 		*.samsungdm.com|\
 		*.samsunghealth.com|\
+		*.samsungiotcloud.com|\
 		*.samsungknox.com|\
+		*.samsungmobile.com|\
 		*.samsungosp.com|\
 		*.samsungpositioning.com|\
 		*.samsungqbe.com|\
@@ -139,6 +143,7 @@ while IFS= read -r line;do
 		*.bytedance.net|\
 		*.bytedapm.com|\
 		*.bytedns.com|\
+		*.bytedns1.com|\
 		*.bytednsdoc.com|\
 		*.bytedns.net|\
 		*.byted.org|\
@@ -195,6 +200,7 @@ while IFS= read -r line;do
 		*.tiktok-row.org|\
 		*.tiktokrow-cdn.com|\
 		*.tiktokeu-cdn.com|\
+		*.tiktokshop.com|\
 		*.tiktokv.com|\
 		*.tiktokv.com.edgekey.net|\
 		*.tiktokv.com.edgesuite.net|\
@@ -242,6 +248,7 @@ while IFS= read -r line;do
 		*rtp*|\
 		*rtg*|\
 		*slot*|\
+		*toto*|\
 		*trio*|\
 		*triple*|\
 		*togel*|\

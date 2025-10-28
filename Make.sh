@@ -6,7 +6,7 @@
 #
 clear
 [ "$1" ] || (echo -e "Arguments required. no argument was given.\ntry -h to show help page.";exit 1);
-VERSION=$(date +%d.%m.%Y)
+#VERSION=$(date +%d.%m.%Y) # unused
 #UPDATE_FREQ="7 days" # unused
 HOSTSFILE_TYPES=(
 	"BaDomain"
