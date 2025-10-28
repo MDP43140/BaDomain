@@ -21,6 +21,7 @@
 0.0.0.0 btc-use2.mgmt.aibixby.com
 0.0.0.0 capi.samsungcloud.com
 0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 cn-ms.galaxyappstore.com
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 configprd.samsungcloudsolution.net
 0.0.0.0 consent.samsungrs.com
@@ -33,15 +34,18 @@
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 dls-udc.dqa.samsung.com
 0.0.0.0 dm.samsungdive.com
+0.0.0.0 dvs.samsungmobile.com
 0.0.0.0 ers.samsungcloud.com
 0.0.0.0 ers.samsungcloudplatform.com
 0.0.0.0 eu-api.samsungpositioning.com
 0.0.0.0 eu-auth2.samsungosp.com
 0.0.0.0 eu-kaf.samsungknox.com
 0.0.0.0 exp.samsungosp.com
+0.0.0.0 findnms.samsungiotcloud.com
 0.0.0.0 gmp.samsungapps.com
 0.0.0.0 id-odc.samsungapps.com
 0.0.0.0 img.samsungapps.com
+0.0.0.0 insight.samsunghealth.com
 0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 loc.samsungdive.com
 0.0.0.0 orsdls.di.runestone.samsung.com
@@ -56,6 +60,7 @@
 0.0.0.0 samsung-callerprofile.edge.hiyaapi.com
 0.0.0.0 samsungnewsapi.picks.my
 0.0.0.0 sapp.privacy.samsung.com
+0.0.0.0 scs-config-use2.bixbyllm.com
 0.0.0.0 sdk.pushmessage.samsung.com
 0.0.0.0 shealth-api.samsunghealth.com
 0.0.0.0 sia.internet.apps.samsung.com

@@ -10,6 +10,8 @@
 0.0.0.0 1AB39CF2-B71D-471C-B6FB-D89A2A882A02-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 1-act.channel.facebook.com
 0.0.0.0 1-edge-chat.facebook.com
+0.0.0.0 1F343277-66CA-49E3-AEC3-3784ADA9A6B1-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 1F343277-66CA-49E3-AEC3-3784ADA9A6B1-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 24A25202-5902-471C-B042-7D0E1944F775-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 24A25202-5902-471C-B042-7D0E1944F775-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 29E3B2F0-7888-451B-A581-89B5491BC961-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -22,10 +24,15 @@
 0.0.0.0 323720A2-D7EE-45E0-9BEE-A35FA00AE231-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 33268061-0699-44E5-9240-135C44974BAC-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 33268061-0699-44E5-9240-135C44974BAC-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 391ebdec-79a2-4ff7-9748-57849029d09e-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 391ebdec-79a2-4ff7-9748-57849029d09e-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 3-act.channel.facebook.com
+0.0.0.0 3EABBAF3-E8A5-46FD-9A6D-B247AAB6634C-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 3-edge-chat.facebook.com
 0.0.0.0 3F516A7D-F2FD-4778-AF03-98F6FFB1ECD0-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 3F516A7D-F2FD-4778-AF03-98F6FFB1ECD0-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 43D4E8DD-0790-47A1-9971-AEEDD09F87CB-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 43D4E8DD-0790-47A1-9971-AEEDD09F87CB-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 46C89E9C-FAF4-4CC9-85E4-6D5FDF873802-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 46C89E9C-FAF4-4CC9-85E4-6D5FDF873802-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 4-act.channel.facebook.com
@@ -34,8 +41,14 @@
 0.0.0.0 4-edge-chat.facebook.com
 0.0.0.0 5096977E-E5AB-4031-B1DD-A4CE73668575-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 5096977E-E5AB-4031-B1DD-A4CE73668575-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 58DB3D2D-D9DF-45DF-9515-ACDDF44553C2-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 58DB3D2D-D9DF-45DF-9515-ACDDF44553C2-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 5-act.channel.facebook.com
+0.0.0.0 5ba65e36-6353-4e1d-ad2f-5ed5e9a016a3-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 5ba65e36-6353-4e1d-ad2f-5ed5e9a016a3-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 5-edge-chat.facebook.com
+0.0.0.0 5F93E5C3-1003-49DC-9DBA-E598B309FFCC-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 5F93E5C3-1003-49DC-9DBA-E598B309FFCC-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 6562EE4A-E11A-4709-A6D2-D68E04A1E578-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 6562EE4A-E11A-4709-A6D2-D68E04A1E578-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 6-act.channel.facebook.com
@@ -60,6 +73,8 @@
 0.0.0.0 8A30D22A-B6E9-4D40-BE43-0DC3A166A5BB-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 8e476d3c-22da-4257-985b-45d84fa2ccd3-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 8e476d3c-22da-4257-985b-45d84fa2ccd3-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 95C0FC55-26FE-46BD-887E-300E41F188DB-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 95C0FC55-26FE-46BD-887E-300E41F188DB-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 95F94498-2925-4B06-AF4D-CF2DDA919D22-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -331,6 +346,8 @@
 0.0.0.0 ae13.pr01.mia1.tfbnw.net
 0.0.0.0 ae13.pr01.ord1.tfbnw.net
 0.0.0.0 ae13.pr01.sea1.tfbnw.net
+0.0.0.0 AE5F8A0B-0597-4678-BAC5-D8BBA074C298-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 AE5F8A0B-0597-4678-BAC5-D8BBA074C298-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 airasia.m.facebook.com
 0.0.0.0 ajg.facebook.com
 0.0.0.0 ak.facebook.com
@@ -398,6 +415,8 @@
 0.0.0.0 ball.facebook.com
 0.0.0.0 bankofamerica.facebook.com
 0.0.0.0 b-api.facebook.com
+0.0.0.0 bc3bcf46-5af8-4a8f-bc2e-c9cc32980528-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 bc3bcf46-5af8-4a8f-bc2e-c9cc32980528-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 bc.facebook.com
 0.0.0.0 bd.facebook.com
 0.0.0.0 bd.m.facebook.com
@@ -2788,6 +2807,8 @@
 0.0.0.0 f3820fd4380-geojjcel1707728796-sonar.snr.fbcdn.net
 0.0.0.0 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 0.0.0.0 f6ffa8b9780-obfszkgb1747662656-sonar.xz.fbcdn.net
+0.0.0.0 F763BAAF-A436-45E9-97A7-40CFF935758D-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 F763BAAF-A436-45E9-97A7-40CFF935758D-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 f8f85fb3280-iegbjhxl1753949746-sonar.xz.fbcdn.net
 0.0.0.0 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
 0.0.0.0 F9936664-3E6E-4A82-A123-740542737AE9-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -5564,8 +5585,10 @@
 0.0.0.0 mmg.whatsapp.net
 0.0.0.0 mm.m.facebook.com
 0.0.0.0 mmx-ds.cdn.whatsapp.net
+0.0.0.0 mmx-ds-fallback.cdn.whatsapp.net
 0.0.0.0 mobile.beta.facebook.com
 0.0.0.0 mobile.facebook.com
+0.0.0.0 mobile-fallback.facebook.com
 0.0.0.0 moelven.m.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt.facebook.com
@@ -5757,6 +5780,9 @@
 0.0.0.0 scontent-a-sea.xx.fbcdn.net
 0.0.0.0 scontent-a-sin.xx.fbcdn.net
 0.0.0.0 scontent-a-sjc.xx.fbcdn.net
+0.0.0.0 scontent-atl3-1.cdninstagram.com
+0.0.0.0 scontent-atl3-3.cdninstagram.com
+0.0.0.0 scontent-atl3-3.xx.fbcdn.net
 0.0.0.0 scontent-atl.xx.fbcdn.net
 0.0.0.0 scontent-a-vie.xx.fbcdn.net
 0.0.0.0 scontent-a.xx.fbcdn.net
@@ -8730,7 +8756,6 @@
 0.0.0.0 static.fwaw7-1.fna.fbcdn.net
 0.0.0.0 static.fwaw8-1.fna.fbcdn.net
 0.0.0.0 static.fwbw1-1.fna.fbcdn.net
-0.0.0.0 static.whatsapp.net
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 st.facebook.com
@@ -9438,7 +9463,6 @@
 0.0.0.0 xx-fbcdn-shv-06-lga1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-11-lhr3.fbcdn.net
 0.0.0.0 xy.fbcdn.net
-0.0.0.0 yolo.dhgamesdownload.comscontent-atl3-3.cdninstagram.com
 0.0.0.0 z-1.c10r.facebook.com
 0.0.0.0 z-1-external.fsea1-1.fna.fbcdn.net
 0.0.0.0 z-1.facebook.com
@@ -11179,6 +11203,8 @@
 0.0.0.0 z-p3-video-vie1-1.xx.fbcdn.net
 0.0.0.0 z-p42-chat-e2ee-ig.facebook.com
 0.0.0.0 z-p42-chat-e2ee-ig-fallback.facebook.com
+0.0.0.0 z-p42-instagram.c10r.instagram.com
+0.0.0.0 z-p42-instagram.fallback.c10r.instagram.com
 0.0.0.0 z-p42-instagram-portal.fb.com
 0.0.0.0 z-p4-api.facebook.com
 0.0.0.0 z-p4.facebook.com

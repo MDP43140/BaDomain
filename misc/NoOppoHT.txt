@@ -86,6 +86,8 @@ cl-data-id.ads.heytapmobile.com
 cl-data-in.ads.heytapmobi.com
 cl-data-sg.ads.heytapmobi.com
 client-uc.heytapmobi.com
+cloudconf-app-id.heytapmobile.com
+cloudconf-app-sg.heytapmobile.com
 cloudi-in.browser.heytapmobile.com
 cloudi-in.browser.oppomobile.com
 cloudi-sg.browser.heytapmobile.com
@@ -161,6 +163,7 @@ dragate-sg.dc.oppomobile.com
 dzbkjh1.myoppo.com
 eap-log-in.allawnos.com
 eap-log-sg.allawnos.com
+eimg-intl.heytapimg.com
 epoch-cn.cdo.heytapmobi.com
 epoch-gl.cdo.heytapmobi.com
 epoch-gl.cdo.heytapmobile.com
@@ -184,6 +187,7 @@ gameimg.heytapimg.com
 games-common-sg.heytapmobile.com
 games-community-gl.heytapmobile.com
 games-community-sg.heytapmobile.com
+gamespace-helper-sg.heytapmobile.com
 gauss-sauapkcostauto-cn.allawnfs.com
 gauss-sauapkcostmanual-sg.allawnofs.com
 gauss-sauoldcostmanual-cn.allawnfs.com
@@ -397,6 +401,7 @@ stuck-sg.dc.oppomobile.com
 themeimg.heytapimg.com
 theme-magazine-gl-01.heytapimg.com
 t-id.ads.heytapmobile.com
+time-push-intl.heytapmobile.com
 t-in.ads.heytapmobile.com
 tipsf.apps.oppomobile.com
 titan.heytap.com

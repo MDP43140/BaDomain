@@ -86,6 +86,8 @@
 0.0.0.0 cl-data-in.ads.heytapmobi.com
 0.0.0.0 cl-data-sg.ads.heytapmobi.com
 0.0.0.0 client-uc.heytapmobi.com
+0.0.0.0 cloudconf-app-id.heytapmobile.com
+0.0.0.0 cloudconf-app-sg.heytapmobile.com
 0.0.0.0 cloudi-in.browser.heytapmobile.com
 0.0.0.0 cloudi-in.browser.oppomobile.com
 0.0.0.0 cloudi-sg.browser.heytapmobile.com
@@ -161,6 +163,7 @@
 0.0.0.0 dzbkjh1.myoppo.com
 0.0.0.0 eap-log-in.allawnos.com
 0.0.0.0 eap-log-sg.allawnos.com
+0.0.0.0 eimg-intl.heytapimg.com
 0.0.0.0 epoch-cn.cdo.heytapmobi.com
 0.0.0.0 epoch-gl.cdo.heytapmobi.com
 0.0.0.0 epoch-gl.cdo.heytapmobile.com
@@ -184,6 +187,7 @@
 0.0.0.0 games-common-sg.heytapmobile.com
 0.0.0.0 games-community-gl.heytapmobile.com
 0.0.0.0 games-community-sg.heytapmobile.com
+0.0.0.0 gamespace-helper-sg.heytapmobile.com
 0.0.0.0 gauss-sauapkcostauto-cn.allawnfs.com
 0.0.0.0 gauss-sauapkcostmanual-sg.allawnofs.com
 0.0.0.0 gauss-sauoldcostmanual-cn.allawnfs.com
@@ -397,6 +401,7 @@
 0.0.0.0 themeimg.heytapimg.com
 0.0.0.0 theme-magazine-gl-01.heytapimg.com
 0.0.0.0 t-id.ads.heytapmobile.com
+0.0.0.0 time-push-intl.heytapmobile.com
 0.0.0.0 t-in.ads.heytapmobile.com
 0.0.0.0 tipsf.apps.oppomobile.com
 0.0.0.0 titan.heytap.com

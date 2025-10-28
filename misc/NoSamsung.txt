@@ -21,6 +21,7 @@ auth2.samsungosp.com
 btc-use2.mgmt.aibixby.com
 capi.samsungcloud.com
 cdn.samsungcloudsolution.com
+cn-ms.galaxyappstore.com
 config-api.internet.apps.samsung.com
 configprd.samsungcloudsolution.net
 consent.samsungrs.com
@@ -33,15 +34,18 @@ dir-apis.samsungdm.com
 dls.di.atlas.samsung.com
 dls-udc.dqa.samsung.com
 dm.samsungdive.com
+dvs.samsungmobile.com
 ers.samsungcloud.com
 ers.samsungcloudplatform.com
 eu-api.samsungpositioning.com
 eu-auth2.samsungosp.com
 eu-kaf.samsungknox.com
 exp.samsungosp.com
+findnms.samsungiotcloud.com
 gmp.samsungapps.com
 id-odc.samsungapps.com
 img.samsungapps.com
+insight.samsunghealth.com
 lbs-samsung.swypeconnect.com
 loc.samsungdive.com
 orsdls.di.runestone.samsung.com
@@ -56,6 +60,7 @@ resources.samsungosp.com
 samsung-callerprofile.edge.hiyaapi.com
 samsungnewsapi.picks.my
 sapp.privacy.samsung.com
+scs-config-use2.bixbyllm.com
 sdk.pushmessage.samsung.com
 shealth-api.samsunghealth.com
 sia.internet.apps.samsung.com

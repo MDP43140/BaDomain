@@ -22,9 +22,12 @@ asia-config-appstore.vivoglobal.com
 asia-err-up.vivoglobal.com
 asia-ex-adlog.vivoglobal.com
 asia-exappupgrade.vivoglobal.com
+asia-exbrowsercrp.vivoglobal.com
+asia-excpd-fs.vivoglobal.com
 asia-exdmp.vivoglobal.com
 asia-exmagazineunlock-proxy.vivoglobal.com
 asia-expweb.vivo.com
+asia-exsms-vivofs.vivo.com.cn
 asia-exstatic-vivofs.vivo.com
 asia-exstatic.vivoglobal.com
 asia-exstsdk.vivoglobal.com
@@ -100,7 +103,10 @@ homepage.vivo.com
 id-analyzer-appstore.vivoglobal.com
 id-config-appstore.vivoglobal.com
 id-info-appstore.vivoglobal.com
+id-main-appstore-bak1.vivoglobal.com
+id-main-appstore-bak.vivoglobal.com
 id-main-appstore.vivoglobal.com
+id-minor-appstore.vivoglobal.com
 id-search-appstore.vivoglobal.com
 id-third-appstore.vivoglobal.com
 id-timer-appstore.vivoglobal.com

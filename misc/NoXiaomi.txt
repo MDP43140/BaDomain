@@ -301,11 +301,13 @@ sf0.market.xiaomi.com
 sfsapi.micloud.xiaomi.net
 sg.api.io.mi.com
 sg.global.market.xiaomi.com
+sg.hlth.io.mi.com
 sg-idm.api.io.mi.com
 sg.idm.iot.mi.com
 sgpac.account.xiaomi.com
 sgp-api.buy.mi.com
 sgp-api.huangye.intl.miui.com
+sgp-api.video.intl.xiaomi.com
 sgp-cdn.video.intl.xiaomi.com
 sgp-howl.api.intl.miui.com
 sgp-l7-apm.slb.xiaomi.com
