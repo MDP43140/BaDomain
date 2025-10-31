@@ -88,6 +88,7 @@ cl-data-sg.ads.heytapmobi.com
 client-uc.heytapmobi.com
 cloudconf-app-id.heytapmobile.com
 cloudconf-app-sg.heytapmobile.com
+cloudconf-app-us.heytapmobile.com
 cloudi-in.browser.heytapmobile.com
 cloudi-in.browser.oppomobile.com
 cloudi-sg.browser.heytapmobile.com
@@ -273,7 +274,6 @@ i.sau.foreign.coloros.com
 i-sg01a.ocloud.heytapmobi.com
 i-sg.browser.heytapmobile.com
 i-th.browser.oppomobile.com
-i.warranty.oppo.com
 iweather.oppomobile.com
 lang-f.coloros.com
 languagef.coloros.com

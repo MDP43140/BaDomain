@@ -12,6 +12,7 @@
 189.cn
 360.cn
 3.cn
+abroad.apilocate.amap.com
 abt-online.netease.im
 admin-3.oss-cn-hongkong.aliyuncs.com
 admin.qidian.qq.com
@@ -39,6 +40,7 @@ app.biliintl.com
 appcfg.v.qq.com
 appsupport.qq.com
 app.yunxin.163.com
+aps.amap.com
 aretis.cc
 arms-retcode-sg.aliyuncs.com
 assets.cathaypacific.com
@@ -82,6 +84,7 @@ cnr.cn
 common-bucket.zhaopin.cn
 config.ab.qq.com
 connect-dra.dbankcloud.cn
+control.aps.amap.com
 cover.weixin.qq.com
 cs-center.uc.cn
 csrbbg.afafb.com
@@ -200,6 +203,7 @@ meiqia-static-overseas.oss-accelerate.aliyuncs.com
 merchant-portal-public.oss-ap-southeast-5.aliyuncs.com
 mipunet.cn
 misc-api.afafb.com
+mmd-aoc2.oss-cn-hongkong.aliyuncs.com
 mp.weixin.qq.com
 m.toutiaocdn.cn
 mvconf.f.360.cn
@@ -270,6 +274,7 @@ puui.qpic.cn
 puz.afafb.com
 qcloudimg.tencent-cloud.cn
 qcloudimg.tencentcs.cn
+qianwen-res.oss-cn-beijing.aliyuncs.com
 qidian.qq.com
 qiepian.vip
 qpic.cn
@@ -370,7 +375,6 @@ u3.teddymobile.cn
 uc.cn
 unity.cn
 unity-cn-prd.cdn.unity.cn
-upos-sz-mirrorasiabstar1.bilivideo.com
 vchat-tigo-res.oss-accelerate.aliyuncs.com
 vfiles.gtimg.cn
 vfiles-raw.gtimg.cn

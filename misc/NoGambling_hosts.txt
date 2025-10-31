@@ -30,6 +30,7 @@
 0.0.0.0 api.superbig77.xyz
 0.0.0.0 apk7meter.com
 0.0.0.0 apk-bank.s3.ap-southeast-1.amazonaws.com
+0.0.0.0 app.sanjaya78.store
 0.0.0.0 areaslt.net
 0.0.0.0 arss-sakti.info
 0.0.0.0 atgpromax.com
@@ -50,6 +51,7 @@
 0.0.0.0 brovegastop.com
 0.0.0.0 campaigns.zamsino.com
 0.0.0.0 casinousagevacant.com
+0.0.0.0 cd7ff8.zamsino.com
 0.0.0.0 cdn.bharatearns.top
 0.0.0.0 chance-for-bigwin.com
 0.0.0.0 charlottechurchmusic.com
@@ -71,9 +73,11 @@
 0.0.0.0 eyangtogel.com
 0.0.0.0 eypsakti.com
 0.0.0.0 ffbsc.org
+0.0.0.0 freebitco.in
 0.0.0.0 freefoodsnyc.com
 0.0.0.0 freestarburstslot.com
 0.0.0.0 fun88.com
+0.0.0.0 funtoken.io
 0.0.0.0 fyrewin.net
 0.0.0.0 g9oogle.com
 0.0.0.0 gacorbgt.com
@@ -113,6 +117,7 @@
 0.0.0.0 joya.casino
 0.0.0.0 jpkblash.com
 0.0.0.0 kampungrtpbtp.com
+0.0.0.0 kasih04.pajaktotojp.one
 0.0.0.0 kaskustoto88.id
 0.0.0.0 kaskustoto.com
 0.0.0.0 kheloexch.com
@@ -142,6 +147,7 @@
 0.0.0.0 microcdn.dewacdn.club
 0.0.0.0 monyetkota.biz
 0.0.0.0 mplay88.xyz
+0.0.0.0 ms003.sanjaya78.store
 0.0.0.0 oklahomacasinoguru.com
 0.0.0.0 okvip777.com
 0.0.0.0 omg138.fan
@@ -195,6 +201,8 @@
 0.0.0.0 rtp-ttbakurat.com
 0.0.0.0 rvaspace.com
 0.0.0.0 sand77.cloud
+0.0.0.0 sanjaya78.cc
+0.0.0.0 sanjaya78.ink
 0.0.0.0 satgasjudi.b-cdn.net
 0.0.0.0 sbccrtp2024.com
 0.0.0.0 sepakbola.cc
@@ -206,6 +214,7 @@
 0.0.0.0 slotlmacautop.site
 0.0.0.0 slotxl.site
 0.0.0.0 staging5.pbx256.xyz
+0.0.0.0 static-content.pro
 0.0.0.0 superbig77.co
 0.0.0.0 superbig77.com
 0.0.0.0 superbig77.net
@@ -229,6 +238,7 @@
 0.0.0.0 triple777.club
 0.0.0.0 triple777.info
 0.0.0.0 triple777.live
+0.0.0.0 ufo777link.com
 0.0.0.0 ulti99.org
 0.0.0.0 unovegas.com
 0.0.0.0 unovegas.shop
@@ -312,6 +322,7 @@
 0.0.0.0 www.eulogiesbyaubrey.com
 0.0.0.0 www.eyangtogel.com
 0.0.0.0 www.ffbsc.org
+0.0.0.0 www.funtoken.io
 0.0.0.0 www.golden-hoyeah.com
 0.0.0.0 www.higgsslotgame.com
 0.0.0.0 www.ibet789.com
@@ -429,5 +440,9 @@
 0.0.0.0 www-viva-x98.xyz
 0.0.0.0 www-viva-x99.xyz
 0.0.0.0 www-viva-x9.xyz
+0.0.0.0 www.xfun.bet
+0.0.0.0 www.xfun.io
+0.0.0.0 xfun.bet
+0.0.0.0 xfun.io
 0.0.0.0 xn--rtptrislt-d7a4a.com
 0.0.0.0 yes11.vip

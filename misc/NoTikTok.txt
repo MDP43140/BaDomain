@@ -126,6 +126,7 @@ adx.toutiao.com
 aes.bytedance.net
 affiliate.tiktok.com
 agent.toutiao.com
+aggr16-normal.tiktokv.com
 aideas.toutiao.com
 a.ipstatp.com
 a.isnssdk.com
@@ -240,6 +241,7 @@ api16-access-sg.pangle-b.io
 api16-access-sg.pangle.io
 api16-access-sg.pangle.io.edgekey.net
 api16-access-sg.pangle.io.ttdns2.com
+api16-access-wf-sg.pangle.io
 api16-core-alisg.tiktokv.com
 api16-core-c4-alisg.tiktokv.com
 api16-core-c-alisg.tiktokv.com
@@ -321,19 +323,16 @@ api19.toutiao50.com
 api19-va.tiktokv.com
 api2-16-h2-eagle.musical.ly
 api2-16-h2-eagle.musical.ly.edgekey.net
-api2-16-h2-eagle.musical.ly.lan
 api2-16-h2-eagle-useast1a.musical.ly
 api2-16-h2-eagle-useast1a.musical.ly.edgekey.net
 api2-16-h2-eagle-useast2a.musical.ly
 api2-16-h2-eagle-useast2a.musical.ly.edgekey.net
-api2-16-h2-eagle-useast2a.musical.ly.lan
 api2-16-h2.musical.ly
 api2-16-h2.musical.ly.edgekey.net
 api2-16-h2-useast1a.musical.ly
 api2-16-h2-useast1a.musical.ly.edgekey.net
 api2-16-h2-useast2a.musical.ly
 api2-16-h2-useast2a.musical.ly.edgekey.net
-api2-16-h2-useast2a.musical.ly.lan
 api2-16.musical.ly
 api2-16.musical.ly.edgesuite.net
 api2-16-quic.musical.ly
@@ -390,6 +389,7 @@ api2-22-quic-useast2a.musical.ly
 api22-core-c4-alisg.tiktokv.com
 api22-core-c6-alisg.tiktokv.com
 api22-core-c-alisg.tiktokv.com
+api22-core-c-pni-test-alisg.tiktokv.com
 api22-core-c-useast1a.musical.ly
 api22-core-c-useast1a.tiktokv.com
 api22-core-c-useast2a.musical.ly
@@ -399,6 +399,7 @@ api22-core-n-alisg.tiktokv.com
 api22-core.tiktokv.com
 api22-core-va.tiktokv.com
 api22-normal-c-alisg.tiktokv.com
+api22-normal-c-pni-test-alisg.tiktokv.com
 api22-normal-c-useast1a.musical.ly
 api22-normal-c-useast1a.tiktokv.com
 api22-normal-c-useast2a.musical.ly
@@ -617,7 +618,6 @@ applog-useast1a.musical.ly
 applog-useast1a.musical.ly.edgekey.net
 applog-useast2a.musical.ly
 applog-useast2a.musical.ly.edgekey.net
-app-measurement.com
 app.musemuse.cn
 app.musical.ly
 app-oss.byte-app.com
@@ -881,7 +881,6 @@ code.bytedance.net
 code.byted.org
 cognition.byteoversea.com
 cognition-va.bytedance.com
-collect-elb-1844102569.us-east-1.elb.amazonaws.com
 comic.snssdk.com
 commerce16-normal-mya.capcutapi.com
 commerce16-normal-myb.capcutapi.com
@@ -890,6 +889,7 @@ commerce32-normal-mya.capcutapi.com
 commerce32-normal-myb.capcutapi.com
 commerce32-normal-sg.capcutapi.com
 commerce-api.capcutapi.com
+commerce-api.capcut.com
 commerce-api-sg.capcutapi.com
 commerce-api-sg.capcut.com
 community.bytedance.net
@@ -1129,8 +1129,6 @@ effect.snssdk.com
 effect.tiktok.com
 effect.tiktokmusic.app
 egress.gw.us.tiktok.com
-elb-babe-934876860.ap-southeast-1.elb.amazonaws.com
-elb-for-cdn-1922253052.ap-southeast-1.elb.amazonaws.com
 elb-for-front-1752188976.us-east-1.elb.amazonaws.com
 e.l.bytedns.net
 elearning.bytedance.net
@@ -1444,6 +1442,7 @@ global.bytedance.net
 global-h1.bytedance.map.fastly.net
 gms-ns.byteoversea.com
 go.bytedance.net
+go.bytehouse.cloud
 gplog-sg.byteoversea.com
 gplog-sg.byteoversea.com.edgekey.net
 gplog-sg.byteoversea.com.ttdns2.com
@@ -1540,7 +1539,6 @@ hotspot.bytedance.net
 hr.toutiao.com
 hscdn-tos.pstatp.com
 httpdns.byteoversea.com
-https://ads.tiktok.com/help/article/about-the-tiktok-app-events-sdk
 htyy.toutiao.com
 hub.bytedance.net
 hypstarcdn.com
@@ -2265,6 +2263,7 @@ mcs-sg.tiktok.com.ttdns2.com
 mcs-sg.tiktokv.com
 mcs-sg.tiktokv.com.edgekey.net
 mcs.snssdk.com
+mcs.tobsnssdk.com
 mcs-ttp2.us.tiktok.com
 mcs-ttp2.us.tiktok.com.edgesuite.net
 mcs.us.tiktok.com
@@ -2413,6 +2412,7 @@ mon.tiktokv.com.ttdns2.com
 mon.toutiao.com
 mon-useast2a.tiktokv.com
 mon.us.tiktokv.com
+mon-v2-boot.capcutapi.com
 mon-va.byteoversea.com
 mon-va.byteoversea.com.edgesuite.net
 mon-va.byteoversea.com.ttdns2.com
@@ -2583,7 +2583,6 @@ mva.isnssdk.com
 mx1.tiktok.com
 mx2.tiktok.com
 mx3.tiktok.com
-mzfvozqybf.com
 m.zjurl.cn
 nameaweme.snssdk.com
 nas.bytedance.net
@@ -3096,7 +3095,6 @@ p9-xg.byteimg.com.bsgslb.com
 p9-xg.pstatp.com
 pages.bytedance.net
 page.snssdk.com
-pangle.io
 pangle.io.edgekey.net
 pangle.io.ttdns2.com
 pangolin16.isnssdk.com
@@ -3751,7 +3749,6 @@ qa.bytedance.net
 q.bytedance.net
 qdns-v5-dy.polaris.byteoversea.com
 qdns-v5-tt.polaris.byteoversea.com
-qfyf1toi.com
 quic-amemv-all-hl.snssdk.com
 quic-amemv-all-lf.snssdk.com
 quic-amemv-all-lq.snssdk.com
@@ -4001,6 +3998,7 @@ search19-normal-alisg.tiktokv.com
 search19-normal-c-useast1a.tiktokv.com
 search19-normal-c-useast2a.tiktokv.com
 search21-normal-c-alisg.tiktokv.com
+search22-normal-c-alisg-pni.tiktokv.com
 search22-normal-c-alisg.tiktokv.com
 search22-normal-c-useast1a.tiktokv.com
 search22-normal-idtest-useast1a.tiktokv.com
@@ -4089,6 +4087,7 @@ sf16-ttcdn-tos.pstatp.com
 sf16-ttcdn-tos.pstatp.com.edgesuite.net
 sf16-unpkg-va.ibytedtos.com
 sf16-va.tiktokcdn.com
+sf16-va.tiktokcdn-us.com
 sf16-webcast-hypstarcdn.byteimg.com
 sf16-webcast.hypstarcdn.com
 sf16-webcast.hypstarcdn.com.edgesuite.net
@@ -4102,6 +4101,7 @@ sf16-webcast-useast2a.muscdn.com
 sf16-webcast-useast2a.muscdn.com.edgesuite.net
 sf16-website-login.neutral.ttwstatic.com
 sf16-website.neutral.ttwstatic.com
+sf16-web-tos-buz.capcutstatic.com
 sf19-geckocdn.tiktokcdn.com
 sf19-music-sign.tiktokcdn.com
 sf19-scmcdn-sg.ibytedtos.com
@@ -4192,6 +4192,7 @@ sf9-webcast-xgcdn.byteimg.com
 sf-arcosite.ibytedtos.com
 sf-hs-sg.ibytedtos.com
 sf-hs-sg.ibytedtos.com.edgekey.net
+sf-i18n-resources.tiktokcdn-us.com
 sf-ssp.tiktokcdn.com
 sf-tb-sg.ibytedtos.com
 sf-tb-sg.ibytedtos.com.edgesuite.net
@@ -4256,7 +4257,6 @@ software.bytedance.net
 so.toutiao.com
 so.toutiao.com.w.cdngslb.com
 source.bytedance.net
-space.toutiao.com
 speedtest.bytedance.net
 spe-f2-frontier-hl.snssdk.com
 spe-frontier-a.isnssdk.com
@@ -4393,7 +4393,6 @@ tiktokcdn-in.com
 tiktokcdn.liveplay.myqcloud.com
 tiktokcdn-us.com
 tiktokcdn-us.com.atomile.com
-tiktok.cdnvideo.ru
 tiktok.com
 tiktok.com.c.footprint.net
 tiktok.com.c.secure.footprint.net
@@ -4455,6 +4454,7 @@ tnc3-bjlgy.snssdk.com
 tnc-boot.capcutapi.com
 tnc-boot.tiktokv.com
 tnc-sg.capcutapi.com
+tnc-v2-boot.capcutapi.com
 tnc-va.capcutapi.com
 tobapplog.ctobsnssdk.com
 tobapplog.snssdk.com
@@ -4663,7 +4663,6 @@ tos-useast2a.muscdn.com
 tos-useast2a.tiktokcdn.com
 tosv.byted.org
 tosv-va.tiktok-row.org
-toutiao50.com
 toutiaocloud.com
 toutiaocloud.net
 toutiao.com
@@ -4811,6 +4810,7 @@ v16-dy.byteoversea.com.edgesuite.net
 v16e.tiktokcdn.com
 v16.hypstarcdn.com
 v16.hypstarcdn.com.edgesuite.net
+v16-ies-music.tiktokcdn.com
 v16-ipv6.tiktokcdn.com
 v16m.byteicdn.com
 v16m.byteicdn.com.akamaized.net
@@ -4856,6 +4856,7 @@ v19e.tiktokcdn.com
 v19-hwp.muscdn.com
 v19-hwp.tiktokcdn.com
 v19.hypstarcdn.com
+v19-ies-music.tiktokcdn.com
 v19.muscdn.com
 v19.tiktokcdn.com
 v19-us.tiktokcdn.com
@@ -5357,6 +5358,7 @@ webcast21.tiktokv.com
 webcast21-useast1a.musical.ly
 webcast21-useast2a.musical.ly
 webcast21-va.tiktokv.com
+webcast22-normal-c-alisg-pni.tiktokv.com
 webcast22-normal-c-alisg.tiktokv.com
 webcast22-normal-c-useast1a.tiktokv.com
 webcast22-normal-c-useast2a.tiktokv.com
@@ -5554,7 +5556,6 @@ www.trae.ai
 www.trae.cn
 www.worldfcdn.com
 www.wshifen.com
-www.xzcs3zlph.com
 www.zionacafe.tiktok.com
 x.bytedance.net
 xd.snssdk.com
@@ -5608,7 +5609,6 @@ xlog-va-useast2a.tiktokv.com.edgekey.net
 xwzx.815181.com.bytedns.net
 xxbg.snssdk.com
 xxz.toutiao.com
-xzcs3zlph.com
 xzcs3zlph.com.akamaized.net
 xzzfz.toutiao.com
 yhgfb-cn-static.com

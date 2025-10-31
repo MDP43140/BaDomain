@@ -130,6 +130,8 @@ apac-asia-courier-4.push-apple.com.akadns.net
 apac-mask.wrr.mask.apple-dns.net
 apac-mask.wrr.me.apple-dns.net
 api-glb-aapne1c.smoot.apple.com
+api-glb-aaps1a.smoot.apple.com
+api-glb-aaps1b.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
 api-safari-aapse1c.smoot.apple.com
 api.smoot.apple.com
@@ -366,6 +368,7 @@ p10-escrowproxy.icloud.com
 p111-acsegateway.icloud.com
 p111-caldav.icloud.com
 p111-contacts.icloud.com
+p111-escrowproxy.icloud.com
 p111-fmfmobile.icloud.com
 p111-fmip.icloud.com
 p111-quota.icloud.com
@@ -410,6 +413,7 @@ p26-caldav.icloud.com
 p26-escrowproxy.icloud.com
 p27-caldav.icloud.com
 p27-escrowproxy.icloud.com
+p28-buy.itunes.apple.com
 p28-caldav.icloud.com
 p28-escrowproxy.icloud.com
 p29-caldav.icloud.com
@@ -447,6 +451,7 @@ p43-caldav.icloud.com
 p43-escrowproxy.icloud.com
 p44-caldav.icloud.com
 p44-escrowproxy.icloud.com
+p44-fmip.icloud.com
 p45-acsegateway.icloud.com
 p45-caldav.icloud.com
 p45-escrowproxy.icloud.com
@@ -544,6 +549,7 @@ quota.fe.apple-dns.net
 register.appattest.apple.com
 safebrowsing.g.aaplimg.com
 safebrowsing-proxy.g.aaplimg.com
+sandbox-dist.itunes-apple.com.akadns.net
 sandbox.itunes.apple.com
 sandbox.itunes-apple.com.akadns.net
 se2.itunes.apple.com

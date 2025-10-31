@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: Another "add-on" on top of BaDomain that blocks even more things (that you may not want or could potentially cause causes)
-# Version: 27.08.2025
+# Version: 13.11.2025
 # Update: 1 day
 #
 #cf.shopee.co.id
@@ -22,13 +22,13 @@
 4835415.fs1.hubspotusercontent-na1.net
 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 94.110.204.35.bc.googleusercontent.com
+account.vpnsuper.com
 acs-m.lazada.co.id
 acs-m.lazada.sg
-adashx.ut.lazada.com
 amdb.alice.licelus.com
-amdc.lazada.com
 amdc-wapa-alicdn.lazada.com
 amdc-wapa.lazada.com
+api.gboxlab.com
 api.snapchat.com
 apollo.supercell.com
 app.snapchat.com
@@ -50,7 +50,6 @@ clashofclans.inbox.supercell.com
 c.lazada.co.id
 copilot.microsoft.com # Legitimate Microsoft AI service, but phoning home even when not used
 dl.dropboxusercontent.com
-drive-thirdparty.googleusercontent.com
 durev.online # Russian VPN spam
 edge.zimperium.com
 enterpriseenrollment.supercell.com
@@ -60,30 +59,28 @@ filebroker-cdn.lazada.co.id
 forum.supercell.com
 gcb-app.herokuapp.com
 gcp.api.snapchat.com
-h-adashx.ut.lazada.com
 homer.supercell.com
 id.supercell.com
 intranet.supercell.com
 intra.supercell.com
 jira.supercell.com
-jmacs-m.lazada.co.id
 learning.supercell.com
 library.supercell.com
 lisa.supercell.com
+live-chat-static.sprinklr.com
 login.supercell.com
 mail.supercell.com
 mdm.supercell.com
 member.lazada.co.id
 meritbadge.herokuapp.com
-msgacs-m.lazada.co.id
 mvm.snapchat.com
 myaccount.supercell.com
 only-d-n4r05ivviypfy4lkmtqxpqvaycicca8e-1754274178235.nstool.netease.com
 only-d-shtp3c4uoccdezyqkm5vmj0zx6hn0tfp-1754274148230.nstool.netease.com
-orange-dc.lazada.com
 outlook.supercell.com
 pages.lazada.co.id
 pro-accounts.snapchat.com
+prod-live-chat.sprinklr.com
 pvc-app.herokuapp.com
 ra.supercell.com
 snapchat.com
@@ -105,7 +102,9 @@ us-east4-gcp.api.snapchat.com
 video.supercell.com
 vpn2.supercell.com
 vpn.supercell.com
+vpnsuper.com
 wiki.supercell.com
 www.snapchat.com
 www.supercell.com
+www.vpnsuper.com
 ziap.zimperium.com

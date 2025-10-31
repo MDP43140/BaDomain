@@ -4,6 +4,7 @@
 
 0.0.0.0 artpp-vivofs.vivoglobal.com
 0.0.0.0 asai-file-wlanapkcdn2.vivoglobal.com
+0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com
 0.0.0.0 asia-adlog.vivoglobal.com
 0.0.0.0 asia-album-api.vivoglobal.com
 0.0.0.0 asia-apkselfdl.vivoglobal.com

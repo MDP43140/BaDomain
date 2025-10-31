@@ -171,6 +171,7 @@
 0.0.0.0 go.theyarehuge.net
 0.0.0.0 hd21.net
 0.0.0.0 hdpsn21.com
+0.0.0.0 hlebo.com
 0.0.0.0 hls-uranus.sb-cd.com
 0.0.0.0 hot-girls18.com
 0.0.0.0 hotlove.uno
@@ -181,6 +182,7 @@
 0.0.0.0 https-api.bigolive.tv
 0.0.0.0 ht.youporn.com
 0.0.0.0 i.bgmicdn.com
+0.0.0.0 ic-vt-lm.xhcdn.com
 0.0.0.0 i.doodcdn.co
 0.0.0.0 i.doodcdn.com
 0.0.0.0 id.xhamster.com
@@ -255,6 +257,7 @@
 0.0.0.0 pornxp.com
 0.0.0.0 preview.jizzberry.com
 0.0.0.0 preview.xgroovy.com
+0.0.0.0 private24.top
 0.0.0.0 pukihot.shop
 0.0.0.0 quoo.eu
 0.0.0.0 readtoto.com
@@ -274,6 +277,7 @@
 0.0.0.0 sexxdating.site
 0.0.0.0 sexxo.baby
 0.0.0.0 sexy-dating.uno
+0.0.0.0 s.hsbm.net
 0.0.0.0 simantan.store
 0.0.0.0 simontok.vc
 0.0.0.0 site-ma.brazzer.com
@@ -298,6 +302,7 @@
 0.0.0.0 static.doodcdn.co
 0.0.0.0 static-fed.bigolive.tv
 0.0.0.0 static.jizzberry.com
+0.0.0.0 static-lvlt.xhcdn.com
 0.0.0.0 static-push.porndig.com
 0.0.0.0 static-sg-cdn.eporner.com
 0.0.0.0 static--ss-xnxx--cdn-com.cdn.ampproject.org
@@ -330,9 +335,9 @@
 0.0.0.0 tubegalore.com
 0.0.0.0 tubesex.uno
 0.0.0.0 tv5.simontokx.online
-0.0.0.0 txxx.ahcdn.com
 0.0.0.0 txxx.com
 0.0.0.0 value.vrbangers.com
+0.0.0.0 vcdn.theyarehuge.com
 0.0.0.0 vcdn.xozilla.xxx
 0.0.0.0 vdownload-10.sb-cd.com
 0.0.0.0 vdownload-11.sb-cd.com
@@ -362,10 +367,10 @@
 0.0.0.0 video.xv-cdn.net
 0.0.0.0 vidioviral.xyz
 0.0.0.0 vid-s36-n10-fr-cdn.eporner.com
-0.0.0.0 vjav0.ahcdn.com
 0.0.0.0 vjav.com
 0.0.0.0 vp1.vjav.com
 0.0.0.0 vrbangers.com
+0.0.0.0 vrmedia-lm.xhcdn.com
 0.0.0.0 vstream-12.sb-cd.com
 0.0.0.0 vstream-1.sb-cd.com
 0.0.0.0 vstream-34.sb-cd.com
