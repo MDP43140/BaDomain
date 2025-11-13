@@ -21,9 +21,10 @@ echo -e "[i] Initializing..."
 ## Configuration ##
 DNS_PROVIDER="@8.8.8.8" # nah its not private, but its fast especially to spam lots of DNS requests
 INPUT_FILE="$1"
-LOG_NONE_FILE="resultNone.log"
-LOG_SERVFAIL_FILE="resultServFail.log"
-LOG_EXISTS_FILE="resultExists.log"
+BASE_INPUT_FILE="$(echo ${INPUT_FILE:-result} | sed -E 's/\.[a-z]+$//')"
+LOG_NONE_FILE="${BASE_INPUT_FILE}_none.log"
+LOG_SERVFAIL_FILE="${BASE_INPUT_FILE}_servFail.log"
+LOG_EXISTS_FILE="${BASE_INPUT_FILE}_exists.log"
 # just for an example (standard,censored in Indonesia,example,not exist,DPI adult content,DPI gambling content,DPI in China/Russia)
 DOMAIN_LISTS="google.com reddit.com example.com ThisDomainDoesntExistAtAll.dontreturnsomethingok adultpornosexgaylgbtq.testcategory.com judijudolbigamblingacortbetwinmaxslotogelsabungayampokerhiggsuper.testcategory.com xijinpingputintiannamensquaremassacre.testcategory.com"
 
