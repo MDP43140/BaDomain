@@ -248,6 +248,7 @@ metok.sys.miui.com
 mibi.api.xiaomi.com
 mibi.xiaomi.com
 micardapi.micloud.xiaomi.net
+mi.com
 milink.pandora.xiaomi.com
 miservice.comm.miui.com
 mishop.cdn.pandora.xiaomi.com

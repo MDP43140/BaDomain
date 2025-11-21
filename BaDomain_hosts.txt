@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 13.11.2025
+# Version: 08.12.2025
 # Update: 1 day
 #
 
@@ -59,8 +59,10 @@
 0.0.0.0 18183.com
 0.0.0.0 18.ygti905ffth6.com
 0.0.0.0 19.ygti905ffth6.com
+0.0.0.0 1b59287f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 1clickvpn.net
 0.0.0.0 1.cn.pool.ntp.org
+0.0.0.0 1curle.cdn-settings.appsflyersdk.com
 0.0.0.0 1curle.inapps.appsflyersdk.com
 0.0.0.0 1curle.launches.appsflyersdk.com
 0.0.0.0 1d278a3a-dnsotls-ds.metric.gstatic.com
@@ -101,6 +103,7 @@
 0.0.0.0 28.ygti905ffth6.com
 0.0.0.0 28z.top
 0.0.0.0 298a3a1a-dnsotls-ds.metric.gstatic.com
+0.0.0.0 29d4b8be-dnsotls-ds.metric.gstatic.com
 0.0.0.0 29.ygti905ffth6.com
 0.0.0.0 2beeg.net
 0.0.0.0 2d3f7ea4-dnsotls-ds.metric.gstatic.com
@@ -249,6 +252,7 @@
 0.0.0.0 51.la
 0.0.0.0 51tracking.com
 0.0.0.0 51.ygti905ffth6.com
+0.0.0.0 522423f7-dnsotls-ds.metric.gstatic.com
 0.0.0.0 52.appmeasurements.com
 0.0.0.0 52.ygti905ffth6.com
 0.0.0.0 531840-android-ds.metric.gstatic.com
@@ -298,6 +302,7 @@
 0.0.0.0 6490ff6c-dnsotls-ds.metric.gstatic.com
 0.0.0.0 64a9.playfabapi.com
 0.0.0.0 65c6.playfabapi.com
+0.0.0.0 66a42413-dnsotls-ds.metric.gstatic.com
 0.0.0.0 6d06a247-dnsotls-ds.metric.gstatic.com
 0.0.0.0 6e240ba2-dnsotls-ds.metric.gstatic.com
 0.0.0.0 6mbr.com
@@ -314,6 +319,7 @@
 0.0.0.0 6mqlzt-register.appsflyersdk.com
 0.0.0.0 6.ygti905ffth6.com
 0.0.0.0 7124d5a9-dnsotls-ds.metric.gstatic.com
+0.0.0.0 73d4892d-dnsotls-ds.metric.gstatic.com
 0.0.0.0 756964-android-ds.metric.gstatic.com
 0.0.0.0 7660e42567.edeb873154.com
 0.0.0.0 769b53a4-dnsotls-ds.metric.gstatic.com
@@ -368,6 +374,7 @@
 0.0.0.0 9.ygti905ffth6.com
 0.0.0.0 a01.uadexchange.com
 0.0.0.0 a02.uadexchange.com
+0.0.0.0 a03cb342-dnsotls-ds.metric.gstatic.com
 0.0.0.0 a03.uadexchange.com
 0.0.0.0 a16488430484.cdn.optimizely.com
 0.0.0.0 a1a4c40e556f413ef.awsglobalaccelerator.com
@@ -1366,6 +1373,7 @@
 0.0.0.0 b6s-api.snow.me
 0.0.0.0 b.6sc.co
 0.0.0.0 b6s-static.snow.me
+0.0.0.0 b7ec34ff-dnsotls-ds.metric.gstatic.com
 0.0.0.0 b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
 0.0.0.0 b85K^@f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 b973f95f-dnsotls-ds.metric.gstatic.com
@@ -4868,6 +4876,7 @@
 0.0.0.0 norton67.webnode.page
 0.0.0.0 noss.litatom.com
 0.0.0.0 nostra.glance.com
+0.0.0.0 note-api.transsion-os.com
 0.0.0.0 notificationsacademy.com
 0.0.0.0 notifications-gke-sdk-bidding.fyber.com
 0.0.0.0 notifications.viafoura.co
@@ -5064,6 +5073,7 @@
 0.0.0.0 o4504695552606208.ingest.de.sentry.io
 0.0.0.0 o4504695552606208.ingest.sentry.io
 0.0.0.0 o4504695552606208.ingest.us.sentry.io
+0.0.0.0 o4507123469189120.ingest.us.sentry.io
 0.0.0.0 o4507463137361920.ingest.us.sentry.io
 0.0.0.0 o4507686279512064.ingest.de.sentry.io
 0.0.0.0 o4507686279512064.ingest.sentry.io
@@ -5717,6 +5727,7 @@
 0.0.0.0 qaistats.studyquicks.com
 0.0.0.0 qanda-storage.s3.amazonaws.com
 0.0.0.0 qb0bi1a7.tweb.sched.ovscdns.com
+0.0.0.0 qbrere.launches.appsflyersdk.com
 0.0.0.0 qbz.donlgx.net
 0.0.0.0 qcloud.com
 0.0.0.0 qcloudimg.com
@@ -6254,6 +6265,7 @@
 0.0.0.0 sf.ezoiccdn.com
 0.0.0.0 sf.napi.ucweb.com
 0.0.0.0 sfnpufdgh.donlgx.net
+0.0.0.0 sfp-sofire.terabox.com
 0.0.0.0 sf-syn.com
 0.0.0.0 sg01-cdn.rayjump.com
 0.0.0.0 sg01.dspunion.com
@@ -7082,6 +7094,7 @@
 0.0.0.0 tynt.com
 0.0.0.0 typeform.com
 0.0.0.0 typekit.net
+0.0.0.0 u1gdzm-launches.appsflyersdk.com
 0.0.0.0 u9axpzf50.com
 0.0.0.0 uadexchange.com
 0.0.0.0 uangteman.com
@@ -7509,6 +7522,7 @@
 0.0.0.0 w5cud4.launches.appsflyersdk.com
 0.0.0.0 w5cud4-register.appsflyersdk.com
 0.0.0.0 w5cud4-skadsdk.appsflyersdk.com
+0.0.0.0 w5cud4.skadsdk.appsflyersdk.com
 0.0.0.0 wa.co
 0.0.0.0 wagomu.b-cdn.net
 0.0.0.0 wagomu.id

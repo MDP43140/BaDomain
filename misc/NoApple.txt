@@ -133,6 +133,7 @@ api-glb-aapne1c.smoot.apple.com
 api-glb-aaps1a.smoot.apple.com
 api-glb-aaps1b.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
+api-safari-aaps1a.smoot.apple.com
 api-safari-aapse1c.smoot.apple.com
 api.smoot.apple.com
 apple.co
@@ -156,6 +157,7 @@ bag-smoot.v.aaplimg.com
 bpapi.apple.com
 bpapi.v.aaplimg.com
 buy.itunes-apple.com.akadns.net
+buy-lb.itunes-apple.com.akadns.net
 cabana-server.cdn-apple.com
 caldav.fe2.apple-dns.net
 caldav.fe.apple-dns.net
@@ -189,12 +191,14 @@ comm-cohort.ess.apple.com
 comm-main.ess.apple.com
 commnat-cohort-gc.ess.apple.com
 commnat-main-gc.ess.apple.com
+config-chr.health.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration.ls.v.aaplimg.com
+configuration.v.aaplimg.com
 contacts.fe2.apple-dns.net
 contacts.fe.apple-dns.net
 courier2.push.apple.com
@@ -212,6 +216,7 @@ downloaddispatch.itunes.apple.com
 edge-102.sesto4.icloud-content.com
 entitlements.edge-itunes-apple.com.akadns.net
 entitlements.itunes.apple.com
+entitlements-itunes.g.aaplimg.com
 eu-nw-courier-4.push-apple.com.akadns.net
 fbs.smoot.apple.com
 fides-pol.apple.com
@@ -227,6 +232,7 @@ gateway.fe2.apple-dns.net
 gateway.fe.apple-dns.net
 gateway.icloud.com
 gdmf-ados.apple.com
+gdmf-ados.v.aaplimg.com
 gdmf.apple.com
 gdmf.v.aaplimg.com
 get-bx.g.aaplimg.com
@@ -302,6 +308,7 @@ gsp-ssl.ls-apple.com.akadns.net
 guzzoni.apple.com
 guzzoni-apple-com.v.aaplimg.com
 h3.apis.apple.map.fastly.net
+h3.media.apple.map.fastly.net
 icloud.com
 identity.ess.apple.com
 identity.ess-apple.com.akadns.net
@@ -352,10 +359,12 @@ musicstatus.itunes.apple.com
 mzstatic.com
 mzstorekit.g.aaplimg.com
 mzstorekit.itunes.apple.com
+mzstorekit.lb-apple.com.akadns.net
 netcts.cdn-apple.com
 ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
+odr.itunes.apple.com
 ontology.health.apple.com
 p105-sharedstreams.icloud.com
 p108-acsegateway.icloud.com
@@ -369,6 +378,7 @@ p111-acsegateway.icloud.com
 p111-caldav.icloud.com
 p111-contacts.icloud.com
 p111-escrowproxy.icloud.com
+p111-fmf.icloud.com
 p111-fmfmobile.icloud.com
 p111-fmip.icloud.com
 p111-quota.icloud.com
@@ -420,6 +430,7 @@ p29-caldav.icloud.com
 p29-escrowproxy.icloud.com
 p30-caldav.icloud.com
 p30-escrowproxy.icloud.com
+p31-buy.itunes.apple.com
 p31-caldav.icloud.com
 p31-content.icloud.com
 p31-escrowproxy.icloud.com
@@ -546,12 +557,14 @@ proxy.safebrowsing.apple
 query.ess.apple.com
 query.ess-apple.com.akadns.net
 quota.fe.apple-dns.net
+quota.icloud.com
 register.appattest.apple.com
 safebrowsing.g.aaplimg.com
 safebrowsing-proxy.g.aaplimg.com
 sandbox-dist.itunes-apple.com.akadns.net
 sandbox.itunes.apple.com
 sandbox.itunes-apple.com.akadns.net
+sas.pcms.apple.com
 se2.itunes.apple.com
 search.itunes.apple.com
 se-edge.itunes.apple.com
@@ -562,6 +575,7 @@ sf-api-token-service.itunes.apple.com
 sgsin8.ce.apple-dns.net
 sgsin8.icloud-content.com
 smoot-feedback.v.aaplimg.com
+smoot-searchv2-aaps1a.v.aaplimg.com
 smoot-searchv2-aapse1c.v.aaplimg.com
 smp-device-content.apple.com
 smp-device-content.g.aaplimg.com
@@ -586,6 +600,7 @@ time-ios.apple.com
 time-osx.g.aaplimg.com
 token.safebrowsing.apple
 unlinkability.apple.com
+unlinkability.fe2.apple-dns.net
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
 updates.g.aaplimg.com
@@ -606,3 +621,4 @@ www.icloud.com
 xp.apple.com
 xp-cdn-lb.itunes-apple.com.akadns.net
 xp.itunes-apple.com.akadns.net
+xp.v.aaplimg.com

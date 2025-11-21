@@ -126,6 +126,7 @@
 0.0.0.0 aes.bytedance.net
 0.0.0.0 affiliate.tiktok.com
 0.0.0.0 agent.toutiao.com
+0.0.0.0 aggr16-normal.capcutapi.com
 0.0.0.0 aggr16-normal.tiktokv.com
 0.0.0.0 aideas.toutiao.com
 0.0.0.0 a.ipstatp.com
@@ -446,6 +447,7 @@
 0.0.0.0 api31-normal-probe-useast2a.tiktokv.com
 0.0.0.0 api31.tiktokv.com
 0.0.0.0 api32.tiktokv.com
+0.0.0.0 api39.gtm.byteoversea.net
 0.0.0.0 api39.gts.byteoversea.net
 0.0.0.0 api39-sg.gts.byteoversea.net
 0.0.0.0 api39.zong.byteoversea.net
@@ -1855,6 +1857,7 @@
 0.0.0.0 lemonapi22-normal-alisg.tiktokv.com
 0.0.0.0 lemonapi22-normal.tiktokv.com
 0.0.0.0 letsencrypt.bytecdn.cn
+0.0.0.0 lf16-adsformat-sign.tiktokcdn.com
 0.0.0.0 lf16-beecdn.ibytedtos.com
 0.0.0.0 lf16-capcut.faceueditorv.com
 0.0.0.0 lf16-capcut.faceulv.com
@@ -2709,6 +2712,7 @@
 0.0.0.0 p16-catalog-sg.ibyteimg.com
 0.0.0.0 p16-cg-gaudit.ibyteimg.com
 0.0.0.0 p16-comment-sign-sg.tiktokcdn.com
+0.0.0.0 p16-common-sign.tiktokcdn-us.com
 0.0.0.0 p16-common-sign-useastred.tiktokcdn-eu.com
 0.0.0.0 p16-common-sign-va.tiktokcdn-us.com
 0.0.0.0 p16-d1-sign-va.ibyteimg.com
@@ -2855,6 +2859,7 @@
 0.0.0.0 p19-security-va.ibyteimg.com
 0.0.0.0 p19-sign-sg.tiktokcdn.com
 0.0.0.0 p19-sign.tiktokcdn-us.com
+0.0.0.0 p19-tiktok-ls-product-sign-sg.ibyteimg.com
 0.0.0.0 p19-webcast.hypstarcdn.com
 0.0.0.0 p19-webcast.muscdn.com
 0.0.0.0 p19-webcast.tiktokcdn.com
@@ -3987,6 +3992,7 @@
 0.0.0.0 sdfp-va.musical.ly.edgesuite.net
 0.0.0.0 sdfp-va.tiktokv.com
 0.0.0.0 sdfp-va.tiktokv.com.edgesuite.net
+0.0.0.0 sdksggcp32-normal.evercloud.capcutapi.com
 0.0.0.0 search16-normal-c-alisg.tiktokv.com
 0.0.0.0 search16-normal-c-alisg.tiktokv.com.edgekey.net
 0.0.0.0 search16-normal-c-useast1a.tiktokv.com
@@ -4648,6 +4654,7 @@
 0.0.0.0 tos-quic-awssg.tiktokcdn.com
 0.0.0.0 tos-quic-cgk7a.tiktokcdn.com
 0.0.0.0 tos-quic-gcpid.tiktokcdn.com
+0.0.0.0 tos-quic-mnl4a.tiktokcdn.com
 0.0.0.0 tos-quic-sg.tiktokcdn.com
 0.0.0.0 tos-useast2a16-up.byteoversea.net
 0.0.0.0 tos-useast2a16-up.muscdn.com
@@ -4673,6 +4680,7 @@
 0.0.0.0 toutiao-frontier.snssdk.com.gtm.byte008.com
 0.0.0.0 toutiao-lb.b.bytedns.net
 0.0.0.0 tpaw-use1.muscdn.com
+0.0.0.0 tpg16-normal.tiktokv.com
 0.0.0.0 tp-pay.byteoversea.com
 0.0.0.0 tp-pay.byteoversea.com.bytegeo.akadns.net
 0.0.0.0 tp-pay-mva.byteoversea.com

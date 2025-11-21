@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 13.11.2025
+# Version: 08.12.2025
 # Update: 1 day
 #
 
@@ -59,8 +59,10 @@
 18183.com
 18.ygti905ffth6.com
 19.ygti905ffth6.com
+1b59287f-dnsotls-ds.metric.gstatic.com
 1clickvpn.net
 1.cn.pool.ntp.org
+1curle.cdn-settings.appsflyersdk.com
 1curle.inapps.appsflyersdk.com
 1curle.launches.appsflyersdk.com
 1d278a3a-dnsotls-ds.metric.gstatic.com
@@ -101,6 +103,7 @@
 28.ygti905ffth6.com
 28z.top
 298a3a1a-dnsotls-ds.metric.gstatic.com
+29d4b8be-dnsotls-ds.metric.gstatic.com
 29.ygti905ffth6.com
 2beeg.net
 2d3f7ea4-dnsotls-ds.metric.gstatic.com
@@ -249,6 +252,7 @@
 51.la
 51tracking.com
 51.ygti905ffth6.com
+522423f7-dnsotls-ds.metric.gstatic.com
 52.appmeasurements.com
 52.ygti905ffth6.com
 531840-android-ds.metric.gstatic.com
@@ -298,6 +302,7 @@
 6490ff6c-dnsotls-ds.metric.gstatic.com
 64a9.playfabapi.com
 65c6.playfabapi.com
+66a42413-dnsotls-ds.metric.gstatic.com
 6d06a247-dnsotls-ds.metric.gstatic.com
 6e240ba2-dnsotls-ds.metric.gstatic.com
 6mbr.com
@@ -314,6 +319,7 @@
 6mqlzt-register.appsflyersdk.com
 6.ygti905ffth6.com
 7124d5a9-dnsotls-ds.metric.gstatic.com
+73d4892d-dnsotls-ds.metric.gstatic.com
 756964-android-ds.metric.gstatic.com
 7660e42567.edeb873154.com
 769b53a4-dnsotls-ds.metric.gstatic.com
@@ -368,6 +374,7 @@
 9.ygti905ffth6.com
 a01.uadexchange.com
 a02.uadexchange.com
+a03cb342-dnsotls-ds.metric.gstatic.com
 a03.uadexchange.com
 a16488430484.cdn.optimizely.com
 a1a4c40e556f413ef.awsglobalaccelerator.com
@@ -1366,6 +1373,7 @@ b6e881dd-dnsotls-ds.metric.gstatic.com
 b6s-api.snow.me
 b.6sc.co
 b6s-static.snow.me
+b7ec34ff-dnsotls-ds.metric.gstatic.com
 b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
 b85K^@f-dnsotls-ds.metric.gstatic.com
 b973f95f-dnsotls-ds.metric.gstatic.com
@@ -4868,6 +4876,7 @@ northpoleitalia.it
 norton67.webnode.page
 noss.litatom.com
 nostra.glance.com
+note-api.transsion-os.com
 notificationsacademy.com
 notifications-gke-sdk-bidding.fyber.com
 notifications.viafoura.co
@@ -5064,6 +5073,7 @@ o4504598522363904.ingest.us.sentry.io
 o4504695552606208.ingest.de.sentry.io
 o4504695552606208.ingest.sentry.io
 o4504695552606208.ingest.us.sentry.io
+o4507123469189120.ingest.us.sentry.io
 o4507463137361920.ingest.us.sentry.io
 o4507686279512064.ingest.de.sentry.io
 o4507686279512064.ingest.sentry.io
@@ -5717,6 +5727,7 @@ q8f4f8w7.stackpathcdn.com
 qaistats.studyquicks.com
 qanda-storage.s3.amazonaws.com
 qb0bi1a7.tweb.sched.ovscdns.com
+qbrere.launches.appsflyersdk.com
 qbz.donlgx.net
 qcloud.com
 qcloudimg.com
@@ -6254,6 +6265,7 @@ sfepodownload.mediatek.com
 sf.ezoiccdn.com
 sf.napi.ucweb.com
 sfnpufdgh.donlgx.net
+sfp-sofire.terabox.com
 sf-syn.com
 sg01-cdn.rayjump.com
 sg01.dspunion.com
@@ -7082,6 +7094,7 @@ ty.itsbut.com
 tynt.com
 typeform.com
 typekit.net
+u1gdzm-launches.appsflyersdk.com
 u9axpzf50.com
 uadexchange.com
 uangteman.com
@@ -7509,6 +7522,7 @@ w5cud4-launches.appsflyersdk.com
 w5cud4.launches.appsflyersdk.com
 w5cud4-register.appsflyersdk.com
 w5cud4-skadsdk.appsflyersdk.com
+w5cud4.skadsdk.appsflyersdk.com
 wa.co
 wagomu.b-cdn.net
 wagomu.id

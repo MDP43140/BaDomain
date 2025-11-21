@@ -248,6 +248,7 @@
 0.0.0.0 mibi.api.xiaomi.com
 0.0.0.0 mibi.xiaomi.com
 0.0.0.0 micardapi.micloud.xiaomi.net
+0.0.0.0 mi.com
 0.0.0.0 milink.pandora.xiaomi.com
 0.0.0.0 miservice.comm.miui.com
 0.0.0.0 mishop.cdn.pandora.xiaomi.com

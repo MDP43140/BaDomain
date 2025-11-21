@@ -34,6 +34,7 @@ api.biliintl.com
 api.fview.cn
 api.iq.com
 api.sina.com.cn
+api.tenderu.me
 api.unity.cn
 api.xintaicz.cn
 app.biliintl.com

@@ -2,6 +2,7 @@
 # This hosts file blocks all vivo-related domains
 #
 
+0.0.0.0 2026-abroad-optional-area-dcdn-perform-test-id-10.vivoglobal.com
 0.0.0.0 artpp-vivofs.vivoglobal.com
 0.0.0.0 asai-file-wlanapkcdn2.vivoglobal.com
 0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com

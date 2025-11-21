@@ -34,6 +34,7 @@
 0.0.0.0 api.fview.cn
 0.0.0.0 api.iq.com
 0.0.0.0 api.sina.com.cn
+0.0.0.0 api.tenderu.me
 0.0.0.0 api.unity.cn
 0.0.0.0 api.xintaicz.cn
 0.0.0.0 app.biliintl.com

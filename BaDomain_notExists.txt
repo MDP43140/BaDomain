@@ -194,6 +194,7 @@ amazon.hksupd.com
 amdc-wapa-akamai.lazada.com
 amgdgt.com
 amibios-updater.com
+amoled.multicoloredhdrsupport.xyz
 am.olx.biz.id
 amp.top
 analysis.mangatoon.mobi
@@ -1793,6 +1794,7 @@ vushtech.sbs
 vzwcorp.co
 w55c.net
 waisstore.com
+walnut.almondcollections.com
 wap.bignox.com
 wcagsib.com
 wcmbqxzeuopnvyfmhkstaretfciywdrl.name

@@ -93,6 +93,7 @@ cloudi-in.browser.heytapmobile.com
 cloudi-in.browser.oppomobile.com
 cloudi-sg.browser.heytapmobile.com
 cloudi-sg.browser.oppomobile.com
+cloudkit-api-gl.heytapmobile.com
 cloudkit-api-id.heytapmobile.com
 cloudkit-api-in.heytapmobile.com
 cloudkit-api-kh.heytapmobile.com
@@ -339,6 +340,7 @@ oppomobile.com
 ota-manual-eu.allawnofs.com
 ota-manual-in.allawnofs.com
 ota-manual-sg.allawnofs.com
+ota-recruit-f.coloros.com
 pguard-cdnfs-cn.coloros.com
 pguard-cdnfs-eu.coloros.com
 pguard-cdnfs-in.coloros.com
@@ -360,6 +362,7 @@ sau-server-eu.allawnos.com
 sau-server-in.allawnos.com
 sau-server-sg.allawnos.com
 sau-server-us.allawnos.com
+security-speed.heytapdownload.com
 sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
 sgp-img-c.heytapimg.com
 shortintl.push.heytapmobi.com
