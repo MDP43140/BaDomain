@@ -128,6 +128,7 @@ affiliate.tiktok.com
 agent.toutiao.com
 aggr16-normal.capcutapi.com
 aggr16-normal.tiktokv.com
+aggr16-normal.tiktokv.us
 aideas.toutiao.com
 a.ipstatp.com
 a.isnssdk.com
@@ -1455,6 +1456,7 @@ gplog-va-useast2a.byteoversea.com
 gpm-mon-sg.byteoversea.com
 gpm-mon-sg.byteoversea.com.edgesuite.net
 gpm-mon-va.bytegsdk.com
+gpm-mon-va.bytegsdk.com.ttdns2.com
 gpm-mon-va.byteoversea.com
 gpm-mon-va.byteoversea.com.edgesuite.net
 gpm-mon-va.byteoversea.com.ttdns2.com
@@ -2206,6 +2208,7 @@ logtrace.snssdk.com.gtm.byte008.com
 log.us.tiktokv.com
 log.us.tiktokv.com.edgekey.net
 log-va.bytegsdk.com
+log-va.bytegsdk.com.ttdns2.com
 log-va.tiktokv.com
 log-va.tiktokv.com.edgekey.net
 log-va-useast2a.tiktokv.com
@@ -3977,6 +3980,7 @@ sandbox.bytedance.net
 saveu.tiktokv.com
 s.bytedance.net
 s.bytetcdn.com
+scc-sg.tiktokv.com
 school.bytedance.net
 sdfp-sg.byteoversea.com
 sdfp-sg.byteoversea.com.edgekey.net

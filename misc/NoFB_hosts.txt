@@ -5,6 +5,10 @@
 
 0.0.0.0 012A812C-6194-4EA7-BD98-4AB7B3A0E41E-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 012A812C-6194-4EA7-BD98-4AB7B3A0E41E-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 03ab6e33-04af-4f94-b604-97802c3b6db0-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 03ab6e33-04af-4f94-b604-97802c3b6db0-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 06ef96cd-4420-4c15-9f88-e4f2c6edda27-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 06ef96cd-4420-4c15-9f88-e4f2c6edda27-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0.beta.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
@@ -48,6 +52,10 @@
 0.0.0.0 32CBBBE5-D543-49E1-AB99-432BEFC56824-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 33268061-0699-44E5-9240-135C44974BAC-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 33268061-0699-44E5-9240-135C44974BAC-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 3685847e-6e47-483c-bdf6-d1edf812b2e5-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 3685847e-6e47-483c-bdf6-d1edf812b2e5-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 37b19cab-e219-4994-b883-a2bd2f40dd6f-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 37b19cab-e219-4994-b883-a2bd2f40dd6f-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 391ebdec-79a2-4ff7-9748-57849029d09e-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 391ebdec-79a2-4ff7-9748-57849029d09e-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 3-act.channel.facebook.com
@@ -73,6 +81,8 @@
 0.0.0.0 4B03F74C-AB9A-4E3C-B478-2B6257C03C83-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 4E275D8F-8602-4B85-88D0-D0629641A926-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 4-edge-chat.facebook.com
+0.0.0.0 5061c5d2-58b8-4a58-b4f3-74632f323ed8-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 5061c5d2-58b8-4a58-b4f3-74632f323ed8-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 5093C17F-05AD-4740-8BC5-E4096238430B-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 5096977E-E5AB-4031-B1DD-A4CE73668575-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 5096977E-E5AB-4031-B1DD-A4CE73668575-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -145,6 +155,8 @@
 0.0.0.0 8D6F4872-7352-43A3-8E10-AAD8A56E3A63-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 8e476d3c-22da-4257-985b-45d84fa2ccd3-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 8e476d3c-22da-4257-985b-45d84fa2ccd3-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 920560C2-D692-4E4A-AC00-BD0C82E84D4D-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 920560C2-D692-4E4A-AC00-BD0C82E84D4D-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 95790252-f22c-4b39-bc15-ef7892b9ea71-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 95790252-f22c-4b39-bc15-ef7892b9ea71-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 95C0FC55-26FE-46BD-887E-300E41F188DB-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -155,10 +167,14 @@
 0.0.0.0 96CD03C6-26EE-4175-8BA0-AE0CEC22A435-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 9B63CEC5-6059-46CF-92BE-59C2F6E8086E-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 9B63CEC5-6059-46CF-92BE-59C2F6E8086E-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 9b6e1870-8ff6-4b89-8468-d173061090b2-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 9b6e1870-8ff6-4b89-8468-d173061090b2-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 a1qa.m.facebook.com
 0.0.0.0 a2fda46e-a1cb-41cf-a976-d57268e2f88b-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 a2fda46e-a1cb-41cf-a976-d57268e2f88b-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 a3.sphotos.ak.fbcdn.net
+0.0.0.0 a5277784-a58e-4491-9a4d-f1ea3f686185-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 a5277784-a58e-4491-9a4d-f1ea3f686185-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 a8bd7f9a-e5b0-4d11-8f61-4039662bf749-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 a8bd7f9a-e5b0-4d11-8f61-4039662bf749-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 aa.facebook.com
@@ -660,6 +676,9 @@
 0.0.0.0 E6BF7C8C-1367-48D2-BB9E-0E41E52B530F-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 E6F2D50D-FF2C-44E6-909A-B35233B6FE14-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 E6F2D50D-FF2C-44E6-909A-B35233B6FE14-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 e916b803-a523-4bd2-9d65-af715ec00f49-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 EC4AAE98-4A40-4BE2-A82A-4CD0CF0BDEC2-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 EC4AAE98-4A40-4BE2-A82A-4CD0CF0BDEC2-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 echo.facebook.com
 0.0.0.0 EDA3B537-3F31-44B0-A192-05A90080F8C3-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 EDA3B537-3F31-44B0-A192-05A90080F8C3-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -3887,6 +3906,7 @@
 0.0.0.0 instagram.ffru7-1.fna.fbcdn.net
 0.0.0.0 instagram.ffru8-1.fna.fbcdn.net
 0.0.0.0 instagram.ffru9-1.fna.fbcdn.net
+0.0.0.0 instagram.fgau3-3.fna.fbcdn.net
 0.0.0.0 instagram.fgdl10-1.fna.fbcdn.net
 0.0.0.0 instagram.fgdl11-1.fna.fbcdn.net
 0.0.0.0 instagram.fgdl12-1.fna.fbcdn.net
@@ -5660,6 +5680,7 @@
 0.0.0.0 media-kul2-1.cdn.whatsapp.net
 0.0.0.0 media-kul2-2.cdn.whatsapp.net
 0.0.0.0 media-kul3-1.cdn.whatsapp.net
+0.0.0.0 media-ord5-1.cdn.whatsapp.net
 0.0.0.0 media-sea1-1.cdn.whatsapp.net
 0.0.0.0 media-sin11-1.cdn.whatsapp.net
 0.0.0.0 media-sin11-2.cdn.whatsapp.net
@@ -7882,6 +7903,7 @@
 0.0.0.0 scontent-otp1-1.xx.fbcdn.net
 0.0.0.0 scontent-sea1-1.cdninstagram.com
 0.0.0.0 scontent-sea1-1.xx.fbcdn.net
+0.0.0.0 scontent-sea5-1.cdninstagram.com
 0.0.0.0 scontent-sea5-1.xx.fbcdn.net
 0.0.0.0 scontent-sea.xx.fbcdn.net
 0.0.0.0 scontent-sin11-1.cdninstagram.com

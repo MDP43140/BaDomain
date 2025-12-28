@@ -198,6 +198,7 @@ configuration.apple.com.edgekey.net
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration.ls.v.aaplimg.com
+configuration-row-lb.apple.com.akadns.net
 configuration.v.aaplimg.com
 contacts.fe2.apple-dns.net
 contacts.fe.apple-dns.net
@@ -226,6 +227,7 @@ fmfmobile.fe.apple-dns.net
 fmip.fe2.apple-dns.net
 fpinit-apac-s.edge-itunes-apple.com.akadns.net
 fpinit.itunes.apple.com
+fpinit-itunes.g.aaplimg.com
 friend.gc.apple.com
 g.aaplimg.com
 gateway.fe2.apple-dns.net
@@ -342,6 +344,7 @@ keyvalueservice.icloud.com
 kt-prod.ess.apple.com
 kt-prod.v.aaplimg.com
 lcdn-locator.apple.com
+lcdn-locator.apple.com.akadns.net
 lcdn-locator-usms11.apple.com.akadns.net
 lcdn-locator-usuqo.apple.com.akadns.net
 mask-api.fe2.apple-dns.net
@@ -355,6 +358,7 @@ mesu.apple.com
 mesu.apple.com.edgekey.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.g.aaplimg.com
+metricsedge-continent-wrr.v.aaplimg.com
 musicstatus.itunes.apple.com
 mzstatic.com
 mzstorekit.g.aaplimg.com
@@ -556,6 +560,7 @@ profile.gc.fe2.apple-dns.net
 proxy.safebrowsing.apple
 query.ess.apple.com
 query.ess-apple.com.akadns.net
+quota.fe2.apple-dns.net
 quota.fe.apple-dns.net
 quota.icloud.com
 register.appattest.apple.com
@@ -568,6 +573,8 @@ sas.pcms.apple.com
 se2.itunes.apple.com
 search.itunes.apple.com
 se-edge.itunes.apple.com
+sequoia.cdn-apple.com
+serverstatus.apple.com
 setup.fe2.apple-dns.net
 setup.fe.apple-dns.net
 setup.icloud.com

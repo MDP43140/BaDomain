@@ -239,6 +239,7 @@ apl.innoticeid52amazon.com
 app.bt-cfm.io
 appbundledownload.com
 app.chat.us.xiaomi.net
+appeal-apple.com
 app.kmail.com
 applilink.jp
 appmetrica.yandex.net
@@ -303,6 +304,7 @@ bdapi-f.ads.heytapmobile.com
 bdysite.com
 beacon-fra1.rubiconproject.com
 beacon.page
+beastwin.top
 beatmob.pics
 bebasindo.sds
 bed.fyi
@@ -756,6 +758,7 @@ global.ilovexclub.com
 global.preview.app.market.pt.xiaomi.com
 gmnovietnam.vn
 go2speed.org
+go.helpbrilliant.com
 golyadik.site
 golyter.shop
 go-mpulse.net
@@ -972,6 +975,7 @@ kinotec.pics
 kirkshire.world
 kiskebhge23j.ml
 kleanmypc.com
+kluserly.com
 kl-youniverse.com
 kmw.biqlobe.ne.jp
 koglique.net
@@ -1618,6 +1622,7 @@ tastmob.yachts
 tc.hd.xiaomi.com
 team.stagingapps.xyz
 technopawns.com
+techraconnects.com
 tekeiteh.quest
 teledomn.quest
 telemetry-pingv1.eyeo.com

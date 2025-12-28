@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 08.12.2025
+# Version: 28.12.2025
 # Update: 1 day
 #
 
@@ -361,6 +361,7 @@
 92image.levect.com
 9410194.fls.doubleclick.net
 9525cdcb-dnsotls-ds.metric.gstatic.com
+984ebe8f-dnsotls-ds.metric.gstatic.com
 98729062-dnsotls-ds.metric.gstatic.com
 9933gg.com
 9a8d27bd-dnsotls-ds.metric.gstatic.com
@@ -410,6 +411,7 @@ aa-cdn.net
 a.adskeeper.com
 aaid.umeng.com
 a.applovin.com
+aa.unioneeu.com
 abackup01.xyz
 abadidana.com
 ab.chatgpt.com
@@ -698,6 +700,8 @@ analytics.rctiplus.com
 analytics.rocks
 analytics-tcp.mintegral.net
 analytics-tcp.mtgglobals.com
+analytics.urbanint.net
+analytics.urban-vpn.com
 analytics.usercentrics.com
 analytics-vibe.contextads.live
 analytics.welcomesoftware.com
@@ -5957,6 +5961,7 @@ robotaset.com
 robuxweb.pro
 robwu.nl
 robyoc.online
+rococo.timeappmarketing.com
 rokev.extremescoffee.com
 rollbar.com
 rollbit.com
@@ -6633,6 +6638,7 @@ stats.kaltura.com
 stats.lineageos.org
 stats.seedr.com
 stats.sentradata.id
+stats.urban-vpn.com
 stats.wp.com
 stats.wpmucdn.com
 stat.tiara.tistory.com
@@ -6824,6 +6830,7 @@ tbsandbox.com
 tch493077.tch.quora.com
 tch.quora.com
 tck-sgp-stun.dropz-k.com
+tc.vbnmhjlp.com
 tdcv3.talkingdata.net
 tdsjsext3.com
 teads.tv

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 08.12.2025
+# Version: 28.12.2025
 # Update: 1 day
 #
 
@@ -361,6 +361,7 @@
 0.0.0.0 92image.levect.com
 0.0.0.0 9410194.fls.doubleclick.net
 0.0.0.0 9525cdcb-dnsotls-ds.metric.gstatic.com
+0.0.0.0 984ebe8f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 98729062-dnsotls-ds.metric.gstatic.com
 0.0.0.0 9933gg.com
 0.0.0.0 9a8d27bd-dnsotls-ds.metric.gstatic.com
@@ -410,6 +411,7 @@
 0.0.0.0 a.adskeeper.com
 0.0.0.0 aaid.umeng.com
 0.0.0.0 a.applovin.com
+0.0.0.0 aa.unioneeu.com
 0.0.0.0 abackup01.xyz
 0.0.0.0 abadidana.com
 0.0.0.0 ab.chatgpt.com
@@ -698,6 +700,8 @@
 0.0.0.0 analytics.rocks
 0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 analytics-tcp.mtgglobals.com
+0.0.0.0 analytics.urbanint.net
+0.0.0.0 analytics.urban-vpn.com
 0.0.0.0 analytics.usercentrics.com
 0.0.0.0 analytics-vibe.contextads.live
 0.0.0.0 analytics.welcomesoftware.com
@@ -5957,6 +5961,7 @@
 0.0.0.0 robuxweb.pro
 0.0.0.0 robwu.nl
 0.0.0.0 robyoc.online
+0.0.0.0 rococo.timeappmarketing.com
 0.0.0.0 rokev.extremescoffee.com
 0.0.0.0 rollbar.com
 0.0.0.0 rollbit.com
@@ -6633,6 +6638,7 @@
 0.0.0.0 stats.lineageos.org
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.sentradata.id
+0.0.0.0 stats.urban-vpn.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.wpmucdn.com
 0.0.0.0 stat.tiara.tistory.com
@@ -6824,6 +6830,7 @@
 0.0.0.0 tch493077.tch.quora.com
 0.0.0.0 tch.quora.com
 0.0.0.0 tck-sgp-stun.dropz-k.com
+0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 tdcv3.talkingdata.net
 0.0.0.0 tdsjsext3.com
 0.0.0.0 teads.tv

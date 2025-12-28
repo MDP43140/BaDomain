@@ -5,6 +5,7 @@
 # personal information or login credential
 #
 
+0.0.0.0 1680e7.netlify.app
 0.0.0.0 8brpdhoghz.cc
 0.0.0.0 9convert.com
 0.0.0.0 allsupport.me
@@ -25,6 +26,7 @@
 0.0.0.0 c1ikweb-id.cx6cz1.me
 0.0.0.0 calcdigit.pics
 0.0.0.0 casescrown.com
+0.0.0.0 ccleaner.sjv.io
 0.0.0.0 cc.xn--90afaybtea4a2a.xn--p1ai
 0.0.0.0 clicken.us
 0.0.0.0 com-zkoptrqt.vip
@@ -95,6 +97,7 @@
 0.0.0.0 nrt.ekhelp.net
 0.0.0.0 obomob.site
 0.0.0.0 oifilon.site
+0.0.0.0 oreidasbanheiras.com.br
 0.0.0.0 pricetool.store
 0.0.0.0 primeconvertapp.com
 0.0.0.0 printer-helpnumber.com
@@ -118,6 +121,7 @@
 0.0.0.0 ragutech.shop
 0.0.0.0 redeemall.store
 0.0.0.0 risebroadband.com
+0.0.0.0 rmut-cp.clkwebx.com
 0.0.0.0 samknut.click
 0.0.0.0 sasaiso.cfd
 0.0.0.0 sgcare.help
@@ -151,6 +155,7 @@
 0.0.0.0 webmailhomes.com
 0.0.0.0 web.telegram-cn.top
 0.0.0.0 whimsical-puffpuff-034877.netlify.app
+0.0.0.0 www.activisionnew.com
 0.0.0.0 www.antivirus-helpnumber.com
 0.0.0.0 www.appleindo.store
 0.0.0.0 www.appsneak.com

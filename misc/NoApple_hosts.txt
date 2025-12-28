@@ -198,6 +198,7 @@
 0.0.0.0 configuration-lb.ls-apple.com.akadns.net
 0.0.0.0 configuration.ls.apple.com
 0.0.0.0 configuration.ls.v.aaplimg.com
+0.0.0.0 configuration-row-lb.apple.com.akadns.net
 0.0.0.0 configuration.v.aaplimg.com
 0.0.0.0 contacts.fe2.apple-dns.net
 0.0.0.0 contacts.fe.apple-dns.net
@@ -226,6 +227,7 @@
 0.0.0.0 fmip.fe2.apple-dns.net
 0.0.0.0 fpinit-apac-s.edge-itunes-apple.com.akadns.net
 0.0.0.0 fpinit.itunes.apple.com
+0.0.0.0 fpinit-itunes.g.aaplimg.com
 0.0.0.0 friend.gc.apple.com
 0.0.0.0 g.aaplimg.com
 0.0.0.0 gateway.fe2.apple-dns.net
@@ -342,6 +344,7 @@
 0.0.0.0 kt-prod.ess.apple.com
 0.0.0.0 kt-prod.v.aaplimg.com
 0.0.0.0 lcdn-locator.apple.com
+0.0.0.0 lcdn-locator.apple.com.akadns.net
 0.0.0.0 lcdn-locator-usms11.apple.com.akadns.net
 0.0.0.0 lcdn-locator-usuqo.apple.com.akadns.net
 0.0.0.0 mask-api.fe2.apple-dns.net
@@ -355,6 +358,7 @@
 0.0.0.0 mesu.apple.com.edgekey.net
 0.0.0.0 mesu-cdn.origin-apple.com.akadns.net
 0.0.0.0 mesu.g.aaplimg.com
+0.0.0.0 metricsedge-continent-wrr.v.aaplimg.com
 0.0.0.0 musicstatus.itunes.apple.com
 0.0.0.0 mzstatic.com
 0.0.0.0 mzstorekit.g.aaplimg.com
@@ -556,6 +560,7 @@
 0.0.0.0 proxy.safebrowsing.apple
 0.0.0.0 query.ess.apple.com
 0.0.0.0 query.ess-apple.com.akadns.net
+0.0.0.0 quota.fe2.apple-dns.net
 0.0.0.0 quota.fe.apple-dns.net
 0.0.0.0 quota.icloud.com
 0.0.0.0 register.appattest.apple.com
@@ -568,6 +573,8 @@
 0.0.0.0 se2.itunes.apple.com
 0.0.0.0 search.itunes.apple.com
 0.0.0.0 se-edge.itunes.apple.com
+0.0.0.0 sequoia.cdn-apple.com
+0.0.0.0 serverstatus.apple.com
 0.0.0.0 setup.fe2.apple-dns.net
 0.0.0.0 setup.fe.apple-dns.net
 0.0.0.0 setup.icloud.com
