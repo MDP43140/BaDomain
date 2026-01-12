@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 28.12.2025
+# Version: 12.01.2026
 # Update: 1 day
 #
 
@@ -1440,6 +1440,7 @@
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.glance.inmobi.com
 0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons-handoff.gcp.gvt2.com
 0.0.0.0 beacons.page
 0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beagles.cookappsgames.com
@@ -1872,7 +1873,6 @@
 0.0.0.0 cdn.signalfx.com
 0.0.0.0 cdn.simplelocalize.io
 0.0.0.0 cdns.klimg.com
-0.0.0.0 cdn.slidesharecdn.com
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.sohucs.com
 0.0.0.0 cdn.stape.io
@@ -2417,7 +2417,6 @@
 0.0.0.0 dem.shopee.com
 0.0.0.0 de.ntp.org.cn
 0.0.0.0 desktop.televzr.com
-0.0.0.0 de.slideshare.net
 0.0.0.0 de.tynt.com
 0.0.0.0 devanture.com.sg
 0.0.0.0 dev.bignox.com
@@ -2609,9 +2608,6 @@
 0.0.0.0 e10499.dsce9.akamaiedge.net
 0.0.0.0 e12919.dscd.akamaiedge.net
 0.0.0.0 e295d42c-dnsotls-ds.metric.gstatic.com
-0.0.0.0 e2c18.gcp.gvt2.com
-0.0.0.0 e2c35.gcp.gvt2.com
-0.0.0.0 e2cs04.gcp.gvt2.com
 0.0.0.0 e3log1.fineboost.com
 0.0.0.0 e3log2.fineboost.com
 0.0.0.0 e3log3.fineboost.com
@@ -2781,7 +2777,6 @@
 0.0.0.0 esmwxy.launches.appsflyersdk.com
 0.0.0.0 esmwxy-register.appsflyersdk.com
 0.0.0.0 es.rakuten.tv
-0.0.0.0 es.slideshare.net
 0.0.0.0 establishedtitles.com
 0.0.0.0 es.topbests.net
 0.0.0.0 e.tapdb.net
@@ -3078,7 +3073,6 @@
 0.0.0.0 front-perf.imoim.net
 0.0.0.0 front-perf.like-video.com
 0.0.0.0 front-perf.ukyuh.tech
-0.0.0.0 fr.slideshare.net
 0.0.0.0 fsdn.com
 0.0.0.0 fs.rbtasset.com
 0.0.0.0 fs.robotaset.com
@@ -3632,7 +3626,6 @@
 0.0.0.0 images.hellomagazine.com
 0.0.0.0 images.idtopnews.com
 0.0.0.0 images.kaik.ai
-0.0.0.0 image.slidesharecdn.com
 0.0.0.0 images.noiceid.cc
 0.0.0.0 images.pdnob.com
 0.0.0.0 images.prismic.io
@@ -5085,6 +5078,7 @@
 0.0.0.0 o4508376470126592.ingest.de.sentry.io
 0.0.0.0 o4508376470126592.ingest.sentry.io
 0.0.0.0 o4508376470126592.ingest.us.sentry.io
+0.0.0.0 o4509484018958336.ingest.us.sentry.io
 0.0.0.0 o468184.ingest.de.sentry.io
 0.0.0.0 o468184.ingest.sentry.io
 0.0.0.0 o468184.ingest.us.sentry.io
@@ -5669,14 +5663,12 @@
 0.0.0.0 ps.wshareit.com
 0.0.0.0 pt.bignox.com
 0.0.0.0 ptlinknettbk.my.salesforce.com
-0.0.0.0 pt.slideshare.net
 0.0.0.0 public1.114dns.com
 0.0.0.0 public2.114dns.com
 0.0.0.0 public.bnbstatic.com
 0.0.0.0 public.orderonline.id
 0.0.0.0 public.profitwell.com
 0.0.0.0 public.shtranssion.com
-0.0.0.0 public.slidesharecdn.com
 0.0.0.0 public.transacme.com
 0.0.0.0 publisher.caroda.io
 0.0.0.0 publisher-config.unityads.unity3d.com
@@ -8163,7 +8155,6 @@
 0.0.0.0 www.sky-quad.com
 0.0.0.0 www.skyquaddrone.com
 0.0.0.0 www.slickstream.com
-0.0.0.0 www.slideshare.net
 0.0.0.0 www.smartsuppcdn.com
 0.0.0.0 www.smartsuppchat.com
 0.0.0.0 www.smtjs-06.com

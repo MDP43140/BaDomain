@@ -13,6 +13,7 @@ adx-in.ads.heytapmobile.com
 adx-kh.ads.heytapmobile.com
 adx-mm.ads.heytapmobile.com
 adx-my.ads.heytapmobile.com
+adx-op-sg.heytapmobile.com
 adx-sg.ads.heytapmobi.com
 adx-sg.ads.heytapmobile.com
 album-cn01a.ocloud.heytapmobi.com

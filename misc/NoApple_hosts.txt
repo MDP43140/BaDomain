@@ -145,6 +145,7 @@
 0.0.0.0 apple.news
 0.0.0.0 apple.tt.omtrdc.net
 0.0.0.0 app-site-association.cdn-apple.com
+0.0.0.0 app-site-association.cdn-apple.com.akadns.net
 0.0.0.0 app-site-association.g.aaplimg.com
 0.0.0.0 apptrailers.itunes.apple.com
 0.0.0.0 apse1-wps-prod.apple.com
@@ -166,6 +167,7 @@
 0.0.0.0 c.apple.news
 0.0.0.0 captive.apple.com
 0.0.0.0 captive.g.aaplimg.com
+0.0.0.0 captive-geo.origin-apple.com.akadns.net
 0.0.0.0 cdn.apple-mapkit.com
 0.0.0.0 cdn-icloud-content.g.aaplimg.com
 0.0.0.0 cdsassets.apple.com
@@ -370,6 +372,7 @@
 0.0.0.0 ocsp2-lb.apple.com.akadns.net
 0.0.0.0 odr.itunes.apple.com
 0.0.0.0 ontology.health.apple.com
+0.0.0.0 p101-sharedstreams.icloud.com
 0.0.0.0 p105-sharedstreams.icloud.com
 0.0.0.0 p108-acsegateway.icloud.com
 0.0.0.0 p108-fmf.icloud.com
@@ -483,7 +486,9 @@
 0.0.0.0 p47-fmip.icloud.com
 0.0.0.0 p47-quota.icloud.com
 0.0.0.0 p48-caldav.icloud.com
+0.0.0.0 p48-contacts.icloud.com
 0.0.0.0 p48-escrowproxy.icloud.com
+0.0.0.0 p48-quota.icloud.com
 0.0.0.0 p49-caldav.icloud.com
 0.0.0.0 p49-escrowproxy.icloud.com
 0.0.0.0 p50-buy.itunes.apple.com

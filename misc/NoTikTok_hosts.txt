@@ -2715,6 +2715,7 @@
 0.0.0.0 p16-catalog-sg.ibyteimg.com
 0.0.0.0 p16-cg-gaudit.ibyteimg.com
 0.0.0.0 p16-comment-sign-sg.tiktokcdn.com
+0.0.0.0 p16-comment-sign-va.tiktokcdn.com
 0.0.0.0 p16-common-sign.tiktokcdn-us.com
 0.0.0.0 p16-common-sign-useastred.tiktokcdn-eu.com
 0.0.0.0 p16-common-sign-va.tiktokcdn-us.com
@@ -2792,6 +2793,8 @@
 0.0.0.0 p16-tiktok-dm-sticker-euttp-sign-useast2a.ibyteimg.com
 0.0.0.0 p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-dm-sticker-sign-va.ibyteimg.com
+0.0.0.0 p16-tiktok-ls-product-sign-sg.tiktokcdn.com
+0.0.0.0 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-sg-ab.ibyteimg.com
 0.0.0.0 p16-tiktok-sg-ab.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-tiktok-sg-h2.ibyteimg.com
@@ -2863,6 +2866,7 @@
 0.0.0.0 p19-sign-sg.tiktokcdn.com
 0.0.0.0 p19-sign.tiktokcdn-us.com
 0.0.0.0 p19-tiktok-ls-product-sign-sg.ibyteimg.com
+0.0.0.0 p19-tiktok-ls-product-sign-sg.tiktokcdn.com
 0.0.0.0 p19-webcast.hypstarcdn.com
 0.0.0.0 p19-webcast.muscdn.com
 0.0.0.0 p19-webcast.tiktokcdn.com
@@ -4441,6 +4445,7 @@
 0.0.0.0 tms3.pstatp.com.w.kunlunle.com
 0.0.0.0 tms.bytedance.net
 0.0.0.0 tnc0-normal-alisg.tiktokv.com
+0.0.0.0 tnc0-normal-alisg.tiktokv.com.ttdns2.com
 0.0.0.0 tnc0-normal-my.tiktokv.com
 0.0.0.0 tnc0-normal-my.tiktokv.com.ttdns2.com
 0.0.0.0 tnc0-normal-sg1.tiktokv.com

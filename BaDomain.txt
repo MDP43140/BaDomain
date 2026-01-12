@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 28.12.2025
+# Version: 12.01.2026
 # Update: 1 day
 #
 
@@ -1440,6 +1440,7 @@ beacons.ai
 beacons.gcp.gvt2.com
 beacons.glance.inmobi.com
 beacons.gvt2.com
+beacons-handoff.gcp.gvt2.com
 beacons.page
 beacon-v2.helpscout.net
 beagles.cookappsgames.com
@@ -1872,7 +1873,6 @@ cdn.siftscience.com
 cdn.signalfx.com
 cdn.simplelocalize.io
 cdns.klimg.com
-cdn.slidesharecdn.com
 cdn.snigelweb.com
 cdn.sohucs.com
 cdn.stape.io
@@ -2417,7 +2417,6 @@ demos.pcapredict.com
 dem.shopee.com
 de.ntp.org.cn
 desktop.televzr.com
-de.slideshare.net
 de.tynt.com
 devanture.com.sg
 dev.bignox.com
@@ -2609,9 +2608,6 @@ e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e12919.dscd.akamaiedge.net
 e295d42c-dnsotls-ds.metric.gstatic.com
-e2c18.gcp.gvt2.com
-e2c35.gcp.gvt2.com
-e2cs04.gcp.gvt2.com
 e3log1.fineboost.com
 e3log2.fineboost.com
 e3log3.fineboost.com
@@ -2781,7 +2777,6 @@ esmwxy-launches.appsflyersdk.com
 esmwxy.launches.appsflyersdk.com
 esmwxy-register.appsflyersdk.com
 es.rakuten.tv
-es.slideshare.net
 establishedtitles.com
 es.topbests.net
 e.tapdb.net
@@ -3078,7 +3073,6 @@ front.optimonk.com
 front-perf.imoim.net
 front-perf.like-video.com
 front-perf.ukyuh.tech
-fr.slideshare.net
 fsdn.com
 fs.rbtasset.com
 fs.robotaset.com
@@ -3632,7 +3626,6 @@ images-eds-ssl.xboxlive.com
 images.hellomagazine.com
 images.idtopnews.com
 images.kaik.ai
-image.slidesharecdn.com
 images.noiceid.cc
 images.pdnob.com
 images.prismic.io
@@ -5085,6 +5078,7 @@ o4507686279512064.ingest.us.sentry.io
 o4508376470126592.ingest.de.sentry.io
 o4508376470126592.ingest.sentry.io
 o4508376470126592.ingest.us.sentry.io
+o4509484018958336.ingest.us.sentry.io
 o468184.ingest.de.sentry.io
 o468184.ingest.sentry.io
 o468184.ingest.us.sentry.io
@@ -5669,14 +5663,12 @@ pSKjVB-dnsotls-ds.metric.gstatic.com
 ps.wshareit.com
 pt.bignox.com
 ptlinknettbk.my.salesforce.com
-pt.slideshare.net
 public1.114dns.com
 public2.114dns.com
 public.bnbstatic.com
 public.orderonline.id
 public.profitwell.com
 public.shtranssion.com
-public.slidesharecdn.com
 public.transacme.com
 publisher.caroda.io
 publisher-config.unityads.unity3d.com
@@ -8163,7 +8155,6 @@ www.sk.ru
 www.sky-quad.com
 www.skyquaddrone.com
 www.slickstream.com
-www.slideshare.net
 www.smartsuppcdn.com
 www.smartsuppchat.com
 www.smtjs-06.com

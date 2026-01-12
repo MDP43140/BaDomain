@@ -13,6 +13,7 @@
 0.0.0.0 adx-kh.ads.heytapmobile.com
 0.0.0.0 adx-mm.ads.heytapmobile.com
 0.0.0.0 adx-my.ads.heytapmobile.com
+0.0.0.0 adx-op-sg.heytapmobile.com
 0.0.0.0 adx-sg.ads.heytapmobi.com
 0.0.0.0 adx-sg.ads.heytapmobile.com
 0.0.0.0 album-cn01a.ocloud.heytapmobi.com

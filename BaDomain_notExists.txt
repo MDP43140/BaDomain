@@ -1478,7 +1478,6 @@ scholar.sogou.com
 sdk-config.fyber.com
 sdk.iad-09.braze.com
 sdk.open.inc2.igexin.com
-śdtòtòmain.com
 searchblox.site
 searchesdex.me
 search.spotxchange.com
@@ -2032,6 +2031,7 @@ xjke.xyz
 xlmc.sec.miui.com
 xn--80aa2cah8a7f73b.com
 xn--80ahnoqbcdc1a.xn--p1ai
+xn--dttmain-e0ab95h.com
 xn--eepass-vbb.info
 xorotelec.quest
 xpoalswwkjddsljsy.com
