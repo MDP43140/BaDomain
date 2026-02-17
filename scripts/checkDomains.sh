@@ -30,7 +30,7 @@ DOMAIN_LISTS="google.com reddit.com example.com ThisDomainDoesntExistAtAll.dontr
 
 ## Query domain lists, remove previous log, and stuff... ##
 echo "[i] Querying ${INPUT_FILE:-StandardInput} domain lists..."
-DOMAIN_LISTS=$(sed '/^#/d' ${INPUT_FILE} | sed -r '/^(\b25[0-5]|\b2[0-4][0-9]|\b[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/d' | sort -ui)
+DOMAIN_LISTS=$(sed '/^#/d' ${INPUT_FILE} | sed -r '/^(\b25[0-5]|\b2[0-4][0-9]|\b[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/d' | sed -r 's/[\s\t ]*#.+$//g' | sort -ui)
 
 # Count total domains
 TOTAL_DOMAINS=$(wc -l <<< "${DOMAIN_LISTS}")

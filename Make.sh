@@ -26,6 +26,7 @@ HOSTSFILE_TYPES=(
 	"misc/NoTikTok"
 	"misc/NoVivo"
 	"misc/NoXiaomi"
+	"misc/NoYouTube"
 )
 HOSTSFILE_TYPES="${HOSTSFILE_TYPES[*]}"
 for a in $*;do

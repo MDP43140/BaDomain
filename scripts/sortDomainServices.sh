@@ -69,6 +69,8 @@ while IFS= read -r line;do
 		*.garenanow.com|\
 		*.ggbluefox.com|\
 		*.ggblueshark.com|\
+		*.ggpolarbear.com|\
+		*.ggwhitehawk.com|\
 		*.pencilorange.com|\
 		*.purplevioleto.com)
 			echo "$line" >> ${service_output_folder}/NoFreeFire.tmp
@@ -204,6 +206,7 @@ while IFS= read -r line;do
 		*.tiktokv.com|\
 		*.tiktokv.com.edgekey.net|\
 		*.tiktokv.com.edgesuite.net|\
+		*.tiktokv.us|\
 		*.toutiao50.com|\
 		*.toutiaocloud.com|\
 		*.toutiao.com|\
