@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 12.01.2026
+# Version: 17.02.2026
 # Update: 1 day
 #
 
@@ -137,6 +137,7 @@
 0.0.0.0 2xbmcf-register.appsflyersdk.com
 0.0.0.0 2.ygti905ffth6.com
 0.0.0.0 30.ygti905ffth6.com
+0.0.0.0 314c1d4f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 317af260f8214031b73f4a9c4172c453-c3d1c026fa4f.cdn.forter.com
 0.0.0.0 31f1a2c6-dnsotls-ds.metric.gstatic.com
 0.0.0.0 31.ygti905ffth6.com
@@ -3150,6 +3151,7 @@
 0.0.0.0 gass.co.id
 0.0.0.0 gass.innerfit.id
 0.0.0.0 gate.upclick.com
+0.0.0.0 gateway-b.offerwall.unity3d.com
 0.0.0.0 gateway.ea.com
 0.0.0.0 gateway.gadsme.com
 0.0.0.0 gateway.id.kakaowebtoon.com
@@ -4636,6 +4638,7 @@
 0.0.0.0 mqtt-cluster01.transsion-os.com
 0.0.0.0 mqtt-cluster03.transsion-os.com
 0.0.0.0 mqtt-cluster04.transsion-os.com
+0.0.0.0 mqtt-cluster05.transsion-os.com
 0.0.0.0 mqtt-cluster06.transsion-os.com
 0.0.0.0 mqtt-cluster09.transsion-os.com
 0.0.0.0 mqtt.transsion-os.com

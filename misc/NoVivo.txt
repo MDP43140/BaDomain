@@ -3,6 +3,7 @@
 #
 
 2026-abroad-optional-area-dcdn-perform-test-id-10.vivoglobal.com
+ai-painting-image.vivo.com.cn
 artpp-vivofs.vivoglobal.com
 asai-file-wlanapkcdn2.vivoglobal.com
 asia-abeacdataort-stsdk.vivoglobal.com
@@ -25,6 +26,7 @@ asia-err-up.vivoglobal.com
 asia-ex-adlog.vivoglobal.com
 asia-exappupgrade.vivoglobal.com
 asia-exbrowsercrp.vivoglobal.com
+asia-exbrowser-video.vivoglobal.com
 asia-excpd-fs.vivoglobal.com
 asia-exdmp.vivoglobal.com
 asia-exmagazineunlock-proxy.vivoglobal.com

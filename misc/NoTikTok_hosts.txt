@@ -716,6 +716,7 @@
 0.0.0.0 bhns2.toutiao.com
 0.0.0.0 bianjixing.snssdk.com
 0.0.0.0 bic.snssdk.com
+0.0.0.0 bits.bytedance.net
 0.0.0.0 bkbd-awsjp16-up.muscdn.com
 0.0.0.0 bkbd-awsjp16-up-va.tiktokcdn.com
 0.0.0.0 bkbd-awsjp16-up-va.tiktokcdn.com.edgesuite.net
@@ -962,6 +963,7 @@
 0.0.0.0 devops.byted.org
 0.0.0.0 dev.tiktok.com
 0.0.0.0 dficimage.toutiao.com
+0.0.0.0 dial65.capcutapi.com
 0.0.0.0 diamond-share.snssdk.com
 0.0.0.0 diamond.snssdk.com
 0.0.0.0 diamond.snssdk.com.w.kunluncan.com
@@ -1783,6 +1785,7 @@
 0.0.0.0 jsb22-normal-useast2a.tiktokv.com
 0.0.0.0 jsb31-normal-alisg.tiktokv.com
 0.0.0.0 jsb31-normal-useast2a.tiktokv.com
+0.0.0.0 jsb-boot.tiktokv.com
 0.0.0.0 jsb-hl.snssdk.com
 0.0.0.0 jsb-lf.snssdk.com
 0.0.0.0 jsb-lq.snssdk.com
@@ -1879,6 +1882,7 @@
 0.0.0.0 lf16-mt-va.ibytedtos.com
 0.0.0.0 lf16-muse-va.ibytedtos.com
 0.0.0.0 lf16-muse-va.ibytedtos.com.edgekey.net
+0.0.0.0 lf16-music-sign.tiktokcdn.com
 0.0.0.0 lf16-tcs.tiktokcdn.com
 0.0.0.0 lf16-tiktok-common.ibytedos.com
 0.0.0.0 lf16-tiktok-common.ibytedtos.com
@@ -2001,6 +2005,7 @@
 0.0.0.0 libra22-normal-alisg.tiktokv.com
 0.0.0.0 libra22-normal-useast2a.tiktokv.com
 0.0.0.0 libra32-normal-alisg.tiktokv.com
+0.0.0.0 libra-boot.tiktokv.com
 0.0.0.0 libra-i18n.tiktokv.com
 0.0.0.0 library.musical.ly
 0.0.0.0 library.tiktok.com
@@ -2685,6 +2690,7 @@
 0.0.0.0 p0.pstatp.com
 0.0.0.0 p0.pstatp.com.w.kunlunhuf.com
 0.0.0.0 p0.sgpstatp.com
+0.0.0.0 p0-tiktok-dm-private-sg.tiktokv.com
 0.0.0.0 p10.pstatp.com
 0.0.0.0 p10.pstatp.com.w.kunlunle.com
 0.0.0.0 p13.ipstatp.com
@@ -2847,6 +2853,7 @@
 0.0.0.0 p19-capcut-va.ibyteimg.com
 0.0.0.0 p19-catalog-sg.ibyteimg.com
 0.0.0.0 p19-comment-sign-sg.tiktokcdn.com
+0.0.0.0 p19-common-sign.tiktokcdn-us.com
 0.0.0.0 p19-common-sign-useastred.tiktokcdn-eu.com
 0.0.0.0 p19-cp-game-img-sign-sg.tiktokcdn.com
 0.0.0.0 p19.hypstarcdn.com
@@ -2919,6 +2926,7 @@
 0.0.0.0 p1-xg.pstatp.com
 0.0.0.0 p1-xg.pstatp.com.wsglb0.com
 0.0.0.0 p21-ad-sg.ibyteimg.com
+0.0.0.0 p21-oec-va.ibyteimg.com
 0.0.0.0 p21-webcast.hypstarcdn.com
 0.0.0.0 p21-webcast.muscdn.com
 0.0.0.0 p21-webcast.tiktokcdn.com
@@ -3980,6 +3988,7 @@
 0.0.0.0 sage.bytedance.net
 0.0.0.0 s.amemv.com
 0.0.0.0 s.amemv.com.w.kunlunca.com
+0.0.0.0 sami-sg.tiktokv.com
 0.0.0.0 sandbox.bytedance.net
 0.0.0.0 saveu.tiktokv.com
 0.0.0.0 s.bytedance.net
@@ -4662,6 +4671,7 @@
 0.0.0.0 tos.pstatp.com
 0.0.0.0 tos-quic-awssg.tiktokcdn.com
 0.0.0.0 tos-quic-cgk7a.tiktokcdn.com
+0.0.0.0 tos-quic-cgk7c.tiktokcdn.com
 0.0.0.0 tos-quic-gcpid.tiktokcdn.com
 0.0.0.0 tos-quic-mnl4a.tiktokcdn.com
 0.0.0.0 tos-quic-sg.tiktokcdn.com
@@ -4967,6 +4977,7 @@
 0.0.0.0 v39-dynamic-cgk4.tiktokcdn.com
 0.0.0.0 v39-dynamic-cgk7a.tiktokcdn.com
 0.0.0.0 v39-dynamic-cgk7c.tiktokcdn.com
+0.0.0.0 v39-dynamic-cgk9a.tiktokcdn.com
 0.0.0.0 v39e-us.tiktokcdn.com
 0.0.0.0 v39-eu.tiktokcdn.com
 0.0.0.0 v39-id-telin.tiktokcdn.com
@@ -5201,6 +5212,7 @@
 0.0.0.0 vc-foresight.snssdk.com
 0.0.0.0 vc-foresight.snssdk.com.w.kunluncan.com
 0.0.0.0 vc-gate.snssdk.com
+0.0.0.0 v-cgk9a.gtm.byteoversea.net
 0.0.0.0 vcl-brain.snssdk.com
 0.0.0.0 vc-mirror.snssdk.com
 0.0.0.0 vc-postal.snssdk.com

@@ -14,11 +14,13 @@
 0.0.0.0 cdngarenanow-a.akamaihd.net
 0.0.0.0 clientbp.common.ggbluefox.com
 0.0.0.0 clientbp.ggblueshark.com
+0.0.0.0 clientbp.ggpolarbear.com
 0.0.0.0 client.common.freefiremobile.com
 0.0.0.0 common.freefiremobile.com
 0.0.0.0 connect.garena.com
 0.0.0.0 connect.garenanow.com
 0.0.0.0 content.garena.com
+0.0.0.0 core-cvs.freefiremobile.com
 0.0.0.0 crystalroyale.ff.garena.co.id
 0.0.0.0 csoversea.castle.freefiremobile.com
 0.0.0.0 csoversea.stronghold.freefiremobile.com
@@ -60,6 +62,7 @@
 0.0.0.0 logcollector.data.garenanow.com
 0.0.0.0 loginbp.common.ggbluefox.com
 0.0.0.0 loginbp.ggblueshark.com
+0.0.0.0 loginbp.ggpolarbear.com
 0.0.0.0 login.common.freefiremobile.com
 0.0.0.0 ludofire1.1.sea.freefiremobile.com
 0.0.0.0 mkz.ff.garena.co.id
@@ -78,6 +81,7 @@
 0.0.0.0 version.common.freefiremobile.com
 0.0.0.0 version.ffmax.pencilorange.com
 0.0.0.0 version.ffmax.purplevioleto.com
+0.0.0.0 version.ggwhitehawk.com
 0.0.0.0 web.cdn.id.garenanow.com
 0.0.0.0 webid.cdn.garenanow.com
 0.0.0.0 weeklytopup.ff.garena.co.id

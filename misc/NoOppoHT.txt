@@ -346,6 +346,7 @@ pguard-cdnfs-cn.coloros.com
 pguard-cdnfs-eu.coloros.com
 pguard-cdnfs-in.coloros.com
 pguard-cdnfs-sg.coloros.com
+phone-manager-id.heytapmobile.com
 ph-store.oppomobile.com
 play0.heytapimg.com
 proxy.apps.oppomobile.com

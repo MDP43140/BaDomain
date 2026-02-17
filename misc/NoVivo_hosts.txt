@@ -3,6 +3,7 @@
 #
 
 0.0.0.0 2026-abroad-optional-area-dcdn-perform-test-id-10.vivoglobal.com
+0.0.0.0 ai-painting-image.vivo.com.cn
 0.0.0.0 artpp-vivofs.vivoglobal.com
 0.0.0.0 asai-file-wlanapkcdn2.vivoglobal.com
 0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com
@@ -25,6 +26,7 @@
 0.0.0.0 asia-ex-adlog.vivoglobal.com
 0.0.0.0 asia-exappupgrade.vivoglobal.com
 0.0.0.0 asia-exbrowsercrp.vivoglobal.com
+0.0.0.0 asia-exbrowser-video.vivoglobal.com
 0.0.0.0 asia-excpd-fs.vivoglobal.com
 0.0.0.0 asia-exdmp.vivoglobal.com
 0.0.0.0 asia-exmagazineunlock-proxy.vivoglobal.com
