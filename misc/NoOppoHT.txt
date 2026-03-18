@@ -319,6 +319,7 @@ obus-dc2-in.heytapmobile.com
 obus-dc2-sg.heytapmobile.com
 obus-dctech-in.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
+obus-dcyitai-sg.heytapmobile.com
 obus-in.dc.heytapmobile.com
 obus-sg.dc.heytapmobile.com
 ocloud-api-sg.heytapmobile.com

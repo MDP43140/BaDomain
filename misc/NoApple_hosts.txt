@@ -425,6 +425,7 @@
 0.0.0.0 p167-fmfmobile.icloud.com
 0.0.0.0 p16-caldav.icloud.com
 0.0.0.0 p16-escrowproxy.icloud.com
+0.0.0.0 p177-acsegateway.icloud.com
 0.0.0.0 p17-caldav.icloud.com
 0.0.0.0 p17-escrowproxy.icloud.com
 0.0.0.0 p18-caldav.icloud.com
@@ -632,6 +633,7 @@
 0.0.0.0 time-ios.apple.com
 0.0.0.0 time-osx.g.aaplimg.com
 0.0.0.0 token.safebrowsing.apple
+0.0.0.0 ts.itunes.apple.com
 0.0.0.0 unlinkability.apple.com
 0.0.0.0 unlinkability.fe2.apple-dns.net
 0.0.0.0 updates.cdn-apple.com

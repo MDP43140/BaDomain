@@ -2853,6 +2853,7 @@
 0.0.0.0 p19-capcut-va.ibyteimg.com
 0.0.0.0 p19-catalog-sg.ibyteimg.com
 0.0.0.0 p19-comment-sign-sg.tiktokcdn.com
+0.0.0.0 p19-comment-sign-va.tiktokcdn.com
 0.0.0.0 p19-common-sign.tiktokcdn-us.com
 0.0.0.0 p19-common-sign-useastred.tiktokcdn-eu.com
 0.0.0.0 p19-cp-game-img-sign-sg.tiktokcdn.com
@@ -4243,7 +4244,6 @@
 0.0.0.0 sg-link.byteoversea.com
 0.0.0.0 sgpstatp.com
 0.0.0.0 sgsnssdk.com
-0.0.0.0 share-1070666956.ap-northeast-1.elb.amazonaws.com
 0.0.0.0 share.musemuse.cn
 0.0.0.0 share-sg.isnssdk.com
 0.0.0.0 share-sg.snssdk.com
@@ -4352,6 +4352,7 @@
 0.0.0.0 sync.bytedance.net
 0.0.0.0 system.bytedance.net
 0.0.0.0 tags.growingio.com
+0.0.0.0 tako22-normal-alisg.tiktokv.com
 0.0.0.0 ta.snssdk.com
 0.0.0.0 tb.isnssdk.com
 0.0.0.0 tbm.snssdk.com
@@ -4953,6 +4954,7 @@
 0.0.0.0 v31-id-dhl7.tiktokcdn.com
 0.0.0.0 v31-id-dhl9.tiktokcdn.com
 0.0.0.0 v31-id-telin.tiktokcdn.com
+0.0.0.0 v31-id-tsel.tiktokcdn.com
 0.0.0.0 v31.muscdn.com
 0.0.0.0 v31-sg.tiktokcdn.com
 0.0.0.0 v31.tiktokcdn.com

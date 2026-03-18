@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 17.02.2026
+# Version: 19.03.2026
 # Update: 1 day
 #
 
@@ -45,6 +45,7 @@
 138.com
 13e109f68a.03bdb617ed.com
 13.ygti905ffth6.com
+14ced0c6-dnsotls-ds.metric.gstatic.com
 14.ygti905ffth6.com
 1558334541.rsc.cdn77.org
 156e9743-dnsotls-ds.metric.gstatic.com
@@ -63,6 +64,7 @@
 1clickvpn.net
 1.cn.pool.ntp.org
 1curle.cdn-settings.appsflyersdk.com
+1curle.conversions.appsflyersdk.com
 1curle.inapps.appsflyersdk.com
 1curle.launches.appsflyersdk.com
 1d278a3a-dnsotls-ds.metric.gstatic.com
@@ -528,6 +530,7 @@ adscontrol.xyz
 ad-score.com
 adsensecamp.com
 adserver.adverty.com
+adserver.earlygame.com
 adserver.kl-youniverse.com
 adservice.cm.bloomberg.com
 adservice.google.co.id
@@ -1779,6 +1782,7 @@ cdn.chillyroom.com
 cdn.concert.io
 cdn.confiant-integrations.net
 cdnconfig.aihelp.net
+cdn-configcenter.shalltry.com
 cdn.contentful.com
 cdn-content.optimonk.com
 cdn.cookielaw.org
@@ -2967,6 +2971,7 @@ fgrl8a.launches.appsflyersdk.com
 fgrl8a-register.appsflyersdk.com
 fid.agkn.com
 file-cdn.cdkeyoffer.com
+filedashgo.click
 filehostpro.xyz
 filelink.ru
 filelions.live
@@ -3044,7 +3049,6 @@ foxus.tagger.opecloud.com
 fpcdn.io
 fpcs-prod-wf.centurygame.com
 fp.dalyfeds.com
-fps-league.com
 fpstool.com
 fr.4sync.com
 fr.bignox.com
@@ -3172,6 +3176,7 @@ geclose2eu.info
 geekcareonline.co
 geeksquad2.com
 g.ekatox.com
+generated1c873.host17v.cfd
 genieesspv.jp
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo.captcha-delivery.com
@@ -3188,6 +3193,7 @@ geolocation-recommendations.shopifyapps.com
 geo.napster.com
 geo.tildacdn.com
 geowf.ge
+get357561.host17v.cfd
 getarealcareer.com
 getclicky.com
 getecoplus.com
@@ -4159,6 +4165,8 @@ laudiana.com
 laugoust.com
 launchdarkly.com
 launchdarkly-marketingsite.cdn.prismic.io
+launcher-h3.shalltry.com
+launcher.shalltry.com
 launcher.spot.im
 launcher-us.yeshen.com
 launcher.us.yeshen.com
@@ -4496,6 +4504,7 @@ meteor.shalltry.com
 metric.hubll.com
 metricreceiver.cellrebel.com
 metrics-api.dimebadge.dimensions.ai
+metrics.earlygame.com
 metrics-twoplayers.junglefrog.com
 mg.adskeeper.com
 mgen.fast-dl.xyz
@@ -4623,6 +4632,7 @@ montanya.org
 mookie1.com
 mopinion.com
 m.optout.ziffdavis.com
+morningstartec.com
 mostathmr.com
 motogp.api.weplay.media
 motohunter.pl
@@ -6120,6 +6130,7 @@ sboxtest.zuora.com
 sbw9188.com
 scaleway.testdebit.info
 scarabresearch.com
+scarcehepatitis.com
 s.cdy.ai
 schedule-media.immomo.com
 schemas.casa
@@ -6313,6 +6324,7 @@ shake-body.com
 shalltry.com
 shareaholic.com
 shareaholic.net
+shared1c873.host17v.cfd
 sharefor2.onelink.me
 shareit.hpytimes.info
 shareit-push-cdn.wshareit.com
@@ -6691,6 +6703,7 @@ st.wshareit.com
 sub2unlock.com
 su.baidu.com
 sub.icieneguilla.com
+submit.backtrace.io
 subscribers.com
 subscriptions.opera.com
 subtitles.netpop.app
@@ -7021,6 +7034,7 @@ transfermarkt.technology
 translations.platform.pulselive.com
 translations.smartsuppcdn.com
 transsion.com
+transsion-search-oss-prod-alifr.oss-eu-central-1.aliyuncs.com
 transsnet.com
 traumaticpower.com
 travel.rakuten.com

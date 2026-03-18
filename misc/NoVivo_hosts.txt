@@ -41,6 +41,7 @@
 0.0.0.0 asia-gamecenter.vivoglobal.com
 0.0.0.0 asia-gsearch.vivoglobal.com
 0.0.0.0 asia-img-appstore.vivoglobal.com
+0.0.0.0 asia-isecure.vivoglobal.com
 0.0.0.0 asia-magazineunlockstatic.vivoglobal.com
 0.0.0.0 asia-magazineunlock.vivoglobal.com
 0.0.0.0 asia-mailcli.vivoglobal.com

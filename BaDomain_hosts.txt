@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 17.02.2026
+# Version: 19.03.2026
 # Update: 1 day
 #
 
@@ -45,6 +45,7 @@
 0.0.0.0 138.com
 0.0.0.0 13e109f68a.03bdb617ed.com
 0.0.0.0 13.ygti905ffth6.com
+0.0.0.0 14ced0c6-dnsotls-ds.metric.gstatic.com
 0.0.0.0 14.ygti905ffth6.com
 0.0.0.0 1558334541.rsc.cdn77.org
 0.0.0.0 156e9743-dnsotls-ds.metric.gstatic.com
@@ -63,6 +64,7 @@
 0.0.0.0 1clickvpn.net
 0.0.0.0 1.cn.pool.ntp.org
 0.0.0.0 1curle.cdn-settings.appsflyersdk.com
+0.0.0.0 1curle.conversions.appsflyersdk.com
 0.0.0.0 1curle.inapps.appsflyersdk.com
 0.0.0.0 1curle.launches.appsflyersdk.com
 0.0.0.0 1d278a3a-dnsotls-ds.metric.gstatic.com
@@ -528,6 +530,7 @@
 0.0.0.0 ad-score.com
 0.0.0.0 adsensecamp.com
 0.0.0.0 adserver.adverty.com
+0.0.0.0 adserver.earlygame.com
 0.0.0.0 adserver.kl-youniverse.com
 0.0.0.0 adservice.cm.bloomberg.com
 0.0.0.0 adservice.google.co.id
@@ -1779,6 +1782,7 @@
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.confiant-integrations.net
 0.0.0.0 cdnconfig.aihelp.net
+0.0.0.0 cdn-configcenter.shalltry.com
 0.0.0.0 cdn.contentful.com
 0.0.0.0 cdn-content.optimonk.com
 0.0.0.0 cdn.cookielaw.org
@@ -2967,6 +2971,7 @@
 0.0.0.0 fgrl8a-register.appsflyersdk.com
 0.0.0.0 fid.agkn.com
 0.0.0.0 file-cdn.cdkeyoffer.com
+0.0.0.0 filedashgo.click
 0.0.0.0 filehostpro.xyz
 0.0.0.0 filelink.ru
 0.0.0.0 filelions.live
@@ -3044,7 +3049,6 @@
 0.0.0.0 fpcdn.io
 0.0.0.0 fpcs-prod-wf.centurygame.com
 0.0.0.0 fp.dalyfeds.com
-0.0.0.0 fps-league.com
 0.0.0.0 fpstool.com
 0.0.0.0 fr.4sync.com
 0.0.0.0 fr.bignox.com
@@ -3172,6 +3176,7 @@
 0.0.0.0 geekcareonline.co
 0.0.0.0 geeksquad2.com
 0.0.0.0 g.ekatox.com
+0.0.0.0 generated1c873.host17v.cfd
 0.0.0.0 genieesspv.jp
 0.0.0.0 geo-applefinance-cache.internal.query.g03.yahoodns.net
 0.0.0.0 geo.captcha-delivery.com
@@ -3188,6 +3193,7 @@
 0.0.0.0 geo.napster.com
 0.0.0.0 geo.tildacdn.com
 0.0.0.0 geowf.ge
+0.0.0.0 get357561.host17v.cfd
 0.0.0.0 getarealcareer.com
 0.0.0.0 getclicky.com
 0.0.0.0 getecoplus.com
@@ -4159,6 +4165,8 @@
 0.0.0.0 laugoust.com
 0.0.0.0 launchdarkly.com
 0.0.0.0 launchdarkly-marketingsite.cdn.prismic.io
+0.0.0.0 launcher-h3.shalltry.com
+0.0.0.0 launcher.shalltry.com
 0.0.0.0 launcher.spot.im
 0.0.0.0 launcher-us.yeshen.com
 0.0.0.0 launcher.us.yeshen.com
@@ -4496,6 +4504,7 @@
 0.0.0.0 metric.hubll.com
 0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 metrics-api.dimebadge.dimensions.ai
+0.0.0.0 metrics.earlygame.com
 0.0.0.0 metrics-twoplayers.junglefrog.com
 0.0.0.0 mg.adskeeper.com
 0.0.0.0 mgen.fast-dl.xyz
@@ -4623,6 +4632,7 @@
 0.0.0.0 mookie1.com
 0.0.0.0 mopinion.com
 0.0.0.0 m.optout.ziffdavis.com
+0.0.0.0 morningstartec.com
 0.0.0.0 mostathmr.com
 0.0.0.0 motogp.api.weplay.media
 0.0.0.0 motohunter.pl
@@ -6120,6 +6130,7 @@
 0.0.0.0 sbw9188.com
 0.0.0.0 scaleway.testdebit.info
 0.0.0.0 scarabresearch.com
+0.0.0.0 scarcehepatitis.com
 0.0.0.0 s.cdy.ai
 0.0.0.0 schedule-media.immomo.com
 0.0.0.0 schemas.casa
@@ -6313,6 +6324,7 @@
 0.0.0.0 shalltry.com
 0.0.0.0 shareaholic.com
 0.0.0.0 shareaholic.net
+0.0.0.0 shared1c873.host17v.cfd
 0.0.0.0 sharefor2.onelink.me
 0.0.0.0 shareit.hpytimes.info
 0.0.0.0 shareit-push-cdn.wshareit.com
@@ -6691,6 +6703,7 @@
 0.0.0.0 sub2unlock.com
 0.0.0.0 su.baidu.com
 0.0.0.0 sub.icieneguilla.com
+0.0.0.0 submit.backtrace.io
 0.0.0.0 subscribers.com
 0.0.0.0 subscriptions.opera.com
 0.0.0.0 subtitles.netpop.app
@@ -7021,6 +7034,7 @@
 0.0.0.0 translations.platform.pulselive.com
 0.0.0.0 translations.smartsuppcdn.com
 0.0.0.0 transsion.com
+0.0.0.0 transsion-search-oss-prod-alifr.oss-eu-central-1.aliyuncs.com
 0.0.0.0 transsnet.com
 0.0.0.0 traumaticpower.com
 0.0.0.0 travel.rakuten.com

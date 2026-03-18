@@ -55,6 +55,7 @@
 756-ads-info.xyz
 777palm.com
 7efc7eb08gtearevf.rarefix.info
+7zip.com
 7.zxczj.top
 829395.smushcdn.com
 87f2b771-b56e-407e-bc49-30d521c09b95.is-doh.help.every1dns.net
@@ -193,6 +194,7 @@ althroc.com
 amaazoon.org
 amason.com
 amazonfraudprotection.com
+amazonhelp.art
 amazon.hksupd.com
 amdc-wapa-akamai.lazada.com
 amgdgt.com
@@ -233,8 +235,10 @@ api.mobilesearchers.com
 api.quikkly.io
 api.renren.fan
 api-setting-intl-miui-com-59771552.ap-south-1.elb.amazonaws.com
+api.skycloudcenter.com
 api-swype.swypeconnect.com
 api.taken.guru
+api.wiresguard.com
 api.xiaomi.com
 api.xshareapp.com
 api.zligaton.com
@@ -520,6 +524,7 @@ datting.click
 datting.online
 daumcdn.net
 dayspiselec.quest
+dbhcare.top
 dc1.networkbench.com
 dcintl2.push.heytapmobile.com
 dcintl3.push.heytapmobile.com
@@ -669,6 +674,7 @@ flix.bar
 flocdn.com
 flow.maribacaberita.com
 fluxmud.quest
+flux.smshero.co
 flx-vpn.com
 fly21.abiteams.com.vn
 fmntlib.com
@@ -774,6 +780,8 @@ go-mpulse.net
 google.com.id.4irlkkz6.28qejt.2b99df1a.cn
 google.com.onion
 googletagservices.com
+gopay2.uknc.top
+gopay6.vxhx.top
 gotesla.io
 gov.cn
 goyangfc.com
@@ -823,6 +831,9 @@ hemogom.online
 henove.store
 heptombo.store
 herningrideklub.net
+hero-sms.ai
+hero-sms.co
+herosms.co
 heytapdl.com
 heytapmobile.com
 hh2qzriuzwd1ugm.us
@@ -990,6 +1001,7 @@ kluserly.com
 kl-youniverse.com
 kmw.biqlobe.ne.jp
 koglique.net
+kolkatadomains.com
 kompasads.com
 kontec.quest
 krasoticmob.space
@@ -1191,6 +1203,7 @@ nebiltech.shop
 nechuvelec.click
 neimanmarcusshop.online
 nelo.linecorp.com
+neo.herosms.co
 neptunegame.com
 nespomob.sbs
 netdna-cdn.com
@@ -1228,6 +1241,7 @@ nordvpn-company.com
 notebook.kulchenko.com
 notifa.info
 notiv.id
+nova.smshero.ai
 noxagile.bceapp.com
 noxgroup.org
 npmjs.help
@@ -1418,6 +1432,7 @@ rainway.us
 raj.faceapp.ai
 raj.faceapp.io
 ralijqugghwqil.com
+ramadan-rp500000-gift.morepaiy.online
 rambler-sync.rutarget.ru
 raneevahijab.id
 ranyipclub.net
@@ -1463,6 +1478,7 @@ robinhand.vip
 romanhackers.com
 roumucee.com
 router.silotis.us
+rozenfeld.xyz
 rozkatech.yachts
 rrpgndqmmdry.art
 rs_tt.wshareit.com
@@ -1504,6 +1520,7 @@ secreelec.shop
 secreporter.test.susercontent.com
 secretlinkedin.ca
 securebiz.org
+securitycheck.instantonlinecheck.vip
 selentech.click
 seletech.markets
 seletmob.online
@@ -1554,12 +1571,15 @@ smaato.net
 smarthackerstech.org
 smartsuppcdn.com
 smestech.shop
+smshero.ai
+smshero.co
 sms.webadv.co
 smushcdn.com
 snackvideo.in
 s-nbcnews.com
 snowplow-mobile.wooga.sg
 sns.bignox.com
+soc.hero-sms.co
 socks-omm-1.lotusflare.com
 sogrobartigg.monster
 solve.msg.xiaomi.net
@@ -2102,6 +2122,7 @@ zara-store.site
 zcnewy.com
 zdassets.com
 zddcare.help
+zest.hero-sms.ai
 zeus.ad.intl.xiaomi.com
 ziffstatic.com
 zipperrecruiter.com

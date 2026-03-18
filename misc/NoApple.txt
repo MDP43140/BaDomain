@@ -425,6 +425,7 @@ p167-contacts.icloud.com
 p167-fmfmobile.icloud.com
 p16-caldav.icloud.com
 p16-escrowproxy.icloud.com
+p177-acsegateway.icloud.com
 p17-caldav.icloud.com
 p17-escrowproxy.icloud.com
 p18-caldav.icloud.com
@@ -632,6 +633,7 @@ time.euro.apple.com
 time-ios.apple.com
 time-osx.g.aaplimg.com
 token.safebrowsing.apple
+ts.itunes.apple.com
 unlinkability.apple.com
 unlinkability.fe2.apple-dns.net
 updates.cdn-apple.com
