@@ -212,8 +212,10 @@
 0.0.0.0 analytics-ttp2.us.tiktok.com.edgesuite.net
 0.0.0.0 analytics-useast2a.tiktok.com
 0.0.0.0 analytics.us.tiktok.com
+0.0.0.0 analytics.us.tiktok.com.bytedance.akadns.net
 0.0.0.0 analytics.us.tiktok.com.bytewlb.akadns.net
 0.0.0.0 analytics.us.tiktok.com.edgesuite.net
+0.0.0.0 analytics.us.tiktok.com-row.bytewlb.akadns.net
 0.0.0.0 analytics-v6.tiktok.com
 0.0.0.0 analytics-v6.tiktok.com.edgesuite.net
 0.0.0.0 analytics-v6.tiktok.com.ttdns2.com
@@ -604,6 +606,7 @@
 0.0.0.0 api-va.tiktokv.com
 0.0.0.0 api-va.tiktokv.com.edgekey.net
 0.0.0.0 api-verification-alisg.tiktokshop.com
+0.0.0.0 api-verification.tiktokshop.com
 0.0.0.0 api-yak.amemv.com
 0.0.0.0 api-yak-hl.amemv.com
 0.0.0.0 apmlog.snssdk.com
@@ -1134,7 +1137,6 @@
 0.0.0.0 effect.tiktok.com
 0.0.0.0 effect.tiktokmusic.app
 0.0.0.0 egress.gw.us.tiktok.com
-0.0.0.0 elb-for-front-1752188976.us-east-1.elb.amazonaws.com
 0.0.0.0 e.l.bytedns.net
 0.0.0.0 elearning.bytedance.net
 0.0.0.0 email.bytedance.net
@@ -2722,9 +2724,11 @@
 0.0.0.0 p16-cg-gaudit.ibyteimg.com
 0.0.0.0 p16-comment-sign-sg.tiktokcdn.com
 0.0.0.0 p16-comment-sign-va.tiktokcdn.com
+0.0.0.0 p16-common-sign.tiktokcdn.com
 0.0.0.0 p16-common-sign.tiktokcdn-us.com
 0.0.0.0 p16-common-sign-useastred.tiktokcdn-eu.com
 0.0.0.0 p16-common-sign-va.tiktokcdn-us.com
+0.0.0.0 p16-common.tiktokcdn.com
 0.0.0.0 p16-d1-sign-va.ibyteimg.com
 0.0.0.0 p16-flow-sign-sg.ibyteimg.com
 0.0.0.0 p16-g1-sign-sg.ibyteimg.com
@@ -2854,8 +2858,10 @@
 0.0.0.0 p19-catalog-sg.ibyteimg.com
 0.0.0.0 p19-comment-sign-sg.tiktokcdn.com
 0.0.0.0 p19-comment-sign-va.tiktokcdn.com
+0.0.0.0 p19-common-sign.tiktokcdn.com
 0.0.0.0 p19-common-sign.tiktokcdn-us.com
 0.0.0.0 p19-common-sign-useastred.tiktokcdn-eu.com
+0.0.0.0 p19-common.tiktokcdn.com
 0.0.0.0 p19-cp-game-img-sign-sg.tiktokcdn.com
 0.0.0.0 p19.hypstarcdn.com
 0.0.0.0 p19-novel-sg.ibyteimg.com
@@ -2871,6 +2877,7 @@
 0.0.0.0 p19-retouch-va-file-sign-va.ibyteimg.com
 0.0.0.0 p19-security-sg.ibyteimg.com
 0.0.0.0 p19-security-va.ibyteimg.com
+0.0.0.0 p19-seller-app-product-va.tiktokcdn.com
 0.0.0.0 p19-sign-sg.tiktokcdn.com
 0.0.0.0 p19-sign.tiktokcdn-us.com
 0.0.0.0 p19-tiktok-ls-product-sign-sg.ibyteimg.com
@@ -4220,6 +4227,7 @@
 0.0.0.0 sf-ssp.tiktokcdn.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 sf-tb-sg.ibytedtos.com.edgesuite.net
+0.0.0.0 sf-teko-source.tiktokcdn-us.com
 0.0.0.0 sf-tk-sg.ibytedtos.com
 0.0.0.0 sf-tk-sg.ibytedtos.com.edgekey.net
 0.0.0.0 sftp.bytedance.net

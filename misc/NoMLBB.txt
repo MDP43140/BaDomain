@@ -19,6 +19,8 @@ api.mobilelegends.com
 bi.moonton.com
 cycdn.ml.youngjoygame.com
 face.yuanzhanapp.com
+global-login.ml.mlbangbang.com
+global-login.ml.youngjoygame.com
 img-cdn.mobilelegends.com
 img.mobilelegends.com
 ip.ml.youngjoygame.com

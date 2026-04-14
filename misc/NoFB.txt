@@ -3,12 +3,15 @@
 # (including Facebook, Instagram, Messenger, (some) WhatsApp, Oculus, Meta AI, etc...).
 #
 
+001E76AF-86F1-4A81-8F76-E0A962FECA68-netseer-ipaddr-assoc.xz.fbcdn.net
 012A812C-6194-4EA7-BD98-4AB7B3A0E41E-netseer-ipaddr-assoc.xy.fbcdn.net
 012A812C-6194-4EA7-BD98-4AB7B3A0E41E-netseer-ipaddr-assoc.xz.fbcdn.net
 032871c5-d396-4196-b285-7860a675a0ef-netseer-ipaddr-assoc.xy.fbcdn.net
 032871c5-d396-4196-b285-7860a675a0ef-netseer-ipaddr-assoc.xz.fbcdn.net
 03ab6e33-04af-4f94-b604-97802c3b6db0-netseer-ipaddr-assoc.xy.fbcdn.net
 03ab6e33-04af-4f94-b604-97802c3b6db0-netseer-ipaddr-assoc.xz.fbcdn.net
+03F191A9-20E2-4270-9E19-5F8C7B929560-netseer-ipaddr-assoc.xy.fbcdn.net
+03F191A9-20E2-4270-9E19-5F8C7B929560-netseer-ipaddr-assoc.xz.fbcdn.net
 049eaafb-8ca9-40d9-9ebb-8c4f52de778b-netseer-ipaddr-assoc.xy.fbcdn.net
 049eaafb-8ca9-40d9-9ebb-8c4f52de778b-netseer-ipaddr-assoc.xz.fbcdn.net
 05d6b773-69ca-42d1-a298-56ea6bf8b85b-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -27,6 +30,10 @@
 0-edge-chat.facebook.com
 0f327a3b-e19c-461e-8357-16985d40fc7e-netseer-ipaddr-assoc.xy.fbcdn.net
 0f327a3b-e19c-461e-8357-16985d40fc7e-netseer-ipaddr-assoc.xz.fbcdn.net
+11467B6D-B0B2-421C-BD75-F27D6834F27F-netseer-ipaddr-assoc.xy.fbcdn.net
+11467B6D-B0B2-421C-BD75-F27D6834F27F-netseer-ipaddr-assoc.xz.fbcdn.net
+118d73d6-83fa-43af-8f84-fc74c278bb5e-netseer-ipaddr-assoc.xy.fbcdn.net
+118d73d6-83fa-43af-8f84-fc74c278bb5e-netseer-ipaddr-assoc.xz.fbcdn.net
 123E3D66-094E-40B7-AE07-ABB75463AECF-netseer-ipaddr-assoc.xy.fbcdn.net
 123E3D66-094E-40B7-AE07-ABB75463AECF-netseer-ipaddr-assoc.xz.fbcdn.net
 163D1CEA-6867-4981-9317-EE8A2285870B-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -43,6 +50,8 @@
 1AB39CF2-B71D-471C-B6FB-D89A2A882A02-netseer-ipaddr-assoc.xy.fbcdn.net
 1AB39CF2-B71D-471C-B6FB-D89A2A882A02-netseer-ipaddr-assoc.xz.fbcdn.net
 1-act.channel.facebook.com
+1B5A1950-F34E-4BDE-89E5-3447A7A6683B-netseer-ipaddr-assoc.xy.fbcdn.net
+1B5A1950-F34E-4BDE-89E5-3447A7A6683B-netseer-ipaddr-assoc.xz.fbcdn.net
 1d4b39c1-4047-47fa-92c2-4869d6697eb6-netseer-ipaddr-assoc.xy.fbcdn.net
 1d4b39c1-4047-47fa-92c2-4869d6697eb6-netseer-ipaddr-assoc.xz.fbcdn.net
 1d84acf6-fba7-40c2-9be7-48f986105f76-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -64,6 +73,8 @@
 2804C74C-547F-41AF-9260-2AA4AB389FCF-netseer-ipaddr-assoc.xz.fbcdn.net
 28258114-7E9E-4C39-8360-7B44268669D8-netseer-ipaddr-assoc.xy.fbcdn.net
 28258114-7E9E-4C39-8360-7B44268669D8-netseer-ipaddr-assoc.xz.fbcdn.net
+28bec58e-fd99-49bc-9b5c-41e89febfc53-netseer-ipaddr-assoc.xy.fbcdn.net
+28bec58e-fd99-49bc-9b5c-41e89febfc53-netseer-ipaddr-assoc.xz.fbcdn.net
 29E3B2F0-7888-451B-A581-89B5491BC961-netseer-ipaddr-assoc.xy.fbcdn.net
 29E3B2F0-7888-451B-A581-89B5491BC961-netseer-ipaddr-assoc.xz.fbcdn.net
 2a8ac505-8e73-464b-8e62-143520dd0cde-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -189,6 +200,8 @@
 63eab818-1ae3-4754-bfbc-decaae9f6318-netseer-ipaddr-assoc.xy.fbcdn.net
 63eab818-1ae3-4754-bfbc-decaae9f6318-netseer-ipaddr-assoc.xz.fbcdn.net
 648AEC86-5D47-4659-8D04-94012F631579-netseer-ipaddr-assoc.xz.fbcdn.net
+655c9e29-91b5-4a18-9644-0cecc800a54a-netseer-ipaddr-assoc.xy.fbcdn.net
+655c9e29-91b5-4a18-9644-0cecc800a54a-netseer-ipaddr-assoc.xz.fbcdn.net
 6562EE4A-E11A-4709-A6D2-D68E04A1E578-netseer-ipaddr-assoc.xy.fbcdn.net
 6562EE4A-E11A-4709-A6D2-D68E04A1E578-netseer-ipaddr-assoc.xz.fbcdn.net
 675F098D-01C5-4688-B3D9-3D34D2C25CFB-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -219,6 +232,8 @@
 761c4a69-b6e7-4b5c-b5bd-7edb2cb6f97d-netseer-ipaddr-assoc.xz.fbcdn.net
 767E78C0-3846-4E58-BC70-4119816642DF-netseer-ipaddr-assoc.xy.fbcdn.net
 767E78C0-3846-4E58-BC70-4119816642DF-netseer-ipaddr-assoc.xz.fbcdn.net
+76a4b7ad-3723-4b11-9ef7-af224cfbcfdb-netseer-ipaddr-assoc.xy.fbcdn.net
+76a4b7ad-3723-4b11-9ef7-af224cfbcfdb-netseer-ipaddr-assoc.xz.fbcdn.net
 774989a1-3a13-4f5e-8159-e049c127744d-netseer-ipaddr-assoc.xy.fbcdn.net
 774989a1-3a13-4f5e-8159-e049c127744d-netseer-ipaddr-assoc.xz.fbcdn.net
 776de373-8669-43d6-af27-6eda30ce8988-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -245,8 +260,12 @@
 85C886DF-0A5C-4B22-98DC-21D28945E910-netseer-ipaddr-assoc.xy.fbcdn.net
 85C886DF-0A5C-4B22-98DC-21D28945E910-netseer-ipaddr-assoc.xz.fbcdn.net
 865A12C3-4591-4A10-9F0B-249C91C9BB74-netseer-ipaddr-assoc.xz.fbcdn.net
+870e925f-8abb-419f-8d11-ea23623ac223-netseer-ipaddr-assoc.xy.fbcdn.net
+870e925f-8abb-419f-8d11-ea23623ac223-netseer-ipaddr-assoc.xz.fbcdn.net
 89c80382-3140-46c4-8713-4d7cc51df451-netseer-ipaddr-assoc.xy.fbcdn.net
 89c80382-3140-46c4-8713-4d7cc51df451-netseer-ipaddr-assoc.xz.fbcdn.net
+8a16bfd9-26d1-4418-8358-e3d1a41296ac-netseer-ipaddr-assoc.xy.fbcdn.net
+8a16bfd9-26d1-4418-8358-e3d1a41296ac-netseer-ipaddr-assoc.xz.fbcdn.net
 8A30D22A-B6E9-4D40-BE43-0DC3A166A5BB-netseer-ipaddr-assoc.xy.fbcdn.net
 8A30D22A-B6E9-4D40-BE43-0DC3A166A5BB-netseer-ipaddr-assoc.xz.fbcdn.net
 8aaf309d-dee0-4583-a62c-74454ee70f06-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -630,12 +649,18 @@ avnet.facebook.com
 axiata.m.facebook.com
 axis.m.facebook.com
 az-az.facebook.com
+b07d9e8c-ca13-47bb-a4d1-dfb64e8d1fd1-netseer-ipaddr-assoc.xy.fbcdn.net
+b07d9e8c-ca13-47bb-a4d1-dfb64e8d1fd1-netseer-ipaddr-assoc.xz.fbcdn.net
 b167e72b-8563-40c1-becd-de68ed24cd4a-netseer-ipaddr-assoc.xy.fbcdn.net
 b167e72b-8563-40c1-becd-de68ed24cd4a-netseer-ipaddr-assoc.xz.fbcdn.net
 b4f7fa7c-6724-4559-9311-4213f7a018e4-netseer-ipaddr-assoc.xy.fbcdn.net
 b4f7fa7c-6724-4559-9311-4213f7a018e4-netseer-ipaddr-assoc.xz.fbcdn.net
+B5857B94-784E-4F3B-BA0D-DDD18D95FC22-netseer-ipaddr-assoc.xz.fbcdn.net
 b5d22633-fd11-41e3-90af-daffb2c72c6d-netseer-ipaddr-assoc.xy.fbcdn.net
 b5d22633-fd11-41e3-90af-daffb2c72c6d-netseer-ipaddr-assoc.xz.fbcdn.net
+b6576427-8d74-4ddb-abc6-4d12ffc2c89c-netseer-ipaddr-assoc.xy.fbcdn.net
+b6576427-8d74-4ddb-abc6-4d12ffc2c89c-netseer-ipaddr-assoc.xz.fbcdn.net
+B90189C5-EF29-4D61-9289-E63D75BFFE40-netseer-ipaddr-assoc.xz.fbcdn.net
 badge.facebook.com
 ball.facebook.com
 bankofamerica.facebook.com
@@ -691,6 +716,8 @@ b-www.facebook.com
 c10r.facebook.com
 c4e2cc73-1975-47c8-be51-f773949c0252-netseer-ipaddr-assoc.xy.fbcdn.net
 c4e2cc73-1975-47c8-be51-f773949c0252-netseer-ipaddr-assoc.xz.fbcdn.net
+c4e4314f-a456-4c31-b67f-bb7bb32851d4-netseer-ipaddr-assoc.xy.fbcdn.net
+c4e4314f-a456-4c31-b67f-bb7bb32851d4-netseer-ipaddr-assoc.xz.fbcdn.net
 C60B00F3-D8FE-4320-9E09-8D40517B4CCD-netseer-ipaddr-assoc.xz.fbcdn.net
 c60d1dac-813d-4e05-b84c-55810233346c-netseer-ipaddr-assoc.xy.fbcdn.net
 c9f7a904-3d18-4e8e-a69a-9ee4512dc598-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -788,6 +815,8 @@ DC7F3A12-11D5-4B85-89A7-61DDECBB83E2-netseer-ipaddr-assoc.xy.fbcdn.net
 DC7F3A12-11D5-4B85-89A7-61DDECBB83E2-netseer-ipaddr-assoc.xz.fbcdn.net
 DD198729-7B3F-4E23-BA3C-5AD97EC08E5C-netseer-ipaddr-assoc.xy.fbcdn.net
 DD198729-7B3F-4E23-BA3C-5AD97EC08E5C-netseer-ipaddr-assoc.xz.fbcdn.net
+de282d36-d11a-4d1b-84a3-f1ea01c432b7-netseer-ipaddr-assoc.xy.fbcdn.net
+de282d36-d11a-4d1b-84a3-f1ea01c432b7-netseer-ipaddr-assoc.xz.fbcdn.net
 DED062BD-010F-454B-8FE2-A3BCAE4B34C5-netseer-ipaddr-assoc.xz.fbcdn.net
 de-de.facebook.com
 DEF97A87-1D6E-44D1-AF8F-E632C443EA33-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -820,6 +849,8 @@ e302b304-a42c-410b-93f2-17f1e909937e-netseer-ipaddr-assoc.xy.fbcdn.net
 e302b304-a42c-410b-93f2-17f1e909937e-netseer-ipaddr-assoc.xz.fbcdn.net
 E39436BF-76CF-4D5F-8A5A-2069E99B2269-netseer-ipaddr-assoc.xy.fbcdn.net
 E39436BF-76CF-4D5F-8A5A-2069E99B2269-netseer-ipaddr-assoc.xz.fbcdn.net
+e4f82a39-f946-49d0-a6ee-48ce1b9c0518-netseer-ipaddr-assoc.xy.fbcdn.net
+e4f82a39-f946-49d0-a6ee-48ce1b9c0518-netseer-ipaddr-assoc.xz.fbcdn.net
 E6BF7C8C-1367-48D2-BB9E-0E41E52B530F-netseer-ipaddr-assoc.xy.fbcdn.net
 E6BF7C8C-1367-48D2-BB9E-0E41E52B530F-netseer-ipaddr-assoc.xz.fbcdn.net
 E6F2D50D-FF2C-44E6-909A-B35233B6FE14-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -3095,6 +3126,7 @@ F6FA2AAE-2C20-4B35-9731-D3F8C8C0AA04-netseer-ipaddr-assoc.xz.fbcdn.net
 f6ffa8b9780-obfszkgb1747662656-sonar.xz.fbcdn.net
 F763BAAF-A436-45E9-97A7-40CFF935758D-netseer-ipaddr-assoc.xy.fbcdn.net
 F763BAAF-A436-45E9-97A7-40CFF935758D-netseer-ipaddr-assoc.xz.fbcdn.net
+f814404e-2c0e-49ce-b8fe-adf0bbe94c47-netseer-ipaddr-assoc.xz.fbcdn.net
 f8f85fb3280-iegbjhxl1753949746-sonar.xz.fbcdn.net
 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
 F9936664-3E6E-4A82-A123-740542737AE9-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -3126,6 +3158,8 @@ fbpigeon.com
 fbsbx.com
 fb.watch
 fc4030b7-4e95-437d-a1f2-5c0233d999f4-netseer-ipaddr-assoc.xz.fbcdn.net
+fc58e309-8b50-446c-a473-e4352fae5672-netseer-ipaddr-assoc.xy.fbcdn.net
+fc58e309-8b50-446c-a473-e4352fae5672-netseer-ipaddr-assoc.xz.fbcdn.net
 FC8A2226-81CB-470D-9473-A451CA0A1853-netseer-ipaddr-assoc.xy.fbcdn.net
 FC8A2226-81CB-470D-9473-A451CA0A1853-netseer-ipaddr-assoc.xz.fbcdn.net
 FC94AF04-809E-40B2-8305-D387E5B893B0-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -5979,6 +6013,7 @@ parents.instagram.com
 partners.facebook.com
 pay.facebook.com
 payments-graph.facebook.com
+payments-graph.instagram.com
 pegasus.facebook.com
 pepsico.facebook.com
 pernambucanas.m.facebook.com
@@ -8397,6 +8432,8 @@ sonar-ssn1-1.xx.fbcdn.net
 sonar-tir2-1.xx.fbcdn.net
 sonar-tpe1-1.xx.fbcdn.net
 sonar-tpe.xx.fbcdn.net
+sonar-v4.c10r.facebook.com
+sonar-v6.c10r.facebook.com
 sonar-vie1-1.xx.fbcdn.net
 sonar-waw1-1.xx.fbcdn.net
 sonar-waw2-2.xx.fbcdn.net
@@ -8642,6 +8679,7 @@ static.fcgk38-1.fna.fbcdn.net
 static.fcgk39-1.fna.fbcdn.net
 static.fcgk40-1.fna.fbcdn.net
 static.fcgk41-1.fna.fbcdn.net
+static.fcgk42-1.fna.fbcdn.net
 static.fcgk4-2.fna.fbcdn.net
 static.fcgk4-3.fna.fbcdn.net
 static.fcgk4-4.fna.fbcdn.net
@@ -9618,6 +9656,7 @@ vthumb.xx.fbcdn.net
 vupload2.vvv.facebook.com
 vupload.facebook.com
 v.whatsapp.net
+w007f3de11-ge2teobzgi4dgojy.snr.whatsapp.net
 w05ca92991-ge3damrqgeydenju.snr.whatsapp.net
 w1527b17e1-gm3dcnrzguzdimru.snr.whatsapp.net
 w2ca4d0631-ge3dqmbug4ytsnjw.snr.whatsapp.net
@@ -9629,6 +9668,7 @@ w490d9fe31-g44tqnbugq4dqob.snr.whatsapp.net
 w4d0429661-gqzdqojrge3tema.snr.whatsapp.net
 w7640cea61-gi4tomztgq4dgmjw.snr.whatsapp.net
 w7b88d4f11-gyzdsmbvg42dd.snr.whatsapp.net
+w84947d521-geztcojugyzdcmzz.snr.whatsapp.net
 w8bb22b3b1-gi3tonjvg4zdqobv.snr.whatsapp.net
 w9b8dc53b1-gm2tamrrgqydknrq.snr.whatsapp.net
 wa47d23841-giytsmrygy3tcnb.snr.whatsapp.net

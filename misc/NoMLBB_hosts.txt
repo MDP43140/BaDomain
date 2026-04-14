@@ -19,6 +19,8 @@
 0.0.0.0 bi.moonton.com
 0.0.0.0 cycdn.ml.youngjoygame.com
 0.0.0.0 face.yuanzhanapp.com
+0.0.0.0 global-login.ml.mlbangbang.com
+0.0.0.0 global-login.ml.youngjoygame.com
 0.0.0.0 img-cdn.mobilelegends.com
 0.0.0.0 img.mobilelegends.com
 0.0.0.0 ip.ml.youngjoygame.com

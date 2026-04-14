@@ -198,6 +198,7 @@ cl5.apple.com
 client-api.itunes.apple.com
 cma.itunes.apple.com
 comm-cohort.ess.apple.com
+commerce.itunes.apple.com.edgesuite.net
 comm-main.ess.apple.com
 commnat-cohort-gc.ess.apple.com
 commnat-main-gc.ess.apple.com
@@ -343,6 +344,7 @@ init.ess.g.aaplimg.com
 init.gc.apple.com
 init.itunes.apple.com
 init-p01md.apple.com
+init-p01md.apple.com.edgesuite.net
 init-p01md.v.aaplimg.com
 init-p01st.push.apple.com
 init.push.apple.com
@@ -384,6 +386,7 @@ mzstorekit.g.aaplimg.com
 mzstorekit.itunes.apple.com
 mzstorekit.lb-apple.com.akadns.net
 netcts.cdn-apple.com
+netcts.cdn-apple.com.edgesuite.net
 ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net

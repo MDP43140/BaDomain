@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 19.03.2026
+# Version: 14.04.2026
 # Update: 1 day
 #
 
@@ -353,6 +353,7 @@
 8a7c212a-dnsotls-ds.metric.gstatic.com
 8b2a.playfabapi.com
 8b61d74c.datadoghq.com
+8d7dcabe-dnsotls-ds.metric.gstatic.com
 8da7c772-dnsotls-ds.metric.gstatic.com
 8db4fde90b.com
 8DmO84-dnsotls-ds.metric.gstatic.com
@@ -925,6 +926,7 @@ api.kika-backend.com
 api-kinemaster.nexstreaming.com
 api.kuaishouzt.com
 api.kwai.com
+api.kwai-pro.com
 api.kwaizt.com
 api.lanzouo.com
 api.leatonm.net
@@ -1146,6 +1148,7 @@ app.link
 applink.jp
 applinzi.com
 app-log-lab.immomo.com
+app-manage-api.shalltry.com
 app-manage-api-static.shalltry.com
 app-measurement.com
 appmetrica.yandex.ru
@@ -1350,13 +1353,20 @@ awxcdn.com
 axiata-lk-43c53a330e9-he.fortumo.io
 az1-api-kixsnack.kwai-pro.com
 az1-api-kixsnack.kwaipros.com
+az1-apil2-kixsnack.kwai-pro.com
+az1-apil2-txsnack.kwaipros.com
 az1-api-txsnack.kwai-pro.com
 az1-api-txsnack.kwaipros.com
 az2-api-kixsnack.kwai-pro.com
 az2-api-kixsnack.kwaipros.com
+az2-apil2-kixsnack.kwai-pro.com
+az2-apil2-txsnack.kwaipros.com
 az2-api-txsnack.kwai-pro.com
 az2-api-txsnack.kwaipros.com
+az3-api-kixsnack.kwai-pro.com
 az3-api-kixsnack.kwaipros.com
+az3-apil2-kixsnack.kwai-pro.com
+az3-apil2-txsnack.kwaipros.com
 az3-api-txsnack.kwaipros.com
 b138423c-dnsotls-ds.metric.gstatic.com
 b1.nel.goog
@@ -2391,6 +2401,7 @@ da-www14.ballou.se
 da.xboxservices.com
 dbafbb37-dnsotls-ds.metric.gstatic.com
 dbn41syzjymrk.cloudfront.net
+dc59321e-dnsotls-ds.metric.gstatic.com
 dc.albtls.t.co
 dcb.fortumo.com
 dc.chillyroom.com
@@ -3126,6 +3137,7 @@ galepush.net
 gamea.clashofclans.com
 gameanalytics.com
 game-api.joyit.live
+game-assistant.transsion-os.com
 gamecfg-mob.ubi.com
 game.chillyroom.com
 gamecooo.com
@@ -4072,6 +4084,7 @@ kiwibrowser.org
 kiwiirc.com
 kix-api.kwai-pro.com
 kix-api.kwaipros.com
+kix-apil2.kwai-pro.com
 kix-api.mythad.com
 kix-ulog.kwai-pro.com
 kix-ulog.kwaipros.com
@@ -5269,6 +5282,7 @@ osjs.netcoresmartech.com
 oslab.shalltry.com
 os-notice.shalltry.com
 ossgw.alicdn.com
+os-shader.transsion-os.com
 o-static.ihago.net
 osupdate2020.shalltry.com
 ota-checker.transsion-os.com
@@ -6537,6 +6551,7 @@ stagingapps.xyz
 staging.pasangiklan.com
 stags.bluekai.com
 stake.com
+standard-im-dns.transsion-message.com
 standard-svr-terminal.transsion-message.com
 stape.io
 starbro.net
@@ -6814,6 +6829,7 @@ tank-stars.prod.azur.games
 taobao.com
 tapad.com
 tapfiliate.com
+t-apil2.kwaipros.com
 tap.io
 t-api-snack.adaether.com
 t-api-snack.kwai-pro.com
@@ -8552,6 +8568,8 @@ zoominfo.com
 zopim.com
 zos.alipayobjects.com
 zres.alicdn.com
+zt-live.kwai-pro.com
+zt-live.kwaipros.com
 zueirassemlimites.com
 zuiqiangyingyu.net
 zuora.com

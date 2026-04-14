@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 19.03.2026
+# Version: 14.04.2026
 # Update: 1 day
 #
 
@@ -353,6 +353,7 @@
 0.0.0.0 8a7c212a-dnsotls-ds.metric.gstatic.com
 0.0.0.0 8b2a.playfabapi.com
 0.0.0.0 8b61d74c.datadoghq.com
+0.0.0.0 8d7dcabe-dnsotls-ds.metric.gstatic.com
 0.0.0.0 8da7c772-dnsotls-ds.metric.gstatic.com
 0.0.0.0 8db4fde90b.com
 0.0.0.0 8DmO84-dnsotls-ds.metric.gstatic.com
@@ -925,6 +926,7 @@
 0.0.0.0 api-kinemaster.nexstreaming.com
 0.0.0.0 api.kuaishouzt.com
 0.0.0.0 api.kwai.com
+0.0.0.0 api.kwai-pro.com
 0.0.0.0 api.kwaizt.com
 0.0.0.0 api.lanzouo.com
 0.0.0.0 api.leatonm.net
@@ -1146,6 +1148,7 @@
 0.0.0.0 applink.jp
 0.0.0.0 applinzi.com
 0.0.0.0 app-log-lab.immomo.com
+0.0.0.0 app-manage-api.shalltry.com
 0.0.0.0 app-manage-api-static.shalltry.com
 0.0.0.0 app-measurement.com
 0.0.0.0 appmetrica.yandex.ru
@@ -1350,13 +1353,20 @@
 0.0.0.0 axiata-lk-43c53a330e9-he.fortumo.io
 0.0.0.0 az1-api-kixsnack.kwai-pro.com
 0.0.0.0 az1-api-kixsnack.kwaipros.com
+0.0.0.0 az1-apil2-kixsnack.kwai-pro.com
+0.0.0.0 az1-apil2-txsnack.kwaipros.com
 0.0.0.0 az1-api-txsnack.kwai-pro.com
 0.0.0.0 az1-api-txsnack.kwaipros.com
 0.0.0.0 az2-api-kixsnack.kwai-pro.com
 0.0.0.0 az2-api-kixsnack.kwaipros.com
+0.0.0.0 az2-apil2-kixsnack.kwai-pro.com
+0.0.0.0 az2-apil2-txsnack.kwaipros.com
 0.0.0.0 az2-api-txsnack.kwai-pro.com
 0.0.0.0 az2-api-txsnack.kwaipros.com
+0.0.0.0 az3-api-kixsnack.kwai-pro.com
 0.0.0.0 az3-api-kixsnack.kwaipros.com
+0.0.0.0 az3-apil2-kixsnack.kwai-pro.com
+0.0.0.0 az3-apil2-txsnack.kwaipros.com
 0.0.0.0 az3-api-txsnack.kwaipros.com
 0.0.0.0 b138423c-dnsotls-ds.metric.gstatic.com
 0.0.0.0 b1.nel.goog
@@ -2391,6 +2401,7 @@
 0.0.0.0 da.xboxservices.com
 0.0.0.0 dbafbb37-dnsotls-ds.metric.gstatic.com
 0.0.0.0 dbn41syzjymrk.cloudfront.net
+0.0.0.0 dc59321e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 dc.albtls.t.co
 0.0.0.0 dcb.fortumo.com
 0.0.0.0 dc.chillyroom.com
@@ -3126,6 +3137,7 @@
 0.0.0.0 gamea.clashofclans.com
 0.0.0.0 gameanalytics.com
 0.0.0.0 game-api.joyit.live
+0.0.0.0 game-assistant.transsion-os.com
 0.0.0.0 gamecfg-mob.ubi.com
 0.0.0.0 game.chillyroom.com
 0.0.0.0 gamecooo.com
@@ -4072,6 +4084,7 @@
 0.0.0.0 kiwiirc.com
 0.0.0.0 kix-api.kwai-pro.com
 0.0.0.0 kix-api.kwaipros.com
+0.0.0.0 kix-apil2.kwai-pro.com
 0.0.0.0 kix-api.mythad.com
 0.0.0.0 kix-ulog.kwai-pro.com
 0.0.0.0 kix-ulog.kwaipros.com
@@ -5269,6 +5282,7 @@
 0.0.0.0 oslab.shalltry.com
 0.0.0.0 os-notice.shalltry.com
 0.0.0.0 ossgw.alicdn.com
+0.0.0.0 os-shader.transsion-os.com
 0.0.0.0 o-static.ihago.net
 0.0.0.0 osupdate2020.shalltry.com
 0.0.0.0 ota-checker.transsion-os.com
@@ -6537,6 +6551,7 @@
 0.0.0.0 staging.pasangiklan.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 stake.com
+0.0.0.0 standard-im-dns.transsion-message.com
 0.0.0.0 standard-svr-terminal.transsion-message.com
 0.0.0.0 stape.io
 0.0.0.0 starbro.net
@@ -6814,6 +6829,7 @@
 0.0.0.0 taobao.com
 0.0.0.0 tapad.com
 0.0.0.0 tapfiliate.com
+0.0.0.0 t-apil2.kwaipros.com
 0.0.0.0 tap.io
 0.0.0.0 t-api-snack.adaether.com
 0.0.0.0 t-api-snack.kwai-pro.com
@@ -8552,6 +8568,8 @@
 0.0.0.0 zopim.com
 0.0.0.0 zos.alipayobjects.com
 0.0.0.0 zres.alicdn.com
+0.0.0.0 zt-live.kwai-pro.com
+0.0.0.0 zt-live.kwaipros.com
 0.0.0.0 zueirassemlimites.com
 0.0.0.0 zuiqiangyingyu.net
 0.0.0.0 zuora.com
