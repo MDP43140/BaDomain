@@ -21,6 +21,7 @@
 0.0.0.0 btc-use2.mgmt.aibixby.com
 0.0.0.0 capi.samsungcloud.com
 0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 cfota1.samsungdms.net
 0.0.0.0 cn-ms.galaxyappstore.com
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 configprd.samsungcloudsolution.net
@@ -30,6 +31,7 @@
 0.0.0.0 ddf.di.atlas.samsung.com
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
+0.0.0.0 dir-apis.samsungdiroute.net
 0.0.0.0 dir-apis.samsungdm.com
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 dls-udc.dqa.samsung.com
@@ -39,6 +41,7 @@
 0.0.0.0 ers.samsungcloudplatform.com
 0.0.0.0 eu-api.samsungpositioning.com
 0.0.0.0 eu-auth2.samsungosp.com
+0.0.0.0 eu-dir-apis.samsungdiroute.net
 0.0.0.0 eu-kaf.samsungknox.com
 0.0.0.0 exp.samsungosp.com
 0.0.0.0 findnms.samsungiotcloud.com

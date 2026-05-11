@@ -414,6 +414,7 @@
 0.0.0.0 t-sg.ads.heytapmobile.com
 0.0.0.0 uapi-id.heytapmobile.com
 0.0.0.0 uapi-in.heytapmobile.com
+0.0.0.0 uc-client-sg.heytapmobile.com
 0.0.0.0 u-id.browser.oppomobile.com
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 u-in.browser.oppomobile.com

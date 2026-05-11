@@ -755,6 +755,7 @@
 0.0.0.0 bsync31-normal-useast1a.tiktokv.com
 0.0.0.0 bsync-i18n.tiktokv.com
 0.0.0.0 bsync-normal.tiktokv.com
+0.0.0.0 bsync-sg.tiktokv.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 business-api-tiktok-com-apix.bytewlb.akadns.net
 0.0.0.0 business-api.tiktok.com.edgesuite.net
@@ -2029,6 +2030,7 @@
 0.0.0.0 lively-ws-flv.muscdn.com
 0.0.0.0 lively-ws-hls.muscdn.com
 0.0.0.0 live.musical.ly
+0.0.0.0 live-netacc-sg.tiktokv.com
 0.0.0.0 live.tiktok.com
 0.0.0.0 l.l.bytedns.net
 0.0.0.0 lms-ns.byteoversea.com
@@ -2517,6 +2519,7 @@
 0.0.0.0 mssdk-quic-va.tiktokv.com.edgekey.net
 0.0.0.0 mssdk-ru.tiktokv.com
 0.0.0.0 mssdk-ru.tiktokv.com.edgekey.net
+0.0.0.0 mssdk-s.byteintl.com
 0.0.0.0 mssdk-sg-bu.byteoversea.com
 0.0.0.0 mssdk-sg-bu.byteoversea.com.edgekey.net
 0.0.0.0 mssdk-sg-bu.byteoversea.com.ttdns2.com
@@ -2742,7 +2745,10 @@
 0.0.0.0 p16-k1-sign-sg.ibyteimg.com
 0.0.0.0 p16-k1-sign-useast2a.ibyteimg.com
 0.0.0.0 p16-k1-sign-va.ibyteimg.com
+0.0.0.0 p16-lemon8-sign-sg.tiktokcdn.com
 0.0.0.0 p16-linkmic-img.tiktokcdn-us.com
+0.0.0.0 p16-lp-sg.ibyteimg.com
+0.0.0.0 p16-lp-sg.tiktokcdn.com
 0.0.0.0 p16-m-sign-va.ibyteimg.com
 0.0.0.0 p16-mt-sg-a.ibyteimg.com
 0.0.0.0 p16-mt-sg-b.ibyteimg.com
@@ -2803,6 +2809,7 @@
 0.0.0.0 p16-tiktok-dm-sticker-euttp-sign-useast2a.ibyteimg.com
 0.0.0.0 p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-dm-sticker-sign-va.ibyteimg.com
+0.0.0.0 p16-tiktok-group-icon-sign-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-ls-product-sign-sg.tiktokcdn.com
 0.0.0.0 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-sg-ab.ibyteimg.com
@@ -2864,6 +2871,7 @@
 0.0.0.0 p19-common.tiktokcdn.com
 0.0.0.0 p19-cp-game-img-sign-sg.tiktokcdn.com
 0.0.0.0 p19.hypstarcdn.com
+0.0.0.0 p19-lp-sg.tiktokcdn.com
 0.0.0.0 p19-novel-sg.ibyteimg.com
 0.0.0.0 p19-oec-common-useast2a.ibyteimg.com
 0.0.0.0 p-19-oec-sg.ibyteimg.com
@@ -2882,6 +2890,7 @@
 0.0.0.0 p19-sign.tiktokcdn-us.com
 0.0.0.0 p19-tiktok-ls-product-sign-sg.ibyteimg.com
 0.0.0.0 p19-tiktok-ls-product-sign-sg.tiktokcdn.com
+0.0.0.0 p19-tiktok-poi-picture-sign-sg.ibyteimg.com
 0.0.0.0 p19-webcast.hypstarcdn.com
 0.0.0.0 p19-webcast.muscdn.com
 0.0.0.0 p19-webcast.tiktokcdn.com
@@ -3837,6 +3846,10 @@
 0.0.0.0 r.snssdk.com
 0.0.0.0 rtapplog.snssdk.com
 0.0.0.0 rtapplog.snssdk.com.w.kunluncan.com
+0.0.0.0 rtc-access16-normal-alisg.tiktokv.com
+0.0.0.0 rtc-access19-normal-alisg.tiktokv.com
+0.0.0.0 rtc-access-fr.tiktokv.com
+0.0.0.0 rtc-access-sg.tiktokv.com
 0.0.0.0 rtc-boe.byted.org
 0.0.0.0 rtc.bytedanceapi.com
 0.0.0.0 rtc-logger-i18n.tiktokv.com
@@ -3847,6 +3860,8 @@
 0.0.0.0 rtc-logger.us.tiktokv.com.edgesuite.net
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger-va.tiktokv.com.edgekey.net
+0.0.0.0 rtcpc-access-fr.tiktokv.com
+0.0.0.0 rtcpc-access-va.tiktokv.com
 0.0.0.0 rtlog15-normal-alisg.tiktokv.com
 0.0.0.0 rtlog15-normal.tiktokv.com
 0.0.0.0 rtlog15-normal-useast1a.tiktokv.com
@@ -4224,6 +4239,7 @@
 0.0.0.0 sf-hs-sg.ibytedtos.com
 0.0.0.0 sf-hs-sg.ibytedtos.com.edgekey.net
 0.0.0.0 sf-i18n-resources.tiktokcdn-us.com
+0.0.0.0 sf-launch-protect.tiktokcdn.com
 0.0.0.0 sf-ssp.tiktokcdn.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 sf-tb-sg.ibytedtos.com.edgesuite.net

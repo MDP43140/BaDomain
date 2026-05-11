@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 14.04.2026
+# Version: 11.05.2026
 # Update: 1 day
 #
 
@@ -47,6 +47,7 @@
 0.0.0.0 13.ygti905ffth6.com
 0.0.0.0 14ced0c6-dnsotls-ds.metric.gstatic.com
 0.0.0.0 14.ygti905ffth6.com
+0.0.0.0 151c92c3-dnsotls-ds.metric.gstatic.com
 0.0.0.0 1558334541.rsc.cdn77.org
 0.0.0.0 156e9743-dnsotls-ds.metric.gstatic.com
 0.0.0.0 15.ygti905ffth6.com
@@ -101,6 +102,7 @@
 0.0.0.0 2692f16a-dnsotls-ds.metric.gstatic.com
 0.0.0.0 26.ygti905ffth6.com
 0.0.0.0 27.ygti905ffth6.com
+0.0.0.0 281770c3-dnsotls-ds.metric.gstatic.com
 0.0.0.0 28293.2501may2024.com
 0.0.0.0 28.ygti905ffth6.com
 0.0.0.0 28z.top
@@ -207,6 +209,7 @@
 0.0.0.0 458games.com
 0.0.0.0 45.ygti905ffth6.com
 0.0.0.0 46.ygti905ffth6.com
+0.0.0.0 47bf67cf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 47.ygti905ffth6.com
 0.0.0.0 48.ygti905ffth6.com
 0.0.0.0 49.ygti905ffth6.com
@@ -255,6 +258,7 @@
 0.0.0.0 51.la
 0.0.0.0 51tracking.com
 0.0.0.0 51.ygti905ffth6.com
+0.0.0.0 52171cf3-dnsotls-ds.metric.gstatic.com
 0.0.0.0 522423f7-dnsotls-ds.metric.gstatic.com
 0.0.0.0 52.appmeasurements.com
 0.0.0.0 52.ygti905ffth6.com
@@ -1803,6 +1807,7 @@
 0.0.0.0 cdn.cxomedia.id
 0.0.0.0 cdn.d32jers.com
 0.0.0.0 cdn.devicevalidation.io
+0.0.0.0 cdn-dokl7xqu9svnv.facemojikeyboard.com
 0.0.0.0 cdn.dreamdata.cloud
 0.0.0.0 cdn.ekatox.com
 0.0.0.0 cdn.euc-freshbots.ai
@@ -1931,6 +1936,7 @@
 0.0.0.0 centre.baby
 0.0.0.0 centurygames.com
 0.0.0.0 certify.gpwa.org
+0.0.0.0 cf9550b8-dnsotls-ds.metric.gstatic.com
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfg.smartvisionapp.com
 0.0.0.0 cfg.ws.pho.to
@@ -2500,13 +2506,13 @@
 0.0.0.0 dl.web.dhgamesdownload.com
 0.0.0.0 dl-xda.xposed.info
 0.0.0.0 dl.xposed.info
+0.0.0.0 dm-c-all.terabox.com
 0.0.0.0 dmcdn.net
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dmp.im-apps.net
 0.0.0.0 dmp.truoptik.com
 0.0.0.0 dm.terabox.com
 0.0.0.0 dn.im-gb.com
-0.0.0.0 dns11.quad9.net
 0.0.0.0 dns9.hichina.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 dns.sb
@@ -2623,6 +2629,7 @@
 0.0.0.0 e10204.dsca.akamaiedge.net
 0.0.0.0 e10499.dsce9.akamaiedge.net
 0.0.0.0 e12919.dscd.akamaiedge.net
+0.0.0.0 e1da6636-dnsotls-ds.metric.gstatic.com
 0.0.0.0 e295d42c-dnsotls-ds.metric.gstatic.com
 0.0.0.0 e3log1.fineboost.com
 0.0.0.0 e3log2.fineboost.com
@@ -3709,6 +3716,7 @@
 0.0.0.0 img-sys.com
 0.0.0.0 img.tysondata.com
 0.0.0.0 img.ucweb.com
+0.0.0.0 img.ucweb.com.queniuaa.com
 0.0.0.0 img-video-tracking.ruangguru.com
 0.0.0.0 img.wattpad.com
 0.0.0.0 img.ws.mms.shopee.co.id
@@ -5177,6 +5185,7 @@
 0.0.0.0 offline-game-cdn.palmplaystore.com
 0.0.0.0 offline-pkg-api.wshareit.com
 0.0.0.0 ofklefkian.com
+0.0.0.0 ofy77s-conversions.appsflyersdk.com
 0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 ogepodownload.mediatek.com
 0.0.0.0 o.glance-cdn.com
@@ -5233,6 +5242,7 @@
 0.0.0.0 openlog.tap.io
 0.0.0.0 openrtb-banner.com
 0.0.0.0 openwifi.ucweb.com
+0.0.0.0 openwifi.ucweb.com.queniuak.com
 0.0.0.0 openx.net
 0.0.0.0 operamini-behavior-sub.osp.opera.software
 0.0.0.0 opera.software
@@ -6188,6 +6198,7 @@
 0.0.0.0 sdk.split.io
 0.0.0.0 sdksp.wetvinfo.com
 0.0.0.0 sdk.twilio.com
+0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 sdk.vskit.tv
 0.0.0.0 sdtoto.is
 0.0.0.0 sealine.youku.com
@@ -6551,6 +6562,7 @@
 0.0.0.0 staging.pasangiklan.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 stake.com
+0.0.0.0 standard-im-api.transsion-message.com
 0.0.0.0 standard-im-dns.transsion-message.com
 0.0.0.0 standard-svr-terminal.transsion-message.com
 0.0.0.0 stape.io
@@ -6907,6 +6919,7 @@
 0.0.0.0 test-api.wshareit.com
 0.0.0.0 test.cmp.quantcast.com
 0.0.0.0 testedforyou.net
+0.0.0.0 test-exrate.transsion-os.com
 0.0.0.0 testgateway.nephobox.com
 0.0.0.0 tex.z-dn.net
 0.0.0.0 tg1.unrulyvideo.com

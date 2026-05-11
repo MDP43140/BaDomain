@@ -56,6 +56,7 @@
 0.0.0.0 aq8888.8888q.top
 0.0.0.0 areaslt.net
 0.0.0.0 arss-sakti.info
+0.0.0.0 asset.qrishoki.com
 0.0.0.0 atgpromax.com
 0.0.0.0 atozlottery.com
 0.0.0.0 bas3data.xyz
@@ -122,7 +123,9 @@
 0.0.0.0 ibet789.com
 0.0.0.0 idtcakep.com
 0.0.0.0 idtgacornew2024.com
+0.0.0.0 iframe15.otomatis.vip
 0.0.0.0 img.viva88athenae.com
+0.0.0.0 infokota188.pages.dev
 0.0.0.0 ini5.serverterbaik.com
 0.0.0.0 iniporsche.com
 0.0.0.0 invictusgames2018.org
@@ -145,6 +148,7 @@
 0.0.0.0 kaskustoto.com
 0.0.0.0 kheloexch.com
 0.0.0.0 kingforever8.world
+0.0.0.0 kota188b23.com
 0.0.0.0 ky072.vip
 0.0.0.0 ky075.vip
 0.0.0.0 ky076.vip
@@ -179,6 +183,7 @@
 0.0.0.0 omg138.in
 0.0.0.0 omg138.qpon
 0.0.0.0 online-ideal-casino.nl
+0.0.0.0 otomatis.vip
 0.0.0.0 pbx256.xyz
 0.0.0.0 pgkjp3.site
 0.0.0.0 pkg.ing
@@ -190,6 +195,7 @@
 0.0.0.0 pt188.vip
 0.0.0.0 pt2023.com
 0.0.0.0 pyreneesakbash.com
+0.0.0.0 qrishoki.com
 0.0.0.0 r8sxc7.com
 0.0.0.0 raden138.ada
 0.0.0.0 raden138best.online
@@ -238,6 +244,7 @@
 0.0.0.0 slotxl.site
 0.0.0.0 staging5.pbx256.xyz
 0.0.0.0 static-content.pro
+0.0.0.0 storetn.in
 0.0.0.0 superbig77.co
 0.0.0.0 superbig77.com
 0.0.0.0 superbig77.net
@@ -245,6 +252,7 @@
 0.0.0.0 superbig77.org
 0.0.0.0 superbig77.xyz
 0.0.0.0 tbmawar.com
+0.0.0.0 teslyx.com
 0.0.0.0 texaspoker.cc
 0.0.0.0 tgmnice.com
 0.0.0.0 to4d28.com
@@ -350,6 +358,7 @@
 0.0.0.0 www.higgsslotgame.com
 0.0.0.0 www.ibet789.com
 0.0.0.0 www.idtgacornew2024.com
+0.0.0.0 www.kota188b23.com
 0.0.0.0 www.latortillamadrid.com
 0.0.0.0 www.letusdomino.com
 0.0.0.0 www.manbetx.uk

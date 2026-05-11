@@ -8,6 +8,10 @@
 0.0.0.0 e2c35.gcp.gvt2.com
 0.0.0.0 e2cs04.gcp.gvt2.com
 0.0.0.0 edgedl.me.gvt1.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 i2.ytimg.com
+0.0.0.0 i3.ytimg.com
+0.0.0.0 i4.ytimg.com
 0.0.0.0 manifest.googlevideo.com
 0.0.0.0 r1.sn-2uuxa3vh-jb3ez.googlevideo.com
 0.0.0.0 r1---sn-2uuxa3vh-jb3ez.googlevideo.com
@@ -33,6 +37,9 @@
 0.0.0.0 r2---sn-npoe7nek.googlevideo.com
 0.0.0.0 r2---sn-npoldn7l.googlevideo.com
 0.0.0.0 r2---sn-poqvn5u-n0cz.googlevideo.com
+0.0.0.0 r3---sn-2o30a5-5h.googlevideo.com
+0.0.0.0 r3.sn-2uuxa3vh-jb3ez.googlevideo.com
+0.0.0.0 r3---sn-2uuxa3vh-jb3ez.googlevideo.com
 0.0.0.0 r3.sn-2uuxa3vh-jb3sk.googlevideo.com
 0.0.0.0 r3---sn-2uuxa3vh-jb3sk.googlevideo.com
 0.0.0.0 r3.sn-30a7rne6.googlevideo.com
@@ -67,6 +74,8 @@
 0.0.0.0 r5---sn-npoldn7d.googlevideo.com
 0.0.0.0 r5.sn-ojun55-55.googlevideo.com
 0.0.0.0 r5---sn-ojun55-55.googlevideo.com
+0.0.0.0 r6.sn-2uuxa3vh-jb3ez.googlevideo.com
+0.0.0.0 r6---sn-2uuxa3vh-jb3ez.googlevideo.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 rr1.sn-2uuxa3vh-jb3ed.googlevideo.com
@@ -99,14 +108,21 @@
 0.0.0.0 rr1---sn-npoe7nl6.googlevideo.com
 0.0.0.0 rr1.sn-npoe7ns6.googlevideo.com
 0.0.0.0 rr1---sn-npoe7ns6.googlevideo.com
+0.0.0.0 rr1.sn-npoe7ns7.googlevideo.com
 0.0.0.0 rr1---sn-npoe7ns7.googlevideo.com
 0.0.0.0 rr1---sn-npoe7nsk.googlevideo.com
 0.0.0.0 rr1.sn-npoe7nsl.googlevideo.com
 0.0.0.0 rr1---sn-npoe7nsl.googlevideo.com
 0.0.0.0 rr1---sn-npoe7nsr.googlevideo.com
 0.0.0.0 rr1---sn-npoe7nsy.googlevideo.com
+0.0.0.0 rr1.sn-npoeener.googlevideo.com
+0.0.0.0 rr1---sn-npoeener.googlevideo.com
 0.0.0.0 rr1---sn-npoeenlk.googlevideo.com
+0.0.0.0 rr1.sn-npoeenll.googlevideo.com
+0.0.0.0 rr1---sn-npoeenll.googlevideo.com
 0.0.0.0 rr1---sn-npoldn76.googlevideo.com
+0.0.0.0 rr1.sn-npoldn7l.googlevideo.com
+0.0.0.0 rr1---sn-npoldn7l.googlevideo.com
 0.0.0.0 rr1---sn-npoldn7y.googlevideo.com
 0.0.0.0 rr1---sn-npoldnez.googlevideo.com
 0.0.0.0 rr1---sn-ojnpo5-58.googlevideo.com
@@ -188,6 +204,8 @@
 0.0.0.0 rr2.sn-npoldnel.googlevideo.com
 0.0.0.0 rr2---sn-npoldnel.googlevideo.com
 0.0.0.0 rr2---sn-ojnpo5-58.googlevideo.com
+0.0.0.0 rr2.sn-ojnpo5-5b.googlevideo.com
+0.0.0.0 rr2---sn-ojnpo5-5b.googlevideo.com
 0.0.0.0 rr2---sn-q4fl6nz7.googlevideo.com
 0.0.0.0 rr2---sn-uigxxi0ujipnvo-jb3d.googlevideo.com
 0.0.0.0 rr2---sn-uigxxi0ujipnvo-jb3d.gvt1.com
@@ -247,6 +265,7 @@
 0.0.0.0 rr3---sn-npoeenez.googlevideo.com
 0.0.0.0 rr3---sn-npoeenle.googlevideo.com
 0.0.0.0 rr3---sn-npoeenll.googlevideo.com
+0.0.0.0 rr3.sn-npoeens7.googlevideo.com
 0.0.0.0 rr3---sn-npoeens7.googlevideo.com
 0.0.0.0 rr3---sn-npoldn7d.googlevideo.com
 0.0.0.0 rr3.sn-npoldn7l.googlevideo.com
@@ -277,6 +296,8 @@
 0.0.0.0 rr3.sn-xmjxajvh-jb3zz.googlevideo.com
 0.0.0.0 rr3---sn-xmjxajvh-jb3zz.googlevideo.com
 0.0.0.0 rr3.sn-xmjxajvh-jb3zz.gvt1.com
+0.0.0.0 rr4.sn-2uuxa3vh-jb3e6.googlevideo.com
+0.0.0.0 rr4---sn-2uuxa3vh-jb3e6.googlevideo.com
 0.0.0.0 rr4.sn-2uuxa3vh-jb3ez.googlevideo.com
 0.0.0.0 rr4---sn-2uuxa3vh-jb3ez.googlevideo.com
 0.0.0.0 rr4.sn-2uuxa3vh-jb3ez.gvt1.com
@@ -293,6 +314,9 @@
 0.0.0.0 rr4---sn-npoeen6z.googlevideo.com
 0.0.0.0 rr4---sn-npoeened.googlevideo.com
 0.0.0.0 rr4---sn-npoeenee.googlevideo.com
+0.0.0.0 rr4.sn-npoeenez.googlevideo.com
+0.0.0.0 rr4---sn-npoeenez.googlevideo.com
+0.0.0.0 rr4.sn-npoeenle.googlevideo.com
 0.0.0.0 rr4---sn-npoeenle.googlevideo.com
 0.0.0.0 rr4.sn-npoeenlk.googlevideo.com
 0.0.0.0 rr4---sn-npoeenlk.googlevideo.com
@@ -395,6 +419,8 @@
 0.0.0.0 rr6.sn-xmjxajvh-jb3zl.googlevideo.com
 0.0.0.0 rr6---sn-xmjxajvh-jb3zl.googlevideo.com
 0.0.0.0 rr6---sn-xmjxajvh-jb3zs.googlevideo.com
+0.0.0.0 rr7.sn-2uuxa3vh-jb3e6.googlevideo.com
+0.0.0.0 rr7---sn-2uuxa3vh-jb3e6.googlevideo.com
 0.0.0.0 rr7---sn-2uuxa3vh-jb3ez.googlevideo.com
 0.0.0.0 rr7.sn-2uuxa3vh-jb3ez.gvt1.com
 0.0.0.0 rr7---sn-2uuxa3vh-jb3ez.gvt1.com

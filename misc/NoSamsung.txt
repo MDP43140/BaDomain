@@ -21,6 +21,7 @@ auth2.samsungosp.com
 btc-use2.mgmt.aibixby.com
 capi.samsungcloud.com
 cdn.samsungcloudsolution.com
+cfota1.samsungdms.net
 cn-ms.galaxyappstore.com
 config-api.internet.apps.samsung.com
 configprd.samsungcloudsolution.net
@@ -30,6 +31,7 @@ dc.dqa.samsung.com
 ddf.di.atlas.samsung.com
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
+dir-apis.samsungdiroute.net
 dir-apis.samsungdm.com
 dls.di.atlas.samsung.com
 dls-udc.dqa.samsung.com
@@ -39,6 +41,7 @@ ers.samsungcloud.com
 ers.samsungcloudplatform.com
 eu-api.samsungpositioning.com
 eu-auth2.samsungosp.com
+eu-dir-apis.samsungdiroute.net
 eu-kaf.samsungknox.com
 exp.samsungosp.com
 findnms.samsungiotcloud.com

@@ -414,6 +414,7 @@ titan.heytap.com
 t-sg.ads.heytapmobile.com
 uapi-id.heytapmobile.com
 uapi-in.heytapmobile.com
+uc-client-sg.heytapmobile.com
 u-id.browser.oppomobile.com
 u-id.cpc.heytapmobile.com
 u-in.browser.oppomobile.com

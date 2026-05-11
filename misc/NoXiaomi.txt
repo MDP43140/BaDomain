@@ -223,6 +223,7 @@ id-miuilog.sms.intl.xiaomi.com
 id.video.intl.xiaomi.com
 i.mi.com
 in.find.api.micloud.xiaomi.net
+instant-web-s.api.intl.miui.com
 internal.engine.intl.mi.com
 in.tv.global.mi.com
 iosdl.game.xiaomi.com

@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 14.04.2026
+# Version: 11.05.2026
 # Update: 1 day
 #
 
@@ -47,6 +47,7 @@
 13.ygti905ffth6.com
 14ced0c6-dnsotls-ds.metric.gstatic.com
 14.ygti905ffth6.com
+151c92c3-dnsotls-ds.metric.gstatic.com
 1558334541.rsc.cdn77.org
 156e9743-dnsotls-ds.metric.gstatic.com
 15.ygti905ffth6.com
@@ -101,6 +102,7 @@
 2692f16a-dnsotls-ds.metric.gstatic.com
 26.ygti905ffth6.com
 27.ygti905ffth6.com
+281770c3-dnsotls-ds.metric.gstatic.com
 28293.2501may2024.com
 28.ygti905ffth6.com
 28z.top
@@ -207,6 +209,7 @@
 458games.com
 45.ygti905ffth6.com
 46.ygti905ffth6.com
+47bf67cf-dnsotls-ds.metric.gstatic.com
 47.ygti905ffth6.com
 48.ygti905ffth6.com
 49.ygti905ffth6.com
@@ -255,6 +258,7 @@
 51.la
 51tracking.com
 51.ygti905ffth6.com
+52171cf3-dnsotls-ds.metric.gstatic.com
 522423f7-dnsotls-ds.metric.gstatic.com
 52.appmeasurements.com
 52.ygti905ffth6.com
@@ -1803,6 +1807,7 @@ cdn.coveo.com
 cdn.cxomedia.id
 cdn.d32jers.com
 cdn.devicevalidation.io
+cdn-dokl7xqu9svnv.facemojikeyboard.com
 cdn.dreamdata.cloud
 cdn.ekatox.com
 cdn.euc-freshbots.ai
@@ -1931,6 +1936,7 @@ cehe9z-register.appsflyersdk.com
 centre.baby
 centurygames.com
 certify.gpwa.org
+cf9550b8-dnsotls-ds.metric.gstatic.com
 cfg.cml.ksmobile.com
 cfg.smartvisionapp.com
 cfg.ws.pho.to
@@ -2500,13 +2506,13 @@ dlvrit.com
 dl.web.dhgamesdownload.com
 dl-xda.xposed.info
 dl.xposed.info
+dm-c-all.terabox.com
 dmcdn.net
 dmg.digitaltarget.ru
 dmp.im-apps.net
 dmp.truoptik.com
 dm.terabox.com
 dn.im-gb.com
-dns11.quad9.net
 dns9.hichina.com
 dns.msftncsi.com
 dns.sb
@@ -2623,6 +2629,7 @@ e0cc20e4-dnsotls-ds.metric.gstatic.com
 e10204.dsca.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e12919.dscd.akamaiedge.net
+e1da6636-dnsotls-ds.metric.gstatic.com
 e295d42c-dnsotls-ds.metric.gstatic.com
 e3log1.fineboost.com
 e3log2.fineboost.com
@@ -5177,6 +5184,7 @@ official.downloadatoz.com
 offline-game-cdn.palmplaystore.com
 offline-pkg-api.wshareit.com
 ofklefkian.com
+ofy77s-conversions.appsflyersdk.com
 ogads-pa.clients6.google.com
 ogepodownload.mediatek.com
 o.glance-cdn.com
@@ -6188,6 +6196,7 @@ sdks.automizely-analytics.com
 sdk.split.io
 sdksp.wetvinfo.com
 sdk.twilio.com
+sdkupgrade.insight.ucweb.com
 sdk.vskit.tv
 sdtoto.is
 sealine.youku.com
@@ -6551,6 +6560,7 @@ stagingapps.xyz
 staging.pasangiklan.com
 stags.bluekai.com
 stake.com
+standard-im-api.transsion-message.com
 standard-im-dns.transsion-message.com
 standard-svr-terminal.transsion-message.com
 stape.io
@@ -6907,6 +6917,7 @@ test140.hkbchat.com
 test-api.wshareit.com
 test.cmp.quantcast.com
 testedforyou.net
+test-exrate.transsion-os.com
 testgateway.nephobox.com
 tex.z-dn.net
 tg1.unrulyvideo.com

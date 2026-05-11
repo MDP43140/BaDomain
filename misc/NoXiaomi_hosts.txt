@@ -223,6 +223,7 @@
 0.0.0.0 id.video.intl.xiaomi.com
 0.0.0.0 i.mi.com
 0.0.0.0 in.find.api.micloud.xiaomi.net
+0.0.0.0 instant-web-s.api.intl.miui.com
 0.0.0.0 internal.engine.intl.mi.com
 0.0.0.0 in.tv.global.mi.com
 0.0.0.0 iosdl.game.xiaomi.com
