@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #
-# SPDX-FileCopyrightText: 2021-2025 MDP43140
+# SPDX-FileCopyrightText: 2021-2026 MDP43140
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
-# This script filters comments, sorting and removing dupes, and puts the comment back,
+# This script filters comments, sorting and removing duplicates, and puts the comment before the domains,
 # and optionally update the version date (optimized for hosts file)
 #
 

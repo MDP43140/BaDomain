@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# SPDX-FileCopyrightText: 2021-2025 MDP43140
+# SPDX-FileCopyrightText: 2021-2026 MDP43140
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
 # Sorts domains based on the services
@@ -17,6 +17,7 @@ true > ${service_output_folder}/NoChinaOverseaSpy.tmp
 true > ${service_output_folder}/NoFB.tmp
 true > ${service_output_folder}/NoFreeFire.tmp
 true > ${service_output_folder}/NoGambling.tmp
+true > ${service_output_folder}/NoMicrosoft.tmp
 true > ${service_output_folder}/NoMLBB.tmp
 true > ${service_output_folder}/NoNSFW.tmp
 true > ${service_output_folder}/NoOppoHT.tmp
@@ -25,6 +26,7 @@ true > ${service_output_folder}/NoSamsung.tmp
 true > ${service_output_folder}/NoTikTok.tmp
 true > ${service_output_folder}/NoVivo.tmp
 true > ${service_output_folder}/NoXiaomi.tmp
+true > ${service_output_folder}/NoYouTube.tmp
 # main sorting code
 while IFS= read -r line;do
 	case "$line" in
@@ -74,6 +76,34 @@ while IFS= read -r line;do
 		*.pencilorange.com|\
 		*.purplevioleto.com)
 			echo "$line" >> ${service_output_folder}/NoFreeFire.tmp
+		;;
+		*.bing.com.edgekey.net|\
+		*.microsoft.com.edgekey.net|\
+		*.microsoft.net.edgekey.net|\
+		*.windows.com.edgesuite.net|\
+		*.windowsupdate.com.edgesuite.net|\
+		*.windowsupdate.com.edgesuite.net|\
+		*.msedge.net|\
+		*.a-msedge.net|\
+		*.ln-msedge.net|\
+		*.dual-s-msedge.net|\
+		*.azure.com|\
+		*.bing.com|\
+		*.azurefd.net|\
+		*.tm-azurefd.net|\
+		*.msftauth.net|\
+		*.msftconnecttest.com|\
+		*.msidentity.com|\
+		*.office.com|\
+		*.s-microsoft.com|\
+		*.skype.com|\
+		*.trafficmanager.net|\
+		*.windows.com|\
+		*.windowsupdate.com|\
+		*.microsoft.net|\
+		*.microsoft.com.akadns.net|\
+		*.microsoft.com)
+			echo "$line" >> ${service_output_folder}/NoMicrosoft.tmp
 		;;
 		*.mlbangbang.com|\
 		*.mobilelegends.com|\
@@ -152,6 +182,7 @@ while IFS= read -r line;do
 		*.byted-static.com|\
 		*.byteeffecttos-g.com|\
 		*.bytegoofy.com|\
+		*.byteglb.com|\
 		*.bytegsdk.com|\
 		*.byteicdn.com|\
 		*.byteimg.com|\
@@ -234,6 +265,11 @@ while IFS= read -r line;do
 		*.xiaomi.com|\
 		*.xiaomi.net)
 			echo "$line" >> ${service_output_folder}/NoXiaomi.tmp
+		;;
+		*.ggpht.com|\
+		*.googlevideo.com|\
+		*.ytimg.com)
+			echo "$line" >> ${service_output_folder}/NoYouTube.tmp
 		;;
 		*bet*|\
 		*casino*|\
@@ -320,6 +356,7 @@ insertFilteredToOrig ${service_output_folder}/NoChinaOverseaSpy.tmp ${service_ou
 insertFilteredToOrig ${service_output_folder}/NoFB.tmp       ${service_output_folder}/NoFB.txt
 insertFilteredToOrig ${service_output_folder}/NoFreeFire.tmp ${service_output_folder}/NoFreeFire.txt
 insertFilteredToOrig ${service_output_folder}/NoGambling.tmp ${service_output_folder}/NoGambling.txt
+insertFilteredToOrig ${service_output_folder}/NoMicrosoft.tmp ${service_output_folder}/NoMicrosoft.txt
 insertFilteredToOrig ${service_output_folder}/NoMLBB.tmp     ${service_output_folder}/NoMLBB.txt
 insertFilteredToOrig ${service_output_folder}/NoNSFW.tmp     ${service_output_folder}/NoNSFW.txt
 insertFilteredToOrig ${service_output_folder}/NoOppoHT.tmp   ${service_output_folder}/NoOppoHT.txt
@@ -328,3 +365,4 @@ insertFilteredToOrig ${service_output_folder}/NoSamsung.tmp  ${service_output_fo
 insertFilteredToOrig ${service_output_folder}/NoTikTok.tmp   ${service_output_folder}/NoTikTok.txt
 insertFilteredToOrig ${service_output_folder}/NoVivo.tmp     ${service_output_folder}/NoVivo.txt
 insertFilteredToOrig ${service_output_folder}/NoXiaomi.tmp   ${service_output_folder}/NoXiaomi.txt
+insertFilteredToOrig ${service_output_folder}/NoYouTube.tmp  ${service_output_folder}/NoYouTube.txt

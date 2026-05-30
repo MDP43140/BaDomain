@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2048,SC2128,SC2178
 #
-# SPDX-FileCopyrightText: 2021-2025 MDP43140
+# SPDX-FileCopyrightText: 2021-2026 MDP43140
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
 clear
