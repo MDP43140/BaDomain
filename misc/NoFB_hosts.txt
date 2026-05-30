@@ -847,6 +847,8 @@
 0.0.0.0 ccae4ba0-d707-49cc-b845-19545d5d9c5b-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 ccae4ba0-d707-49cc-b845-19545d5d9c5b-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 ccamatil.m.facebook.com
+0.0.0.0 cd2ff659-bd90-469d-947d-0fc4761de4af-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 cd2ff659-bd90-469d-947d-0fc4761de4af-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 cd6ad29a-f096-4422-98a0-d629fc9aab2c-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 cd80a731-1264-4877-916f-f525cbcf56eb-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 cd80a731-1264-4877-916f-f525cbcf56eb-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -3276,6 +3278,7 @@
 0.0.0.0 f6ffa8b9780-obfszkgb1747662656-sonar.xz.fbcdn.net
 0.0.0.0 F763BAAF-A436-45E9-97A7-40CFF935758D-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 F763BAAF-A436-45E9-97A7-40CFF935758D-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 f77d4ccff80-lwnaxzde1777540432-sonar.xz.fbcdn.net
 0.0.0.0 f814404e-2c0e-49ce-b8fe-adf0bbe94c47-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 f8f85fb3280-iegbjhxl1753949746-sonar.xz.fbcdn.net
 0.0.0.0 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
@@ -8471,8 +8474,10 @@
 0.0.0.0 sonar.fcgk39-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk40-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk41-1.fna.fbcdn.net
+0.0.0.0 sonar.fcgk42-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk4-2.fna.fbcdn.net
 0.0.0.0 sonar.fcgk4-2.fna.whatsapp.net
+0.0.0.0 sonar.fcgk43-1.fna.fbcdn.net
 0.0.0.0 sonar.fcgk4-3.fna.fbcdn.net
 0.0.0.0 sonar.fcgk4-4.fna.fbcdn.net
 0.0.0.0 sonar.fcgk4-4.fna.whatsapp.net
@@ -8840,6 +8845,7 @@
 0.0.0.0 static.fcgk41-1.fna.fbcdn.net
 0.0.0.0 static.fcgk42-1.fna.fbcdn.net
 0.0.0.0 static.fcgk4-2.fna.fbcdn.net
+0.0.0.0 static.fcgk43-1.fna.fbcdn.net
 0.0.0.0 static.fcgk4-3.fna.fbcdn.net
 0.0.0.0 static.fcgk4-4.fna.fbcdn.net
 0.0.0.0 static.fcgk4-5.fna.fbcdn.net
@@ -9820,6 +9826,7 @@
 0.0.0.0 w007f3de11-ge2teobzgi4dgojy.snr.whatsapp.net
 0.0.0.0 w05ca92991-ge3damrqgeydenju.snr.whatsapp.net
 0.0.0.0 w1527b17e1-gm3dcnrzguzdimru.snr.whatsapp.net
+0.0.0.0 w18e0b9551-gmydmmrzhezdgna.snr.whatsapp.net
 0.0.0.0 w1d49a1fd1-gizdgnzygyytcmb.snr.whatsapp.net
 0.0.0.0 w2ca4d0631-ge3dqmbug4ytsnjw.snr.whatsapp.net
 0.0.0.0 w2db198aa1-gezdkmzsguzdqmjs.snr.whatsapp.net
@@ -9841,6 +9848,7 @@
 0.0.0.0 wb05f755b1-gm3tanrxgi4dcnzw.snr.whatsapp.net
 0.0.0.0 wb996a8d11-ge2dmnrxgi4tsmzv.snr.whatsapp.net
 0.0.0.0 wd5e721751-gmytomryhe2tambv.snr.whatsapp.net
+0.0.0.0 we4faa6581-gm3dambsga4denby.snr.whatsapp.net
 0.0.0.0 wearable-ai-realtime.facebook.com
 0.0.0.0 web.beta.facebook.com
 0.0.0.0 webdav.facebook.com

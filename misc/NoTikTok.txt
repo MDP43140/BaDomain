@@ -493,6 +493,8 @@ api5-normal-c-hl.snssdk.com
 api5-normal-c-lf.snssdk.com
 api5-normal-c-lq.snssdk.com
 api5-normal-c.snssdk.com
+api73-core-alisg.tiktokv.com
+api73-normal-alisg.tiktokv.com
 api77-core-c-alisg.tiktokv.com
 api77-normal-c-alisg.tiktokv.com
 api77-normal-c-useast1a.tiktokv.com
@@ -976,6 +978,7 @@ dig.bdurl.net.bytedns.net
 dig.byteoversea.com
 dig.tiktokv.com
 direct.musical.ly
+direct.quic-webcast-core-proxy-useast4.useast4.byteglb.com
 dispatch.byteoversea.com
 distribution.snssdk.com
 d.l.bytedns.net
@@ -2677,6 +2680,7 @@ orange.isnssdk.com
 order.snssdk.com
 order.snssdk.com.w.kunluncan.com
 origin.maliva-normal-lb.byteoversea.net
+origin.tiktok-ecom-lb-alisg-v3.sg-central.byteglb.com
 os.bytedance.net
 o-sg.ibytedtos.com
 os-mon.snssdk.com
@@ -4049,6 +4053,7 @@ search22-normal-c-alisg.tiktokv.com
 search22-normal-c-useast1a.tiktokv.com
 search22-normal-idtest-useast1a.tiktokv.com
 search22-normal-useast2a.tiktokv.com
+search73-normal-alisg.tiktokv.com
 search.amemv.com
 search.amemv.com.w.cdngslb.com
 search-bj.snssdk.com
@@ -5480,6 +5485,7 @@ webcast3-ws-c-lf.amemv.com
 webcast3-ws-c-lf.amemv.com.w.cdngslb.com
 webcast3-ws-c-lq.amemv.com
 webcast3-ws-c-lq.amemv.com.w.cdngslb.com
+webcast73-normal-alisg.tiktokv.com
 webcast.amemv.com
 webcast.amemv.com.w.kunluncan.com
 webcast.amemv.com.xi.zwtianshangm.com

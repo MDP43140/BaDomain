@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 11.05.2026
+# Version: 21.05.2026
 # Update: 1 day
 #
 
@@ -192,6 +192,7 @@
 0.0.0.0 3frow3-launches.appsflyersdk.com
 0.0.0.0 3frow3.launches.appsflyersdk.com
 0.0.0.0 3frow3-register.appsflyersdk.com
+0.0.0.0 3leap.com
 0.0.0.0 3lift.com
 0.0.0.0 3.ygti905ffth6.com
 0.0.0.0 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
@@ -390,6 +391,8 @@
 0.0.0.0 a1-sgp.easemob.com
 0.0.0.0 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 0.0.0.0 a25a9dd5-dnsotls-ds.metric.gstatic.com
+0.0.0.0 a2amfc-cdn-settings.appsflyersdk.com
+0.0.0.0 a2amfc-inapps.appsflyersdk.com
 0.0.0.0 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
 0.0.0.0 a2tnxf-cdn-settings.appsflyersdk.com
 0.0.0.0 a2tnxf.cdn-settings.appsflyersdk.com
@@ -402,6 +405,7 @@
 0.0.0.0 a2tnxf-launches.appsflyersdk.com
 0.0.0.0 a2tnxf.launches.appsflyersdk.com
 0.0.0.0 a2tnxf-register.appsflyersdk.com
+0.0.0.0 a35311da-dnsotls-ds.metric.gstatic.com
 0.0.0.0 a388f2a7d8.0d76bd13e8.com
 0.0.0.0 a3f76b6ab2ad3a9c94588dea7f599848.safeframe.googlesyndication.com
 0.0.0.0 a4721.casalemedia.com
@@ -850,7 +854,6 @@
 0.0.0.0 api.coin.baca.co.id
 0.0.0.0 api-config.babybus.com
 0.0.0.0 api.conscent.in
-0.0.0.0 api.countapi.xyzmobile-download-f-app.com
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 api.customers.guardsquare.com
 0.0.0.0 api.data.appsinnova.com
@@ -1151,6 +1154,7 @@
 0.0.0.0 app.link
 0.0.0.0 applink.jp
 0.0.0.0 applinzi.com
+0.0.0.0 applog.la4lbg.uae2grp.ucweb.com
 0.0.0.0 app-log-lab.immomo.com
 0.0.0.0 app-manage-api.shalltry.com
 0.0.0.0 app-manage-api-static.shalltry.com
@@ -1445,6 +1449,7 @@
 0.0.0.0 bdimg.share.baidu.com
 0.0.0.0 bdstatic.com
 0.0.0.0 bdtjrcv.com
+0.0.0.0 be1dc0e2-dnsotls-ds.metric.gstatic.com
 0.0.0.0 beacon-fra2.rubiconproject.com
 0.0.0.0 beacon.lynx.cognitivlabs.com
 0.0.0.0 beacons2.gvt2.com
@@ -1587,6 +1592,8 @@
 0.0.0.0 b-ring.msedge.net
 0.0.0.0 britepool.com
 0.0.0.0 broadlyjukeboxunrevised.com
+0.0.0.0 broccoli-sgp.ucweb.com
+0.0.0.0 broccoli-static.ucweb.com
 0.0.0.0 broker.jagat.io
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 brucevotewithin.com
@@ -2636,6 +2643,7 @@
 0.0.0.0 e3log3.fineboost.com
 0.0.0.0 e43b02f7-dnsotls-ds.metric.gstatic.com
 0.0.0.0 e4ddc581a4.613d89bc71.com
+0.0.0.0 e53cf92e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 e5log1.fineboost.com
 0.0.0.0 e673.dsce9.akamaiedge.net
 0.0.0.0 e6987.dsce9.akamaiedge.net
@@ -4914,6 +4922,7 @@
 0.0.0.0 notif.quizizz.com
 0.0.0.0 notify.adskeeper.com
 0.0.0.0 notin.tokyo
+0.0.0.0 notix.co
 0.0.0.0 notix.io
 0.0.0.0 notix-tag.com
 0.0.0.0 nov2700.funsoups.com
@@ -5113,6 +5122,7 @@
 0.0.0.0 o4508376470126592.ingest.sentry.io
 0.0.0.0 o4508376470126592.ingest.us.sentry.io
 0.0.0.0 o4509484018958336.ingest.us.sentry.io
+0.0.0.0 o4510747035893760.ingest.us.sentry.io
 0.0.0.0 o468184.ingest.de.sentry.io
 0.0.0.0 o468184.ingest.sentry.io
 0.0.0.0 o468184.ingest.us.sentry.io
@@ -8452,6 +8462,7 @@
 0.0.0.0 xwwx67-launches.appsflyersdk.com
 0.0.0.0 xwwx67.launches.appsflyersdk.com
 0.0.0.0 xwwx67-register.appsflyersdk.com
+0.0.0.0 xybqg.com
 0.0.0.0 xyz.svr-algorix.com
 0.0.0.0 xzwnrj-cdn-settings.appsflyersdk.com
 0.0.0.0 xzwnrj.cdn-settings.appsflyersdk.com

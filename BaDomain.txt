@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 11.05.2026
+# Version: 21.05.2026
 # Update: 1 day
 #
 
@@ -192,6 +192,7 @@
 3frow3-launches.appsflyersdk.com
 3frow3.launches.appsflyersdk.com
 3frow3-register.appsflyersdk.com
+3leap.com
 3lift.com
 3.ygti905ffth6.com
 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
@@ -390,6 +391,8 @@ a1a4c40e556f413ef.awsglobalaccelerator.com
 a1-sgp.easemob.com
 a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 a25a9dd5-dnsotls-ds.metric.gstatic.com
+a2amfc-cdn-settings.appsflyersdk.com
+a2amfc-inapps.appsflyersdk.com
 a2db7bd319f99489885f91832d67808d-1437035704.us-east-1.elb.amazonaws.com
 a2tnxf-cdn-settings.appsflyersdk.com
 a2tnxf.cdn-settings.appsflyersdk.com
@@ -402,6 +405,7 @@ a2tnxf.inapps.appsflyersdk.com
 a2tnxf-launches.appsflyersdk.com
 a2tnxf.launches.appsflyersdk.com
 a2tnxf-register.appsflyersdk.com
+a35311da-dnsotls-ds.metric.gstatic.com
 a388f2a7d8.0d76bd13e8.com
 a3f76b6ab2ad3a9c94588dea7f599848.safeframe.googlesyndication.com
 a4721.casalemedia.com
@@ -850,7 +854,6 @@ api.clucoin.com
 api.coin.baca.co.id
 api-config.babybus.com
 api.conscent.in
-api.countapi.xyzmobile-download-f-app.com
 api.cupid.ptqy.gitv.tv
 api.customers.guardsquare.com
 api.data.appsinnova.com
@@ -1151,6 +1154,7 @@ apple-finance.query.yahoo.com
 app.link
 applink.jp
 applinzi.com
+applog.la4lbg.uae2grp.ucweb.com
 app-log-lab.immomo.com
 app-manage-api.shalltry.com
 app-manage-api-static.shalltry.com
@@ -1445,6 +1449,7 @@ bdimg.com
 bdimg.share.baidu.com
 bdstatic.com
 bdtjrcv.com
+be1dc0e2-dnsotls-ds.metric.gstatic.com
 beacon-fra2.rubiconproject.com
 beacon.lynx.cognitivlabs.com
 beacons2.gvt2.com
@@ -1587,6 +1592,8 @@ brdsg.com
 b-ring.msedge.net
 britepool.com
 broadlyjukeboxunrevised.com
+broccoli-sgp.ucweb.com
+broccoli-static.ucweb.com
 broker.jagat.io
 browser.sentry-cdn.com
 brucevotewithin.com
@@ -2636,6 +2643,7 @@ e3log2.fineboost.com
 e3log3.fineboost.com
 e43b02f7-dnsotls-ds.metric.gstatic.com
 e4ddc581a4.613d89bc71.com
+e53cf92e-dnsotls-ds.metric.gstatic.com
 e5log1.fineboost.com
 e673.dsce9.akamaiedge.net
 e6987.dsce9.akamaiedge.net
@@ -3716,6 +3724,7 @@ img.strpst.com
 img-sys.com
 img.tysondata.com
 img.ucweb.com
+img.ucweb.com.queniuaa.com
 img-video-tracking.ruangguru.com
 img.wattpad.com
 img.ws.mms.shopee.co.id
@@ -4913,6 +4922,7 @@ notifications.viafoura.co
 notif.quizizz.com
 notify.adskeeper.com
 notin.tokyo
+notix.co
 notix.io
 notix-tag.com
 nov2700.funsoups.com
@@ -5112,6 +5122,7 @@ o4508376470126592.ingest.de.sentry.io
 o4508376470126592.ingest.sentry.io
 o4508376470126592.ingest.us.sentry.io
 o4509484018958336.ingest.us.sentry.io
+o4510747035893760.ingest.us.sentry.io
 o468184.ingest.de.sentry.io
 o468184.ingest.sentry.io
 o468184.ingest.us.sentry.io
@@ -5241,6 +5252,7 @@ openfpcdn.io
 openlog.tap.io
 openrtb-banner.com
 openwifi.ucweb.com
+openwifi.ucweb.com.queniuak.com
 openx.net
 operamini-behavior-sub.osp.opera.software
 opera.software
@@ -8450,6 +8462,7 @@ xwwx67.inapps.appsflyersdk.com
 xwwx67-launches.appsflyersdk.com
 xwwx67.launches.appsflyersdk.com
 xwwx67-register.appsflyersdk.com
+xybqg.com
 xyz.svr-algorix.com
 xzwnrj-cdn-settings.appsflyersdk.com
 xzwnrj.cdn-settings.appsflyersdk.com

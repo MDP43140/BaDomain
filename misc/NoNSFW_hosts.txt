@@ -18,6 +18,7 @@
 0.0.0.0 amsterdam.xhamster.com
 0.0.0.0 api.saasexch.com
 0.0.0.0 assets.humix.com
+0.0.0.0 assets-o7.xnxx-cdn.com
 0.0.0.0 assets.porndig.com
 0.0.0.0 assets.sb-cd.com
 0.0.0.0 assets.sexvr.com

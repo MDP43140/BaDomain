@@ -148,6 +148,7 @@ apple.com
 apple.com.cn
 apple.com.v.aaplimg.com
 appleid.cdn-apple.com
+appleid-cdn-apple-com.v.aaplimg.com
 apple-mapkit.com
 apple.news
 apple.tt.omtrdc.net
@@ -650,6 +651,7 @@ sync.itunes.apple.com
 time.apple.com
 time.asia.apple.com
 time.euro.apple.com
+time.g.aaplimg.com
 time-ios.apple.com
 time-osx.g.aaplimg.com
 token.safebrowsing.apple

@@ -17,6 +17,7 @@ HOSTSFILE_TYPES=(
 	"misc/NoGambling"
 	"misc/NoFreeFire"
 	"misc/NoMalware"
+	"misc/NoMicrosoft"
 	"misc/NoMLBB"
 	"misc/NoNSFW"
 	"misc/NoOppoHT"

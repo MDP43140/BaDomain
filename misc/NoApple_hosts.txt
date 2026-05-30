@@ -148,6 +148,7 @@
 0.0.0.0 apple.com.cn
 0.0.0.0 apple.com.v.aaplimg.com
 0.0.0.0 appleid.cdn-apple.com
+0.0.0.0 appleid-cdn-apple-com.v.aaplimg.com
 0.0.0.0 apple-mapkit.com
 0.0.0.0 apple.news
 0.0.0.0 apple.tt.omtrdc.net
@@ -650,6 +651,7 @@
 0.0.0.0 time.apple.com
 0.0.0.0 time.asia.apple.com
 0.0.0.0 time.euro.apple.com
+0.0.0.0 time.g.aaplimg.com
 0.0.0.0 time-ios.apple.com
 0.0.0.0 time-osx.g.aaplimg.com
 0.0.0.0 token.safebrowsing.apple
