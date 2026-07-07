@@ -287,6 +287,7 @@
 0.0.0.0 w9.vty70.net
 0.0.0.0 wigobet.com
 0.0.0.0 wigobetjackpot.com
+0.0.0.0 winzospin.shop
 0.0.0.0 www10.afakentang.com
 0.0.0.0 www10.ahaunique.com
 0.0.0.0 www10.brovegastop.com

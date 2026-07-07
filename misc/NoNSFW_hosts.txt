@@ -43,6 +43,9 @@
 0.0.0.0 bigosext1.com
 0.0.0.0 bigo.sg
 0.0.0.0 bigo.tv
+0.0.0.0 biolink.0i0.me
+0.0.0.0 biolink.idola.cc
+0.0.0.0 biolink.ojolstream.org
 0.0.0.0 blowjobs.pro
 0.0.0.0 bocil.doodx.ink
 0.0.0.0 bokebind.cyou
@@ -116,12 +119,15 @@
 0.0.0.0 dirtytinder1s.com
 0.0.0.0 do189na.video-delivery.net
 0.0.0.0 do365ki.video-delivery.net
+0.0.0.0 doimg.net
 0.0.0.0 doodb.pro
+0.0.0.0 dood.igostream.cc
 0.0.0.0 doodoo.love
 0.0.0.0 dood.pm
 0.0.0.0 dood.re
 0.0.0.0 dood.so
 0.0.0.0 doodstream.top
+0.0.0.0 dood.to
 0.0.0.0 dood.watch
 0.0.0.0 dood.wf
 0.0.0.0 dood.ws
@@ -169,6 +175,9 @@
 0.0.0.0 giftesx.bigolive.tv
 0.0.0.0 giftesx.bigo.sg
 0.0.0.0 girlfriend.host
+0.0.0.0 go.igostream.cc
+0.0.0.0 go.linkviral.cc
+0.0.0.0 go.streamix.cc
 0.0.0.0 go.theyarehuge.net
 0.0.0.0 hd21.net
 0.0.0.0 hdpsn21.com
@@ -212,6 +221,8 @@
 0.0.0.0 jto.to
 0.0.0.0 lbs.live.bigo.sg
 0.0.0.0 linkbacol.pro
+0.0.0.0 link.hozz.me
+0.0.0.0 link.idola.cc
 0.0.0.0 live69.linkpc.net
 0.0.0.0 livecrot.fun
 0.0.0.0 livecrot.mom
@@ -247,6 +258,8 @@
 0.0.0.0 nontonasyik.xyz
 0.0.0.0 nude.snapgirls.today
 0.0.0.0 odw7bf.dood.video
+0.0.0.0 ojolstream.org
+0.0.0.0 panel.linkviral.cc
 0.0.0.0 pascol.rest
 0.0.0.0 pascol.website
 0.0.0.0 pecintabokep.lol
@@ -254,10 +267,12 @@
 0.0.0.0 pics.viptube.com
 0.0.0.0 pie2pie2896.spankbang.com
 0.0.0.0 player.bokep234.com
+0.0.0.0 playmogo.com
 0.0.0.0 pornhat.com
 0.0.0.0 pornhub.com
 0.0.0.0 pornozot.com
 0.0.0.0 pornxp.com
+0.0.0.0 prankojolviral.igostream.cc
 0.0.0.0 preview.jizzberry.com
 0.0.0.0 preview.xgroovy.com
 0.0.0.0 private24.top
@@ -303,6 +318,7 @@
 0.0.0.0 static--cdn77-xnxx--cdn-com.cdn.ampproject.org
 0.0.0.0 static-cdn77.xvideos-cdn.com
 0.0.0.0 static.doodcdn.co
+0.0.0.0 static.doodcdn.io
 0.0.0.0 static-fed.bigolive.tv
 0.0.0.0 static.jizzberry.com
 0.0.0.0 static-lvlt.xhcdn.com
@@ -341,6 +357,7 @@
 0.0.0.0 tubesex.uno
 0.0.0.0 tv5.simontokx.online
 0.0.0.0 txxx.com
+0.0.0.0 user-api.vnetfly.com
 0.0.0.0 value.vrbangers.com
 0.0.0.0 vcdn.theyarehuge.com
 0.0.0.0 vcdn.xozilla.xxx
@@ -371,6 +388,7 @@
 0.0.0.0 videotxxx.com
 0.0.0.0 video.xv-cdn.net
 0.0.0.0 vidioviral.xyz
+0.0.0.0 vidply.com
 0.0.0.0 vid-s36-n10-fr-cdn.eporner.com
 0.0.0.0 vjav.com
 0.0.0.0 vp1.vjav.com

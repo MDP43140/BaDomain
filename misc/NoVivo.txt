@@ -6,6 +6,7 @@
 ai-painting-image.vivo.com.cn
 artpp-vivofs.vivoglobal.com
 asai-file-wlanapkcdn2.vivoglobal.com
+asia-abeacdataonrt-stsdk.vivoglobal.com
 asia-abeacdataort-stsdk.vivoglobal.com
 asia-adlog.vivoglobal.com
 asia-album-api.vivoglobal.com

@@ -1,11 +1,12 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 21.05.2026
+# Version: 07.07.2026
 # Update: 1 day
 #
 
 0.0.0.0 022ac7be-dnsotls-ds.metric.gstatic.com
+0.0.0.0 05530078-dnsotls-ds.metric.gstatic.com
 0.0.0.0 05b698e1e24064861d8e9abc365ca6a4.safeframe.googlesyndication.com
 0.0.0.0 05efspdbawfc.puscomosca.com
 0.0.0.0 07c225f3.online
@@ -41,6 +42,7 @@
 0.0.0.0 123.sogou.com
 0.0.0.0 126.net
 0.0.0.0 12.ygti905ffth6.com
+0.0.0.0 13399430-dnsotls-ds.metric.gstatic.com
 0.0.0.0 133fitness.com
 0.0.0.0 138.com
 0.0.0.0 13e109f68a.03bdb617ed.com
@@ -95,6 +97,7 @@
 0.0.0.0 21cn.com
 0.0.0.0 21.ygti905ffth6.com
 0.0.0.0 22.ygti905ffth6.com
+0.0.0.0 23284b88-dnsotls-ds.metric.gstatic.com
 0.0.0.0 23.ygti905ffth6.com
 0.0.0.0 24.ygti905ffth6.com
 0.0.0.0 2501may2024.com
@@ -162,11 +165,17 @@
 0.0.0.0 36c3476e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 36.ygti905ffth6.com
 0.0.0.0 37.ygti905ffth6.com
+0.0.0.0 380d7927-dnsotls-ds.metric.gstatic.com
+0.0.0.0 38902342-dnsotls-ds.metric.gstatic.com
 0.0.0.0 38.ygti905ffth6.com
 0.0.0.0 39d0825d09f05.cdn.sohucs.com
 0.0.0.0 39.ygti905ffth6.com
+0.0.0.0 3a159de6-dnsotls-ds.metric.gstatic.com
 0.0.0.0 3a369bbdf1cdc7ae1975080aaa11d0f2.safeframe.googlesyndication.com
+0.0.0.0 3a441c83-dnsotls-ds.metric.gstatic.com
+0.0.0.0 3aea0f81-dnsotls-ds.metric.gstatic.com
 0.0.0.0 3b2142a5-dnsotls-ds.metric.gstatic.com
+0.0.0.0 3b4bb445-dnsotls-ds.metric.gstatic.com
 0.0.0.0 3bjjlx-cdn-settings.appsflyersdk.com
 0.0.0.0 3bjjlx.cdn-settings.appsflyersdk.com
 0.0.0.0 3bjjlx-conversions.appsflyersdk.com
@@ -209,15 +218,18 @@
 0.0.0.0 44.ygti905ffth6.com
 0.0.0.0 458games.com
 0.0.0.0 45.ygti905ffth6.com
+0.0.0.0 46e7408b-dnsotls-ds.metric.gstatic.com
 0.0.0.0 46.ygti905ffth6.com
 0.0.0.0 47bf67cf-dnsotls-ds.metric.gstatic.com
 0.0.0.0 47.ygti905ffth6.com
 0.0.0.0 48.ygti905ffth6.com
+0.0.0.0 49deb5fb-dnsotls-ds.metric.gstatic.com
 0.0.0.0 49.ygti905ffth6.com
 0.0.0.0 4ae9.playfabapi.com
 0.0.0.0 4bd5fc97-dnsotls-ds.metric.gstatic.com
 0.0.0.0 4ced22ca066d4ca4a7726c9afff8c039.us-east-1.aws.found.io
 0.0.0.0 4cinsights.com
+0.0.0.0 4e924021-dnsotls-ds.metric.gstatic.com
 0.0.0.0 4gnetfree.top
 0.0.0.0 4g-net.top
 0.0.0.0 4gnet.top
@@ -252,6 +264,7 @@
 0.0.0.0 506c25ce-dnsotls-ds.metric.gstatic.com
 0.0.0.0 507b28fb-2ef1-4c34-8bda-ba32030bb199.edge.permutive.app
 0.0.0.0 50af9072-dnsotls-ds.metric.gstatic.com
+0.0.0.0 50cbca97-dnsotls-ds.metric.gstatic.com
 0.0.0.0 50.ygti905ffth6.com
 0.0.0.0 5140.deeginews.com
 0.0.0.0 51.appmeasurements.com
@@ -291,6 +304,7 @@
 0.0.0.0 59.ygti905ffth6.com
 0.0.0.0 5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 0.0.0.0 5b0988e595225.cdn.sohucs.com
+0.0.0.0 5bac155e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 5c7ffba0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 5e114dde-dnsotls-ds.metric.gstatic.com
 0.0.0.0 5e6fdc2f-dnsotls-ds.metric.gstatic.com
@@ -311,8 +325,12 @@
 0.0.0.0 64a9.playfabapi.com
 0.0.0.0 65c6.playfabapi.com
 0.0.0.0 66a42413-dnsotls-ds.metric.gstatic.com
+0.0.0.0 6ac2a928-dnsotls-ds.metric.gstatic.com
 0.0.0.0 6d06a247-dnsotls-ds.metric.gstatic.com
 0.0.0.0 6e240ba2-dnsotls-ds.metric.gstatic.com
+0.0.0.0 6ipwiy.conversions.appsflyersdk.com
+0.0.0.0 6ipwiy.dlsdk.appsflyersdk.com
+0.0.0.0 6ipwiy.gcdsdk.appsflyersdk.com
 0.0.0.0 6mbr.com
 0.0.0.0 6mqlzt-cdn-settings.appsflyersdk.com
 0.0.0.0 6mqlzt.cdn-settings.appsflyersdk.com
@@ -337,11 +355,13 @@
 0.0.0.0 796294e0-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7a9e4ef2-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7b2ca39378.com
+0.0.0.0 7bbf6562-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7bc9a046-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7cefc66074df4dad.ingest.threatcast.guardsquare.com
 0.0.0.0 7CwQ6q-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7d8b004a-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7e02503a-dnsotls-ds.metric.gstatic.com
+0.0.0.0 7ecc3815-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7fe11165-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7L2yL6-dnsotls-ds.metric.gstatic.com
 0.0.0.0 7.ygti905ffth6.com
@@ -353,6 +373,7 @@
 0.0.0.0 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 0.0.0.0 83ec6eb409.35b889100e.com
 0.0.0.0 845257-android-ds.metric.gstatic.com
+0.0.0.0 868e5f8a-dnsotls-ds.metric.gstatic.com
 0.0.0.0 888add7c-dnsotls-ds.metric.gstatic.com
 0.0.0.0 892c3877-dnsotls-ds.metric.gstatic.com
 0.0.0.0 8a7c212a-dnsotls-ds.metric.gstatic.com
@@ -362,6 +383,7 @@
 0.0.0.0 8da7c772-dnsotls-ds.metric.gstatic.com
 0.0.0.0 8db4fde90b.com
 0.0.0.0 8DmO84-dnsotls-ds.metric.gstatic.com
+0.0.0.0 8ed343a6-dnsotls-ds.metric.gstatic.com
 0.0.0.0 8.ygti905ffth6.com
 0.0.0.0 9199.us
 0.0.0.0 91.com
@@ -386,6 +408,7 @@
 0.0.0.0 a02.uadexchange.com
 0.0.0.0 a03cb342-dnsotls-ds.metric.gstatic.com
 0.0.0.0 a03.uadexchange.com
+0.0.0.0 a160e4c7-dnsotls-ds.metric.gstatic.com
 0.0.0.0 a16488430484.cdn.optimizely.com
 0.0.0.0 a1a4c40e556f413ef.awsglobalaccelerator.com
 0.0.0.0 a1-sgp.easemob.com
@@ -561,6 +584,7 @@
 0.0.0.0 ads.telkomsel.com
 0.0.0.0 adstub.net
 0.0.0.0 adsup.togothermany.com
+0.0.0.0 adsventura.like.co.id
 0.0.0.0 ads.vidoomy.com
 0.0.0.0 ads-website.ytsservice.com
 0.0.0.0 adswizz.com
@@ -868,6 +892,7 @@
 0.0.0.0 api-differences-android.easybrain.com
 0.0.0.0 api.dkyweipsds.com
 0.0.0.0 api.dollphoin.site
+0.0.0.0 api.dramaverses.com
 0.0.0.0 api.eagllwin.com
 0.0.0.0 api-ecc.facemojikeyboard.com
 0.0.0.0 api.edgeoffer.microsoft.com
@@ -1382,8 +1407,10 @@
 0.0.0.0 b2c-contenthub.com
 0.0.0.0 b2.mail.ru
 0.0.0.0 b3mxnuvcer.com
+0.0.0.0 b4569dd1-dnsotls-ds.metric.gstatic.com
 0.0.0.0 b4c340b5c1.8db4fde90b.com
 0.0.0.0 b4e06e71-dnsotls-ds.metric.gstatic.com
+0.0.0.0 b5b0eec3-dnsotls-ds.metric.gstatic.com
 0.0.0.0 b5vbk6-cdn-settings.appsflyersdk.com
 0.0.0.0 b5vbk6.cdn-settings.appsflyersdk.com
 0.0.0.0 b5vbk6-conversions.appsflyersdk.com
@@ -1403,6 +1430,7 @@
 0.0.0.0 b80b415ff31d2255cdd5539f48cc23ae.safeframe.googlesyndication.com
 0.0.0.0 b85K^@f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 b973f95f-dnsotls-ds.metric.gstatic.com
+0.0.0.0 ba3bd59b-dnsotls-ds.metric.gstatic.com
 0.0.0.0 bab8c08d-dnsotls-ds.metric.gstatic.com
 0.0.0.0 babf3423-dnsotls-ds.metric.gstatic.com
 0.0.0.0 babyzee.uno
@@ -1646,9 +1674,12 @@
 0.0.0.0 c4urql-launches.appsflyersdk.com
 0.0.0.0 c4urql.launches.appsflyersdk.com
 0.0.0.0 c4urql-register.appsflyersdk.com
+0.0.0.0 c51ebdc1-dnsotls-ds.metric.gstatic.com
 0.0.0.0 c6e2a016-dnsotls-ds.metric.gstatic.com
 0.0.0.0 c.6sc.co
+0.0.0.0 c81d3855-dnsotls-ds.metric.gstatic.com
 0.0.0.0 c8d7a6b7-dnsotls-ds.metric.gstatic.com
+0.0.0.0 ca7018e6-dnsotls-ds.metric.gstatic.com
 0.0.0.0 cabinet2-sea.taximaxim.com
 0.0.0.0 cabinet2.taximaxim.ru
 0.0.0.0 cabinet2.taxsee.ru
@@ -1788,6 +1819,7 @@
 0.0.0.0 cdn.agilitycms.com
 0.0.0.0 cdn.aihelp.net
 0.0.0.0 cdn-apac.onetrust.com
+0.0.0.0 cdnapi.wetvinfo.com
 0.0.0.0 cdn-app.pathfactory.com
 0.0.0.0 cdn.arcade.software
 0.0.0.0 cdn-asset.optimonk.com
@@ -2089,7 +2121,6 @@
 0.0.0.0 cnam4c.launches.appsflyersdk.com
 0.0.0.0 cnam4c-register.appsflyersdk.com
 0.0.0.0 cname-china.vercel-dns.com
-0.0.0.0 cname.vercel-dns.com
 0.0.0.0 c.navattic.com
 0.0.0.0 cn.e.pic.ak.mangatoon.akamaized.net
 0.0.0.0 cn-e-pic-aliyun.mangatoon.mobi
@@ -2231,6 +2262,7 @@
 0.0.0.0 corp.logly.co.jp
 0.0.0.0 corp.sogou.com
 0.0.0.0 corp.supercent.io
+0.0.0.0 cosapi.wetvinfo.com
 0.0.0.0 cos.ap-shanghai.myqcloud.com
 0.0.0.0 counter.adscontrol.xyz
 0.0.0.0 counter.personyze.com
@@ -2363,6 +2395,7 @@
 0.0.0.0 d3gaa7hzm4yu8j.cloudfront.net
 0.0.0.0 d3hegev0j37foa.cloudfront.net
 0.0.0.0 d3hjue7omxs01q.cloudfront.net
+0.0.0.0 d444db16-dnsotls-ds.metric.gstatic.com
 0.0.0.0 d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
 0.0.0.0 d6b3852e-dnsotls-ds.metric.gstatic.com
 0.0.0.0 d6c30-6de1a.pushwoosh.com
@@ -2526,6 +2559,7 @@
 0.0.0.0 dns-tunnel-check.googlezip.net
 0.0.0.0 dob5.com
 0.0.0.0 dobestapposs.uqualities.com
+0.0.0.0 docconvert.eztechglobal.com
 0.0.0.0 docdoc.com
 0.0.0.0 docs.3dsintegrator.com
 0.0.0.0 docs.castle.io
@@ -2638,6 +2672,7 @@
 0.0.0.0 e12919.dscd.akamaiedge.net
 0.0.0.0 e1da6636-dnsotls-ds.metric.gstatic.com
 0.0.0.0 e295d42c-dnsotls-ds.metric.gstatic.com
+0.0.0.0 e2ab4dab-dnsotls-ds.metric.gstatic.com
 0.0.0.0 e3log1.fineboost.com
 0.0.0.0 e3log2.fineboost.com
 0.0.0.0 e3log3.fineboost.com
@@ -2726,6 +2761,7 @@
 0.0.0.0 eevegh-register.appsflyersdk.com
 0.0.0.0 eezegrip.net
 0.0.0.0 ef1093cl.video-delivery.net
+0.0.0.0 ef4a3a5f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 ef574a85-dnsotls-ds.metric.gstatic.com
 0.0.0.0 effect.resso.app
 0.0.0.0 egas.easybrain.com
@@ -2752,6 +2788,7 @@
 0.0.0.0 embed.tawk.to
 0.0.0.0 embedwish.com
 0.0.0.0 embedwistia-a.akamaihd.net
+0.0.0.0 emiq.wetvinfo.com
 0.0.0.0 emotiveapp.co
 0.0.0.0 emotivecdn.io
 0.0.0.0 emotive.io
@@ -2874,6 +2911,7 @@
 0.0.0.0 ezoiccdn.com
 0.0.0.0 ezoic.net
 0.0.0.0 ezojs.com
+0.0.0.0 eztechglobal.com
 0.0.0.0 f001.backblazeb2.com
 0.0.0.0 f1nna8-cdn-settings.appsflyersdk.com
 0.0.0.0 f1nna8.cdn-settings.appsflyersdk.com
@@ -2957,6 +2995,7 @@
 0.0.0.0 fcu5wl-launches.appsflyersdk.com
 0.0.0.0 fcu5wl.launches.appsflyersdk.com
 0.0.0.0 fcu5wl-register.appsflyersdk.com
+0.0.0.0 fdafdf3f-dnsotls-ds.metric.gstatic.com
 0.0.0.0 feabtest.prod.tvlk-data.com
 0.0.0.0 feacdn.ucshare.app
 0.0.0.0 feature-api.pa1mstore.com
@@ -3128,6 +3167,7 @@
 0.0.0.0 funny.pho.to
 0.0.0.0 funpavo.com
 0.0.0.0 fun.touchpal.com
+0.0.0.0 futuradsventura.obs.ap-southeast-4.myhuaweicloud.com
 0.0.0.0 futurecdn.net
 0.0.0.0 futureinternet.vip
 0.0.0.0 futureplc.com
@@ -3181,6 +3221,7 @@
 0.0.0.0 garusoft.com
 0.0.0.0 gass.co.id
 0.0.0.0 gass.innerfit.id
+0.0.0.0 gate-prod.cloud-control.sgameglobal.com
 0.0.0.0 gate.upclick.com
 0.0.0.0 gateway-b.offerwall.unity3d.com
 0.0.0.0 gateway.ea.com
@@ -3532,7 +3573,13 @@
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 hwcdn.net
 0.0.0.0 hw-crs-report.y5en.com
+0.0.0.0 hwlauncher-apps-o.api.leiniao.com
+0.0.0.0 hwlauncher-o.api.leiniao.com
+0.0.0.0 hwmsg-as2-asia-o.api.leiniao.com
+0.0.0.0 hwmsg-as3-asia-o.api.leiniao.com
+0.0.0.0 hwmsg-as8-asia-o.api.leiniao.com
 0.0.0.0 hws-prod.carx-online.com
+0.0.0.0 hwuc-conf-o.api.leiniao.com
 0.0.0.0 hybird.mtgglobals.com
 0.0.0.0 hybrid.miniapp.taobao.com
 0.0.0.0 hydrahydra.kim
@@ -3638,6 +3685,7 @@
 0.0.0.0 igofun.mobi
 0.0.0.0 igsgame.com.tw
 0.0.0.0 ig-us-sdkapi.igamecj.com
+0.0.0.0 ih1.redbubble.net
 0.0.0.0 ihago.net
 0.0.0.0 ijoompaich.com
 0.0.0.0 i.kissmetrics.com
@@ -4106,6 +4154,7 @@
 0.0.0.0 kix-ulog.kwaipros.com
 0.0.0.0 kj9atb.hai8j1.com
 0.0.0.0 klaviyo.com
+0.0.0.0 klikmania.net
 0.0.0.0 klimg.com
 0.0.0.0 klink.kwai-pro.com
 0.0.0.0 klink-me.kwai-pro.com
@@ -4362,6 +4411,7 @@
 0.0.0.0 logs.papertrailapp.com
 0.0.0.0 logs.share404.com
 0.0.0.0 logssug-sf.ucweb.com
+0.0.0.0 log.tailscale.com
 0.0.0.0 log.tmtreader.com
 0.0.0.0 log.tokopedia.net
 0.0.0.0 log.tpns.hk.tencent.com
@@ -4679,6 +4729,7 @@
 0.0.0.0 mqtt-cluster04.transsion-os.com
 0.0.0.0 mqtt-cluster05.transsion-os.com
 0.0.0.0 mqtt-cluster06.transsion-os.com
+0.0.0.0 mqtt-cluster08.transsion-os.com
 0.0.0.0 mqtt-cluster09.transsion-os.com
 0.0.0.0 mqtt.transsion-os.com
 0.0.0.0 ms4.applovin.com
@@ -5095,6 +5146,7 @@
 0.0.0.0 o393859.ingest.de.sentry.io
 0.0.0.0 o393859.ingest.sentry.io
 0.0.0.0 o393859.ingest.us.sentry.io
+0.0.0.0 o404384.ingest.us.sentry.io
 0.0.0.0 o425163.ingest.de.sentry.io
 0.0.0.0 o425163.ingest.sentry.io
 0.0.0.0 o425163.ingest.us.sentry.io
@@ -5232,6 +5284,11 @@
 0.0.0.0 onetrust.com
 0.0.0.0 onezapp.com
 0.0.0.0 onfastspring.com
+0.0.0.0 on-hwapps-o.api.leiniao.com
+0.0.0.0 on-hweudc-o.api.leiniao.com
+0.0.0.0 on-hwmsg-ds-o.api.leiniao.com
+0.0.0.0 on-hwuc-conf-o.api.leiniao.com
+0.0.0.0 on-hwupgrade-o.api.leiniao.com
 0.0.0.0 onlinecash1.com
 0.0.0.0 online.fastman92.com
 0.0.0.0 online.lenzmx.com
@@ -5521,6 +5578,7 @@
 0.0.0.0 piwik.pro
 0.0.0.0 pixelfed-prod.nyc3.digitaloceanspaces.com
 0.0.0.0 pixel.jungroup.com
+0.0.0.0 pixelminer.click
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 PiXO7P-dnsotls-ds.metric.gstatic.com
@@ -5562,6 +5620,7 @@
 0.0.0.0 playable.mintegral.com
 0.0.0.0 playable-stats.mindworks-creative.com
 0.0.0.0 play-aka.vod.shopee.com
+0.0.0.0 play-aws.wetvinfo.com
 0.0.0.0 play-bs-src.livestream.shopee.co.id
 0.0.0.0 player.aniview.com
 0.0.0.0 player.ivideosmart.com
@@ -6191,6 +6250,7 @@
 0.0.0.0 sdkapi.wifimap.io
 0.0.0.0 sdk.atomhike.com
 0.0.0.0 sdk.bignox.com
+0.0.0.0 sdk.buy.glosalepilot.com
 0.0.0.0 sdkconf.avlyun.com
 0.0.0.0 sdk-exchange.startappservice.com
 0.0.0.0 sdk.hdvietpro.com
@@ -6279,6 +6339,7 @@
 0.0.0.0 sentry.sumsub.com
 0.0.0.0 sentry.tapsvc.io
 0.0.0.0 sentry.tidio.co
+0.0.0.0 sentry.unknownworlds.com
 0.0.0.0 servebom.com
 0.0.0.0 serve.pubapp.network
 0.0.0.0 server.boyuanhulian.com
@@ -6990,6 +7051,7 @@
 0.0.0.0 tinder.com
 0.0.0.0 t-in.ls.glanceapis.com
 0.0.0.0 tips-res-dra.dbankcdn.com
+0.0.0.0 tips.wetvinfo.com
 0.0.0.0 tistory1.daumcdn.net
 0.0.0.0 tistory.com
 0.0.0.0 tjinit-global.babybus.com
@@ -7373,6 +7435,7 @@
 0.0.0.0 uwnxnw-launches.appsflyersdk.com
 0.0.0.0 uwnxnw.launches.appsflyersdk.com
 0.0.0.0 uwnxnw-register.appsflyersdk.com
+0.0.0.0 uykt.golddrama.com
 0.0.0.0 uym9cg-cdn-settings.appsflyersdk.com
 0.0.0.0 uym9cg.cdn-settings.appsflyersdk.com
 0.0.0.0 uym9cg-conversions.appsflyersdk.com
@@ -7496,6 +7559,7 @@
 0.0.0.0 von.lol
 0.0.0.0 vor.lol
 0.0.0.0 vos.line-scdn.net
+0.0.0.0 vpic-cover.wetvinfo.com
 0.0.0.0 v.pinimg.com
 0.0.0.0 vpnrice.com
 0.0.0.0 vp.otidapi.com
@@ -8021,6 +8085,7 @@
 0.0.0.0 www.exonhack.com
 0.0.0.0 www.extremetracking.com
 0.0.0.0 www.ezojs.com
+0.0.0.0 www.eztechglobal.com
 0.0.0.0 www.faceplay.cc
 0.0.0.0 www.fastspring.com
 0.0.0.0 www.fbads-tools.com
@@ -8096,6 +8161,7 @@
 0.0.0.0 www.kagaitiktok.net
 0.0.0.0 www.kastking.top
 0.0.0.0 www.king.com
+0.0.0.0 www.klikmania.net
 0.0.0.0 www.knd32k.com
 0.0.0.0 www.kommo.com
 0.0.0.0 www.kustens.com

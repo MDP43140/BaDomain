@@ -119,6 +119,8 @@
 0.0.0.0 acsegateway.fe2.apple-dns.net
 0.0.0.0 aidc.apple.com
 0.0.0.0 aidc.origin-apple.com.akadns.net
+0.0.0.0 albert.apple.com
+0.0.0.0 albert.v.aaplimg.com
 0.0.0.0 amd-infra.itunes.apple.com
 0.0.0.0 amd-infra.itunes.g.aaplimg.com
 0.0.0.0 amp-account.apps.apple.com
@@ -170,6 +172,7 @@
 0.0.0.0 buy.itunes-apple.com.akadns.net
 0.0.0.0 buy-lb.itunes-apple.com.akadns.net
 0.0.0.0 cabana-server.cdn-apple.com
+0.0.0.0 cabana-server.g.aaplimg.com
 0.0.0.0 caldav.fe2.apple-dns.net
 0.0.0.0 caldav.fe.apple-dns.net
 0.0.0.0 caldav.icloud.com
@@ -181,6 +184,7 @@
 0.0.0.0 captive-geo.origin-apple.com.akadns.net
 0.0.0.0 cdn2.smoot.apple.com
 0.0.0.0 cdn.apple-mapkit.com
+0.0.0.0 cdn-h3.g.aaplimg.com
 0.0.0.0 cdn-icloud-content.g.aaplimg.com
 0.0.0.0 cdn.smoot.g.aaplimg.com
 0.0.0.0 cdsassets.apple.com
@@ -189,6 +193,7 @@
 0.0.0.0 cl1.g.aaplimg.com
 0.0.0.0 cl2.apple.com
 0.0.0.0 cl2.apple.com.c.footprint.net
+0.0.0.0 cl2-cdn.origin-apple.com.akadns.net
 0.0.0.0 cl2-cdn-us.origin-apple.com.akadns.net
 0.0.0.0 cl2.g.aaplimg.com
 0.0.0.0 cl3.apple.com
@@ -285,6 +290,7 @@
 0.0.0.0 gsp33-ssl.ls.apple.com
 0.0.0.0 gsp35-ssl.ls.apple.com
 0.0.0.0 gsp36-ssl.ls.apple.com
+0.0.0.0 gsp36-ssl.ls-apple.com.akadns.net
 0.0.0.0 gsp3-ssl.ls.apple.com
 0.0.0.0 gsp40-ssl.ls.apple.com
 0.0.0.0 gsp41-ssl.ls.apple.com
@@ -292,6 +298,7 @@
 0.0.0.0 gsp46-ssl.ls.apple.com
 0.0.0.0 gsp47-ssl.ls.apple.com
 0.0.0.0 gsp47-ssl.ls-apple.com.akadns.net
+0.0.0.0 gsp51-ssl-ds.ls-apple.com.akadns.net
 0.0.0.0 gsp51-ssl.ls.apple.com
 0.0.0.0 gsp52-ssl.ls.apple.com
 0.0.0.0 gsp53-ssl.ls.apple.com
@@ -310,7 +317,9 @@
 0.0.0.0 gsp85-ssl.ls2-apple.com.akadns.net
 0.0.0.0 gsp85-ssl.ls.apple.com
 0.0.0.0 gsp99-ssl.ls.apple.com
+0.0.0.0 gsp9-ssl.apple.com
 0.0.0.0 gsp9-ssl.ls.apple.com
+0.0.0.0 gsp9-ssl.ls-apple.com.akadns.net
 0.0.0.0 gspe11-ssl.ls.apple.com
 0.0.0.0 gspe12-ssl.ls.apple.com
 0.0.0.0 gspe19-2-ssl.ls.apple.com
@@ -326,6 +335,7 @@
 0.0.0.0 gspe72-ssl.ls.apple.com
 0.0.0.0 gspe76-ssl.ls.apple.com
 0.0.0.0 gspe79-cdn.g.aaplimg.com
+0.0.0.0 gspe79-ssl-96.ls.apple.com
 0.0.0.0 gspe79-ssl.ls.apple.com
 0.0.0.0 gspe79-ssl.ls.apple.com.edgesuite.net
 0.0.0.0 gspe85-ssl.g.aaplimg.com
@@ -338,6 +348,7 @@
 0.0.0.0 guzzoni-apple-com.v.aaplimg.com
 0.0.0.0 h3.apis.apple.map.fastly.net
 0.0.0.0 h3.media.apple.map.fastly.net
+0.0.0.0 iadsdk.apple.com
 0.0.0.0 icloud.com
 0.0.0.0 identity.ess.apple.com
 0.0.0.0 identity.ess-apple.com.akadns.net
@@ -389,6 +400,7 @@
 0.0.0.0 mesu-cdn.origin-apple.com.akadns.net
 0.0.0.0 mesu.g.aaplimg.com
 0.0.0.0 metricsedge-continent-wrr.v.aaplimg.com
+0.0.0.0 metrics.icloud.com
 0.0.0.0 musicstatus.itunes.apple.com
 0.0.0.0 mzstatic.com
 0.0.0.0 mzstorekit.g.aaplimg.com
@@ -396,6 +408,7 @@
 0.0.0.0 mzstorekit.lb-apple.com.akadns.net
 0.0.0.0 netcts.cdn-apple.com
 0.0.0.0 netcts.cdn-apple.com.edgesuite.net
+0.0.0.0 news-edge.apple.com
 0.0.0.0 ocsp2.apple.com
 0.0.0.0 ocsp2.g.aaplimg.com
 0.0.0.0 ocsp2-lb.apple.com.akadns.net
@@ -404,6 +417,8 @@
 0.0.0.0 ontology.health.apple.com
 0.0.0.0 p101-sharedstreams.icloud.com
 0.0.0.0 p105-sharedstreams.icloud.com
+0.0.0.0 p106-acsegateway.icloud.com
+0.0.0.0 p106-fmip.icloud.com
 0.0.0.0 p108-acsegateway.icloud.com
 0.0.0.0 p108-fmf.icloud.com
 0.0.0.0 p108-fmfmobile.icloud.com
@@ -428,6 +443,9 @@
 0.0.0.0 p130-keyvalueservice.icloud.com
 0.0.0.0 p13-caldav.icloud.com
 0.0.0.0 p13-escrowproxy.icloud.com
+0.0.0.0 p149-acsegateway.icloud.com
+0.0.0.0 p149-caldav.icloud.com
+0.0.0.0 p149-escrowproxy.icloud.com
 0.0.0.0 p149-quota.icloud.com
 0.0.0.0 p14-caldav.icloud.com
 0.0.0.0 p14-escrowproxy.icloud.com
@@ -495,6 +513,7 @@
 0.0.0.0 p37-escrowproxy.icloud.com
 0.0.0.0 p38-caldav.icloud.com
 0.0.0.0 p38-escrowproxy.icloud.com
+0.0.0.0 p39-buy.itunes.apple.com
 0.0.0.0 p39-caldav.icloud.com
 0.0.0.0 p39-escrowproxy.icloud.com
 0.0.0.0 p40-caldav.icloud.com
@@ -628,6 +647,7 @@
 0.0.0.0 sf-api-token-service.itunes.apple.com
 0.0.0.0 sgsin8.ce.apple-dns.net
 0.0.0.0 sgsin8.icloud-content.com
+0.0.0.0 smoot-api-spotlight-aaps1b.v.aaplimg.com
 0.0.0.0 smoot-feedback.v.aaplimg.com
 0.0.0.0 smoot-searchv2-aaps1a.v.aaplimg.com
 0.0.0.0 smoot-searchv2-aaps1b.v.aaplimg.com

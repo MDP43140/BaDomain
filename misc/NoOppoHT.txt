@@ -74,6 +74,7 @@ browser-api-id.heytapmobile.com
 browserfiles.heytapimg.com
 browser-i-gl.heytapmobile.com
 browser-sdk-gl.heytapmobile.com
+calculator-api-sg.allawnos.com
 cdopic.f.oppomobile.com
 cdp-common-gl.heytapmobile.com
 cdp-common-id.heytapmobile.com
@@ -143,6 +144,7 @@ conn-service-us-05.allawnos.com
 conn-service-us-07.allawnos.com
 datasec-kmsex-cn.heytapmobi.com
 datasec-kmsex-sg.heytapmobi.com
+dcc-awareness-sg.heytapmobile.com
 dc-conf-sg.heytapmobile.com
 dc-dragate-sg.heytapmobile.com
 dc.foreign.oppomobile.com
@@ -220,6 +222,7 @@ i5.weather.oppomobile.com
 i6f.weather.oppomobile.com
 i6.weather.oppomobile.com
 i-cn01a.ocloud.heytapmobi.com
+icon-auto.allawnofs.com
 icosa-eu.coloros.com
 icosa-service-eu.allawnos.com
 icosa-service-in.allawnos.com
@@ -277,6 +280,7 @@ i-sg01a.ocloud.heytapmobi.com
 i-sg.browser.heytapmobile.com
 i-th.browser.oppomobile.com
 iweather.oppomobile.com
+jits-api-sg.heytapmobile.com
 lang-f.coloros.com
 languagef.coloros.com
 location.apps.oppomobile.com
@@ -306,6 +310,7 @@ moa-upload-eu.allawnos.com
 moa-upload-in.allawnos.com
 moa-upload-sg.allawnos.com
 moa-upload-us.allawnos.com
+module-dist-sg.allawnos.com
 my-store.oppomobile.com
 newds01.myoppo.com
 newds02.myoppo.com
@@ -404,6 +409,8 @@ store-quic-my.heytapmobile.com
 stuck-cn.dc.oppomobile.com
 stuck-eu.dc.oppomobile.com
 stuck-sg.dc.oppomobile.com
+tel-num-id.heytapmobile.com
+tel-num-sg.heytapdl.com
 themeimg.heytapimg.com
 theme-magazine-gl-01.heytapimg.com
 t-id.ads.heytapmobile.com
