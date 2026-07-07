@@ -110,6 +110,7 @@ while IFS= read -r line;do
 		*.moonton.com|\
 		*.moonton.org|\
 		*.moontonsafe.com|\
+		*.moontontech.com|\
 		*.youngjoygame.com|\
 		*.yuanzhanapp.com)
 			echo "$line" >> ${service_output_folder}/NoMLBB.tmp
@@ -237,6 +238,8 @@ while IFS= read -r line;do
 		*.tiktokv.com|\
 		*.tiktokv.com.edgekey.net|\
 		*.tiktokv.com.edgesuite.net|\
+		*.tiktokpangle.us|\
+		*.tiktokpangle-b.us|\
 		*.tiktokv.us|\
 		*.toutiao50.com|\
 		*.toutiaocloud.com|\

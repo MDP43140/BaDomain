@@ -12,16 +12,15 @@
 TMP_BLACKLIST_SINKHOLE="$(mktemp -p .)"
 
 sed -E 's/.*dnsmasq\[[0-9]+\]: //' $* \
- | grep -E '^.+ .+ is .+$' \
  | grep -F -e '0.0.0.0' -e '127.0.0.1' \
+ | grep -E '^.+ .+ is .+$' \
  | sed -E 's/^.+ (.+) is .+$/\1/' \
  | sed '/\.arpa/d;/\.local/d' \
  | sort -fuib > "${TMP_BLACKLIST_SINKHOLE}";
 
 sed -E 's/.*dnsmasq\[[0-9]+\]: //' $* \
- | grep -E '^(query\[A\]|query\[AAAA\]|forwarded|reply) [^ ]+ (from|to|is) .+$' \
  | grep -Fv -e 'reply error ' \
- | sed -E 's/^(query\[A\]|query\[AAAA\]|forwarded|reply) ([^ ]+) (from|to|is) .+$/\2/' \
+ | sed -En 's/^(query\[A\]|query\[AAAA\]|forwarded|reply) ([^ ]+) (from|to|is) .+$/\2/p' \
  | sed '/\.arpa/d;/\.local/d' \
  | grep -vxF -f "${TMP_BLACKLIST_SINKHOLE}" \
  | sort -fuib;
