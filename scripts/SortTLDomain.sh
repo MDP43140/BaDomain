@@ -9,7 +9,7 @@
 	echo "TODO: preserve comment"
 	echo "Usage: $0 [files]"
 }
-grep '^#' $*
+#grep '^#' $* # TODO: prepend comments while being able to work with stdin
 grep -v '^#' $* \
  | awk -F. '{ for (i = NF;i > 0;i--){ printf $(i) "." } print "" }' \
  | sort -fui \

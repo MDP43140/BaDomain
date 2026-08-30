@@ -509,6 +509,7 @@ api77-normal-c-useast1a.tiktokv.com
 api9-core-c-alisg.tiktokv.com
 api9-normal-c-alisg.tiktokv.com
 api9-normal-c-useast1a.tiktokv.com
+api-access.pangolin-sdk-toutiao-b.com
 api.amemv.com
 api.amemv.com.bytedns.net
 api.amemv.com.w.kunluncan.com
@@ -924,6 +925,7 @@ corporate.toutiao.com
 cp.bytedance.net
 cp-rp16-normal-alisg.tiktokv.com
 cp-rp16-normal-useast1a.tiktokv.com
+cp-rp.tiktokv.com
 c.pstatp.com
 c.pstatp.com.w.cdngslb.com
 crash.snssdk.com
@@ -1898,6 +1900,8 @@ lf16-mt-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com
 lf16-muse-va.ibytedtos.com.edgekey.net
 lf16-music-sign.tiktokcdn.com
+lf16-scmcdn.oecstatic.com
+lf16-secsdk.bitssec.com
 lf16-tcs.tiktokcdn.com
 lf16-tiktok-common.ibytedos.com
 lf16-tiktok-common.ibytedtos.com
@@ -1977,6 +1981,7 @@ lf9-tk-tos.tiktokcdn.com
 lf-cdn.trae.ai
 lf-cdn.trae.com.cn
 lf-c-flwb.bytetos.com
+lf-cognition-tos.oecstatic.com
 lf-cold.snssdk.com
 lf-c.snssdk.com
 lf-c.snssdk.com.w.kunluncan.com
@@ -2781,9 +2786,11 @@ p16-musical-va.ibyteimg.com
 p16-musical-va.ibyteimg.com.edgesuite.net
 p16-novel-sg.ibyteimg.com
 p16-oec-common-useast2a.ibyteimg.com
+p16-oec-common-va.tiktokcdn.com
 p16-oec-general.tiktokcdn.com
 p16-oec-sg.ibyteimg.com
 p16-oec-sg.ibyteimg.com.edgesuite.net
+p16-oec-university-sign-sg.ibyteimg.com
 p16-oec-va.ibyteimg.com
 p16-oec-va.ibyteimg.com.edgesuite.net
 p16.pstatp.com
@@ -4175,6 +4182,7 @@ sf19-geckocdn.tiktokcdn.com
 sf19-music-sign.tiktokcdn.com
 sf19-scmcdn-sg.ibytedtos.com
 sf19-scmcdn-va.ibytedtos.com
+sf19-static.i18n-pglstatp.com
 sf19-teko.tiktokcdn.com
 sf19-va.tiktokcdn.com
 sf19-webcast.hypstarcdn.com
@@ -4215,6 +4223,7 @@ sf3-dycdn-tos.pstatp.com.w.kunlunle.com
 sf3-dycdn-tos.pstatp.com.xi.zwtianshangm.com
 sf3-eacdn-tos.pstatp.com
 sf3-eecdn-tos.pstatp.com
+sf3-fe-tos.pglstatp-toutiao.com
 sf3-hscdn-tos.pstatp.com
 sf3-hscdn-tos.pstatp.com.w.kunlunle.com
 sf3-hscdn-tos.pstatp.com.xi.zwtianshangm.com
@@ -4822,6 +4831,7 @@ u954.v.bsgslb.com
 u9551.v.bsgslb.com
 u999.v.bsgslb.com
 u.bytedance.net
+ugattribution-boot.tiktokv.com
 ugattribution-sg.tiktokv.com
 ugattribution-sg.tiktokv.com.edgekey.net
 ug-overseas.snssdk.com

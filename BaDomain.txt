@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 07.07.2026
+# Version: 30.08.2026
 # Update: 1 day
 #
 
@@ -13,6 +13,9 @@
 0.datadog.pool.ntp.org
 0e11356f-dnsotls-ds.metric.gstatic.com
 0ea631b8-dnsotls-ds.metric.gstatic.com
+0.fb.stg.content-loader.com
+0.fb.stg.html-load.com
+0.html-load.com
 0kczn7.l0fwny.com
 0.news20.biz
 0smfoo0924y8.puscomosca.com
@@ -25,6 +28,7 @@
 1111210941.rsc.cdn77.org
 114dns.com
 1186-ti.cloud.v-key.com
+1186-tla.cloud.v-key.com
 11b0ed9125.31433ebfed.com
 11uj0m-cdn-settings.appsflyersdk.com
 11uj0m.cdn-settings.appsflyersdk.com
@@ -74,6 +78,8 @@
 1.datadog.pool.ntp.org
 1dc8370f-dnsotls-ds.metric.gstatic.com
 1fa0bd2e-2340-43b9-aa0c-2288ad78a34b.goliath.atlas.bi.miniclippt.com
+1.fb.stg.content-loader.com
+1.fb.stg.html-load.com
 1fcsll-cdn-settings.appsflyersdk.com
 1fcsll.cdn-settings.appsflyersdk.com
 1fcsll-conversions.appsflyersdk.com
@@ -86,6 +92,7 @@
 1fcsll.launches.appsflyersdk.com
 1fcsll-register.appsflyersdk.com
 1g5k5w.com
+1.html-load.com
 1q2w3e4r.vmfreevideo.top
 1r4zu.com
 1.ssiloc.com
@@ -116,6 +123,8 @@
 2d3f7ea4-dnsotls-ds.metric.gstatic.com
 2.datadog.pool.ntp.org
 2eeb9ec4-dnsotls-ds.metric.gstatic.com
+2.fb.stg.content-loader.com
+2.fb.stg.html-load.com
 2gbelh-attr.appsflyersdk.com
 2gbelh-cdn-settings.appsflyersdk.com
 2gbelh.cdn-settings.appsflyersdk.com
@@ -190,6 +199,8 @@
 3c06fe08-dnsotls-ds.metric.gstatic.com
 3.datadog.pool.ntp.org
 3dsintegrator.com
+3.fb.stg.content-loader.com
+3.fb.stg.html-load.com
 3frow3-cdn-settings.appsflyersdk.com
 3frow3.cdn-settings.appsflyersdk.com
 3frow3-conversions.appsflyersdk.com
@@ -203,6 +214,9 @@
 3frow3-register.appsflyersdk.com
 3leap.com
 3lift.com
+3xceuv-cdn-settings.appsflyersdk.com
+3xceuv-inapps.appsflyersdk.com
+3xceuv-launches.appsflyersdk.com
 3.ygti905ffth6.com
 3zdgyzh1d4.execute-api.eu-west-1.amazonaws.com
 40.ygti905ffth6.com
@@ -222,6 +236,8 @@
 46.ygti905ffth6.com
 47bf67cf-dnsotls-ds.metric.gstatic.com
 47.ygti905ffth6.com
+48757387-dnsotls-ds.metric.gstatic.com
+48b99a91-dnsotls-ds.metric.gstatic.com
 48.ygti905ffth6.com
 49deb5fb-dnsotls-ds.metric.gstatic.com
 49.ygti905ffth6.com
@@ -229,7 +245,10 @@
 4bd5fc97-dnsotls-ds.metric.gstatic.com
 4ced22ca066d4ca4a7726c9afff8c039.us-east-1.aws.found.io
 4cinsights.com
+4e8139bf-dnsotls-ds.metric.gstatic.com
 4e924021-dnsotls-ds.metric.gstatic.com
+4.fb.stg.content-loader.com
+4.fb.stg.html-load.com
 4gnetfree.top
 4g-net.top
 4gnet.top
@@ -305,11 +324,15 @@
 5a367798a7fc7f8fedc172bc6e87327b.safeframe.googlesyndication.com
 5b0988e595225.cdn.sohucs.com
 5bac155e-dnsotls-ds.metric.gstatic.com
+5bfkuq.inapps.appsflyersdk.com
+5bfkuq.launches.appsflyersdk.com
 5c7ffba0-dnsotls-ds.metric.gstatic.com
 5e114dde-dnsotls-ds.metric.gstatic.com
 5e6fdc2f-dnsotls-ds.metric.gstatic.com
 5ec92.playfabapi.com
 5f6504081150c3e10955-76c53c509b81e18d2fa06f2fcee90ade.r26.cf2.rackcdn.com
+5.fb.stg.content-loader.com
+5.fb.stg.html-load.com
 5ivy3ikkt.com
 5kapai.com
 5nqasi7c9a4zoeozxem4x62ndxaj51720356745.nuid.imrworldwide.com
@@ -318,6 +341,7 @@
 5yme8j.xxobs5.com
 602467.theirbellstudio.co
 604dc41a-dnsotls-ds.metric.gstatic.com
+605ffa74-dnsotls-ds.metric.gstatic.com
 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 613d89bc71.com
 61b2e82c-dnsotls-ds.metric.gstatic.com
@@ -327,10 +351,19 @@
 66a42413-dnsotls-ds.metric.gstatic.com
 6ac2a928-dnsotls-ds.metric.gstatic.com
 6d06a247-dnsotls-ds.metric.gstatic.com
+6e1db8fc-dnsotls-ds.metric.gstatic.com
 6e240ba2-dnsotls-ds.metric.gstatic.com
+6.fb.stg.content-loader.com
+6.fb.stg.html-load.com
+6ipwiy-cdn-settings.appsflyersdk.com
+6ipwiy.cdn-settings.appsflyersdk.com
 6ipwiy.conversions.appsflyersdk.com
+6ipwiy-dlsdk.appsflyersdk.com
 6ipwiy.dlsdk.appsflyersdk.com
 6ipwiy.gcdsdk.appsflyersdk.com
+6ipwiy.inapps.appsflyersdk.com
+6ipwiy-launches.appsflyersdk.com
+6ipwiy.launches.appsflyersdk.com
 6mbr.com
 6mqlzt-cdn-settings.appsflyersdk.com
 6mqlzt.cdn-settings.appsflyersdk.com
@@ -349,6 +382,7 @@
 756964-android-ds.metric.gstatic.com
 7660e42567.edeb873154.com
 769b53a4-dnsotls-ds.metric.gstatic.com
+76b23cf4-dnsotls-ds.metric.gstatic.com
 777143a85df57285154f5648a3583ce3.safeframe.googlesyndication.com
 783e864647fbd74016ee6-b833d3d65b54a25fb1edea23f809bbda.ssl.cf1.rackcdn.com
 79423.analytics.edgekey.net
@@ -357,11 +391,14 @@
 7b2ca39378.com
 7bbf6562-dnsotls-ds.metric.gstatic.com
 7bc9a046-dnsotls-ds.metric.gstatic.com
+7c617728-dnsotls-ds.metric.gstatic.com
 7cefc66074df4dad.ingest.threatcast.guardsquare.com
 7CwQ6q-dnsotls-ds.metric.gstatic.com
 7d8b004a-dnsotls-ds.metric.gstatic.com
 7e02503a-dnsotls-ds.metric.gstatic.com
 7ecc3815-dnsotls-ds.metric.gstatic.com
+7.fb.stg.content-loader.com
+7.fb.stg.html-load.com
 7fe11165-dnsotls-ds.metric.gstatic.com
 7L2yL6-dnsotls-ds.metric.gstatic.com
 7.ygti905ffth6.com
@@ -369,6 +406,7 @@
 80c04aaf-dnsotls-ds.metric.gstatic.com
 818c313d-dnsotls-ds.metric.gstatic.com
 81e98c5a38.aac585e70c.com
+826b2b34-dnsotls-ds.metric.gstatic.com
 83aa4bfc856ade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 83aa4bfc856eade7f303-0f4e07e349f9b9e94c6ad900f0ead1f7.r91.cf2.rackcdn.com
 83ec6eb409.35b889100e.com
@@ -384,6 +422,9 @@
 8db4fde90b.com
 8DmO84-dnsotls-ds.metric.gstatic.com
 8ed343a6-dnsotls-ds.metric.gstatic.com
+8ee01d51-dnsotls-ds.metric.gstatic.com
+8.fb.stg.content-loader.com
+8.fb.stg.html-load.com
 8.ygti905ffth6.com
 9199.us
 91.com
@@ -394,6 +435,7 @@
 9525cdcb-dnsotls-ds.metric.gstatic.com
 984ebe8f-dnsotls-ds.metric.gstatic.com
 98729062-dnsotls-ds.metric.gstatic.com
+98fe7547-dnsotls-ds.metric.gstatic.com
 9933gg.com
 9a8d27bd-dnsotls-ds.metric.gstatic.com
 9apps.com
@@ -402,6 +444,12 @@
 9ce8c6e7-dnsotls-ds.metric.gstatic.com
 9d4c473e-dnsotls-ds.metric.gstatic.com
 9da1d3a7-dnsotls-ds.metric.gstatic.com
+9f8a7d18-dnsotls-ds.metric.gstatic.com
+9.fb.stg.content-loader.com
+9.fb.stg.html-load.com
+9.html-load.com
+9ow08s-inapps.appsflyersdk.com
+9ow08s-launches.appsflyersdk.com
 9y9qxfox.tweb.sched.ovscdns.com
 9.ygti905ffth6.com
 a01.uadexchange.com
@@ -447,6 +495,7 @@ a.adskeeper.com
 aaid.umeng.com
 a.applovin.com
 aa.unioneeu.com
+ab7045bd-dnsotls-ds.metric.gstatic.com
 abackup01.xyz
 abadidana.com
 ab.chatgpt.com
@@ -832,7 +881,6 @@ api.4shared.com
 api.4sync.com
 api-7739323866949324662-136565.appspot.com
 api.9apps.com
-api-access.pangolin-sdk-toutiao-b.com
 apiact.imoim.net
 api-ad-adapter-ff.wps.com
 api-ad-adapter-sg.wps.com
@@ -1461,6 +1509,7 @@ barrons.com
 baseclickflow.com
 batchlogging4-noneu.truecaller.com
 bazaarvoice.com
+bb6a79ff-dnsotls-ds.metric.gstatic.com
 bbb.bacc1688.com
 bbckdl.mfcewkrob.com
 bbg.sc.omtrdc.net
@@ -1514,9 +1563,11 @@ betcjeejoh.donlgx.net
 betdgh.donlgx.net
 betowy.i45x0w.com
 b.everestop.io
+beyondwickedmapping.org
 bf19405wzd.bf.dynatrace.com
 bf54607cnw.bf.dynatrace.com
 bfd2d865a7.9e1852531b.com
+bfo9j9-cdn-settings.appsflyersdk.com
 b.hatena.ne.jp
 bhproxies.com
 bibblio.org
@@ -1659,6 +1710,7 @@ c02f.app.slickstream.com
 c09cdcdf-dnsotls-ds.metric.gstatic.com
 c0.wp.com
 c1.rfihub.net
+c2gbfo-inapps.appsflyersdk.com
 c2.rfihub.net
 c3d1c026fa4f.cdn4.forter.com
 c3.rfihub.net
@@ -1677,6 +1729,7 @@ c4urql-register.appsflyersdk.com
 c51ebdc1-dnsotls-ds.metric.gstatic.com
 c6e2a016-dnsotls-ds.metric.gstatic.com
 c.6sc.co
+c7cocc.cdn-settings.appsflyersdk.com
 c81d3855-dnsotls-ds.metric.gstatic.com
 c8d7a6b7-dnsotls-ds.metric.gstatic.com
 ca7018e6-dnsotls-ds.metric.gstatic.com
@@ -1744,6 +1797,7 @@ catalog-backend.sgdn.io
 catalog.saygames.io
 catalogue.sgdn.io
 cb4c1ea3-dnsotls-ds.metric.gstatic.com
+cb8bc13e-dnsotls-ds.metric.gstatic.com
 cbsi.com
 cbsipv4.shuzilm.cn
 cbs.wondershare.com
@@ -2400,6 +2454,7 @@ d4a56af14c0844c5846c0a43875e2650.js.ubembed.com
 d6b3852e-dnsotls-ds.metric.gstatic.com
 d6c30-6de1a.pushwoosh.com
 d847121e20a3e74d92de79282d9bec73.safeframe.googlesyndication.com
+d8b3388f-dnsotls-ds.metric.gstatic.com
 d99d0dc6-dnsotls-ds.metric.gstatic.com
 dable.io
 dac.contextads.live
@@ -2413,6 +2468,7 @@ danabaguslah.com
 dana.ingest.threatcast.guardsquare.com
 dana.threatcast.guardsquare.com
 d.applovin.com
+d.applvn.com
 das.uadexchange.com
 data00.adlooxtracking.com
 data6.video.iqiyi.com
@@ -2732,6 +2788,7 @@ econenectedith.info
 ecs-110-238-109-184.compute.hwclouds-dns.com
 eCSPkN-dnsotls-ds.metric.gstatic.com
 ed9605fe75.7b2ca39378.com
+edd0768f-dnsotls-ds.metric.gstatic.com
 edge1.certona.net
 edge-api.meiqia.com
 edgecastcdn.net
@@ -2971,7 +3028,9 @@ fast.wistia.com
 favicon.yandex.net
 fbads-tools.com
 fbappi.co
+fb.content-loader.com
 fbh20.indosatooredoo.com
+fb.html-load.com
 fblhbt-cdn-settings.appsflyersdk.com
 fblhbt.cdn-settings.appsflyersdk.com
 fblhbt-conversions.appsflyersdk.com
@@ -2983,6 +3042,9 @@ fblhbt.inapps.appsflyersdk.com
 fblhbt-launches.appsflyersdk.com
 fblhbt.launches.appsflyersdk.com
 fblhbt-register.appsflyersdk.com
+fb.stg.content-loader.com
+fb.stg.html-load.com
+fc4fa865-dnsotls-ds.metric.gstatic.com
 f.cstpersl.com
 fcu5wl-cdn-settings.appsflyersdk.com
 fcu5wl.cdn-settings.appsflyersdk.com
@@ -4095,6 +4157,7 @@ js.zohocdn.com
 jtracking-gate.lulusoft.com
 juicyads.com
 jukebox.pathfactory.com
+jump.offerclk.net
 jump.ogtrk.net
 junglefrog.com
 jungroup.com
@@ -4735,6 +4798,7 @@ mqtt.transsion-os.com
 ms4.applovin.com
 ms4.applvn.com
 ms.4sync.com
+ms.applvn.com
 ms.bidence.net
 ms.bignox.com
 msbipz-cdn-settings.appsflyersdk.com
@@ -5251,6 +5315,7 @@ ofy77s-conversions.appsflyersdk.com
 ogads-pa.clients6.google.com
 ogepodownload.mediatek.com
 o.glance-cdn.com
+ogmobi-elb3.go2cloud.org
 oi36dh-dnsotls-ds.metric.gstatic.com
 o-iab.mediation.unity3d.com
 o.iads.unity3d.com
@@ -5829,8 +5894,10 @@ q8f4f8w7.stackpathcdn.com
 qaistats.studyquicks.com
 qanda-storage.s3.amazonaws.com
 qb0bi1a7.tweb.sched.ovscdns.com
+qbrere.cdn-settings.appsflyersdk.com
 qbrere.launches.appsflyersdk.com
 qbz.donlgx.net
+qcc.qualcomm.com
 qcloud.com
 qcloudimg.com
 qcloudimg.tencentcs.com
@@ -6039,6 +6106,7 @@ risk.clearbit.com
 risksdk.ihago.net
 river-mobile.data.ea.com
 riversnails.club
+rjnwt4-cdn-settings.appsflyersdk.com
 rkdms.com
 rkgwzfwjgk.com
 rmb.ops.beeline.ru
@@ -6108,6 +6176,7 @@ rs.mail.ru
 rs.wshareit.com
 rta.etm.tech
 rt.applovin.com
+rt.applvn.com
 rtb.adentifi.com
 rtb.adinmo.com
 rtb-apac.rtbserve.io
@@ -6366,7 +6435,6 @@ settings.prod.topeleven.com
 setup.jeeng.com
 s.everestop.io
 seznam.cz
-sf3-fe-tos.pglstatp-toutiao.com
 sfdict.com
 sfepodownload.mediatek.com
 sf.ezoiccdn.com
@@ -6794,6 +6862,7 @@ streaming.split.io
 streamrail.net
 strn.rise-ai.com
 str.rise-ai.com
+sts.applovin.com
 stun.ssp.rambler.ru
 stup5.appmeasurements.com
 stupidityscream.com
