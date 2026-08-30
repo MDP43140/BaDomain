@@ -5897,7 +5897,6 @@
 0.0.0.0 qbrere.cdn-settings.appsflyersdk.com
 0.0.0.0 qbrere.launches.appsflyersdk.com
 0.0.0.0 qbz.donlgx.net
-0.0.0.0 qcc.qualcomm.com
 0.0.0.0 qcloud.com
 0.0.0.0 qcloudimg.com
 0.0.0.0 qcloudimg.tencentcs.com

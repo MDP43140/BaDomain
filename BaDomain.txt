@@ -5897,7 +5897,6 @@ qb0bi1a7.tweb.sched.ovscdns.com
 qbrere.cdn-settings.appsflyersdk.com
 qbrere.launches.appsflyersdk.com
 qbz.donlgx.net
-qcc.qualcomm.com
 qcloud.com
 qcloudimg.com
 qcloudimg.tencentcs.com
