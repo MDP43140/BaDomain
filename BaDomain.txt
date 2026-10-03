@@ -1,7 +1,7 @@
 #
 # Name: BaDomain
 # Desc: An "add-on" to block even more domains that existing lists cover already
-# Version: 30.08.2026
+# Version: 03.10.2026
 # Update: 1 day
 #
 
@@ -775,6 +775,7 @@ analytics.gadsme.com
 analytics.githubassets.com
 analytics.inmotionhosting.com
 analytics.kaltura.com
+analytics.laxamentum.tech
 analytics.mncdigital.id
 analytics.neliti.com
 analytics.news-global.cloud

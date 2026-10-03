@@ -21,6 +21,7 @@
 0.0.0.0 cycdn.ml.youngjoygame.com
 0.0.0.0 edge-txcdn.ml.youngjoygame.com
 0.0.0.0 face.yuanzhanapp.com
+0.0.0.0 family.moonton.com
 0.0.0.0 global-login.ml.mlbangbang.com
 0.0.0.0 global-login.ml.youngjoygame.com
 0.0.0.0 global-report.ml.youngjoygame.com

@@ -21,6 +21,7 @@ bi.moonton.com
 cycdn.ml.youngjoygame.com
 edge-txcdn.ml.youngjoygame.com
 face.yuanzhanapp.com
+family.moonton.com
 global-login.ml.mlbangbang.com
 global-login.ml.youngjoygame.com
 global-report.ml.youngjoygame.com
